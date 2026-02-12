@@ -263,6 +263,7 @@ function getStreamRegion(item) {
 function refreshStreamFilterOptions() {
   const categorySelect = document.getElementById('streamCategoryFilter');
   const regionSelect = document.getElementById('streamRegionFilter');
+  const keywordInput = document.getElementById('streamKeywordFilter');
 
   if (!categorySelect || !regionSelect) {
     return;
@@ -284,18 +285,50 @@ function refreshStreamFilterOptions() {
 
   selectedStreamCategory = categorySelect.value;
   selectedStreamRegion = regionSelect.value;
+
+  if (keywordInput) {
+    keywordInput.value = selectedStreamQuery;
+  }
 }
 
 function applyStreamFilters() {
+  const queryTokens = selectedStreamQuery
+    .toLowerCase()
+    .split(/\s+/)
+    .filter(Boolean);
+
   filteredStreamItems = streamItems.filter((item) => {
     const category = getStreamCategory(item);
     const region = getStreamRegion(item);
     const searchText = `${item.title || ''} ${item.source || ''} ${item.snippet || ''}`.toLowerCase();
     const matchesCategory = selectedStreamCategory === 'all' || category === selectedStreamCategory;
     const matchesRegion = selectedStreamRegion === 'all' || region === selectedStreamRegion;
-    const matchesQuery = !selectedStreamQuery || searchText.includes(selectedStreamQuery);
+    const matchesQuery = !queryTokens.length || queryTokens.every((token) => searchText.includes(token));
     return matchesCategory && matchesRegion && matchesQuery;
   });
+}
+
+function resetStreamFilters() {
+  selectedStreamCategory = 'all';
+  selectedStreamRegion = 'all';
+  selectedStreamQuery = '';
+
+  const categorySelect = document.getElementById('streamCategoryFilter');
+  const regionSelect = document.getElementById('streamRegionFilter');
+  const keywordInput = document.getElementById('streamKeywordFilter');
+
+  if (categorySelect) {
+    categorySelect.value = 'all';
+  }
+  if (regionSelect) {
+    regionSelect.value = 'all';
+  }
+  if (keywordInput) {
+    keywordInput.value = '';
+  }
+
+  streamCurrentPage = 1;
+  renderStreamPage();
 }
 
 async function loadSignals() {
@@ -544,6 +577,7 @@ function initStreamPagination() {
   const streamCategoryFilter = document.getElementById('streamCategoryFilter');
   const streamRegionFilter = document.getElementById('streamRegionFilter');
   const streamKeywordFilter = document.getElementById('streamKeywordFilter');
+  const streamResetFiltersBtn = document.getElementById('streamResetFiltersBtn');
 
   if (!streamPrevBtn || !streamNextBtn) {
     return;
@@ -585,6 +619,12 @@ function initStreamPagination() {
       selectedStreamQuery = streamKeywordFilter.value.trim().toLowerCase();
       streamCurrentPage = 1;
       renderStreamPage();
+    });
+  }
+
+  if (streamResetFiltersBtn) {
+    streamResetFiltersBtn.addEventListener('click', () => {
+      resetStreamFilters();
     });
   }
 }
