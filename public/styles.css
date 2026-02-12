@@ -63,12 +63,12 @@ body {
   inset: 0;
   pointer-events: none;
   z-index: 0;
-  opacity: 0.58;
+  opacity: 0.36;
 }
 
 .sherlock-sigil {
   position: absolute;
-  opacity: 0.22;
+  opacity: 0.16;
 }
 
 .sherlock-sigil.paper {
@@ -198,12 +198,23 @@ body {
   border-bottom: 3px double var(--rule);
   padding-bottom: 0.7rem;
   padding-top: 0.55rem;
+  padding-left: 8.5rem;
+  padding-right: 8.5rem;
 }
 
 .sherlock-decor {
   position: absolute;
   inset: 0;
   pointer-events: none;
+  z-index: 0;
+}
+
+.masthead h1,
+.masthead .edition,
+.masthead .tagline,
+.masthead .edition-stamp {
+  position: relative;
+  z-index: 1;
 }
 
 .decor-paper,
@@ -213,7 +224,7 @@ body {
 .decor-lamp,
 .decor-telescope {
   position: absolute;
-  opacity: 0.58;
+  opacity: 0.64;
 }
 
 .decor-paper {
@@ -234,15 +245,23 @@ body {
 }
 
 .decor-paper.p1 {
-  top: 0.12rem;
-  right: 0.7rem;
+  top: 12%;
+  left: 4%;
 }
 
 .decor-paper.p2 {
-  top: 0.72rem;
-  right: 2.45rem;
-  transform: rotate(10deg);
-  opacity: 0.5;
+  top: 58%;
+  left: 9%;
+}
+
+.decor-paper.p3 {
+  top: 18%;
+  right: 9%;
+}
+
+.decor-paper.p4 {
+  top: 62%;
+  right: 5%;
 }
 
 .decor-paper::after {
@@ -264,15 +283,23 @@ body {
 }
 
 .decor-pen.n1 {
-  left: 0.75rem;
-  top: 0.34rem;
+  left: 15%;
+  top: 22%;
 }
 
 .decor-pen.n2 {
-  left: 2.8rem;
-  top: 1.05rem;
-  transform: rotate(-8deg);
-  opacity: 0.5;
+  left: 20%;
+  top: 72%;
+}
+
+.decor-pen.n3 {
+  right: 20%;
+  top: 26%;
+}
+
+.decor-pen.n4 {
+  right: 15%;
+  top: 74%;
 }
 
 .decor-pen::before {
@@ -292,8 +319,19 @@ body {
 }
 
 .decor-glasses.g1 {
-  right: 3.5rem;
-  bottom: 0.12rem;
+  left: 6%;
+  top: 42%;
+}
+
+.decor-glasses.g2 {
+  right: 7%;
+  top: 44%;
+}
+
+.decor-glasses.g3 {
+  right: 23%;
+  top: 8%;
+  opacity: 0.54;
 }
 
 .decor-glasses::before,
@@ -339,15 +377,23 @@ body {
 }
 
 .decor-book.b1 {
-  left: 5.1rem;
-  top: 0.2rem;
+  left: 24%;
+  top: 10%;
 }
 
 .decor-book.b2 {
-  left: 6.25rem;
-  top: 0.62rem;
-  transform: rotate(5deg);
-  opacity: 0.52;
+  left: 28%;
+  top: 34%;
+}
+
+.decor-book.b3 {
+  right: 28%;
+  top: 12%;
+}
+
+.decor-book.b4 {
+  right: 24%;
+  top: 36%;
 }
 
 .decor-lamp {
@@ -371,14 +417,23 @@ body {
 }
 
 .decor-lamp.l1 {
-  right: 6.2rem;
-  top: 0.2rem;
+  left: 18%;
+  top: 44%;
 }
 
 .decor-lamp.l2 {
-  right: 8rem;
-  top: 0.65rem;
-  opacity: 0.48;
+  left: 25%;
+  top: 64%;
+}
+
+.decor-lamp.l3 {
+  right: 25%;
+  top: 44%;
+}
+
+.decor-lamp.l4 {
+  right: 18%;
+  top: 64%;
 }
 
 .decor-telescope {
@@ -402,8 +457,19 @@ body {
 }
 
 .decor-telescope.t1 {
-  right: 10.3rem;
-  bottom: 0.32rem;
+  left: 10%;
+  top: 82%;
+}
+
+.decor-telescope.t2 {
+  right: 10%;
+  top: 82%;
+}
+
+.decor-telescope.t3 {
+  right: 33%;
+  top: 80%;
+  opacity: 0.56;
 }
 
 @keyframes field-float {
@@ -475,10 +541,10 @@ body {
 @keyframes book-bob {
   0%,
   100% {
-    transform: translateY(0);
+    transform: translateY(0) rotate(0deg);
   }
   50% {
-    transform: translateY(-1px);
+    transform: translateY(-1px) rotate(1deg);
   }
 }
 
@@ -502,6 +568,22 @@ body {
   }
   50% {
     transform: rotate(15deg) translateX(2px);
+  }
+}
+
+@media (max-width: 980px) {
+  .masthead {
+    padding-left: 6.2rem;
+    padding-right: 6.2rem;
+  }
+
+  .decor-book.b3,
+  .decor-book.b4,
+  .decor-lamp.l3,
+  .decor-lamp.l4,
+  .decor-telescope.t3,
+  .decor-glasses.g3 {
+    display: none;
   }
 }
 
@@ -1249,9 +1331,24 @@ body {
     opacity: 0.48;
   }
 
+  .masthead {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+
+  .sherlock-decor {
+    opacity: 0.58;
+  }
+
   .decor-book,
   .decor-lamp,
-  .decor-telescope {
+  .decor-telescope,
+  .decor-paper.p3,
+  .decor-paper.p4,
+  .decor-pen.n3,
+  .decor-pen.n4,
+  .decor-glasses.g2,
+  .decor-glasses.g3 {
     display: none;
   }
 }
