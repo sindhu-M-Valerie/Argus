@@ -119,14 +119,32 @@ body {
 
 .trail-step {
   position: absolute;
-  width: 12px;
-  height: 9px;
-  border-radius: 70% 70% 65% 65%;
-  background: rgba(70, 54, 38, 0.42);
-  box-shadow:
-    -4px -5px 0 -4px rgba(70, 54, 38, 0.42),
-    4px -5px 0 -4px rgba(70, 54, 38, 0.42);
+  width: 14px;
+  height: 18px;
+  border-radius: 65% 65% 55% 55%;
+  background: rgba(64, 48, 33, 0.34);
+  box-shadow: inset 0 -2px 0 rgba(37, 26, 17, 0.18);
   opacity: 0;
+}
+
+.trail-step::before,
+.trail-step::after {
+  content: '';
+  position: absolute;
+  top: -5px;
+  width: 4px;
+  height: 5px;
+  border-radius: 50%;
+  background: rgba(64, 48, 33, 0.34);
+}
+
+.trail-step::before {
+  left: 2px;
+  box-shadow: 8px -1px 0 rgba(64, 48, 33, 0.34);
+}
+
+.trail-step::after {
+  left: 5px;
 }
 
 .trail-step.ts1 { left: 7%; top: 76%; animation: foot-wander-a 12s linear infinite; }
@@ -294,9 +312,7 @@ body {
 }
 
 .paper-shell::after {
-  background:
-    linear-gradient(90deg, transparent 0, transparent 47%, rgba(255, 255, 255, 0.16) 50%, transparent 53%, transparent 100%),
-    linear-gradient(90deg, transparent 0, transparent 48.5%, rgba(73, 58, 39, 0.08) 50%, transparent 51.5%, transparent 100%);
+  background: none;
   mix-blend-mode: multiply;
 }
 
@@ -679,6 +695,20 @@ body {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-size: clamp(1.6rem, 4vw, 2.7rem);
   letter-spacing: 0.08em;
+}
+
+.argus-title-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.argus-logo {
+  width: clamp(1.5rem, 2.6vw, 2.1rem);
+  height: clamp(1.5rem, 2.6vw, 2.1rem);
+  border-radius: 50%;
+  border: 1px solid var(--rule);
+  object-fit: cover;
 }
 
 .news-grid {
