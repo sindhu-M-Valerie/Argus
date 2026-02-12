@@ -645,26 +645,6 @@ body {
   margin-bottom: 0.5rem;
 }
 
-.stream-search-wrap {
-  grid-column: 1 / -1;
-}
-
-.stream-reset-btn {
-  justify-self: end;
-  border: 1px solid var(--rule);
-  background: #f6eddc;
-  color: var(--ink);
-  font-family: inherit;
-  font-size: 0.72rem;
-  border-radius: 999px;
-  padding: 0.16rem 0.52rem;
-  cursor: pointer;
-}
-
-.stream-reset-btn:hover {
-  border-color: #7a6238;
-}
-
 .stream-filters label {
   display: grid;
   gap: 0.12rem;
@@ -681,17 +661,6 @@ body {
   font-size: 0.74rem;
   border-radius: 0.3rem;
   padding: 0.2rem 0.35rem;
-}
-
-.stream-filter-input {
-  width: 100%;
-  border: 1px solid var(--rule);
-  background: #fff9ea;
-  color: var(--ink);
-  font-family: inherit;
-  font-size: 0.74rem;
-  border-radius: 0.3rem;
-  padding: 0.22rem 0.38rem;
 }
 
 .data-mode-status {
