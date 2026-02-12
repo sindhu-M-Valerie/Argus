@@ -464,26 +464,31 @@ async function loadAIEcosystemWatch() {
     {
       title: '📰 New Tool Launch',
       category: 'New AI Moderation Tools',
+      searchQuery: 'AI moderation tools toxicity classifier deepfake detection',
       keywords: ['ai moderation', 'content moderation model', 'moderation tool', 'safety classifier', 'toxicity model', 'osint tool', 'deepfake detection', 'content labeling']
     },
     {
       title: '💰 Startup Funding',
       category: 'Trust & Safety Startups',
+      searchQuery: 'trust and safety startup funding round AI safety SaaS',
       keywords: ['trust and safety startup', 'safety startup', 'funding round', 'series a', 'venture funding', 'seed funding', 'startup raises', 'investment']
     },
     {
       title: '📄 Research Paper Release',
       category: 'Adversarial & Red-Team Research',
+      searchQuery: 'adversarial AI red teaming research paper preprint arxiv',
       keywords: ['red team', 'red-teaming', 'adversarial testing', 'safety eval', 'model evaluation', 'research paper', 'preprint', 'arxiv', 'benchmark']
     },
     {
       title: '🤖 New Agent Deployment',
       category: 'New AI Agents',
+      searchQuery: 'AI safety agent deployment fact checking bot risk scoring model',
       keywords: ['ai safety agent', 'safety assistant', 'agent launch', 'safety copilot', 'guardrail agent', 'fact-checking bot', 'risk scoring model', 'monitoring bot']
     },
     {
       title: '📊 Transparency Report',
       category: 'Platform Transparency Reports',
+      searchQuery: 'platform transparency report enforcement bot detection hate speech removals',
       keywords: ['transparency report', 'enforcement report', 'platform transparency', 'community standards report', 'hate speech removals', 'bot detection', 'takedown report', 'monthly enforcement']
     }
   ];
@@ -561,15 +566,14 @@ async function loadAIEcosystemWatch() {
       const summary = summarySource.length > 180 ? `${summarySource.slice(0, 177)}...` : summarySource;
       const rawDate = lead?.publishedAt ? new Date(lead.publishedAt) : new Date(payload.generatedAt);
       const dateLabel = Number.isNaN(rawDate.getTime()) ? 'Date unavailable' : rawDate.toLocaleDateString();
+      const categorySearchUrl = `https://news.google.com/search?q=${encodeURIComponent(topic.searchQuery)}&hl=en-IN&gl=IN&ceid=IN:en`;
 
       return {
         ...topic,
         dateLabel,
         summary,
-        sourceTitle: lead?.title || `Open ${topic.category} news search`,
-        sourceLink:
-          lead?.link ||
-          `https://news.google.com/search?q=${encodeURIComponent(topic.category + ' AI safety')}&hl=en-IN&gl=IN&ceid=IN:en`
+        sourceTitle: `Open latest ${topic.category} coverage`,
+        sourceLink: categorySearchUrl
       };
     });
 
