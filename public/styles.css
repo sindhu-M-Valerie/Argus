@@ -63,11 +63,12 @@ body {
   inset: 0;
   pointer-events: none;
   z-index: 0;
+  opacity: 0.58;
 }
 
 .sherlock-sigil {
   position: absolute;
-  opacity: 0.34;
+  opacity: 0.22;
 }
 
 .sherlock-sigil.paper {
@@ -207,14 +208,15 @@ body {
 
 .decor-paper,
 .decor-pen,
-.decor-glasses {
+.decor-glasses,
+.decor-book,
+.decor-lamp,
+.decor-telescope {
   position: absolute;
-  opacity: 0.42;
+  opacity: 0.58;
 }
 
 .decor-paper {
-  top: 0.2rem;
-  right: 0.6rem;
   width: 2rem;
   height: 2.4rem;
   border: 1.5px solid rgba(45, 33, 22, 0.68);
@@ -231,6 +233,18 @@ body {
   animation: paper-float 6s ease-in-out infinite;
 }
 
+.decor-paper.p1 {
+  top: 0.12rem;
+  right: 0.7rem;
+}
+
+.decor-paper.p2 {
+  top: 0.72rem;
+  right: 2.45rem;
+  transform: rotate(10deg);
+  opacity: 0.5;
+}
+
 .decor-paper::after {
   content: '';
   position: absolute;
@@ -241,14 +255,24 @@ body {
 }
 
 .decor-pen {
-  left: 0.8rem;
-  top: 0.3rem;
   width: 2.2rem;
   height: 0.22rem;
   border-radius: 999px;
   background: linear-gradient(90deg, rgba(63, 47, 35, 0.95), rgba(18, 14, 11, 0.95));
   transform: rotate(-18deg);
   animation: pen-shift 5.5s ease-in-out infinite;
+}
+
+.decor-pen.n1 {
+  left: 0.75rem;
+  top: 0.34rem;
+}
+
+.decor-pen.n2 {
+  left: 2.8rem;
+  top: 1.05rem;
+  transform: rotate(-8deg);
+  opacity: 0.5;
 }
 
 .decor-pen::before {
@@ -262,11 +286,14 @@ body {
 }
 
 .decor-glasses {
-  right: 3.4rem;
-  bottom: 0.15rem;
   width: 2.2rem;
   height: 0.7rem;
   animation: glasses-glint 7s ease-in-out infinite;
+}
+
+.decor-glasses.g1 {
+  right: 3.5rem;
+  bottom: 0.12rem;
 }
 
 .decor-glasses::before,
@@ -291,6 +318,92 @@ body {
 .decor-glasses {
   border-top: 2.5px solid rgba(45, 33, 22, 0.72);
   border-radius: 999px;
+}
+
+.decor-book {
+  width: 1.6rem;
+  height: 1rem;
+  border: 1.5px solid rgba(45, 33, 22, 0.75);
+  background: linear-gradient(180deg, rgba(70, 50, 35, 0.42), rgba(36, 27, 18, 0.3));
+  box-shadow: inset 0 -0.18rem 0 rgba(245, 230, 205, 0.18);
+  animation: book-bob 6.5s ease-in-out infinite;
+}
+
+.decor-book::after {
+  content: '';
+  position: absolute;
+  left: 0.18rem;
+  right: 0.18rem;
+  top: 0.4rem;
+  border-top: 1px solid rgba(245, 230, 205, 0.3);
+}
+
+.decor-book.b1 {
+  left: 5.1rem;
+  top: 0.2rem;
+}
+
+.decor-book.b2 {
+  left: 6.25rem;
+  top: 0.62rem;
+  transform: rotate(5deg);
+  opacity: 0.52;
+}
+
+.decor-lamp {
+  width: 1rem;
+  height: 1.35rem;
+  border: 1.5px solid rgba(45, 33, 22, 0.76);
+  border-radius: 0.3rem 0.3rem 0.55rem 0.55rem;
+  background: radial-gradient(circle at 50% 38%, rgba(255, 214, 145, 0.5), rgba(90, 70, 45, 0.18) 65%);
+  animation: lamp-flicker 3.2s ease-in-out infinite;
+}
+
+.decor-lamp::before {
+  content: '';
+  position: absolute;
+  left: 0.18rem;
+  right: 0.18rem;
+  top: -0.25rem;
+  height: 0.2rem;
+  border-radius: 0.2rem;
+  background: rgba(45, 33, 22, 0.75);
+}
+
+.decor-lamp.l1 {
+  right: 6.2rem;
+  top: 0.2rem;
+}
+
+.decor-lamp.l2 {
+  right: 8rem;
+  top: 0.65rem;
+  opacity: 0.48;
+}
+
+.decor-telescope {
+  width: 2.3rem;
+  height: 0.3rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, rgba(80, 60, 42, 0.86), rgba(28, 21, 14, 0.95));
+  transform: rotate(18deg);
+  animation: telescope-scan 7.8s ease-in-out infinite;
+}
+
+.decor-telescope::before {
+  content: '';
+  position: absolute;
+  right: -0.28rem;
+  top: -0.06rem;
+  width: 0.28rem;
+  height: 0.42rem;
+  border-radius: 0.1rem;
+  background: rgba(28, 21, 14, 0.95);
+}
+
+.decor-telescope.t1 {
+  right: 10.3rem;
+  bottom: 0.32rem;
 }
 
 @keyframes field-float {
@@ -356,6 +469,39 @@ body {
   50% {
     opacity: 0.33;
     transform: translateY(-1px);
+  }
+}
+
+@keyframes book-bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-1px);
+  }
+}
+
+@keyframes lamp-flicker {
+  0%,
+  100% {
+    opacity: 0.54;
+  }
+  45% {
+    opacity: 0.72;
+  }
+  60% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes telescope-scan {
+  0%,
+  100% {
+    transform: rotate(18deg) translateX(0);
+  }
+  50% {
+    transform: rotate(15deg) translateX(2px);
   }
 }
 
@@ -1100,7 +1246,13 @@ body {
   }
 
   .sherlock-field {
-    opacity: 0.65;
+    opacity: 0.48;
+  }
+
+  .decor-book,
+  .decor-lamp,
+  .decor-telescope {
+    display: none;
   }
 }
 
@@ -1108,7 +1260,10 @@ body {
   .sherlock-sigil,
   .decor-paper,
   .decor-pen,
-  .decor-glasses {
+  .decor-glasses,
+  .decor-book,
+  .decor-lamp,
+  .decor-telescope {
     animation: none;
   }
 }
