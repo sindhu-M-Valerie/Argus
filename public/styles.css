@@ -92,8 +92,6 @@ a:active {
     inset 0 -12px 14px rgba(0, 0, 0, 0.28);
   padding: 1rem 1.2rem 1.4rem;
   overflow: hidden;
-  animation: scroll-unfurl 1.8s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
-  transform-origin: center center;
 }
 
 .paper-shell > *:not(.sherlock-field) {
@@ -109,12 +107,10 @@ a:active {
   right: 0;
   height: 1.2rem;
   background: 
-    radial-gradient(ellipse 100% 100% at 50% 0%, rgba(0,0,0,0.42), transparent 60%),
-    linear-gradient(180deg, rgba(30,50,100,0.4), rgba(30,50,100,0.2));
+    radial-gradient(ellipse 100% 100% at 50% 0%, rgba(0,0,0,0.35), transparent 70%),
+    linear-gradient(180deg, rgba(40,60,100,0.3), transparent);
   pointer-events: none;
-  z-index: 2;
-  animation: edge-curl-top 1.8s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
-  transform-origin: top center;
+  z-index: 0;
 }
 
 .paper-shell::after {
@@ -125,12 +121,10 @@ a:active {
   right: 0;
   height: 1.2rem;
   background: 
-    radial-gradient(ellipse 100% 100% at 50% 100%, rgba(0,0,0,0.42), transparent 60%),
-    linear-gradient(0deg, rgba(30,50,100,0.4), rgba(30,50,100,0.2));
+    radial-gradient(ellipse 100% 100% at 50% 100%, rgba(0,0,0,0.35), transparent 70%),
+    linear-gradient(0deg, rgba(40,60,100,0.3), transparent);
   pointer-events: none;
-  z-index: 2;
-  animation: edge-curl-bottom 1.8s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
-  transform-origin: bottom center;
+  z-index: 0;
 }
 
 .sherlock-field {
@@ -611,64 +605,6 @@ a:active {
   70% {
     transform: perspective(40px) rotateY(-22deg);
     opacity: 0.76;
-  }
-}
-
-@keyframes scroll-unfurl {
-  0% {
-    transform: scaleY(0.88) perspective(1200px) rotateX(8deg);
-    opacity: 0.78;
-    box-shadow: 
-      0 10px 26px rgba(3, 10, 29, 0.6),
-      inset 20px 0 20px rgba(0, 0, 0, 0.48),
-      inset -20px 0 20px rgba(0, 0, 0, 0.48),
-      inset 0 20px 24px rgba(0, 0, 0, 0.42),
-      inset 0 -20px 24px rgba(0, 0, 0, 0.42);
-  }
-  50% {
-    transform: scaleY(0.94) perspective(1200px) rotateX(4deg);
-    box-shadow: 
-      0 10px 26px rgba(3, 10, 29, 0.5),
-      inset 16px 0 18px rgba(0, 0, 0, 0.38),
-      inset -16px 0 18px rgba(0, 0, 0, 0.38),
-      inset 0 16px 18px rgba(0, 0, 0, 0.32),
-      inset 0 -16px 18px rgba(0, 0, 0, 0.32);
-  }
-  100% {
-    transform: scaleY(1) perspective(1200px) rotateX(0deg);
-    opacity: 1;
-    box-shadow: 
-      0 10px 26px rgba(3, 10, 29, 0.45),
-      inset 12px 0 16px rgba(0, 0, 0, 0.32),
-      inset -12px 0 16px rgba(0, 0, 0, 0.32),
-      inset 0 12px 14px rgba(0, 0, 0, 0.28),
-      inset 0 -12px 14px rgba(0, 0, 0, 0.28);
-  }
-}
-
-@keyframes edge-curl-top {
-  0% {
-    clip-path: inset(0 0 0 0);
-    transform: perspective(800px) rotateX(28deg) translateY(-8px);
-    opacity: 0.5;
-  }
-  100% {
-    clip-path: inset(0 0 0 0);
-    transform: perspective(800px) rotateX(0deg) translateY(0);
-    opacity: 1;
-  }
-}
-
-@keyframes edge-curl-bottom {
-  0% {
-    clip-path: inset(0 0 0 0);
-    transform: perspective(800px) rotateX(-28deg) translateY(8px);
-    opacity: 0.5;
-  }
-  100% {
-    clip-path: inset(0 0 0 0);
-    transform: perspective(800px) rotateX(0deg) translateY(0);
-    opacity: 1;
   }
 }
 
