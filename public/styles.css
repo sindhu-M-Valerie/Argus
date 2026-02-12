@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Playfair+Display:wght@700;900&display=swap');
 
 :root {
-  --paper: #7ea25a;
-  --ink: #1a2113;
-  --muted-ink: #314028;
-  --rule: #6f8c4f;
-  --accent: #ae9050;
-  --heading-brown: #4a2f1f;
+  --paper: #96ded1;
+  --ink: #000000;
+  --muted-ink: #000000;
+  --rule: #5b8f88;
+  --accent: #000000;
+  --heading-brown: #000000;
   --alert: #7b1e16;
 }
 
@@ -22,22 +22,34 @@ body {
   background:
     radial-gradient(circle at 12% 18%, rgba(255, 255, 255, 0.2), transparent 30%),
     radial-gradient(circle at 85% 12%, rgba(255, 255, 255, 0.16), transparent 28%),
-    radial-gradient(circle at 60% 78%, rgba(50, 84, 33, 0.24), transparent 42%),
+    radial-gradient(circle at 60% 78%, rgba(40, 123, 114, 0.24), transparent 42%),
     repeating-linear-gradient(
       0deg,
-      rgba(31, 54, 20, 0.03) 0,
-      rgba(31, 54, 20, 0.03) 1px,
+      rgba(20, 72, 66, 0.03) 0,
+      rgba(20, 72, 66, 0.03) 1px,
       transparent 1px,
       transparent 3px
     ),
     repeating-linear-gradient(
       90deg,
-      rgba(48, 74, 31, 0.026) 0,
-      rgba(48, 74, 31, 0.026) 1px,
+      rgba(27, 83, 76, 0.026) 0,
+      rgba(27, 83, 76, 0.026) 1px,
       transparent 1px,
       transparent 4px
     ),
     var(--paper);
+}
+
+body,
+body * {
+  color: #000000;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #000000;
 }
 
 .cursor-spotlight {
@@ -69,10 +81,10 @@ body {
   max-width: 1500px;
   margin: 1.2rem auto;
   background:
-    linear-gradient(180deg, rgba(212, 230, 186, 0.72), rgba(156, 189, 112, 0.88)),
-    rgba(145, 178, 101, 0.92);
-  border: 1px solid #537032;
-  box-shadow: 0 10px 26px rgba(24, 34, 20, 0.24);
+    linear-gradient(180deg, rgba(214, 244, 239, 0.76), rgba(146, 214, 204, 0.9)),
+    rgba(135, 205, 195, 0.94);
+  border: 1px solid #4f8078;
+  box-shadow: 0 10px 26px rgba(14, 61, 55, 0.24);
   padding: 1rem 1.2rem 1.4rem;
   overflow: hidden;
 }
@@ -581,8 +593,8 @@ body {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-size: clamp(1.6rem, 4vw, 2.7rem);
   letter-spacing: 0.08em;
-  color: var(--heading-brown);
-  text-shadow: 0 1px 0 rgba(33, 21, 14, 0.45);
+  color: #000000;
+  text-shadow: none;
 }
 
 .argus-title-wrap {
