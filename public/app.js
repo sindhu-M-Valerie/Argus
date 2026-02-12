@@ -514,8 +514,8 @@ async function loadAIEcosystemWatch() {
       category: topic.category,
       dateLabel,
       summary: 'Feed is temporarily unavailable. Snapshot refresh is pending; check back shortly for latest AI safety updates.',
-      sourceTitle: 'No source available',
-      sourceLink: null
+      sourceTitle: `Open ${topic.category} news search`,
+      sourceLink: `https://news.google.com/search?q=${encodeURIComponent(topic.category + ' AI safety')}&hl=en-IN&gl=IN&ceid=IN:en`
     }));
   }
 
@@ -525,17 +525,19 @@ async function loadAIEcosystemWatch() {
       './data/live-sources-all.json'
     );
 
-        const broadSignals = ['ai', 'safety', 'moderation', 'deepfake', 'trust', 'transparency', 'misinformation', 'disinformation', 'fact check', 'bot'];
-        const topicalPool = items.filter((item) => {
-          const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
-          return broadSignals.some((term) => text.includes(term));
-        });
-        const fallbackPool = topicalPool.length ? topicalPool : items;
-        let fallbackCursor = 0;
     setDataMode(mode);
     setDataFreshness(payload.generatedAt);
 
     const items = Array.isArray(payload.data) ? payload.data : [];
+
+    const broadSignals = ['ai', 'safety', 'moderation', 'deepfake', 'trust', 'transparency', 'misinformation', 'disinformation', 'fact check', 'bot'];
+    const topicalPool = items.filter((item) => {
+      const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
+      return broadSignals.some((term) => text.includes(term));
+    });
+    const fallbackPool = topicalPool.length ? topicalPool : items;
+    let fallbackCursor = 0;
+
     const cards = watchTopics.map((topic) => {
       const matched = items.filter((item) => {
         const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
@@ -567,8 +569,10 @@ async function loadAIEcosystemWatch() {
         ...topic,
         dateLabel,
         summary,
-        sourceTitle: lead?.title || 'No source available',
-        sourceLink: lead?.link || null
+        sourceTitle: lead?.title || `Open ${topic.category} news search`,
+        sourceLink:
+          lead?.link ||
+          `https://news.google.com/search?q=${encodeURIComponent(topic.category + ' AI safety')}&hl=en-IN&gl=IN&ceid=IN:en`
       };
     });
 
