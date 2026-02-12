@@ -464,34 +464,50 @@ async function loadAIEcosystemWatch() {
     {
       title: '📰 New Tool Launch',
       category: 'New AI Moderation Tools',
-      searchQuery: 'AI moderation tools toxicity classifier deepfake detection',
-      keywords: ['ai moderation', 'content moderation model', 'moderation tool', 'safety classifier', 'toxicity model', 'osint tool', 'deepfake detection', 'content labeling']
+      keywords: ['ai moderation', 'content moderation model', 'moderation tool', 'safety classifier', 'toxicity model', 'deepfake detection', 'content labeling', 'content authenticity']
     },
     {
       title: '💰 Startup Funding',
       category: 'Trust & Safety Startups',
-      searchQuery: 'trust and safety startup funding round AI safety SaaS',
-      keywords: ['trust and safety startup', 'safety startup', 'funding round', 'series a', 'venture funding', 'seed funding', 'startup raises', 'investment']
+      keywords: ['trust and safety startup', 'safety startup', 'funding round', 'series a', 'venture funding', 'seed funding', 'startup raises']
     },
     {
       title: '📄 Research Paper Release',
       category: 'Adversarial & Red-Team Research',
-      searchQuery: 'adversarial AI red teaming research paper preprint arxiv',
       keywords: ['red team', 'red-teaming', 'adversarial testing', 'safety eval', 'model evaluation', 'research paper', 'preprint', 'arxiv', 'benchmark']
     },
     {
       title: '🤖 New Agent Deployment',
       category: 'New AI Agents',
-      searchQuery: 'AI safety agent deployment fact checking bot risk scoring model',
       keywords: ['ai safety agent', 'safety assistant', 'agent launch', 'safety copilot', 'guardrail agent', 'fact-checking bot', 'risk scoring model', 'monitoring bot']
     },
     {
       title: '📊 Transparency Report',
       category: 'Platform Transparency Reports',
-      searchQuery: 'platform transparency report enforcement bot detection hate speech removals',
       keywords: ['transparency report', 'enforcement report', 'platform transparency', 'community standards report', 'hate speech removals', 'bot detection', 'takedown report', 'monthly enforcement']
     }
   ];
+
+  function scoreTopicMatch(item, topic) {
+    const title = (item.title || '').toLowerCase();
+    const snippet = (item.snippet || '').toLowerCase();
+    const text = `${title} ${snippet}`;
+    let score = 0;
+
+    topic.keywords.forEach((keyword) => {
+      if (text.includes(keyword)) {
+        score += keyword.includes(' ') ? 2 : 1;
+      }
+    });
+
+    const aiSafetySignals = ['ai', 'safety', 'moderation', 'deepfake', 'trust', 'transparency', 'enforcement'];
+    const hasAISafetySignal = aiSafetySignals.some((signal) => text.includes(signal));
+    if (!hasAISafetySignal) {
+      return 0;
+    }
+
+    return score;
+  }
 
   function renderCards(cards) {
     list.innerHTML = cards
@@ -536,31 +552,38 @@ async function loadAIEcosystemWatch() {
     const items = Array.isArray(payload.data) ? payload.data : [];
 
     const cards = watchTopics.map((topic) => {
-      const matched = items.filter((item) => {
-        const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
-        return topic.keywords.some((keyword) => text.includes(keyword));
-      });
+      const candidates = [];
+      const seenLinks = new Set();
 
-      const unique = [];
-      const seen = new Set();
-      matched.forEach((entry) => {
-        if (entry.link && !seen.has(entry.link)) {
-          seen.add(entry.link);
-          unique.push(entry);
+      items.forEach((item) => {
+        if (!item.link || seenLinks.has(item.link)) {
+          return;
         }
+
+        const score = scoreTopicMatch(item, topic);
+        if (score <= 0) {
+          return;
+        }
+
+        seenLinks.add(item.link);
+        candidates.push({ item, score });
       });
 
-      unique.sort((a, b) => {
-        const aTime = new Date(a.publishedAt).getTime();
-        const bTime = new Date(b.publishedAt).getTime();
+      candidates.sort((a, b) => {
+        if (b.score !== a.score) {
+          return b.score - a.score;
+        }
+        const aTime = new Date(a.item.publishedAt).getTime();
+        const bTime = new Date(b.item.publishedAt).getTime();
         return (Number.isFinite(bTime) ? bTime : 0) - (Number.isFinite(aTime) ? aTime : 0);
       });
 
-      const lead = unique[0] || null;
+      const leadCandidate = candidates[0] || null;
+      const lead = leadCandidate && leadCandidate.score >= 2 ? leadCandidate.item : null;
       const summarySource = (
         lead?.snippet ||
         lead?.title ||
-        `No direct match found in current scan. Use the source link for the latest ${topic.category.toLowerCase()} updates.`
+        `No verified match found in current scan for ${topic.category.toLowerCase()}.`
       ).trim();
       const summary = summarySource.length > 180 ? `${summarySource.slice(0, 177)}...` : summarySource;
       const rawDate = lead?.publishedAt ? new Date(lead.publishedAt) : new Date(payload.generatedAt);
