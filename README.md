@@ -104,3 +104,7 @@ window.ARGUS_API_BASE = 'https://argus-web.onrender.com';
 ```
 
 Then push to `main` so Pages picks up the API base.
+
+GitHub Pages URL for this repo:
+
+- `https://sindhu-m-valerie.github.io/Argus/`
