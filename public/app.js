@@ -8,6 +8,26 @@ function apiUrl(path) {
   return `${apiBase}${path}`;
 }
 
+async function fetchJson(primaryUrl, fallbackUrl) {
+  try {
+    const response = await fetch(primaryUrl);
+    if (!response.ok) {
+      throw new Error('Primary request failed');
+    }
+    return await response.json();
+  } catch (error) {
+    if (!fallbackUrl) {
+      throw error;
+    }
+
+    const fallbackResponse = await fetch(fallbackUrl);
+    if (!fallbackResponse.ok) {
+      throw error;
+    }
+    return await fallbackResponse.json();
+  }
+}
+
 function showBackendBannerIfNeeded() {
   const banner = document.getElementById('backendBanner');
   if (!banner) {
@@ -52,8 +72,10 @@ async function loadSignals() {
   const selectedThemeLabel = themeDisplayNames[selectedTheme] || 'Risk Signals';
 
   try {
-    const response = await fetch(apiUrl(`/api/live-sources?theme=${encodeURIComponent(selectedTheme)}&type=news&limit=18`));
-    const payload = await response.json();
+    const payload = await fetchJson(
+      apiUrl(`/api/live-sources?theme=${encodeURIComponent(selectedTheme)}&type=news&limit=18`),
+      `./data/live-sources-theme-${selectedTheme}.json`
+    );
     const items = Array.isArray(payload.data) ? payload.data : [];
 
     const uniqueItems = [];
@@ -116,8 +138,10 @@ async function loadRegionalAndIncidentInsights() {
   };
 
   try {
-    const response = await fetch(apiUrl('/api/live-sources?type=news&limit=90'));
-    const payload = await response.json();
+    const payload = await fetchJson(
+      apiUrl('/api/live-sources?type=news&limit=90'),
+      './data/live-sources-all.json'
+    );
     const items = Array.isArray(payload.data) ? payload.data : [];
 
     const regionCounts = Object.entries(regionRules).map(([region, keywords]) => {
@@ -182,8 +206,10 @@ async function loadStreamStatus() {
   streamPanelTitle.textContent = 'Live Trending News';
 
   try {
-    const response = await fetch(apiUrl('/api/live-sources?type=news&limit=30'));
-    const payload = await response.json();
+    const payload = await fetchJson(
+      apiUrl('/api/live-sources?type=news&limit=30'),
+      './data/live-sources-all.json'
+    );
 
     const uniqueItems = [];
     const seenLinks = new Set();
