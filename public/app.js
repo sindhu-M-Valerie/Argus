@@ -5,28 +5,47 @@ const streamPageSize = 5;
 const apiBase = (window.TRUTHPULSE_API_BASE || '').replace(/\/$/, '');
 let activeDataMode = 'live';
 
-const highRiskThemes = new Set([
-  'violence',
-  'child-abuse-nudity',
-  'sexual-exploitation',
-  'human-exploitation',
-  'human-trafficking',
-  'ncii',
-  'dangerous-organizations',
-  'dangerous-misinformation',
-  'malware',
-  'cybersecurity',
-  'fraud-impersonation',
-  'tvec'
-]);
+const riskBaselineByTheme = {
+  violence: 'high',
+  'child-abuse-nudity': 'high',
+  'sexual-exploitation': 'high',
+  'human-exploitation': 'high',
+  'human-trafficking': 'high',
+  ncii: 'high',
+  'dangerous-organizations': 'high',
+  'dangerous-misinformation': 'high',
+  malware: 'high',
+  cybersecurity: 'high',
+  'fraud-impersonation': 'high',
+  tvec: 'high',
+  'harassment-bullying': 'medium',
+  'violent-speech': 'medium',
+  'illegal-goods': 'medium',
+  'spam-inauthentic': 'medium',
+  'suicide-self-harm': 'medium'
+};
 
-const mediumRiskThemes = new Set([
-  'harassment-bullying',
-  'violent-speech',
-  'illegal-goods',
-  'spam-inauthentic',
-  'suicide-self-harm'
-]);
+const highRiskEscalationTerms = [
+  'terror', 'extrem', 'child sexual abuse', 'csam', 'sextortion', 'ncii', 'human trafficking',
+  'ransomware', 'phishing', 'account takeover', 'coercion', 'forced labor', 'violent attack'
+];
+
+const mediumRiskTerms = [
+  'harassment', 'bullying', 'threat', 'violent speech', 'illegal goods', 'spam', 'inauthentic'
+];
+
+const confidenceHighSources = [
+  'pib', 'boom', 'reuters', 'associated press', 'ap news', 'bbc', 'the hindu',
+  'indian express', 'ndtv', 'who', 'un ', 'unodc', 'gov'
+];
+
+const confidenceMediumSources = [
+  'google news', 'gdelt', 'hindustan times', 'times of india', 'the week', 'india today'
+];
+
+function containsAny(text, terms) {
+  return terms.some((term) => text.includes(term));
+}
 
 function apiUrl(path) {
   return `${apiBase}${path}`;
@@ -73,12 +92,13 @@ function setDataMode(mode) {
 function getRiskMeta(item) {
   const theme = (item.theme || '').toLowerCase();
   const text = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
+  const baseline = riskBaselineByTheme[theme] || 'low';
 
-  if (highRiskThemes.has(theme) || /terror|extrem|sextortion|phishing|malware|traffick|ncii/.test(text)) {
+  if (baseline === 'high' || containsAny(text, highRiskEscalationTerms)) {
     return { label: 'Risk: High', className: 'high' };
   }
 
-  if (mediumRiskThemes.has(theme) || /harass|violent|illegal|spam/.test(text)) {
+  if (baseline === 'medium' || containsAny(text, mediumRiskTerms)) {
     return { label: 'Risk: Medium', className: 'medium' };
   }
 
@@ -87,13 +107,18 @@ function getRiskMeta(item) {
 
 function getConfidenceMeta(item) {
   const source = (item.source || '').toLowerCase();
+  const text = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
 
-  if (source.includes('google news') || source.includes('pib') || source.includes('boom')) {
+  if (containsAny(source, confidenceHighSources)) {
     return { label: 'Confidence: High', className: 'high' };
   }
 
-  if (source.includes('gdelt')) {
+  if (containsAny(source, confidenceMediumSources)) {
     return { label: 'Confidence: Medium', className: 'medium' };
+  }
+
+  if (text.includes('live source feed is temporarily unavailable')) {
+    return { label: 'Confidence: Low', className: 'low' };
   }
 
   return { label: 'Confidence: Low', className: 'low' };
