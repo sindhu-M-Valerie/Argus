@@ -531,14 +531,6 @@ async function loadAIEcosystemWatch() {
 
     const items = Array.isArray(payload.data) ? payload.data : [];
 
-    const broadSignals = ['ai', 'safety', 'moderation', 'deepfake', 'trust', 'transparency', 'misinformation', 'disinformation', 'fact check', 'bot'];
-    const topicalPool = items.filter((item) => {
-      const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
-      return broadSignals.some((term) => text.includes(term));
-    });
-    const fallbackPool = topicalPool.length ? topicalPool : items;
-    let fallbackCursor = 0;
-
     const cards = watchTopics.map((topic) => {
       const matched = items.filter((item) => {
         const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
@@ -560,8 +552,12 @@ async function loadAIEcosystemWatch() {
         return (Number.isFinite(bTime) ? bTime : 0) - (Number.isFinite(aTime) ? aTime : 0);
       });
 
-      const lead = unique[0] || fallbackPool[fallbackCursor++] || null;
-      const summarySource = (lead?.snippet || lead?.title || 'No matched updates in the latest scan.').trim();
+      const lead = unique[0] || null;
+      const summarySource = (
+        lead?.snippet ||
+        lead?.title ||
+        `No direct match found in current scan. Use the source link for the latest ${topic.category.toLowerCase()} updates.`
+      ).trim();
       const summary = summarySource.length > 180 ? `${summarySource.slice(0, 177)}...` : summarySource;
       const rawDate = lead?.publishedAt ? new Date(lead.publishedAt) : new Date(payload.generatedAt);
       const dateLabel = Number.isNaN(rawDate.getTime()) ? 'Date unavailable' : rawDate.toLocaleDateString();
