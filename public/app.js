@@ -9,6 +9,10 @@ let lastDataTimestamp = null;
 let selectedStreamCategory = 'all';
 let selectedStreamRegion = 'all';
 
+if (window.location.hash !== '#📡') {
+  history.replaceState(null, '', `${window.location.pathname}${window.location.search}#📡`);
+}
+
 const riskBaselineByTheme = {
   violence: 'high',
   'child-abuse-nudity': 'high',

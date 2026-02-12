@@ -1,4 +1,8 @@
 async function loadTrendDetail() {
+  if (window.location.hash !== '#📡') {
+    history.replaceState(null, '', `${window.location.pathname}${window.location.search}#📡`);
+  }
+
   const title = document.getElementById('detailTitle');
   const meta = document.getElementById('detailMeta');
   const highlights = document.getElementById('detailHighlights');
