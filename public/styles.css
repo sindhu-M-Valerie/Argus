@@ -811,18 +811,20 @@ a:active {
   border: 1px solid var(--rule);
   border-radius: 999px;
   padding: 0.05rem 0.35rem;
+  background: rgba(13, 33, 76, 0.9);
+  color: var(--ink);
 }
 
 .geo-level.medium {
-  background: #e7d3a7;
-  border-color: #7a6238;
-  color: #3b2c12;
+  background: rgba(13, 33, 76, 0.9);
+  border-color: var(--rule);
+  color: var(--ink);
 }
 
 .geo-level.high {
-  background: #f5d0cd;
-  border-color: #9b2c24;
-  color: #5b1612;
+  background: rgba(13, 33, 76, 0.9);
+  border-color: var(--rule);
+  color: var(--ink);
 }
 
 .lead-story p {
@@ -884,7 +886,7 @@ a:active {
 
 .theme-filter-btn {
   border: 1px solid var(--rule);
-  background: #f6eddc;
+  background: rgba(13, 33, 76, 0.9);
   color: var(--ink);
   font-family: inherit;
   font-size: 0.74rem;
@@ -894,13 +896,13 @@ a:active {
 }
 
 .theme-filter-btn:hover {
-  border-color: #7a6238;
+  border-color: var(--rule);
 }
 
 .theme-filter-btn.active {
-  background: #e7d3a7;
-  border-color: #7a6238;
-  color: #3b2c12;
+  background: rgba(20, 44, 95, 0.95);
+  border-color: var(--rule);
+  color: var(--ink);
   font-weight: 700;
 }
 
@@ -929,13 +931,14 @@ a:active {
   padding: 0.12rem 0.5rem;
   border-radius: 999px;
   font-size: 0.75rem;
-  background: #efe4cc;
+  background: rgba(13, 33, 76, 0.9);
+  color: var(--ink);
 }
 
 .risk-pill.high {
-  color: #fff;
-  background: var(--alert);
-  border-color: var(--alert);
+  color: var(--ink);
+  background: rgba(20, 44, 95, 0.95);
+  border-color: var(--rule);
 }
 
 .signal-item p {
@@ -1058,16 +1061,16 @@ a:active {
 }
 
 .trend-origin.live {
-  background: #e7d3a7;
-  border-color: #7a6238;
-  color: #3b2c12;
+  background: rgba(20, 44, 95, 0.95);
+  border-color: var(--rule);
+  color: var(--ink);
   font-weight: 700;
 }
 
 .trend-origin.context {
-  background: #f6eddc;
-  border-color: #b8ab94;
-  color: #6a6255;
+  background: rgba(13, 33, 76, 0.9);
+  border-color: var(--rule);
+  color: var(--ink);
 }
 
 .detail-list {
@@ -1134,30 +1137,30 @@ a:active {
 
 .risk-badge.high,
 .confidence-badge.high {
-  border-color: #9b2c24;
-  background: #f5d0cd;
-  color: #5b1612;
+  border-color: var(--rule);
+  background: rgba(20, 44, 95, 0.95);
+  color: var(--ink);
 }
 
 .risk-badge.medium,
 .confidence-badge.medium {
-  border-color: #7a6238;
-  background: #e7d3a7;
-  color: #3b2c12;
+  border-color: var(--rule);
+  background: rgba(20, 44, 95, 0.95);
+  color: var(--ink);
 }
 
 .risk-badge.low,
 .confidence-badge.low {
-  border-color: #b8ab94;
-  background: #f6eddc;
-  color: #6a6255;
+  border-color: var(--rule);
+  background: rgba(20, 44, 95, 0.95);
+  color: var(--ink);
 }
 
 .fact-check-link {
   display: inline-block;
-  border: 1px solid #7a6238;
-  background: #f6eddc;
-  color: #3b2c12;
+  border: 1px solid var(--rule);
+  background: rgba(13, 33, 76, 0.9);
+  color: var(--ink);
   border-radius: 999px;
   padding: 0.04rem 0.4rem;
   font-size: 0.68rem;
@@ -1165,8 +1168,8 @@ a:active {
 }
 
 .fact-check-link:hover {
-  border-color: #5b4636;
-  color: #5b1612;
+  border-color: var(--rule);
+  color: var(--ink);
 }
 
 .stream-status-panel {
@@ -1190,7 +1193,7 @@ a:active {
 .stream-filter-select {
   width: 100%;
   border: 1px solid var(--rule);
-  background: #f6eddc;
+  background: rgba(13, 33, 76, 0.9);
   color: var(--ink);
   font-family: inherit;
   font-size: 0.74rem;
@@ -1205,11 +1208,11 @@ a:active {
 }
 
 .data-mode-status.live {
-  color: #2f4a28;
+  color: var(--ink);
 }
 
 .data-mode-status.snapshot {
-  color: #7a6238;
+  color: var(--ink);
 }
 
 .data-freshness {
@@ -1228,7 +1231,7 @@ a:active {
 
 .stream-page-btn {
   border: 1px solid var(--rule);
-  background: #f6eddc;
+  background: rgba(13, 33, 76, 0.9);
   color: var(--ink);
   font-family: inherit;
   font-size: 0.72rem;
@@ -1278,15 +1281,15 @@ a:active {
 }
 
 .feed-status.online {
-  background: #e7d3a7;
-  border-color: #7a6238;
-  color: #3b2c12;
+  background: rgba(20, 44, 95, 0.95);
+  border-color: var(--rule);
+  color: var(--ink);
 }
 
 .feed-status.offline {
-  background: #f6eddc;
-  border-color: #b8ab94;
-  color: #6a6255;
+  background: rgba(13, 33, 76, 0.9);
+  border-color: var(--rule);
+  color: var(--ink);
 }
 
 .footer-note {
