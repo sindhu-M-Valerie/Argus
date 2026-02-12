@@ -1,10 +1,13 @@
 let selectedTheme = 'all';
 let streamItems = [];
+let filteredStreamItems = [];
 let streamCurrentPage = 1;
 const streamPageSize = 5;
 const apiBase = (window.TRUTHPULSE_API_BASE || '').replace(/\/$/, '');
 let activeDataMode = 'live';
 let lastDataTimestamp = null;
+let selectedStreamCategory = 'all';
+let selectedStreamRegion = 'all';
 
 const riskBaselineByTheme = {
   violence: 'high',
@@ -178,6 +181,69 @@ const themeDisplayNames = {
   cybersecurity: 'Cybersecurity',
   'fraud-impersonation': 'Fraud/Impersonation'
 };
+
+const streamRegionRules = {
+  India: ['india', 'delhi', 'mumbai', 'bengaluru', 'bangalore', 'chennai', 'kolkata', 'hyderabad'],
+  APAC: ['apac', 'asia-pacific', 'indonesia', 'philippines', 'singapore', 'japan', 'korea', 'australia', 'new zealand', 'malaysia', 'thailand', 'vietnam', 'hong kong', 'taiwan'],
+  'South Asia': ['south asia', 'pakistan', 'bangladesh', 'sri lanka', 'nepal', 'bhutan', 'maldives', 'afghanistan'],
+  'Southeast Asia': ['southeast asia', 'indonesia', 'philippines', 'thailand', 'vietnam', 'malaysia', 'singapore', 'myanmar', 'cambodia', 'laos'],
+  'Middle East': ['middle east', 'uae', 'saudi', 'qatar', 'oman', 'kuwait', 'bahrain', 'iran', 'iraq', 'israel', 'jordan', 'lebanon', 'yemen', 'syria'],
+  Europe: ['europe', 'uk', 'united kingdom', 'france', 'germany', 'italy', 'spain', 'netherlands', 'sweden', 'poland', 'ukraine'],
+  Africa: ['africa', 'nigeria', 'kenya', 'south africa', 'ghana', 'ethiopia', 'egypt', 'morocco', 'tanzania', 'uganda'],
+  'Latin America': ['latin america', 'brazil', 'argentina', 'mexico', 'colombia', 'chile', 'peru', 'ecuador', 'venezuela'],
+  'North America': ['north america', 'united states', 'usa', 'us ', 'canada', 'mexico', 'california', 'new york', 'washington']
+};
+
+function getStreamCategory(item) {
+  const key = (item.theme || '').toLowerCase();
+  return themeDisplayNames[key] || 'Uncategorized';
+}
+
+function getStreamRegion(item) {
+  const searchText = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
+  for (const [region, terms] of Object.entries(streamRegionRules)) {
+    if (terms.some((term) => searchText.includes(term))) {
+      return region;
+    }
+  }
+  return 'Global';
+}
+
+function refreshStreamFilterOptions() {
+  const categorySelect = document.getElementById('streamCategoryFilter');
+  const regionSelect = document.getElementById('streamRegionFilter');
+
+  if (!categorySelect || !regionSelect) {
+    return;
+  }
+
+  const categories = Array.from(new Set(streamItems.map(getStreamCategory))).sort((a, b) => a.localeCompare(b));
+  const regions = Array.from(new Set(streamItems.map(getStreamRegion))).sort((a, b) => a.localeCompare(b));
+
+  const buildOptions = (select, values, selectedValue) => {
+    const optionsMarkup = ['<option value="all">All</option>']
+      .concat(values.map((value) => `<option value="${value}">${value}</option>`))
+      .join('');
+    select.innerHTML = optionsMarkup;
+    select.value = values.includes(selectedValue) ? selectedValue : 'all';
+  };
+
+  buildOptions(categorySelect, categories, selectedStreamCategory);
+  buildOptions(regionSelect, regions, selectedStreamRegion);
+
+  selectedStreamCategory = categorySelect.value;
+  selectedStreamRegion = regionSelect.value;
+}
+
+function applyStreamFilters() {
+  filteredStreamItems = streamItems.filter((item) => {
+    const category = getStreamCategory(item);
+    const region = getStreamRegion(item);
+    const matchesCategory = selectedStreamCategory === 'all' || category === selectedStreamCategory;
+    const matchesRegion = selectedStreamRegion === 'all' || region === selectedStreamRegion;
+    return matchesCategory && matchesRegion;
+  });
+}
 
 async function loadSignals() {
   const list = document.getElementById('signalsList');
@@ -357,10 +423,12 @@ async function loadStreamStatus() {
     });
 
     streamItems = uniqueItems;
+    refreshStreamFilterOptions();
     streamCurrentPage = 1;
     renderStreamPage();
   } catch (error) {
     streamItems = [];
+    refreshStreamFilterOptions();
     streamCurrentPage = 1;
     renderStreamPage();
   }
@@ -378,10 +446,12 @@ function renderStreamPage() {
     return;
   }
 
-  const totalPages = Math.max(1, Math.ceil(streamItems.length / streamPageSize));
+  applyStreamFilters();
+
+  const totalPages = Math.max(1, Math.ceil(filteredStreamItems.length / streamPageSize));
   streamCurrentPage = Math.min(Math.max(streamCurrentPage, 1), totalPages);
   const start = (streamCurrentPage - 1) * streamPageSize;
-  const pageItems = streamItems.slice(start, start + streamPageSize);
+  const pageItems = filteredStreamItems.slice(start, start + streamPageSize);
 
   misinfoNewsList.innerHTML = '';
 
@@ -416,6 +486,8 @@ function renderStreamPage() {
 function initStreamPagination() {
   const streamPrevBtn = document.getElementById('streamPrevBtn');
   const streamNextBtn = document.getElementById('streamNextBtn');
+  const streamCategoryFilter = document.getElementById('streamCategoryFilter');
+  const streamRegionFilter = document.getElementById('streamRegionFilter');
 
   if (!streamPrevBtn || !streamNextBtn) {
     return;
@@ -429,12 +501,28 @@ function initStreamPagination() {
   });
 
   streamNextBtn.addEventListener('click', () => {
-    const totalPages = Math.max(1, Math.ceil(streamItems.length / streamPageSize));
+    const totalPages = Math.max(1, Math.ceil(filteredStreamItems.length / streamPageSize));
     if (streamCurrentPage < totalPages) {
       streamCurrentPage += 1;
       renderStreamPage();
     }
   });
+
+  if (streamCategoryFilter) {
+    streamCategoryFilter.addEventListener('change', () => {
+      selectedStreamCategory = streamCategoryFilter.value;
+      streamCurrentPage = 1;
+      renderStreamPage();
+    });
+  }
+
+  if (streamRegionFilter) {
+    streamRegionFilter.addEventListener('change', () => {
+      selectedStreamRegion = streamRegionFilter.value;
+      streamCurrentPage = 1;
+      renderStreamPage();
+    });
+  }
 }
 
 initStreamPagination();
