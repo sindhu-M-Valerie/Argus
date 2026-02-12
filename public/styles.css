@@ -89,11 +89,140 @@ body {
 }
 
 .masthead {
+  position: relative;
   text-align: center;
   border-top: 3px double var(--rule);
   border-bottom: 3px double var(--rule);
   padding-bottom: 0.7rem;
   padding-top: 0.55rem;
+}
+
+.sherlock-decor {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.decor-paper,
+.decor-pen,
+.decor-glasses {
+  position: absolute;
+  opacity: 0.24;
+}
+
+.decor-paper {
+  top: 0.2rem;
+  right: 0.6rem;
+  width: 2rem;
+  height: 2.4rem;
+  border: 1px solid var(--rule);
+  background:
+    repeating-linear-gradient(
+      180deg,
+      transparent 0,
+      transparent 0.3rem,
+      rgba(75, 67, 55, 0.12) 0.32rem,
+      transparent 0.34rem
+    ),
+    rgba(255, 255, 255, 0.2);
+  transform: rotate(6deg);
+  animation: paper-float 6s ease-in-out infinite;
+}
+
+.decor-paper::after {
+  content: '';
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  border-top: 0.45rem solid rgba(255, 255, 255, 0.4);
+  border-left: 0.45rem solid transparent;
+}
+
+.decor-pen {
+  left: 0.8rem;
+  top: 0.3rem;
+  width: 2.2rem;
+  height: 0.22rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--accent), var(--ink));
+  transform: rotate(-18deg);
+  animation: pen-shift 5.5s ease-in-out infinite;
+}
+
+.decor-pen::before {
+  content: '';
+  position: absolute;
+  left: -0.28rem;
+  top: -0.04rem;
+  border-top: 0.15rem solid transparent;
+  border-bottom: 0.15rem solid transparent;
+  border-right: 0.28rem solid var(--ink);
+}
+
+.decor-glasses {
+  right: 3.4rem;
+  bottom: 0.15rem;
+  width: 2.2rem;
+  height: 0.7rem;
+  animation: glasses-glint 7s ease-in-out infinite;
+}
+
+.decor-glasses::before,
+.decor-glasses::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 0.82rem;
+  height: 0.62rem;
+  border: 2px solid var(--rule);
+  border-radius: 50%;
+}
+
+.decor-glasses::before {
+  left: 0;
+}
+
+.decor-glasses::after {
+  right: 0;
+}
+
+.decor-glasses {
+  border-top: 2px solid var(--rule);
+  border-radius: 999px;
+}
+
+@keyframes paper-float {
+  0%,
+  100% {
+    transform: rotate(6deg) translateY(0);
+    opacity: 0.22;
+  }
+  50% {
+    transform: rotate(4deg) translateY(-2px);
+    opacity: 0.3;
+  }
+}
+
+@keyframes pen-shift {
+  0%,
+  100% {
+    transform: rotate(-18deg) translateX(0);
+  }
+  50% {
+    transform: rotate(-15deg) translateX(3px);
+  }
+}
+
+@keyframes glasses-glint {
+  0%,
+  100% {
+    opacity: 0.2;
+    transform: translateY(0);
+  }
+  50% {
+    opacity: 0.33;
+    transform: translateY(-1px);
+  }
 }
 
 .edition,
@@ -834,6 +963,14 @@ body {
 
   .ai-watch-list {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .decor-paper,
+  .decor-pen,
+  .decor-glasses {
+    animation: none;
   }
 }
 
