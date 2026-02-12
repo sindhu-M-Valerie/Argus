@@ -95,17 +95,21 @@ function setDataFreshness(timestamp) {
     lastDataTimestamp = timestamp;
   }
 
-  const freshness = document.getElementById('dataFreshness');
-  if (!freshness) {
-    return;
-  }
+  const freshnessTargets = ['dataFreshness', 'topDataFreshness'];
 
-  if (!lastDataTimestamp) {
-    freshness.textContent = 'Last Updated: —';
-    return;
-  }
+  freshnessTargets.forEach((elementId) => {
+    const target = document.getElementById(elementId);
+    if (!target) {
+      return;
+    }
 
-  freshness.textContent = `Last Updated: ${new Date(lastDataTimestamp).toLocaleString()}`;
+    if (!lastDataTimestamp) {
+      target.textContent = 'Last Updated: —';
+      return;
+    }
+
+    target.textContent = `Last Updated: ${new Date(lastDataTimestamp).toLocaleString()}`;
+  });
 }
 
 function getRiskMeta(item) {
