@@ -7,6 +7,8 @@ Operating as a 24/7 signal dashboard, Argus aggregates publicly available data, 
 
 The platform is designed to prioritize behavioral analysis and ecosystem-level insights rather than amplifying harmful content.
 
+<img width="1024" height="1024" alt="ChatGPT Image Feb 13, 2026, 12_37_35 AM" src="https://github.com/user-attachments/assets/8d6ed3a1-fc98-44b4-934e-34ec75fa2d0b" />
+
 ## Mission
 
 Strengthen digital resilience by helping institutions and civil society identify, understand, and respond to evolving online harms responsibly.
