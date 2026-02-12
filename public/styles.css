@@ -642,26 +642,6 @@ body {
   color: var(--muted-ink);
 }
 
-.methodology-box {
-  margin-top: 0.55rem;
-  border-top: 1px dashed var(--rule);
-  padding-top: 0.45rem;
-}
-
-.methodology-title {
-  margin: 0;
-  font-size: 0.76rem;
-  font-weight: 700;
-  color: var(--muted-ink);
-}
-
-.methodology-box ul {
-  margin: 0.3rem 0 0;
-  padding-left: 1.05rem;
-  font-size: 0.74rem;
-  line-height: 1.45;
-}
-
 .stream-health-list {
   list-style: none;
   margin: 0.4rem 0 0.7rem;

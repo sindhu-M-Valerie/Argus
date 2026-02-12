@@ -242,14 +242,26 @@ async function loadRegionalAndIncidentInsights() {
   const geoHeatmapList = document.getElementById('geoHeatmapList');
 
   const regionRules = {
+    India: ['india', 'delhi', 'mumbai', 'bengaluru', 'bangalore', 'chennai', 'kolkata', 'hyderabad'],
     APAC: ['apac', 'asia-pacific', 'india', 'indonesia', 'philippines', 'singapore', 'japan', 'korea', 'australia', 'new zealand', 'malaysia', 'thailand', 'vietnam', 'hong kong', 'taiwan'],
     'South Asia': ['south asia', 'india', 'pakistan', 'bangladesh', 'sri lanka', 'nepal', 'bhutan', 'maldives', 'afghanistan'],
+    'Southeast Asia': ['southeast asia', 'indonesia', 'philippines', 'thailand', 'vietnam', 'malaysia', 'singapore', 'myanmar', 'cambodia', 'laos'],
+    'Middle East': ['middle east', 'uae', 'saudi', 'qatar', 'oman', 'kuwait', 'bahrain', 'iran', 'iraq', 'israel', 'jordan', 'lebanon', 'yemen', 'syria'],
+    Europe: ['europe', 'uk', 'united kingdom', 'france', 'germany', 'italy', 'spain', 'netherlands', 'sweden', 'poland', 'ukraine'],
+    Africa: ['africa', 'nigeria', 'kenya', 'south africa', 'ghana', 'ethiopia', 'egypt', 'morocco', 'tanzania', 'uganda'],
+    'Latin America': ['latin america', 'brazil', 'argentina', 'mexico', 'colombia', 'chile', 'peru', 'ecuador', 'venezuela'],
     'North America': ['north america', 'united states', 'usa', 'us ', 'canada', 'mexico', 'california', 'new york', 'washington']
   };
 
   const regionSearchLinks = {
+    India: 'https://news.google.com/search?q=India%20digital%20risk%20misinformation',
     APAC: 'https://news.google.com/search?q=APAC%20digital%20risk%20misinformation',
     'South Asia': 'https://news.google.com/search?q=South%20Asia%20digital%20risk%20misinformation',
+    'Southeast Asia': 'https://news.google.com/search?q=Southeast%20Asia%20digital%20risk%20misinformation',
+    'Middle East': 'https://news.google.com/search?q=Middle%20East%20digital%20risk%20misinformation',
+    Europe: 'https://news.google.com/search?q=Europe%20digital%20risk%20misinformation',
+    Africa: 'https://news.google.com/search?q=Africa%20digital%20risk%20misinformation',
+    'Latin America': 'https://news.google.com/search?q=Latin%20America%20digital%20risk%20misinformation',
     'North America': 'https://news.google.com/search?q=North%20America%20digital%20risk%20misinformation'
   };
 
