@@ -3,6 +3,30 @@ let streamItems = [];
 let streamCurrentPage = 1;
 const streamPageSize = 5;
 const apiBase = (window.TRUTHPULSE_API_BASE || '').replace(/\/$/, '');
+let activeDataMode = 'live';
+
+const highRiskThemes = new Set([
+  'violence',
+  'child-abuse-nudity',
+  'sexual-exploitation',
+  'human-exploitation',
+  'human-trafficking',
+  'ncii',
+  'dangerous-organizations',
+  'dangerous-misinformation',
+  'malware',
+  'cybersecurity',
+  'fraud-impersonation',
+  'tvec'
+]);
+
+const mediumRiskThemes = new Set([
+  'harassment-bullying',
+  'violent-speech',
+  'illegal-goods',
+  'spam-inauthentic',
+  'suicide-self-harm'
+]);
 
 function apiUrl(path) {
   return `${apiBase}${path}`;
@@ -14,7 +38,7 @@ async function fetchJson(primaryUrl, fallbackUrl) {
     if (!response.ok) {
       throw new Error('Primary request failed');
     }
-    return await response.json();
+    return { payload: await response.json(), mode: 'live' };
   } catch (error) {
     if (!fallbackUrl) {
       throw error;
@@ -24,8 +48,55 @@ async function fetchJson(primaryUrl, fallbackUrl) {
     if (!fallbackResponse.ok) {
       throw error;
     }
-    return await fallbackResponse.json();
+    return { payload: await fallbackResponse.json(), mode: 'snapshot' };
   }
+}
+
+function setDataMode(mode) {
+  if (mode === 'snapshot') {
+    activeDataMode = 'snapshot';
+  } else if (activeDataMode !== 'snapshot') {
+    activeDataMode = 'live';
+  }
+
+  const status = document.getElementById('dataModeStatus');
+  if (!status) {
+    return;
+  }
+
+  const isSnapshot = activeDataMode === 'snapshot';
+  status.textContent = isSnapshot ? 'Data Mode: Snapshot Data' : 'Data Mode: Live API';
+  status.classList.toggle('snapshot', isSnapshot);
+  status.classList.toggle('live', !isSnapshot);
+}
+
+function getRiskMeta(item) {
+  const theme = (item.theme || '').toLowerCase();
+  const text = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
+
+  if (highRiskThemes.has(theme) || /terror|extrem|sextortion|phishing|malware|traffick|ncii/.test(text)) {
+    return { label: 'Risk: High', className: 'high' };
+  }
+
+  if (mediumRiskThemes.has(theme) || /harass|violent|illegal|spam/.test(text)) {
+    return { label: 'Risk: Medium', className: 'medium' };
+  }
+
+  return { label: 'Risk: Low', className: 'low' };
+}
+
+function getConfidenceMeta(item) {
+  const source = (item.source || '').toLowerCase();
+
+  if (source.includes('google news') || source.includes('pib') || source.includes('boom')) {
+    return { label: 'Confidence: High', className: 'high' };
+  }
+
+  if (source.includes('gdelt')) {
+    return { label: 'Confidence: Medium', className: 'medium' };
+  }
+
+  return { label: 'Confidence: Low', className: 'low' };
 }
 
 function showBackendBannerIfNeeded() {
@@ -71,10 +142,11 @@ async function loadSignals() {
   const selectedThemeLabel = themeDisplayNames[selectedTheme] || 'Risk Signals';
 
   try {
-    const payload = await fetchJson(
+    const { payload, mode } = await fetchJson(
       apiUrl(`/api/live-sources?theme=${encodeURIComponent(selectedTheme)}&type=news&limit=18`),
       `./data/live-sources-theme-${selectedTheme}.json`
     );
+    setDataMode(mode);
     const items = Array.isArray(payload.data) ? payload.data : [];
 
     const uniqueItems = [];
@@ -137,10 +209,11 @@ async function loadRegionalAndIncidentInsights() {
   };
 
   try {
-    const payload = await fetchJson(
+    const { payload, mode } = await fetchJson(
       apiUrl('/api/live-sources?type=news&limit=90'),
       './data/live-sources-all.json'
     );
+    setDataMode(mode);
     const items = Array.isArray(payload.data) ? payload.data : [];
 
     const regionCounts = Object.entries(regionRules).map(([region, keywords]) => {
@@ -205,10 +278,11 @@ async function loadStreamStatus() {
   streamPanelTitle.textContent = 'Live Trending News';
 
   try {
-    const payload = await fetchJson(
+    const { payload, mode } = await fetchJson(
       apiUrl('/api/live-sources?type=news&limit=30'),
       './data/live-sources-all.json'
     );
+    setDataMode(mode);
 
     const uniqueItems = [];
     const seenLinks = new Set();
@@ -252,11 +326,17 @@ function renderStreamPage() {
     misinfoNewsList.innerHTML = '<p class="signals-empty">No live trending articles right now.</p>';
   } else {
     pageItems.forEach((item) => {
+      const riskMeta = getRiskMeta(item);
+      const confidenceMeta = getConfidenceMeta(item);
       const row = document.createElement('article');
       row.className = 'live-source-item';
       row.innerHTML = `
         <p class="live-source-title"><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></p>
         <p class="live-source-meta">${item.source} • ${new Date(item.publishedAt).toLocaleString()}</p>
+        <div class="live-source-badges">
+          <span class="risk-badge ${riskMeta.className}">${riskMeta.label}</span>
+          <span class="confidence-badge ${confidenceMeta.className}">${confidenceMeta.label}</span>
+        </div>
       `;
       misinfoNewsList.appendChild(row);
     });
