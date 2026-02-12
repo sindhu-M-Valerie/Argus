@@ -462,24 +462,29 @@ async function loadAIEcosystemWatch() {
 
   const watchTopics = [
     {
-      title: 'New AI moderation tools',
-      keywords: ['ai moderation', 'content moderation model', 'moderation tool', 'safety classifier', 'toxicity model']
+      title: '📰 New Tool Launch',
+      category: 'New AI Moderation Tools',
+      keywords: ['ai moderation', 'content moderation model', 'moderation tool', 'safety classifier', 'toxicity model', 'osint tool']
     },
     {
-      title: 'Red-teaming research releases',
-      keywords: ['red team', 'red-teaming', 'adversarial testing', 'safety eval', 'model evaluation']
+      title: '💰 Startup Funding',
+      category: 'Trust & Safety Startups',
+      keywords: ['trust and safety startup', 'safety startup', 'funding round', 'series a', 'venture funding', 'seed funding']
     },
     {
-      title: 'AI safety agent launches',
-      keywords: ['ai safety agent', 'safety assistant', 'agent launch', 'safety copilot', 'guardrail agent']
+      title: '📄 Research Paper Release',
+      category: 'Adversarial & Red-Team Research',
+      keywords: ['red team', 'red-teaming', 'adversarial testing', 'safety eval', 'model evaluation', 'research paper', 'preprint']
     },
     {
-      title: 'Trust & Safety startups funding rounds',
-      keywords: ['trust and safety startup', 'safety startup', 'funding round', 'series a', 'venture funding']
+      title: '🤖 New Agent Deployment',
+      category: 'New AI Agents',
+      keywords: ['ai safety agent', 'safety assistant', 'agent launch', 'safety copilot', 'guardrail agent', 'fact-checking bot', 'risk scoring model']
     },
     {
-      title: 'Platform transparency reports',
-      keywords: ['transparency report', 'enforcement report', 'platform transparency', 'community standards report']
+      title: '📊 Transparency Report',
+      category: 'Platform Transparency Reports',
+      keywords: ['transparency report', 'enforcement report', 'platform transparency', 'community standards report', 'hate speech removals', 'bot detection']
     }
   ];
 
@@ -493,8 +498,6 @@ async function loadAIEcosystemWatch() {
     setDataFreshness(payload.generatedAt);
 
     const items = Array.isArray(payload.data) ? payload.data : [];
-    const now = Date.now();
-
     const cards = watchTopics.map((topic) => {
       const matched = items.filter((item) => {
         const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
@@ -510,43 +513,47 @@ async function loadAIEcosystemWatch() {
         }
       });
 
-      const recent24h = unique.filter((entry) => {
-        const ts = new Date(entry.publishedAt).getTime();
-        return Number.isFinite(ts) && now - ts <= 24 * 60 * 60 * 1000;
-      }).length;
+      unique.sort((a, b) => {
+        const aTime = new Date(a.publishedAt).getTime();
+        const bTime = new Date(b.publishedAt).getTime();
+        return (Number.isFinite(bTime) ? bTime : 0) - (Number.isFinite(aTime) ? aTime : 0);
+      });
 
-      const trendLabel = recent24h >= 4 ? 'Rising' : recent24h >= 2 ? 'Stable' : 'Watch';
+      const lead = unique[0] || null;
+      const summarySource = (lead?.snippet || lead?.title || 'No matched updates in the latest scan.').trim();
+      const summary = summarySource.length > 180 ? `${summarySource.slice(0, 177)}...` : summarySource;
+      const rawDate = lead?.publishedAt ? new Date(lead.publishedAt) : new Date(payload.generatedAt);
+      const dateLabel = Number.isNaN(rawDate.getTime()) ? 'Date unavailable' : rawDate.toLocaleDateString();
 
       return {
         ...topic,
-        mentions24h: unique.length,
-        recent24h,
-        trendLabel,
-        links: unique.slice(0, 3)
+        dateLabel,
+        summary,
+        sourceTitle: lead?.title || 'No source available',
+        sourceLink: lead?.link || null
       };
     });
 
     list.innerHTML = cards
       .map((card) => {
-        const linksMarkup = card.links.length
-          ? card.links
-              .map((entry) => `<li><a href="${entry.link}" target="_blank" rel="noopener noreferrer">${entry.title}</a></li>`)
-              .join('')
-          : '<li>No matched articles in current scan.</li>';
+        const sourceMarkup = card.sourceLink
+          ? `<a href="${card.sourceLink}" target="_blank" rel="noopener noreferrer">${card.sourceTitle}</a>`
+          : 'No matched source right now.';
 
         return `
           <article class="ai-watch-item">
             <p class="ai-watch-title">${card.title}</p>
-            <p class="ai-watch-stats">24h mentions: ${card.mentions24h} • recent items: ${card.recent24h} • trend: ${card.trendLabel}</p>
-            <ul class="ai-watch-links">${linksMarkup}</ul>
+            <p class="ai-watch-meta">Date: ${card.dateLabel} • Category: ${card.category}</p>
+            <p class="ai-watch-summary">${card.summary}</p>
+            <p class="ai-watch-source">Source: ${sourceMarkup}</p>
           </article>
         `;
       })
       .join('');
 
-    updated.textContent = `AI ecosystem watch updated ${new Date(payload.generatedAt).toLocaleString()}`;
+    updated.textContent = `AI safety pulse updated ${new Date(payload.generatedAt).toLocaleString()}`;
   } catch (error) {
-    updated.textContent = 'Unable to load AI ecosystem watch right now.';
+    updated.textContent = 'Unable to load AI safety pulse right now.';
     list.innerHTML = '';
   }
 }

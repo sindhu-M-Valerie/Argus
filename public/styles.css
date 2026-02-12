@@ -160,30 +160,35 @@ body {
   font-weight: 700;
 }
 
-.ai-watch-stats {
+.ai-watch-meta {
   margin: 0.22rem 0 0;
-  font-size: 0.76rem;
+  font-size: 0.74rem;
   color: var(--muted-ink);
 }
 
-.ai-watch-links {
+.ai-watch-summary {
   margin: 0.3rem 0 0;
-  padding-left: 1.05rem;
   font-size: 0.8rem;
   line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
-.ai-watch-links li {
-  margin-bottom: 0.2rem;
+.ai-watch-source {
+  margin: 0.34rem 0 0;
+  font-size: 0.77rem;
+  color: var(--muted-ink);
 }
 
-.ai-watch-links a {
+.ai-watch-source a {
   color: var(--accent);
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
 
-.ai-watch-links a:hover {
+.ai-watch-source a:hover {
   color: var(--alert);
 }
 
