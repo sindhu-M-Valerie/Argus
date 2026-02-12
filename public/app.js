@@ -353,6 +353,8 @@ function renderStreamPage() {
     pageItems.forEach((item) => {
       const riskMeta = getRiskMeta(item);
       const confidenceMeta = getConfidenceMeta(item);
+      const factCheckQuery = encodeURIComponent(item.title || item.snippet || 'misinformation fact check');
+      const factCheckUrl = `https://toolbox.google.com/factcheck/explorer/search/${factCheckQuery}`;
       const row = document.createElement('article');
       row.className = 'live-source-item';
       row.innerHTML = `
@@ -361,6 +363,7 @@ function renderStreamPage() {
         <div class="live-source-badges">
           <span class="risk-badge ${riskMeta.className}">${riskMeta.label}</span>
           <span class="confidence-badge ${confidenceMeta.className}">${confidenceMeta.label}</span>
+          <a class="fact-check-link" href="${factCheckUrl}" target="_blank" rel="noopener noreferrer">Fact-check</a>
         </div>
       `;
       misinfoNewsList.appendChild(row);

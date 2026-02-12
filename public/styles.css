@@ -569,6 +569,22 @@ body {
   color: #6a6255;
 }
 
+.fact-check-link {
+  display: inline-block;
+  border: 1px solid #7a6238;
+  background: #f6eddc;
+  color: #3b2c12;
+  border-radius: 999px;
+  padding: 0.04rem 0.4rem;
+  font-size: 0.68rem;
+  text-decoration: none;
+}
+
+.fact-check-link:hover {
+  border-color: #5b4636;
+  color: #5b1612;
+}
+
 .stream-status-panel {
   align-self: start;
 }
@@ -618,6 +634,26 @@ body {
 .stream-page-info {
   font-size: 0.76rem;
   color: var(--muted-ink);
+}
+
+.methodology-box {
+  margin-top: 0.55rem;
+  border-top: 1px dashed var(--rule);
+  padding-top: 0.45rem;
+}
+
+.methodology-title {
+  margin: 0;
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: var(--muted-ink);
+}
+
+.methodology-box ul {
+  margin: 0.3rem 0 0;
+  padding-left: 1.05rem;
+  font-size: 0.74rem;
+  line-height: 1.45;
 }
 
 .stream-health-list {
