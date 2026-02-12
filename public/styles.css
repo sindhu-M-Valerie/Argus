@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Playfair+Display:wght@700;900&display=swap');
 
 :root {
-  --paper: #efe3c7;
-  --ink: #1a1712;
-  --muted-ink: #4b4337;
-  --rule: #7d6f5a;
-  --accent: #5b4636;
+  --paper: #6f805a;
+  --ink: #161d12;
+  --muted-ink: #2e3a26;
+  --rule: #7f8d6e;
+  --accent: #ae9050;
+  --vintage-gold: #c8a65a;
   --alert: #7b1e16;
 }
 
@@ -21,18 +22,18 @@ body {
   background:
     radial-gradient(circle at 12% 18%, rgba(255, 255, 255, 0.2), transparent 30%),
     radial-gradient(circle at 85% 12%, rgba(255, 255, 255, 0.16), transparent 28%),
-    radial-gradient(circle at 60% 78%, rgba(120, 95, 62, 0.06), transparent 40%),
+    radial-gradient(circle at 60% 78%, rgba(41, 60, 34, 0.18), transparent 42%),
     repeating-linear-gradient(
       0deg,
-      rgba(40, 30, 20, 0.02) 0,
-      rgba(40, 30, 20, 0.02) 1px,
+      rgba(22, 35, 18, 0.028) 0,
+      rgba(22, 35, 18, 0.028) 1px,
       transparent 1px,
       transparent 3px
     ),
     repeating-linear-gradient(
       90deg,
-      rgba(58, 44, 28, 0.012) 0,
-      rgba(58, 44, 28, 0.012) 1px,
+      rgba(35, 50, 28, 0.02) 0,
+      rgba(35, 50, 28, 0.02) 1px,
       transparent 1px,
       transparent 4px
     ),
@@ -68,10 +69,10 @@ body {
   max-width: 1500px;
   margin: 1.2rem auto;
   background:
-    linear-gradient(180deg, rgba(255, 252, 243, 0.62), rgba(245, 236, 216, 0.8)),
-    rgba(245, 236, 216, 0.88);
-  border: 1px solid #6b5b46;
-  box-shadow: 0 10px 26px rgba(28, 22, 14, 0.18);
+    linear-gradient(180deg, rgba(201, 216, 182, 0.68), rgba(164, 184, 138, 0.84)),
+    rgba(160, 180, 132, 0.9);
+  border: 1px solid #5c6b4b;
+  box-shadow: 0 10px 26px rgba(24, 34, 20, 0.24);
   padding: 1rem 1.2rem 1.4rem;
   overflow: hidden;
 }
@@ -580,6 +581,8 @@ body {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-size: clamp(1.6rem, 4vw, 2.7rem);
   letter-spacing: 0.08em;
+  color: var(--vintage-gold);
+  text-shadow: 0 1px 0 rgba(46, 35, 19, 0.45);
 }
 
 .argus-title-wrap {
@@ -610,7 +613,7 @@ body {
 
 .panel {
   border: 1px solid var(--rule);
-  background: rgba(255, 252, 244, 0.78);
+  background: rgba(215, 228, 198, 0.78);
   padding: 0.8rem;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25);
 }
