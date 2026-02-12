@@ -7,7 +7,7 @@ OUT_DIR="public/data"
 mkdir -p "$OUT_DIR"
 
 curl -fsS "${BASE_URL}/api/signals" > "${OUT_DIR}/signals.json"
-curl -fsS "${BASE_URL}/api/live-sources?type=news&limit=30" > "${OUT_DIR}/live-sources-all.json"
+curl -fsS "${BASE_URL}/api/live-sources?type=news&limit=120" > "${OUT_DIR}/live-sources-all.json"
 
 THEMES=(
   "violence"

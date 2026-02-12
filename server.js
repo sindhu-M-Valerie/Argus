@@ -631,6 +631,42 @@ const liveSourceFeeds = [
     theme: 'misinformation',
     type: 'News',
     url: 'https://www.boomlive.in/rss'
+  },
+  {
+    label: 'Google News • AI Safety Research Releases',
+    theme: 'dangerous-misinformation',
+    type: 'News',
+    url: 'https://news.google.com/rss/search?q=AI%20safety%20research%20paper%20red%20team%20adversarial%20evaluation&hl=en-US&gl=US&ceid=US:en'
+  },
+  {
+    label: 'Google News • AI Agent Launches',
+    theme: 'spam-inauthentic',
+    type: 'News',
+    url: 'https://news.google.com/rss/search?q=AI%20agent%20launch%20content%20moderation%20safety%20assistant&hl=en-US&gl=US&ceid=US:en'
+  },
+  {
+    label: 'Google News • Trust & Safety Startup Funding',
+    theme: 'fraud-impersonation',
+    type: 'News',
+    url: 'https://news.google.com/rss/search?q=trust%20and%20safety%20startup%20funding%20round%20AI%20safety&hl=en-US&gl=US&ceid=US:en'
+  },
+  {
+    label: 'Google News • Platform Transparency Reports',
+    theme: 'dangerous-misinformation',
+    type: 'News',
+    url: 'https://news.google.com/rss/search?q=platform%20transparency%20report%20enforcement%20AI%20content%20moderation&hl=en-US&gl=US&ceid=US:en'
+  },
+  {
+    label: 'arXiv cs.AI Recent Papers',
+    theme: 'dangerous-misinformation',
+    type: 'News',
+    url: 'http://export.arxiv.org/rss/cs.AI'
+  },
+  {
+    label: 'Hugging Face Blog',
+    theme: 'cybersecurity',
+    type: 'News',
+    url: 'https://huggingface.co/blog/feed.xml'
   }
 ];
 
@@ -829,7 +865,26 @@ const liveRiskKeywords = [
   'cybersecurity',
   'fake accounts',
   'impersonation',
-  'phishing'
+  'phishing',
+  'ai safety',
+  'model safety',
+  'red team',
+  'red-teaming',
+  'adversarial evaluation',
+  'ai agent',
+  'safety agent',
+  'fact-checking bot',
+  'risk scoring model',
+  'research paper',
+  'preprint',
+  'arxiv',
+  'startup funding',
+  'funding round',
+  'transparency report',
+  'enforcement report',
+  'content moderation model',
+  'toxicity classifier',
+  'guardrail'
 ];
 
 const blockedNoiseKeywords = [
@@ -988,7 +1043,7 @@ app.get('/api/trend/:signalId/:slug', (req, res) => {
 
 app.get('/api/live-sources', async (req, res) => {
   const requestedLimit = Number.parseInt(req.query.limit, 10);
-  const limit = Number.isNaN(requestedLimit) ? 12 : Math.min(Math.max(requestedLimit, 1), 30);
+  const limit = Number.isNaN(requestedLimit) ? 24 : Math.min(Math.max(requestedLimit, 1), 120);
   const requestedTheme = (req.query.theme || '').toString().trim().toLowerCase();
   const requestedType = (req.query.type || '').toString().trim().toLowerCase();
 
@@ -997,7 +1052,7 @@ app.get('/api/live-sources', async (req, res) => {
 
     const [feedResults, gdeltItems] = await Promise.all([
       Promise.allSettled(liveSourceFeeds.map((feed) => parser.parseURL(feed.url))),
-      fetchGdeltArticles(selectedTheme, Math.max(limit, 8))
+      fetchGdeltArticles(selectedTheme, Math.min(Math.max(limit, 8), 40))
     ]);
 
     const sourceStatus = feedResults.map((result, index) => {
