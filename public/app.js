@@ -147,15 +147,16 @@ function getConfidenceMeta(item) {
 ================================ */
 
 const regionRules = {
-  India: ["india", "delhi", "mumbai", "bengaluru", "bangalore", "chennai", "kolkata", "hyderabad"],
-  APAC: ["apac", "asia-pacific", "indonesia", "philippines", "singapore", "japan", "korea", "australia", "new zealand", "malaysia", "thailand", "vietnam", "hong kong", "taiwan"],
-  "South Asia": ["south asia", "pakistan", "bangladesh", "sri lanka", "nepal", "bhutan", "maldives", "afghanistan"],
-  "Southeast Asia": ["southeast asia", "indonesia", "philippines", "thailand", "vietnam", "malaysia", "singapore", "myanmar", "cambodia", "laos"],
-  "Middle East": ["middle east", "uae", "saudi", "qatar", "oman", "kuwait", "bahrain", "iran", "iraq", "israel", "jordan", "lebanon", "yemen", "syria"],
-  Europe: ["europe", "uk", "united kingdom", "france", "germany", "italy", "spain", "netherlands", "sweden", "poland", "ukraine"],
-  Africa: ["africa", "nigeria", "kenya", "south africa", "ghana", "ethiopia", "egypt", "morocco", "tanzania", "uganda"],
-  "Latin America": ["latin america", "brazil", "argentina", "mexico", "colombia", "chile", "peru", "ecuador", "venezuela"],
-  "North America": ["north america", "united states", "usa", "us ", "canada", "california", "new york", "washington"],
+  India: ["india", "indian", "delhi", "mumbai", "bengaluru", "bangalore", "chennai", "kolkata", "hyderabad", "pune", "ahmedabad", "jaipur", "lucknow", "bhopal", "modi", "pradhan", "lok sabha", "rajya sabha", "niti aayog", "aadhaar", "upi"],
+  APAC: ["apac", "asia-pacific", "asia pacific", "indonesia", "indonesian", "philippines", "filipino", "singapore", "japan", "japanese", "korea", "korean", "australia", "australian", "new zealand", "malaysia", "malaysian", "thailand", "thai", "vietnam", "vietnamese", "hong kong", "taiwan", "chinese", "china", "beijing", "shanghai"],
+  "South Asia": ["south asia", "pakistan", "pakistani", "bangladesh", "bangladeshi", "sri lanka", "sri lankan", "nepal", "nepali", "bhutan", "maldives", "afghan"],
+  "Southeast Asia": ["southeast asia", "south-east asia", "asean", "indonesia", "philippines", "thailand", "vietnam", "malaysia", "singapore", "myanmar", "cambodia", "laos"],
+  "Middle East": ["middle east", "mideast", "uae", "saudi", "qatar", "oman", "kuwait", "bahrain", "iran", "iranian", "iraq", "iraqi", "israel", "israeli", "jordan", "lebanon", "yemen", "syria", "syrian", "dubai", "abu dhabi"],
+  Europe: ["europe", "european", "uk", "united kingdom", "britain", "british", "france", "french", "germany", "german", "italy", "italian", "spain", "spanish", "netherlands", "dutch", "sweden", "swedish", "poland", "polish", "ukraine", "ukrainian", "eu ", "brussels", "london", "paris", "berlin"],
+  Africa: ["africa", "african", "nigeria", "nigerian", "kenya", "kenyan", "south africa", "ghana", "ghanaian", "ethiopia", "ethiopian", "egypt", "egyptian", "morocco", "moroccan", "tanzania", "uganda", "congo", "sahel"],
+  "Latin America": ["latin america", "south america", "brazil", "brazilian", "argentina", "argentine", "mexico", "mexican", "colombia", "colombian", "chile", "chilean", "peru", "peruvian", "ecuador", "venezuela", "venezuelan"],
+  "North America": ["north america", "united states", "american", "usa", "u.s.", "canada", "canadian", "california", "new york", "washington", "congress", "white house", "pentagon", "fbi", "cia", "nsa", "silicon valley", "texas", "florida"],
+  Global: ["global", "worldwide", "international", "world", "united nations", "un ", "who ", "nato", "g7", "g20", "imf", "world bank", "interpol", "cyber", "online", "internet", "social media", "platform", "digital", "ai ", "artificial intelligence", "deepfake", "misinformation", "disinformation", "fact-check", "fact check"],
 };
 
 const regionSearchLinks = {
@@ -168,6 +169,7 @@ const regionSearchLinks = {
   Africa: "https://news.google.com/search?q=Africa%20digital%20risk%20misinformation",
   "Latin America": "https://news.google.com/search?q=Latin%20America%20digital%20risk%20misinformation",
   "North America": "https://news.google.com/search?q=North%20America%20digital%20risk%20misinformation",
+  Global: "https://news.google.com/search?q=global%20digital%20risk%20misinformation",
 };
 
 function calculateHeatLevel(count) {
@@ -295,30 +297,36 @@ async function loadHeatmap() {
     setFreshness(data.generatedAt);
     container.innerHTML = "";
 
-    const regionCounts = Object.entries(regionRules).map(([region, keywords]) => {
-      const uniqueByLink = [];
-      const seenLinks = new Set();
+    // Build region → articles map using forgiving matching
+    const regionMap = {};
+    for (const region of Object.keys(regionRules)) regionMap[region] = [];
 
-      items
-        .filter((item) => {
-          const text = `${item.title || ""} ${item.snippet || ""}`.toLowerCase();
-          return keywords.some((kw) => text.includes(kw));
-        })
-        .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-        .forEach((entry) => {
-          if (!seenLinks.has(entry.link)) {
-            seenLinks.add(entry.link);
-            uniqueByLink.push(entry);
+    const seenByRegion = {};
+    for (const region of Object.keys(regionRules)) seenByRegion[region] = new Set();
+
+    items.forEach((item) => {
+      const text = `${item.title || ""} ${item.snippet || ""}`.toLowerCase();
+      for (const [region, keywords] of Object.entries(regionRules)) {
+        if (keywords.some((kw) => text.includes(kw))) {
+          if (!seenByRegion[region].has(item.link)) {
+            seenByRegion[region].add(item.link);
+            regionMap[region].push(item);
           }
-        });
-
-      return {
-        region,
-        count: uniqueByLink.length,
-        level: calculateHeatLevel(uniqueByLink.length),
-        links: uniqueByLink.slice(0, 3),
-      };
+        }
+      }
     });
+
+    const regionCounts = Object.entries(regionMap)
+      .map(([region, matched]) => {
+        matched.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+        return {
+          region,
+          count: matched.length,
+          level: calculateHeatLevel(matched.length),
+          links: matched.slice(0, 3),
+        };
+      })
+      .filter((entry) => entry.count > 0);
 
     regionCounts.forEach((entry) => {
       const row = document.createElement("article");
