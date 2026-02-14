@@ -330,9 +330,9 @@ async function loadSignals() {
   const selectedThemeLabel = themeDisplayNames[selectedTheme] || 'Risk Signals';
 
   try {
-    // Create UTC date range for API (use the date string directly as ISO format)
-    const from = selectedDate + 'T00:00:00Z';
-    const to = selectedDate + 'T23:59:59.999Z';
+    // Create UTC date range for API (correct timezone handling)
+    const from = new Date(`${selectedDate}T00:00:00`).toISOString();
+    const to = new Date(`${selectedDate}T23:59:59.999`).toISOString();
     
     // Try static JSON file first for GitHub Pages compatibility
     const { payload, mode } = await fetchJson(
@@ -417,9 +417,9 @@ async function loadRegionalAndIncidentInsights() {
   };
 
   try {
-    // Create UTC date range for API (use the date string directly as ISO format)
-    const from = selectedDate + 'T00:00:00Z';
-    const to = selectedDate + 'T23:59:59.999Z';
+    // Create UTC date range for API (correct timezone handling)
+    const from = new Date(`${selectedDate}T00:00:00`).toISOString();
+    const to = new Date(`${selectedDate}T23:59:59.999`).toISOString();
     
     // Try static JSON file first for GitHub Pages compatibility
     const { payload, mode } = await fetchJson(
@@ -536,9 +536,9 @@ async function loadAIEcosystemWatch() {
   }
 
   try {
-    // Create UTC date range for API (use the date string directly as ISO format)
-    const from = selectedDate + 'T00:00:00Z';
-    const to = selectedDate + 'T23:59:59.999Z';
+    // Create UTC date range for API (correct timezone handling)
+    const from = new Date(`${selectedDate}T00:00:00`).toISOString();
+    const to = new Date(`${selectedDate}T23:59:59.999`).toISOString();
     
     // Try static JSON file first for GitHub Pages compatibility
     const { payload, mode } = await fetchJson(
@@ -585,9 +585,9 @@ async function loadStreamStatus() {
   });
   
   // Create UTC date range for the selected date
-  // Use the date string directly to construct proper UTC boundaries
-  const from = selectedDate + 'T00:00:00Z';
-  const to = selectedDate + 'T23:59:59.999Z';
+  // Correct timezone handling: convert local date to UTC without forcing Z
+  const from = new Date(`${selectedDate}T00:00:00`).toISOString();
+  const to = new Date(`${selectedDate}T23:59:59.999`).toISOString();
   
   streamPanelTitle.textContent = `Articles from ${formattedDate}`;
 
@@ -607,7 +607,8 @@ async function loadStreamStatus() {
     
     console.log(`\n📡 FETCHING for date: ${selectedDate}`);
     console.log(`   Data file: ${dataFilePath}`);
-    console.log(`   Time range: ${from} → ${to}`);
+    console.log(`   Time range (UTC): ${from} → ${to}`);
+    console.log(`   Timezone: IST (UTC+5:30)`);
 
     const response = await fetch(dataFilePath, { cache: 'no-store' });
     
