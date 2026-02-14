@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const dotenv = require('dotenv');
 const path = require('path');
+const fs = require('fs');
 const Parser = require('rss-parser');
 
 dotenv.config();
@@ -1234,19 +1235,52 @@ app.get('/api/trend/:signalId/:slug', (req, res) => {
   });
 });
 
+// Load historical snapshot data for past dates
+function loadHistoricalSnapshot(date, theme = 'all') {
+  try {
+    const themePrefix = theme && theme !== 'all' ? `-theme-${theme}` : '';
+    const snapshotPath = path.join(__dirname, 'public', 'data', `live-sources${themePrefix}-${date}.json`);
+    
+    if (fs.existsSync(snapshotPath)) {
+      const data = fs.readFileSync(snapshotPath, 'utf8');
+      return JSON.parse(data);
+    }
+  } catch (error) {
+    console.warn(`Could not load historical snapshot for ${date}:`, error.message);
+  }
+  return null;
+}
+
 app.get('/api/live-sources', async (req, res) => {
   const requestedLimit = Number.parseInt(req.query.limit, 10);
   const limit = Number.isNaN(requestedLimit) ? 24 : Math.min(Math.max(requestedLimit, 1), 120);
   const requestedTheme = (req.query.theme || '').toString().trim().toLowerCase();
   const requestedType = (req.query.type || '').toString().trim().toLowerCase();
+  const fromDate = (req.query.from || '').toString().trim(); // YYYY-MM-DD format
+  const toDate = (req.query.to || '').toString().trim(); // YYYY-MM-DD format
 
   try {
     const selectedTheme = requestedTheme || 'all';
+    const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
 
-    const [feedResults, gdeltItems] = await Promise.all([
-      Promise.allSettled(liveSourceFeeds.map((feed) => parser.parseURL(feed.url))),
-      fetchGdeltArticles(selectedTheme, Math.min(Math.max(limit, 8), 40))
-    ]);
+    // Determine if we should use historical snapshots or live feeds
+    const isHistoricalRequest = fromDate && fromDate < today;
+    
+    let feedResults, gdeltItems;
+
+    if (isHistoricalRequest) {
+      // For historical dates, try to load from snapshot files
+      feedResults = [{ status: 'rejected' }]; // Don't fetch live feeds for old dates
+      gdeltItems = [];
+    } else {
+      // For today or future (shouldn't happen), fetch live data
+      const results = await Promise.all([
+        Promise.allSettled(liveSourceFeeds.map((feed) => parser.parseURL(feed.url))),
+        fetchGdeltArticles(selectedTheme, Math.min(Math.max(limit, 8), 40))
+      ]);
+      feedResults = results[0];
+      gdeltItems = results[1];
+    }
 
     const sourceStatus = feedResults.map((result, index) => {
       const feed = liveSourceFeeds[index];
@@ -1287,6 +1321,15 @@ app.get('/api/live-sources', async (req, res) => {
       }));
     });
 
+    // For historical dates, load from snapshot file instead of live feeds
+    let snapshotData = [];
+    if (isHistoricalRequest) {
+      const snapshot = loadHistoricalSnapshot(fromDate, selectedTheme);
+      if (snapshot && snapshot.data) {
+        snapshotData = Array.isArray(snapshot.data) ? snapshot.data : [];
+      }
+    }
+
     const gdeltStatus = {
       label: 'GDELT Public News API',
       theme: selectedTheme,
@@ -1297,8 +1340,23 @@ app.get('/api/live-sources', async (req, res) => {
 
     sourceStatus.push(gdeltStatus);
 
-    let normalizedItems = [...items, ...gdeltItems]
+    // Use snapshot data for historical requests, otherwise use live data
+    const baseItems = isHistoricalRequest ? snapshotData : [...items, ...gdeltItems];
+    let normalizedItems = baseItems
       .filter((item) => item.link && item.title);
+
+    // Filter by date range if specified
+    if (fromDate) {
+      const fromDateTime = new Date(`${fromDate}T00:00:00Z`).getTime();
+      const toDateTime = toDate 
+        ? new Date(`${toDate}T23:59:59Z`).getTime() 
+        : new Date(`${today}T23:59:59Z`).getTime();
+      
+      normalizedItems = normalizedItems.filter((item) => {
+        const publishedTime = new Date(item.publishedAt).getTime();
+        return publishedTime >= fromDateTime && publishedTime <= toDateTime;
+      });
+    }
 
     if (requestedTheme) {
       normalizedItems = normalizedItems.filter((item) => item.theme === requestedTheme);
