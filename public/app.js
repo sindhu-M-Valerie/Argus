@@ -262,21 +262,30 @@ function renderHeatmap() {
 
   safeSetText("geoUpdated", `Updated: ${new Date().toLocaleString()}`);
 
-  const regionCounts = {};
+  const regionGroups = {};
 
   allItems.forEach((item) => {
     const region = getRegion(item);
-    regionCounts[region] = (regionCounts[region] || 0) + 1;
+    if (!regionGroups[region]) regionGroups[region] = [];
+    regionGroups[region].push(item);
   });
 
   container.innerHTML = "";
 
-  Object.entries(regionCounts).forEach(([region, count]) => {
+  Object.entries(regionGroups).forEach(([region, items]) => {
     const row = document.createElement("article");
     row.className = "geo-heatmap-item";
+
+    const links = items.slice(0, 5).map(
+      (i) => `<li><a href="${i.link}" target="_blank">${i.title}</a></li>`
+    ).join("");
+
+    const moreText = items.length > 5 ? `<li class="geo-more-link">+ ${items.length - 5} more articles</li>` : "";
+
     row.innerHTML = `
-      <p><strong>${region}</strong></p>
-      <p>${count} relevant articles</p>
+      <p class="geo-region">${region}</p>
+      <p class="geo-count">${items.length} relevant articles</p>
+      <ul class="geo-article-links">${links}${moreText}</ul>
     `;
     container.appendChild(row);
   });
