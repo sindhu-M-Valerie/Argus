@@ -202,7 +202,7 @@ function renderStreamPage() {
 }
 
 /* ================================
-   SIGNALS (FIXED STRICT MATCH)
+   SIGNALS (BULLETPROOF STRICT MATCH)
 ================================ */
 
 function renderSignals() {
@@ -217,23 +217,28 @@ function renderSignals() {
 
   const selected = normalize(selectedTheme);
 
-  const filtered = allItems.filter((item) =>
-    normalize(item.theme) === selected
-  );
+  const filtered = allItems.filter((item) => {
+    const itemTheme = normalize(item.theme);
+    return itemTheme && itemTheme === selected;
+  });
+
+  console.log("Selected Theme:", selectedTheme);
+  console.log("Available Themes:", [...new Set(allItems.map(i => i.theme))]);
 
   list.innerHTML = "";
 
   if (!filtered.length) {
     list.innerHTML =
-      `<p class="signals-empty">No ${selectedTheme} articles for ${selectedDate}.</p>`;
+      `<p class="signals-empty">No ${selectedTheme} articles found for ${selectedDate}.</p>`;
     return;
   }
 
   filtered.slice(0, 12).forEach((item) => {
     const row = document.createElement("article");
+    row.className = "signal-item";
     row.innerHTML = `
       <p><a href="${item.link}" target="_blank">${item.title}</a></p>
-      <p>${item.source}</p>
+      <p>${item.source} • ${new Date(item.publishedAt).toLocaleString()}</p>
     `;
     list.appendChild(row);
   });
