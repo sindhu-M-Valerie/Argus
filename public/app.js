@@ -783,9 +783,13 @@ function initThemeFilterBar() {
 initThemeFilterBar();
 
 async function initDateSelector() {
+  console.log(`🟡 initDateSelector() Starting...`);
   const dateSelector = document.getElementById('dateSelector');
+  
+  console.log(`🟡 dateSelector element found:`, dateSelector !== null);
+  
   if (!dateSelector) {
-    console.warn('Date selector element not found');
+    console.warn('❌ Date selector element NOT FOUND - cannot initialize date picker');
     return;
   }
 
@@ -795,12 +799,14 @@ async function initDateSelector() {
   dateSelector.max = selectedDate;
   dateSelector.value = selectedDate;
   console.log(`✓ Date selector initialized with today: ${selectedDate}`);
+  console.log(`🟡 About to attach 'change' event listener...`);
 
   /**
    * Event listener for date selection
    * Fetches articles for the selected date with full ISO timestamps
    */
   dateSelector.addEventListener('change', (e) => {
+    console.log(`✅ CHANGE EVENT FIRED! Raw event:`, e);
     const selectedDateValue = e.target.value;
     
     console.log(`📅 DATE PICKER CHANGE EVENT FIRED`);
@@ -827,6 +833,11 @@ async function initDateSelector() {
     loadAIEcosystemWatch();
     loadSignals();
   });
+  
+  console.log(`🟢 initDateSelector() Complete - event listener attached successfully`);
 }
 
+console.log(`🟡 About to call initDateSelector()...`);
 initDateSelector();
+console.log(`🟢 initDateSelector() call complete`);
+console.log(`✅ app.js fully loaded and initialized!`);
