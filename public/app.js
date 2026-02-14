@@ -60,6 +60,30 @@ function apiUrl(path) {
   return `${apiBase}${path}`;
 }
 
+/**
+ * Get IST date boundaries for the selected date
+ * IST is UTC+5:30, so Feb 14 IST spans Feb 13 18:30 UTC to Feb 14 18:29:59 UTC
+ * This matches the "Daily 06:00 IST Edition" model used for data grouping
+ */
+function getISTDateBoundaries(selectedDate) {
+  // Create IST boundaries (UTC+5:30)
+  // Feb 14 IST: starts at 2026-02-13T18:30:00Z, ends at 2026-02-14T18:29:59.999Z
+  const start = new Date(`${selectedDate}T00:00:00+05:30`);
+  const end = new Date(`${selectedDate}T23:59:59.999+05:30`);
+  
+  return { start, end };
+}
+
+function filterArticlesByDate(articles, selectedDate) {
+  const { start, end } = getISTDateBoundaries(selectedDate);
+  
+  return articles.filter(item => {
+    if (!item.publishedAt) return false;
+    const pubDate = new Date(item.publishedAt);
+    return pubDate >= start && pubDate <= end;
+  });
+}
+
 async function fetchJson(primaryUrl, fallbackUrl) {
   try {
     const response = await fetch(primaryUrl, {
@@ -354,15 +378,8 @@ async function loadSignals() {
       }
     });
 
-    // Filter by selected date (strict UTC boundaries match UTC timestamps)
-    const start = new Date(`${selectedDate}T00:00:00Z`);
-    const end = new Date(`${selectedDate}T23:59:59.999Z`);
-    
-    const filteredByDate = uniqueItems.filter(item => {
-      if (!item.publishedAt) return false;
-      const pubDate = new Date(item.publishedAt);
-      return pubDate >= start && pubDate <= end;
-    });
+    // Filter by selected date using IST boundaries (matches data grouping model)
+    const filteredByDate = filterArticlesByDate(uniqueItems, selectedDate);
 
     list.innerHTML = '';
 
@@ -444,19 +461,10 @@ async function loadRegionalAndIncidentInsights() {
       const uniqueByLink = [];
       const seenLinks = new Set();
       
-      // Create UTC date boundaries for filtering
-      const start = new Date(`${selectedDate}T00:00:00Z`);
-      const end = new Date(`${selectedDate}T23:59:59.999Z`);
-      
       items
         .filter((item) => {
           const text = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
           return keywords.some((keyword) => text.includes(keyword));
-        })
-        .filter((item) => {
-          if (!item.publishedAt) return false;
-          const pubDate = new Date(item.publishedAt);
-          return pubDate >= start && pubDate <= end;
         })
         .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
         .forEach((entry) => {
@@ -465,10 +473,13 @@ async function loadRegionalAndIncidentInsights() {
             uniqueByLink.push(entry);
           }
         });
+      
+      // Filter by IST date after grouping by region
+      const dateFilteredByLink = filterArticlesByDate(uniqueByLink, selectedDate);
 
-      const count = uniqueByLink.length;
+      const count = dateFilteredByLink.length;
 
-      return { region, count, level: calculateHeatLevel(count), links: uniqueByLink.slice(0, 3) };
+      return { region, count, level: calculateHeatLevel(count), links: dateFilteredByLink.slice(0, 3) };
     });
 
     geoHeatmapList.innerHTML = '';
@@ -571,15 +582,13 @@ async function loadAIEcosystemWatch() {
 
     const cards = Array.isArray(payload.data) ? payload.data : [];
 
-    // Filter by selected date
-    // Filter by selected date (strict UTC boundaries match UTC timestamps)
-    const start = new Date(`${selectedDate}T00:00:00Z`);
-    const end = new Date(`${selectedDate}T23:59:59.999Z`);
+    // Filter by selected date using IST boundaries (matches data grouping model)
+    const { start, end } = getISTDateBoundaries(selectedDate);
     
     const filteredByDate = cards.filter(card => {
       if (!card.dateLabel) return true; // Keep cards without dates
-      // Parse date format like "2026-02-14" as UTC
-      const cardDate = new Date(`${card.dateLabel}T00:00:00Z`);
+      // Parse date format like "2026-02-14" using IST boundaries
+      const cardDate = new Date(`${card.dateLabel}T00:00:00+05:30`);
       return cardDate >= start && cardDate <= end;
     });
 
@@ -672,17 +681,10 @@ async function loadStreamStatus() {
       });
     }
 
-    // Filter by selected date (strict UTC date boundary filtering)
-    const start = new Date(`${selectedDate}T00:00:00Z`);
-    const end = new Date(`${selectedDate}T23:59:59.999Z`);
+    // Filter by selected date using IST boundaries (matches data grouping model)
+    const filteredByDate = filterArticlesByDate(uniqueItems, selectedDate);
     
-    const filteredByDate = uniqueItems.filter(item => {
-      if (!item.publishedAt) return false;
-      const pubDate = new Date(item.publishedAt);
-      return pubDate >= start && pubDate <= end;
-    });
-    
-    console.log(`✅ Date filtered: ${uniqueItems.length} → ${filteredByDate.length} articles for ${selectedDate}`);
+    console.log(`✅ Date filtered (IST boundaries): ${uniqueItems.length} → ${filteredByDate.length} articles for ${selectedDate}`);
 
     // Sort by most recent first
     filteredByDate.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
