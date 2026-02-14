@@ -354,14 +354,24 @@ async function loadSignals() {
       }
     });
 
+    // Filter by selected date
+    const start = new Date(`${selectedDate}T00:00:00`);
+    const end = new Date(`${selectedDate}T23:59:59.999`);
+    
+    const filteredByDate = uniqueItems.filter(item => {
+      if (!item.publishedAt) return false;
+      const pubDate = new Date(item.publishedAt);
+      return pubDate >= start && pubDate <= end;
+    });
+
     list.innerHTML = '';
 
-    if (!uniqueItems.length) {
+    if (!filteredByDate.length) {
       list.innerHTML = `<p class="signals-empty">No article links available for ${selectedThemeLabel} right now.</p>`;
       return;
     }
 
-    uniqueItems.slice(0, 12).forEach((item) => {
+    filteredByDate.slice(0, 12).forEach((item) => {
       const row = document.createElement('article');
       row.className = 'signal-item link-only';
       row.innerHTML = `
@@ -433,10 +443,20 @@ async function loadRegionalAndIncidentInsights() {
     const regionCounts = Object.entries(regionRules).map(([region, keywords]) => {
       const uniqueByLink = [];
       const seenLinks = new Set();
+      
+      // Create date boundaries for filtering
+      const start = new Date(`${selectedDate}T00:00:00`);
+      const end = new Date(`${selectedDate}T23:59:59.999`);
+      
       items
         .filter((item) => {
           const text = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
           return keywords.some((keyword) => text.includes(keyword));
+        })
+        .filter((item) => {
+          if (!item.publishedAt) return false;
+          const pubDate = new Date(item.publishedAt);
+          return pubDate >= start && pubDate <= end;
         })
         .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
         .forEach((entry) => {
@@ -551,7 +571,18 @@ async function loadAIEcosystemWatch() {
 
     const cards = Array.isArray(payload.data) ? payload.data : [];
 
-    renderCards(cards);
+    // Filter by selected date
+    const start = new Date(`${selectedDate}T00:00:00`);
+    const end = new Date(`${selectedDate}T23:59:59.999`);
+    
+    const filteredByDate = cards.filter(card => {
+      if (!card.dateLabel) return true; // Keep cards without dates
+      // Parse date format like "2026-02-14" 
+      const cardDate = new Date(`${card.dateLabel}T00:00:00`);
+      return cardDate >= start && cardDate <= end;
+    });
+
+    renderCards(filteredByDate.length > 0 ? filteredByDate : createUnavailableCards());
 
     updated.textContent = `AI safety pulse updated ${new Date(payload.generatedAt).toLocaleString()}`;
   } catch (error) {
@@ -640,10 +671,22 @@ async function loadStreamStatus() {
       });
     }
 
-    // Sort by most recent first
-    uniqueItems.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    // Filter by selected date (strict date boundary filtering)
+    const start = new Date(`${selectedDate}T00:00:00`);
+    const end = new Date(`${selectedDate}T23:59:59.999`);
+    
+    const filteredByDate = uniqueItems.filter(item => {
+      if (!item.publishedAt) return false;
+      const pubDate = new Date(item.publishedAt);
+      return pubDate >= start && pubDate <= end;
+    });
+    
+    console.log(`✅ Date filtered: ${uniqueItems.length} → ${filteredByDate.length} articles for ${selectedDate}`);
 
-    streamItems = uniqueItems;
+    // Sort by most recent first
+    filteredByDate.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
+    streamItems = filteredByDate;
     console.log(`✅ Updated streamItems for ${selectedDate}: ${streamItems.length} articles`);
     console.log(`   New streamItems titles: ${streamItems.slice(0, 2).map(a => a.title.substring(0, 30)).join(' | ')}`);
     
