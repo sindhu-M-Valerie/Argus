@@ -1365,8 +1365,25 @@ app.get('/api/live-sources', async (req, res) => {
 
     sourceStatus.push(gdeltStatus);
 
-    // Use snapshot data for historical requests, otherwise use live data
-    const baseItems = isHistoricalRequest ? snapshotData : [...items, ...gdeltItems];
+    // Use snapshot data for historical requests
+    // For today, try live data first, but fallback to snapshot if empty
+    let baseItems;
+    if (isHistoricalRequest) {
+      baseItems = snapshotData;
+    } else {
+      // Try live feeds first
+      baseItems = [...items, ...gdeltItems];
+      // If live feeds are empty for today, try to load snapshot as fallback
+      if (baseItems.length === 0) {
+        console.log(`   ⚠ Live feeds returned no data, trying snapshot fallback for ${today}`);
+        const todaySnapshot = loadHistoricalSnapshot(today, selectedTheme);
+        if (todaySnapshot && todaySnapshot.data) {
+          baseItems = Array.isArray(todaySnapshot.data) ? todaySnapshot.data : [];
+          console.log(`   ✓ Using snapshot fallback with ${baseItems.length} articles`);
+        }
+      }
+    }
+    
     let normalizedItems = baseItems
       .filter((item) => item.link && item.title);
 
