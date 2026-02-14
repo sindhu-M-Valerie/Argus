@@ -329,8 +329,12 @@ async function loadSignals() {
   const selectedThemeLabel = themeDisplayNames[selectedTheme] || 'Risk Signals';
 
   try {
+    // Create date range for API
+    const from = new Date(selectedDate + 'T00:00:00Z').toISOString();
+    const to = new Date(selectedDate + 'T23:59:59.999Z').toISOString();
+    
     const { payload, mode } = await fetchJson(
-      apiUrl(`/api/live-sources?theme=${encodeURIComponent(selectedTheme)}&type=news&limit=18`),
+      apiUrl(`/api/live-sources?theme=${encodeURIComponent(selectedTheme)}&type=news&limit=18&from=${from}&to=${to}&sort=newest`),
       `./data/live-sources-theme-${selectedTheme}.json`
     );
     setDataMode(mode);
@@ -410,8 +414,12 @@ async function loadRegionalAndIncidentInsights() {
   };
 
   try {
+    // Create date range for API
+    const from = new Date(selectedDate + 'T00:00:00Z').toISOString();
+    const to = new Date(selectedDate + 'T23:59:59.999Z').toISOString();
+    
     const { payload, mode } = await fetchJson(
-      apiUrl('/api/live-sources?type=news&limit=90'),
+      apiUrl(`/api/live-sources?type=news&limit=90&from=${from}&to=${to}&sort=newest`),
       './data/live-sources-all.json'
     );
     setDataMode(mode);
@@ -523,8 +531,12 @@ async function loadAIEcosystemWatch() {
   }
 
   try {
+    // Create date range for API
+    const from = new Date(selectedDate + 'T00:00:00Z').toISOString();
+    const to = new Date(selectedDate + 'T23:59:59.999Z').toISOString();
+    
     const { payload, mode } = await fetchJson(
-      apiUrl('/api/ai-safety-pulse'),
+      apiUrl(`/api/ai-safety-pulse?from=${from}&to=${to}`),
       './data/ai-safety-pulse.json'
     );
 
@@ -797,6 +809,8 @@ async function initDateSelector() {
     selectedDate = selectedDateValue;
     console.log(`📅 User selected date: ${selectedDate}`);
     loadStreamStatus();
+    loadRegionalAndIncidentInsights();
+    loadAIEcosystemWatch();
   });
 }
 
