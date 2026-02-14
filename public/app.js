@@ -329,9 +329,11 @@ async function loadSignals() {
   const selectedThemeLabel = themeDisplayNames[selectedTheme] || 'Risk Signals';
 
   try {
-    // Create date range for API
-    const from = new Date(selectedDate + 'T00:00:00Z').toISOString();
-    const to = new Date(selectedDate + 'T23:59:59.999Z').toISOString();
+    // Create date range for API (use local time, not UTC)
+    const fromDate = new Date(selectedDate + 'T00:00:00');
+    const toDate = new Date(selectedDate + 'T23:59:59.999');
+    const from = fromDate.toISOString();
+    const to = toDate.toISOString();
     
     const { payload, mode } = await fetchJson(
       apiUrl(`/api/live-sources?theme=${encodeURIComponent(selectedTheme)}&type=news&limit=18&from=${from}&to=${to}&sort=newest`),
@@ -414,9 +416,11 @@ async function loadRegionalAndIncidentInsights() {
   };
 
   try {
-    // Create date range for API
-    const from = new Date(selectedDate + 'T00:00:00Z').toISOString();
-    const to = new Date(selectedDate + 'T23:59:59.999Z').toISOString();
+    // Create date range for API (use local time, not UTC)
+    const fromDate = new Date(selectedDate + 'T00:00:00');
+    const toDate = new Date(selectedDate + 'T23:59:59.999');
+    const from = fromDate.toISOString();
+    const to = toDate.toISOString();
     
     const { payload, mode } = await fetchJson(
       apiUrl(`/api/live-sources?type=news&limit=90&from=${from}&to=${to}&sort=newest`),
@@ -531,9 +535,11 @@ async function loadAIEcosystemWatch() {
   }
 
   try {
-    // Create date range for API
-    const from = new Date(selectedDate + 'T00:00:00Z').toISOString();
-    const to = new Date(selectedDate + 'T23:59:59.999Z').toISOString();
+    // Create date range for API (use local time, not UTC)
+    const fromDate = new Date(selectedDate + 'T00:00:00');
+    const toDate = new Date(selectedDate + 'T23:59:59.999');
+    const from = fromDate.toISOString();
+    const to = toDate.toISOString();
     
     const { payload, mode } = await fetchJson(
       apiUrl(`/api/ai-safety-pulse?from=${from}&to=${to}`),
@@ -561,16 +567,18 @@ async function loadStreamStatus() {
   const streamPanelTitle = document.getElementById('streamPanelTitle');
 
   // Get selected date and convert to full ISO timestamps for exact day match
-  const dateObj = new Date(selectedDate + 'T00:00:00Z');
+  const dateObj = new Date(selectedDate + 'T00:00:00');
   const formattedDate = dateObj.toLocaleDateString('en-US', { 
     year: 'numeric', 
     month: 'long', 
     day: 'numeric' 
   });
   
-  // Create timestamps: 00:00:00.000 to 23:59:59.999 for the selected date
-  const from = new Date(selectedDate + 'T00:00:00Z').toISOString();
-  const to = new Date(selectedDate + 'T23:59:59.999Z').toISOString();
+  // Create timestamps: 00:00:00.000 to 23:59:59.999 for the selected date (use local time, not UTC)
+  const fromDate = new Date(selectedDate + 'T00:00:00');
+  const toDate = new Date(selectedDate + 'T23:59:59.999');
+  const from = fromDate.toISOString();
+  const to = toDate.toISOString();
   
   streamPanelTitle.textContent = `Articles from ${formattedDate}`;
 
