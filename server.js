@@ -1238,11 +1238,21 @@ app.get('/api/trend/:signalId/:slug', (req, res) => {
 // Load historical snapshot data for past dates
 function loadHistoricalSnapshot(date, theme = 'all') {
   try {
+    // Try to load a specific date file first (if it exists)
     const themePrefix = theme && theme !== 'all' ? `-theme-${theme}` : '';
     const snapshotPath = path.join(__dirname, 'public', 'data', `live-sources${themePrefix}-${date}.json`);
     
     if (fs.existsSync(snapshotPath)) {
       const data = fs.readFileSync(snapshotPath, 'utf8');
+      console.log(`✓ Loaded dated snapshot: live-sources${themePrefix}-${date}.json`);
+      return JSON.parse(data);
+    }
+
+    // Fallback to universal snapshot file if specific date doesn't exist
+    const universalPath = path.join(__dirname, 'public', 'data', `live-sources${themePrefix}.json`);
+    if (fs.existsSync(universalPath)) {
+      const data = fs.readFileSync(universalPath, 'utf8');
+      console.log(`✓ Loaded universal snapshot: live-sources${themePrefix}.json (will filter by date)`);
       return JSON.parse(data);
     }
   } catch (error) {
@@ -1263,6 +1273,14 @@ app.get('/api/live-sources', async (req, res) => {
     const selectedTheme = requestedTheme || 'all';
     const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
 
+    // Log request details
+    console.log(`\n📰 /api/live-sources request:`);
+    console.log(`   from: ${fromDate || 'not specified'}`);
+    console.log(`   to: ${toDate || 'not specified'}`);
+    console.log(`   theme: ${requestedTheme || 'all'}`);
+    console.log(`   type: ${requestedType || 'all'}`);
+    console.log(`   today: ${today}`);
+
     // Determine if we should use historical snapshots or live feeds
     const isHistoricalRequest = fromDate && fromDate < today;
     
@@ -1272,8 +1290,10 @@ app.get('/api/live-sources', async (req, res) => {
       // For historical dates, try to load from snapshot files
       feedResults = [{ status: 'rejected' }]; // Don't fetch live feeds for old dates
       gdeltItems = [];
+      console.log(`   → Using historical snapshot (date: ${fromDate})`);
     } else {
       // For today or future (shouldn't happen), fetch live data
+      console.log(`   → Fetching live feeds (today's data)`);
       const results = await Promise.all([
         Promise.allSettled(liveSourceFeeds.map((feed) => parser.parseURL(feed.url))),
         fetchGdeltArticles(selectedTheme, Math.min(Math.max(limit, 8), 40))
@@ -1327,6 +1347,9 @@ app.get('/api/live-sources', async (req, res) => {
       const snapshot = loadHistoricalSnapshot(fromDate, selectedTheme);
       if (snapshot && snapshot.data) {
         snapshotData = Array.isArray(snapshot.data) ? snapshot.data : [];
+        console.log(`   → Loaded ${snapshotData.length} articles from snapshot`);
+      } else {
+        console.log(`   → Snapshot not found or empty`);
       }
     }
 
@@ -1352,10 +1375,13 @@ app.get('/api/live-sources', async (req, res) => {
         ? new Date(`${toDate}T23:59:59Z`).getTime() 
         : new Date(`${today}T23:59:59Z`).getTime();
       
+      const beforeFilter = normalizedItems.length;
       normalizedItems = normalizedItems.filter((item) => {
         const publishedTime = new Date(item.publishedAt).getTime();
         return publishedTime >= fromDateTime && publishedTime <= toDateTime;
       });
+      const afterFilter = normalizedItems.length;
+      console.log(`Date filter: ${fromDate} to ${toDate} - items: ${beforeFilter} → ${afterFilter}`);
     }
 
     if (requestedTheme) {
@@ -1399,6 +1425,8 @@ app.get('/api/live-sources', async (req, res) => {
       },
       { total: 0, news: 0, publicConversations: 0 }
     );
+
+    console.log(`✓ Response: ${data.length} articles returned\n`);
 
     return res.json({
       generatedAt: new Date().toISOString(),
