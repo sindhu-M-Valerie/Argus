@@ -603,7 +603,7 @@ async function loadStreamStatus() {
 
   try {
     // Fetch from static JSON file for GitHub Pages compatibility
-    const dataFilePath = `/data/live-sources-${selectedDate}.json?_cb=${Date.now()}`;
+    const dataFilePath = `./data/live-sources-${selectedDate}.json?_cb=${Date.now()}`;
     
     console.log(`\n📡 FETCHING for date: ${selectedDate}`);
     console.log(`   Data file: ${dataFilePath}`);
