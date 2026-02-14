@@ -319,6 +319,7 @@ function applyStreamFilters() {
 }
 
 async function loadSignals() {
+  console.log(`🔵 loadSignals() called - selectedDate is: ${selectedDate}`);
   const list = document.getElementById('signalsList');
 
   if (selectedTheme === 'all') {
@@ -386,6 +387,7 @@ function calculateHeatLevel(count) {
 }
 
 async function loadRegionalAndIncidentInsights() {
+  console.log(`🔵 loadRegionalAndIncidentInsights() called - selectedDate is: ${selectedDate}`);
   const geoUpdated = document.getElementById('geoUpdated');
   const geoHeatmapList = document.getElementById('geoHeatmapList');
 
@@ -484,6 +486,7 @@ async function loadRegionalAndIncidentInsights() {
 loadRegionalAndIncidentInsights();
 
 async function loadAIEcosystemWatch() {
+  console.log(`🔵 loadAIEcosystemWatch() called - selectedDate is: ${selectedDate}`);
   const updated = document.getElementById('aiWatchUpdated');
   const list = document.getElementById('aiWatchList');
 
@@ -557,6 +560,7 @@ async function loadAIEcosystemWatch() {
 loadAIEcosystemWatch();
 
 async function loadStreamStatus() {
+  console.log(`🔵 loadStreamStatus() called - selectedDate is: ${selectedDate}`);
   const misinfoNewsList = document.getElementById('misinfoNewsList');
   const streamPanelTitle = document.getElementById('streamPanelTitle');
 
