@@ -354,6 +354,94 @@ a:active {
   z-index: 1;
 }
 
+.masthead h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.argus-logo-side {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  opacity: 0.6;
+  mix-blend-mode: lighten;
+  filter: invert(1) brightness(1.2);
+  vertical-align: middle;
+  transition: opacity 0.3s ease;
+}
+
+.argus-logo-side:hover {
+  opacity: 0.8;
+}
+
+.header-controls {
+  margin-top: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.date-selector-container {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  justify-content: center;
+  font-size: 0.85rem;
+  padding: 0.6rem 1rem;
+  background: rgba(13, 33, 76, 0.4);
+  border-radius: 0.5rem;
+  border: 1px solid rgba(192, 192, 192, 0.2);
+  transition: all 0.3s ease;
+}
+
+.date-selector-container:hover {
+  background: rgba(13, 33, 76, 0.55);
+  border-color: rgba(192, 192, 192, 0.4);
+  box-shadow: 0 0 10px rgba(192, 192, 192, 0.1);
+}
+
+.date-selector-container label {
+  color: var(--muted-ink);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  user-select: none;
+}
+
+.date-selector-container label::before {
+  content: '📅';
+  font-size: 1rem;
+}
+
+.date-selector {
+  border: 1.5px solid var(--rule);
+  background: rgba(13, 33, 76, 0.95);
+  color: var(--ink);
+  font-family: 'Playfair Display', serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  border-radius: 0.4rem;
+  padding: 0.4rem 0.7rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 140px;
+}
+
+.date-selector:hover {
+  border-color: var(--accent);
+  background: rgba(13, 33, 76, 0.98);
+  box-shadow: 0 0 8px rgba(192, 192, 192, 0.15);
+}
+
+.date-selector:focus {
+  outline: none;
+  border-color: var(--accent);
+  background: rgba(13, 33, 76, 0.98);
+  box-shadow: 0 0 12px rgba(192, 192, 192, 0.25);
+}
+
 .decor-paper,
 .decor-pen,
 .decor-glasses {
