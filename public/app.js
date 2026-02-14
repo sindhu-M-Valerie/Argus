@@ -334,9 +334,10 @@ async function loadSignals() {
     const from = selectedDate + 'T00:00:00Z';
     const to = selectedDate + 'T23:59:59.999Z';
     
+    // Try static JSON file first for GitHub Pages compatibility
     const { payload, mode } = await fetchJson(
-      apiUrl(`/api/live-sources?theme=${encodeURIComponent(selectedTheme)}&type=news&limit=18&from=${from}&to=${to}&sort=newest`),
-      `./data/live-sources-theme-${selectedTheme}.json`
+      `./data/live-sources-theme-${selectedTheme}.json?_cb=${Date.now()}`,
+      apiUrl(`/api/live-sources?theme=${encodeURIComponent(selectedTheme)}&type=news&limit=18&from=${from}&to=${to}&sort=newest`)
     );
     setDataMode(mode);
     setDataFreshness(payload.generatedAt);
@@ -420,9 +421,10 @@ async function loadRegionalAndIncidentInsights() {
     const from = selectedDate + 'T00:00:00Z';
     const to = selectedDate + 'T23:59:59.999Z';
     
+    // Try static JSON file first for GitHub Pages compatibility
     const { payload, mode } = await fetchJson(
-      apiUrl(`/api/live-sources?type=news&limit=90&from=${from}&to=${to}&sort=newest`),
-      './data/live-sources-all.json'
+      `./data/live-sources-all.json?_cb=${Date.now()}`,
+      apiUrl(`/api/live-sources?type=news&limit=90&from=${from}&to=${to}&sort=newest`)
     );
     setDataMode(mode);
     setDataFreshness(payload.generatedAt);
@@ -538,9 +540,10 @@ async function loadAIEcosystemWatch() {
     const from = selectedDate + 'T00:00:00Z';
     const to = selectedDate + 'T23:59:59.999Z';
     
+    // Try static JSON file first for GitHub Pages compatibility
     const { payload, mode } = await fetchJson(
-      apiUrl(`/api/ai-safety-pulse?from=${from}&to=${to}`),
-      './data/ai-safety-pulse.json'
+      `./data/ai-safety-pulse.json?_cb=${Date.now()}`,
+      apiUrl(`/api/ai-safety-pulse?from=${from}&to=${to}`)
     );
 
     setDataMode(mode);
@@ -599,17 +602,17 @@ async function loadStreamStatus() {
   }
 
   try {
-    // Build API URL with full ISO timestamps and cache busting
-    const apiEndpoint = `/api/live-sources?type=news&limit=30&from=${from}&to=${to}&sort=newest&_cb=${Date.now()}`;
+    // Fetch from static JSON file for GitHub Pages compatibility
+    const dataFilePath = `/data/live-sources-${selectedDate}.json?_cb=${Date.now()}`;
     
     console.log(`\n📡 FETCHING for date: ${selectedDate}`);
-    console.log(`   API URL: ${apiEndpoint}`);
+    console.log(`   Data file: ${dataFilePath}`);
     console.log(`   Time range: ${from} → ${to}`);
 
-    const response = await fetch(apiEndpoint, { cache: 'no-store' });
+    const response = await fetch(dataFilePath, { cache: 'no-store' });
     
     if (!response.ok) {
-      throw new Error(`API request failed with status ${response.status}`);
+      throw new Error(`Failed to load data for ${selectedDate}: ${response.status}`);
     }
     
     const payload = await response.json();
