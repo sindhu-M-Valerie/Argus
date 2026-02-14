@@ -17,6 +17,16 @@ const parser = new Parser({
   }
 });
 
+// Helper function to add timeout to promises
+function withTimeout(promise, timeoutMs = 8000) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error(`Request timeout after ${timeoutMs}ms`)), timeoutMs)
+    )
+  ]);
+}
+
 app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
@@ -1132,7 +1142,7 @@ app.get('/api/ai-safety-pulse', async (req, res) => {
     );
 
     const [feedResults, gdeltItems] = await Promise.all([
-      Promise.allSettled(aiFeeds.map((feed) => parser.parseURL(feed.url))),
+      Promise.allSettled(aiFeeds.map((feed) => withTimeout(parser.parseURL(feed.url), 8000))),
       fetchGdeltAIPulseArticles(40)
     ]);
 
@@ -1297,7 +1307,7 @@ app.get('/api/live-sources', async (req, res) => {
       // For today or future (shouldn't happen), fetch live data
       console.log(`   → Fetching live feeds (today's data)`);
       const results = await Promise.all([
-        Promise.allSettled(liveSourceFeeds.map((feed) => parser.parseURL(feed.url))),
+        Promise.allSettled(liveSourceFeeds.map((feed) => withTimeout(parser.parseURL(feed.url), 8000))),
         fetchGdeltArticles(selectedTheme, Math.min(Math.max(limit, 8), 40))
       ]);
       feedResults = results[0];
