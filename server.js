@@ -1271,6 +1271,11 @@ function loadHistoricalSnapshot(date, theme = 'all') {
   return null;
 }
 
+// Health check endpoint for Render
+app.get('/api/health', (req, res) => {
+  res.json({ status: 'ok', timestamp: new Date().toISOString() });
+});
+
 app.get('/api/live-sources', async (req, res) => {
   const requestedLimit = Number.parseInt(req.query.limit, 10);
   const limit = Number.isNaN(requestedLimit) ? 24 : Math.min(Math.max(requestedLimit, 1), 120);
