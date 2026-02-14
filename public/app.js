@@ -764,7 +764,8 @@ function initDateSelector() {
     
     // Validate date format (YYYY-MM-DD)
     if (!selectedDateValue || !/^\d{4}-\d{2}-\d{2}$/.test(selectedDateValue)) {
-      console.error('Invalid date format, must be YYYY-MM-DD');\n      dateSelector.value = selectedDate;
+      console.error('Invalid date format, must be YYYY-MM-DD');
+      dateSelector.value = selectedDate;
       return;
     }
     
@@ -776,7 +777,8 @@ function initDateSelector() {
     }
     
     // Update global selectedDate and fetch articles for that date
-    console.log(`User selected date: ${selectedDateValue}`);\n    selectedDate = selectedDateValue;
+    console.log(`User selected date: ${selectedDateValue}`);
+    selectedDate = selectedDateValue;
     loadStreamStatus();
   });
 }
