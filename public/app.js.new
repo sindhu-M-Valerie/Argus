@@ -180,9 +180,6 @@ function renderStreamPage() {
   const start = (streamCurrentPage - 1) * streamPageSize;
   const page = filteredStreamItems.slice(start, start + streamPageSize);
 
-  safeSetText("streamPageInfo", `Page ${streamCurrentPage} of ${totalPages}`);
-  safeSetText("streamPanelTitle", `Live Stream (${filteredStreamItems.length} articles)`);
-
   list.innerHTML = "";
 
   if (!page.length) {
@@ -255,8 +252,6 @@ function renderHeatmap() {
   const container = document.getElementById("geoHeatmapList");
   if (!container) return;
 
-  safeSetText("geoUpdated", `Updated: ${new Date().toLocaleString()}`);
-
   const regionCounts = {};
 
   allItems.forEach((item) => {
@@ -294,8 +289,6 @@ function renderMiniTrend() {
   chart.innerHTML = Object.entries(counts)
     .map(([theme, count]) => `<div>${theme}: ${count}</div>`)
     .join("");
-
-  safeSetText("miniTrendUpdated", `Updated: ${new Date().toLocaleString()}`);
 }
 
 /* ================================
@@ -313,8 +306,6 @@ function renderAIWatch() {
   list.innerHTML = aiItems.slice(0, 5)
     .map((i) => `<p><a href="${i.link}" target="_blank">${i.title}</a></p>`)
     .join("");
-
-  safeSetText("aiWatchUpdated", `Updated: ${new Date().toLocaleString()}`);
 }
 
 /* ================================
@@ -322,9 +313,7 @@ function renderAIWatch() {
 ================================ */
 
 function initThemeBar() {
-  const bar = document.getElementById("themeFilterBar");
-  if (!bar) return;
-  const buttons = bar.querySelectorAll(".theme-filter-btn");
+  const buttons = document.querySelectorAll(".theme-filter-btn");
   buttons.forEach((btn) => {
     btn.addEventListener("click", () => {
       selectedTheme = btn.dataset.theme;
@@ -339,33 +328,8 @@ function initThemeBar() {
    INIT
 ================================ */
 
-function initDateSelector() {
-  const dateEl = document.getElementById("dateSelector");
-  if (!dateEl) return;
-  dateEl.value = selectedDate;
-  dateEl.addEventListener("change", () => {
-    selectedDate = dateEl.value;
-    streamCurrentPage = 1;
-    loadAll();
-  });
-}
-
-function initPagination() {
-  const prev = document.getElementById("streamPrevBtn");
-  const next = document.getElementById("streamNextBtn");
-  if (prev) prev.addEventListener("click", () => { streamCurrentPage--; renderStreamPage(); });
-  if (next) next.addEventListener("click", () => { streamCurrentPage++; renderStreamPage(); });
-
-  const catSelect = document.getElementById("streamCategoryFilter");
-  const regSelect = document.getElementById("streamRegionFilter");
-  if (catSelect) catSelect.addEventListener("change", () => { selectedStreamCategory = catSelect.value; streamCurrentPage = 1; renderStreamPage(); });
-  if (regSelect) regSelect.addEventListener("change", () => { selectedStreamRegion = regSelect.value; streamCurrentPage = 1; renderStreamPage(); });
-}
-
 function initApp() {
   initThemeBar();
-  initDateSelector();
-  initPagination();
   loadAll();
 }
 
