@@ -792,8 +792,10 @@ async function initDateSelector() {
     return;
   }
 
-  // Set min date to allow browsing from Nov 14, 2025 onwards
+  // Set min/max dates: allow browsing from Nov 14, 2025 up to today
+  // Future dates become available only when that day arrives
   dateSelector.min = '2025-11-14';
+  dateSelector.max = selectedDate;
   dateSelector.value = selectedDate;
   console.log(`✓ Date selector initialized with today: ${selectedDate}`);
 
@@ -814,8 +816,8 @@ async function initDateSelector() {
       return;
     }
     
-    // Allow selecting any date from Nov 14, 2025 onwards (including future dates)
-    // Data snapshots available through March 31, 2026
+    // Date selection limited by HTML max attribute (today's date)
+    // Future dates will be automatically disabled until that day arrives
     
     // Update and fetch articles for selected date
     console.log(`   Old selectedDate: ${selectedDate}`);
