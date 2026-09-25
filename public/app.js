@@ -520,19 +520,45 @@ function renderMiniTrend() {
    AI WATCH
 ================================ */
 
-function renderAIWatch() {
+function renderAIWatch(items = allItems) {
   const list = document.getElementById("aiWatchList");
   if (!list) return;
 
-  const aiItems = allItems.filter((i) =>
+  const aiItems = items.filter((i) =>
     normalize(i.title + " " + i.snippet).includes("ai")
   );
 
   list.innerHTML = aiItems.slice(0, 5)
-    .map((i) => `<p><a href="${i.link}" target="_blank">${i.title}</a></p>`)
+    .map((i) => i.link
+      ? `<p><a href="${i.link}" target="_blank">${i.title}</a></p>`
+      : `<p>${i.title}</p>`)
     .join("");
 
   safeSetText("aiWatchUpdated", `Updated: ${new Date().toLocaleString()}`);
+}
+
+async function loadAIPulseSnapshot() {
+  const snapshotUrls = [
+    `./data/ai-safety-pulse-${selectedDate}.json`,
+    "./data/ai-safety-pulse.json"
+  ];
+
+  for (const snapshotUrl of snapshotUrls) {
+    try {
+      const response = await fetch(snapshotUrl, { cache: "no-store" });
+      if (!response.ok) continue;
+      const payload = await response.json();
+      const pulseItems = (payload.data || []).map((item) => ({
+        title: item.title,
+        snippet: item.summary,
+        link: item.sourceLink
+      }));
+      renderAIWatch(pulseItems);
+      return;
+    } catch (error) {
+      console.warn(`AI pulse snapshot unavailable: ${snapshotUrl}`);
+    }
+  }
 }
 
 /* ================================
@@ -601,6 +627,7 @@ function initApp() {
   initDateSelector();
   initRefreshButton();
   initPagination();
+  loadAIPulseSnapshot();
   loadAll();
 }
 
