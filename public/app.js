@@ -47,10 +47,31 @@ async function fetchLiveData(signal) {
     params.set("theme", selectedTheme);
   }
 
-  const url = `/api/live-sources?${params.toString()}`;
-  const res = await fetch(url, { cache: "no-store", signal });
-  if (!res.ok) throw new Error(`Live data request failed: ${res.status}`);
-  return await res.json();
+  const apiBase = String(window.ARGUS_API_BASE || "").replace(/\/$/, "");
+  const url = `${apiBase}/api/live-sources?${params.toString()}`;
+
+  try {
+    const res = await fetch(url, { cache: "no-store", signal });
+    if (!res.ok) throw new Error(`Live data request failed: ${res.status}`);
+    return await res.json();
+  } catch (error) {
+    if (error.name === "AbortError") throw error;
+
+    const themeSlug = selectedTheme && selectedTheme !== "all"
+      ? `theme-${encodeURIComponent(selectedTheme)}`
+      : "";
+    const themeSnapshot = `./data/live-sources-${themeSlug ? `${themeSlug}-` : ""}${selectedDate}.json`;
+    const fallbackUrls = themeSlug
+      ? [themeSnapshot, `./data/live-sources-${selectedDate}.json`]
+      : [themeSnapshot];
+
+    for (const fallbackUrl of fallbackUrls) {
+      const fallbackRes = await fetch(fallbackUrl, { cache: "no-store", signal });
+      if (fallbackRes.ok) return await fallbackRes.json();
+    }
+
+    throw error;
+  }
 }
 
 function safeSetText(id, text) {
