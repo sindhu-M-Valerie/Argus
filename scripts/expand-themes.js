@@ -140,7 +140,7 @@ const articles = newArticles.map((a, i) => {
   
   return {
     title: a.title,
-    link: `https://news.example.com/${a.theme}/${Date.now()}-${i}`,
+    link: null,
     snippet: a.snippet,
     publishedAt: `${baseDate}${hStr}:${mStr}:00.000Z`,
     source: a.source,

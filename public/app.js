@@ -13,7 +13,15 @@ const streamPageSize = 5;
 
 let selectedStreamCategory = "all";
 let selectedStreamRegion = "all";
+let selectedStreamSort = "risk";
+let streamSearchQuery = "";
+let trustedOnly = false;
 let lastGeneratedAt = null;
+let activeLoadController = null;
+let loadSequence = 0;
+let refreshTimer = null;
+let dataStatusMessage = "";
+const liveRefreshIntervalMs = 5 * 60 * 1000;
 
 /* ================================
    UTILITIES
@@ -27,10 +35,21 @@ function getTodayIST() {
   return ist.toISOString().split("T")[0];
 }
 
-async function fetchSnapshot() {
-  const url = `./data/live-sources-${selectedDate}.json?_cb=${Date.now()}`;
-  const res = await fetch(url, { cache: "no-store" });
-  if (!res.ok) throw new Error(`Snapshot missing: ${url}`);
+async function fetchLiveData(signal) {
+  const params = new URLSearchParams({ limit: "60" });
+
+  if (selectedDate) {
+    params.set("from", selectedDate);
+    params.set("to", selectedDate);
+  }
+
+  if (selectedTheme && selectedTheme !== "all") {
+    params.set("theme", selectedTheme);
+  }
+
+  const url = `/api/live-sources?${params.toString()}`;
+  const res = await fetch(url, { cache: "no-store", signal });
+  if (!res.ok) throw new Error(`Live data request failed: ${res.status}`);
   return await res.json();
 }
 
@@ -39,19 +58,30 @@ function safeSetText(id, text) {
   if (el) el.textContent = text;
 }
 
-function setFreshness(generatedAt) {
+function setFreshness(generatedAt, mode = "Live Feed") {
   if (!generatedAt) return;
   lastGeneratedAt = generatedAt;
   const stamp = new Date(generatedAt).toLocaleString();
   safeSetText("dataFreshness", `Last Updated: ${stamp}`);
   safeSetText("topDataFreshness", `Last Updated: ${stamp}`);
-  safeSetText("dataModeStatus", "Data Mode: Snapshot Data");
+  safeSetText("dataModeStatus", `Data Mode: ${mode}`);
 
   const editionStamp = document.getElementById("editionStamp");
   if (editionStamp) {
-    editionStamp.textContent =
-      `Edition Stamp: ${new Date(generatedAt).toLocaleDateString()} • Daily 06:00 IST Edition`;
+    const stampText = mode === "Snapshot Data" ? "Daily 06:00 IST Edition" : "Live Feed • Updated in real time";
+    editionStamp.textContent = `Edition Stamp: ${new Date(generatedAt).toLocaleDateString()} • ${stampText}`;
   }
+}
+
+function scheduleLiveRefresh() {
+  if (refreshTimer) clearTimeout(refreshTimer);
+
+  if (selectedDate !== getTodayIST()) return;
+
+  refreshTimer = setTimeout(async () => {
+    await loadAll();
+    scheduleLiveRefresh();
+  }, liveRefreshIntervalMs);
 }
 
 function dedupe(items) {
@@ -65,6 +95,26 @@ function dedupe(items) {
 
 function normalize(str) {
   return (str || "").toLowerCase().trim();
+}
+
+function getSourceLabel(item) {
+  return item.source;
+}
+
+function getProvenanceMeta(item) {
+  const provenance = (item && item.provenance) ? String(item.provenance).toLowerCase() : 'unverified';
+
+  const map = {
+    'live-feed': { label: 'Live feed', tone: 'live' },
+    'live-gdelt': { label: 'Live GDELT', tone: 'live' },
+    'historical-archive': { label: 'Historical archive', tone: 'historical' },
+    'historical-gdelt': { label: 'Historical archive', tone: 'historical' },
+    'historical-record': { label: 'Historical archive', tone: 'historical' },
+    fallback: { label: 'Unverified', tone: 'unverified' },
+    unverified: { label: 'Unverified', tone: 'unverified' }
+  };
+
+  return map[provenance] || { label: 'Unverified', tone: 'unverified' };
 }
 
 /* ================================
@@ -95,13 +145,63 @@ const themeDisplayNames = {
    LOAD EVERYTHING
 ================================ */
 
+function renderLoadingState() {
+  const loadingMarkup = '<div class="stream-loading"><span class="loading-spinner" aria-hidden="true"></span><p>Loading verified reports...</p></div>';
+  const stream = document.getElementById("misinfoNewsList");
+  const signals = document.getElementById("signalsList");
+  const heatmap = document.getElementById("geoHeatmapList");
+  const aiWatch = document.getElementById("aiWatchList");
+  const sourceHealth = document.getElementById("sourceHealthSummary");
+
+  if (stream) stream.innerHTML = loadingMarkup;
+  if (signals) signals.innerHTML = loadingMarkup;
+  if (heatmap) heatmap.innerHTML = loadingMarkup;
+  if (aiWatch) aiWatch.innerHTML = loadingMarkup;
+  if (sourceHealth) sourceHealth.innerHTML = '<div class="source-health-pill online"><span>Online</span><strong>—</strong></div><div class="source-health-pill offline"><span>Offline</span><strong>—</strong></div>';
+  safeSetText("streamPanelTitle", "Live Stream (loading)");
+  safeSetText("dataModeStatus", "Data Mode: Loading current edition");
+}
+
+function renderSourceHealth(data = []) {
+  const container = document.getElementById("sourceHealthSummary");
+  if (!container) return;
+
+  const stats = Array.isArray(data) ? data : [];
+  const online = stats.filter((item) => item && item.status === "online").length;
+  const offline = stats.filter((item) => item && item.status !== "online").length;
+
+  container.innerHTML = `
+    <div class="source-health-pill online"><span>Online</span><strong>${online}</strong></div>
+    <div class="source-health-pill offline"><span>Offline</span><strong>${offline}</strong></div>
+  `;
+}
+
 async function loadAll() {
+  if (refreshTimer) {
+    clearTimeout(refreshTimer);
+    refreshTimer = null;
+  }
+
+  if (activeLoadController) activeLoadController.abort();
+
+  const controller = new AbortController();
+  const requestSequence = ++loadSequence;
+  activeLoadController = controller;
+  renderLoadingState();
+
   try {
-    const data = await fetchSnapshot();
-    setFreshness(data.generatedAt);
+    const data = await fetchLiveData(controller.signal);
+    if (requestSequence !== loadSequence) return;
+    dataStatusMessage = data.message || "";
+    const mode = data && data.sourceStatus && data.sourceStatus.length ? "Live Feed" : "Snapshot Data";
+    setFreshness(data.generatedAt, mode);
+    renderSourceHealth(data.sourceStatus || []);
 
     allItems = dedupe(data.data || []);
-    allItems.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    allItems.sort((a, b) => {
+      const scoreDelta = (b.riskScore || 0) - (a.riskScore || 0);
+      return scoreDelta !== 0 ? scoreDelta : new Date(b.publishedAt) - new Date(a.publishedAt);
+    });
     streamItems = allItems;
 
     renderStream();
@@ -109,16 +209,18 @@ async function loadAll() {
     renderHeatmap();
     renderMiniTrend();
     renderAIWatch();
+    scheduleLiveRefresh();
 
   } catch (err) {
+    if (err.name === "AbortError" || requestSequence !== loadSequence) return;
     console.error(err.message);
 
     const list = document.getElementById("misinfoNewsList");
     if (list) {
       list.innerHTML = `
         <div class="stream-error-message">
-          <p><strong>⚠ Snapshot Missing</strong></p>
-          <p>No data file found for ${selectedDate}.</p>
+          <p><strong>⚠ Live Feed Unavailable</strong></p>
+          <p>The server could not fetch fresh data for ${selectedDate}.</p>
         </div>
       `;
     }
@@ -131,6 +233,41 @@ async function loadAll() {
 /* ================================
    STREAM
 ================================ */
+
+function filterStreamItems(items) {
+  const query = streamSearchQuery.trim().toLowerCase();
+  let filtered = [...items];
+
+  if (query) {
+    filtered = filtered.filter((item) => {
+      const haystack = `${item.title || ''} ${item.snippet || ''} ${item.source || ''} ${item.theme || ''}`.toLowerCase();
+      return haystack.includes(query);
+    });
+  }
+
+  if (trustedOnly) {
+    filtered = filtered.filter((item) => {
+      const provenance = String(item.provenance || '').toLowerCase();
+      return ['live-feed', 'live-gdelt', 'historical-archive', 'historical-gdelt', 'historical-record'].includes(provenance);
+    });
+  }
+
+  return filtered;
+}
+
+function sortStreamItems(items) {
+  const normalized = [...items];
+
+  return normalized.sort((a, b) => {
+    if (selectedStreamSort === 'recent') {
+      return new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0);
+    }
+
+    const riskDelta = (b.riskScore || 0) - (a.riskScore || 0);
+    if (riskDelta !== 0) return riskDelta;
+    return new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0);
+  });
+}
 
 function renderStream() {
   refreshStreamFilterOptions();
@@ -155,17 +292,21 @@ function refreshStreamFilterOptions() {
 }
 
 function applyStreamFilters() {
-  filteredStreamItems = streamItems.filter((item) => {
-    const matchesTheme =
-      selectedStreamCategory === "all" ||
-      normalize(item.theme) === normalize(selectedStreamCategory);
+  filteredStreamItems = sortStreamItems(
+    filterStreamItems(
+      streamItems.filter((item) => {
+        const matchesTheme =
+          selectedStreamCategory === "all" ||
+          normalize(item.theme) === normalize(selectedStreamCategory);
 
-    const matchesRegion =
-      selectedStreamRegion === "all" ||
-      getRegion(item) === selectedStreamRegion;
+        const matchesRegion =
+          selectedStreamRegion === "all" ||
+          getRegion(item) === selectedStreamRegion;
 
-    return matchesTheme && matchesRegion;
-  });
+        return matchesTheme && matchesRegion;
+      })
+    )
+  );
 }
 
 function renderStreamPage() {
@@ -186,16 +327,28 @@ function renderStreamPage() {
   list.innerHTML = "";
 
   if (!page.length) {
-    list.innerHTML = '<p class="signals-empty">No articles found.</p>';
+    const emptyMessage = streamSearchQuery
+      ? `No verified news matched "${streamSearchQuery}" for ${selectedDate}.`
+      : trustedOnly
+        ? `No trusted verified news was found for ${selectedDate}.`
+        : (dataStatusMessage || `No verified news was found for ${selectedDate}.`);
+    list.innerHTML = `<p class="signals-empty">${emptyMessage}</p>`;
     return;
   }
 
   page.forEach((item) => {
+    const score = item.riskScore || 0;
+    const confidence = item.confidence || 'Low';
+    const provenance = getProvenanceMeta(item);
     const row = document.createElement("article");
     row.className = "live-source-item";
     row.innerHTML = `
-      <p><a href="${item.link}" target="_blank">${item.title}</a></p>
-      <p>${item.source} • ${new Date(item.publishedAt).toLocaleString()}</p>
+      <p>
+        <span class="signal-badge signal-${provenance.tone}">${provenance.label}</span>
+        <span class="signal-badge signal-${confidence.toLowerCase()}">${confidence}</span>
+        <a href="${item.link}" target="_blank">${item.title}</a>
+      </p>
+      <p>${getSourceLabel(item)} • ${new Date(item.publishedAt).toLocaleString()} • Risk ${score}/100 • ${item.corroboratedBy || 1} source${(item.corroboratedBy || 1) === 1 ? '' : 's'}</p>
     `;
     list.appendChild(row);
   });
@@ -205,13 +358,36 @@ function renderStreamPage() {
    SIGNALS (BULLETPROOF STRICT MATCH)
 ================================ */
 
+function renderSignalSummary() {
+  const container = document.getElementById("signalSummary");
+  if (!container) return;
+
+  const relevant = allItems.filter((item) => {
+    if (selectedTheme === 'all') return true;
+    return normalize(item.theme) === normalize(selectedTheme);
+  });
+
+  const liveCount = relevant.filter((item) => item.provenance === 'live-feed' || item.provenance === 'live-gdelt').length;
+  const historicalCount = relevant.filter((item) => item.provenance === 'historical-archive' || item.provenance === 'historical-gdelt' || item.provenance === 'historical-record').length;
+  const unverifiedCount = relevant.filter((item) => !item.provenance || item.provenance === 'unverified' || item.provenance === 'fallback').length;
+  const highRiskCount = relevant.filter((item) => (item.riskScore || 0) >= 70).length;
+
+  container.innerHTML = `
+    <span class="signal-summary-chip live"><strong>${liveCount}</strong> live</span>
+    <span class="signal-summary-chip historical"><strong>${historicalCount}</strong> historical</span>
+    <span class="signal-summary-chip unverified"><strong>${unverifiedCount}</strong> unverified</span>
+    <span class="signal-summary-chip high"><strong>${highRiskCount}</strong> high risk</span>
+  `;
+}
+
 function renderSignals() {
+  renderSignalSummary();
   const list = document.getElementById("signalsList");
   if (!list) return;
 
   if (selectedTheme === "all") {
     list.innerHTML =
-      '<p class="signals-empty">Select a theme to view risk signals.</p>';
+      `<p class="signals-empty">${dataStatusMessage || "Select a theme to view risk signals."}</p>`;
     return;
   }
 
@@ -229,16 +405,23 @@ function renderSignals() {
 
   if (!filtered.length) {
     list.innerHTML =
-      `<p class="signals-empty">No ${selectedTheme} articles found for ${selectedDate}.</p>`;
+      `<p class="signals-empty">${dataStatusMessage || `No verified news was found for ${selectedDate} on ${selectedTheme}.`}</p>`;
     return;
   }
 
   filtered.slice(0, 12).forEach((item) => {
+    const score = item.riskScore || 0;
+    const confidence = item.confidence || 'Low';
+    const provenance = getProvenanceMeta(item);
     const row = document.createElement("article");
     row.className = "signal-item";
     row.innerHTML = `
-      <p><a href="${item.link}" target="_blank">${item.title}</a></p>
-      <p>${item.source} • ${new Date(item.publishedAt).toLocaleString()}</p>
+      <p>
+        <span class="signal-badge signal-${provenance.tone}">${provenance.label}</span>
+        <span class="signal-badge signal-${confidence.toLowerCase()}">${confidence}</span>
+        <a href="${item.link}" target="_blank">${item.title}</a>
+      </p>
+      <p>${getSourceLabel(item)} • ${new Date(item.publishedAt).toLocaleString()} • Risk ${score}/100 • ${item.corroboratedBy || 1} source${(item.corroboratedBy || 1) === 1 ? '' : 's'}</p>
     `;
     list.appendChild(row);
   });
@@ -340,11 +523,11 @@ function initThemeBar() {
   if (!bar) return;
   const buttons = bar.querySelectorAll(".theme-filter-btn");
   buttons.forEach((btn) => {
-    btn.addEventListener("click", () => {
+    btn.addEventListener("click", async () => {
       selectedTheme = btn.dataset.theme;
       buttons.forEach((b) => b.classList.remove("active"));
       btn.classList.add("active");
-      renderSignals();
+      await loadAll();
     });
   });
 }
@@ -364,6 +547,15 @@ function initDateSelector() {
   });
 }
 
+function initRefreshButton() {
+  const refreshButton = document.getElementById("refreshDataBtn");
+  if (!refreshButton) return;
+
+  refreshButton.addEventListener("click", () => {
+    loadAll();
+  });
+}
+
 function initPagination() {
   const prev = document.getElementById("streamPrevBtn");
   const next = document.getElementById("streamNextBtn");
@@ -372,13 +564,21 @@ function initPagination() {
 
   const catSelect = document.getElementById("streamCategoryFilter");
   const regSelect = document.getElementById("streamRegionFilter");
+  const sortSelect = document.getElementById("streamSortFilter");
+  const searchInput = document.getElementById("streamSearchInput");
+  const trustedToggle = document.getElementById("trustedOnlyToggle");
+
   if (catSelect) catSelect.addEventListener("change", () => { selectedStreamCategory = catSelect.value; streamCurrentPage = 1; renderStreamPage(); });
   if (regSelect) regSelect.addEventListener("change", () => { selectedStreamRegion = regSelect.value; streamCurrentPage = 1; renderStreamPage(); });
+  if (sortSelect) sortSelect.addEventListener("change", () => { selectedStreamSort = sortSelect.value; streamCurrentPage = 1; renderStreamPage(); });
+  if (searchInput) searchInput.addEventListener("input", () => { streamSearchQuery = searchInput.value; streamCurrentPage = 1; renderStreamPage(); });
+  if (trustedToggle) trustedToggle.addEventListener("change", () => { trustedOnly = trustedToggle.checked; streamCurrentPage = 1; renderStreamPage(); });
 }
 
 function initApp() {
   initThemeBar();
   initDateSelector();
+  initRefreshButton();
   initPagination();
   loadAll();
 }

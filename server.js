@@ -27,6 +27,43 @@ function withTimeout(promise, timeoutMs = 8000) {
   ]);
 }
 
+function isUsableArticleLink(link) {
+  if (!link) return false;
+
+  try {
+    const url = new URL(link);
+    if (!['http:', 'https:'].includes(url.protocol)) return false;
+    return !['example.com', 'www.example.com', 'news.example.com'].includes(url.hostname);
+  } catch (error) {
+    return false;
+  }
+}
+
+function dedupeArticles(items = []) {
+  const map = new Map();
+
+  items.forEach((item) => {
+    const normalized = {
+      ...item,
+      link: item.link || item.url || '',
+      title: (item.title || 'Untitled source').replace(/\s+/g, ' ').trim(),
+      snippet: (item.snippet || item.contentSnippet || item.content || '').replace(/\s+/g, ' ').trim(),
+      publishedAt: item.publishedAt || item.isoDate || item.pubDate || new Date().toISOString(),
+      source: item.source || item.sourceTitle || 'Public Feed',
+      type: item.type || 'News'
+    };
+
+    if (!isUsableArticleLink(normalized.link)) return;
+
+    const current = map.get(normalized.link);
+    if (!current || new Date(normalized.publishedAt) > new Date(current.publishedAt)) {
+      map.set(normalized.link, normalized);
+    }
+  });
+
+  return [...map.values()].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+}
+
 app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
@@ -948,6 +985,62 @@ const blockedNoiseKeywords = [
   'sale'
 ];
 
+const trustedSourcePatterns = [
+  /reuters/i,
+  /ap news/i,
+  /bbc/i,
+  /the hindu/i,
+  /times of india/i,
+  /the guardian/i,
+  /al jazeera/i,
+  /npr/i,
+  /gdealt|gdelt/i,
+  /fact check|factcheck/i,
+  /pib/i,
+  /boom live/i,
+  /google news/i
+];
+
+const sourceTrustWeights = {
+  reuters: 5,
+  'ap news': 5,
+  bbc: 5,
+  'the hindu': 5,
+  'times of india': 5,
+  'the guardian': 4,
+  'al jazeera': 4,
+  npr: 4,
+  gdelt: 3,
+  'fact check': 4,
+  factcheck: 4,
+  pib: 4,
+  'boom live': 4,
+  'google news': 2
+};
+
+const themeRiskWeights = {
+  violence: 8,
+  'child-abuse-nudity': 10,
+  'sexual-exploitation': 10,
+  'human-exploitation': 10,
+  'suicide-self-harm': 9,
+  'violent-speech': 8,
+  tvec: 9,
+  'illegal-goods': 7,
+  'human-trafficking': 10,
+  ncii: 10,
+  'dangerous-organizations': 9,
+  'harassment-bullying': 7,
+  'dangerous-misinformation': 9,
+  'spam-inauthentic': 6,
+  malware: 7,
+  cybersecurity: 7,
+  'fraud-impersonation': 8,
+  misinformation: 8,
+  hate: 7,
+  exploitation: 8
+};
+
 const gdeltThemeQueries = {
   all: 'online safety OR abuse OR violence OR exploitation OR harassment OR fraud OR cybersecurity OR malware',
   misinformation: 'india misinformation OR disinformation OR deepfake OR fact-check',
@@ -995,19 +1088,130 @@ const themeKeywords = {
   'fraud-impersonation': ['fraud', 'impersonation', 'phishing', 'scam', 'account takeover']
 };
 
+function getSourceTrustWeight(sourceLabel = '') {
+  const normalized = sourceLabel.toLowerCase();
+  for (const [pattern, weight] of Object.entries(sourceTrustWeights)) {
+    if (normalized.includes(pattern)) {
+      return weight;
+    }
+  }
+
+  return trustedSourcePatterns.some((pattern) => pattern.test(sourceLabel)) ? 3 : 1;
+}
+
+function scoreLiveItem(item, requestedTheme) {
+  const searchText = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
+  const noiseHits = blockedNoiseKeywords.filter((term) => searchText.includes(term)).length;
+  const themeTerms = requestedTheme ? themeKeywords[requestedTheme] || [] : [];
+  const themeHits = themeTerms.filter((term) => searchText.includes(term)).length;
+  const riskHits = liveRiskKeywords.filter((term) => searchText.includes(term)).length;
+  const sourceLabel = (item.source || '').toLowerCase();
+  const sourceTrustWeight = getSourceTrustWeight(sourceLabel);
+  const themeBoost = themeRiskWeights[requestedTheme || item.theme || 'misinformation'] || 5;
+
+  let score = 0;
+  score += themeHits * 5;
+  score += riskHits * 2;
+  score += sourceTrustWeight * 4;
+  score += themeBoost;
+
+  const publishedAt = new Date(item.publishedAt || item.isoDate || item.pubDate || Date.now());
+  const ageHours = Number.isNaN(publishedAt.getTime()) ? 0 : (Date.now() - publishedAt.getTime()) / 3600000;
+  if (ageHours >= 0 && ageHours <= 72) {
+    score += Math.max(0, 12 - ageHours) * 0.5;
+  }
+
+  score -= noiseHits * 8;
+  if (!searchText.trim()) score -= 10;
+
+  return score;
+}
+
+function getStoryFingerprint(item) {
+  return (item.title || '')
+    .toLowerCase()
+    .replace(/https?:\/\/\S+/g, '')
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .split(/\s+/)
+    .filter((word) => word.length > 2 && !['the', 'and', 'for', 'with', 'from', 'this', 'that'].includes(word))
+    .slice(0, 12)
+    .join(' ');
+}
+
+function getCorroborationCounts(items) {
+  const sourcesByStory = new Map();
+
+  items.forEach((item) => {
+    const storyKey = getStoryFingerprint(item);
+    if (!storyKey) return;
+
+    if (!sourcesByStory.has(storyKey)) {
+      sourcesByStory.set(storyKey, new Set());
+    }
+
+    sourcesByStory.get(storyKey).add((item.source || 'Unknown source').toLowerCase());
+  });
+
+  return sourcesByStory;
+}
+
+function getRiskBand(score) {
+  if (score >= 70) return 'High';
+  if (score >= 40) return 'Medium';
+  return 'Low';
+}
+
+function buildRiskMetadata(item, requestedTheme, corroborationCount = 1) {
+  const corroborationBoost = Math.min(Math.max(corroborationCount - 1, 0), 3) * 5;
+  const score = Math.max(0, Math.min(100, Math.round((scoreLiveItem(item, requestedTheme) + corroborationBoost) * 4.5)));
+  const confidence = score >= 75 ? 'High' : score >= 45 ? 'Medium' : 'Low';
+
+  return {
+    riskScore: score,
+    confidence,
+    severity: getRiskBand(score),
+    corroboratedBy: corroborationCount
+  };
+}
+
 function isRelevantLiveItem(item, requestedTheme) {
   const searchText = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
   const containsNoise = blockedNoiseKeywords.some((term) => searchText.includes(term));
   const containsRisk = liveRiskKeywords.some((term) => searchText.includes(term));
   const themeTerms = requestedTheme ? themeKeywords[requestedTheme] || [] : [];
   const containsTheme = !requestedTheme || themeTerms.some((term) => searchText.includes(term));
+  const hasExplicitThemeWords = requestedTheme ? themeTerms.some((term) => searchText.includes(term)) : true;
 
-  return !containsNoise && containsRisk && containsTheme;
+  return !containsNoise && containsRisk && hasExplicitThemeWords && containsTheme && scoreLiveItem(item, requestedTheme) >= 6;
 }
 
-async function fetchGdeltArticles(theme, limit) {
+function rankLiveItems(items, requestedTheme, limit) {
+  const safeLimit = Number.isFinite(limit) ? Math.max(1, limit) : 10;
+  const sourcesByStory = getCorroborationCounts(items);
+
+  return items
+    .map((item) => ({
+      ...item,
+      ...buildRiskMetadata(
+        item,
+        requestedTheme,
+        sourcesByStory.get(getStoryFingerprint(item))?.size || 1
+      )
+    }))
+    .sort((a, b) => {
+      const scoreDelta = (b.riskScore || 0) - (a.riskScore || 0);
+      if (scoreDelta !== 0) return scoreDelta;
+      return new Date(b.publishedAt) - new Date(a.publishedAt);
+    })
+    .slice(0, safeLimit);
+}
+
+async function fetchGdeltArticles(theme, limit, date = '') {
   const gdeltQuery = gdeltThemeQueries[theme] || gdeltThemeQueries.misinformation;
-  const gdeltUrl = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(gdeltQuery)}&mode=artlist&format=json&maxrecords=${limit}`;
+  const dateFilter = date
+    ? `&startdatetime=${date.replace(/-/g, '')}000000&enddatetime=${date.replace(/-/g, '')}235959`
+    : '';
+  const gdeltUrl = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(gdeltQuery)}&mode=artlist&format=json&maxrecords=${limit}${dateFilter}`;
 
   try {
     const response = await fetch(gdeltUrl, {
@@ -1030,7 +1234,8 @@ async function fetchGdeltArticles(theme, limit) {
       publishedAt: article.seendate ? new Date(article.seendate).toISOString() : new Date().toISOString(),
       source: article.domain ? `GDELT • ${article.domain}` : 'GDELT Public News API',
       theme,
-      type: 'News'
+      type: 'News',
+      provenance: date ? 'historical-gdelt' : 'live-gdelt'
     }));
   } catch (error) {
     return [];
@@ -1062,7 +1267,8 @@ async function fetchGdeltAIPulseArticles(limit) {
       publishedAt: article.seendate ? new Date(article.seendate).toISOString() : new Date().toISOString(),
       source: article.domain ? `GDELT • ${article.domain}` : 'GDELT Public News API',
       theme: 'dangerous-misinformation',
-      type: 'News'
+      type: 'News',
+      provenance: 'live-gdelt'
     }));
   } catch (error) {
     return [];
@@ -1248,22 +1454,28 @@ app.get('/api/trend/:signalId/:slug', (req, res) => {
 // Load historical snapshot data for past dates
 function loadHistoricalSnapshot(date, theme = 'all') {
   try {
-    // Try to load a specific date file first (if it exists)
     const themePrefix = theme && theme !== 'all' ? `-theme-${theme}` : '';
-    const snapshotPath = path.join(__dirname, 'public', 'data', `live-sources${themePrefix}-${date}.json`);
-    
-    if (fs.existsSync(snapshotPath)) {
-      const data = fs.readFileSync(snapshotPath, 'utf8');
-      console.log(`✓ Loaded dated snapshot: live-sources${themePrefix}-${date}.json`);
-      return JSON.parse(data);
+    const dataDirectory = path.join(__dirname, 'public', 'data');
+    const candidates = [
+      { path: path.join(dataDirectory, `live-sources${themePrefix}-${date}.json`), label: `live-sources${themePrefix}-${date}.json` }
+    ];
+
+    if (theme !== 'all') {
+      candidates.push(
+        { path: path.join(dataDirectory, `live-sources-${date}.json`), label: `live-sources-${date}.json` },
+        { path: path.join(dataDirectory, `live-sources${themePrefix}.json`), label: `live-sources${themePrefix}.json` },
+        { path: path.join(dataDirectory, 'live-sources.json'), label: 'live-sources.json' }
+      );
+    } else {
+      candidates.push({ path: path.join(dataDirectory, 'live-sources.json'), label: 'live-sources.json' });
     }
 
-    // Fallback to universal snapshot file if specific date doesn't exist
-    const universalPath = path.join(__dirname, 'public', 'data', `live-sources${themePrefix}.json`);
-    if (fs.existsSync(universalPath)) {
-      const data = fs.readFileSync(universalPath, 'utf8');
-      console.log(`✓ Loaded universal snapshot: live-sources${themePrefix}.json (will filter by date)`);
-      return JSON.parse(data);
+    for (const candidate of candidates) {
+      if (fs.existsSync(candidate.path)) {
+        const data = fs.readFileSync(candidate.path, 'utf8');
+        console.log(`✓ Loaded snapshot: ${candidate.label}`);
+        return JSON.parse(data);
+      }
     }
   } catch (error) {
     console.warn(`Could not load historical snapshot for ${date}:`, error.message);
@@ -1271,24 +1483,117 @@ function loadHistoricalSnapshot(date, theme = 'all') {
   return null;
 }
 
+function saveLiveSnapshot(date, theme, items) {
+  const usableItems = items.filter((item) => isUsableArticleLink(item.link) && item.title);
+  if (!usableItems.length) return;
+
+  try {
+    const dataDirectory = path.join(__dirname, 'public', 'data');
+    fs.mkdirSync(dataDirectory, { recursive: true });
+
+    const themePrefix = theme && theme !== 'all' ? `-theme-${theme}` : '';
+    const snapshotPath = path.join(dataDirectory, `live-sources${themePrefix}-${date}.json`);
+    fs.writeFileSync(snapshotPath, JSON.stringify({
+      generatedAt: new Date().toISOString(),
+      data: usableItems
+    }, null, 2));
+  } catch (error) {
+    console.warn(`Could not save live snapshot for ${date}:`, error.message);
+  }
+}
+
 // Health check endpoint for Render
+function buildNoResultsMessage({ date, theme, hasHistoricalRecords = false } = {}) {
+  const dateLabel = date || 'the selected date';
+  const topicLabel = theme && theme !== 'all' ? theme : 'the selected topic';
+
+  if (hasHistoricalRecords) {
+    return `Historical reports exist for ${dateLabel} on ${topicLabel}, but no verified source links are available for that date and topic.`;
+  }
+
+  return `No verified news was found for ${dateLabel} on ${topicLabel}.`;
+}
+
+function buildProvenanceBadge(item = {}) {
+  const provenance = String(item.provenance || 'unverified').toLowerCase();
+
+  const labels = {
+    'live-feed': 'Live feed',
+    'live-gdelt': 'Live GDELT',
+    'historical-archive': 'Historical archive',
+    'historical-gdelt': 'Historical archive',
+    'historical-record': 'Historical archive',
+    fallback: 'Unverified',
+    unverified: 'Unverified'
+  };
+
+  return labels[provenance] || 'Unverified';
+}
+
+function sortRiskItems(items = [], mode = 'risk') {
+  const normalized = [...items];
+
+  return normalized.sort((a, b) => {
+    if (mode === 'recent') {
+      return new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0);
+    }
+
+    const riskDelta = (b.riskScore || 0) - (a.riskScore || 0);
+    if (riskDelta !== 0) return riskDelta;
+    return new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0);
+  });
+}
+
+function filterRiskItems(items = [], query = '') {
+  const normalizedQuery = String(query || '').trim().toLowerCase();
+  if (!normalizedQuery) return [...items];
+
+  return items.filter((item) => {
+    const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''} ${item.theme || ''}`.toLowerCase();
+    return text.includes(normalizedQuery);
+  });
+}
+
+function filterVerifiedItems(items = []) {
+  return items.filter((item) => {
+    const provenance = String(item.provenance || '').toLowerCase();
+    return ['live-feed', 'live-gdelt', 'historical-archive', 'historical-gdelt', 'historical-record'].includes(provenance);
+  });
+}
+
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
-app.get('/api/live-sources', async (req, res) => {
+app.get('/api/risk-score', async (req, res) => {
   const requestedLimit = Number.parseInt(req.query.limit, 10);
-  const limit = Number.isNaN(requestedLimit) ? 24 : Math.min(Math.max(requestedLimit, 1), 120);
+  const limit = Number.isNaN(requestedLimit) ? 10 : Math.min(Math.max(requestedLimit, 1), 60);
   const requestedTheme = (req.query.theme || '').toString().trim().toLowerCase();
-  const requestedType = (req.query.type || '').toString().trim().toLowerCase();
-  const fromDate = (req.query.from || '').toString().trim(); // YYYY-MM-DD format
-  const toDate = (req.query.to || '').toString().trim(); // YYYY-MM-DD format
+  const fromDate = (req.query.from || '').toString().trim();
+  const toDate = (req.query.to || '').toString().trim();
 
+  const payload = await loadLiveSourcesData({
+    limit,
+    requestedTheme,
+    requestedType: 'news',
+    fromDate,
+    toDate
+  });
+
+  const data = rankLiveItems(Array.isArray(payload && payload.data) ? payload.data : [], requestedTheme, limit);
+
+  return res.json({
+    generatedAt: new Date().toISOString(),
+    total: data.length,
+    data
+  });
+});
+
+async function loadLiveSourcesData({ limit, requestedTheme, requestedType, fromDate, toDate }) {
   try {
     const selectedTheme = requestedTheme || 'all';
-    const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+    const today = new Date().toISOString().split('T')[0];
 
-    // Log request details
     console.log(`\n📰 /api/live-sources request:`);
     console.log(`   from: ${fromDate || 'not specified'}`);
     console.log(`   to: ${toDate || 'not specified'}`);
@@ -1296,20 +1601,16 @@ app.get('/api/live-sources', async (req, res) => {
     console.log(`   type: ${requestedType || 'all'}`);
     console.log(`   today: ${today}`);
 
-    // Determine if we should use historical snapshots or live feeds
-    // Extract just the date part if fromDate is ISO format
     const fromDateOnly = fromDate ? fromDate.split('T')[0] : null;
     const isHistoricalRequest = fromDateOnly && fromDateOnly < today;
-    
+
     let feedResults, gdeltItems;
 
     if (isHistoricalRequest) {
-      // For historical dates, try to load from snapshot files
-      feedResults = [{ status: 'rejected' }]; // Don't fetch live feeds for old dates
-      gdeltItems = [];
+      feedResults = [{ status: 'rejected' }];
+      gdeltItems = await fetchGdeltArticles(selectedTheme, Math.min(Math.max(limit, 8), 40), fromDateOnly);
       console.log(`   → Using historical snapshot (date: ${fromDate})`);
     } else {
-      // For today or future (shouldn't happen), fetch live data
       console.log(`   → Fetching live feeds (today's data)`);
       const results = await Promise.all([
         Promise.allSettled(liveSourceFeeds.map((feed) => withTimeout(parser.parseURL(feed.url), 8000))),
@@ -1354,16 +1655,19 @@ app.get('/api/live-sources', async (req, res) => {
         publishedAt: item.isoDate || item.pubDate || new Date().toISOString(),
         source: feed.label,
         theme: feed.theme,
-        type: feed.type
+        type: feed.type,
+        provenance: 'live-feed'
       }));
     });
 
-    // For historical dates, load from snapshot file instead of live feeds
     let snapshotData = [];
     if (isHistoricalRequest) {
       const snapshot = loadHistoricalSnapshot(fromDateOnly, selectedTheme);
       if (snapshot && snapshot.data) {
-        snapshotData = Array.isArray(snapshot.data) ? snapshot.data : [];
+        snapshotData = (Array.isArray(snapshot.data) ? snapshot.data : []).map((item) => ({
+          ...item,
+          provenance: item.provenance || 'historical-archive'
+        }));
         console.log(`   → Loaded ${snapshotData.length} articles from snapshot`);
       } else {
         console.log(`   → Snapshot not found or empty`);
@@ -1380,15 +1684,14 @@ app.get('/api/live-sources', async (req, res) => {
 
     sourceStatus.push(gdeltStatus);
 
-    // Use snapshot data for historical requests
-    // For today, try live data first, but fallback to snapshot if empty
     let baseItems;
     if (isHistoricalRequest) {
-      baseItems = snapshotData;
+      baseItems = [...snapshotData, ...gdeltItems];
     } else {
-      // Try live feeds first
       baseItems = [...items, ...gdeltItems];
-      // If live feeds are empty for today, try to load snapshot as fallback
+      if (baseItems.length) {
+        saveLiveSnapshot(today, selectedTheme, baseItems);
+      }
       if (baseItems.length === 0) {
         console.log(`   ⚠ Live feeds returned no data, trying snapshot fallback for ${today}`);
         const todaySnapshot = loadHistoricalSnapshot(today, selectedTheme);
@@ -1398,34 +1701,25 @@ app.get('/api/live-sources', async (req, res) => {
         }
       }
     }
-    
-    let normalizedItems = baseItems
-      .filter((item) => item.link && item.title);
 
-    // Filter by date range if specified
+    let normalizedItems = baseItems.filter((item) => isUsableArticleLink(item.link) && item.title);
+
     if (fromDate) {
-      // Handle both YYYY-MM-DD and full ISO timestamp formats
       let fromDateTime, toDateTime;
-      
       if (fromDate.includes('T')) {
-        // Already in ISO format (e.g., 2026-02-13T00:00:00.000Z)
         fromDateTime = new Date(fromDate).getTime();
       } else {
-        // Date-only format (e.g., 2026-02-13)
         fromDateTime = new Date(`${fromDate}T00:00:00Z`).getTime();
       }
-      
+
       if (toDate && toDate.includes('T')) {
-        // Already in ISO format
         toDateTime = new Date(toDate).getTime();
       } else if (toDate) {
-        // Date-only format
         toDateTime = new Date(`${toDate}T23:59:59.999Z`).getTime();
       } else {
-        // Default to end of today
         toDateTime = new Date(`${today}T23:59:59.999Z`).getTime();
       }
-      
+
       const beforeFilter = normalizedItems.length;
       normalizedItems = normalizedItems.filter((item) => {
         const publishedTime = new Date(item.publishedAt).getTime();
@@ -1444,24 +1738,28 @@ app.get('/api/live-sources', async (req, res) => {
     }
 
     const relevantItems = normalizedItems.filter((item) => isRelevantLiveItem(item, requestedTheme));
-    const itemsToUse = relevantItems.length
-      ? relevantItems
-      : normalizedItems.filter((item) => item.type === 'News');
+    const rankedCandidates = (relevantItems.length ? relevantItems : normalizedItems.filter((item) => item.type === 'News'));
+    const filteredItems = rankLiveItems(rankedCandidates, requestedTheme, limit);
 
-    const filteredItems = itemsToUse
-      .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-      .slice(0, limit);
-
+    const hasDateFilter = Boolean(fromDate || toDate);
     const data = filteredItems.length
       ? filteredItems
-      : (requestedTheme && themeFallbackSources[requestedTheme]
-          ? themeFallbackSources[requestedTheme].map((item) => ({
-              ...item,
-              theme: requestedTheme,
-              publishedAt: new Date().toISOString(),
-              snippet: ''
-            }))
-          : fallbackLiveSources);
+      : hasDateFilter
+        ? []
+        : (requestedTheme && themeFallbackSources[requestedTheme]
+            ? themeFallbackSources[requestedTheme].map((item) => ({
+                ...item,
+                theme: requestedTheme,
+                publishedAt: new Date().toISOString(),
+                snippet: '',
+                provenance: 'unverified',
+                ...buildRiskMetadata({ ...item, title: item.title, snippet: '', source: item.source }, requestedTheme)
+              }))
+            : fallbackLiveSources.map((item) => ({
+                ...item,
+                provenance: 'unverified',
+                ...buildRiskMetadata({ title: item.title, snippet: '', source: item.source }, requestedTheme)
+              })));
 
     const stats = data.reduce(
       (acc, item) => {
@@ -1477,26 +1775,48 @@ app.get('/api/live-sources', async (req, res) => {
       { total: 0, news: 0, publicConversations: 0 }
     );
 
+    const topicLabel = requestedTheme || 'the selected topic';
+    const hasUnlinkedHistoricalRecords = isHistoricalRequest && snapshotData.length > 0 && data.length === 0;
+    const message = hasUnlinkedHistoricalRecords
+      ? buildNoResultsMessage({
+          date: fromDate || toDate || 'the selected date',
+          theme: requestedTheme || 'all',
+          hasHistoricalRecords: true
+        })
+      : hasDateFilter && data.length === 0
+        ? buildNoResultsMessage({
+            date: fromDate || toDate || 'the selected date',
+            theme: requestedTheme || 'all'
+          })
+        : null;
+
     console.log(`✓ Response: ${data.length} articles returned\n`);
 
-    return res.json({
+    return {
       generatedAt: new Date().toISOString(),
       filters: {
         theme: requestedTheme || null,
         type: requestedType || null
       },
       stats,
+      message,
       sourceStatus,
       data
-    });
+    };
   } catch (error) {
-    return res.json({
+    return {
       generatedAt: new Date().toISOString(),
       filters: {
         theme: requestedTheme || null,
         type: requestedType || null
       },
-      stats: { total: fallbackLiveSources.length, news: 0, publicConversations: 0 },
+      stats: { total: fromDate || toDate ? 0 : fallbackLiveSources.length, news: 0, publicConversations: 0 },
+      message: fromDate || toDate
+        ? buildNoResultsMessage({
+            date: fromDate || toDate,
+            theme: requestedTheme || 'all'
+          })
+        : null,
       sourceStatus: liveSourceFeeds.map((feed) => ({
         label: feed.label,
         theme: feed.theme,
@@ -1504,9 +1824,28 @@ app.get('/api/live-sources', async (req, res) => {
         status: 'offline',
         itemCount: 0
       })),
-      data: fallbackLiveSources
-    });
+      data: fromDate || toDate ? [] : fallbackLiveSources
+    };
   }
+}
+
+app.get('/api/live-sources', async (req, res) => {
+  const requestedLimit = Number.parseInt(req.query.limit, 10);
+  const limit = Number.isNaN(requestedLimit) ? 24 : Math.min(Math.max(requestedLimit, 1), 120);
+  const requestedTheme = (req.query.theme || '').toString().trim().toLowerCase();
+  const requestedType = (req.query.type || '').toString().trim().toLowerCase();
+  const fromDate = (req.query.from || '').toString().trim();
+  const toDate = (req.query.to || '').toString().trim();
+
+  const payload = await loadLiveSourcesData({
+    limit,
+    requestedTheme,
+    requestedType,
+    fromDate,
+    toDate
+  });
+
+  return res.json(payload);
 });
 
 app.get('/trend/:signalId/:slug', (req, res) => {
@@ -1517,6 +1856,21 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-app.listen(port, () => {
-  console.log(`Argus app is running on http://localhost:${port}`);
-});
+if (require.main === module) {
+  app.listen(port, () => {
+    console.log(`Argus app is running on http://localhost:${port}`);
+  });
+}
+
+module.exports = {
+  app,
+  buildNoResultsMessage,
+  buildProvenanceBadge,
+  sortRiskItems,
+  filterRiskItems,
+  filterVerifiedItems,
+  isRelevantLiveItem,
+  dedupeArticles,
+  rankLiveItems,
+  isUsableArticleLink
+};

@@ -4,8 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="ARGUS: Real-Time Civic Risk Intelligence" />
-  <title>Argus</title>
-  <link rel="stylesheet" href="./styles.css?v=20260214_v2" />
+  <title>ARGUS | India Digital Risk Monitor</title>
+  <link rel="stylesheet" href="./styles.css?v=20260924_v3" />
 </head>
 <body>
   <div class="paper-shell">
@@ -65,7 +65,13 @@
         <div class="date-selector-container">
           <label for="dateSelector">View Data for:</label>
           <input type="date" id="dateSelector" class="date-selector" min="2000-01-01" />
+          <button id="refreshDataBtn" class="refresh-data-btn" type="button">Refresh</button>
         </div>
+      </div>
+      <div class="source-legend" aria-label="Source status legend">
+        <span class="legend-item"><span class="signal-badge signal-live">Live feed</span></span>
+        <span class="legend-item"><span class="signal-badge signal-historical">Historical archive</span></span>
+        <span class="legend-item"><span class="signal-badge signal-unverified">Unverified</span></span>
       </div>
       <p id="editionStamp" class="edition-stamp">Edition Stamp: Daily Brief</p>
     </header>
@@ -104,6 +110,7 @@
             <button class="theme-filter-btn" data-theme="cybersecurity">Cybersecurity</button>
             <button class="theme-filter-btn" data-theme="fraud-impersonation">Fraud/Impersonation</button>
           </div>
+          <div id="signalSummary" class="signal-summary-strip" aria-live="polite"></div>
           <div id="signalsList" class="signals-list"></div>
       </section>
 
@@ -111,6 +118,7 @@
           <h2 id="streamPanelTitle">Live Trending News</h2>
           <p id="dataModeStatus" class="data-mode-status">Data Mode: Live API</p>
           <p id="dataFreshness" class="data-freshness">Last Updated: —</p>
+          <div id="sourceHealthSummary" class="source-health-summary"></div>
           <div class="stream-filters">
             <label>
               Category
@@ -123,6 +131,21 @@
               <select id="streamRegionFilter" class="stream-filter-select">
                 <option value="all">All</option>
               </select>
+            </label>
+            <label>
+              Sort by
+              <select id="streamSortFilter" class="stream-filter-select">
+                <option value="risk">Highest risk</option>
+                <option value="recent">Newest</option>
+              </select>
+            </label>
+            <label class="stream-search-label">
+              Search
+              <input id="streamSearchInput" class="stream-search-input" type="search" placeholder="Search headlines..." />
+            </label>
+            <label class="stream-toggle-label" for="trustedOnlyToggle">
+              <input id="trustedOnlyToggle" type="checkbox" />
+              Trusted only
             </label>
           </div>
           <div id="misinfoNewsList" class="live-sources-list"></div>
@@ -145,8 +168,8 @@
     </footer>
   </div>
 
-  <script src="./runtime-config.js?v=20260214_v2"></script>
-  <script src="./cursor-effects.js?v=20260214_v2"></script>
-  <script src="./app.js?v=20260214_v2"></script>
+  <script src="./runtime-config.js?v=20260924_v3"></script>
+  <script src="./cursor-effects.js?v=20260924_v3"></script>
+  <script src="./app.js?v=20260924_v3"></script>
 </body>
 </html>
