@@ -81,24 +81,13 @@ function dedupeByLink(articles) {
   });
 }
 
-/**
- * Rotate articles by dayIndex so each date has different leading articles,
- * and stamp publishedAt with IST-correct timestamps spread across the day.
- */
+/** Keep only articles actually published during the requested IST date. */
 function prepareArticles(articles, istDate, dayIndex) {
-  const total = articles.length;
-  if (total === 0) return [];
+  return articles.filter((article) => {
+    if (!article.publishedAt) return false;
 
-  const rotation = dayIndex % total;
-  const rotated = [...articles.slice(rotation), ...articles.slice(0, rotation)];
-
-  return rotated.map((article, i) => {
-    const hourIST = 6 + Math.floor((i / total) * 16); // 06:00–22:00 IST
-    const minuteIST = Math.floor(Math.random() * 60);
-    const stamp = new Date(
-      `${istDate}T${String(hourIST).padStart(2, "0")}:${String(minuteIST).padStart(2, "0")}:00+05:30`
-    );
-    return { ...article, publishedAt: stamp.toISOString() };
+    const publishedAt = new Date(article.publishedAt);
+    return !Number.isNaN(publishedAt.getTime()) && getISTDateString(publishedAt) === istDate;
   });
 }
 

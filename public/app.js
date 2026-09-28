@@ -35,6 +35,23 @@ function getTodayIST() {
   return ist.toISOString().split("T")[0];
 }
 
+function getISTDateString(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+
+  const utc = date.getTime() + date.getTimezoneOffset() * 60000;
+  return new Date(utc + 330 * 60000).toISOString().split("T")[0];
+}
+
+function filterSnapshotToSelectedDate(payload) {
+  if (!payload || !Array.isArray(payload.data) || !selectedDate) return payload;
+
+  return {
+    ...payload,
+    data: payload.data.filter((item) => getISTDateString(item.publishedAt) === selectedDate)
+  };
+}
+
 async function fetchLiveData(signal) {
   const params = new URLSearchParams({ limit: "60" });
 
@@ -67,7 +84,7 @@ async function fetchLiveData(signal) {
 
     for (const fallbackUrl of fallbackUrls) {
       const fallbackRes = await fetch(fallbackUrl, { cache: "no-store", signal });
-      if (fallbackRes.ok) return await fallbackRes.json();
+      if (fallbackRes.ok) return filterSnapshotToSelectedDate(await fallbackRes.json());
     }
 
     throw error;
@@ -177,7 +194,7 @@ function renderLoadingState() {
   if (stream) stream.innerHTML = loadingMarkup;
   if (signals) signals.innerHTML = loadingMarkup;
   if (heatmap) heatmap.innerHTML = loadingMarkup;
-  if (aiWatch) aiWatch.innerHTML = loadingMarkup;
+  if (aiWatch) aiWatch.innerHTML = '<div class="stream-loading"><span class="loading-spinner" aria-hidden="true"></span><p>Loading AI safety pulse...</p></div>';
   if (sourceHealth) sourceHealth.innerHTML = '<div class="source-health-pill online"><span>Online</span><strong>—</strong></div><div class="source-health-pill offline"><span>Offline</span><strong>—</strong></div>';
   safeSetText("streamPanelTitle", "Live Stream (loading)");
   safeSetText("dataModeStatus", "Data Mode: Loading current edition");
@@ -229,7 +246,6 @@ async function loadAll() {
     renderSignals();
     renderHeatmap();
     renderMiniTrend();
-    renderAIWatch();
     scheduleLiveRefresh();
 
   } catch (err) {
@@ -406,15 +422,10 @@ function renderSignals() {
   const list = document.getElementById("signalsList");
   if (!list) return;
 
-  if (selectedTheme === "all") {
-    list.innerHTML =
-      `<p class="signals-empty">${dataStatusMessage || "Select a theme to view risk signals."}</p>`;
-    return;
-  }
-
   const selected = normalize(selectedTheme);
 
   const filtered = allItems.filter((item) => {
+    if (selectedTheme === "all") return true;
     const itemTheme = normalize(item.theme);
     return itemTheme && itemTheme === selected;
   });
@@ -544,11 +555,16 @@ async function loadAIPulseSnapshot() {
   ];
 
   for (const snapshotUrl of snapshotUrls) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 8000);
+
     try {
-      const response = await fetch(snapshotUrl, { cache: "no-store" });
+      const response = await fetch(snapshotUrl, { cache: "no-store", signal: controller.signal });
       if (!response.ok) continue;
       const payload = await response.json();
-      const pulseItems = (payload.data || []).map((item) => ({
+      if (!Array.isArray(payload.data)) continue;
+
+      const pulseItems = payload.data.map((item) => ({
         title: item.title,
         snippet: item.summary,
         link: item.sourceLink
@@ -557,8 +573,13 @@ async function loadAIPulseSnapshot() {
       return;
     } catch (error) {
       console.warn(`AI pulse snapshot unavailable: ${snapshotUrl}`);
+    } finally {
+      clearTimeout(timeout);
     }
   }
+
+  const list = document.getElementById("aiWatchList");
+  if (list) list.innerHTML = '<p class="signals-empty">AI safety pulse is unavailable right now.</p>';
 }
 
 /* ================================
@@ -590,7 +611,7 @@ function initDateSelector() {
   dateEl.addEventListener("change", () => {
     selectedDate = dateEl.value;
     streamCurrentPage = 1;
-    loadAll();
+    Promise.all([loadAll(), loadAIPulseSnapshot()]);
   });
 }
 

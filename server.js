@@ -1530,6 +1530,19 @@ function buildProvenanceBadge(item = {}) {
   return labels[provenance] || 'Unverified';
 }
 
+function getISTDateRange(date) {
+  return {
+    from: new Date(`${date}T00:00:00+05:30`).getTime(),
+    to: new Date(`${date}T23:59:59.999+05:30`).getTime()
+  };
+}
+
+function getTodayIST() {
+  const now = new Date();
+  const ist = new Date(now.getTime() + (330 + now.getTimezoneOffset()) * 60000);
+  return ist.toISOString().split('T')[0];
+}
+
 function sortRiskItems(items = [], mode = 'risk') {
   const normalized = [...items];
 
@@ -1592,7 +1605,7 @@ app.get('/api/risk-score', async (req, res) => {
 async function loadLiveSourcesData({ limit, requestedTheme, requestedType, fromDate, toDate }) {
   try {
     const selectedTheme = requestedTheme || 'all';
-    const today = new Date().toISOString().split('T')[0];
+    const today = getTodayIST();
 
     console.log(`\n📰 /api/live-sources request:`);
     console.log(`   from: ${fromDate || 'not specified'}`);
@@ -1709,15 +1722,15 @@ async function loadLiveSourcesData({ limit, requestedTheme, requestedType, fromD
       if (fromDate.includes('T')) {
         fromDateTime = new Date(fromDate).getTime();
       } else {
-        fromDateTime = new Date(`${fromDate}T00:00:00Z`).getTime();
+        fromDateTime = getISTDateRange(fromDate).from;
       }
 
       if (toDate && toDate.includes('T')) {
         toDateTime = new Date(toDate).getTime();
       } else if (toDate) {
-        toDateTime = new Date(`${toDate}T23:59:59.999Z`).getTime();
+        toDateTime = getISTDateRange(toDate).to;
       } else {
-        toDateTime = new Date(`${today}T23:59:59.999Z`).getTime();
+        toDateTime = getISTDateRange(today).to;
       }
 
       const beforeFilter = normalizedItems.length;
@@ -1866,6 +1879,8 @@ module.exports = {
   app,
   buildNoResultsMessage,
   buildProvenanceBadge,
+  getISTDateRange,
+  getTodayIST,
   sortRiskItems,
   filterRiskItems,
   filterVerifiedItems,

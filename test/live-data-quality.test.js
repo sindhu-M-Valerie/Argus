@@ -1,6 +1,17 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { isRelevantLiveItem, dedupeArticles, rankLiveItems, isUsableArticleLink, buildNoResultsMessage, buildProvenanceBadge, sortRiskItems, filterRiskItems, filterVerifiedItems } = require('../server');
+const { isRelevantLiveItem, dedupeArticles, rankLiveItems, isUsableArticleLink, buildNoResultsMessage, buildProvenanceBadge, sortRiskItems, filterRiskItems, filterVerifiedItems, getISTDateRange, getTodayIST } = require('../server');
+
+test('uses IST boundaries for a selected calendar date', () => {
+  const range = getISTDateRange('2026-09-24');
+
+  assert.equal(new Date(range.from).toISOString(), '2026-09-23T18:30:00.000Z');
+  assert.equal(new Date(range.to).toISOString(), '2026-09-24T18:29:59.999Z');
+});
+
+test('returns the current calendar date in IST', () => {
+  assert.match(getTodayIST(), /^\d{4}-\d{2}-\d{2}$/);
+});
 
 test('keeps relevant risk articles for the selected theme', () => {
   const item = {
