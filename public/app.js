@@ -28,19 +28,21 @@ const liveRefreshIntervalMs = 5 * 60 * 1000;
 ================================ */
 
 function getTodayIST() {
-  const now = new Date();
-  const IST_OFFSET = 330;
-  const utc = now.getTime() + now.getTimezoneOffset() * 60000;
-  const ist = new Date(utc + IST_OFFSET * 60000);
-  return ist.toISOString().split("T")[0];
+  return getISTDateString(new Date());
 }
 
 function getISTDateString(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "";
 
-  const utc = date.getTime() + date.getTimezoneOffset() * 60000;
-  return new Date(utc + 330 * 60000).toISOString().split("T")[0];
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Kolkata",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).formatToParts(date);
+  const values = Object.fromEntries(parts.map(({ type, value }) => [type, value]));
+  return `${values.year}-${values.month}-${values.day}`;
 }
 
 function filterSnapshotToSelectedDate(payload) {
