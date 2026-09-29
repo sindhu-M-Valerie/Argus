@@ -98,18 +98,30 @@ function safeSetText(id, text) {
   if (el) el.textContent = text;
 }
 
+function getDataViewTimestamp() {
+  if (selectedDate !== getTodayIST()) {
+    const archiveDate = new Date(`${selectedDate}T12:00:00`);
+    return `Archive date: ${archiveDate.toLocaleDateString()}`;
+  }
+
+  return `Checked: ${new Date().toLocaleString()}`;
+}
+
 function setFreshness(generatedAt, mode = "Live Feed") {
   if (!generatedAt) return;
   lastGeneratedAt = generatedAt;
   const stamp = new Date(generatedAt).toLocaleString();
-  safeSetText("dataFreshness", `Last Updated: ${stamp}`);
-  safeSetText("topDataFreshness", `Last Updated: ${stamp}`);
+  const isArchive = mode === "Historical Archive";
+  const freshnessLabel = isArchive ? getDataViewTimestamp() : `Last Checked: ${stamp}`;
+  safeSetText("dataFreshness", freshnessLabel);
+  safeSetText("topDataFreshness", freshnessLabel);
   safeSetText("dataModeStatus", `Data Mode: ${mode}`);
 
   const editionStamp = document.getElementById("editionStamp");
   if (editionStamp) {
-    const stampText = mode === "Snapshot Data" ? "Daily 06:00 IST Edition" : "Live Feed • Updated in real time";
-    editionStamp.textContent = `Edition Stamp: ${new Date(generatedAt).toLocaleDateString()} • ${stampText}`;
+    const editionDate = isArchive ? new Date(`${selectedDate}T12:00:00`) : new Date(generatedAt);
+    const stampText = isArchive ? "Historical Archive" : mode === "Live Feed" ? "Live Feed; checks every 5 minutes" : mode;
+    editionStamp.textContent = `Edition Stamp: ${editionDate.toLocaleDateString()} • ${stampText}`;
   }
 }
 
@@ -233,7 +245,11 @@ async function loadAll() {
     const data = await fetchLiveData(controller.signal);
     if (requestSequence !== loadSequence) return;
     dataStatusMessage = data.message || "";
-    const mode = data && data.sourceStatus && data.sourceStatus.length ? "Live Feed" : "Snapshot Data";
+    const mode = selectedDate !== getTodayIST()
+      ? "Historical Archive"
+      : data && data.sourceStatus && data.sourceStatus.some((source) => source.status === "online" && source.itemCount > 0)
+        ? "Live Feed"
+        : "Live Feed Unavailable";
     setFreshness(data.generatedAt, mode);
     renderSourceHealth(data.sourceStatus || []);
 
@@ -477,7 +493,7 @@ function renderHeatmap() {
   const container = document.getElementById("geoHeatmapList");
   if (!container) return;
 
-  safeSetText("geoUpdated", `Updated: ${new Date().toLocaleString()}`);
+  safeSetText("geoUpdated", getDataViewTimestamp());
 
   const regionGroups = {};
 
@@ -526,7 +542,7 @@ function renderMiniTrend() {
     .map(([theme, count]) => `<div>${theme}: ${count}</div>`)
     .join("");
 
-  safeSetText("miniTrendUpdated", `Updated: ${new Date().toLocaleString()}`);
+  safeSetText("miniTrendUpdated", getDataViewTimestamp());
 }
 
 /* ================================
@@ -547,7 +563,7 @@ function renderAIWatch(items = allItems) {
       : `<p>${i.title}</p>`)
     .join("");
 
-  safeSetText("aiWatchUpdated", `Updated: ${new Date().toLocaleString()}`);
+  safeSetText("aiWatchUpdated", getDataViewTimestamp());
 }
 
 async function loadAIPulseSnapshot() {
