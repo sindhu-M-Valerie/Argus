@@ -52,6 +52,8 @@ AI research and industry feeds (arXiv, Hugging Face, AI funding and agent-launch
 
 On GitHub Pages there is no server, so the dashboard reads snapshots in `public/data/`. A scheduled workflow (`.github/workflows/refresh-snapshots.yml`) runs every 6 hours, fetches all sources, runs the data-quality tests and commits the results, then Pages redeploys. Days that were never collected show "No archive exists for this date" rather than borrowed or placeholder content.
 
+**7-day trends** (`trend.html`, `/api/signals`) are computed from those archived snapshots: articles per theme per day, distinct sources, high-risk counts, and the articles themselves. A day that wasn't collected is shown as "not collected", never as zero. A direction (Rising / Falling / Stable) is only reported with at least 4 collected days and 5 articles in the window; otherwise the page says "Insufficient history" or "Low volume".
+
 Risk scores (0–100) combine theme severity, how much theme-specific evidence the text contains, source trust, and how many independent sources cover the same story. Recency affects sort order, not risk.
 
 ```bash

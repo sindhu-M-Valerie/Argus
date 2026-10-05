@@ -5,7 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="ARGUS: Real-Time Civic Risk Intelligence" />
   <title>Trend Detail • Argus</title>
-  <link rel="stylesheet" href="./styles.css?v=20260212af" />
+  <link rel="stylesheet" href="./styles.css?v=20261005a" />
+  <style>
+    .trend-table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+    .trend-table th, .trend-table td { padding: 0.4rem 0.5rem; border-bottom: 1px solid rgba(192,192,192,0.25); text-align: left; vertical-align: top; }
+    .trend-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .trend-scroll { overflow-x: auto; }
+    .day-bars { display: flex; align-items: flex-end; gap: 0.4rem; height: 120px; margin: 0.75rem 0; }
+    .day-bar { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; font-size: 0.75rem; }
+    .day-bar span.bar { width: 100%; background: currentColor; opacity: 0.55; min-height: 2px; }
+    .day-bar.missing span.bar { opacity: 0.15; background: repeating-linear-gradient(45deg, currentColor 0 3px, transparent 3px 6px); height: 100%; }
+  </style>
 </head>
 <body>
   <div class="paper-shell">
@@ -60,22 +70,21 @@
       </div>
       <p class="edition">India Digital Risk Monitor • Detail Edition</p>
       <h1>ARGUS</h1>
-      <p class="tagline">Trend Intelligence Detail</p>
+      <p class="tagline">7-Day Trend Detail</p>
     </header>
 
     <main class="news-grid">
       <section class="panel">
-        <h2 id="detailTitle">Loading trend detail...</h2>
+        <h2 id="detailTitle">Loading trends...</h2>
         <p id="detailMeta" class="trend-stats"></p>
+        <p id="detailMethod" class="trend-stats"></p>
       </section>
-
       <section class="panel">
-        <h2>Key Highlights</h2>
-        <ul id="detailHighlights" class="detail-list"></ul>
+        <h2 id="detailBodyTitle">7-Day Theme Activity</h2>
+        <div id="detailBody"></div>
       </section>
-
       <section class="panel">
-        <p><a href="./">← Back to Front Page Signals</a></p>
+        <p><a href="./">&larr; Back to Front Page Signals</a></p>
       </section>
     </main>
 
@@ -84,8 +93,8 @@
     </footer>
   </div>
 
-  <script src="./runtime-config.js?v=20260212af"></script>
-  <script src="./cursor-effects.js?v=20260212af"></script>
-  <script src="./trend.js?v=20260212af"></script>
+  <script src="./runtime-config.js?v=20261005a"></script>
+  <script src="./cursor-effects.js?v=20261005a"></script>
+  <script src="./trend.js?v=20261005a"></script>
 </body>
 </html>

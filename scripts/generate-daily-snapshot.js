@@ -33,6 +33,8 @@ const {
   isUsableArticleLink
 } = require("../server");
 
+const { buildThemeSignals } = require("../lib/theme-signals");
+
 const DATA_DIR = path.resolve(__dirname, "..", "public", "data");
 const PULSE_WINDOW_DAYS = 7;
 
@@ -129,6 +131,14 @@ async function writeAIPulse(date, generatedAt) {
   console.log(`  AI pulse: ${recent.length} items in last ${PULSE_WINDOW_DAYS} days, ${payload.stats.cardsWithLinks}/${cards.length} cards with a source`);
 }
 
+/** 7-day per-theme signals, computed from the archived snapshots just written. */
+function writeThemeSignals() {
+  const signals = buildThemeSignals(DATA_DIR);
+  writeJSON(path.join(DATA_DIR, "signals.json"), signals);
+  const active = signals.data.filter((s) => s.totalArticles).length;
+  console.log(`  Signals: ${signals.collectedDays}/${signals.windowDays} days collected, ${active} themes with articles`);
+}
+
 async function main() {
   const args = process.argv.slice(2);
   const generatedAt = new Date().toISOString();
@@ -144,6 +154,7 @@ async function main() {
       const previous = readJSON(path.join(DATA_DIR, `live-sources-${date}.json`));
       writeDate(date, [], { generatedAt: (previous && previous.generatedAt) || generatedAt });
     }
+    writeThemeSignals();
     return;
   }
 
@@ -163,6 +174,7 @@ async function main() {
   // Late-published items from yesterday arrive after midnight, so refresh both days.
   writeDate(yesterday, items, { generatedAt, sourceStatus });
   writeDate(today, items, { generatedAt, sourceStatus });
+  writeThemeSignals();
   await writeAIPulse(today, generatedAt);
 }
 

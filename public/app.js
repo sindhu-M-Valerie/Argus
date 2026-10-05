@@ -474,6 +474,15 @@ function renderSignalSummary() {
 
 function renderSignals() {
   renderSignalSummary();
+  const trendLink = document.getElementById("trendLink");
+  if (trendLink) {
+    trendLink.href = selectedTheme && selectedTheme !== "all"
+      ? `trend.html?theme=${encodeURIComponent(selectedTheme)}`
+      : "trend.html";
+    trendLink.innerHTML = selectedTheme && selectedTheme !== "all"
+      ? "View 7-day trend for this theme &rarr;"
+      : "View 7-day trends for all themes &rarr;";
+  }
   const list = document.getElementById("signalsList");
   if (!list) return;
 
@@ -518,12 +527,22 @@ function renderSignals() {
    HEATMAP
 ================================ */
 
+// Region is only assigned when the article names it; otherwise it is
+// "Region not stated" (not "Global", which would be a claim).
+const REGION_PATTERNS = [
+  ["India", /\b(india|indian|delhi|mumbai|bengaluru|bangalore|kolkata|chennai|hyderabad|pune)\b/i],
+  ["South Asia (other)", /\b(pakistan|bangladesh|sri lanka|nepal|bhutan|maldives|afghanistan)\b/i],
+  ["North America", /\b(usa|u\.s\.|united states|america|canada|mexico)\b/i],
+  ["Europe", /\b(europe|european|eu|uk|britain|germany|france|italy|spain|romania|netherlands)\b/i],
+  ["East & Southeast Asia", /\b(china|japan|korea|singapore|philippines|cambodia|myanmar|thailand|vietnam|indonesia|malaysia)\b/i],
+  ["Middle East & Africa", /\b(saudi|uae|qatar|israel|iran|nigeria|kenya|south africa|egypt)\b/i],
+  ["Oceania", /\b(australia|new zealand)\b/i]
+];
+
 function getRegion(item) {
-  const text = normalize(item.title + " " + item.snippet);
-  if (text.includes("india")) return "India";
-  if (text.includes("usa") || text.includes("united states")) return "North America";
-  if (text.includes("europe")) return "Europe";
-  return "Global";
+  const text = `${item.title || ""} ${item.snippet || ""}`;
+  const match = REGION_PATTERNS.find(([, pattern]) => pattern.test(text));
+  return match ? match[0] : "Region not stated";
 }
 
 function renderHeatmap() {
@@ -575,9 +594,11 @@ function renderMiniTrend() {
     counts[theme] = (counts[theme] || 0) + 1;
   });
 
-  chart.innerHTML = Object.entries(counts)
-    .map(([theme, count]) => `<div>${theme}: ${count}</div>`)
-    .join("");
+  const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  chart.innerHTML = entries.length
+    ? `<div><strong>Articles per theme, ${escapeHtml(selectedDate)}</strong></div>` +
+      entries.map(([theme, count]) => `<div><a href="trend.html?theme=${encodeURIComponent(theme)}">${escapeHtml(theme)}</a>: ${count}</div>`).join("")
+    : `<div>No articles for ${escapeHtml(selectedDate)}.</div>`;
 
   safeSetText("miniTrendUpdated", getDataViewTimestamp());
 }
@@ -590,9 +611,8 @@ function renderAIWatch(items = allItems) {
   const list = document.getElementById("aiWatchList");
   if (!list) return;
 
-  const aiItems = items.filter((i) =>
-    normalize(i.title + " " + i.snippet).includes("ai")
-  );
+  // Items come from the AI Safety Pulse snapshot, already topic-matched.
+  const aiItems = items;
 
   list.innerHTML = aiItems.slice(0, 5)
     .map((i) => i.link
