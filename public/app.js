@@ -22,6 +22,7 @@ let loadSequence = 0;
 let refreshTimer = null;
 let dataStatusMessage = "";
 const liveRefreshIntervalMs = 5 * 60 * 1000;
+const API_TIMEOUT_MS = 20000;
 
 /* ================================
    UTILITIES
@@ -69,12 +70,23 @@ async function fetchLiveData(signal) {
   const apiBase = String(window.ARGUS_API_BASE || "").replace(/\/$/, "");
   const url = `${apiBase}/api/live-sources?${params.toString()}`;
 
+  // Give the API a bounded time. On GitHub Pages there is no API, and a slow
+  // or hung server must never leave the page spinning: fall back to snapshots.
+  const apiController = new AbortController();
+  const abortApi = () => apiController.abort();
+  signal.addEventListener("abort", abortApi, { once: true });
+  const apiTimer = setTimeout(abortApi, API_TIMEOUT_MS);
+
   try {
-    const res = await fetch(url, { cache: "no-store", signal });
+    const res = await fetch(url, { cache: "no-store", signal: apiController.signal });
     if (!res.ok) throw new Error(`Live data request failed: ${res.status}`);
-    return await res.json();
+    const payload = await res.json();
+    clearTimeout(apiTimer);
+    return payload;
   } catch (error) {
-    if (error.name === "AbortError") throw error;
+    clearTimeout(apiTimer);
+    signal.removeEventListener("abort", abortApi);
+    if (signal.aborted) throw error;
 
     const themeSlug = selectedTheme && selectedTheme !== "all"
       ? `theme-${encodeURIComponent(selectedTheme)}`
@@ -85,7 +97,10 @@ async function fetchLiveData(signal) {
       : [themeSnapshot];
 
     for (const fallbackUrl of fallbackUrls) {
-      const fallbackRes = await fetch(fallbackUrl, { cache: "no-store", signal });
+      const fallbackRes = await fetch(fallbackUrl, { cache: "no-store", signal }).catch((fetchError) => {
+        if (signal.aborted) throw fetchError;
+        return { ok: false };
+      });
       if (fallbackRes.ok) return filterSnapshotToSelectedDate(await fallbackRes.json());
     }
 

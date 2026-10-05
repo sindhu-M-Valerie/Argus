@@ -821,10 +821,12 @@ async function fetchGdeltArticles(theme, limit, date = '') {
   const gdeltUrl = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(gdeltQuery)}&mode=artlist&format=json&maxrecords=${limit}${dateFilter}`;
 
   try {
+    // GDELT sometimes never answers; without a timeout the whole request hangs.
     const response = await fetch(gdeltUrl, {
       headers: {
         'User-Agent': 'Argus/1.0 (+https://localhost)'
-      }
+      },
+      signal: AbortSignal.timeout(12000)
     });
 
     if (!response.ok) {
@@ -854,10 +856,12 @@ async function fetchGdeltAIPulseArticles(limit) {
   const gdeltUrl = `https://api.gdeltproject.org/api/v2/doc/doc?query=${encodeURIComponent(query)}&mode=artlist&format=json&maxrecords=${limit}`;
 
   try {
+    // GDELT sometimes never answers; without a timeout the whole request hangs.
     const response = await fetch(gdeltUrl, {
       headers: {
         'User-Agent': 'Argus/1.0 (+https://localhost)'
-      }
+      },
+      signal: AbortSignal.timeout(12000)
     });
 
     if (!response.ok) {
