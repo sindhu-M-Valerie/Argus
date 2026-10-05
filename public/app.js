@@ -55,6 +55,33 @@ function filterSnapshotToSelectedDate(payload) {
   };
 }
 
+async function fetchSnapshotData(signal) {
+  const themeSlug = selectedTheme && selectedTheme !== "all"
+    ? `theme-${encodeURIComponent(selectedTheme)}`
+    : "";
+  const themeSnapshot = `./data/live-sources-${themeSlug ? `${themeSlug}-` : ""}${selectedDate}.json`;
+  const snapshotUrls = themeSlug
+    ? [themeSnapshot, `./data/live-sources-${selectedDate}.json`]
+    : [themeSnapshot];
+
+  for (const snapshotUrl of snapshotUrls) {
+    const response = await fetch(snapshotUrl, { cache: "no-store", signal }).catch((error) => {
+      if (signal.aborted) throw error;
+      return null;
+    });
+    const contentType = response?.headers?.get("content-type") || "";
+    if (!response?.ok || !contentType.includes("application/json")) continue;
+
+    try {
+      return filterSnapshotToSelectedDate(await response.json());
+    } catch (error) {
+      if (signal.aborted) throw error;
+    }
+  }
+
+  return null;
+}
+
 async function fetchLiveData(signal) {
   const params = new URLSearchParams({ limit: "60" });
 
@@ -88,24 +115,8 @@ async function fetchLiveData(signal) {
     signal.removeEventListener("abort", abortApi);
     if (signal.aborted) throw error;
 
-    const themeSlug = selectedTheme && selectedTheme !== "all"
-      ? `theme-${encodeURIComponent(selectedTheme)}`
-      : "";
-    const themeSnapshot = `./data/live-sources-${themeSlug ? `${themeSlug}-` : ""}${selectedDate}.json`;
-    const fallbackUrls = themeSlug
-      ? [themeSnapshot, `./data/live-sources-${selectedDate}.json`]
-      : [themeSnapshot];
-
-    for (const fallbackUrl of fallbackUrls) {
-      const fallbackRes = await fetch(fallbackUrl, { cache: "no-store", signal }).catch((fetchError) => {
-        if (signal.aborted) throw fetchError;
-        return { ok: false };
-      });
-      const contentType = fallbackRes.headers?.get("content-type") || "";
-      if (fallbackRes.ok && contentType.includes("application/json")) {
-        return filterSnapshotToSelectedDate(await fallbackRes.json());
-      }
-    }
+    const snapshot = await fetchSnapshotData(signal);
+    if (snapshot) return snapshot;
 
     // No snapshot for this date: say so plainly instead of showing an error
     // or borrowing articles from another day.
@@ -281,6 +292,32 @@ function renderSourceHealth(data = []) {
   `;
 }
 
+function renderDashboardData(data) {
+  dataStatusMessage = data.message || "";
+  const mode = selectedDate !== getTodayIST()
+    ? "Historical Archive"
+    : data && data.snapshot
+      ? "Snapshot"
+      : data && data.sourceStatus && data.sourceStatus.some((source) => source.status === "online" && source.itemCount > 0)
+        ? "Live Feed"
+        : "Live Feed Unavailable";
+  setFreshness(data.generatedAt, mode);
+  renderSourceHealth(data.sourceStatus || []);
+
+  allItems = dedupe(data.data || []);
+  allItems.sort((a, b) => {
+    const scoreDelta = (b.riskScore || 0) - (a.riskScore || 0);
+    return scoreDelta !== 0 ? scoreDelta : new Date(b.publishedAt) - new Date(a.publishedAt);
+  });
+  streamItems = allItems;
+
+  renderStream();
+  renderSignals();
+  renderHeatmap();
+  renderMiniTrend();
+  scheduleLiveRefresh();
+}
+
 async function loadAll() {
   if (refreshTimer) {
     clearTimeout(refreshTimer);
@@ -295,31 +332,13 @@ async function loadAll() {
   renderLoadingState();
 
   try {
+    const snapshot = await fetchSnapshotData(controller.signal);
+    if (requestSequence !== loadSequence) return;
+    if (snapshot) renderDashboardData(snapshot);
+
     const data = await fetchLiveData(controller.signal);
     if (requestSequence !== loadSequence) return;
-    dataStatusMessage = data.message || "";
-    const mode = selectedDate !== getTodayIST()
-      ? "Historical Archive"
-      : data && data.snapshot
-        ? "Snapshot"
-        : data && data.sourceStatus && data.sourceStatus.some((source) => source.status === "online" && source.itemCount > 0)
-          ? "Live Feed"
-          : "Live Feed Unavailable";
-    setFreshness(data.generatedAt, mode);
-    renderSourceHealth(data.sourceStatus || []);
-
-    allItems = dedupe(data.data || []);
-    allItems.sort((a, b) => {
-      const scoreDelta = (b.riskScore || 0) - (a.riskScore || 0);
-      return scoreDelta !== 0 ? scoreDelta : new Date(b.publishedAt) - new Date(a.publishedAt);
-    });
-    streamItems = allItems;
-
-    renderStream();
-    renderSignals();
-    renderHeatmap();
-    renderMiniTrend();
-    scheduleLiveRefresh();
+    renderDashboardData(data);
 
   } catch (err) {
     if (err.name === "AbortError" || requestSequence !== loadSequence) return;
