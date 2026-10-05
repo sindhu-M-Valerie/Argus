@@ -1278,72 +1278,69 @@ async function loadLiveSourcesData({ limit, requestedTheme, requestedType, fromD
     const fromDateOnly = fromDate ? fromDate.split('T')[0] : null;
     const isHistoricalRequest = fromDateOnly && fromDateOnly < today;
 
-    let feedResults, gdeltItems;
+    let items = [];
+    let sourceStatus = [];
+    let gdeltItems = [];
+    let snapshotData = [];
 
     if (isHistoricalRequest) {
-      feedResults = [{ status: 'rejected' }];
-      gdeltItems = await fetchGdeltArticles(selectedTheme, Math.min(Math.max(limit, 8), 40), fromDateOnly);
-      console.log(`   → Using historical snapshot (date: ${fromDate})`);
+      const snapshot = loadHistoricalSnapshot(fromDateOnly, selectedTheme);
+      if (snapshot && Array.isArray(snapshot.data)) {
+        snapshotData = snapshot.data.map((item) => ({
+          ...item,
+          provenance: item.provenance || 'historical-archive'
+        }));
+        sourceStatus = snapshot.sourceStatus || [];
+        console.log(`   → Using archived snapshot for ${fromDateOnly}`);
+      } else {
+        const historical = await collectRiskItems({ includeGdelt: false, date: fromDateOnly });
+        items = historical.items;
+        sourceStatus = historical.sourceStatus;
+        console.log(`   → Searching date-filtered RSS sources for ${fromDateOnly}`);
+      }
     } else {
       console.log(`   → Fetching live feeds (today's data)`);
       const results = await Promise.all([
         Promise.allSettled(liveSourceFeeds.map((feed) => withTimeout(parser.parseURL(feed.url), 8000))),
         fetchGdeltArticles(selectedTheme, Math.min(Math.max(limit, 8), 40))
       ]);
-      feedResults = results[0];
+      const feedResults = results[0];
       gdeltItems = results[1];
-    }
 
-    const sourceStatus = feedResults.map((result, index) => {
-      const feed = liveSourceFeeds[index];
-      if (result.status === 'fulfilled') {
+      sourceStatus = feedResults.map((result, index) => {
+        const feed = liveSourceFeeds[index];
+        if (result.status === 'fulfilled') {
+          return {
+            label: feed.label,
+            theme: feed.theme,
+            type: feed.type,
+            status: 'online',
+            itemCount: Array.isArray(result.value.items) ? result.value.items.length : 0
+          };
+        }
+
         return {
           label: feed.label,
           theme: feed.theme,
           type: feed.type,
-          status: 'online',
-          itemCount: Array.isArray(result.value.items) ? result.value.items.length : 0
+          status: 'offline',
+          itemCount: 0
         };
-      }
+      });
 
-      return {
-        label: feed.label,
-        theme: feed.theme,
-        type: feed.type,
-        status: 'offline',
-        itemCount: 0
-      };
-    });
-
-    const items = normalizeFeedResults(liveSourceFeeds, feedResults);
-
-    let snapshotData = [];
-    if (isHistoricalRequest) {
-      const snapshot = loadHistoricalSnapshot(fromDateOnly, selectedTheme);
-      if (snapshot && snapshot.data) {
-        snapshotData = (Array.isArray(snapshot.data) ? snapshot.data : []).map((item) => ({
-          ...item,
-          provenance: item.provenance || 'historical-archive'
-        }));
-        console.log(`   → Loaded ${snapshotData.length} articles from snapshot`);
-      } else {
-        console.log(`   → Snapshot not found or empty`);
-      }
+      items = normalizeFeedResults(liveSourceFeeds, feedResults);
+      sourceStatus.push({
+        label: 'GDELT Public News API',
+        theme: selectedTheme,
+        type: 'News',
+        status: gdeltItems.length ? 'online' : 'offline',
+        itemCount: gdeltItems.length
+      });
     }
-
-    const gdeltStatus = {
-      label: 'GDELT Public News API',
-      theme: selectedTheme,
-      type: 'News',
-      status: gdeltItems.length ? 'online' : 'offline',
-      itemCount: gdeltItems.length
-    };
-
-    sourceStatus.push(gdeltStatus);
 
     let baseItems;
     if (isHistoricalRequest) {
-      baseItems = [...snapshotData, ...gdeltItems];
+      baseItems = [...snapshotData, ...items];
     } else {
       baseItems = [...items, ...gdeltItems];
       if (baseItems.length === 0) {
