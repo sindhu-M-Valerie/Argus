@@ -39,6 +39,28 @@ Strengthen digital resilience by helping institutions and civil society identify
 
 Argus is built to provide timely, actionable intelligence on online risk dynamics while maintaining a clear commitment to responsible analysis, public-interest outcomes, and digital ecosystem resilience in India.
 
+## Data Accuracy & Provenance
+
+Argus only shows articles it actually collected. Every item on the dashboard:
+
+- comes from a real RSS feed (Google News topic searches, PIB Fact Check, BOOM Live) or the GDELT news API, with a working source link;
+- carries its real publication time, and appears only under the IST date it was published;
+- is assigned a theme from its own headline and summary, not from the feed it arrived through;
+- is dropped if it matches none of the 17 harm themes.
+
+AI research and industry feeds (arXiv, Hugging Face, AI funding and agent-launch news) feed only the **AI Safety Pulse** panel. They never appear in the harm stream.
+
+On GitHub Pages there is no server, so the dashboard reads snapshots in `public/data/`. A scheduled workflow (`.github/workflows/refresh-snapshots.yml`) runs every 6 hours, fetches all sources, runs the data-quality tests and commits the results, then Pages redeploys. Days that were never collected show "No archive exists for this date" rather than borrowed or placeholder content.
+
+Risk scores (0–100) combine theme severity, how much theme-specific evidence the text contains, source trust, and how many independent sources cover the same story. Recency affects sort order, not risk.
+
+```bash
+node scripts/generate-daily-snapshot.js            # fetch now; update today and yesterday (IST)
+node scripts/generate-daily-snapshot.js --no-gdelt # faster local run
+node scripts/generate-daily-snapshot.js --rebuild 2026-09-24   # re-clean an existing day, no fetch
+npm test                                            # includes guards on the committed data
+```
+
 ## Quick Start
 
 ### Prerequisites
