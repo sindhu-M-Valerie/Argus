@@ -101,7 +101,10 @@ async function fetchLiveData(signal) {
         if (signal.aborted) throw fetchError;
         return { ok: false };
       });
-      if (fallbackRes.ok) return filterSnapshotToSelectedDate(await fallbackRes.json());
+      const contentType = fallbackRes.headers?.get("content-type") || "";
+      if (fallbackRes.ok && contentType.includes("application/json")) {
+        return filterSnapshotToSelectedDate(await fallbackRes.json());
+      }
     }
 
     // No snapshot for this date: say so plainly instead of showing an error
@@ -334,6 +337,13 @@ async function loadAll() {
 
     safeSetText("signalsList", "");
     safeSetText("geoHeatmapList", "");
+    renderSourceHealth([]);
+    safeSetText("streamPanelTitle", "Live Stream (unavailable)");
+    safeSetText("dataModeStatus", "Data Mode: Unavailable");
+    safeSetText("dataFreshness", "Unable to load data");
+    safeSetText("topDataFreshness", "Unable to load data");
+    safeSetText("geoUpdated", "Regional data unavailable");
+    safeSetText("miniTrendUpdated", "Trend data unavailable");
   }
 }
 
