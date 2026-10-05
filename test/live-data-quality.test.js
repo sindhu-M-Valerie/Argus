@@ -1,6 +1,23 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { isRelevantLiveItem, dedupeArticles, rankLiveItems, isUsableArticleLink, buildNoResultsMessage, buildProvenanceBadge, sortRiskItems, filterRiskItems, filterVerifiedItems, getISTDateRange, getISTDateString, getTodayIST } = require('../server');
+const { classifyArticle, isRelevantLiveItem, dedupeArticles, rankLiveItems, isUsableArticleLink, buildNoResultsMessage, buildProvenanceBadge, sortRiskItems, filterRiskItems, filterVerifiedItems, getISTDateRange, getISTDateString, getTodayIST, buildHistoricalGoogleNewsFeed } = require('../server');
+
+test('does not classify non-violence reporting as violence', () => {
+  assert.equal(classifyArticle({ title: 'Why the message of non-violence still matters' }), null);
+});
+
+test('builds a Google News query bounded around a historical date', () => {
+  const feed = buildHistoricalGoogleNewsFeed({
+    label: 'Google News • Misinformation',
+    url: 'https://news.google.com/rss/search?q=India%20misinformation&hl=en-IN&gl=IN&ceid=IN:en'
+  }, '2026-10-02');
+
+  const url = new URL(feed.url);
+  assert.equal(url.searchParams.get('q'), 'India misinformation after:2026-10-01 before:2026-10-03');
+  assert.equal(url.searchParams.get('hl'), 'en-IN');
+  assert.equal(buildHistoricalGoogleNewsFeed({ url: 'https://example.com/feed' }, '2026-10-02'), null);
+  assert.throws(() => buildHistoricalGoogleNewsFeed({ url: 'https://news.google.com/rss/search?q=topic' }, '2026-02-30'), /valid calendar date/);
+});
 
 test('uses IST boundaries for a selected calendar date', () => {
   const range = getISTDateRange('2026-09-24');

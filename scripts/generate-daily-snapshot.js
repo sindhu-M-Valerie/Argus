@@ -14,6 +14,7 @@
  * Usage:
  *   node scripts/generate-daily-snapshot.js                 # fetch now, update today + yesterday (IST)
  *   node scripts/generate-daily-snapshot.js --no-gdelt      # skip GDELT (faster local runs)
+ *   node scripts/generate-daily-snapshot.js --backfill 2026-10-02 # fetch a past date from Google News RSS
  *   node scripts/generate-daily-snapshot.js --rebuild 2026-09-24 2026-09-25
  *        # no fetching: re-clean existing dated files with the current classifier
  */
@@ -55,6 +56,12 @@ function shiftISTDate(dateStr, days) {
   const d = new Date(`${dateStr}T12:00:00+05:30`);
   d.setUTCDate(d.getUTCDate() + days);
   return getISTDateString(d);
+}
+
+function isValidDate(date) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date || "")) return false;
+  const parsed = new Date(`${date}T00:00:00.000Z`);
+  return !Number.isNaN(parsed.getTime()) && parsed.toISOString().slice(0, 10) === date;
 }
 
 /** Items already archived for a date, so repeated runs accumulate instead of overwrite. */
@@ -142,6 +149,34 @@ function writeThemeSignals() {
 async function main() {
   const args = process.argv.slice(2);
   const generatedAt = new Date().toISOString();
+
+  if (args[0] === "--backfill") {
+    const date = args[1];
+    if (args.length !== 2 || !isValidDate(date)) {
+      console.error("Usage: --backfill YYYY-MM-DD");
+      process.exit(1);
+    }
+
+    console.log(`Backfilling ${date} from date-filtered Google News RSS (GDELT disabled).`);
+    const { items, sourceStatus } = await collectRiskItems({ includeGdelt: false, date });
+    const verifiedItems = items.filter((item) =>
+      item.title &&
+      item.publishedAt &&
+      getISTDateString(new Date(item.publishedAt)) === date &&
+      isUsableArticleLink(item.link)
+    );
+    const online = sourceStatus.filter((source) => source.status === "online").length;
+
+    if (online === 0 || verifiedItems.length === 0) {
+      console.error(`No verified, source-linked articles found for ${date}; snapshots were not changed.`);
+      process.exit(1);
+    }
+
+    console.log(`  ${verifiedItems.length} verified articles from ${online}/${sourceStatus.length} Google News feeds`);
+    writeDate(date, verifiedItems, { generatedAt, sourceStatus });
+    writeThemeSignals();
+    return;
+  }
 
   if (args[0] === "--rebuild") {
     const dates = args.slice(1);

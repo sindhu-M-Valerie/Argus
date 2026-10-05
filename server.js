@@ -663,6 +663,7 @@ function classifyArticle(item = {}) {
   let bestScore = 0;
 
   for (const theme of DASHBOARD_THEMES) {
+    if (theme === 'violence' && /\bnon[\s-]?violence\b/i.test(text)) continue;
     const hits = countThemeHits(text, theme);
     if (!hits) continue;
     const score = hits * 10 + (theme === feedTheme ? 5 : 0);
@@ -996,17 +997,54 @@ function buildSourceStatus(feeds, results) {
   }));
 }
 
+function buildHistoricalGoogleNewsFeed(feed, date) {
+  const dateMatch = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date || '');
+  if (!dateMatch) throw new TypeError('Historical date must use YYYY-MM-DD format');
+
+  const dateValue = new Date(`${date}T12:00:00.000Z`);
+  if (Number.isNaN(dateValue.getTime()) || dateValue.toISOString().slice(0, 10) !== date) {
+    throw new TypeError('Historical date must be a valid calendar date');
+  }
+
+  let url;
+  try {
+    url = new URL(feed.url);
+  } catch {
+    return null;
+  }
+  if (url.hostname !== 'news.google.com') return null;
+
+  const query = url.searchParams.get('q');
+  if (!query) return null;
+
+  const dayBefore = new Date(dateValue);
+  dayBefore.setUTCDate(dayBefore.getUTCDate() - 1);
+  const dayAfter = new Date(dateValue);
+  dayAfter.setUTCDate(dayAfter.getUTCDate() + 1);
+  const after = dayBefore.toISOString().slice(0, 10);
+  const before = dayAfter.toISOString().slice(0, 10);
+  url.searchParams.set('q', `${query} after:${after} before:${before}`);
+
+  return { ...feed, url: url.toString() };
+}
+
 /**
  * Fetch every harm-theme feed plus one GDELT query per theme, then classify.
  * Used by the scheduled snapshot job (GitHub Pages has no server).
  * GDELT asks for at most one request every 5 seconds, hence the spacing.
  */
-async function collectRiskItems({ includeGdelt = true, gdeltDelayMs = 5500 } = {}) {
+async function collectRiskItems({ includeGdelt = true, gdeltDelayMs = 5500, date = null } = {}) {
+  const feeds = date
+    ? liveSourceFeeds.map((feed) => buildHistoricalGoogleNewsFeed(feed, date)).filter(Boolean)
+    : liveSourceFeeds;
   const feedResults = await Promise.allSettled(
-    liveSourceFeeds.map((feed) => withTimeout(parser.parseURL(feed.url), 15000))
+    feeds.map((feed) => withTimeout(parser.parseURL(feed.url), 15000))
   );
-  const items = normalizeFeedResults(liveSourceFeeds, feedResults);
-  const sourceStatus = buildSourceStatus(liveSourceFeeds, feedResults);
+  const normalizedItems = normalizeFeedResults(feeds, feedResults, date ? 'historical-archive' : 'live-feed');
+  const items = date
+    ? normalizedItems.filter((item) => item.publishedAt && getISTDateString(new Date(item.publishedAt)) === date)
+    : normalizedItems;
+  const sourceStatus = buildSourceStatus(feeds, feedResults);
 
   let gdeltCount = 0;
   if (includeGdelt) {
@@ -1494,6 +1532,7 @@ module.exports = {
   getISTDateRange,
   getISTDateString,
   getTodayIST,
+  buildHistoricalGoogleNewsFeed,
   sortRiskItems,
   filterRiskItems,
   filterVerifiedItems,

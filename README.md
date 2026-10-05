@@ -59,6 +59,7 @@ Risk scores (0–100) combine theme severity, how much theme-specific evidence t
 ```bash
 node scripts/generate-daily-snapshot.js            # fetch now; update today and yesterday (IST)
 node scripts/generate-daily-snapshot.js --no-gdelt # faster local run
+node scripts/generate-daily-snapshot.js --backfill 2026-10-02 # backfill one date from Google News RSS
 node scripts/generate-daily-snapshot.js --rebuild 2026-09-24   # re-clean an existing day, no fetch
 npm test                                            # includes guards on the committed data
 ```
