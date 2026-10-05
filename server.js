@@ -568,25 +568,25 @@ const liveSourceFeeds = [
   },
   {
     label: 'Google News • Misinformation (India)',
-    theme: 'misinformation',
+    theme: 'dangerous-misinformation',
     type: 'News',
     url: 'https://news.google.com/rss/search?q=India%20misinformation&hl=en-IN&gl=IN&ceid=IN:en'
   },
   {
     label: 'Google News • Fact Check (India)',
-    theme: 'misinformation',
+    theme: 'dangerous-misinformation',
     type: 'News',
     url: 'https://news.google.com/rss/search?q=India%20fact-check&hl=en-IN&gl=IN&ceid=IN:en'
   },
   {
     label: 'Google News • Online Hate (India)',
-    theme: 'hate',
+    theme: 'violent-speech',
     type: 'News',
     url: 'https://news.google.com/rss/search?q=India%20online%20hate&hl=en-IN&gl=IN&ceid=IN:en'
   },
   {
     label: 'Google News • Online Exploitation (India)',
-    theme: 'exploitation',
+    theme: 'sexual-exploitation',
     type: 'News',
     url: 'https://news.google.com/rss/search?q=India%20online%20exploitation%20grooming&hl=en-IN&gl=IN&ceid=IN:en'
   },
@@ -670,49 +670,54 @@ const liveSourceFeeds = [
   },
   {
     label: 'PIB Fact Check',
-    theme: 'misinformation',
+    theme: 'dangerous-misinformation',
     type: 'News',
     url: 'https://factcheck.pib.gov.in/feed'
   },
   {
     label: 'BOOM Live • Fact Check',
-    theme: 'misinformation',
+    theme: 'dangerous-misinformation',
     type: 'News',
     url: 'https://www.boomlive.in/rss'
-  },
+  }
+];
+
+// AI ecosystem feeds feed ONLY the AI Safety Pulse panel. They are not risk
+// signals and must never appear in the harm-theme stream.
+const aiPulseFeeds = [
   {
     label: 'Google News • AI Safety Research Releases',
-    theme: 'dangerous-misinformation',
+    theme: 'ai-pulse',
     type: 'News',
     url: 'https://news.google.com/rss/search?q=AI%20safety%20research%20paper%20red%20team%20adversarial%20evaluation&hl=en-US&gl=US&ceid=US:en'
   },
   {
     label: 'Google News • AI Agent Launches',
-    theme: 'spam-inauthentic',
+    theme: 'ai-pulse',
     type: 'News',
     url: 'https://news.google.com/rss/search?q=AI%20agent%20launch%20content%20moderation%20safety%20assistant&hl=en-US&gl=US&ceid=US:en'
   },
   {
     label: 'Google News • Trust & Safety Startup Funding',
-    theme: 'fraud-impersonation',
+    theme: 'ai-pulse',
     type: 'News',
     url: 'https://news.google.com/rss/search?q=trust%20and%20safety%20startup%20funding%20round%20AI%20safety&hl=en-US&gl=US&ceid=US:en'
   },
   {
     label: 'Google News • Platform Transparency Reports',
-    theme: 'dangerous-misinformation',
+    theme: 'ai-pulse',
     type: 'News',
     url: 'https://news.google.com/rss/search?q=platform%20transparency%20report%20enforcement%20AI%20content%20moderation&hl=en-US&gl=US&ceid=US:en'
   },
   {
     label: 'arXiv cs.AI Recent Papers',
-    theme: 'dangerous-misinformation',
+    theme: 'ai-pulse',
     type: 'News',
     url: 'http://export.arxiv.org/rss/cs.AI'
   },
   {
     label: 'Hugging Face Blog',
-    theme: 'cybersecurity',
+    theme: 'ai-pulse',
     type: 'News',
     url: 'https://huggingface.co/blog/feed.xml'
   }
@@ -746,16 +751,6 @@ const aiSafetyPulseTopics = [
   }
 ];
 
-const aiSafetyFeedLabelMatchers = [
-  'AI Safety Research Releases',
-  'AI Agent Launches',
-  'Trust & Safety Startup Funding',
-  'Platform Transparency Reports',
-  'arXiv',
-  'Hugging Face',
-  'PIB Fact Check',
-  'BOOM Live'
-];
 
 const fallbackLiveSources = [
   {
@@ -1065,28 +1060,92 @@ const gdeltThemeQueries = {
   'fraud-impersonation': 'online fraud OR impersonation OR phishing OR account takeover'
 };
 
+// Terms are matched at a word start (see matchesTerm), so 'hack' matches
+// 'hacker' and 'hacked' but not 'shack'. Every dashboard theme needs explicit
+// on-topic vocabulary: an article with zero hits for a theme is not shown there.
+const DASHBOARD_THEMES = [
+  'violence',
+  'child-abuse-nudity',
+  'sexual-exploitation',
+  'human-exploitation',
+  'suicide-self-harm',
+  'violent-speech',
+  'tvec',
+  'illegal-goods',
+  'human-trafficking',
+  'ncii',
+  'dangerous-organizations',
+  'harassment-bullying',
+  'dangerous-misinformation',
+  'spam-inauthentic',
+  'malware',
+  'cybersecurity',
+  'fraud-impersonation'
+];
+
 const themeKeywords = {
-  violence: ['violence', 'violent crime', 'violent attack', 'incitement', 'threat'],
-  'child-abuse-nudity': ['child abuse', 'child nudity', 'csam', 'child sexual abuse material'],
-  'sexual-exploitation': ['sexual exploitation', 'sexual coercion', 'sextortion', 'abuse'],
-  'human-exploitation': ['human exploitation', 'forced labor', 'coercion', 'abusive recruitment'],
+  violence: ['violence', 'violent crime', 'violent attack', 'riot', 'lynching', 'mob attack', 'incitement to violence', 'inciting violence', 'inciting'],
+  'child-abuse-nudity': ['child abuse', 'child nudity', 'csam', 'child sexual abuse', 'child pornography', 'pocso', 'abuse material'],
+  'sexual-exploitation': ['sexual exploitation', 'sexual coercion', 'sextortion', 'sexual abuse', 'grooming', 'groomer', 'online predator', 'child exploitation'],
+  'human-exploitation': ['human exploitation', 'forced labor', 'forced labour', 'bonded labor', 'bonded labour', 'debt bondage', 'modern slavery', 'child labor', 'child labour', 'abusive recruitment', 'labour exploitation', 'labor exploitation', 'migrant workers', 'slavery', 'slaves'],
+  'suicide-self-harm': ['suicide', 'self-harm', 'self harm', 'suicidal', 'mental health crisis'],
+  'violent-speech': ['violent speech', 'hate speech', 'hateful', 'hate crime', 'communal', 'calls for violence', 'death threat', 'threatening', 'incitement', 'anti-muslim', 'islamophob', 'antisemit', 'casteist'],
+  tvec: ['terrorism', 'terrorist', 'terror', 'extremism', 'extremist', 'radicalization', 'radicalisation', 'jihadist', 'militant propaganda', 'counterterror', 'counter-terror'],
+  'illegal-goods': ['illegal goods', 'illicit trade', 'contraband', 'dark web', 'darknet', 'arms trafficking', 'drug trafficking', 'wildlife trafficking', 'narcotics', 'counterfeit', 'smuggling', 'wildlife trade', 'endangered wildlife', 'poaching'],
+  'human-trafficking': ['human trafficking', 'trafficking ring', 'sex trafficking', 'trafficked', 'trafficking victims', 'trafficking in persons', 'scam compound'],
+  ncii: ['ncii', 'revenge porn', 'non-consensual intimate', 'intimate images', 'image-based abuse', 'deepfake porn', 'nudify', 'morphed images', 'morphed photos', 'obscene video'],
+  'dangerous-organizations': ['criminal organization', 'criminal organisation', 'organized crime', 'organised crime', 'extremist group', 'dangerous organization', 'banned group', 'banned outfit', 'cartel', 'gang'],
+  'harassment-bullying': ['harassment', 'harassed', 'bullying', 'cyberbullying', 'cyberbully', 'trolling', 'doxxing', 'doxing', 'stalking', 'dogpiling', 'targeted abuse', 'intimidation', 'online abuse', 'abusive content'],
+  'dangerous-misinformation': ['misinformation', 'disinformation', 'fake news', 'deepfake', 'fact-check', 'fact check', 'factcheck', 'false claim', 'hoax', 'debunk', 'misleading claim', 'false medical claims', 'false information', 'anti-vaccine', 'viral video'],
+  'spam-inauthentic': ['spam', 'inauthentic', 'fake accounts', 'fake engagement', 'fake reviews', 'bot network', 'troll farm', 'coordinated campaign'],
+  malware: ['malware', 'ransomware', 'trojan', 'spyware', 'stalkerware', 'abuseware', 'botnet', 'infostealer', 'backdoor', 'malicious app'],
+  cybersecurity: ['cybersecurity', 'cyber security', 'cyberattack', 'cyber attack', 'data breach', 'data leak', 'hacker', 'hacked', 'hacking', 'vulnerability', 'zero-day', 'ddos', 'account takeover', 'security incident', 'cert-in'],
+  'fraud-impersonation': ['fraud', 'impersonat', 'phishing', 'scam', 'scammer', 'digital arrest', 'fake profile', 'cheated', 'duped'],
+  // Legacy themes kept only so old snapshot items still score.
   misinformation: ['misinformation', 'disinformation', 'fake news', 'deepfake', 'fact-check'],
   hate: ['hate speech', 'communal', 'targeted harassment', 'hostility'],
-  exploitation: ['exploitation', 'grooming', 'coercion', 'trafficking', 'child safety'],
-  'suicide-self-harm': ['suicide', 'self-harm', 'mental health crisis', 'suicidal'],
-  'violent-speech': ['violent speech', 'threat', 'incitement', 'calls for violence'],
-  tvec: ['terrorism', 'extremism', 'radicalization', 'extremist propaganda'],
-  'illegal-goods': ['illegal goods', 'illicit trade', 'contraband', 'dark web', 'arms trafficking'],
-  'human-trafficking': ['human trafficking', 'trafficking ring', 'forced labor', 'sex trafficking', 'trafficked'],
-  ncii: ['ncii', 'revenge porn', 'non-consensual intimate image', 'image-based abuse', 'sextortion'],
-  'dangerous-organizations': ['criminal organization', 'extremist group', 'dangerous organization', 'banned group'],
-  'harassment-bullying': ['harassment', 'bullying', 'dogpiling', 'targeted abuse', 'intimidation'],
-  'dangerous-misinformation': ['dangerous misinformation', 'false medical claims', 'false safety information', 'harmful misinformation'],
-  'spam-inauthentic': ['spam', 'inauthentic behavior', 'fake accounts', 'fake engagement', 'bot network'],
-  malware: ['malware', 'ransomware', 'trojan', 'spyware', 'abuseware'],
-  cybersecurity: ['cybersecurity', 'phishing', 'data breach', 'account takeover', 'security incident'],
-  'fraud-impersonation': ['fraud', 'impersonation', 'phishing', 'scam', 'account takeover']
+  exploitation: ['exploitation', 'grooming', 'coercion', 'trafficking', 'child safety']
 };
+
+const termPatternCache = new Map();
+
+function matchesTerm(text, term) {
+  if (!termPatternCache.has(term)) {
+    const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    termPatternCache.set(term, new RegExp(`(^|[^a-z0-9])${escaped}`, 'i'));
+  }
+  return termPatternCache.get(term).test(text);
+}
+
+function countThemeHits(text, theme) {
+  return (themeKeywords[theme] || []).filter((term) => matchesTerm(text, term)).length;
+}
+
+/**
+ * Assign an article to the dashboard theme its own text supports best.
+ * The feed it came from only breaks ties; it never assigns a theme on its own.
+ * Returns null when the article matches no harm theme at all.
+ */
+function classifyArticle(item = {}) {
+  const text = `${item.title || ''} ${item.snippet || ''}`;
+  if (blockedNoiseKeywords.some((term) => matchesTerm(text, term))) return null;
+
+  const feedTheme = item.feedTheme || item.theme;
+  let best = null;
+  let bestScore = 0;
+
+  for (const theme of DASHBOARD_THEMES) {
+    const hits = countThemeHits(text, theme);
+    if (!hits) continue;
+    const score = hits * 10 + (theme === feedTheme ? 5 : 0);
+    if (score > bestScore) {
+      best = theme;
+      bestScore = score;
+    }
+  }
+
+  return best;
+}
 
 function getSourceTrustWeight(sourceLabel = '') {
   const normalized = sourceLabel.toLowerCase();
@@ -1101,10 +1160,9 @@ function getSourceTrustWeight(sourceLabel = '') {
 
 function scoreLiveItem(item, requestedTheme) {
   const searchText = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
-  const noiseHits = blockedNoiseKeywords.filter((term) => searchText.includes(term)).length;
-  const themeTerms = requestedTheme ? themeKeywords[requestedTheme] || [] : [];
-  const themeHits = themeTerms.filter((term) => searchText.includes(term)).length;
-  const riskHits = liveRiskKeywords.filter((term) => searchText.includes(term)).length;
+  const noiseHits = blockedNoiseKeywords.filter((term) => matchesTerm(searchText, term)).length;
+  const themeHits = countThemeHits(searchText, requestedTheme || item.theme);
+  const riskHits = liveRiskKeywords.filter((term) => matchesTerm(searchText, term)).length;
   const sourceLabel = (item.source || '').toLowerCase();
   const sourceTrustWeight = getSourceTrustWeight(sourceLabel);
   const themeBoost = themeRiskWeights[requestedTheme || item.theme || 'misinformation'] || 5;
@@ -1161,10 +1219,24 @@ function getRiskBand(score) {
   return 'Low';
 }
 
+/**
+ * Risk score (0-100) built from things that actually indicate risk:
+ *   theme severity  24-40  (themeRiskWeights x 4)
+ *   theme evidence   0-24  (distinct theme terms in the text, capped at 3)
+ *   source trust     2-10
+ *   corroboration    0-21  (independent sources on the same story, capped at 3 extra)
+ * Recency is deliberately excluded: it decides sort order, not severity.
+ * The old formula saturated at 100 for almost every article.
+ */
 function buildRiskMetadata(item, requestedTheme, corroborationCount = 1) {
-  const corroborationBoost = Math.min(Math.max(corroborationCount - 1, 0), 3) * 5;
-  const score = Math.max(0, Math.min(100, Math.round((scoreLiveItem(item, requestedTheme) + corroborationBoost) * 4.5)));
-  const confidence = score >= 75 ? 'High' : score >= 45 ? 'Medium' : 'Low';
+  const theme = requestedTheme || item.theme;
+  const text = `${item.title || ''} ${item.snippet || ''}`;
+  const severity = (themeRiskWeights[theme] || 6) * 4;
+  const evidence = Math.min(countThemeHits(text, theme), 3) * 8;
+  const trust = getSourceTrustWeight((item.source || '').toLowerCase()) * 2;
+  const corroboration = Math.min(Math.max(corroborationCount - 1, 0), 3) * 7;
+  const score = Math.max(0, Math.min(100, Math.round(severity + evidence + trust + corroboration)));
+  const confidence = corroborationCount >= 3 || (corroborationCount >= 2 && evidence >= 16) ? 'High' : corroborationCount >= 2 || evidence >= 16 ? 'Medium' : 'Low';
 
   return {
     riskScore: score,
@@ -1175,14 +1247,14 @@ function buildRiskMetadata(item, requestedTheme, corroborationCount = 1) {
 }
 
 function isRelevantLiveItem(item, requestedTheme) {
-  const searchText = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
-  const containsNoise = blockedNoiseKeywords.some((term) => searchText.includes(term));
-  const containsRisk = liveRiskKeywords.some((term) => searchText.includes(term));
-  const themeTerms = requestedTheme ? themeKeywords[requestedTheme] || [] : [];
-  const containsTheme = !requestedTheme || themeTerms.some((term) => searchText.includes(term));
-  const hasExplicitThemeWords = requestedTheme ? themeTerms.some((term) => searchText.includes(term)) : true;
+  const searchText = `${item.title || ''} ${item.snippet || ''}`;
+  if (blockedNoiseKeywords.some((term) => matchesTerm(searchText, term))) return false;
 
-  return !containsNoise && containsRisk && hasExplicitThemeWords && containsTheme && scoreLiveItem(item, requestedTheme) >= 6;
+  if (!requestedTheme || requestedTheme === 'all') {
+    return classifyArticle(item) !== null;
+  }
+
+  return countThemeHits(searchText, requestedTheme) > 0 && scoreLiveItem(item, requestedTheme) >= 6;
 }
 
 function rankLiveItems(items, requestedTheme, limit) {
@@ -1204,6 +1276,13 @@ function rankLiveItems(items, requestedTheme, limit) {
       return new Date(b.publishedAt) - new Date(a.publishedAt);
     })
     .slice(0, safeLimit);
+}
+
+function parseGdeltDate(seendate) {
+  const match = /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/.exec(String(seendate || ''));
+  if (!match) return null;
+  const [, y, mo, d, h, mi, se] = match;
+  return new Date(Date.UTC(+y, +mo - 1, +d, +h, +mi, +se)).toISOString();
 }
 
 async function fetchGdeltArticles(theme, limit, date = '') {
@@ -1230,8 +1309,8 @@ async function fetchGdeltArticles(theme, limit, date = '') {
     return articles.map((article) => ({
       title: article.title || 'Untitled source',
       link: article.url,
-      snippet: article.seendate || '',
-      publishedAt: article.seendate ? new Date(article.seendate).toISOString() : new Date().toISOString(),
+      snippet: '',
+      publishedAt: parseGdeltDate(article.seendate),
       source: article.domain ? `GDELT • ${article.domain}` : 'GDELT Public News API',
       theme,
       type: 'News',
@@ -1263,8 +1342,8 @@ async function fetchGdeltAIPulseArticles(limit) {
     return articles.map((article) => ({
       title: article.title || 'Untitled source',
       link: article.url,
-      snippet: article.seendate || '',
-      publishedAt: article.seendate ? new Date(article.seendate).toISOString() : new Date().toISOString(),
+      snippet: '',
+      publishedAt: parseGdeltDate(article.seendate),
       source: article.domain ? `GDELT • ${article.domain}` : 'GDELT Public News API',
       theme: 'dangerous-misinformation',
       type: 'News',
@@ -1276,7 +1355,7 @@ async function fetchGdeltAIPulseArticles(limit) {
 }
 
 function scoreAIPulseMatch(item, topic) {
-  const text = `${item.title || ''} ${item.snippet || ''} ${item.source || ''}`.toLowerCase();
+  const text = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
   let score = 0;
 
   topic.keywords.forEach((keyword) => {
@@ -1285,8 +1364,8 @@ function scoreAIPulseMatch(item, topic) {
     }
   });
 
-  const aiSignals = ['ai', 'safety', 'model', 'agent', 'research', 'transparency', 'moderation'];
-  if (!aiSignals.some((term) => text.includes(term))) {
+  const aiSignals = /\b(ai|safety|model|models|agent|agents|llm|research|transparency|moderation)\b/;
+  if (!aiSignals.test(text)) {
     return 0;
   }
 
@@ -1339,46 +1418,107 @@ function buildAIPulseCards(items, generatedAt) {
   });
 }
 
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+/** Give each item a content-based theme; drop items that match no harm theme. */
+function isAIPulseSource(item = {}) {
+  return item.theme === 'ai-pulse' || aiPulseFeeds.some((feed) => feed.label === item.source);
+}
+
+function classifyItems(items = []) {
+  return items
+    .filter((item) => !isAIPulseSource(item))
+    .map((item) => {
+      const feedTheme = item.feedTheme || item.theme;
+      const theme = classifyArticle({ ...item, feedTheme });
+      return theme ? { ...item, feedTheme, theme } : null;
+    })
+    .filter(Boolean);
+}
+
+function normalizeFeedResults(feeds, results, provenance = 'live-feed') {
+  return results.flatMap((result, index) => {
+    if (result.status !== 'fulfilled') return [];
+    const feed = feeds[index];
+    return (result.value.items || []).map((item) => ({
+      title: item.title || 'Untitled source',
+      link: item.link,
+      snippet: item.contentSnippet || item.content || '',
+      // No date means we cannot place it on the timeline; never default to "now".
+      publishedAt: item.isoDate || (item.pubDate && !Number.isNaN(new Date(item.pubDate).getTime()) ? new Date(item.pubDate).toISOString() : null),
+      source: feed.label,
+      theme: feed.theme,
+      type: feed.type,
+      provenance
+    }));
+  });
+}
+
+function buildSourceStatus(feeds, results) {
+  return results.map((result, index) => ({
+    label: feeds[index].label,
+    theme: feeds[index].theme,
+    type: feeds[index].type,
+    status: result.status === 'fulfilled' ? 'online' : 'offline',
+    itemCount: result.status === 'fulfilled' && Array.isArray(result.value.items) ? result.value.items.length : 0
+  }));
+}
+
+/**
+ * Fetch every harm-theme feed plus one GDELT query per theme, then classify.
+ * Used by the scheduled snapshot job (GitHub Pages has no server).
+ * GDELT asks for at most one request every 5 seconds, hence the spacing.
+ */
+async function collectRiskItems({ includeGdelt = true, gdeltDelayMs = 5500 } = {}) {
+  const feedResults = await Promise.allSettled(
+    liveSourceFeeds.map((feed) => withTimeout(parser.parseURL(feed.url), 15000))
+  );
+  const items = normalizeFeedResults(liveSourceFeeds, feedResults);
+  const sourceStatus = buildSourceStatus(liveSourceFeeds, feedResults);
+
+  let gdeltCount = 0;
+  if (includeGdelt) {
+    for (const theme of DASHBOARD_THEMES) {
+      const gdeltItems = await fetchGdeltArticles(theme, 40);
+      gdeltCount += gdeltItems.length;
+      items.push(...gdeltItems);
+      await sleep(gdeltDelayMs);
+    }
+    sourceStatus.push({
+      label: 'GDELT Public News API',
+      theme: 'all',
+      type: 'News',
+      status: gdeltCount ? 'online' : 'offline',
+      itemCount: gdeltCount
+    });
+  }
+
+  const usable = items.filter((item) => item.title && item.publishedAt && isUsableArticleLink(item.link));
+  return { items: classifyItems(dedupeArticles(usable)), sourceStatus };
+}
+
+async function collectAIPulseItems() {
+  const [feedResults, gdeltItems] = await Promise.all([
+    Promise.allSettled(aiPulseFeeds.map((feed) => withTimeout(parser.parseURL(feed.url), 15000))),
+    fetchGdeltAIPulseArticles(40)
+  ]);
+  return [...normalizeFeedResults(aiPulseFeeds, feedResults), ...gdeltItems]
+    .filter((item) => item.title && item.publishedAt && isUsableArticleLink(item.link))
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+}
+
 app.get('/api/ai-safety-pulse', async (req, res) => {
   const generatedAt = new Date().toISOString();
 
   try {
-    const aiFeeds = liveSourceFeeds.filter((feed) =>
-      aiSafetyFeedLabelMatchers.some((marker) => feed.label.includes(marker))
-    );
-
-    const [feedResults, gdeltItems] = await Promise.all([
-      Promise.allSettled(aiFeeds.map((feed) => withTimeout(parser.parseURL(feed.url), 8000))),
-      fetchGdeltAIPulseArticles(40)
-    ]);
-
-    const feedItems = feedResults.flatMap((result, index) => {
-      if (result.status !== 'fulfilled') {
-        return [];
-      }
-
-      const feed = aiFeeds[index];
-      return result.value.items.map((item) => ({
-        title: item.title || 'Untitled source',
-        link: item.link,
-        snippet: item.contentSnippet || item.content || '',
-        publishedAt: item.isoDate || item.pubDate || generatedAt,
-        source: feed.label,
-        theme: feed.theme,
-        type: feed.type
-      }));
-    });
-
-    const normalized = [...feedItems, ...gdeltItems]
-      .filter((item) => item.link && item.title)
-      .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    const normalized = await collectAIPulseItems();
 
     const cards = buildAIPulseCards(normalized, generatedAt);
 
     return res.json({
       generatedAt,
       stats: {
-        totalSources: aiFeeds.length + 1,
+        totalSources: aiPulseFeeds.length + 1,
         totalItems: normalized.length,
         cardsWithLinks: cards.filter((card) => Boolean(card.sourceLink)).length
       },
@@ -1460,16 +1600,6 @@ function loadHistoricalSnapshot(date, theme = 'all') {
       { path: path.join(dataDirectory, `live-sources${themePrefix}-${date}.json`), label: `live-sources${themePrefix}-${date}.json` }
     ];
 
-    if (theme !== 'all') {
-      candidates.push(
-        { path: path.join(dataDirectory, `live-sources-${date}.json`), label: `live-sources-${date}.json` },
-        { path: path.join(dataDirectory, `live-sources${themePrefix}.json`), label: `live-sources${themePrefix}.json` },
-        { path: path.join(dataDirectory, 'live-sources.json'), label: 'live-sources.json' }
-      );
-    } else {
-      candidates.push({ path: path.join(dataDirectory, 'live-sources.json'), label: 'live-sources.json' });
-    }
-
     for (const candidate of candidates) {
       if (fs.existsSync(candidate.path)) {
         const data = fs.readFileSync(candidate.path, 'utf8');
@@ -1483,24 +1613,6 @@ function loadHistoricalSnapshot(date, theme = 'all') {
   return null;
 }
 
-function saveLiveSnapshot(date, theme, items) {
-  const usableItems = items.filter((item) => isUsableArticleLink(item.link) && item.title);
-  if (!usableItems.length) return;
-
-  try {
-    const dataDirectory = path.join(__dirname, 'public', 'data');
-    fs.mkdirSync(dataDirectory, { recursive: true });
-
-    const themePrefix = theme && theme !== 'all' ? `-theme-${theme}` : '';
-    const snapshotPath = path.join(dataDirectory, `live-sources${themePrefix}-${date}.json`);
-    fs.writeFileSync(snapshotPath, JSON.stringify({
-      generatedAt: new Date().toISOString(),
-      data: usableItems
-    }, null, 2));
-  } catch (error) {
-    console.warn(`Could not save live snapshot for ${date}:`, error.message);
-  }
-}
 
 // Health check endpoint for Render
 function buildNoResultsMessage({ date, theme, hasHistoricalRecords = false } = {}) {
@@ -1663,24 +1775,7 @@ async function loadLiveSourcesData({ limit, requestedTheme, requestedType, fromD
       };
     });
 
-    const items = feedResults.flatMap((result, index) => {
-      if (result.status !== 'fulfilled') {
-        return [];
-      }
-
-      const feed = liveSourceFeeds[index];
-
-      return result.value.items.map((item) => ({
-        title: item.title || 'Untitled source',
-        link: item.link,
-        snippet: item.contentSnippet || item.content || '',
-        publishedAt: item.isoDate || item.pubDate || new Date().toISOString(),
-        source: feed.label,
-        theme: feed.theme,
-        type: feed.type,
-        provenance: 'live-feed'
-      }));
-    });
+    const items = normalizeFeedResults(liveSourceFeeds, feedResults);
 
     let snapshotData = [];
     if (isHistoricalRequest) {
@@ -1711,9 +1806,6 @@ async function loadLiveSourcesData({ limit, requestedTheme, requestedType, fromD
       baseItems = [...snapshotData, ...gdeltItems];
     } else {
       baseItems = [...items, ...gdeltItems];
-      if (baseItems.length) {
-        saveLiveSnapshot(today, selectedTheme, baseItems);
-      }
       if (baseItems.length === 0) {
         console.log(`   ⚠ Live feeds returned no data, trying snapshot fallback for ${today}`);
         const todaySnapshot = loadHistoricalSnapshot(today, selectedTheme);
@@ -1724,7 +1816,9 @@ async function loadLiveSourcesData({ limit, requestedTheme, requestedType, fromD
       }
     }
 
-    let normalizedItems = baseItems.filter((item) => isUsableArticleLink(item.link) && item.title);
+    let normalizedItems = classifyItems(
+      baseItems.filter((item) => isUsableArticleLink(item.link) && item.title && item.publishedAt)
+    );
 
     if (fromDate) {
       let fromDateTime, toDateTime;
@@ -1760,8 +1854,7 @@ async function loadLiveSourcesData({ limit, requestedTheme, requestedType, fromD
     }
 
     const relevantItems = normalizedItems.filter((item) => isRelevantLiveItem(item, requestedTheme));
-    const rankedCandidates = (relevantItems.length ? relevantItems : normalizedItems.filter((item) => item.type === 'News'));
-    const filteredItems = rankLiveItems(rankedCandidates, requestedTheme, limit);
+    const filteredItems = rankLiveItems(relevantItems, requestedTheme, limit);
 
     const hasDateFilter = Boolean(fromDate || toDate);
     const data = filteredItems.length
@@ -1886,6 +1979,13 @@ if (require.main === module) {
 
 module.exports = {
   app,
+  DASHBOARD_THEMES,
+  classifyArticle,
+  classifyItems,
+  collectRiskItems,
+  collectAIPulseItems,
+  buildAIPulseCards,
+  parseGdeltDate,
   buildNoResultsMessage,
   buildProvenanceBadge,
   getISTDateRange,

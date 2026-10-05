@@ -3,6 +3,11 @@ name: Deploy Argus to GitHub Pages
 on:
   push:
     branches: [main]
+  # Commits pushed by the snapshot job use GITHUB_TOKEN, which does NOT trigger
+  # `push` workflows. Redeploy when that job finishes so new data goes live.
+  workflow_run:
+    workflows: ["Generate Daily Snapshot"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -19,11 +24,14 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

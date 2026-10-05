@@ -89,7 +89,31 @@ async function fetchLiveData(signal) {
       if (fallbackRes.ok) return filterSnapshotToSelectedDate(await fallbackRes.json());
     }
 
-    throw error;
+    // No snapshot for this date: say so plainly instead of showing an error
+    // or borrowing articles from another day.
+    return {
+      generatedAt: null,
+      snapshot: true,
+      sourceStatus: [],
+      message: selectedDate === getTodayIST()
+        ? `Today's snapshot hasn't been collected yet. Argus refreshes every 6 hours.`
+        : `No archive exists for ${selectedDate}. Argus only keeps days it actually collected.`,
+      data: []
+    };
+  }
+}
+
+// Feed titles and links come from third parties; never inject them as raw HTML.
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
+}
+
+function safeUrl(value) {
+  try {
+    const url = new URL(String(value || ""), window.location.href);
+    return ["http:", "https:"].includes(url.protocol) ? escapeHtml(url.href) : "#";
+  } catch {
+    return "#";
   }
 }
 
@@ -108,7 +132,12 @@ function getDataViewTimestamp() {
 }
 
 function setFreshness(generatedAt, mode = "Live Feed") {
-  if (!generatedAt) return;
+  if (!generatedAt) {
+    safeSetText("dataFreshness", "No data collected for this date");
+    safeSetText("topDataFreshness", "No data collected for this date");
+    safeSetText("dataModeStatus", `Data Mode: ${mode}`);
+    return;
+  }
   lastGeneratedAt = generatedAt;
   const stamp = new Date(generatedAt).toLocaleString();
   const isArchive = mode === "Historical Archive";
@@ -120,7 +149,13 @@ function setFreshness(generatedAt, mode = "Live Feed") {
   const editionStamp = document.getElementById("editionStamp");
   if (editionStamp) {
     const editionDate = isArchive ? new Date(`${selectedDate}T12:00:00`) : new Date(generatedAt);
-    const stampText = isArchive ? "Historical Archive" : mode === "Live Feed" ? "Live Feed; checks every 5 minutes" : mode;
+    const stampText = isArchive
+      ? "Historical Archive"
+      : mode === "Live Feed"
+        ? "Live Feed; checks every 5 minutes"
+        : mode === "Snapshot"
+          ? "Snapshot; collected every 6 hours"
+          : mode;
     editionStamp.textContent = `Edition Stamp: ${editionDate.toLocaleDateString()} • ${stampText}`;
   }
 }
@@ -247,9 +282,11 @@ async function loadAll() {
     dataStatusMessage = data.message || "";
     const mode = selectedDate !== getTodayIST()
       ? "Historical Archive"
-      : data && data.sourceStatus && data.sourceStatus.some((source) => source.status === "online" && source.itemCount > 0)
-        ? "Live Feed"
-        : "Live Feed Unavailable";
+      : data && data.snapshot
+        ? "Snapshot"
+        : data && data.sourceStatus && data.sourceStatus.some((source) => source.status === "online" && source.itemCount > 0)
+          ? "Live Feed"
+          : "Live Feed Unavailable";
     setFreshness(data.generatedAt, mode);
     renderSourceHealth(data.sourceStatus || []);
 
@@ -401,7 +438,7 @@ function renderStreamPage() {
       <p>
         <span class="signal-badge signal-${provenance.tone}">${provenance.label}</span>
         <span class="signal-badge signal-${confidence.toLowerCase()}">${confidence}</span>
-        <a href="${item.link}" target="_blank">${item.title}</a>
+        <a href="${safeUrl(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
       </p>
       <p>${getSourceLabel(item)} • ${new Date(item.publishedAt).toLocaleString()} • Risk ${score}/100 • ${item.corroboratedBy || 1} source${(item.corroboratedBy || 1) === 1 ? '' : 's'}</p>
     `;
@@ -469,7 +506,7 @@ function renderSignals() {
       <p>
         <span class="signal-badge signal-${provenance.tone}">${provenance.label}</span>
         <span class="signal-badge signal-${confidence.toLowerCase()}">${confidence}</span>
-        <a href="${item.link}" target="_blank">${item.title}</a>
+        <a href="${safeUrl(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
       </p>
       <p>${getSourceLabel(item)} • ${new Date(item.publishedAt).toLocaleString()} • Risk ${score}/100 • ${item.corroboratedBy || 1} source${(item.corroboratedBy || 1) === 1 ? '' : 's'}</p>
     `;
@@ -510,7 +547,7 @@ function renderHeatmap() {
     row.className = "geo-heatmap-item";
 
     const links = items.slice(0, 5).map(
-      (i) => `<li><a href="${i.link}" target="_blank">${i.title}</a></li>`
+      (i) => `<li><a href="${safeUrl(i.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(i.title)}</a></li>`
     ).join("");
 
     const moreText = items.length > 5 ? `<li class="geo-more-link">+ ${items.length - 5} more articles</li>` : "";
@@ -559,18 +596,17 @@ function renderAIWatch(items = allItems) {
 
   list.innerHTML = aiItems.slice(0, 5)
     .map((i) => i.link
-      ? `<p><a href="${i.link}" target="_blank">${i.title}</a></p>`
-      : `<p>${i.title}</p>`)
+      ? `<p><a href="${safeUrl(i.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(i.title)}</a></p>`
+      : `<p>${escapeHtml(i.title)}</p>`)
     .join("");
 
   safeSetText("aiWatchUpdated", getDataViewTimestamp());
 }
 
 async function loadAIPulseSnapshot() {
-  const snapshotUrls = [
-    `./data/ai-safety-pulse-${selectedDate}.json`,
-    "./data/ai-safety-pulse.json"
-  ];
+  // The undated file is "latest"; only use it for today, never for past dates.
+  const snapshotUrls = [`./data/ai-safety-pulse-${selectedDate}.json`];
+  if (selectedDate === getTodayIST()) snapshotUrls.push("./data/ai-safety-pulse.json");
 
   for (const snapshotUrl of snapshotUrls) {
     const controller = new AbortController();
@@ -582,11 +618,15 @@ async function loadAIPulseSnapshot() {
       const payload = await response.json();
       if (!Array.isArray(payload.data)) continue;
 
-      const pulseItems = payload.data.map((item) => ({
-        title: item.title,
-        snippet: item.summary,
-        link: item.sourceLink
-      }));
+      // Show the actual article behind each card; skip cards with no source.
+      const pulseItems = payload.data
+        .filter((item) => item.sourceLink)
+        .map((item) => ({
+          title: `${item.title}: ${item.sourceTitle}`,
+          snippet: item.summary,
+          link: item.sourceLink
+        }));
+      if (!pulseItems.length) break;
       renderAIWatch(pulseItems);
       return;
     } catch (error) {
@@ -597,7 +637,7 @@ async function loadAIPulseSnapshot() {
   }
 
   const list = document.getElementById("aiWatchList");
-  if (list) list.innerHTML = '<p class="signals-empty">AI safety pulse is unavailable right now.</p>';
+  if (list) list.innerHTML = `<p class="signals-empty">No sourced AI safety items for ${selectedDate}.</p>`;
 }
 
 /* ================================
