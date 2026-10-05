@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T18:53:57.567Z",
+  "generatedAt": "2026-10-05T20:23:41.481Z",
   "snapshot": true,
   "date": "2026-10-05",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 18
   },
   "message": null,
   "sourceStatus": [
@@ -16,91 +16,91 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 1
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 4
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 6
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 0
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 4
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 11
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 1
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 1
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 1
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 0
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 0
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 0
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 1
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 70
+      "itemCount": 1
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 0
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 0
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,38 +149,47 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 12
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
-    },
-    {
-      "label": "PIB Fact Check",
-      "theme": "dangerous-misinformation",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
-    },
-    {
-      "label": "BOOM Live • Fact Check",
-      "theme": "dangerous-misinformation",
-      "type": "News",
-      "status": "online",
-      "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "itemCount": 5
     }
   ],
   "data": [
+    {
+      "title": "EC 'Fact-Checks' Rahul Gandhi's Claims On Form 6, Reiterates Declaration Upheld By Supreme Court - The Daily Jagran",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOHFfRG1UMlVQWTlKb0pkSmpsb2ZFMGRPOWh6dTZtaGwyMnlza2xsZWhib0JuQVdvRnctOVFoSEE3QmdOc0dwMFZUX191NThkLU9uTjR2T0hkRUh6a2U0cEVwRFdxaTJScm9hdWlqQ0NBTHNKa0YwVnZYcUJDSXNTdFlkQXpQZl81aGNwNXJ5Ym5ZbW1tQ2tia3F2ZzRORDZDa25nSTRDSFFVWVNiZkpiXzcta3d3QmF5QWVfdFJ0bEVUYy12T3NVMDFXREcyLUtDN3ZFV1VCYXZ0NHPSAeIBQVVfeXFMTnBjUEtGeUtLd00xeWFJTjJ6VDdJMlpmb0ZFZERCSEYxVW9xUk55dW5EUlhMZE9RelNwa1JteTlQTk1vWlgtMW5ILUxyZThmRkhPUE9SaUxTRmRENVBWMVhfLVc5bzRadDJHcjNLV0dRLVRnTU9XOXVtWGxiYXpLckxQVjFGMkZKOGNpMTUybW1OMjJzTFpLMnhsTERwdEIzeW5UOWt1VDF2YUFZYkhxcEEtVmtXVEFkV2djVFlRMzJxcTVqaG9pdmFvOTAwYmhjWExLbXdaWEJFaXhVTHdtVWEzdw?oc=5",
+      "snippet": "EC 'Fact-Checks' Rahul Gandhi's Claims On Form 6, Reiterates Declaration Upheld By Supreme Court The Daily Jagran",
+      "publishedAt": "2026-10-05T17:29:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PIB Fact Check: ECI's Sep 26 SIR Press Note Remains on Website - True Scoop",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXFLQkVta3VianlDbmhJdXNjZmRiaEpiS1hEVDdmaS1nRVZadE5oQ2NVY0pUSGRSQlNCY3ZUVUprbXVRdWozUHdfalVZOWI1eENEU3RZYlJkdjhRQTRwakdoVmJfQUc1Rm92VVp2dk5uR0cxZy16YVpobU1uY2VaZjRRY0lZTEpJNk1wQzBhSE1mb3RfMHZyajUwZ3DSAaoBQVVfeXFMTzBPTFFYaEZHdy1KeHpuazVmQ1NLak1mcDg3N21uY2RNT3ZjcjEzRDhaZXNtSzFqd0x5d0stOXJGM0xtRWtSOXZFcXlkSlczWnJTTVQ0RHhVYzdjLV9XVVRIazBCYm90dWUxNS1mVFQ5TXE0WVZNSnlJMi1vSGladUVVR2xHdHVIWElBQTRPcEZJV3VSN3B2d2s1SDZ3WXk5SDRqc1QyU3JhUXc?oc=5",
+      "snippet": "PIB Fact Check: ECI's Sep 26 SIR Press Note Remains on Website True Scoop",
+      "publishedAt": "2026-10-05T16:49:13.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Form 6 row: ECI defends September 26 claim after SC clarification, fact-checks Rahul Gandhi - The Statesman",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONVlKTFFpUzJEVmxNSEZZcjBsdGlGcTlIWlYwYU9abUtiUU5oWUhUWjlzejd5YUhaSDJkXzNONERNRmFuQTFKUW9jakUyaXFkQzVaeENkaWNDSTlkSmZ0ZU1LU0EzbG5wdmR2WGdkSC1vUWtrdGpBb2MtdHNXc1cxdElWUmxIX3h6aXV5V2ZpNkprUDVRUTJTck51TEt5S3VTZkl4SExrZEszWFdiMi1WSUJoQmVjUkNBYzRjaVRvOENrTUJGM2h4bW9GOGVLSk5mcUJmckxmSdIB3AFBVV95cUxPUEpTMG00YXRQSnZCUVBGalFqcF85Yl9uTlR0VWhnTlQyb0lKRGhfa2o4aEk2WjRBdDUtQWRfTnpDZFJwQ0RuZTlDLWNSUVB0RFFwQ3A3YzU3RFdpOFRKMGJaaWJlNjc0MllQeWt1YVRHcG9xZW9PcE9jV25KVTVlYWJMcEUzdHZuQW9uZ0Vtd1YzeUxZNTVOeEpRQ0RraE5CSm8xdDRmdWllcWFOd3ZOMmtDS05DLXkxWXlvSl9aQlpEb0FyU1l1a2IxajBWYklJczZDS24zLW5WYWdy?oc=5",
@@ -205,6 +214,36 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ECI fact-checks claims on Form 6 following SC observation - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0dVSFl5bDFUTzQyYUFoci1uQjluQ0N5NE9hWUwteDJCZEMtb0VwVWQwMDhQX2RvZ3Vncnh3U25ONFBmVFFtR1dINElBTHZYUDBBYU50NDEyQkdQNVdKdWJiUWFpNTdUbTZEOHhIWjB0djlMUHAwckM0eE94cklVbGRPSXBqd2g0TUJKRlpLMHBLYkRDNFRzdjdXN3lTQ1R6M0ZyVnIxZXJVWm9mM0NYN19HNFM3REHSAb4BQVVfeXFMT2RIYzRLNnJxMDh1SEpxRkhJUlZEQ2gzb3AxR0VuREVhcm8tQkVuUlI1NmpQYmJVR2VLSVFWdy1KM2l4YXJ5bTJrSDdCaUFUdGVhUzl5cjJKWmVseUw4VHdPS0NXWXd5ZHRlSTNLY3J1d1B6dE0zOE5WdXNmSUZzYXNPcUdjcmJHUzZCTmFSN290T3FHaFFtTUxic0xxd1QtVDZtNEwxUlVhNVB1OEE0UmpiYkdPMkdpSkhCSWhHZw?oc=5",
+      "snippet": "ECI fact-checks claims on Form 6 following SC observation The Hindu",
+      "publishedAt": "2026-10-05T16:27:29.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Did ECI remove its September 26 SIR press note? PIB issues fact-check - Mathrubhumi English",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2M3SlV0YVVaaVVnZW9ZeER4VXNSOE9OSDVKSDJzUFFaOE9jZ3dRNldyVmk3WkREVmRnTG1tb3FYanEzLU9OM3pmQmVPNzZ5WFlJZ2p5SHhaa3B2d1dBRGlza1FJVWlkc0JxUk0wRVlybHdhV3lSYXRxQkJQMnNkUXg5OUZhTVYwenBqRUlObDlOWURvV0dhOFlaeWlFcUnSAaQBQVVfeXFMTVNmNFhvdGcwQ1FfQWk1d0x6XzhfQVg4dDN2OWVrTmxLS0pNWnFBbGNpd3NjcHdzLV82ZjE4SmE1Nmg3VjlSaFB2YzRoRGNEV3AtVl9CcEttbjBQRTlqTGNXbTlCT0lWemYyUGFQT3JNeUUzX2ZmaUdaQTBrMC1xcWtkRHBSZTF4Z0cySXJCOXhjckgtMmU3QlZzQTNZOXk4aGdYUjc?oc=5",
+      "snippet": "Did ECI remove its September 26 SIR press note? PIB issues fact-check Mathrubhumi English",
+      "publishedAt": "2026-10-05T16:19:06.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
@@ -242,6 +281,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Election Commission Fact Checks Rahul Gandhi: Claims On SIR Process And CEC Labeled Misleading - zoomnews.in",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDI0b0NobS0yMmktX1dDa0xna1dLbmYtQ3ZhYUJtVGNHV045S3RDMFh1NDgwbklCdUw0VVU2SjJPRTdnaFk4S0ZXcXNGVEE0ZGM0anR1YVNDUnVxVWtLcFZTWFB4Q09Na29SM3Nfb21fTS1mVXRWZUEtVUxrZW5MMGJ4WUx3bnRUUEFkWWQzSkQwb3VfSmtpNXpZd3p2T3hVMzdtZU5yTkpOZm9lZHFGN3pydW14THFfTHp6U3MxY19LR3hLRUs1SVFsenQ3UVU3Q3Jj0gHYAUFVX3lxTE91endjM2Q0XzI2YTR4MUpiTElXLXQyRnBEUkJSVHlXR0NwU0dZb2Q3Vm9vLTlMTlFkXy13NVRTYTAzQVFvZUN3a1R0MkxndlBPbE03b3hTeDNYLWpoZDVuTXQxdVdkMmVYUTVLRXhxQW9tUVFQZU1pUWtlRVQ1VVBsUUIxZWpYWWQ3SUlVakZTeXAwSjFZM24tQ1hLcmJhQy1qT3M4MUR3SDJVTGJJbGlSOWltU2swazh0N0ZkYUdPS0ZfNWlWYVRMcjl1enN6azlZaTltTTZSRw?oc=5",
+      "snippet": "Election Commission Fact Checks Rahul Gandhi: Claims On SIR Process And CEC Labeled Misleading zoomnews.in",
+      "publishedAt": "2026-10-05T15:35:12.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "'Misleading': ECI fact-checks Rahul Gandhi's Form 6 claim, cites SC ruling on Bihar SIR order - Business Today",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeGExNldqSjhHdGVKTVdyNGpyU2hmd0J5Tnl0QXJHaGJCalN4VGpvMjZPZXlUdVh2R0F4cF9rR2djU1UxRGVGWlJNRU9uVllhUGZyaklZV2loTl8yMDZGZ2l3ZFlubng5Z282THNLSFYzbnFCLUVzM25id1VqWlBobXQ4N2tkVVo3YmFmR19obUNvVlNJaG11b2tmTDZvUXRPZTJmaEpLQldMNlBjTFJGT016RGFoemwzeFZzeVFSUWVycGRXN3k0amE4dEpLS25TQnJFaEpVLVFKa0NCRERVYdIB5gFBVV95cUxNLTh2bTNOQVdPUXE4dURibk42Tkt0aW5scGhiRTU4SnRVR1Jvd2hZbVNJX0NRLW5PNElmZWdmQWhqYWlER2psUTY5LThKQU1IeDk3RWFtUWJPSlhXV3g0TlZZa21INTJfWml3ajgxMXU5Z0xhTHZ5VDljM3c5RWxHZ2JHc1Y1YUxVWENGUUJ5R0RaNTB4TE9kbWNMbnNQb2QtUGVZdlNZQVFURnBpamVIeFo4TkpCUi14Z2U1SklRa1d4UFVOaHFaVFBtNzFkWWNXLWlfWlNnbnVsTUgwMkZSQ0Q5VjVDQQ?oc=5",
       "snippet": "'Misleading': ECI fact-checks Rahul Gandhi's Form 6 claim, cites SC ruling on Bihar SIR order Business Today",
@@ -250,6 +304,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ECI Fact-Checks Rahul Gandhis Claim That CEC Gyanesh Kumar Illegally & Unilaterally Changed Form 6 - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOckk2ajhKa283Nl9VLTIxQ3JCUGRDVDVpN2daZi1IeGhaNUtGd1FIeWl1SHBKcHQ1aEwzaVQ3ak1hVm5jN01aUGVWNVN4cTJIYlAtMmRxc0laWV9aMzdudmc5eHp6dkxjZ0RSRFhucW1fVWlTYjFZSE1KMmJnZG1leng2Q0YxdzlUSlJJeVBmRXZRYWtFOUw1VnlkMEZpd3ZYeXA5cnZWN052SFFoZDZnampvNy0zdVdOX2dDekRCeHJpQWQzR1J6UXg2MmI0WjTSAdQBQVVfeXFMTXNfVG5QZERxNzVPdUUyNk1qd05uREs3MllaNGwwZG44UDNtb0NXZkFXdTVrZGtLUmFBSnJiR3pPNzZvbmlrMjlRQ19xX3NJck5DdEl5VFNOY0hDMHBVYVo5dEYtaUlKaEtpNXl3eFBhek0tQWkwVjZmU1ZPMnpxMnd2dWlhYTMwSFM5ZFBUZmJ5RklUVV9QZHVUTnJLVnllZllBaHAxMkdoYzRaWmdxLU9ubWRZeHJTdy1jZUtyN0l2UUhKWTRpRkVTaWxRQUFlXzZDYnM?oc=5",
+      "snippet": "ECI Fact-Checks Rahul Gandhis Claim That CEC Gyanesh Kumar Illegally & Unilaterally Changed Form 6 Free Press Journal",
+      "publishedAt": "2026-10-05T14:51:15.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
@@ -267,6 +336,96 @@
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Misleading': EC fact-checks Rahul Gandhi's 'CEC changed Form 6 illegally' post - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYTlDTFBtQVhDOTZETzNSUm95ejRIWTRmV2ZfRVNiNlRMSVFHcmVlOHVsT2VHQ19RZU5VT2hrT2ppUnVqRzF0UDVNSjRIdzV6RlgxZjBaekhTb3Q2ay1rNlpQU1ppa1g4cDlNWndTVFBLSE1JdEFISDNhNFRsNkowZVVSd3ZWRllOOWhQX1B3ai1GTW5VVTQ4dDBkaDRaN3AwaVdEa2VNLU1NVXV3cWU4djkzd0I0RVdFMHRtMzZPei05Z2FWRHhSYlFWS29LS0NvMF9UMXdoeGpndzB1R3fSAd4BQVVfeXFMTWE5Q0xQbUFYQzk2RE8zUlJveXo0SFk0ZldmX0VTYjZUTElRR3JlZTh1bE9lR0NfUWVOVU9oa09qaVJ1akcxdFA1TUo0SHc1ekZYMWYwWnpIU290NmstazZaUFNaaWtYOHA5TVp3U1RQS0hNSXRBSEgzYTRUbDZKMGVVUnd2VkZZTjloUF9Qd2otRk1uVVU0OHQwZGg0WjdwMGlXRGtlTS1NTVV1d3FlOHY5M3dCNEVXRTB0bTM2T3otOWdhVkR4UmJRVktvS0tDbzBfVDF3aHhqZ3cwdUd3?oc=5",
+      "snippet": "'Misleading': EC fact-checks Rahul Gandhi's 'CEC changed Form 6 illegally' post The Times of India",
+      "publishedAt": "2026-10-05T14:09:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Film shoot goes VIRAL as illegal migrants raise Bangladeshi flags - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS01iMWRyT2dGWFk1akV3cG81cnZNdWdDOG55WFhsWGhiV2tHaUpBRTZ2SkY3SlVVMnFycXBVU3o3S1EtQWJBNGxkRjA1VE41RkFyamV6ZHZSRlNIeHhJYTFZNUNRZlJsSWcxM0hNaWUxRFJ4QnNLd3k1QVMzc3dhNkFRcW5zYUZrbE9QT2cwRWI4OVp6VmphTG8xLVNIZDR1SUhCMnFKLUJJYmlrbHBhYk53c29QWEZiZWVnNVhLZks5YVF6ZW1RM1lSalY1X2JIYTE00gHTAUFVX3lxTE1LTWIxZHJPZ0ZYWTVqRXdwbzVydk11Z0M4bnlYWGxYaGJXa0dpSkFFNnZKRjdKVVUycXJxcFVTejdLUS1BYkE0bGRGMDVUTjVGQXJqZXpkdlJGU0h4eElhMVk1Q1FmUmxJZzEzSE1pZTFEUnhCc0t3eTVBUzNzd2E2QVFxbnNhRmtsT1BPZzBFYjg5WnpWamFMbzEtU0hkNHVJSEIycUotQkliaWtscGFiTndzb1BYRmJlZWc1WEtmSzlhUXplbVEzWVJqVjVfYkhhMTQ?oc=5",
+      "snippet": "Fact Check: Film shoot goes VIRAL as illegal migrants raise Bangladeshi flags India Today",
+      "publishedAt": "2026-10-05T12:30:28.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SIR exposing illegal voters, Congress spreading misinformation out of fear: Ramchander Rao - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV19oNG1sc0FRREY4TUxRVEhld0I4azFIYk9mN09RWEdyZGRtSDFNOFVZWFQ2TjFYSUFNQ3BhN2R2QjRwdThUVmNxVXhtQl9hV0hwMTN2NVpYZHhlUG1JcXhYMHZlQzRoR1k4ODREb1BaQVVmTnNqdE1HbmU5bGFWWUNjUHVTM28wd0FRSS11S1RGVjM0RjQ1NWlqUS1IVmZzcGlhZ0FJdnlTNEhlLTdVSlQ5TGcwLWlqVFNTTWtucVJ5Yi13bWszUjA3RU4wU1BhOEs1ZW9jNlNDN29SYUkxRjJjdFFIcmlWUVJJbmc0WWM4WjZp0gH0AUFVX3lxTE5XX2g0bWxzQVFERjhNTFFUSGV3QjhrMUhiT2Y3T1FYR3JkZG1IMU04VVlYVDZOMVhJQU1DcGE3ZHZCNHB1OFRWY3FVeG1CX2FXSHAxM3Y1WlhkeGVQbUlxeFgwdmVDNGhHWTg4NERvUFpBVWZOc2p0TUduZTlsYVZZQ2NQdVMzbzB3QVFJLXVLVEZWMzRGNDU1aWpRLUhWZnNwaWFnQUl2eVM0SGUtN1VKVDlMZzAtaWpUU1NNa25xUnliLXdtazNSMDdFTjBTUGE4SzVlb2M2U0M3b1JhSTFGMmN0UUhyaVZRUkluZzRZYzhaNmk?oc=5",
+      "snippet": "SIR exposing illegal voters, Congress spreading misinformation out of fear: Ramchander Rao The Hindu",
+      "publishedAt": "2026-10-05T13:40:34.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Has ECI Taken Down Its September 26 Press Release on Form 6 Order? Fact Check Calls Claim Fake - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOazczWDJoTzlCNzVsd3JPR3dRWEFPWVRmalRkbUJ5U2xPSmxpT19JX1N3dUh4dVdMUWQ3Tk13TVdGUU5vTFAzbGVNWnZTSmF3eDNoZk1rSzhaYmVna1RhRndtZURab3E4YVZwQjdzY2xDRFhVWDRJbDVzOGN3LWVYYWdkd0xIQy1lWXR6TC1lSGQ2eTBjQkRuTkR1bkxfX2tYcThVRXdlbENSd1NUVHp3dF90WUg1eHdLdnhibjg4R3VWakhaeEhablVJSzJ0V3htN0ZLSHBma2N2QdIB3wFBVV95cUxOaWxwSERnQXpUYThaTzE0NGUwcWxGVXU3WnNBNUJ4S1VqbjN6MWxfZmlmU0Zfek1DZ2VfMlZRWlg4ZGV3QXFwNVFaVmppeEVhbC03UlFkX2YwQkVpZEhPTmZhcFZXRzVnRDRwNVpSdlA2WGxxMVItbjlFc2FlbVpVY00tdjFDSlNEU1lUb2FDU1JEVWM5dXJFY2VwQmVLSjVaN3ktYjY3MEo3ejhCV1gyR0dQc1djZ3J3T09Mem1fcTlaTzk0MXpCc1lsWHhkVVNJc2c5WGlXeW9wcEpTX0Q4?oc=5",
+      "snippet": "Has ECI Taken Down Its September 26 Press Release on Form 6 Order? Fact Check Calls Claim Fake LatestLY",
+      "publishedAt": "2026-10-05T12:44:20.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "José Mourinho denies making any comments about Cristiano Ronaldo controversy: ‘Too many fake news’ - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdWEzUGlKd2hXMWViVVFwZ2dLTVdJUGtUckxRUTFLcFpuQkltbmFNY1ZucjVDa0pPT1RFaWxrQjJqVFV5MjUzRFNMNmRubWdjMENlRzN4NmNuUUZ1Q0pUanp3cGdzZDB0TmlhUV9VSi11N2lwTFJZSWtTQVRiUHZUbnBWem5VWXNvQi0zdnJhT2U3SFp5YnBJYXl3VkxHQV82bmRBOF9GWHVQNkZkbm1oMC1jYnhXU3JmdEZ4bWVMWTBKSno4VFdybWNoUTd1YkpvbHFIejBZSTk4eWpvak8xakNSNkJRcHZad3dXT1h4RW53bVlJTl90Nkhjc1ZrMEZEMlpaUkQ3TGxFdG5zZ1kyZDhR0gGXAkFVX3lxTFBEVDRabHN5TzhIeU53X0ZGQ0ktN0ZsZTVIZkkwNk0xcWd6b19CYWpUTjAxYXQ4cHpfZEhGaFR6T1BjVXVZN3FkcEJIWnZ0Wlk2YzFNeFFZV3BueXVLUUY1bkVUQ0dpR1g0d3hLS2RGWDRLdjl5QjVjRTJnSE43aDBrS0pnbVRFdWc0SExHQjJCbDRCR3JxcjJxV0hFV1laRnd3Q3NSQ0hGM21EdlduTFRKOGtiS0dTUjliSDBlVXMyRXBrb0NfTjlkNklNUklfN3lxaGQzUmcwc3k2NDdGLXhOYWRXUFlUQWVhSllmejNMZW94Y3pvYU1pWVl1OVo0YVJvaDhBdWMzaXBQemlpaVctOHBNMFpyWQ?oc=5",
+      "snippet": "José Mourinho denies making any comments about Cristiano Ronaldo controversy: ‘Too many fake news’ The Times of India",
+      "publishedAt": "2026-10-05T09:40:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New study finds that to counter misinformation online, we need to copy its style | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd192SVBwSFc1R0xVZm8xWHMwZ0RHdURhbVpFenNLOEE2MDBJdGEyY0FHMFBaUXBHd2lwc0R2RlQ1MThLelo5MlJFNEF1UzhYWjRuS3I1LTBUQlpPSHJoSDlWYmhJaXFldnhpUEFoa0w4bFVvRWpUNkZqeE1yR1lITnZfWURvQ3RNaVRsalVfb3oyUkgtd2VPajMxd2V2NTAtUUlJSkNIejdyOUd0cUJiNWdNSEt0YnZhZkdtSWdXN3YyUk16bkJmanFTblI1UFlxc3FMR0lRTVRkSVJuMDBrNVc3SmLSAeoBQVVfeXFMUG96Rk1RMDNoRTh3b2FnT0FQQW53UGh2ZC1mVVJwRDIyLUd5S1l5SmZfaHprMk8tZUhoWVJGcXhnc3hDRkJ1d3ZiNlVFOEliM2YwS0pubjFHSWx2WHIxYV9FUGlPUmhvcFJRUGREWFZlcXZlYzYyYzZBTDh6VXBMUjM1N3Zha1ljMlk4cHQ2emhFUHlQN0FqbkVzY2lPaVRmM2pDd1JtSnZld2FYWGItMURXMUlscVQzZlFLcnZSd3hFSXdHX0Z4b0k5WFEzc0gwbEh3YUFncEpSNmFWVWlGam1ud0YzY1FJVE5n?oc=5",
+      "snippet": "New study finds that to counter misinformation online, we need to copy its style | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-10-05T06:11:01.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

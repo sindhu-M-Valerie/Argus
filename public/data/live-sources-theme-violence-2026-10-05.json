@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T18:53:57.567Z",
+  "generatedAt": "2026-10-05T20:23:41.481Z",
   "snapshot": true,
   "date": "2026-10-05",
   "filters": {
@@ -7,100 +7,100 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-10-05 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 1
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 4
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 6
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 0
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 4
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 11
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 1
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 1
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 1
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 0
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 0
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 0
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 1
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 70
+      "itemCount": 1
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 0
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 0
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,36 +149,61 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 12
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
-    },
-    {
-      "label": "PIB Fact Check",
-      "theme": "dangerous-misinformation",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
-    },
-    {
-      "label": "BOOM Live • Fact Check",
-      "theme": "dangerous-misinformation",
-      "type": "News",
-      "status": "online",
-      "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "itemCount": 5
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Delhi HC dismisses pleas seeking independent probe into 2020 North-East Delhi riots, Jamia violence - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVVU1YUpOYWpXOEg3ZkZHekpWbnVCZEY2NEVBN0xqRmI0TkV0MlAxbS1qQ1pCSUpCUncyZ0JpMGlRY0JsbFhBUUF1aXNlcXlfMDNzczFQQVNnYko0bmVnbnozcW54VUhKaDkyNFpDYVlYa0dFc3AzdkFGVFR5Q1k1M3d3UDktRHR2bnNpa2oybnljclp0bk4yWGNoSTVNbWdlaVFwZzN4Ny1nYWxpZ1JldVprU1lyOXphcmVhZjNzaXhXcEx3OFJqSEw5UW5kTjFYUU94RzRiNU14OEY4b194a3ZpTG9hcTNZQkFMbVhtYVh1RUZrZkVUa2V30gH6AUFVX3lxTE9VVTVhSk5halc4SDdmRkd6SlZudUJkRjY0RUE3TGpGYjRORXQyUDFtLWpDWkJJSkJSdzJnQmkwaVFjQmxsWEFRQXVpc2VxeV8wM3NzMVBBU2diSjRuZWduejNxbnhVSEpoOTI0WkNhWVhrR0VzcDN2QUZUVHlDWTUzd3dQOS1EdHZuc2lrajJueWNyWnRuTjJYY2hJNU1tZ2VpUXBnM3g3LWdhbGlnUmV1WmtTWXI5emFyZWFmM3NpeFdwTHc4UmpITDlRbmROMVhRT3hHNGI1TXg4RjhvX3hrdmlMb2FxM1lCQUxtWG1hWHVFRmtmRVRrZXc?oc=5",
+      "snippet": "Delhi HC dismisses pleas seeking independent probe into 2020 North-East Delhi riots, Jamia violence The New Indian Express",
+      "publishedAt": "2026-10-05T06:09:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Online groups luring young, vulnerable people into violence for its own sake, summit to hear - Irish Examiner",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vcHhyQ1hmd1owZkp0LWNLbThkNVJBV2IwTXFfRTVES29rdUU3ZG9adWlVdEhZU3ljYS00dm5lM201ZFZHS1RYMWJFcUpGbGVWVi1nNkQ2NHhHNzZnOTBJY04tVVF4YjhqZjAtTE96NEtSQ2F1Nmc?oc=5",
+      "snippet": "Online groups luring young, vulnerable people into violence for its own sake, summit to hear Irish Examiner",
+      "publishedAt": "2026-10-05T15:29:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake News On French Riots Rips Away Façade That The Media Ever Cared About “Real-World Harm” - public.news",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHU2xfaVdGNGlVVE12NUhtMlZpcjVmX3djZ2RNMktUUmc3bEszMUxIdGFhNGVGcmxBX1NBd0oxV2NON1g0NHhGOXpfcTZPY043OVV0dkFJQndBNk1qMTVUQXBPdnhJbWZTdVZOb2V3?oc=5",
+      "snippet": "Fake News On French Riots Rips Away Façade That The Media Ever Cared About “Real-World Harm” public.news",
+      "publishedAt": "2026-10-04T23:55:51.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

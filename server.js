@@ -997,14 +997,20 @@ function buildSourceStatus(feeds, results) {
   }));
 }
 
-function buildHistoricalGoogleNewsFeed(feed, date) {
-  const dateMatch = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date || '');
-  if (!dateMatch) throw new TypeError('Historical date must use YYYY-MM-DD format');
+function isValidCalendarDate(date) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date || '')) return false;
+  const value = new Date(`${date}T12:00:00.000Z`);
+  return !Number.isNaN(value.getTime()) && value.toISOString().slice(0, 10) === date;
+}
+
+function buildHistoricalGoogleNewsFeed(feed, date, throughDate = date) {
+  if (!isValidCalendarDate(date) || !isValidCalendarDate(throughDate)) {
+    throw new TypeError('Historical date must be a valid calendar date in YYYY-MM-DD format');
+  }
+  if (throughDate < date) throw new TypeError('Historical end date must not precede start date');
 
   const dateValue = new Date(`${date}T12:00:00.000Z`);
-  if (Number.isNaN(dateValue.getTime()) || dateValue.toISOString().slice(0, 10) !== date) {
-    throw new TypeError('Historical date must be a valid calendar date');
-  }
+  const throughValue = new Date(`${throughDate}T12:00:00.000Z`);
 
   let url;
   try {
@@ -1019,7 +1025,7 @@ function buildHistoricalGoogleNewsFeed(feed, date) {
 
   const dayBefore = new Date(dateValue);
   dayBefore.setUTCDate(dayBefore.getUTCDate() - 1);
-  const dayAfter = new Date(dateValue);
+  const dayAfter = new Date(throughValue);
   dayAfter.setUTCDate(dayAfter.getUTCDate() + 1);
   const after = dayBefore.toISOString().slice(0, 10);
   const before = dayAfter.toISOString().slice(0, 10);
@@ -1033,16 +1039,20 @@ function buildHistoricalGoogleNewsFeed(feed, date) {
  * Used by the scheduled snapshot job (GitHub Pages has no server).
  * GDELT asks for at most one request every 5 seconds, hence the spacing.
  */
-async function collectRiskItems({ includeGdelt = true, gdeltDelayMs = 5500, date = null } = {}) {
+async function collectRiskItems({ includeGdelt = true, gdeltDelayMs = 5500, date = null, throughDate = date } = {}) {
   const feeds = date
-    ? liveSourceFeeds.map((feed) => buildHistoricalGoogleNewsFeed(feed, date)).filter(Boolean)
+    ? liveSourceFeeds.map((feed) => buildHistoricalGoogleNewsFeed(feed, date, throughDate)).filter(Boolean)
     : liveSourceFeeds;
   const feedResults = await Promise.allSettled(
     feeds.map((feed) => withTimeout(parser.parseURL(feed.url), 15000))
   );
   const normalizedItems = normalizeFeedResults(feeds, feedResults, date ? 'historical-archive' : 'live-feed');
   const items = date
-    ? normalizedItems.filter((item) => item.publishedAt && getISTDateString(new Date(item.publishedAt)) === date)
+    ? normalizedItems.filter((item) => {
+        if (!item.publishedAt) return false;
+        const itemDate = getISTDateString(new Date(item.publishedAt));
+        return itemDate >= date && itemDate <= throughDate;
+      })
     : normalizedItems;
   const sourceStatus = buildSourceStatus(feeds, feedResults);
 

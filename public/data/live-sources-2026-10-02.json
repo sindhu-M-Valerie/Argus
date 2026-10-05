@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T19:47:46.270Z",
+  "generatedAt": "2026-10-05T20:23:41.481Z",
   "snapshot": true,
   "date": "2026-10-02",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 39
+    "total": 40
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 1
+      "itemCount": 0
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 5
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 3
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,28 +44,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 5
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 4
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 1
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 6
+      "itemCount": 0
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 1
+      "itemCount": 0
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 3
+      "itemCount": 1
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 8
+      "itemCount": 3
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 2
+      "itemCount": 0
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 1
+      "itemCount": 0
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 2
+      "itemCount": 0
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 1
+      "itemCount": 0
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 4
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 5
     }
   ],
   "data": [
@@ -585,6 +585,21 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaGdydWlfeWdMNmlndm5aR2RIdWE5Q2diZFphTHFtV3NxUXRqWnRYNFdDX3l3dndORm9fTnJPZTljdGxhTE9PN1FnNnJ1R1kyWnRLS2pyVHphTm1CQUM2enZ0S3FLOUNBNnJLQVpYcmk0V0prM2lHV1M5QWVUaXh3UlJ4VE96TWNKWXJJWkhBUHlrWXlSNXRxWEpRX1FLenl0?oc=5",
       "snippet": "Watauga County Sheriff’s Office Warns of Top 10 Scams Targeting Residents WataugaOnline.com",
       "publishedAt": "2026-10-02T09:18:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Scots warned over scam threat ahead of Amazon Prime Big Deal Days - deadlinenews.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHBEQWlnalVUUmVBbDdKOFM4bm43UzFFcE44UGpRSldUQU1SYy1sQXBNQTVJVU1VbHdVZTVKNUNKOGNuVktLT19pNHZ2M0gyMHIteHV2MVBNbWlHRV9YMTVlWVJBWnNVYUtfNVpnTXBoNXhfZ0lPSzkybWthQ3M3R1kyQ2dMWDhsYWtpLW5UcVJiOW5temdmdDRJMnBNNjZ2VHRMSXEydUtFZnhK0gG0AUFVX3lxTE9zYUJpQ0daV2hvT21LWklEVzg2OXVnRXAyeTU4eXgwLXBseERONjlyM21sbWduNnFjcGtfV3d3N3YzQ1NkbTBfYTh5UUYxc2haYTlMLTk5YkhtMVhZa01kUzRZdGQyQngtSkNhMVFtU040OVZQdkxwbnRaN2pObmNycFFrTEhqQS1NaEFmLURmendrZ2lGa0QtX29ia3c2d0tlNjFWSVhnSTRwN0Zqekg4bTJueQ?oc=5",
+      "snippet": "Scots warned over scam threat ahead of Amazon Prime Big Deal Days deadlinenews.co.uk",
+      "publishedAt": "2026-10-02T07:55:15.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",

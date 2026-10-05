@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T18:53:57.567Z",
+  "generatedAt": "2026-10-05T20:23:41.481Z",
   "snapshot": true,
   "date": "2026-10-05",
   "filters": {
@@ -7,100 +7,100 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 10
   },
-  "message": "No verified news was found for 2026-10-05 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 1
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 4
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 6
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 0
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 4
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 11
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 1
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 1
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 1
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 0
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 0
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 0
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 1
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 70
+      "itemCount": 1
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 0
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 0
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,36 +149,166 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 12
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
-    },
-    {
-      "label": "PIB Fact Check",
-      "theme": "dangerous-misinformation",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
-    },
-    {
-      "label": "BOOM Live • Fact Check",
-      "theme": "dangerous-misinformation",
-      "type": "News",
-      "status": "online",
-      "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "itemCount": 5
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Cybersecurity Newsletter Bulletin – Pentagon Data Breach, Citrix, Fortimail and Apple 0-days and 20+ stories - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3LWtLVmdScE5EYmlEbnRJdEJsWEw3ZkloVEFpdURDRHJ0SC1Ibjh5QXlCRHRPLXF6aEpkNFpYelFiQ0E4ZUtzcHRvaUdJalJjeUQyWlRjeVJvMWJ4cGJ6TDZ6blpEVENVWEJINy1mbHhOU0ZCdU5ITEFXYUnSAYIBQVVfeXFMUFJUcUhzeGktSlFlYlN6ZG9FSTJoOXY5TzloSXQwem4zYlhGMl9xOUNwMTZDazJORUFmelY3UWk2d1Q0R1RCT3FfODNhYXhhVWlKZjFST2dBRUhOZ2VpYkppVmRneTgzYktSLWRnSzhUeUhHT1J0X3huWHlmcDZyTFBwQQ?oc=5",
+      "snippet": "Cybersecurity Newsletter Bulletin – Pentagon Data Breach, Citrix, Fortimail and Apple 0-days and 20+ stories CyberSecurityNews",
+      "publishedAt": "2026-10-05T01:28:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Denmark hacker attack exposes data of 8.8 million people - pasqualepillitteri.it",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0hadGxxWklUTVFXekdlMkh0U19jdXZSRHNrOE1xUVo2cHphMzRlbExoc19qUWtUWG1JemhyRVFaM1k2Z2JVSnRIeXp6OGwwRjJiTW9lUjJqYzdpQ00tWExfVTVBNXp6T2NxcTNkV0o5Z2UxWEVWeDhWUl9STVNLMFNnNXZPTDdkeTBmemVRWQ?oc=5",
+      "snippet": "Denmark hacker attack exposes data of 8.8 million people pasqualepillitteri.it",
+      "publishedAt": "2026-10-05T17:42:36.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Modernizing data security with DSPM, AI and fewer tools - Cybersecurity Dive",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXRINjczbVpMM0lVNVphUW51LXRNbmhfbjE4bDROcjg4d3M1enU1c2Jub2xZOFFoaTBIcXFhcEJuSHpwc1VTT25rQi0wRmVzU0I1VnVnOHk4VGFTNXA2RUVRVG5YRHFrRHNSMlU0ZFJYYnQzc1BvMk5CQlRYYTVubkIwMURTOTU1NkxuR2hOYjY2T2Q0VXkxbXVydTVGWml0ZVhZcg?oc=5",
+      "snippet": "Modernizing data security with DSPM, AI and fewer tools Cybersecurity Dive",
+      "publishedAt": "2026-10-05T16:30:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Stolen CPR data could make phishing attacks more convincing, cybersecurity expert warns - The Copenhagen Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUW54ZFlxdDBpdFo3V1I1QlJRMEdGWnB5dmhYaW9nb25VM1B5dFZQak5jY0dkT3VQdG1qaFRsYVhYc2daZ29FQWJKSGJxZmNpSXdZbFFEdEdDNUF3TlRGRWdEckNPb1FubUZYcnQyR3NQRUFFek5WMy1VMkdfVDZ2Zm9YMWNzVjVObks3OF9FTkMzUVJPa2Yya2ZqS2l6dnBpMU5PZ0h2YzN2SGlaQVRDTjZIRXNaQTBqYUlNYU5ZMW1DQjBxU3VZOV9Ocw?oc=5",
+      "snippet": "Stolen CPR data could make phishing attacks more convincing, cybersecurity expert warns The Copenhagen Post",
+      "publishedAt": "2026-10-05T16:14:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sensitive data breached in ransomware attack on Alabama Board of Nursing personnel systems - 1819 News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXlUa1QyR3VyWXpXOXNmTENHU05MZTVScGFjQWRSNlcwTFhQcTZOaVlwcjhaMlUwY0pMTERnM2hFQ2ZIQ0dFYktubFRwUU9CWWI3dmIzY1RjZElfTHQxSHlQV0JDbHViX3phRkdIYVdkODhhOGZXMTFKUlBzX3JqVFo3ZS13M09SNDZxQzV3SU5IMmtKQVpPR2VyWEpiVmp6Q195VVFpLWdSNThmX25sY0d1QnZFSkxSQ1NOcEdR?oc=5",
+      "snippet": "Sensitive data breached in ransomware attack on Alabama Board of Nursing personnel systems 1819 News",
+      "publishedAt": "2026-10-05T16:03:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Biggest Buyers in Cybersecurity Now Are Not Cybersecurity Companies - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHN6VEZYQXRVS0pXNENya09FNHNHM19hSmZWWEF6R2ZEYlhRRVJZb2MzUmVic21IT2lqUzV3X3lON0Y1cC1FZ3dnNktHTVVOb0l5aDRnNlFXYzEzNndxVDUzT2wtYkU4MXh4bUJyWG5RQ0p5b0NTVGpaR3ZIN00xemg2ck1JQkxUSnhoS09aYjI5OG1FZUtuTFNsVGVhNU5JTEZHZzFoMXlLTlBqdkNVOVpXS3FpUQ?oc=5",
+      "snippet": "The Biggest Buyers in Cybersecurity Now Are Not Cybersecurity Companies 24/7 Wall St.",
+      "publishedAt": "2026-10-05T12:30:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CYBER SECURITY SPEAKERS FOR EVENTS: HIRE AI & IT FUTURIST KEYNOTE EXPERTS FOR CONFERENCES OR VIRTUAL ONLINE WEBINARS - futuristsspeakers.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZUtXWlg1MkFWenduY3Y1U1hSbzV3VXZQT01NS1EtLXd0bU8tb2t2cHNTRUR2WXA5ZlBhNm5Xd2lTaG15YjJpR3llNnZKTXZSLUljRFIzMW5xUVJaOTlzUXVHSmNuSlNURnZ3UUlKLXZHVFFYclUxVUVnWHlVblMtV1NXR3A?oc=5",
+      "snippet": "CYBER SECURITY SPEAKERS FOR EVENTS: HIRE AI & IT FUTURIST KEYNOTE EXPERTS FOR CONFERENCES OR VIRTUAL ONLINE WEBINARS futuristsspeakers.com",
+      "publishedAt": "2026-10-05T11:32:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Denmark Confirms Major Security Incident Exposing 8.8 Million Citizen Records - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HOElfTmIyWVBVemNIbkZpTDFvcHNWdEJUMmViYWQ2dlZlWFd2QjJFNU5mTWpBMXRTZFI0WWgweVlkaTJTclNWX2YzRUo4QzE4TWFJTjFsVUxtOTljSHJIWHBoR0l5RTlpZ015cE1ZWldMMUE2QXfSAXZBVV95cUxNRzhJX05iMllQVXpjSG5GaUwxb3BzVnRCVDJlYmFkNnZWZVhXdkIyRTVOZk1qQTF0U2RSNFloMHlZZGkyU3JTVl9mM0VKOEMxOE1hSU4xbFVMbTk5Y0hySFhwaEdJeUU5aWdNeXBNWVpXTDFBNkF3?oc=5",
+      "snippet": "Denmark Confirms Major Security Incident Exposing 8.8 Million Citizen Records GBHackers News",
+      "publishedAt": "2026-10-05T10:55:23.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Shinhan Bank Cyberattack Exposes Data of 25,000 Customers - The Cyber Express",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fZXRicDE0LUJXUUVhbWNjU3VBY3pjZGhCZS14YXdaS0VwOW9DX25wX0lTYm55dnBOUUx3blNlU3NWbFdOS0E1c3lOSXZ1N2Z3OVVJV29PblVfc2VReFVIT29QRE9fbThneHJ6cy0wUllBSmNJ0gF0QVVfeXFMTV9ldGJwMTQtQldRRWFtY2NTdUFjemNkaEJlLXhhd1pLRXA5b0NfbnBfSVNibnl2cE5RTHduU2VTc1ZsV05LQTVzeU5JdnU3Znc5VUlXb09uVV9zZVF4VUhPb1BET19tOGd4cnpzLTBSWUFKY0k?oc=5",
+      "snippet": "Shinhan Bank Cyberattack Exposes Data of 25,000 Customers The Cyber Express",
+      "publishedAt": "2026-10-05T06:56:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "South Korean banks on high alert after wave of cyberattacks - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHVDU091anNSZ3AtUW5CWWViRVdGNlF3RHdnYkVYT2FOVGdZZnlzQlptQ1lCNHMyTHFTZDVBbU1fSHF1S25vb2FBNUhvWWtkdG9iQ25Yd3pySnJCQzA1ZjRFTm00enpCaVM2RHN4NklfbE44a25XLXZmWmg2Z0JNelZwcTVKLXhyQmhiUkc4bkVJVnFjOEd4aC1BM2J2UQ?oc=5",
+      "snippet": "South Korean banks on high alert after wave of cyberattacks The Straits Times",
+      "publishedAt": "2026-10-05T06:55:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

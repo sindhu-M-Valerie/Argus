@@ -15,8 +15,13 @@ test('builds a Google News query bounded around a historical date', () => {
   const url = new URL(feed.url);
   assert.equal(url.searchParams.get('q'), 'India misinformation after:2026-10-01 before:2026-10-03');
   assert.equal(url.searchParams.get('hl'), 'en-IN');
+  const monthFeed = buildHistoricalGoogleNewsFeed({
+    url: 'https://news.google.com/rss/search?q=India%20misinformation'
+  }, '2026-01-01', '2026-01-31');
+  assert.equal(new URL(monthFeed.url).searchParams.get('q'), 'India misinformation after:2025-12-31 before:2026-02-01');
   assert.equal(buildHistoricalGoogleNewsFeed({ url: 'https://example.com/feed' }, '2026-10-02'), null);
   assert.throws(() => buildHistoricalGoogleNewsFeed({ url: 'https://news.google.com/rss/search?q=topic' }, '2026-02-30'), /valid calendar date/);
+  assert.throws(() => buildHistoricalGoogleNewsFeed({ url: 'https://news.google.com/rss/search?q=topic' }, '2026-02-10', '2026-02-01'), /must not precede/);
 });
 
 test('uses IST boundaries for a selected calendar date', () => {

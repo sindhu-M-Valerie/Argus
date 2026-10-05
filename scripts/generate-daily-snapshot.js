@@ -15,6 +15,7 @@
  *   node scripts/generate-daily-snapshot.js                 # fetch now, update today + yesterday (IST)
  *   node scripts/generate-daily-snapshot.js --no-gdelt      # skip GDELT (faster local runs)
  *   node scripts/generate-daily-snapshot.js --backfill 2026-10-02 # fetch a past date from Google News RSS
+ *   node scripts/generate-daily-snapshot.js --backfill-range 2026-01-01 2026-10-06 # fill a date range
  *   node scripts/generate-daily-snapshot.js --rebuild 2026-09-24 2026-09-25
  *        # no fetching: re-clean existing dated files with the current classifier
  */
@@ -62,6 +63,55 @@ function isValidDate(date) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date || "")) return false;
   const parsed = new Date(`${date}T00:00:00.000Z`);
   return !Number.isNaN(parsed.getTime()) && parsed.toISOString().slice(0, 10) === date;
+}
+
+function* datesBetween(start, end) {
+  for (let date = start; date <= end; date = shiftISTDate(date, 1)) yield date;
+}
+
+function monthWindows(start, end) {
+  const windows = [];
+  for (let cursor = start; cursor <= end;) {
+    const current = new Date(`${cursor}T12:00:00.000Z`);
+    const monthEnd = new Date(Date.UTC(current.getUTCFullYear(), current.getUTCMonth() + 1, 0));
+    const lastDay = monthEnd.toISOString().slice(0, 10);
+    const windowEnd = lastDay < end ? lastDay : end;
+    windows.push([cursor, windowEnd]);
+    cursor = shiftISTDate(windowEnd, 1);
+  }
+  return windows;
+}
+
+function mergeSourceStatuses(...groups) {
+  const merged = new Map();
+  for (const source of groups.flat()) {
+    const current = merged.get(source.label);
+    if (!current) {
+      merged.set(source.label, { ...source });
+      continue;
+    }
+    current.itemCount += source.itemCount;
+    if (source.status === "online") current.status = "online";
+  }
+  return [...merged.values()];
+}
+
+async function collectHistoricalWindow(start, end) {
+  const result = await collectRiskItems({ includeGdelt: false, date: start, throughDate: end });
+  const saturated = result.sourceStatus.some((source) => source.itemCount >= 100);
+  if (!saturated || start === end) return result;
+
+  const span = Math.round((Date.parse(`${end}T00:00:00Z`) - Date.parse(`${start}T00:00:00Z`)) / 86400000);
+  const middle = shiftISTDate(start, Math.floor(span / 2));
+  const next = shiftISTDate(middle, 1);
+  console.log(`  Source result cap reached for ${start}..${end}; splitting the window`);
+
+  const firstHalf = await collectHistoricalWindow(start, middle);
+  const secondHalf = await collectHistoricalWindow(next, end);
+  return {
+    items: dedupeArticles([...firstHalf.items, ...secondHalf.items]),
+    sourceStatus: mergeSourceStatuses(firstHalf.sourceStatus, secondHalf.sourceStatus)
+  };
 }
 
 /** Items already archived for a date, so repeated runs accumulate instead of overwrite. */
@@ -175,6 +225,56 @@ async function main() {
     console.log(`  ${verifiedItems.length} verified articles from ${online}/${sourceStatus.length} Google News feeds`);
     writeDate(date, verifiedItems, { generatedAt, sourceStatus });
     writeThemeSignals();
+    return;
+  }
+
+  if (args[0] === "--backfill-range") {
+    const [start, end] = args.slice(1);
+    if (args.length !== 3 || !isValidDate(start) || !isValidDate(end) || start > end) {
+      console.error("Usage: --backfill-range YYYY-MM-DD YYYY-MM-DD");
+      process.exit(1);
+    }
+
+    console.log(`Backfilling ${start} through ${end} from date-filtered Google News RSS (GDELT disabled).`);
+    let writtenDays = 0;
+    let daysWithArticles = 0;
+    let totalArticles = 0;
+
+    for (const [windowStart, windowEnd] of monthWindows(start, end)) {
+      const { items, sourceStatus } = await collectHistoricalWindow(windowStart, windowEnd);
+      const online = sourceStatus.filter((source) => source.status === "online").length;
+      if (online === 0) {
+        console.error(`  ${windowStart}..${windowEnd}: all sources failed; leaving this window unchanged.`);
+        continue;
+      }
+
+      const itemsByDate = new Map();
+      for (const item of items) {
+        const date = getISTDateString(new Date(item.publishedAt));
+        if (!itemsByDate.has(date)) itemsByDate.set(date, []);
+        itemsByDate.get(date).push(item);
+      }
+
+      for (const date of datesBetween(windowStart, windowEnd)) {
+        const dayItems = itemsByDate.get(date) || [];
+        const daySourceStatus = sourceStatus.map((source) => ({
+          ...source,
+          itemCount: dayItems.filter((item) => item.source === source.label).length
+        }));
+        writeDate(date, dayItems, { generatedAt, sourceStatus: daySourceStatus });
+        writtenDays += 1;
+        if (dayItems.length) daysWithArticles += 1;
+        totalArticles += dayItems.length;
+      }
+    }
+
+    if (writtenDays === 0) {
+      console.error("No snapshots written because every historical source failed.");
+      process.exit(1);
+    }
+
+    writeThemeSignals();
+    console.log(`Backfill complete: ${writtenDays} days written, ${daysWithArticles} with articles, ${totalArticles} fetched articles.`);
     return;
   }
 
