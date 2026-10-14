@@ -2,8 +2,8 @@ name: Generate Daily Snapshot
 
 on:
   schedule:
-    # Every 6 hours: 05:30, 11:30, 17:30, 23:30 IST
-    - cron: '0 0,6,12,18 * * *'
+    # Every 6 hours, off the hour: 05:47, 11:47, 17:47, 23:47 IST
+    - cron: '17 0,6,12,18 * * *'
   workflow_dispatch:
 
 permissions:
