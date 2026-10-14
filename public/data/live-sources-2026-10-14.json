@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:40:54.526Z",
+  "generatedAt": "2026-10-14T21:38:40.961Z",
   "snapshot": true,
   "date": "2026-10-14",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 52
+    "total": 55
   },
   "message": null,
   "sourceStatus": [
@@ -16,91 +16,91 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 1
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 3
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 1
+      "itemCount": 59
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 0
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 5
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 6
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 4
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 0
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 1
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 0
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 0
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 0
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 4
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 1
+      "itemCount": 73
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 0
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 0
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 0
+      "itemCount": 47
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,35 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 8
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 78
+    },
+    {
+      "label": "PIB Fact Check",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "status": "offline",
+      "itemCount": 0
+    },
+    {
+      "label": "BOOM Live • Fact Check",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "status": "online",
+      "itemCount": 0
+    },
+    {
+      "label": "GDELT Public News API",
+      "theme": "all",
+      "type": "News",
+      "status": "offline",
+      "itemCount": 0
     }
   ],
   "data": [
@@ -341,6 +362,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fact Check: IITian Baba Dead? Hisar Police Shut Down Viral ‘Hotel Body’ Claim - News18",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3hfMUo0TGc1b2trdk5Gay1KU044VDBuWmtkSVYya0xDOWJlV1dPVzJHN05TVng1QnNiZWd5TThndllCMklrR203VV9Id2xDTWZ2cXhNQWtVdktGNnhHX2JpdXhscDVnbXg5NW9hcDN1eXJSLXpKMkpqMVl3MUZLeHNiV19oTjVGcEh4UWxoM3o5N2lfV2RfR0tGazBMX05BQlFqWWhnRnE4Mzdvb1pBX3lPZFhZUUdfTDhpcE5rWWd5TUlsT1lF0gHMAUFVX3lxTE91OVNFbmhmZFpaTVYxQ1VrSWNtMlg4T2lZa05BM2VsMElPY21QVDNRRWh4dlh4WEIzdEdROGp4TmdQelAweDFGVHRfbGlMZGhXeFo2WU1BWjZRWi1iWEl5RzZvSmNqWHo5cEI5Q2RCLU1UYTQ2QV8ydHlzbFN2OHZ6azRMdmNHY1FZZkRqZTlrbkM0dkE0N3Y5VGJmZGZNU3VEMTNEQmgzdlNLVTBnVUhsXzdXMHRYU1cwTmd5VGJ4QW85RFNsNzNzVEJoZw?oc=5",
+      "snippet": "Fact Check: IITian Baba Dead? Hisar Police Shut Down Viral ‘Hotel Body’ Claim News18",
+      "publishedAt": "2026-10-14T10:10:18.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Viral Claim About Russian Woman Coming To Bihar To Marry Bhagalpur Man Is False: NDTV Fact Check - NDTV",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnpIZDlCSlpQaDlXOVJad3VYUGVHVE11ZGlhenA0S1F2VmNHdENrRlZ3NzBNTkxRT1JRdHZ2WHowRndrNmw2dnlSa3VfNWpJMzdMc2F0UXpXWU5NUXlfajRCRkRTTkEwNFJZbVF1TEJHRjZLbHZTQ3R0ZGNxS2p3S0U1TU9uTGhXcmNmQzlLRnpYeFFvT0FzS2lCOUR6dVQ1a2p5WlZZdENjc25xd0pXbWxnYjl6N1JRcjZJdTVKdlhWdm_SAcsBQVVfeXFMTmZYLXNaMDdteFpvbTZqV3JUd3VTSVVrem5UOFprV0NrZjJ3QzBsbzZCLTFMTlZsTGctNlhaa3N4Szc2UUJQVU1Hc2FOek9VNDdtVmhhUWlxMGtGOWE1QWNNTW5leGFPUnlldTlLRG5lR3o4OXBvaEtHSE5GdW11S3lLbTJBbExEU09FYS1RekJaNEhJcFVES0c0QXpkQk1xZU1td0UxWTlXSVB6alhraWlsRmZYa3ZVU1JxcmFDY2lxS1lQLVZPbUM3M1E?oc=5",
       "snippet": "Viral Claim About Russian Woman Coming To Bihar To Marry Bhagalpur Man Is False: NDTV Fact Check NDTV",
@@ -454,6 +490,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi Police takes down 500 protest-related social media posts in bid to tackle ‘misinformation’ | Latest News Delhi - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQM3ZJaVZJaGwxUm9URUhKVFdIZ3F4T3JnLWQ3Q2MtU1dWV1lEaG5SdDl2dGpKZ2FzRDdKQkhHV2ZsSlhXZEJFLTZnUkFyX3kwZ08waW5IV2Q1S0k5SjNnUE5zZ3N3VXpsODNrWlVWZ3BHS1I5andFN05ZWnNaZlNGNVE0SzZxT1JTZk9wd1l4clh0b3Q5YmFoX2QzS2FzX2lDRzNteUFBNVV3UFpON3l2RVpUcjluSWsyVEIyR1pidFJOblVmdFJkSlFXZ2x4VG1lcHlkY3p6MmtzVG5PMUZxYkcteWM1X2tiUnVDcUw4UDBHVmVSRUFtbnl4M2RuajdJLU9n0gGIAkFVX3lxTE1WRktkNmg2VWttMEduMFB1bm9CNW1YTWhoMmljZnNKakstZDJvd1AwM0IzYmlkZGxtQkNRWkpET3hQUG9rM1d3TjVic1J3TDlXUzYxLXV0SU1OVmlyQlJzb0d2dkRseHpQenA5MFBzUndSdkhzR0VzMm95b0ZZWG9uOWpqeFVPZThiRE4xaWNibElMbktoNVA4TEJldUxJdjROSDVlTS10aVhoSjFfdUlFZk4wMVRhRG5Wd2Uwbk5TWHNVdTlWVzl3XzltTDFGNkI5R0VjZmU1Q1dsdDVxOTJ0NnBBX0M0c1JEZ0JiZmsyc3FpZ3YweTRBNUFrb2gtSlNFU3Z2Q054SQ?oc=5",
+      "snippet": "Delhi Police takes down 500 protest-related social media posts in bid to tackle ‘misinformation’ | Latest News Delhi Hindustan Times",
+      "publishedAt": "2026-10-14T02:30:34.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
       "confidence": "Low",
@@ -905,6 +956,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "violent-speech",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Data Breaches That Have Happened This Year (2026 Update) - Tech.co",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QZkRBeUR5Y19DcGJvaGwxa3Z5MWdGTTlzSEhxcDdtNU1PZ0s0VDkxaW9KRnJTZWNUb295S0RqQmtSVGtwTUo2RlRLVlpFMkxZZmRaTkZnZGc0cVE?oc=5",
+      "snippet": "Data Breaches That Have Happened This Year (2026 Update) Tech.co",
+      "publishedAt": "2026-10-14T00:22:19.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",

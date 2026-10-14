@@ -1,23 +1,19 @@
 {
-  "generatedAt": "2026-10-14T15:40:55.751Z",
+  "generatedAt": "2026-10-14T21:43:13.729Z",
   "windowDays": 7,
-  "endDate": "2026-10-14",
+  "endDate": "2026-10-15",
   "collectedDays": 7,
   "data": [
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 65,
-      "distinctSources": 5,
+      "totalArticles": 60,
+      "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 29,
-      "reason": "Last 3 days averaged 10.7/day vs 8.3/day before.",
+      "trend": "Stable",
+      "changePercent": 25,
+      "reason": "Last 3 days averaged 9.7/day vs 7.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-08",
-          "count": 7
-        },
         {
           "date": "2026-10-09",
           "count": 9
@@ -40,7 +36,11 @@
         },
         {
           "date": "2026-10-14",
-          "count": 10
+          "count": 12
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -77,14 +77,6 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Egypt arrests 6 journalists from fact-checking website over ‘terrorism’, ‘fake news’ charges - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSG95dFpobHlXTUpJTzd5S3prcGkwOUFvcnl2OU9pb3hBVUtmNlE0MnZXcVF4WnZIT3FPS0oyOGlDb1NzRFJabWFscjA3WXptMVhRdDVZQ1BuQ0k0QjJnZ2dEa0pYMDFrVTd4SVBCN0d5bERFajVmNFc0LVQyUjdOb25mQ0VNWEtWTHRTdDl6cXg2TGkxWVZaNmpPSWJvRURkY2owMUJvSmJGaWhZQXFvZDlSWmVCWjdGU0pLaW5kZ0tqNXNzVDRpQ0taeUM3WUNrbUZYbU5UM0ZLVlpEcy1QemNnRWtPUktTeUs1VmJJaU9GU3JFVVVBbFBTSm5JZ9IBgwJBVV95cUxNY1liY3VlckpHbnFzQmZWeml1Yko4RGRCdDcwaXlBRmpoeWVFczBiU3JVelhDN1gwajFWZVBFR1lwUzh4OFBJZWZPRlFoLXRNbDdDRGVaVHNYWmhHZ2p0RE55WUpXTGhSbnpyVndJc0F4dDB0eWlMLUdHY292M0FLRlpVOUFqaUJ0aU9UY0luY0htc2VjdDB0MHlJT3JjaHpTU1JFa1VmV1A0RkFjZ01Ma2Y1RTN0LWZqejZ5RkV2aWtMVEFCNnNCbWFjdWdBb2c2NWJPMEc3N2x2aGRVS0d1NHFJencwQzduZWxESnUybTVRWjc2V3VzNnNtcGZBdkxjcFdR?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-10-08T12:31:00.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
           "title": "Fact Check: Protest against CEC–Lawyer confronts CJI, says ‘Keep your voice low, the country is burning’? No, video is from 2025 - NewsMeter",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOE9yOG1OMmtCWi1TQkpDQWdlcW1abVRxelMwem53VGJCaDBJQTFScC1TdHJ3YlB6NVBSaUlsNU5lbGF6N3JCcGtlS18xN1VDM3hzSV9FTWR4SVlPRm1xZ2NJTmZXY2I1UjZpU3FUZmhPNWpycEJNX1RIengtaUdPbUdBUGZOTnM0R1dlUmNGenFwZ2licUswQjBTb04zQ0lJa3FnRWVjSVM0MURlYnRIcXhENUg4Ymxpa0FfQkwxNnItc1dQVmR2U09jZURoRm4xajhTM0JNZ1lfaTNILUhYWUdR?oc=5",
           "source": "Google News • Fact Check (India)",
@@ -107,23 +99,27 @@
           "publishedAt": "2026-10-14T11:38:04.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
+        },
+        {
+          "title": "Fact Check: Is IITian Baba Abhay Singh Grewal Dead After A Body Found In Hisar Hotel? - Asianet Newsable",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRi1DN011dWlVOWtDVjh0TUZWSUJ5dk1ULUYyVHp0cm5vT3Utb29mejVUMGVNR3hKRV84emxDajdpNEpyVTVLSEl4Skg2M1pCOUhGYmltaUxuTGxKN2MwQTVEUHgwNnFZTWRCV1RudHh4bW5vcmdyUlBBbEc0bVJrZ2t2ZUdWZFAySEkxOEpzdnY2eFp4NlRlT1ZOaGJtZzVvZm5NOGN0TmMxbDgwVEtQWnE4cGFtQ0RTbkVBb2VzWjdVYUhLZ1FJWUhiTlJ6LTcteHQzRW03NHRnd9IB3wFBVV95cUxQbFI4U293WHlWMUJNYm9pcGQyb0NUa28zQ0Y1d1cwX1VqaGoyTks0b3R5bTJET2hET1paNkgtcmpIZXFNZGVPWWNOYXEzLWszYl9fakRRckxQMEhiSmhiZDc1SlhxX2FYMnBick9OcmRtQlhzSS1mY0hlZWduS0NjSnRLVndmU2VsSXk2NjRfdEdGNU9KLWlLMGdRV2xFYjhQWW01cU9DSG1zMUI4R0FrcEFFTnJXQkQ0NVB3UWhlbHViNWxWY2NuS0lId21sNE1BMUpYUjZpZGlvZGNmNFpv?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-14T11:08:18.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 49,
-      "distinctSources": 4,
+      "totalArticles": 45,
+      "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 269,
-      "reason": "Last 3 days averaged 12.0/day vs 3.3/day before.",
+      "changePercent": 120,
+      "reason": "Last 3 days averaged 9.3/day vs 4.3/day before.",
       "daily": [
-        {
-          "date": "2026-10-08",
-          "count": 4
-        },
         {
           "date": "2026-10-09",
           "count": 5
@@ -147,6 +143,10 @@
         {
           "date": "2026-10-14",
           "count": 21
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -219,17 +219,13 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 35,
-      "distinctSources": 2,
+      "totalArticles": 29,
+      "distinctSources": 1,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 156,
-      "reason": "Last 3 days averaged 7.7/day vs 3.0/day before.",
+      "trend": "Stable",
+      "changePercent": 8,
+      "reason": "Last 3 days averaged 4.3/day vs 4.0/day before.",
       "daily": [
-        {
-          "date": "2026-10-08",
-          "count": 7
-        },
         {
           "date": "2026-10-09",
           "count": 3
@@ -252,7 +248,11 @@
         },
         {
           "date": "2026-10-14",
-          "count": 5
+          "count": 6
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -289,22 +289,6 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Asos hackers took more personal details than first revealed, BBC finds - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRi1sWERydlBfU0VvRTdEd1FNcG5sUDJ4N3ZveDdtbVFXc0gyWF9Za3R4ck55cVhteGgtVnBYRFpJUkZiUE00N3NGY3MyTGxzRmhqY05BRy1ETDA?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-08T16:29:33.000Z",
-          "riskScore": 47,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Asos hackers took more personal details than first revealed, BBC finds - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmR1hyOTRyblMtNkszQXJRaHNjWFA3cVh4S0N0d3BnV0dwdFdicGZpcUc4UlVWUVhFRFlCYUJiVXQyLVZabnEyY000RklOMnlwRGNYSUxYUjYyOUQyLWc?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-08T09:29:53.000Z",
-          "riskScore": 47,
-          "corroboratedBy": 2
-        },
-        {
           "title": "Rochester cybersecurity experts stress employee training amid rising AI phishing threats - Rochester Business Journal",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUk1DZG1vV3dlQnh4YzkzOHBhajJia2ZPNng1SnBNZTMwYS1wY1hJUF9KTnJZR1VDQVlfcWY2OUpjbFZaaVZ4cVhtREQ4dGhOX2ZkQmpXWGlael82Sms5V1lQMUphcEFIUXJ3dTFydElfdGNYUGRCT1lFamFubE84N3RzQTBvUHkwdUloc1Y1WDlVNlE?oc=5",
           "source": "Google News • Cybersecurity Incidents",
@@ -319,23 +303,35 @@
           "publishedAt": "2026-10-14T09:11:51.000Z",
           "riskScore": 40,
           "corroboratedBy": 1
+        },
+        {
+          "title": "TFG London Cyberattack Disrupts IT Systems and Online Services at Phase Eight, Hobbs, and Whistles Brands – October 2026 Incident Analysis - Rescana",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOUV0T1V6d1psa242N1RNZnZkWXR3WmlVRC13amdrdkxsSmQ2a1hqN3pSQXlhOVlHTklLRVhzWGRXQjA1S05oMnBHdTM3SGVWa0gyUF8wYUY1RnVhaFRfLVI4Y0xsSjFXLVN2QThvOUpZclJUNUV5UzRLNlZacnRpTEROZExxTzd3V3dsQ2hDR0ZRZlU5MFV4ek9qZkktczkta1lieVU4aERNMVFpXzcxU1ZYQmxKLXBSWjZkTU5VVDdYNmVwUnkxY2ZqdHU3NXZlSDZIb2JBSjhRY1YtdjlxS2NjUQ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-14T07:30:22.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Data Breaches That Have Happened This Year (2026 Update) - Tech.co",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QZkRBeUR5Y19DcGJvaGwxa3Z5MWdGTTlzSEhxcDdtNU1PZ0s0VDkxaW9KRnJTZWNUb295S0RqQmtSVGtwTUo2RlRLVlpFMkxZZmRaTkZnZGc0cVE?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-14T00:22:19.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 19,
+      "totalArticles": 18,
       "distinctSources": 7,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -22,
-      "reason": "Last 3 days averaged 2.3/day vs 3.0/day before.",
+      "changePercent": -33,
+      "reason": "Last 3 days averaged 2.0/day vs 3.0/day before.",
       "daily": [
-        {
-          "date": "2026-10-08",
-          "count": 1
-        },
         {
           "date": "2026-10-09",
           "count": 2
@@ -359,6 +355,10 @@
         {
           "date": "2026-10-14",
           "count": 2
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -367,14 +367,6 @@
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zbEZTRlN6Smh4NERxZGdMb3dhZ2taam55aXpRN2s1YVZFZGFwYmxTQnFVTE5qQlF4emdNRk9KV21YWHo5NXdkWjBuS0dVdWJOdFh0c1pET09MT21BdVE?oc=5",
           "source": "Google News • TVEC Terrorism (India)",
           "publishedAt": "2026-10-10T04:34:55.000Z",
-          "riskScore": 64,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Yorkton terrorism case highlights reach of extremist network - larongeNOW",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV05ZLUNubTlfeVRTS1hleS1FWWVWZE0xamZWbEswdlNRWFFiWmZjUVFqZ1dXa2ZYM3NuNkFVckhJUFIyd0ZBMU9aTnZIeGdRNXR5QVd4cTc5Y3AyVHNjaHFaN0ktT2hzMy05UHhvekIyNk9uNUZfeFRxVzBRLWFxY0lPSS05bkVDUE1yLUxVWFdzOU1tRlU3Zkt5dw?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-08T16:03:36.000Z",
           "riskScore": 64,
           "corroboratedBy": 1
         },
@@ -425,23 +417,27 @@
           "publishedAt": "2026-10-10T11:31:23.000Z",
           "riskScore": 56,
           "corroboratedBy": 1
+        },
+        {
+          "title": "Yorkton teen faces terrorism charges - PressReader",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVN3d2ZybndoUWt1Q2szMi1qdFMyNVJaaGRaSXJ4b0hvaVppQk45dVFZMEFaeXZYcEkyN3k1a0RSQlFZR0k5a0ZDY2xhanBFVzE4eEJ1MkJIOUJEWUQ2akFuY2lmbFYwMzNGdG44UzNSeHFfUjY0MmdzbEsxbDZtWmhqR00?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-08T19:16:16.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 18,
+      "totalArticles": 13,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": 7,
-      "reason": "Last 3 days averaged 2.7/day vs 2.5/day before.",
+      "changePercent": 14,
+      "reason": "Last 3 days averaged 2.0/day vs 1.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-08",
-          "count": 5
-        },
         {
           "date": "2026-10-09",
           "count": 4
@@ -465,6 +461,10 @@
         {
           "date": "2026-10-14",
           "count": 2
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -537,17 +537,13 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 15,
+      "totalArticles": 12,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": -11,
-      "reason": "Last 3 days averaged 2.0/day vs 2.3/day before.",
+      "changePercent": -5,
+      "reason": "Last 3 days averaged 1.7/day vs 1.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-08",
-          "count": 3
-        },
         {
           "date": "2026-10-09",
           "count": 0
@@ -571,6 +567,10 @@
         {
           "date": "2026-10-14",
           "count": 2
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -646,14 +646,10 @@
       "totalArticles": 9,
       "distinctSources": 5,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 7,
-      "reason": "Last 3 days averaged 1.3/day vs 1.3/day before.",
+      "trend": "Falling",
+      "changePercent": -33,
+      "reason": "Last 3 days averaged 1.0/day vs 1.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-08",
-          "count": 0
-        },
         {
           "date": "2026-10-09",
           "count": 1
@@ -677,6 +673,10 @@
         {
           "date": "2026-10-14",
           "count": 3
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -753,13 +753,9 @@
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 433,
-      "reason": "Last 3 days averaged 1.3/day vs 0.3/day before.",
+      "changePercent": 100,
+      "reason": "Last 3 days averaged 1.0/day vs 0.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-08",
-          "count": 0
-        },
         {
           "date": "2026-10-09",
           "count": 1
@@ -783,6 +779,10 @@
         {
           "date": "2026-10-14",
           "count": 2
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -839,10 +839,6 @@
       "reason": "4 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 0
         },
@@ -865,6 +861,10 @@
         {
           "date": "2026-10-14",
           "count": 1
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -913,10 +913,6 @@
       "reason": "4 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 1
         },
@@ -939,6 +935,10 @@
         {
           "date": "2026-10-14",
           "count": 1
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -987,10 +987,6 @@
       "reason": "4 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 0
         },
@@ -1013,6 +1009,10 @@
         {
           "date": "2026-10-14",
           "count": 1
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -1061,10 +1061,6 @@
       "reason": "2 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 2
         },
@@ -1086,6 +1082,10 @@
         },
         {
           "date": "2026-10-14",
+          "count": 0
+        },
+        {
+          "date": "2026-10-15",
           "count": 0
         }
       ],
@@ -1119,10 +1119,6 @@
       "reason": "2 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 0
         },
@@ -1145,6 +1141,10 @@
         {
           "date": "2026-10-14",
           "count": 1
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -1177,10 +1177,6 @@
       "reason": "1 article in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 0
         },
@@ -1203,6 +1199,10 @@
         {
           "date": "2026-10-14",
           "count": 1
+        },
+        {
+          "date": "2026-10-15",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -1227,10 +1227,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 0
         },
@@ -1252,6 +1248,10 @@
         },
         {
           "date": "2026-10-14",
+          "count": 0
+        },
+        {
+          "date": "2026-10-15",
           "count": 0
         }
       ],
@@ -1268,10 +1268,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 0
         },
@@ -1293,6 +1289,10 @@
         },
         {
           "date": "2026-10-14",
+          "count": 0
+        },
+        {
+          "date": "2026-10-15",
           "count": 0
         }
       ],
@@ -1309,10 +1309,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-08",
-          "count": 0
-        },
-        {
           "date": "2026-10-09",
           "count": 0
         },
@@ -1334,6 +1330,10 @@
         },
         {
           "date": "2026-10-14",
+          "count": 0
+        },
+        {
+          "date": "2026-10-15",
           "count": 0
         }
       ],
