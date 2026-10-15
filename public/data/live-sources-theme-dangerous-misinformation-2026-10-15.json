@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:33:33.135Z",
+  "generatedAt": "2026-10-15T11:23:18.802Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-15 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 61
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 71
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 46
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Unrelated protest videos misrepresented as Cockroach Janta Party rally in Indian capital - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kSHZxVU42bmdoTVNHdjhCUVd0SXlxUnU0dWgtOXg1SGQtUEgxVV9YSVBQdzNFcHh6QVlXUi0zTlhQVXVKdXZ6RHRMNi1vVENLb0dZU1NIZVU?oc=5",
+      "snippet": "Unrelated protest videos misrepresented as Cockroach Janta Party rally in Indian capital AFP Fact Check",
+      "publishedAt": "2026-10-15T08:19:56.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
