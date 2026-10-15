@@ -98,8 +98,4 @@ Argus is available as a static dashboard on GitHub Pages and as a full Node/Expr
 
 GitHub Pages serves the frontend and archived snapshots in `public/data/`; it does not run the Express API. The snapshot workflow fetches and commits data every six hours, then the Pages workflow republishes the site.
 
-### Render: Full App
 
-[Open the full app](https://argus-web.onrender.com)
-
-Render runs the Express server, serving the dashboard and API together. It is configured by [render.yaml](render.yaml) and automatically deploys when changes are pushed to `main`.
