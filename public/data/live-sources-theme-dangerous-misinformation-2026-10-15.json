@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:23:18.802Z",
+  "generatedAt": "2026-10-15T16:57:00.286Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 54
+      "itemCount": 55
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "PIB Fact Check",
@@ -182,16 +182,46 @@
   ],
   "data": [
     {
-      "title": "Unrelated protest videos misrepresented as Cockroach Janta Party rally in Indian capital - AFP Fact Check",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kSHZxVU42bmdoTVNHdjhCUVd0SXlxUnU0dWgtOXg1SGQtUEgxVV9YSVBQdzNFcHh6QVlXUi0zTlhQVXVKdXZ6RHRMNi1vVENLb0dZU1NIZVU?oc=5",
-      "snippet": "Unrelated protest videos misrepresented as Cockroach Janta Party rally in Indian capital AFP Fact Check",
-      "publishedAt": "2026-10-15T08:19:56.000Z",
+      "title": "Fact Check: Did Greta Thunberg join London protest against CEC Gyanesh Kumar? Here’s the truth - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmVCZENMaFc5am9uUTcwcnYwSnFvTFYzS1Y1MWJ2NVlSa192QnJMVjF4RWdKQWQ4SmtWcnZxWUppV1dpdjJWU0k4YjlocGdVVk1WUlkwMzlyZlFoUzM0dVU1aFgwMExObndBd20tYXJjTjZyX1pRNk91a2tmWWk3aWdoZzFfS3dFUUFjN3JGbG5TZ3lEOTlMUXhKb0NOTTM0c25CdEQxZUg4d1BMUnF1b092VkEwVjZhM1pxSXVmS1pCbGJFMUYzZTUzWlVOSGIzejFtMXlR0gHbAUFVX3lxTFBIVDNKTHlCMGVidjhVY3g3VmdKajBEb29OSjRsd2Q0blpLcGl0LXZWTFlRWWViVmxBdzZNejdKbzE5clhRbnRSVldQSFR1TG5pYjdXRU5oeER6eFlFN282dVVXVXRhcjY0MDQ4R0w2U25CSjZHdlZPdExwU3ZmbW5fT0FWSFB5MzBQUlcxRWh5LUNxU1JSR3lncEEzM3JwNkhCR056YkFOdENkWHhySFdfdUxKMC1Ld1QtdnFub0N6LW12SG80djF1aGxIQl9WX0oxOEhvei1kQ0FvRQ?oc=5",
+      "snippet": "Fact Check: Did Greta Thunberg join London protest against CEC Gyanesh Kumar? Here’s the truth Organiser",
+      "publishedAt": "2026-10-15T15:34:04.000Z",
       "source": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Unrelated protest videos misrepresented as Cockroach Janta Party rally in Indian capital - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kSHZxVU42bmdoTVNHdjhCUVd0SXlxUnU0dWgtOXg1SGQtUEgxVV9YSVBQdzNFcHh6QVlXUi0zTlhQVXVKdXZ6RHRMNi1vVENLb0dZU1NIZVU?oc=5",
+      "snippet": "Unrelated protest videos misrepresented as Cockroach Janta Party rally in Indian capital AFP Fact Check",
+      "publishedAt": "2026-10-15T08:21:50.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pakistani Fake News Account Banned on X Over Fabricated Videos on Delhi Protests and Rahul Gandhi - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTTdNUzhFN3Nqc2J1dE81MFdzOTlycWpsaE82amZqMUhvanczUXYwbkNqaEVGSG5zMDJoRUxSdVNKRkxDa0NrVTVjZ2x4bENRa3Yzdl9FaGw4NnRUZEViWDFMeVlaR0hNTUI2X21uN0RNRk8ybzB4SUNoNlFKRlBpVEtpekVueWVLTTlna0x0QWFnbWNTUVFGRlB0SW9LMjY0V3hiaVZick11U2NWbjlDbjhLUkhDN3dId0UwZ0dwU1lYQ25kSGxTVHc1SWRfdlVfNzhoWmtJSHZCRGNtbXFTRktibjJUdzBidkY5VUgydGTSAfYBQVVfeXFMTjJ1cXpYbnNLbTVTRWJaSERQNWNWTlU0blFXV2VPajFZSkpNNUdBbUVGZWllSWZtejR3NWQyWjFHYWNfVGJrSWtSQVNhWU1ERzRkTlVuVUxrNjdMa0ZUcEg5X0xwa0tTYndCT3pxdnh5elFnZXdVSVZ4amJqNTA3b2JFX1ZCeGJEVlVYZE1iZVRhS24zV3FDNXVWTi1NVmI0SGFmcVlaQ2QwYnJrMEIzbXRxbGdpdFdha3hna292ZlpnVVhubTZBb0swMWF5bFpETjJLSlAtTDdkcGZFMWUtQU9zSlMyQm5tZ3cxalA1Wk1LcWtlWER3?oc=5",
+      "snippet": "Pakistani Fake News Account Banned on X Over Fabricated Videos on Delhi Protests and Rahul Gandhi - India Today India Today",
+      "publishedAt": "2026-10-15T09:07:16.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

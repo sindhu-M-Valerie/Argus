@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:23:18.802Z",
+  "generatedAt": "2026-10-15T16:57:00.286Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-15 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 54
+      "itemCount": 55
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "'They won, I lost': Sahiba Bali breaks down over relentless online hate, threats & trolling - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdElqRUowLTV6MDlGTGNINEItcTE2OTJjSzJrT0pjaWRXRGhrLWNTb3lCWTZXVFFPdWhyNWx6WGxLN0pMVGZ2T0Y5ZmhSajlocFI2NnNIeEY4ZmwzdGlXeDNyN2RjMm1lMHRpOWVrT3BxMTRpdDJtQWY0SWV4UTA3VEc3VnJGNFprWUdrXzVyazc0aGhTTEp3dTJqTlJRWTJOS0w0Xy1Rc29mYmNiSUhNdWdwa2Jxc1Z2SU5nSGhfYjNDOUJoTUVEZmRMQlJhWW5rTkJfOWVWVC1BYUFpY1JyTw?oc=5",
+      "snippet": "'They won, I lost': Sahiba Bali breaks down over relentless online hate, threats & trolling Deccan Herald",
+      "publishedAt": "2026-10-15T13:26:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violent-speech",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
