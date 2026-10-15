@@ -52,13 +52,15 @@ On GitHub Pages there is no server, so the dashboard reads snapshots in `public/
 
 Risk scores (0–100) combine theme severity, how much theme-specific evidence the text contains, source trust, and how many independent sources cover the same story. Recency affects sort order, not risk.
 
+Replace the example dates with the date or range you want.
+
 ```bash
-node scripts/generate-daily-snapshot.js            # fetch now; update today and yesterday (IST)
-node scripts/generate-daily-snapshot.js --no-gdelt # faster local run
-node scripts/generate-daily-snapshot.js --backfill 2026-10-02 # backfill one date from Google News RSS
-node scripts/generate-daily-snapshot.js --backfill-range 2026-01-01 2026-10-06 # fill a range from Google News RSS
-node scripts/generate-daily-snapshot.js --rebuild 2026-09-24   # re-clean an existing day, no fetch
-npm test                                            # includes guards on the committed data
+node generate-daily-snapshot.js
+node generate-daily-snapshot.js --no-gdelt
+node generate-daily-snapshot.js --backfill YYYY-MM-DD
+node generate-daily-snapshot.js --backfill-range YYYY-MM-DD YYYY-MM-DD
+node generate-daily-snapshot.js --rebuild YYYY-MM-DD
+npm test
 ```
 
 ## Quick Start
@@ -86,42 +88,18 @@ npm test                                            # includes guards on the com
 
 ### Development Mode
 
-```bash
-npm run dev
-```
-
-The current UI is intentionally styled with a newspaper-inspired visual theme (paper texture background, masthead layout, and editorial panels) to match the product identity direction.
-
-## Deploy Full App on Render (Recommended)
-
-This is the closest to localhost behavior: one URL serves both frontend and API.
-
-### 1) Deploy from blueprint
-
-- Open Render dashboard → **New +** → **Blueprint**
-- Select this repo in your GitHub account
-- Render will use [render.yaml](render.yaml) and create a Node web service
-
-### 2) Wait for first deploy
-
-Render gives you a live URL like:
-
-`https://argus-web.onrender.com`
-
-### 3) Verify endpoints
-
-- `https://argus-web.onrender.com/api/health`
-- `https://argus-web.onrender.com/api/signals`
-- `https://argus-web.onrender.com/api/live-sources?type=news&limit=5`
-
-### 4) Use the same app URL for UI
-
-- `https://argus-web.onrender.com`
-
-This serves the same Express app as local `npm start` and keeps link rendering behavior consistent.
-
 ## Deployment
 
-**Primary Deployment (Recommended):** [https://argus-web.onrender.com](https://argus-web.onrender.com)
+Argus is available as a static dashboard on GitHub Pages and as a full Node/Express app on Render.
 
-The app is deployed on Render with auto-deployment enabled. Push to `main` branch to trigger automatic deployment.
+### GitHub Pages: Static Dashboard
+
+[Open the dashboard](https://sindhu-m-valerie.github.io/Argus/)
+
+GitHub Pages serves the frontend and archived snapshots in `public/data/`; it does not run the Express API. The snapshot workflow fetches and commits data every six hours, then the Pages workflow republishes the site.
+
+### Render: Full App
+
+[Open the full app](https://argus-web.onrender.com)
+
+Render runs the Express server, serving the dashboard and API together. It is configured by [render.yaml](render.yaml) and automatically deploys when changes are pushed to `main`.
