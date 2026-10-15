@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="ARGUS: Real-Time Civic Risk Intelligence" />
   <title>ARGUS | India Digital Risk Monitor</title>
-  <link rel="stylesheet" href="./styles.css?v=20260924_v3" />
+  <link rel="stylesheet" href="./styles.css?v=20261015_mobile_theme" />
 </head>
 <body>
   <div class="paper-shell">
@@ -59,13 +59,17 @@
         <span class="decor-glasses g5"></span>
       </div>
       <p class="edition">India Digital Risk Monitor • Daily Edition</p>
-      <h1><img src="https://github.com/user-attachments/assets/143eb149-0b77-4d6e-b8a6-91fdd1da10df" alt="Argus Logo" class="argus-logo-side" /> ARGUS <img src="https://github.com/user-attachments/assets/143eb149-0b77-4d6e-b8a6-91fdd1da10df" alt="Argus Logo" class="argus-logo-side" /></h1>
+      <h1>ARGUS</h1>
       <p class="tagline">Real-Time Civic Risk Intelligence</p>
       <div class="header-controls">
         <div class="date-selector-container">
           <label for="dateSelector">View Data for:</label>
           <input type="date" id="dateSelector" class="date-selector" min="2021-01-01" />
           <button id="refreshDataBtn" class="refresh-data-btn" type="button">Refresh</button>
+        </div>
+        <div class="theme-mode-switch" role="group" aria-label="Color theme">
+          <button class="theme-mode-btn" type="button" data-theme-mode="day" aria-label="Switch to day mode" title="Day mode" aria-pressed="false"><span aria-hidden="true">&#9728;</span></button>
+          <button class="theme-mode-btn" type="button" data-theme-mode="night" aria-label="Switch to night mode" title="Night mode" aria-pressed="true"><span aria-hidden="true">&#9790;</span></button>
         </div>
       </div>
       <div class="source-legend" aria-label="Source status legend">
@@ -171,6 +175,6 @@
 
   <script src="./runtime-config.js?v=20260929_v1"></script>
   <script src="./cursor-effects.js?v=20260924_v3"></script>
-  <script src="./app.js?v=20261006a"></script>
+  <script src="./app.js?v=20261015_theme_mode"></script>
 </body>
 </html>

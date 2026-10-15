@@ -766,12 +766,33 @@ function initPagination() {
 }
 
 function initApp() {
+  initThemeMode();
   initThemeBar();
   initDateSelector();
   initRefreshButton();
   initPagination();
   loadAIPulseSnapshot();
   loadAll();
+}
+
+function initThemeMode() {
+  const savedMode = localStorage.getItem("argus-color-theme");
+  setThemeMode(savedMode === "day" ? "day" : "night", false);
+
+  document.querySelectorAll("[data-theme-mode]").forEach((button) => {
+    button.addEventListener("click", () => setThemeMode(button.dataset.themeMode));
+  });
+}
+
+function setThemeMode(mode, persist = true) {
+  const selectedMode = mode === "day" ? "day" : "night";
+  document.documentElement.dataset.theme = selectedMode;
+
+  document.querySelectorAll("[data-theme-mode]").forEach((button) => {
+    button.setAttribute("aria-pressed", String(button.dataset.themeMode === selectedMode));
+  });
+
+  if (persist) localStorage.setItem("argus-color-theme", selectedMode);
 }
 
 initApp();
