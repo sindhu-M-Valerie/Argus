@@ -1,11 +1,7 @@
 # Argus
 Real-Time Intelligence on Emerging Digital Harm/ Tracking Patterns. Protecting Truth.
 
-Argus is a real-time civic risk intelligence platform focused on detecting emerging misinformation campaigns, coordinated hate activity, and online exploitation risks across India’s digital ecosystem.
-
-Operating as a 24/7 signal dashboard, Argus aggregates publicly available data, verified reports, and trend signals to identify coordinated narrative amplification and harmful campaign patterns.
-
-The platform is designed to prioritize behavioral analysis and ecosystem-level insights rather than amplifying harmful content.
+Argus is a civic-risk intelligence dashboard focused on online harms in India. It gathers news from public feeds and GDELT, classifies relevant coverage by harm theme, and shows daily snapshots, regional signals, seven-day trends, and a separate AI Safety Pulse. It’s built with a Node/Express backend and a static dashboard deployed on GitHub Pages, with GitHub Actions refreshing and publishing the snapshots.
 
 <img width="384" height="383" alt="Screenshot 2026-02-13 at 1 01 51 AM" src="https://github.com/user-attachments/assets/143eb149-0b77-4d6e-b8a6-91fdd1da10df" />
 
