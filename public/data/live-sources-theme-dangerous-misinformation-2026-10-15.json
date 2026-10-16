@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 11
   },
   "message": null,
   "sourceStatus": [
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,16 +171,24 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
   "data": [
+    {
+      "title": "FAKE NEWS ALERT An unauthorised and manipulated version of our news card is being circulated with false information. We urge the public not to believe, share, or forward this fabricated content. Please rely only on our official channels for authentic news a - Instagram",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fQW1OdnNuRUthM2lTMWdDSHQ4czdhNmgyOE15OHZ1TjZYRWdkS2ltcTRLcjFvZ2lwU2M1dFpfSDNJMl8wX2ljWUwwMVZmN2FnMWc?oc=5",
+      "snippet": "FAKE NEWS ALERT An unauthorised and manipulated version of our news card is being circulated with false information. We urge the public not to believe, share, or forward this fabricated content. Please rely only on our official channels for authentic news a Instagram",
+      "publishedAt": "2026-10-15T15:16:54.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Fact Check: Did Greta Thunberg join London protest against CEC Gyanesh Kumar? Here’s the truth - Organiser",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmVCZENMaFc5am9uUTcwcnYwSnFvTFYzS1Y1MWJ2NVlSa192QnJMVjF4RWdKQWQ4SmtWcnZxWUppV1dpdjJWU0k4YjlocGdVVk1WUlkwMzlyZlFoUzM0dVU1aFgwMExObndBd20tYXJjTjZyX1pRNk91a2tmWWk3aWdoZzFfS3dFUUFjN3JGbG5TZ3lEOTlMUXhKb0NOTTM0c25CdEQxZUg4d1BMUnF1b092VkEwVjZhM1pxSXVmS1pCbGJFMUYzZTUzWlVOSGIzejFtMXlR0gHbAUFVX3lxTFBIVDNKTHlCMGVidjhVY3g3VmdKajBEb29OSjRsd2Q0blpLcGl0LXZWTFlRWWViVmxBdzZNejdKbzE5clhRbnRSVldQSFR1TG5pYjdXRU5oeER6eFlFN282dVVXVXRhcjY0MDQ4R0w2U25CSjZHdlZPdExwU3ZmbW5fT0FWSFB5MzBQUlcxRWh5LUNxU1JSR3lncEEzM3JwNkhCR056YkFOdENkWHhySFdfdUxKMC1Ld1QtdnFub0N6LW12SG80djF1aGxIQl9WX0oxOEhvei1kQ0FvRQ?oc=5",
@@ -212,6 +220,81 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fact Check: Viral Russian Woman And Bihar Man's Love Story Is Misleading: Here's The Truth - Asianet Newsable",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZVFjQXVNVkV5WUtYa21aaXhhOFhseHNqdEJzdzdzMWFqdWk5REgzWHhpMnRRbWZGenlCNVRvMFJkNmg0cF9Rakw1dFN6eVFLUVlrc20zMG1TSTVEZDY5TVV3dGNLN2NwbVBpQ3pHanN6bzJkMV9iVG4zZ0p5YnFoOFpmVTFwd1RwOTlsYUN0dEpZa2ltd0NTWmRNbzhNQ05Sd2dBTG9ZYklKYjR2X3U4YjBaczM5MU9hQ1p3NUdzR0RSVy1nRUkta2gtampUR3ZXRmJReE94Wlk3S2JlYWc?oc=5",
+      "snippet": "Fact Check: Viral Russian Woman And Bihar Man's Love Story Is Misleading: Here's The Truth Asianet Newsable",
+      "publishedAt": "2026-10-15T05:22:03.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check News | ⚡MEA Fact Check: Claims of US Asking India To Provide Military Support To Attack Iran Are ‘False & Baseless’ - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRE5yV21NZDNfc1FnRGxUUmFkSTB2ZkxyWjN2SGFfcXg3RzhkT1VVZUpzRmpXdkJRbDBVV3dVeThIUFRIVWRpd3ZKSGZPMWlTZ002eWlrV0U0YUI4WUJKNmZoZnhXS3J3S2s1Z3I5d0E3VTZ3bUZ3c3BhRDdkdkhLamNGSm4xT1RiWVROTDZ5Q1htcENCVG9ZYldWOTRCM1JTUl96UzJkWVVWd0ZvbmtjRHNYRFd3SFduRWZfM3hGWjU2UkxwbEJkWFVRRlpjY2s3VW4zTkk2Q3NQeHV3SDdvUHFCTF93Z0JETVYxZ2t2MVBiRTktbWfSAfYBQVVfeXFMUEROcldtTWQzX3NRZ0RsVFJhZEkwdmZMclozdkhhX3F4N0c4ZE9VVWVKc0ZqV3ZCUWwwVVd3VXk4SFBUSFVkaXd2SkhmTzFpU2dNNnlpa1dFNGFCOFlCSjZmaGZ4V0tyd0trNWdyOXdBN1U2d21Gd3NwYUQ3ZHZIS2pjRkpuMU9UYllUTkw2eUNYbXBDQlRvWWJXVjk0QjNSU1JfelMyZFlVVndGb25rY0RzWERXd0hXbkVmXzN4Rlo1NlJMcGxCZFhVUUZaY2NrN1VuM05JNkNzUHh1d0g3b1BxQkxfd2dCRE1WMWdrdjFQYkU5LW1n?oc=5",
+      "snippet": "Fact Check News | ⚡MEA Fact Check: Claims of US Asking India To Provide Military Support To Attack Iran Are ‘False & Baseless’ LatestLY",
+      "publishedAt": "2026-10-15T00:16:42.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: FAKE Animal Attack Videos Posted By Trump In Truth Social Montage -- 3 Of 5 Clips Are AI-Generated - Lead Stories",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWdZaW5aR3hHT3ZvNkk2d2ZVMExuMmFpTGZvcEN3S05pS3JnWGdfTUtxQ0dFazlodHhTdU1LcXJMMmZkZWY1NzM0VTdGRno0bVF4bHFja0RNT2Z4bnRvZVJ1akg0cTBXV09lZlc0Tm1Td1FNYWdzaUZ5OHZPTnRreDYtaUtVVkszTE9zeEREdmlkY2pNMzVNMXRkbkZHemVnWmVJU2Z2SHRYRWgyUnJOWW5STnE0Mk9ldjc2bGluQWVNdw?oc=5",
+      "snippet": "Fact Check: FAKE Animal Attack Videos Posted By Trump In Truth Social Montage -- 3 Of 5 Clips Are AI-Generated Lead Stories",
+      "publishedAt": "2026-10-14T23:54:24.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: Did Mike Rogers buy two yachts after leaving Congress? - Bridge Michigan",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmZkUmd6UGp2WFlLT2RCcnNSUXZVWkZsMEQwbmZXMndNR0pXZkp5ekY0OUJiLTRCR3Bwc1F1ZGRqYktxVzA0a20wSzdkZTRHR2gwU1NIN1pSWktIZUxRUzBiUGczLW9iRXlXTjZxTlVqUWpEelBrWlRXWGJHQW5XVkVlbGlFUmdnbFZaelNnQXdSNUExMDlUaWIzY3BJYXJtdklyR0hxM3hTdw?oc=5",
+      "snippet": "Fact check: Did Mike Rogers buy two yachts after leaving Congress? Bridge Michigan",
+      "publishedAt": "2026-10-14T20:33:04.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Whack-a-mole’ tactic fuels Pak-backed multi-layered disinformation campaign - Punjab Kesari English",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXJiLXZHQVlSVjhQY0xsVXJQX1QtSjJITXBLNUNyZ0YzNUh2NGRKZDA4X3QtYUFDQnNxSFdnbTZTbDlUUFJVZjU1eUlfT2ljZDhOSEZ4YmpRNkJqQktGb2lDbm1pSDJvOVJId0hvdU9iZ1VJR0lBaWFsX0xOcVVZTTgxZ0NDUnlDSzRaYTBHTWR4Y3VKRXFNLVNHd0NxUEd6VTNpSU1jekd4bU5XWVI0MlM5SXVldw?oc=5",
+      "snippet": "‘Whack-a-mole’ tactic fuels Pak-backed multi-layered disinformation campaign Punjab Kesari English",
+      "publishedAt": "2026-10-15T09:21:08.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Pakistani Fake News Account Banned on X Over Fabricated Videos on Delhi Protests and Rahul Gandhi - India Today - India Today",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTTdNUzhFN3Nqc2J1dE81MFdzOTlycWpsaE82amZqMUhvanczUXYwbkNqaEVGSG5zMDJoRUxSdVNKRkxDa0NrVTVjZ2x4bENRa3Yzdl9FaGw4NnRUZEViWDFMeVlaR0hNTUI2X21uN0RNRk8ybzB4SUNoNlFKRlBpVEtpekVueWVLTTlna0x0QWFnbWNTUVFGRlB0SW9LMjY0V3hiaVZick11U2NWbjlDbjhLUkhDN3dId0UwZ0dwU1lYQ25kSGxTVHc1SWRfdlVfNzhoWmtJSHZCRGNtbXFTRktibjJUdzBidkY5VUgydGTSAfYBQVVfeXFMTjJ1cXpYbnNLbTVTRWJaSERQNWNWTlU0blFXV2VPajFZSkpNNUdBbUVGZWllSWZtejR3NWQyWjFHYWNfVGJrSWtSQVNhWU1ERzRkTlVuVUxrNjdMa0ZUcEg5X0xwa0tTYndCT3pxdnh5elFnZXdVSVZ4amJqNTA3b2JFX1ZCeGJEVlVYZE1iZVRhS24zV3FDNXVWTi1NVmI0SGFmcVlaQ2QwYnJrMEIzbXRxbGdpdFdha3hna292ZlpnVVhubTZBb0swMWF5bFpETjJLSlAtTDdkcGZFMWUtQU9zSlMyQm5tZ3cxalA1Wk1LcWtlWER3?oc=5",
       "snippet": "Pakistani Fake News Account Banned on X Over Fabricated Videos on Delhi Protests and Rahul Gandhi - India Today India Today",
@@ -220,6 +303,36 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Inside Google's Gemini safety strategy: Protecting children, verifying age and tackling AI misinformation - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZ0dtQ3dGUEJJLUJDYmt4WnBTQmVSbC05UndQYnZqd2E4ZmpVOC14eDBUdnp1cXBaWXBTSGpFdkdiVVU5aV9FTzFOcU5LRmhLUVBmVmlJTGp2QkhWY1g0Wi1tejZsRk1aTUZFMDVBZllpaHRIbmQzMHdYdWtBOXhjV1RfUlpjaElyOW5yMXhEZmxjYnJQczh6b0pER1R4NDIxNjVOTlBJeVYwZ3o3VzFGdVNRMENkRmpuU1N2VEVYMlV6YjRFLVJNeXVvYkJyZ1EyOGhLRDhMdkxnMkxrYS02RGZTTHNxaDJZcFp3RUJYeUV3Q2t4OVVEX09zWGZGSGtZZi1OVdIBigJBVV95cUxOZHhCaV8zbXZrN1NzUEZJeFNOUXVHeEdFT2pkSHY1RXAwdmYtSG1JV3lMR1FnaTRpUTR1OE5mdDBRNzRYNk9odUpIeDVKVTN4bVVRYzNDemVPSFJaVGlDS2hhc2tNMVgzT09tQzNGbk5iUDJraEFPc3pXdzFhRHRvMEFMZ3hCRmdMZjZkVS1vZmdtMFcxbkQzYk9YbHE4aXhmdnFhT1VhWlFKOFRheHJFTGU2Tk9kR2xhRHAwejFmYUVndTl6bzZNU09fT1lDd3JyTXFwSVhvSXQxX0JkRmRjOHlDdkpUYm9jZzF2S1dJU1dfYkZISDZSaVhrcHhZUklxSVJSVVRuaGphdw?oc=5",
+      "snippet": "Inside Google's Gemini safety strategy: Protecting children, verifying age and tackling AI misinformation The Economic Times",
+      "publishedAt": "2026-10-15T07:54:42.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "HPV vaccine rollout in PNG sparks misinformation online - https://aapnews.aap.com.au/",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMFdLamZ4SzMyd2V1S3BEYkVfSE5FbVh5U0FsQ3lsU0Fkd2l3eUg2VG5tb1Y1bFdXOWxYbWQtYjZ2aE42STRtYnlqZy1VV0JYZmJjSHdaaVFGTDFuS0ZaSV9QUk1YQWtRMzItYXRTbkdKLWFpZ09KSTQ5Q1RXbzBvcGgxZ0ZOX0VkbC1mVUVnb2E?oc=5",
+      "snippet": "HPV vaccine rollout in PNG sparks misinformation online https://aapnews.aap.com.au/",
+      "publishedAt": "2026-10-15T05:23:32.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
       "confidence": "Low",

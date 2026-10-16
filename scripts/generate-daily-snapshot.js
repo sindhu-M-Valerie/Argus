@@ -306,9 +306,15 @@ async function main() {
     process.exit(1);
   }
 
+  // Undated feeds are relevance-ranked and mostly return older articles, so
+  // also query the dated window for yesterday..today to catch recent items.
+  const recent = await collectRiskItems({ includeGdelt: false, date: yesterday, throughDate: today });
+  console.log(`  ${recent.items.length} dated-window items for ${yesterday}..${today}`);
+  const combined = dedupeArticles([...items, ...recent.items]);
+
   // Late-published items from yesterday arrive after midnight, so refresh both days.
-  writeDate(yesterday, items, { generatedAt, sourceStatus });
-  writeDate(today, items, { generatedAt, sourceStatus });
+  writeDate(yesterday, combined, { generatedAt, sourceStatus });
+  writeDate(today, combined, { generatedAt, sourceStatus });
   writeThemeSignals();
   await writeAIPulse(today, generatedAt);
 }

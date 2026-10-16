@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-10-15 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,14 +171,53 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Burger King Japan Confirms Data Breach Exposing 11.18M User Records - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRWGRFZUpLWlFweWZSRDFrSEhlZGZ5R09Gdmt2ckxnbGxfNXAwY3ZqVnVIb1VxaTlhSVRhR3JBMkkxOWtRUzV0a2RQQTNONlpZZFRaOUc4QWdBb3ljUFdMclFkVkd6SDlybXRTOdIBckFVX3lxTFA2R01yRGRqTlQyb2Y2S2NPUG5xRmtLQ0lRNEg5U1N1c045Q1Y2VURyalhfQzV2SXRTX2dYNlp0MWczZkdTdWpPdTBpbGJYX0NtOUhUZzlwa3cyZDFHVFdXS1pyVzB3b2JJc1ozeW1uUmotdw?oc=5",
+      "snippet": "Burger King Japan Confirms Data Breach Exposing 11.18M User Records CyberSecurityNews",
+      "publishedAt": "2026-10-15T15:58:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI in Cybersecurity Market to Reach US$19.2 Billion by 2033, Growing at a CAGR of 5.1% - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEZHUE9ZbERNUHJLc05sX0JtMXFDNUNwb2RJSkItZ21HaTJKMEtLQld6d1VneUdTbnFmMldtZVZXZFZFYjVvdW1lbnFHNTR3d1J0UkhPOUxtUk90Z1pzNnFJSURqbUhJeGVXdzNIWkpoS2J4c05yalVrdjZqVGxmOERUNVlMRG9mSDJwZkRULUFSRGdsNk9CcXB6Yw?oc=5",
+      "snippet": "AI in Cybersecurity Market to Reach US$19.2 Billion by 2033, Growing at a CAGR of 5.1% openPR.com",
+      "publishedAt": "2026-10-15T09:40:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Research finds Enterprise DLP Tools largely ineffective in preventing Data Loss - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWYtX2Q5LXFjNWt0eFJmdFMtdUJyQndfRnZBTDhUQTdIWWVZczA5elpjQ2NFR2pOd3ZweEFFbEk5UkJCWVhpcVNHVkNDQTVrb3A5Vk9zd3pjTl9GSmxUYVZIbzJ1dE82cFFleEZtc09UMnFSQjh5Ql81XzZQS0xmbFRMRFllT0ZRb3lBM2dYcXlpWFJDMXBvUjNucEpHdGpPU0tHQ1NsNzNGdENZOTNqQjFKeTdreWo3QmdR?oc=5",
+      "snippet": "Research finds Enterprise DLP Tools largely ineffective in preventing Data Loss Cybersecurity Insiders",
+      "publishedAt": "2026-10-15T06:39:43.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

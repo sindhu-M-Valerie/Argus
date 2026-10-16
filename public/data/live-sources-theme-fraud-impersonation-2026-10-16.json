@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-16",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-10-16 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,14 +171,38 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Phishing: the bank must reimburse the customer even if they have been negligent - Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVppQ1g1eWp6QVVXUlRsS09OOVFGMXFlT3FrLUhSNldFaGJxRWJ2T1BSclM2MUZiaVZHazZGdW93Tl9ZRktZSWJieUdSckZ0Z1BibUp5NWxYbER0Uk9naE9TbXR3UFZqN1RHRGdvM2U4aUdkcGtlb2w3Tml4UlNHQVJKR2stNzZyMDhYelc1WVNMUHEtMnBiSFF3OEphUWQyZU1SaEd4bjFPUG8wOEJ3N2dtSlBwQ2ZEU1E?oc=5",
+      "snippet": "Phishing: the bank must reimburse the customer even if they have been negligent Il Sole 24 ORE",
+      "publishedAt": "2026-10-16T03:12:05.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SIM swap fraud: How criminals hijack your phone and financial accounts - News24",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0tSaVJnQkJwcm1sMWREZXVTcXhXNXN2d2VwYjJQYVEwM3diSUc1b19aQ2xRT3FrVEtaSkV5ZERkUFlBcE1WWVlHcjdxR2hQRGg5dkNtWF9lNUxDcW9oYnhneGNYdlFHMDZvaEhWY2lJRGk2MlBpVzdEUG5oenZabVNfYnUyOEhJRkdDQnBsRV96RnVjMEJ4cWE5STlyNU4wR2NlTGY4c014VEx6YXRMWGxJaVA5cDQxY3N5N2VB?oc=5",
+      "snippet": "SIM swap fraud: How criminals hijack your phone and financial accounts News24",
+      "publishedAt": "2026-10-15T23:55:17.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

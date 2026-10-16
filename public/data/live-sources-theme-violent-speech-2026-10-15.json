@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-10-15 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,14 +171,38 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Manifesto of Aurora Hindu temple Neo-Nazi shooter described Indians as ‘subhumans’: How hate speech by White supremacists and Indian leftists is putting Hindus and their temples under target in the US - OpIndia",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQd2NWLW92WElFQmJhVFd1dHd1SEo0bUprN1NuY2lxTm9hQzZHTUpTY3pITDIxcDNYakF5SG5Edm85bDZiUG5IRFJSa0JELTQ3YnV1akYyRUhwMmgwY29ndE1HYjNTSW5JekRoUmlsdlgtTGdBN2FuU3BJWElzNXZnTms3NWVHX1FEMDBodnNvQW5xX2htbklkb1Y0R0M2a0lHQzFYZkRNVWN5MDVlXzVFMkYwOTRUNXY4bFlYeFktM1Y3U0xhMGZ1VHpQempkX3pwWDZCRzRCaU9YdHVGTmFzcjhNRGd5cXJkcTJVMUZyX054S1hXU2NjTVFZTm5hR0oteFRuVXBheWVwSHBpQ1lubF8tN25EZw?oc=5",
+      "snippet": "Manifesto of Aurora Hindu temple Neo-Nazi shooter described Indians as ‘subhumans’: How hate speech by White supremacists and Indian leftists is putting Hindus and their temples under target in the US OpIndia",
+      "publishedAt": "2026-10-15T08:11:17.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hate crimes against Indians abroad: From racist abuse to an alleged mass shooting plot - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQy03WjRKdUthZ2R6aVBfam9OZ0ZtRTBzV2hqRDItLWtrdDVhd1pfRGdmUnJvTXhUdjNvRl9CSTRDMWFNWHhPd29STmphTGcybTVNZDJmSWg3TW5jMlF1aUpoaFZHWUpsY0RURWluN01VYzRZVDJzMXNCT3RyMVBwb2RMTGRFMldHcy1aV0ZpNHJuNEJQdjNUNW5HeHJRa2dLMW1MN25WN0lNUEhwdi1qUWhoaW9rVl9NLWtxejNQOExqSVEtcmVhcnZoaXMxTWNZc1ZZb2lOTmJ1aVV30gHiAUFVX3lxTFBPUTVtcDFnMWlJYWhtNDNTUWUzRGxaZ0xjTk1lZVJZek5VZGJleDJJUFA5dEtQS1J3Y2VKNHphc21Ha1U1dWE4eVRZODg1X0tCZ1pKYWdCRlhtQm9YcTQwUDQ5WVdiMll2Zk03cTRVR0RBNWJPQjRRWTRQWEZQdGJxS01qN0t4dllqem16cG1FYXVXMWFEMDQ0NzlFcjJnVVJ0RTZLcEhMM0Qzdk1sOUJqdTJmd3BOeEhLb2hVOXAzWl9VWmgyZzFybFpraWVQVEJDS3c1b0dsbWZCX3RyU1VJakE?oc=5",
+      "snippet": "Hate crimes against Indians abroad: From racist abuse to an alleged mass shooting plot Business Today",
+      "publishedAt": "2026-10-15T07:16:21.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

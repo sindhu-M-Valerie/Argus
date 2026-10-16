@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 11
   },
   "message": null,
   "sourceStatus": [
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,13 +171,6 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
   "data": [
@@ -191,6 +184,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Take child sexual abuse material circulation on social media seriously, SC tells Centre - www.thehawk.in",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTG5rWHZ2bGZfeWpPVER0UGV2LWdkdEtaMzhReDlxcURXckNPVWh5WkV1TjBSR1lWYVBYMnpoM1BoZmRJS1ZFaEQ1WTktekdZUVQ5b3Fwd1RJM1NTZ3NuaFdwMkh2NUFHZEphaElSQzB1ZVp0THYxaHl1QjM0UHJtemhGc19mNHY1Y3IwSkRENTh6ZmhLX1BVSnl5b2pYbG1fZEt4T2ZTYVhuNk82c1cyaFl5c1J5ZW9rLXozcA?oc=5",
+      "snippet": "Take child sexual abuse material circulation on social media seriously, SC tells Centre www.thehawk.in",
+      "publishedAt": "2026-10-15T13:36:28.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
       "riskScore": 60,
       "confidence": "Medium",
       "severity": "Medium",
@@ -212,6 +220,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Supreme Court Urges Centre To Take Child Abuse Material Seriously In Plea Against Reporting Failures - LawChakra",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XTnh4bHNTdnVkVXlwZVRLTGVNd01UY0pMTVpoNTAyMFVNV29aWHhCWFM5R0tQdDItR3lmNUZ1ZVFndlJQSEtLc3BlaVpOek1TZHBzc0owSko1S1BBNXp1UjNtN3F4QXlGWnZUYVBCNi02NzFKY181ZHp5aw?oc=5",
+      "snippet": "Supreme Court Urges Centre To Take Child Abuse Material Seriously In Plea Against Reporting Failures LawChakra",
+      "publishedAt": "2026-10-15T07:16:54.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Supreme Court Urges Centre To Take Child Sexual Abuse Material Issue Very Seriously - LawChakra",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ybUZLa0p2X29qM3dQOWhLcjVOcGlKTDJ3WTU5dUFyS2UybnRSeE5LUGg1ZnJ0RzBXSEVOMDlTaGY4MXZDUk12X0ZpRXlTUG1peFV1VHY0TFdUSmY5ejZaUUVCLXdSTkQwMVR0UVNSaWdZeXBmbXcwWQ?oc=5",
       "snippet": "Supreme Court Urges Centre To Take Child Sexual Abuse Material Issue Very Seriously LawChakra",
@@ -223,6 +246,96 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mississippi Man Convicted by Federal Jury of Participating in a Criminal Conspiracy to Exploit Children and to Distribute Child Sexual Abuse Material - Beaver County Radio",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNX2NSb1N0Z282WVJRa3FLUDBjZVNncVFaYkRRTUNlQmY2c1Z4cTVXWkVJcDBocmZrYWRmUG9MNjNKYk84TS1xSjFwOXhtRzZiMlluMzByWWV1TVlTd0Q4WVRZRVVzQVcwRDd1WHpDbGE4LWxDREUzUTNoTkp3N1hia3JQekhWdW8ta2VicEh5WmxvNDdmR0JWQnZXaTFfSEVmM3FZaFFiUXMyblRLNEg1UC04YTB0R2xxbjFNYl9aRjF3cnlLWDRXU2tpU1QtazRMa2UzZ1gzUVpkbHZUYmJqbDZfTkx1ejRPYWlsa1UzcmdjWUloV1pnV3RDVUhkNVM1cGdzeXBacGwtMVM3cUpkblZQWQ?oc=5",
+      "snippet": "Mississippi Man Convicted by Federal Jury of Participating in a Criminal Conspiracy to Exploit Children and to Distribute Child Sexual Abuse Material Beaver County Radio",
+      "publishedAt": "2026-10-15T00:13:48.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Supreme Court to Direct Centre on Measures to Curb Online Child Sexual Abuse Content - Pratidin Time",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzhWZk9WakM4OFV0MV9RbmJ3LVpmV0lKNVgtZTVuUlh0Y1N3SnVFMFFudHFyb3lYNXBUcUVTd3VYaTRydC1vdGdHNVozdEJ6bkJzLVpXRWJGY01saGlCVUZTdUZhRGRuQ21qU182SlZnVlNkOUxacGpZYmRyaWRHY1I0R2tQTm1wd201SGFDRlFtWEN5X1hQLVNReXJtMDNSdk5samRaMDBETFdjYmZLUk9fLTRCU0RfMnpoQ1lpVzQ3UlZoUWZET3o2d9IBywFBVV95cUxPbzhWZk9WakM4OFV0MV9RbmJ3LVpmV0lKNVgtZTVuUlh0Y1N3SnVFMFFudHFyb3lYNXBUcUVTd3VYaTRydC1vdGdHNVozdEJ6bkJzLVpXRWJGY01saGlCVUZTdUZhRGRuQ21qU182SlZnVlNkOUxacGpZYmRyaWRHY1I0R2tQTm1wd201SGFDRlFtWEN5X1hQLVNReXJtMDNSdk5samRaMDBETFdjYmZLUk9fLTRCU0RfMnpoQ1lpVzQ3UlZoUWZET3o2dw?oc=5",
+      "snippet": "Supreme Court to Direct Centre on Measures to Curb Online Child Sexual Abuse Content Pratidin Time",
+      "publishedAt": "2026-10-15T16:57:06.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Interpol Operation Nets 95 Arrests for Child Abuse - Organized Crime and Corruption Reporting Project | OCCRP",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUVfTWhoRllMYlhVQTI1N3NRelI4dzU2TnM0RjA1UHhpbHdzTWFxdjVSZl9EbEQ5RmRhcGxDTXh5aVF4ZHpfaEF3RVE1UG5kRlY3c0JzRGJKN3YwaUYzSEN0RnQySnI4RkdwVWRhLV9ValV0S0tLSWhUVF9USFlHc0YzQWQwTk0?oc=5",
+      "snippet": "Interpol Operation Nets 95 Arrests for Child Abuse Organized Crime and Corruption Reporting Project | OCCRP",
+      "publishedAt": "2026-10-15T15:04:39.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police arrests 95 suspects in international CSAM crackdown action - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0FlR2VOMGdHZ1lIUmc3MTNOMW9VQUVsYzN6T0lHY2o5QmpJQWhyZ0pHdTdLaEhxTGVnaXFLbnhzYjctRkdiQnlqb3l3S09aQmhELVRCYmtMakZVTWdtaWtTNEIyTzlaZ3p5SG1nXzhpTUthbEZrdkIxQkZlSnZyUG44R2dWcl9HdTdZbWw3aFBXZ1hhTmdQeUU5djJaRlYyZ0gyNXJRb3FGdEV4Q1NlZURWSm1sZ9IBuwFBVV95cUxPS3poUmtRMnJWTm14U3Flc1YybnBpOHVVbzFTRVVqcFVZYkFLUnFQX2ZFWkxVdk9DSnVhamR6UUVJMDFuRzBpNl9kOVFfTVJJVVB4eVhHM3BTZjBvaklVaWVROWdOdHE1bjM4MzVPdlV2WVgzeEIzeExIWl94QWlmbUhDRWUxNFlFY3J4eE1aT3dtWHVDZFRuNWtsZWNGTWs2dTJ0ejhkSFJZUGpMQ1U4azRhMlNPb3dmSHQw?oc=5",
+      "snippet": "Police arrests 95 suspects in international CSAM crackdown action BleepingComputer",
+      "publishedAt": "2026-10-15T11:55:38.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NHRC member flags social media firms' non-compliance with SC order on reporting child abuse cases - ETLegalWorld.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZnVuQmkxOVd3WEJtbEVBU093ZDRFZ2dEbnZHWXRTTnRoMWlZSlNjYkhkb25ZNV8yQzlaM1JGdnlNa29vMHZ3bU1BeXFRUTB3Q3pSUE9HYlJ5NjV6a3Jac0ZKbm0tVS1aajZFS1B1Zl9fSEJmZE1vLTNjb1NFLWlRbEhqOTlFWU1tX0w3TlFtd2I3cmZNbjJPMUFMYW1HWk1zY2JDc3F0WEZRaUNzaGFlUEktRWp4eDlSZUQ5QjJhQW1EUVprVDRxSjgwaTBuanRUMGNUUzRhX0pOcEFnbE1DbVZ4M2NGaWpKTEhna2VqZHFFRzAxVVhJZkd30gH_AUFVX3lxTE1Td3lZTTJwR1c4TFZKcElCbUw1eUh0a29tenB3UFpiUzBnRzQ0cFVuemRoNW5aV1RTLXk5VWlMdDlaYkRJMFdJYlJiODVyNExnTnlCVzhYYTNnSUxMNEYzUWZIQnB2OGZIZ3NZSjhKcmhtSG9YclR3WUpxSG9MTERFOXlxcU82N3ZXcm10YXBKZHJ5ajFwakxFdFIwRjV3T29qWVZHbmk3eDcwZFNEcVFraHVTRFNfZ2NJTkR5cFhOSXhLWHlNTEk0OUtRQ1pHUDJzYld2eHRZdW1zRTZ5SmxhQ3NSNDZXV05tV0ozcTBrNHR0dHpWNnV4VU5ZVnNPVQ?oc=5",
+      "snippet": "NHRC member flags social media firms' non-compliance with SC order on reporting child abuse cases ETLegalWorld.com",
+      "publishedAt": "2026-10-15T06:23:28.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PNP-WCPC rescues 16, nabs 2 in anti-online child abuse operations - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU09OdUctZkpLMmVJRGlxcEVodFVPOURTeGVRcEN3NThUcWExc01ZYkZFdnNaOXpmUTNJVmJic0NBbEJSc3kzd2VoQ1AtY25FWnR5T0JDNDlBV3U0MUR5Z0d6cnVZclZ4SHFBUV9iaDNTVkZtWlpfWGVlUUJzenJHbXpqMVdzUkd5M0dMbkE2TnZkTktDbVdCUlNmb3lhX294OXpDQdIBqgFBVV95cUxORHlUWllxV2NGQThkUkJXZy0tRlRQYkpzamoxaEpKVDhYTnhkMk1YLXFuTlVvdkNaekNKaGZTTnBCMXJHbnNKTEw2eTI3SFVIYklRd1ZtU05EdldjMGlJWGVaSFZYRU8wMGFNUFNHanBLNkc1OU16bnJkcVdHSmVIVDRDVzNHZWhkc0tBQWRsVzhUcmhDN0dTS3BMWVllM04yazJqN0loczd4Zw?oc=5",
+      "snippet": "PNP-WCPC rescues 16, nabs 2 in anti-online child abuse operations Inquirer.net",
+      "publishedAt": "2026-10-15T04:39:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-15 on human-trafficking.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,14 +171,23 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Oyo govt intensifies campaign against human trafficking - Tribune Online",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXJuMXdWNHFNenRZR2tiWkJsMnVNSjc0U3FlWmx1TVc3aW9IbFdNTlk0bmt4NHFnSEdZeTBMQXhBX0FlU2lYWDBuV29YNVo1ZDkzd1B6VV9Udk1EclZ2UWhLaTZlNGtGU2VQWUpQUUJxSFVJOGNVVlk4N2VCRTRsNHFGcTl5VGw5Ukwza9IBkgFBVV95cUxOZEtVVzk1REdBemxiTVpsbmYyY2lIWXU0TGpPczZBMTdQazJncWtsSk5DTWRlWVM3aWU3MDJFRXV3R2ZmdWt1MWJPV1N3dkl5TldYWW8tVnpNb0FsNXR0UGE3dHg1Y1BHSkd5dk5LQ2l5cmJQYTh3SnRCeU1QWGpHN1ZGV2FaSUpsYTlsMGMtOUhQZw?oc=5",
+      "snippet": "Oyo govt intensifies campaign against human trafficking Tribune Online",
+      "publishedAt": "2026-10-15T07:12:36.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

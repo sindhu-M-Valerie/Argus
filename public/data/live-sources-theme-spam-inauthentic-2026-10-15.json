@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-10-15 on spam-inauthentic.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,14 +171,38 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Centre Mandates Caller Name Display on 4G, 5G Networks to Curb Spam Calls - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc0QzX242cUZwbUY5cFhUYU5aWUUycFBiTzhYS19RS1dqWmNMWVJSWDFvOVlPUHljX1A2QnYxUENvejdFc2lJNG1CMXBXUExtOGxSU182LUwzNGphc3lpMTFNbkRYSDRDZFlJU25VNzZSbTdIdWxHS1A0YjVjMHhtNmM1OUVJdHFiaG9iZm95MmJZUjk1QXMzX3A2THlXUjZSQWppM0E5aGJCQ04zVjVmR09wbWlVREw1ZkVEOWROQVdBZUIwR0w3dVlBdFVUdzcwdzVab0xBODBTdFHSAdsBQVVfeXFMTnNEM19uNnFGcG1GOXBYVGFOWllFMnBQYk84WEtfUUtXalpjTFlSUlgxbzlZT1B5Y19QNkJ2MVBDb3o3RXNpSTRtQjFwV1BMbThsUlNfNi1MMzRqYXN5aTExTW5EWEg0Q2RZSVNuVTc2Um03SHVsR0tQNGI1YzB4bTZjNTlFSXRxYmhvYmZveTJiWVI5NUFzM19wNkx5V1I2UkFqaTNBOWhiQkNOM1Y1ZkdPcG1pVURMNWZFRDlkTkFXQWVCMEdMN3VZQXRVVHc3MHc1Wm9MQTgwU3RR?oc=5",
+      "snippet": "Centre Mandates Caller Name Display on 4G, 5G Networks to Curb Spam Calls - India Today India Today",
+      "publishedAt": "2026-10-15T09:08:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "spam-inauthentic",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 36,
+      "confidence": "Low",
+      "severity": "Low",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ISI’s digital jihad: 5,000 fake accounts target India amid SIR protest - The Sentinel - of this Land, for its People",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUYxR2pXNndaaDFYQm90c0VndzNrRWQ5cDdvcldSRm5kOVpXSHlPbmZPdXBkY0N5Y1NSMkpWWWJnU1VvdndMS0ZhclBPZVNHbGNFb2pVYUpSc2FxMmVuX19rcnZVcE5Oc2Y3YURRU1A2aVlGNUpkaFpCU2VhSVR6VDl0WXdpRGFvb3pPVVhmNEJuSno3SEJNOS0wckx0Vi1qeE9OVlA4WnR5N3I3UzFpY1Vma3pfZVFLUHUxRVJR0gHLAUFVX3lxTE5RVy1neGE5UjEzQlo5ajBvdjJFLXFtUE5LSEIzVkNjRklPM3NzU2lQdjUySHBaczRTbmtsMG5TeVBJSXltaVVaUUJZVUZJSkJ5bEJfdERvajNYTjJWYnVZVlZKQ05xcXlJWl9WNVg5UUtSTkFDN0d0UHZIMm1Jb00xSkgybTR4bHdUcV9iaHpBQXRLTGVtZnhLcE52UmpqOGh1UUZZb1Y3ZzRQYTZpaUNrdmV3dFRMajFkbm5yb05vVnVDT1cySE13UUpZ?oc=5",
+      "snippet": "ISI’s digital jihad: 5,000 fake accounts target India amid SIR protest The Sentinel - of this Land, for its People",
+      "publishedAt": "2026-10-15T07:47:47.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "spam-inauthentic",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 36,
+      "confidence": "Low",
+      "severity": "Low",
+      "corroboratedBy": 1
+    }
+  ]
 }

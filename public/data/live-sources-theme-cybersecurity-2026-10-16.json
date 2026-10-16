@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-16",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 6
   },
-  "message": "No verified news was found for 2026-10-16 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,14 +171,98 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "National Security Expert Amit Dubey Joins TwinCafe as Mentor and Cybersecurity Advisor - PC-Tablet",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMW9EWnNUNFBpbUxNWGhWekFZdldWTll4RjJvSjFwUVBTVTRoWFYyNUxNc3p5TVE4U2ZtWThFSk5SVXFudFEtMVUtMjBiZHRVX0RvYWJJa29hYU9kYXg1VnZZaldudTlzaURmaVR2TEZ6Qk9Idm1iUE03Qlo3OVFBSlBDbmxfSnZISzN1Snp4OERoRW5qSXVOZVN5OVpvU1NCTmlmR01Ub2k0aXJ0eG8tNk95WWlYUmc?oc=5",
+      "snippet": "National Security Expert Amit Dubey Joins TwinCafe as Mentor and Cybersecurity Advisor PC-Tablet",
+      "publishedAt": "2026-10-16T04:36:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "H&M investigates cyberattack claims after ASOS incident involving unauthorized activity - The Cool Down",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNlhvMnNBcERMREI5YTVJdjZtbzV3OGtYcFJQc2tCTUhFMlctdnNyXzZEUkZSaG9qWjBtSDRPbENXdk84VFlJU1kzLUlydjZwSy0wSHNTZ3NyMmNvUVg4a0hDUHE1cC1taGxTMEFJaEwtbGItN0NvZHo3Y2h3V1ZHVlJxUy1sRy1Bc2V5Rg?oc=5",
+      "snippet": "H&M investigates cyberattack claims after ASOS incident involving unauthorized activity The Cool Down",
+      "publishedAt": "2026-10-16T02:49:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Your Guide to Restaurant Cybersecurity in 2026 - Toast",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vd3VhNWRUVXVMSVhCRHdab29rZm1DekJia0U0cnhxbUg5S2ZJb0lpZGVQN1VvNDdUMi01N3E3dXVhVWoyXzBMdkNnRG9KWW0wenRPZmdfV0RVYTAxNFVOMXFVRGFKUW8xUENRaUNNZ21XSS0y?oc=5",
+      "snippet": "Your Guide to Restaurant Cybersecurity in 2026 Toast",
+      "publishedAt": "2026-10-15T23:56:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How Cybersecurity Startups are Tackling AI-Generated Phishing Attacks - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVY2VmFVNDZOYXhkM3VTSlZ0MDNVT3pYOHF6RWp4WHRqc1hOcUN1clE5bTZfX2VZR21VUXB1ZG5hQ2lKRDQ1dUhGaGtFOURPbGRNR0NzMWhjdjlzUU9tMDViRk0xbWg3Yk9peWZleFQ3TXlpMVY5ejQwckFLdkpoc25EWnF4YnRlQ1FBQTc1TkxkRTZMZkxQTDNBa2MyTTlPbWVvc2Jod0hXdzYtd0Jwb0tYUk1DS2lkb2tzY0FCaERIR0pt0gHEAUFVX3lxTE1lVjZWYVU0Nk5heGQzdVNKVnQwM1VPelg4cXpFanhYdGpzWE5xQ3VyUTltNl9fZVlHbVVRcHVkbmFDaUpENDV1SEZoa0U5RE9sZE1HQ3MxaGN2OXNRT20wNWJGTTFtaDdiT2l5ZmV4VDdNeWkxVjl6NDByQUt2SmhzbkRacXhidGVDUUFBNzVOTGRFNkxmTFBMM0FrYzJNOU9tZW9zYmh3SFd3Ni13QnBvS1hSTUNLaWRva3NjQUJoREhHSm0?oc=5",
+      "snippet": "How Cybersecurity Startups are Tackling AI-Generated Phishing Attacks Analytics Insight",
+      "publishedAt": "2026-10-15T20:29:39.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "5 cybersecurity training program mistakes most companies make - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUpCLXlVZFI3SVpfYkZrbEl0QXhJbHdkUlBRc1d3aFhnN1ByV3pjUlpzTWdFVTdRcjhHMEZlemdGZGNqdW1LMGs5dlFRSWJuZExNbFdrUEp3aXgybXFfcndGZWZyZENSdlJVQ29iTEZDV0xvZmJrYU80N1JKeGFlYXdBT0RsSmRmRW1RajNjTEtKTThDamoyTGFRZURSTGozdWRobF8zQ2d4eklXbGhDWGRFMjLSAbQBQVVfeXFMUHlKQi15VWRSN0laX2JGa2xJdEF4SWx3ZFJQUXNXd2hYZzdQcld6Y1Jac01nRVU3UXI4RzBGZXpnRmRjanVtSzBrOXZRUUlibmRMTWxXa1BKd2l4Mm1xX3J3RmVmcmRDUnZSVUNvYkxGQ1dMb2Zia2FPNDdSSnhhZWF3QU9EbEpkZkVtUWozY0xLSk04Q2pqMkxhUWVEUkxqM3VkaGxfM0NneHpJV2xoQ1hkRTIy?oc=5",
+      "snippet": "5 cybersecurity training program mistakes most companies make TechTarget",
+      "publishedAt": "2026-10-15T19:26:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Millions hit by data breach in Japan: How cyber insurance can protect you against such risks — check costs, coverage - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR2NaT211LTFGNmxYU1YwdE9VZTdDeHRxWnVhZGJ6R3ZhNE1qRlNoZ19vX1RmUjhDcUJzejBfMWYyNnIwelg4RVpGcTJoTTNMYUlFcElVRER0azVXMnpsSTJZejBEVFdnOXVidkJoZjJfdjYxVi1fU3d0NDhna1ZBNHpBU00yY29SRDIyaTNGX2tTdEszUUFBa0NST0VKLUZQcU9lMnZ2VElaUzRCalZ6M1ltaTVBTmFCWndsMXA4NGNHVWlDQldjWjEyWXNwMkp2RmgzSE5MMEFXRWZaNTYzVkY3V3k2a3N3Xy1oVnFJT3ZRR1dMWjRvU1lHb9IB-wFBVV95cUxNR2NaT211LTFGNmxYU1YwdE9VZTdDeHRxWnVhZGJ6R3ZhNE1qRlNoZ19vX1RmUjhDcUJzejBfMWYyNnIwelg4RVpGcTJoTTNMYUlFcElVRER0azVXMnpsSTJZejBEVFdnOXVidkJoZjJfdjYxVi1fU3d0NDhna1ZBNHpBU00yY29SRDIyaTNGX2tTdEszUUFBa0NST0VKLUZQcU9lMnZ2VElaUzRCalZ6M1ltaTVBTmFCWndsMXA4NGNHVWlDQldjWjEyWXNwMkp2RmgzSE5MMEFXRWZaNTYzVkY3V3k2a3N3Xy1oVnFJT3ZRR1dMWjRvU1lHbw?oc=5",
+      "snippet": "Millions hit by data breach in Japan: How cyber insurance can protect you against such risks — check costs, coverage Livemint",
+      "publishedAt": "2026-10-15T18:37:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

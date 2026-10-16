@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-15 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,14 +171,23 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Rajnath Singh vows tougher response to Pakistan-originating terror attacks - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEFrbEFEQzQ0ZGtNenpoWFZYTWNpMmsxWGpxUkJMZEZ2RmRYdzlpdHNfUjFfYTZGNnFkM0t5cGFPTF9ieGNGZDBUNk83NEtLdGdaM1BLUFd4VmVxSWVEallvQWg5V3R6Wkx1NTFLd292ejd6YlFKRUhSM3JHTEtWenZoM3lGTFpiSnNRdEJaSjE1UGtQbTRuLTE4LVpINFZBQ2hsVmlKM3NsTDMzNExibnFteWNwZ3B2T0lz?oc=5",
+      "snippet": "Rajnath Singh vows tougher response to Pakistan-originating terror attacks NewsBytes",
+      "publishedAt": "2026-10-15T15:13:47.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

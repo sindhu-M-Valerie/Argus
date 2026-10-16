@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:26:44.623Z",
+  "generatedAt": "2026-10-16T05:25:52.388Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 54
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -171,16 +171,24 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
-    },
-    {
-      "label": "GDELT Public News API",
-      "theme": "all",
-      "type": "News",
-      "status": "offline",
-      "itemCount": 0
     }
   ],
   "data": [
+    {
+      "title": "Pakistan Launches National Strategy to End Violence Against Children - ProPakistani",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUdKeHBrZk5NWU5NcG1NdWxzZFlXcUlOWFlLd3d2OHoyWmYxQkhVeklhZEFXUHZBLW15b2k0Yk8xaXZxemJBNUZMTmc1V2RaT1dqVHVIeUxwbXBrMkxYSzgyQy1GbmcxdEYwWW5ja3dqQ3E1cnRLZ3RUeG1kcEFuX1RXYXd6VV9wc1hhcEF2NlM0dEtzT0VrdS0tZWxCenhodVBqemFJSdIBgANBVV95cUxQdUNIUlN6OV83MEtqc0o4MkIyRzNWVm1nWW9ib1VPWDFGUkVvY1dKdy1XTndFUlZOTzc2VmNPUmpqRmpVX2MtODgwSkFkUVNIMzBSR3FTQ0FYUkxIc0M1TVlVWFdGMGZRVVM1OFZuNUlMaGlqUkdMbUctMWNmS21tWGNGR3dMWXNuNWEwUlI1RWdCa2FxdXJ5QVNJaEgwLTBNVl9XTmt3T29LSnI4aWFYQjhHRmU1QVVhTWZrWmlibDZJaG52M3gyV2V5bXBIRkIzLTJQS3VwZENCdEs0RnMwaS1mZnptNThBS0Q4Q3ZpaWMtVENpZzZCSXNKU0ZrSlZFakJYVUhTZy1McWk2MklPZlJod0VXRGhTYWdFZlM1YW1WaUlvR1BvWE8xZU11MU5MaDdXeEtXa2VqZkhzQWFid3JudDAtNkktU1E0S1FyZUpXRDlUeDZWR3Fvb1RicldheTNablFBUURjUnpmenFHUzlRRWNEWWFzQlpOWjIxc2s?oc=5",
+      "snippet": "Pakistan Launches National Strategy to End Violence Against Children ProPakistani",
+      "publishedAt": "2026-10-15T11:19:51.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Pakistan, CJP and SIR Protests: How ISI fuels unrest, exploiting youngsters to incite violence across India; Report - Organiser",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX0c0M1FEdDl0a2lBcUhQeElCa0JYNzR5aEpOd2JnNkFQTE9ndWJpRjJYWUtTem5DTDlVd2NXeVl2UUNvRnQydFJMV0FzMkltYzd2MTI3MlF1ZmNCOC1SVUpfSTJBZFBvWHBwdF9LcGN6UlRKZjVQWkNibzU1OHBvVl9LaWpFVzh3YVk4a1BtVFdnTml4Qjc2TmVrUUJoaVdOR1FvVHNld3ZVVFZVdzlXazNSVVJPZDFsNF9UT21KWThnN1hSTEhyOFpRdTlIQXZjVFZZY1ZnaWcxencxNFgxMUhwRW5BNkpxWlRseURRZ9IB9AFBVV95cUxPOTRwQWdxMVpPNEZBVTdMMnFkNk9RTEFEeU94Q1AwY3MtNV9zMmo0ZTdYWjRLUHJvQzgyVkhnRnlmQ21IdEd6Y1JKVHVzQTBwS1FaaGJaY2tNbXpoTWtocDJTaHZ2OWl5MXRBbHdxY3hQbFl5Mm03dFUyTHphNWJjczRyTndQeG1MYVBqcXVJRDhCRUItWkpNbG5oWWtvZThORHlScUM0QjdHbnRSdElHODk4VkpMYWpxVEFUc1RZeVVSTFphU0xJZjhJTVlGMXMzQ04wOHNvamlvVUI2R0x4ZnM0eEl2QU9GNm9ONnBGcnNBRlQ3?oc=5",
@@ -191,6 +199,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "From online hate to real-world violence: 19-Year-Old’s mass shooting plot at US Hindu Temple - The Pamphlet",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWU1pOG1xT2d5bnYwZS1IR3A1U3hWWTNrZFNaTmczS1VXbmp4Sk90YWowNU5GZmktN0x5U0JXVFpZdE1qSE9iXzNhNFphbmhNU3BjNGZ0dnpveHFwOGVjZjM4NElCcm83OVYyWFpaZEQ0akM0dTBIQzVFNVhmbzg2c1cwSVBaSWFXZXNsenQwak1XcHN1bU9ranRfd04tVm5NQ2lUeDYya0FxVlJSWHcyTkNZWVM?oc=5",
+      "snippet": "From online hate to real-world violence: 19-Year-Old’s mass shooting plot at US Hindu Temple The Pamphlet",
+      "publishedAt": "2026-10-15T08:22:53.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
