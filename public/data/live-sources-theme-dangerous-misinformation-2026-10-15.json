@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:42:58.187Z",
+  "generatedAt": "2026-10-16T16:50:18.001Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 11
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 54
+      "itemCount": 57
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 72
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -200,7 +200,7 @@
       "title": "Fact Check: Did Greta Thunberg join London protest against CEC Gyanesh Kumar? Here’s the truth - Organiser",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmVCZENMaFc5am9uUTcwcnYwSnFvTFYzS1Y1MWJ2NVlSa192QnJMVjF4RWdKQWQ4SmtWcnZxWUppV1dpdjJWU0k4YjlocGdVVk1WUlkwMzlyZlFoUzM0dVU1aFgwMExObndBd20tYXJjTjZyX1pRNk91a2tmWWk3aWdoZzFfS3dFUUFjN3JGbG5TZ3lEOTlMUXhKb0NOTTM0c25CdEQxZUg4d1BMUnF1b092VkEwVjZhM1pxSXVmS1pCbGJFMUYzZTUzWlVOSGIzejFtMXlR0gHbAUFVX3lxTFBIVDNKTHlCMGVidjhVY3g3VmdKajBEb29OSjRsd2Q0blpLcGl0LXZWTFlRWWViVmxBdzZNejdKbzE5clhRbnRSVldQSFR1TG5pYjdXRU5oeER6eFlFN282dVVXVXRhcjY0MDQ4R0w2U25CSjZHdlZPdExwU3ZmbW5fT0FWSFB5MzBQUlcxRWh5LUNxU1JSR3lncEEzM3JwNkhCR056YkFOdENkWHhySFdfdUxKMC1Ld1QtdnFub0N6LW12SG80djF1aGxIQl9WX0oxOEhvei1kQ0FvRQ?oc=5",
       "snippet": "Fact Check: Did Greta Thunberg join London protest against CEC Gyanesh Kumar? Here’s the truth Organiser",
-      "publishedAt": "2026-10-15T15:34:04.000Z",
+      "publishedAt": "2026-10-15T15:34:33.000Z",
       "source": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -282,6 +282,21 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Anatomy of a lie: James Talarico got the flu – sending rightwing midterm misinformation machine into overdrive - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjItcGpudnJfNUxxV3hrVlFKb3A1TEVCbEdISDdWMnczbXlaSkZEVG5TeDVoRDRGbi1QbUgwVGc4QWpuc0swVDRBc3ZESlBIRnFWS0EzWnVhMVNpUjZXbTJ2VzhtRHZvZVBzUjNKTkJHMHdUd1JfWDlGMVo1NDZhUXJOOXRSdXBXMUE?oc=5",
+      "snippet": "Anatomy of a lie: James Talarico got the flu – sending rightwing midterm misinformation machine into overdrive The Guardian",
+      "publishedAt": "2026-10-15T18:21:00.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

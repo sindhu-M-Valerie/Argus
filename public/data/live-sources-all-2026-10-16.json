@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:42:58.187Z",
+  "generatedAt": "2026-10-16T16:50:18.001Z",
   "snapshot": true,
   "date": "2026-10-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 24
+    "total": 48
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 54
+      "itemCount": 57
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 72
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "Deputy Ag Accused Of Creating And Sharing Child Sexual Abuse Material - News12 | New Jersey",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUszZFJxVzV3VDRRdlhoUDhaVUdicHc5RUZhd0N5Mm1yR2hKSTQ4X2dFME5iNUVhZXhFUEstTExINS1IbnZBUk9ENl9YZWt4OUxvcHhhbEJrMnp1QUp0bFc3d0MwaEQtbTNfeS1USy1BcWhDblRkaEUxb2RUVGFYd1lfZjI4cWJJdkpmSDNGbzlJNnV4bkNtNUV1Y3VRY0k?oc=5",
+      "snippet": "Deputy Ag Accused Of Creating And Sharing Child Sexual Abuse Material News12 | New Jersey",
+      "publishedAt": "2026-10-16T12:31:41.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Viral Video of Police Attack on Rahul Gandhi’s Residence Is From 2019 Anti-CAA Protests - Telugu Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0l2Tkp3N0hsbERHVElHVWdUVFlkUUNTd2tGWGpuVHdwU2FiMUVDd1M4aFBRZE15bWhsRXc2bGljRnVwWnNoNU1UYWZXU3JYUUR1bGg5ZGRfWXF5YUZRN3h2Vkh4X2N1RFdHVGJTLW5GSjRLRE04UXR0bU1jNlowOWI5Z3RtZUc1MFAwczA1U0JNeVpXQm1jUmRVYno0RWxzLWJXVlhBVjg1ZnFpVmF3Y1pyMNIBuAFBVV95cUxOb0pFYlZkcmpHc0E4cjhVNkc4M0lKSjEweXNiekZLSlN3Z2hKWmNiamVLVDJ1eFRUeU5YeE9zYmFsMGU0ZFBQTENXYnJUX3dBTWU2bDFVQjFDbl9lcnpfbnZTQkxwODA3Z29oZDJuYmRuRXJCNmVLOGFCS0FfUzlVeHFOX09tMm1lQnN1cjZETk13Zm5EbXduWTNlS2Z2Vl83U2FpYjZHYk5qWHo2NEFsdkxkVzl3dGJs?oc=5",
+      "snippet": "Fact Check: Viral Video of Police Attack on Rahul Gandhi’s Residence Is From 2019 Anti-CAA Protests Telugu Post",
+      "publishedAt": "2026-10-16T09:39:57.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Omaha man sentenced to 25 years for distributing child sexual abuse material - Metro News Channel Nebraska",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNExaMmFiZWVkOTFRODNBWVZlNm5OZEpwbm9iTG0xWnduVHkxVUpyQTgyQXhzemNzdE44MXRJaEgwbFhsdUVpa0RyODV4UmNmVUFJT1VuZjFhOG10UkRuSEVaUWRjR285TDFPa1djU1p3OExXZ1pidnNuT1FZVE5GTlM4bV9TMUhnRVRpRGdibjBqMnJiYm95bVhDTUVpSmZXMy05V3h2eWNqNmtJdUpXblJoOHNfYi1xUjRnUFdRQ3h2WTJsZmYySHJR?oc=5",
@@ -227,6 +257,156 @@
       "corroboratedBy": 1
     },
     {
+      "title": "DANNY TOMO Claims Patriot Platform could be proscribed as terrorist group circulate online - uknip.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlFxam5pMmdkUzdsdElCODRUai1HVHJGb3NldGNXNlZMUkp4Q2J2ZEVjd3Ayc1dBN1N0dnhpWVlubXR2SE1XZjF2c2xCODlqTEZTbXN2OEltOFJOZk94X1lMTmVpZnJBY25SUFF2QV9GWi1MMG1VMnJXWl9PWTJ6RkJST1B2TDBmSFFNS2pDVFRNeEtfY3IyV3RxZzhoLW1vXzhTOFFDOEFPNmNDb3RsVjYtNDlqZlU?oc=5",
+      "snippet": "DANNY TOMO Claims Patriot Platform could be proscribed as terrorist group circulate online uknip.co.uk",
+      "publishedAt": "2026-10-16T10:57:18.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New Jersey Deputy Attorney General Brian Fitzgerald charged with possessing and distributing child pornography - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2VjcVFtUXZQRjc0NjVCWElYV2JsbDd3d0lySnIyZE1fOFNTV2RTelFtOUEtUDl2SjgtenNmNVFGN0tobkc5anY3dXotVTQzbkxvSWIxYjlwUlFfQnhJOHlzSUthS3BDUzZ4dThTQzEwZ29laWpVU3BMMk4xczNiTTFvNXh5RklFNDBPTGE4VEtSdnp1blJsbzNnMTF2Yk1NZkt2eWVmVi11dldleGZrUWFRQkRvWnN2NnJmbEF2bWZRSUtvVllaYzItSzZpQdIB0wFBVV95cUxQRWV6VGJ1UlZsSHJQODdFaGxKMVN3OGFmZTVHejhsOXhvd1ZvdlJfbzNGTnBPRVhWWXBlZC1WcVhYSGlfeGRIaTk0ZzJpTjctUTJuMEV3Z3d5M3JQOEZjc2ZTb1pyTDZHU1djRW9CV0xpSWtSclFIZk9KVGppcDJaZWIzWUtNeG5kUHdGczRGd0U0T3RmRGlIaFZ3QVdqOGtnLTdoNzBOdjFqaHhsY1NFWlVmMDE0TDZXZHNYRWNaT1hON056Q0gtcGtSR21hQmExOWt3?oc=5",
+      "snippet": "New Jersey Deputy Attorney General Brian Fitzgerald charged with possessing and distributing child pornography 6abc Philadelphia",
+      "publishedAt": "2026-10-16T14:32:25.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: IIT Baba Abhay Singh Death Claim Fake, Hisar Police Clarifies Viral Post - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUlSRjVpQmY4RS1Dck12SmhPdGh6TmJmellWLXZZX0lOMWd3eHRDRU5pR1dXOFA1d2xteXItN0g2eGE1Nm5ET2t3WGU5N0h5ZlFGTEdSZzA5Sm9SdjlxWU1EaS1NYjlIMGZKQ2NGRGhxXzBxTDJ4NEthbnktNlhuc3lZczg2UDhIVmJyNE9jdDh4WTV3NWFKSmdCZnpSazdlQnBjS01qX1hvY21YTUE5VUJIb2hzQUpkYlFFNtIBwgFBVV95cUxPcE5IX0J2VFNyTnFTekdUSmJzYUxVMDJwb3ZFOEI4TTRWNWgtSlV0MmladXg1d2libUhWbzlLV1o5VEx6cThIWlJDX2NvcFYtdDBJTHFuMmo2Q3JQNVVPTmgtTlFoekhSR3FfM29ZODhQSWJlX1QwcGQ1cWM4NzF4a1cxLTY2LXQ2Z1JXb3VpM1BlS3hJZ2piMjNJaDJqaDRvVFFvNHZURTE4azYycFRIZVJXZzF2VjhVMVFuMm1Odllldw?oc=5",
+      "snippet": "Fact Check: IIT Baba Abhay Singh Death Claim Fake, Hisar Police Clarifies Viral Post Free Press Journal",
+      "publishedAt": "2026-10-16T14:05:11.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact-Checking Richa Chadha’s Anti-Facial Recognition Makeup Guide - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYlFhUzNmV28zWmd0b0ozcEdKN0ZIWnhtM0VrVnRmaGhtd0l4VVJkZHRWWkpIS3gxUHRTWXJZTXdCRHJrR01sZXVtN2FQX0dNR1p0UXAzblBCMnRJUzc3T3Z6TFljWHl6OC1aRWNEb0I2VHNhTFQ5X2dPRDh5SWJDeThNTDRtbmpQRGtDQU8xZElHeDVDQVZHSS1nV0NHSGJjYkJzdVRhdXVyWHZMRWJua9IBvgFBVV95cUxQc2VqU0doYXZSUW9rYTBZR3Jxd0RRRF9jVVZETEc2eFZpbUFhVk04SG9xWTZjTktGVGFaN3lFS0ZPSk1ZR29KZ0Qwakw3WWdLYXFnWXJybkNiN0N4Rmd2YVpXMEpuNFJsbi1sQWVSSi1YQnh5OXhkNlFObUxrdERFR0s4cE1GQWloU0ExdzgzTnZHclV4WS12SERseW1uOG14b3o2SzZUTVBvM0dnZUZScFl6cWtxYmlwNUNURUt3?oc=5",
+      "snippet": "Fact-Checking Richa Chadha’s Anti-Facial Recognition Makeup Guide Outlook India",
+      "publishedAt": "2026-10-16T13:19:39.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Google strengthens Android Security to protect users against Scams and Online Fraud - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzNrMkxFaDJiWkJ1Y1ExbTVTQXBxV2J0M19vaGhxa2dpY3VsckJMQ3loZ1Vyc0xHZmsxTFVzbEVJNFRTa25HbnRZUTBqLUZKYU9JeXo5dlNUbEF2MWFMZ2dRZ3BQTHI1bVNvdFhDYXhrbkRpQThyRVh6T05OSVZiRXZNa3hlb2xBa1FGbW53Z0pfWl9JRjUtdG10VDJXbGQ1QzlWTDNsT19HeXpXVURyUWhzRWhpYU9CNGRHXzlWV1U?oc=5",
+      "snippet": "Google strengthens Android Security to protect users against Scams and Online Fraud Cybersecurity Insiders",
+      "publishedAt": "2026-10-16T12:13:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: CJP protest–PM Modi angry with ‘regime change’ remark? No, video is from February 2026 - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0pSTkVILTRVTUdzZkRMYzd1WENVclMteGZoTXFJYmNvZ0JWS1J1eS01UWN6a2VNUFl6MlNoalNwQ1pSd0JWRDdTZFg5aTc3SHN6QlFabDMxNm93blBzZ29uVjJvd19QUTNXaktHNDNkQ1NZNUM0SUFOcUpZdVloNUJHRGh0TnRLSnFyTUFnZlY0R1Ayay04X0RUYldXeVNqemdYd2xkd2FDX3pIRC03cU5VR0FBN0ZIMVFWRw?oc=5",
+      "snippet": "Fact Check: CJP protest–PM Modi angry with ‘regime change’ remark? No, video is from February 2026 NewsMeter",
+      "publishedAt": "2026-10-16T12:12:16.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Video from Ukraine Misleadingly Shared As Houthi Attack On Saudi Arabia - Telugu Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1NkRTdxdWZFclBNZ0ZJd2FkY1g1U1JTSXpBaTJtLWEtZS1GSnpIVWdFTGN1OEJzS1V1YkVJcF9GdmRDRDRaWlByTEhtM01kVnB6WkZzdUJHeU4takE0bFFSdVIwekRKemU3R2lGSGZONHNfb2E3dk8yUXNYZTVsYnZyUnFhMF9YQVVCWnRBdXFPNWVvbUE4dXBmM3BYdWFQUXM3QW1ZZ9IBpwFBVV95cUxPM1NkRTdxdWZFclBNZ0ZJd2FkY1g1U1JTSXpBaTJtLWEtZS1GSnpIVWdFTGN1OEJzS1V1YkVJcF9GdmRDRDRaWlByTEhtM01kVnB6WkZzdUJHeU4takE0bFFSdVIwekRKemU3R2lGSGZONHNfb2E3dk8yUXNYZTVsYnZyUnFhMF9YQVVCWnRBdXFPNWVvbUE4dXBmM3BYdWFQUXM3QW1ZZw?oc=5",
+      "snippet": "Fact Check: Video from Ukraine Misleadingly Shared As Houthi Attack On Saudi Arabia Telugu Post",
+      "publishedAt": "2026-10-16T11:29:22.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Old Jharkhand High Court video falsely linked to CJI Surya Kant amid protests against CEC Gyanesh Kumar - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcUlxUHJlamNPa1pLcElUci1QR0NUZTYybE1FZ29nQkZMRVAxNDdlMXFtNFc3Q2RpWDBEc3hTRFc1WnR2RWxBTkhpODNqV3pZVU0tUHNHQldiWXFONFVhYVJOXzFVR3RGNVplZzBzVC1kMk1sd0FSSTRTOXRqX3RvWEZQZkRUd1JEX2JQZTkxbWQwbFNMVFNBUUFOVUh3S1NKU0tFQ1QzNUtHek41T3BHVEw0Y0lCVjA3V1VpcC1qSmpGeXFrRzFTSl9BOU1tYlBaZl9xdThoOGg2ajROeDdUNVY3eEVFTHBqMVZzaEhyaWhiVmpf0gH6AUFVX3lxTE5IY3Fjcm94SHdCRlJKb1c1QTZ4alBHZFlYOU5rMHBYbFNKWWNEejRoanIzc2R0WUowSjc5NjlJUmpuSmhPQ1otQ3N1THNDeFFVN0FNZ0k5RmhKRkFfMDA4bmwxbVhRQjFZTGpnU0d5LXJMS0c1OEtCMGMwb1l1MmQzZEwxcV9Rd01oMHZWdVRRNXJWOUFaTklxSlRYWUdPN01EeFJmNU9kNFRLWFI0ZkF0MGZXTEtTbjZja3g0WFp3OHRpVkptU1VOQW93a2c3T3JjU3BrNUZNaEhkc2VFd1ByT3FKYVpNcUs0VFRMd3dmbTlWa2Ytem1GU0E?oc=5",
+      "snippet": "Fact Check: Old Jharkhand High Court video falsely linked to CJI Surya Kant amid protests against CEC Gyanesh Kumar Organiser",
+      "publishedAt": "2026-10-16T10:33:47.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Congress leader P Chidambaram peddles fake news about the Election Commission abandoning SIR in 17 States: Here is the truth - OpIndia",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc1VfNEZFcDNuSUhRbXBHMGVYUmxPSFFNenFhZERYRjd2UlRybU5KakQxVmlQN3JXMnE5NWZ1ZEFiak9TdUZjOWxETmg4Rm1VdkN0OFJmdjRrOTRmMFdqMUVlX25sWnJfbjAxQVFfbm8tMGU1WVNCVTNQWHN4emxRcjRVYnRWeDllZWprZzkzbVd6amhONWdEUl9rY05kMFltVXhXTld5U0JyajZBWTlMd0lOVWJxakhmb1pkdEp2YnJYa3BNcFQ3VENMUGJmck9GaG1KR2xUZlZTR2dWZk1neS1ZVUlpb1M2SFd0dWRrcEJ1b0E?oc=5",
+      "snippet": "Congress leader P Chidambaram peddles fake news about the Election Commission abandoning SIR in 17 States: Here is the truth OpIndia",
+      "publishedAt": "2026-10-16T09:51:01.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Congress a burden on country': Did PM Modi break silence on protests against SIR and Gyanesh Kumar? Old video goes viral | WION Fact-check - WION",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOYzZ2SmtjanZ5ZEdLOXBVeGZ1R2U5YlJzdWxNRHBvX0daRXpxMEtaSVhlejFLVTNyWGFRREhVbURRSldOZEMxaTk4R1BONkFoeFlKMVFMaEVqRkZ2aWJPNlk0c1M0RTg4S3dmZFRtR2hHNVVncTVMeEVwX3RCWmFSUnRTYUtRUUFJaUpQVkZ6OWZVQVJPM0ZPalU1MXRoeUJWNDh4MnljbHVYNWRkdWZwYUFIUHhpOXREV2s2SHVvbWJTdk1SOHlfMkJKa1BSYXJWLTNVSmJlNzM3dF9neEZZV0c2MzVXUG5fQ0pGRnNzTWdIWHYyeE9rZ2dibm5RQUNWczRtRmVPdDBiNndSYUtiX1lsU1hCM0Ewd2U00gGgAkFVX3lxTE5qT2k5em1nUHhSc0tBVUJBU1Z6Qi1LTFc4SWlUVVk1YkpOWGwzOEdEX1ByQWlwU0p2VE1KU1RHYUNBTk44ajcweWtvMVU3amRHdnJmVTROcmJRZTFuMjBJZnJGTThUeHRWOEhDYy1rdlNuTWRVV3ZnRnY4RWEwX1R5TjJUOWNiOXRaRzVRTEhvakVaRTRGTlh1OWlsaXlzYk16cXVkdjFzT0Q1ZmlkWm8wUERYbnlxRUxkMF84MHk0Q1h2MU5IZFN4T01zMm9xWDBvYlNMYVFBaHNzbUxWNXE1c3dWeEZZQ0Z3RFd0SERwTlBJVlRXbElDc3FkU0NqMkw5Y3IzczdHN3MwTWlDSTdTLW5OUG82Ym1EdktvdDRTdw?oc=5",
+      "snippet": "'Congress a burden on country': Did PM Modi break silence on protests against SIR and Gyanesh Kumar? Old video goes viral | WION Fact-check WION",
+      "publishedAt": "2026-10-16T07:50:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "NCRPO strengthens victim protection in anti-human trafficking operations By Christopher Lloyd Caliwan MANILA – The National Capital Region Police Office (NCRPO) said Friday it is strengthening measures to ensure the proper identification, protection, and - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVpFb0d3ZUkxaHZ6bHVfWWotMWViZ3piNGI3NmdhTWJSRDNudUJkaFpid3Z6ZHdFYzhQVGl0Y2tNOWFkSkJPeGZkRDh6WkVNNDVPZkFlb21DVzItd294S2J1b29TMzZoM0NvZ0t6blVmcm9Nd0REVFhGRS14Y2pFSnA1WHhGMWN2NEdGT0ZsY0FmYWR6LXFkR2JudkRKMVNwcGhsb2d2WUUzVGpNWmZpeVo3RzJQN05tU2pFLUdzQ0dzeHlVTnhITjRtckRWSGw0QUN5Ng?oc=5",
       "snippet": "NCRPO strengthens victim protection in anti-human trafficking operations By Christopher Lloyd Caliwan MANILA – The National Capital Region Police Office (NCRPO) said Friday it is strengthening measures to ensure the proper identification, protection, and Facebook",
@@ -236,6 +416,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Interpol Arrests 95 Suspects in Global Child Abuse Raid - Daily Beirut",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3FUMVgxanpySGZTMUZvQklGNGZya0pTMDNDODRBQjNTZzBDMUJSb2c0dlZ6bmlObDdRU01LVVk1d0dQeU8wQW45bDBXbk9sVFlQOFBSdVRjNWlTamQtT2k4N3paNTBqOGIzMVl6T0F5eWxyMmJuTkRXUVg2YURDLVViR1h2U05GZDB4WWhPYjgwbVA0YzFSTTZWYXZZZElaQ05WcVNFMkxFZHpPUC1J?oc=5",
+      "snippet": "Interpol Arrests 95 Suspects in Global Child Abuse Raid Daily Beirut",
+      "publishedAt": "2026-10-16T06:37:50.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
@@ -377,6 +572,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Addressing environmental crime through community action - Global Initiative against Transnational Organized Crime (GI-TOC)",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEpEVExZVkY2TTBodHRJSHJsdS1UZjdEcDE3V3Z3LTJ1MGRtNk1jT0N6eGpHTDJHTVFjUHlsVzdKbWVIS1U0QnhYTGY4NTMzSmN0MTQ2ZDdiY0FwemlnTE03eld5b1FRalVBQkJwQU03QXlfYmYySE5rQ1Z5OWNzbWV5cUVuR0E3aF85ME8wbEVaQ2RuZ3VYTkxR?oc=5",
+      "snippet": "Addressing environmental crime through community action Global Initiative against Transnational Organized Crime (GI-TOC)",
+      "publishedAt": "2026-10-16T15:35:34.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WebQoof Recap: Of Misinformation Around Anti-CEC Protests, Old Visuals & More - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGJlYVdSekJidmJTMjNERTJHNW1KRGNRck4ybnFYbm8xODlqSUE5MGxVSjR2U0dlRDJjbXlwbi1MMXhlMWxMWjZLU0tmQkNtNUJ0bENmMUlzVHVBWjdDN2h3TnFXMmh5akhKSFkxVGJMVlEtNzNaYmJMalhjVlZNSWFndE1MRVNLbzBmQXMzN08tUlNrSXl0MEhwRVZ1MmpzdjA5Z1VCaDlOQdIBqgFBVV95cUxNSGJlYVdSekJidmJTMjNERTJHNW1KRGNRck4ybnFYbm8xODlqSUE5MGxVSjR2U0dlRDJjbXlwbi1MMXhlMWxMWjZLU0tmQkNtNUJ0bENmMUlzVHVBWjdDN2h3TnFXMmh5akhKSFkxVGJMVlEtNzNaYmJMalhjVlZNSWFndE1MRVNLbzBmQXMzN08tUlNrSXl0MEhwRVZ1MmpzdjA5Z1VCaDlOQQ?oc=5",
+      "snippet": "WebQoof Recap: Of Misinformation Around Anti-CEC Protests, Old Visuals & More The Quint",
+      "publishedAt": "2026-10-16T07:10:57.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "When Rumours Outrun Facts: Misinformation During Sensitive Public Events - CyberPeace Foundation",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWM4cHNmREhtMEJRVS0yeUlpU2xLbmpxa3d2Ymdia3JZUlBvSDFuV0lIeGJWSjdRMXhjZ0pzVUZremNjZnVWZThvN0xCY2VNVEwzcXJxbjd3S3EtUXlYU253cjFFTDNJZkpxVVJYNXNiRFFraXRQRlZzMDNsMi0yWi1QVC13NUVGOEFYLVdtYnNwWGxvcm9YRE5oRGNOWlNxT3ZkTmc3QlRLTTJnaDRn?oc=5",
       "snippet": "When Rumours Outrun Facts: Misinformation During Sensitive Public Events CyberPeace Foundation",
@@ -392,8 +617,98 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Pakistan condemns Indian defence minister's remarks threatening military aggression - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2NWR01OVVdJQV81cmFBVFVqMWwyNlJjaVRORk1EUnVHZ0tXTmZ1T29EOGkxRllmLTVKTHNxVVN4NnF0MGdfRFlSeFNBQlpmcHBaazhqaUc2Yk1nUTJSWk1WeUJCUXZqaWgwRktha0NfdzRzRWtTUnhWYlRpSmxqV2VzcGFqU3RqTkptNVFKczhRU3dCX0ZDdEdscHhnQUR5cW4xSHFPRG1sa2xUSHpCT1JSRENKdXV1VFpN?oc=5",
+      "snippet": "Pakistan condemns Indian defence minister's remarks threatening military aggression The Express Tribune",
+      "publishedAt": "2026-10-16T13:49:23.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chase Launches Nationwide AI Fraud Prevention Initiative Across 700 Branches - FF News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGNRREc5X1JHa3ZvOVBZb3FMa3NWd2d2RmxTV0RRZUI4bGZYTWV5Y0J0X2R0NEg2ZlF5WjA2SEgzdGdJMjVkdVRHT0dzSGtPYjd1N0pfZ1d0cHlpYS1kbmFyU2MyVm5QRGEyTWFOc0ozUUtvbEhaX1psQ3lxQ0FJTHRsaXNwX0gwVnlPQmxOajNMWjJ3c0IzcFRmN0F6UFpJLUM5M0pxN0JrTVBNM0d0OHJRbw?oc=5",
+      "snippet": "Chase Launches Nationwide AI Fraud Prevention Initiative Across 700 Branches FF News",
+      "publishedAt": "2026-10-16T13:40:43.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PalmPay issues fresh warning to customers over fraudsters, lists safety measures - Legit.ng",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY2hNU3RVX3lXMmtWV3FhdkJ2WmdYZ1FmMzF4Rmw0dFhiSVlYU285SnZCSzh4UzN6aUJCZ3M5MFNqZG9Qa1hLc2hCN2FtUnpLaVYwQ3JUOEw1VWRmS1dpeERibzRSVXZFT2ZCNm1xdXhoMjhjUy1RUWVFU3hORWJSc2dUbm1OeHgxRkdwNkNidlR6d3Y4aHlvVU9ka2tRM1luNElTVWsyN25KZkF6LU1tQ25vM0RjZXRsc0RVbjBHRE5SZXhGYmhCelkzZlQ5MXdTZmI5UDNjbTNpd1hkVWlPMw?oc=5",
+      "snippet": "PalmPay issues fresh warning to customers over fraudsters, lists safety measures Legit.ng",
+      "publishedAt": "2026-10-16T12:01:46.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Researchers Uncover 20,000 Malicious Cloudflare Pages Domains Used in Tech Support Scams - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4TmdiWHpaYnd3YXM2NFQ5TF9HdjRPOE9kZktzUzhjV3I1aUJYT3gtX0kybVhhdzFCOEVXVDZ4elB4ZTNORmlFcFVYZjEwM191X2ZaZHU3ekNRVmRhdzZBWVFvUC1sd9IBa0FVX3lxTE9VXzE1MXNFOF9JaUVhUFNUcEZlMjRwZEVZSkwtYkF4SGJRUllOaGhSRjhpbmNpdXBjS2ljZmtOSGdYdkJDZnVLV2ZWa2haZExOY3ZlZl9yc3ZVUUQtelFxbDdlWFBKRFNJeWlz?oc=5",
+      "snippet": "Researchers Uncover 20,000 Malicious Cloudflare Pages Domains Used in Tech Support Scams GBHackers News",
+      "publishedAt": "2026-10-16T10:52:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Microsoft, Health-ISAC dismantle phishing infrastructure targeting critical infrastructure, healthcare sector - Industrial Cyber",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObHl5OEY5YUNjTDNLcnVEOEwxbTZ1NWJyVmFqSkZMRTJKY1dOQTlyVkVBTVNkTGtKUDJMeWpuaW9Ud013bzMzRU9LMjJlbXRad1d3al94UFRaX2ZjWjU5TGxXckpWR3RoZEJHNU9EUFZiTm9WOXZ5azVjenlRTlNRYUJTQlM5TjZRdnZ1SVpPeTNxR1FVdmhMNzB0andCMDBLRkYtRXJBM1F4V2hTdng3dFhoZmdPdXhuZzhlS19fZE12dGxlSUR0Q3RQb2hveHZNdmNZaG9WTXdIV0U?oc=5",
+      "snippet": "Microsoft, Health-ISAC dismantle phishing infrastructure targeting critical infrastructure, healthcare sector Industrial Cyber",
+      "publishedAt": "2026-10-16T10:20:33.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "FCCC calls for national framework to combat increasingly sophisticated financial scams - Fijivillage",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzJMNVpPZEdOd1lNanBzZ2Y0RVBrOElhYnVLVXpsWm9rN0pqRTlNdUFzZmN5ZzFHc25YUnQwZ2c2cWRVaHhCaWtxQTRkRGVxTVhpV3dzQjJXdVVnVVVBc2lSZS1zWHNjdElVRVVNSFQ0MDJJUFNCMTZJMUY4VU4ydktXaDFVc1diODVYNDU5SW8tR3VtbHA5bmk2UzRzUGZlQ0FYZEdxQXhsdnZ3elNNOVd2YU9sVUNMeWNkT1p0Zldic0U5a2c?oc=5",
+      "snippet": "FCCC calls for national framework to combat increasingly sophisticated financial scams Fijivillage",
+      "publishedAt": "2026-10-16T05:34:46.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "FCCC calls for national framework to combat increasingly sophisticated financial scams - Fijivillage",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWJDVk9iaHNCRWI5ZGNpbmY3OWFpeTY2VXU4V2laWlFtMGU5OEJHczZZU3JyWVBMbWN6cVhaR1JmN25OX1d3QlB4X0haM3R2S3FYUTlCUlJwR2JEemIzQTdvMzljMGVrMHJoZklGN2ZLNF9NZFJxTG9ldUtzV1pNdzdmczd0N05VRG9iakNaaWd5dWMxSzhBRGNYUnFjVFZmcUZkZXo1Z1FEOUNTQTFRRUUzN3B2UmR4MXdRaEhhaVhtUTdrTmh0SC05QQ?oc=5",
       "snippet": "FCCC calls for national framework to combat increasingly sophisticated financial scams Fijivillage",
       "publishedAt": "2026-10-16T05:34:46.000Z",
       "source": "Google News • Fraud and Impersonation",
@@ -432,6 +747,51 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity and Data Protection Challenges for Massachusetts Technology Companies - businessnewsthisweek.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmMxUG1ad0tLYW9EUWtWM3BRTHV1bTBWZlI5bmxsanJPVzFPMUYxcld6NmFYUmpFZ203Nko1ZHZsWTNZaE1uQU5wTW5kaU9lZzVLdU5tQXNBaDd0Q0lZRHZETUxLN3lWc3lxbWF2UVdSZkV3U0dFMVA5Q0VMdWxMNEVsY3BPVDFFcURLaWQ5NnEwb091Yjd6SEZJN212c2VTNmJmUmtBVXYyUnFFQnM1Z3pDdnhsQ0YxcU1Ldlo5Wi1PejhmVlg4?oc=5",
+      "snippet": "Cybersecurity and Data Protection Challenges for Massachusetts Technology Companies businessnewsthisweek.com",
+      "publishedAt": "2026-10-16T11:45:23.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Drug Trafficking, Causes, Effects, Laws in India, Government Measures - Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kYUVmdmR4U05HMXg3SUI4aHd2Y2FVX2dVa0gyVFYwOGVjRHZ2ZHo0VGFpSERpRkY4THhwcHVhOHBNUXpQVkRfajJxN1RHMk5CbnpDTHE4RWV1VUlfeG9BWTZoRmFjSndTaGlCLQ?oc=5",
+      "snippet": "Drug Trafficking, Causes, Effects, Laws in India, Government Measures Vajiram & Ravi",
+      "publishedAt": "2026-10-16T11:32:14.000Z",
+      "source": "Google News • Illegal Goods (India)",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "illegal-goods",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Target Claude, ChatGPT and Cursor Credentials Using Aoki Infostealer - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUHZZRGduLXcwREtlTHpkYWNKaDNYQWJGbmd6ek11YkpFWTlzb3U0TERNellreHFwMHhfSERoMUZESGQ3RDZLdGJTeTFLMFJKT3FLWloyMU1yeUZSRjlzdjhaak_SAWRBVV95cUxOclB2WURnbi13MERLZUx6ZGFjSmgzWEFiRm5nenpNdWJKRVk5c291NExETXpZa3hxcDB4X0hEaDFGREhkN0Q2S3RiU3kxSzBSSk9xS1paMjFNcnlGUkY5c3Y4WmpP?oc=5",
+      "snippet": "Hackers Target Claude, ChatGPT and Cursor Credentials Using Aoki Infostealer GBHackers News",
+      "publishedAt": "2026-10-16T05:52:15.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

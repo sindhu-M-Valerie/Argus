@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:42:58.187Z",
+  "generatedAt": "2026-10-16T16:50:18.001Z",
   "snapshot": true,
   "date": "2026-10-16",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-16 on dangerous-organizations.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 54
+      "itemCount": 57
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 72
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Addressing environmental crime through community action - Global Initiative against Transnational Organized Crime (GI-TOC)",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEpEVExZVkY2TTBodHRJSHJsdS1UZjdEcDE3V3Z3LTJ1MGRtNk1jT0N6eGpHTDJHTVFjUHlsVzdKbWVIS1U0QnhYTGY4NTMzSmN0MTQ2ZDdiY0FwemlnTE03eld5b1FRalVBQkJwQU03QXlfYmYySE5rQ1Z5OWNzbWV5cUVuR0E3aF85ME8wbEVaQ2RuZ3VYTkxR?oc=5",
+      "snippet": "Addressing environmental crime through community action Global Initiative against Transnational Organized Crime (GI-TOC)",
+      "publishedAt": "2026-10-16T15:35:34.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
