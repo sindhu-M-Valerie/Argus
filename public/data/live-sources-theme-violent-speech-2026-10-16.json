@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:50:18.001Z",
+  "generatedAt": "2026-10-16T21:27:55.815Z",
   "snapshot": true,
   "date": "2026-10-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -185,12 +185,27 @@
       "title": "Pakistan condemns Indian defence minister's remarks threatening military aggression - The Express Tribune",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2NWR01OVVdJQV81cmFBVFVqMWwyNlJjaVRORk1EUnVHZ0tXTmZ1T29EOGkxRllmLTVKTHNxVVN4NnF0MGdfRFlSeFNBQlpmcHBaazhqaUc2Yk1nUTJSWk1WeUJCUXZqaWgwRktha0NfdzRzRWtTUnhWYlRpSmxqV2VzcGFqU3RqTkptNVFKczhRU3dCX0ZDdEdscHhnQUR5cW4xSHFPRG1sa2xUSHpCT1JSRENKdXV1VFpN?oc=5",
       "snippet": "Pakistan condemns Indian defence minister's remarks threatening military aggression The Express Tribune",
-      "publishedAt": "2026-10-16T13:49:23.000Z",
+      "publishedAt": "2026-10-16T15:05:49.000Z",
       "source": "Google News • Human Trafficking (South Asia)",
       "theme": "violent-speech",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Illinois Hindu temple shooting plot: MEA flags rising hate crimes and racial discrimination against Indians - Mid-Day",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2NIcmxoSDFDdV9Tdk1pTS1LNVVaalNuT2xHU0RWU0pUNk5WUHhtRWM2VEJzcHBBSTRNX052VnpkRGlIN0JBc2tmdXJKRkNINFZtX2JYelFLWGo3Q0Zza2NkVXRmMF9wRkE1V2I2c1AyQ19LeGxhd0tDQTRZZllFUDJHUXZON0QtZXphRUFWa1Zvd3NJV0NKSVNfcldTWE1rZk10ejZGUjBfeDM2OGxBcXgyWHE3VUEzc01KYkh2LWdTS0NJR3JFNGZkcUViQTkzcTRSR3lfRGxMbF81dlZUUFMxUWY?oc=5",
+      "snippet": "Illinois Hindu temple shooting plot: MEA flags rising hate crimes and racial discrimination against Indians Mid-Day",
+      "publishedAt": "2026-10-16T14:22:42.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

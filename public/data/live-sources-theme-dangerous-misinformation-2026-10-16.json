@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:50:18.001Z",
+  "generatedAt": "2026-10-16T21:27:55.815Z",
   "snapshot": true,
   "date": "2026-10-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 13
+    "total": 16
   },
   "message": null,
   "sourceStatus": [
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -201,6 +201,21 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUlSRjVpQmY4RS1Dck12SmhPdGh6TmJmellWLXZZX0lOMWd3eHRDRU5pR1dXOFA1d2xteXItN0g2eGE1Nm5ET2t3WGU5N0h5ZlFGTEdSZzA5Sm9SdjlxWU1EaS1NYjlIMGZKQ2NGRGhxXzBxTDJ4NEthbnktNlhuc3lZczg2UDhIVmJyNE9jdDh4WTV3NWFKSmdCZnpSazdlQnBjS01qX1hvY21YTUE5VUJIb2hzQUpkYlFFNtIBwgFBVV95cUxPcE5IX0J2VFNyTnFTekdUSmJzYUxVMDJwb3ZFOEI4TTRWNWgtSlV0MmladXg1d2libUhWbzlLV1o5VEx6cThIWlJDX2NvcFYtdDBJTHFuMmo2Q3JQNVVPTmgtTlFoekhSR3FfM29ZODhQSWJlX1QwcGQ1cWM4NzF4a1cxLTY2LXQ2Z1JXb3VpM1BlS3hJZ2piMjNJaDJqaDRvVFFvNHZURTE4azYycFRIZVJXZzF2VjhVMVFuMm1Odllldw?oc=5",
       "snippet": "Fact Check: IIT Baba Abhay Singh Death Claim Fake, Hisar Police Clarifies Viral Post Free Press Journal",
       "publishedAt": "2026-10-16T14:05:11.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "#FactCheck: General Dhiraj Seth’s Nepal Visit Photo Misleadingly Linked to Dance Video - CyberPeace Foundation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1JwbTU2SFA3alZLMWwxWGVpeFlxUjg1TEtPVjZXeWhxbXlZZFZvNjI2VU1GUkhYLUk0WEl2MGJSR2ZEdE1WeDZwTTZuYTVqd1loanoyS3JKRWdnWmluVm5RMUV5TS1CMFZHQ2x5Ukt1ZjI3T185UkhzNU1vNFRWR1gyWFhPSTZYUzNTREZ6SWt3Mm1VbGtSX2s4M1JOZWdrSFFkaVJ3ZUJSR2lxSDFlWVBaOWtwZG1qbVc3TVdnSQ?oc=5",
+      "snippet": "#FactCheck: General Dhiraj Seth’s Nepal Visit Photo Misleadingly Linked to Dance Video CyberPeace Foundation",
+      "publishedAt": "2026-10-16T13:38:39.000Z",
       "source": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -347,8 +362,38 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Old videos falsely shared as current amid CJP protest; police warn against misinformation - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcmVhZzZBVXZZb3R0Q1QwdC14enNqUUlKSGFyYTIxczZKWlBzaVI4THVkYkVnNHVRZm16NWdOVElnaTdoRFNyN0dCeTZPQmZ5VlpfZ1B6RUhQdDR2eUYwaERQQlJ2dURDNXVITURaMlp3R3lFVFRETXRBVTVHNDFyOVR3Y1Z2MTlOQXY5LTNNVkk5Y2hKVnFFRjA3ekZlUXpFYVNkZWFzWFY0SjNNcVZBYXFjZi1PcWVDS2NpdHZfS1BLOE9MYTk1Q0U2eHE3QUllQ0QxaDRpUkY5N2p2dTFCWHFRYk9fNzY1WG5hcE5SNDMtVW83OXFjUVlibGd5VER50gGAAkFVX3lxTE5yZWFnNkFVdllvdHRDVDB0LXh6c2pRSUpIYXJhMjFzNkpaUHNpUjhMdWRiRWc0dVFmbXo1Z05USWdpN2hEU3I3R0J5Nk9CZnlWWl9nUHpFSFB0NHZ5RjBoRFBCUnZ1REM1dUhNRFoyWndHeUVUVERNdEFVNUc0MXI5VHdjVnYxOU5BdjktM01WSTljaEpWcUVGMDd6RmVRekVhU2RlYXNYVjRKM01xVkFhcWNmLU9xZUNLY2l0dl9LUEs4T0xhOTVDRTZ4cTdBSWVDRDFoNGlSRjk3anZ1MUJYcVFiT183NjVYbmFwTlI0My1Vbzc5cWNRWWJsZ3lURHk?oc=5",
+      "snippet": "Old videos falsely shared as current amid CJP protest; police warn against misinformation The Economic Times",
+      "publishedAt": "2026-10-16T16:29:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "WebQoof Recap: Of Misinformation Around Anti-CEC Protests, Old Visuals & More - The Quint",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGJlYVdSekJidmJTMjNERTJHNW1KRGNRck4ybnFYbm8xODlqSUE5MGxVSjR2U0dlRDJjbXlwbi1MMXhlMWxMWjZLU0tmQkNtNUJ0bENmMUlzVHVBWjdDN2h3TnFXMmh5akhKSFkxVGJMVlEtNzNaYmJMalhjVlZNSWFndE1MRVNLbzBmQXMzN08tUlNrSXl0MEhwRVZ1MmpzdjA5Z1VCaDlOQdIBqgFBVV95cUxNSGJlYVdSekJidmJTMjNERTJHNW1KRGNRck4ybnFYbm8xODlqSUE5MGxVSjR2U0dlRDJjbXlwbi1MMXhlMWxMWjZLU0tmQkNtNUJ0bENmMUlzVHVBWjdDN2h3TnFXMmh5akhKSFkxVGJMVlEtNzNaYmJMalhjVlZNSWFndE1MRVNLbzBmQXMzN08tUlNrSXl0MEhwRVZ1MmpzdjA5Z1VCaDlOQQ?oc=5",
+      "snippet": "WebQoof Recap: Of Misinformation Around Anti-CEC Protests, Old Visuals & More The Quint",
+      "publishedAt": "2026-10-16T07:10:57.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WebQoof Recap: Of Misinformation Around Anti-CEC Protests, Old Visuals & More - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGlGd3lKbGdDTEl2dVJJYXhQODVSOUdEclNBbkxlUHVDOERYMzZjQnN0RG02dXFaOUZyNE5PVEtGS3E3dVhJa1VqYmJDTFh6SWlIRU9zVk83MFlfN1FTZ1VIcGl2a0U4MTRseDQzMWZJN1NKRVV1M1BncHVEV0huLThlSFdVZWc5cFBxYjRkMHFqejhFczd1UFZWY3DSAaoBQVVfeXFMTUhiZWFXUnpCYnZiUzIzREUyRzVtSkRjUXJOMm5xWG5vMTg5aklBOTBsVUo0dlNHZUQyY215cG4tTDF4ZTFsTFo2S1NLZkJDbTVCdGxDZjFJc1R1QVo3Qzdod05xVzJoeWpISkhZMVRiTFZRLTczWmJiTGpYY1ZWTUlhZ3RNTEVTS28wZkFzMzdPLVJTa0l5dDBIcEVWdTJqc3YwOWdVQmg5TkE?oc=5",
       "snippet": "WebQoof Recap: Of Misinformation Around Anti-CEC Protests, Old Visuals & More The Quint",
       "publishedAt": "2026-10-16T07:10:57.000Z",
       "source": "Google News • Misinformation (India)",
