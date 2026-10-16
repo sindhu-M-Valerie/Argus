@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:25:52.388Z",
+  "generatedAt": "2026-10-16T06:42:58.187Z",
   "snapshot": true,
   "date": "2026-10-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -171,6 +171,13 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
+    },
+    {
+      "label": "GDELT Public News API",
+      "theme": "all",
+      "type": "News",
+      "status": "offline",
+      "itemCount": 0
     }
   ],
   "data": [
@@ -209,6 +216,21 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vd3VhNWRUVXVMSVhCRHdab29rZm1DekJia0U0cnhxbUg5S2ZJb0lpZGVQN1VvNDdUMi01N3E3dXVhVWoyXzBMdkNnRG9KWW0wenRPZmdfV0RVYTAxNFVOMXFVRGFKUW8xUENRaUNNZ21XSS0y?oc=5",
       "snippet": "Your Guide to Restaurant Cybersecurity in 2026 Toast",
       "publishedAt": "2026-10-15T23:56:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "8 Major Data Breaches of 2026: Millions Affected, Sensitive Data Exposed - eSecurity Planet",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSbXY0RWxZYnFwUHk3MGpUbEdxTHpwcTdtblhmZXZNekxVc1hPR01qWWZ2eGQxQ01BYzRtZTdZcWpSQ21kdXA2dE1FNmJYSENISW1pZ3RoRnJyaXMyeElORkR1c3lid0hfa0d2X0xURDlxbWp5d3lJQ2d3?oc=5",
+      "snippet": "8 Major Data Breaches of 2026: Millions Affected, Sensitive Data Exposed eSecurity Planet",
+      "publishedAt": "2026-10-15T22:41:01.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:25:52.388Z",
+  "generatedAt": "2026-10-16T06:42:58.187Z",
   "snapshot": true,
   "date": "2026-10-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -171,6 +171,13 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
+    },
+    {
+      "label": "GDELT Public News API",
+      "theme": "all",
+      "type": "News",
+      "status": "offline",
+      "itemCount": 0
     }
   ],
   "data": [
@@ -185,6 +192,51 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Tamil Nadu government declines info to RTI query on Fact Check Unit - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORlhEUkJJMUM5clluTHdlODNOMU5NUDVBMVhOZ2NyaVRTY2h4RzVZRG9vLVEyeWJibW9NS2p5X3pxaF9rZmVXQm9fR2NPQWtUbjdFNDhvaGxBWEE4QVg1bUlNVmpxUkJVVnpSWWt6WUJQVV9MQnhnRC03SkprMzRsTEtfaUJJcENBT25ibUhva2x6d2NPQjlGdjFDN21IQkRncFp3MVZpblZmQUl1dFRtNTJ4U29JTlFNM29rbWpVNnotRXpsZkJVOXdLWVM3SlpPb1BlUVNTWdIB1wFBVV95cUxORlhEUkJJMUM5clluTHdlODNOMU5NUDVBMVhOZ2NyaVRTY2h4RzVZRG9vLVEyeWJibW9NS2p5X3pxaF9rZmVXQm9fR2NPQWtUbjdFNDhvaGxBWEE4QVg1bUlNVmpxUkJVVnpSWWt6WUJQVV9MQnhnRC03SkprMzRsTEtfaUJJcENBT25ibUhva2x6d2NPQjlGdjFDN21IQkRncFp3MVZpblZmQUl1dFRtNTJ4U29JTlFNM29rbWpVNnotRXpsZkJVOXdLWVM3SlpPb1BlUVNTWQ?oc=5",
+      "snippet": "Tamil Nadu government declines info to RTI query on Fact Check Unit The New Indian Express",
+      "publishedAt": "2026-10-16T01:30:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "False claim identifies accused in Maharashtra temple assault case as Muslim - Press Trust of India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnlORzBQMVZJTzBsTG5KZEZFeE5QU21SMjdJZlp1V1lMWm5oV2l3YW45VFVDek9CcHNETVZxci1BRi00QVN6NUtyT2x6NHg5d3ZDRHpzNWo5eEF2emtDOUY4SHNUTnFGczAzb3dpTGlYWWNvZzdtOURDdF91eklGdmF4Q3o4bzVsWGJRQUN3UHNtWmVBUnRjZHJjQ0l5aW1obDY5UHBPMWZVaHhsVHNtaUVsSG03X2o0aUw0?oc=5",
+      "snippet": "False claim identifies accused in Maharashtra temple assault case as Muslim Press Trust of India",
+      "publishedAt": "2026-10-15T22:35:24.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "When Rumours Outrun Facts: Misinformation During Sensitive Public Events - CyberPeace Foundation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWM4cHNmREhtMEJRVS0yeUlpU2xLbmpxa3d2Ymdia3JZUlBvSDFuV0lIeGJWSjdRMXhjZ0pzVUZremNjZnVWZThvN0xCY2VNVEwzcXJxbjd3S3EtUXlYU253cjFFTDNJZkpxVVJYNXNiRFFraXRQRlZzMDNsMi0yWi1QVC13NUVGOEFYLVdtYnNwWGxvcm9YRE5oRGNOWlNxT3ZkTmc3QlRLTTJnaDRn?oc=5",
+      "snippet": "When Rumours Outrun Facts: Misinformation During Sensitive Public Events CyberPeace Foundation",
+      "publishedAt": "2026-10-15T19:39:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

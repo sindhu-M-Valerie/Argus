@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:25:52.388Z",
+  "generatedAt": "2026-10-16T06:42:58.187Z",
   "snapshot": true,
   "date": "2026-10-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 65
+    "total": 67
   },
   "message": null,
   "sourceStatus": [
@@ -171,6 +171,13 @@
       "type": "News",
       "status": "online",
       "itemCount": 0
+    },
+    {
+      "label": "GDELT Public News API",
+      "theme": "all",
+      "type": "News",
+      "status": "offline",
+      "itemCount": 0
     }
   ],
   "data": [
@@ -178,7 +185,7 @@
       "title": "INTERPOL Operation Leads to 95 Arrests Over Online Child Abuse Material - The420.in",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZDZ2dy1qaEFmbUdfaV9MOXRVajhrZUtOa0JTWlFQb01sdEZjbWxMa2pTVVUzM0VJbHJkbUlEOE10VG9LYjhZbnZ4aG9xT1phR3RVQkVrU0ZlV0Nzei1nQlBEc0FRc0J4RGZWQnJYU3NjR1ZuX196cjJETjhwRFgtN2VB?oc=5",
       "snippet": "INTERPOL Operation Leads to 95 Arrests Over Online Child Abuse Material The420.in",
-      "publishedAt": "2026-10-15T17:42:08.000Z",
+      "publishedAt": "2026-10-15T17:44:09.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
@@ -426,6 +433,21 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Oyo govt intensifies campaign against human trafficking - Tribune Online",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQNXdXaE14WUhyQmdlcW9DMGlPZGo0d3VzVUhQMVRmMzlUV3REeTQ3Y0JoU2tPWHluejVPT0tIbFNPZGpQLTlQLUw2QU5BZWxmbk1lMHg0eTFYaTRFdkJHZFpIQURsU1lzSzVNWlpfUUF4VFJ0VWlSNXpsM25XS0RmU2UwVzNNNEFFbWlqMGtld2lfZzlveGRoX3MwaEtqYlFKakxQLUlfUGYwanlrQm5KdXNyMXBLN1Q3WnJqYjlGVUZDRHlPazNBT2VUNkI4RVkxb2c1Yy1ycy0yUl9nN1hJT0NoMlh3Tjg5amk5bkZiYTRrc0VkWWpzc0RkMHhwRnlYOTVKci1IQmNacmN2N0VUYkN1U1haTDFBMDhRMEhQS1ptaTAwbG9jM2paUUt6WFozY3NlU2VtSjZpQjBnX2hUYUxFQmdOWkdSUi16WVhDbDBlcWlZZ1dsbmx5eGgwaERL0gHgAkFVX3lxTFA1d1doTXhZSHJCZ2Vxb0MwaU9kajR3dXNVSFAxVGYzOVRXdER5NDdjQmhTa09YeW56NU9PS0hsU09kalAtOVAtTDZBTkFlbGZuTWUweDR5MVhpNEV2QkdkWkhBRGxTWXNLNU1aWl9RQXhUUnRVaVI1emwzbldLRGZTZTBXM000QUVtaWowa2V3aV9nOW94ZGhfczBoS2piUUpqTFAtSV9QZjBqeWtCbkp1c3IxcEs3VDdacmpiOUZVRkNEeU9rM0FPZVQ2QjhFWTFvZzVjLXJzLTJSX2c3WElPQ2gyWHdOODlqaTluRmJhNGtzRWRZanNzRGQweHBGeVg5NUpyLUhCY1pyY3Y3RVRiQ3VTWFpMMUEwOFEwSFBLWm1pMDBsb2MzalpRS3pYWjNjc2VTZW1KNmlCMGdfaFRhTEVCZ05aR1JSLXpZWENsMGVxaVlnV2xubHl4aDBoREs?oc=5",
+      "snippet": "Oyo govt intensifies campaign against human trafficking Tribune Online",
+      "publishedAt": "2026-10-15T07:21:15.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -1122,6 +1144,21 @@
     {
       "title": "Centre Mandates Caller Name Display on 4G, 5G Networks to Curb Spam Calls - India Today - India Today",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc0QzX242cUZwbUY5cFhUYU5aWUUycFBiTzhYS19RS1dqWmNMWVJSWDFvOVlPUHljX1A2QnYxUENvejdFc2lJNG1CMXBXUExtOGxSU182LUwzNGphc3lpMTFNbkRYSDRDZFlJU25VNzZSbTdIdWxHS1A0YjVjMHhtNmM1OUVJdHFiaG9iZm95MmJZUjk1QXMzX3A2THlXUjZSQWppM0E5aGJCQ04zVjVmR09wbWlVREw1ZkVEOWROQVdBZUIwR0w3dVlBdFVUdzcwdzVab0xBODBTdFHSAdsBQVVfeXFMTnNEM19uNnFGcG1GOXBYVGFOWllFMnBQYk84WEtfUUtXalpjTFlSUlgxbzlZT1B5Y19QNkJ2MVBDb3o3RXNpSTRtQjFwV1BMbThsUlNfNi1MMzRqYXN5aTExTW5EWEg0Q2RZSVNuVTc2Um03SHVsR0tQNGI1YzB4bTZjNTlFSXRxYmhvYmZveTJiWVI5NUFzM19wNkx5V1I2UkFqaTNBOWhiQkNOM1Y1ZkdPcG1pVURMNWZFRDlkTkFXQWVCMEdMN3VZQXRVVHc3MHc1Wm9MQTgwU3RR?oc=5",
+      "snippet": "Centre Mandates Caller Name Display on 4G, 5G Networks to Curb Spam Calls - India Today India Today",
+      "publishedAt": "2026-10-15T09:08:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "spam-inauthentic",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 36,
+      "confidence": "Low",
+      "severity": "Low",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Centre Mandates Caller Name Display on 4G, 5G Networks to Curb Spam Calls - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1hGaHZyUFByWU12U3V4WHNYV3AzOHhaaVVuVnl1X1ktSjJrTUpDOUQ2ZGpvSVJ6SmNTeTRPR1JaRnpPWExhYXlDWWx3bmt6aXpwdllwaXFfamNISVJKUTJjaV9kbzF1Y2hVY1NIdVNXblBycUdWbzVOalpWaXRyb1FpOVYtd3FlenVyRm5qRnlPa2xuYk1Gal9NXzhtMVV3Y25Ca2VQdm5KMWNxTTJuXzI1QVpMa0ZfR0dnd3JlbHVuaWpWdHdJN1BQMjNIRUR3Qkd3dnZn0gHbAUFVX3lxTE5zRDNfbjZxRnBtRjlwWFRhTlpZRTJwUGJPOFhLX1FLV2paY0xZUlJYMW85WU9QeWNfUDZCdjFQQ296N0VzaUk0bUIxcFdQTG04bFJTXzYtTDM0amFzeWkxMU1uRFhINENkWUlTblU3NlJtN0h1bEdLUDRiNWMweG02YzU5RUl0cWJob2Jmb3kyYllSOTVBczNfcDZMeVdSNlJBamkzQTloYkJDTjNWNWZHT3BtaVVETDVmRUQ5ZE5BV0FlQjBHTDd1WUF0VVR3NzB3NVpvTEE4MFN0UQ?oc=5",
       "snippet": "Centre Mandates Caller Name Display on 4G, 5G Networks to Curb Spam Calls - India Today India Today",
       "publishedAt": "2026-10-15T09:08:00.000Z",
       "source": "Google News • Misinformation (India)",
