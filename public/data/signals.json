@@ -1,18 +1,124 @@
 {
-  "generatedAt": "2026-10-16T21:32:04.655Z",
+  "generatedAt": "2026-10-17T04:50:16.849Z",
   "windowDays": 7,
   "endDate": "2026-10-17",
   "collectedDays": 7,
   "data": [
     {
+      "theme": "dangerous-misinformation",
+      "label": "Dangerous Misinformation",
+      "totalArticles": 77,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Stable",
+      "changePercent": 11,
+      "reason": "Last 3 days averaged 11.7/day vs 10.5/day before.",
+      "daily": [
+        {
+          "date": "2026-10-11",
+          "count": 8
+        },
+        {
+          "date": "2026-10-12",
+          "count": 5
+        },
+        {
+          "date": "2026-10-13",
+          "count": 17
+        },
+        {
+          "date": "2026-10-14",
+          "count": 12
+        },
+        {
+          "date": "2026-10-15",
+          "count": 12
+        },
+        {
+          "date": "2026-10-16",
+          "count": 19
+        },
+        {
+          "date": "2026-10-17",
+          "count": 4
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Fact Check: Viral Video of Police Attack on Rahul Gandhi’s Residence Is From 2019 Anti-CAA Protests - Telugu Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0l2Tkp3N0hsbERHVElHVWdUVFlkUUNTd2tGWGpuVHdwU2FiMUVDd1M4aFBRZE15bWhsRXc2bGljRnVwWnNoNU1UYWZXU3JYUUR1bGg5ZGRfWXF5YUZRN3h2Vkh4X2N1RFdHVGJTLW5GSjRLRE04UXR0bU1jNlowOWI5Z3RtZUc1MFAwczA1U0JNeVpXQm1jUmRVYno0RWxzLWJXVlhBVjg1ZnFpVmF3Y1pyMNIBuAFBVV95cUxOb0pFYlZkcmpHc0E4cjhVNkc4M0lKSjEweXNiekZLSlN3Z2hKWmNiamVLVDJ1eFRUeU5YeE9zYmFsMGU0ZFBQTENXYnJUX3dBTWU2bDFVQjFDbl9lcnpfbnZTQkxwODA3Z29oZDJuYmRuRXJCNmVLOGFCS0FfUzlVeHFOX09tMm1lQnN1cjZETk13Zm5EbXduWTNlS2Z2Vl83U2FpYjZHYk5qWHo2NEFsdkxkVzl3dGJs?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-16T09:39:57.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Pakistan-Based Accounts Push Old Police Firing Video As Jantar Mantar Protest Footage; PIB Fact Check Debunks Claim - Republic World",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOEhGZzRISmVmcXVjTFgtSzA1SjRDbjNRUmFYVzcwTmpLeU9NRFhNYUZQRjZ0aTNoU3ZaRnk1X05icTVYZ0dab1VrcGNfMmw3cXJkRXZwN19FSHhlUThBSDZKenJPUGJraXlKcmo0VXZLRGo2UDhLSHlCRzNkQWs5M0R3NTZHZGVVZEU0TGtFN2xXY2I3WUlZS0twMWQ2TnJoUV9ubS1SNFB0UVAyOEItM256ZEtFVjlpRlRrTnlzZW9Tc0xMOXJVcVRpbk9IVUtXendlQlRHQVZOMHNuVEozX2tlMEYwaW41UUx0M0gxZkNJdU9EWmdoN2ZCeDfSAYICQVVfeXFMTVNwRjZxZkJhY2xvVDlHRTBEWjgtLXE5RzA2dkYxNjlUaTJpT2c4eHNjTk8zOXhLUmNGWUdkWWtHRFozUjNzM3VGdUo4elo0NHlGbnlYcFlfMW1zUWVFRVl0QnB2bnlzQTQyZFFfc3lvelRkeWJaSXRIdURRcVBSSmZoenNHQkxPMV96ZTk2cUxUWHJJMzF4YklIREkyMW1sRDBTVGpLS3phSU9sbVpxeXM1Q2NSZm84N1BIQVFqTXZ3dEJXdVNVaWEycW9tWDZpeFBSb2c0VnFfeEVLX3lYdFVzeVp6S3hmeWlVdWlTaGptVDBoSWVlMnE4R1AtT2JNekR3?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-13T07:36:57.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Congress leader P Chidambaram peddles fake news about the Election Commission abandoning SIR in 17 States: Here is the truth - OpIndia",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc1VfNEZFcDNuSUhRbXBHMGVYUmxPSFFNenFhZERYRjd2UlRybU5KakQxVmlQN3JXMnE5NWZ1ZEFiak9TdUZjOWxETmg4Rm1VdkN0OFJmdjRrOTRmMFdqMUVlX25sWnJfbjAxQVFfbm8tMGU1WVNCVTNQWHN4emxRcjRVYnRWeDllZWprZzkzbVd6amhONWdEUl9rY05kMFltVXhXTld5U0JyajZBWTlMd0lOVWJxakhmb1pkdEp2YnJYa3BNcFQ3VENMUGJmck9GaG1KR2xUZlZTR2dWZk1neS1ZVUlpb1M2SFd0dWRrcEJ1b0E?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-16T09:51:01.000Z",
+          "riskScore": 59,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "FAKE NEWS ALERT An unauthorised and manipulated version of our news card is being circulated with false information. We urge the public not to believe, share, or forward this fabricated content. Please rely only on our official channels for authentic news a - Instagram",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fQW1OdnNuRUthM2lTMWdDSHQ4czdhNmgyOE15OHZ1TjZYRWdkS2ltcTRLcjFvZ2lwU2M1dFpfSDNJMl8wX2ljWUwwMVZmN2FnMWc?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-15T15:16:54.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Government debunks misinformation on ethanol-blended petrol, says E20 fuel is safe and scientifically validated - DD News",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlNTQWt0X1JRdnBpdzhOM24zYU1GTHo1UERkUFhWNTI0eFhlLXJZTVVZU3RJdXI1TjZUdDVTZ2VBOW5XeHJGb2NTNVlrY3JKMHRScVFfWXMyWVBzMmVfTVF2c0VHdWdlNmF3N3QxQnVLRGh2RkVReVNUTUwyamV3WkRuM0s3WDFkM1hfaU51Z1c1YmF1OVdoY3draXl2WDBhQmEzSjlzbzRYNWpCNkpVdThFZVJscDM3MlhmVDZEclNrUjVUeHUzYUlncXVkZERZbUE?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-12T18:53:44.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Congress leader P Chidambaram peddles fake news about the Election Commission abandoning SIR in 17 States: Here is the truth - Dailyhunt",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNSXlSWkpGS1BOQ2h2bkFSczFjZDFuYXZHbFhENktoajJodmg0N3kxYURmRW0tbDVHS0ZQOUlxM1ZEMkVHQzZKaTE4VTB3Qm1vSExnclR2RC1oZWFlZWlOSXNvcW1ES3ZLWk0zMmVVNXNHdU5vTHpQTmZCbVlYYlBaRGRMT3YyMWt6eFZkOFQ0UnB1UVU3LU5LbmFod1g3U0RUUnlVRURxUWJMX2ZLeGE2a0lIVElvTExBSUNBT1RNTndhU2g2UnFqdUoxUmJELXpsZmxfWk5kZTRDdVNlLWw0RS1lUTA5UEVmeXUxRkd1Rnpua1A2Mktobk9IcGNOMWY0VHVQY1kxZ2NoeTAtSVZ2QTk3U3JqTUZWbGJEN2lkUXhTdmJUOHBsWERiUUFwZEVpTVJrSDhaYk0?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-16T10:33:27.000Z",
+          "riskScore": 55,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Udhayanidhi slams denial of RTI info on fact-check unit - The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLU9ZWl9vX0FEWkNBTjloQmJjR0x1dmJqRzZ5S0Mxc05fNm5nUTdJSlFRSmN2SEJ2el95ZHY2ck1XdFBCSFo5ZUtMZTVBbVJtR2xXRFI0QkJUZlk5eW1fYkR4bnh5ZnNud1BacDRWcGszZXlNamZiamlPWDMzQzdFQk83aDVEdkZ4bm1QbDRYTzVDcUhCRE9KM3ZiV2RjU0R4SHpmb3pobTJlTW9xZjJwRzRjMkQxMjNQWGV2ZENJNXpGaXZXNmNj0gHHAUFVX3lxTFAtT1laX29fQURaQ0FOOWhCYmNHTHV2YmpHNnlLQzFzTl82bmdRN0lKUVFKY3ZIQnZ6X3lkdjZyTVd0UEJIWjllS0xlNUFtUm1HbFdEUjRCQlRmWTl5bV9iRHhueHlmc253UFpwNFZwazNleU1qZmJqaU9YMzNDN0VCTzdoNUR2RnhubVBsNFhPNUNxSEJET0ozdmJXZGNTRHhIemZvemhtMmVNb3FmMnBHNGMyRDEyM1BYZXZkQ0k1ekZpdlc2Y2M?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-17T02:30:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Fact Check: Rahul Gandhi kisses Neha Bora on the cheek? No, image is AI-generated - NewsMeter",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmVxcElQTW92VnU3ZkkxV0RyQnVIcXBBMGxvZ1pzdGxaaUpKZ1l0OVQwSWFUdTJld21mNEw5RzEwWndRcTFqcHFiVklIMURiWUxWazhySnA0SDNLbXVlNk9iN0RLX2VURjZYMHZHUXJyWkt0cU0xNWJVcktkSFJiX1FJVlhQTDdja3Q5RERhZ1N0T1J6M25BbEJ2NUZpWUJ2cllrc0xUZm80UQ?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-16T18:40:02.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 75,
+      "totalArticles": 76,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 37,
-      "reason": "Last 3 days averaged 12.7/day vs 9.3/day before.",
+      "changePercent": 41,
+      "reason": "Last 3 days averaged 13.0/day vs 9.3/day before.",
       "daily": [
         {
           "date": "2026-10-11",
@@ -40,7 +146,7 @@
         },
         {
           "date": "2026-10-17",
-          "count": 1
+          "count": 2
         }
       ],
       "topArticles": [
@@ -111,120 +217,14 @@
       ]
     },
     {
-      "theme": "dangerous-misinformation",
-      "label": "Dangerous Misinformation",
-      "totalArticles": 72,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -5,
-      "reason": "Last 3 days averaged 10.0/day vs 10.5/day before.",
-      "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 8
-        },
-        {
-          "date": "2026-10-12",
-          "count": 5
-        },
-        {
-          "date": "2026-10-13",
-          "count": 17
-        },
-        {
-          "date": "2026-10-14",
-          "count": 12
-        },
-        {
-          "date": "2026-10-15",
-          "count": 12
-        },
-        {
-          "date": "2026-10-16",
-          "count": 16
-        },
-        {
-          "date": "2026-10-17",
-          "count": 2
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Fact Check: Viral Video of Police Attack on Rahul Gandhi’s Residence Is From 2019 Anti-CAA Protests - Telugu Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0l2Tkp3N0hsbERHVElHVWdUVFlkUUNTd2tGWGpuVHdwU2FiMUVDd1M4aFBRZE15bWhsRXc2bGljRnVwWnNoNU1UYWZXU3JYUUR1bGg5ZGRfWXF5YUZRN3h2Vkh4X2N1RFdHVGJTLW5GSjRLRE04UXR0bU1jNlowOWI5Z3RtZUc1MFAwczA1U0JNeVpXQm1jUmRVYno0RWxzLWJXVlhBVjg1ZnFpVmF3Y1pyMNIBuAFBVV95cUxOb0pFYlZkcmpHc0E4cjhVNkc4M0lKSjEweXNiekZLSlN3Z2hKWmNiamVLVDJ1eFRUeU5YeE9zYmFsMGU0ZFBQTENXYnJUX3dBTWU2bDFVQjFDbl9lcnpfbnZTQkxwODA3Z29oZDJuYmRuRXJCNmVLOGFCS0FfUzlVeHFOX09tMm1lQnN1cjZETk13Zm5EbXduWTNlS2Z2Vl83U2FpYjZHYk5qWHo2NEFsdkxkVzl3dGJs?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-16T09:39:57.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Pakistan-Based Accounts Push Old Police Firing Video As Jantar Mantar Protest Footage; PIB Fact Check Debunks Claim - Republic World",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOEhGZzRISmVmcXVjTFgtSzA1SjRDbjNRUmFYVzcwTmpLeU9NRFhNYUZQRjZ0aTNoU3ZaRnk1X05icTVYZ0dab1VrcGNfMmw3cXJkRXZwN19FSHhlUThBSDZKenJPUGJraXlKcmo0VXZLRGo2UDhLSHlCRzNkQWs5M0R3NTZHZGVVZEU0TGtFN2xXY2I3WUlZS0twMWQ2TnJoUV9ubS1SNFB0UVAyOEItM256ZEtFVjlpRlRrTnlzZW9Tc0xMOXJVcVRpbk9IVUtXendlQlRHQVZOMHNuVEozX2tlMEYwaW41UUx0M0gxZkNJdU9EWmdoN2ZCeDfSAYICQVVfeXFMTVNwRjZxZkJhY2xvVDlHRTBEWjgtLXE5RzA2dkYxNjlUaTJpT2c4eHNjTk8zOXhLUmNGWUdkWWtHRFozUjNzM3VGdUo4elo0NHlGbnlYcFlfMW1zUWVFRVl0QnB2bnlzQTQyZFFfc3lvelRkeWJaSXRIdURRcVBSSmZoenNHQkxPMV96ZTk2cUxUWHJJMzF4YklIREkyMW1sRDBTVGpLS3phSU9sbVpxeXM1Q2NSZm84N1BIQVFqTXZ3dEJXdVNVaWEycW9tWDZpeFBSb2c0VnFfeEVLX3lYdFVzeVp6S3hmeWlVdWlTaGptVDBoSWVlMnE4R1AtT2JNekR3?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-13T07:36:57.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "FAKE NEWS ALERT An unauthorised and manipulated version of our news card is being circulated with false information. We urge the public not to believe, share, or forward this fabricated content. Please rely only on our official channels for authentic news a - Instagram",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fQW1OdnNuRUthM2lTMWdDSHQ4czdhNmgyOE15OHZ1TjZYRWdkS2ltcTRLcjFvZ2lwU2M1dFpfSDNJMl8wX2ljWUwwMVZmN2FnMWc?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-10-15T15:16:54.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Government debunks misinformation on ethanol-blended petrol, says E20 fuel is safe and scientifically validated - DD News",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlNTQWt0X1JRdnBpdzhOM24zYU1GTHo1UERkUFhWNTI0eFhlLXJZTVVZU3RJdXI1TjZUdDVTZ2VBOW5XeHJGb2NTNVlrY3JKMHRScVFfWXMyWVBzMmVfTVF2c0VHdWdlNmF3N3QxQnVLRGh2RkVReVNUTUwyamV3WkRuM0s3WDFkM1hfaU51Z1c1YmF1OVdoY3draXl2WDBhQmEzSjlzbzRYNWpCNkpVdThFZVJscDM3MlhmVDZEclNrUjVUeHUzYUlncXVkZERZbUE?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-10-12T18:53:44.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact Check: Rahul Gandhi kisses Neha Bora on the cheek? No, image is AI-generated - NewsMeter",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmVxcElQTW92VnU3ZkkxV0RyQnVIcXBBMGxvZ1pzdGxaaUpKZ1l0OVQwSWFUdTJld21mNEw5RzEwWndRcTFqcHFiVklIMURiWUxWazhySnA0SDNLbXVlNk9iN0RLX2VURjZYMHZHUXJyWkt0cU0xNWJVcktkSFJiX1FJVlhQTDdja3Q5RERhZ1N0T1J6M25BbEJ2NUZpWUJ2cllrc0xUZm80UQ?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-16T18:40:02.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact Check: IIT Baba Abhay Singh Death Claim Fake, Hisar Police Clarifies Viral Post - Free Press Journal",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUlSRjVpQmY4RS1Dck12SmhPdGh6TmJmellWLXZZX0lOMWd3eHRDRU5pR1dXOFA1d2xteXItN0g2eGE1Nm5ET2t3WGU5N0h5ZlFGTEdSZzA5Sm9SdjlxWU1EaS1NYjlIMGZKQ2NGRGhxXzBxTDJ4NEthbnktNlhuc3lZczg2UDhIVmJyNE9jdDh4WTV3NWFKSmdCZnpSazdlQnBjS01qX1hvY21YTUE5VUJIb2hzQUpkYlFFNtIBwgFBVV95cUxPcE5IX0J2VFNyTnFTekdUSmJzYUxVMDJwb3ZFOEI4TTRWNWgtSlV0MmladXg1d2libUhWbzlLV1o5VEx6cThIWlJDX2NvcFYtdDBJTHFuMmo2Q3JQNVVPTmgtTlFoekhSR3FfM29ZODhQSWJlX1QwcGQ1cWM4NzF4a1cxLTY2LXQ2Z1JXb3VpM1BlS3hJZ2piMjNJaDJqaDRvVFFvNHZURTE4azYycFRIZVJXZzF2VjhVMVFuMm1Odllldw?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-16T14:05:11.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "#FactCheck: General Dhiraj Seth’s Nepal Visit Photo Misleadingly Linked to Dance Video - CyberPeace Foundation",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1JwbTU2SFA3alZLMWwxWGVpeFlxUjg1TEtPVjZXeWhxbXlZZFZvNjI2VU1GUkhYLUk0WEl2MGJSR2ZEdE1WeDZwTTZuYTVqd1loanoyS3JKRWdnWmluVm5RMUV5TS1CMFZHQ2x5Ukt1ZjI3T185UkhzNU1vNFRWR1gyWFhPSTZYUzNTREZ6SWt3Mm1VbGtSX2s4M1JOZWdrSFFkaVJ3ZUJSR2lxSDFlWVBaOWtwZG1qbVc3TVdnSQ?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-16T13:38:39.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact-Checking Richa Chadha’s Anti-Facial Recognition Makeup Guide - Outlook India",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYlFhUzNmV28zWmd0b0ozcEdKN0ZIWnhtM0VrVnRmaGhtd0l4VVJkZHRWWkpIS3gxUHRTWXJZTXdCRHJrR01sZXVtN2FQX0dNR1p0UXAzblBCMnRJUzc3T3Z6TFljWHl6OC1aRWNEb0I2VHNhTFQ5X2dPRDh5SWJDeThNTDRtbmpQRGtDQU8xZElHeDVDQVZHSS1nV0NHSGJjYkJzdVRhdXVyWHZMRWJua9IBvgFBVV95cUxQc2VqU0doYXZSUW9rYTBZR3Jxd0RRRF9jVVZETEc2eFZpbUFhVk04SG9xWTZjTktGVGFaN3lFS0ZPSk1ZR29KZ0Qwakw3WWdLYXFnWXJybkNiN0N4Rmd2YVpXMEpuNFJsbi1sQWVSSi1YQnh5OXhkNlFObUxrdERFR0s4cE1GQWloU0ExdzgzTnZHclV4WS12SERseW1uOG14b3o2SzZUTVBvM0dnZUZScFl6cWtxYmlwNUNURUt3?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-16T13:19:39.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 39,
+      "totalArticles": 40,
       "distinctSources": 1,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": -17,
-      "reason": "Last 3 days averaged 5.0/day vs 6.0/day before.",
+      "changePercent": -11,
+      "reason": "Last 3 days averaged 5.3/day vs 6.0/day before.",
       "daily": [
         {
           "date": "2026-10-11",
@@ -252,7 +252,7 @@
         },
         {
           "date": "2026-10-17",
-          "count": 1
+          "count": 2
         }
       ],
       "topArticles": [
@@ -262,6 +262,14 @@
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-14T10:14:33.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Burger King Japan Confirms Data Breach Exposing 11.18M User Records - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRWGRFZUpLWlFweWZSRDFrSEhlZGZ5R09Gdmt2ckxnbGxfNXAwY3ZqVnVIb1VxaTlhSVRhR3JBMkkxOWtRUzV0a2RQQTNONlpZZFRaOUc4QWdBb3ljUFdMclFkVkd6SDlybXRTOdIBckFVX3lxTFA2R01yRGRqTlQyb2Y2S2NPUG5xRmtLQ0lRNEg5U1N1c045Q1Y2VURyalhfQzV2SXRTX2dYNlp0MWczZkdTdWpPdTBpbGJYX0NtOUhUZzlwa3cyZDFHVFdXS1pyVzB3b2JJc1ozeW1uUmotdw?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-17T02:42:29.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
@@ -311,26 +319,18 @@
           "publishedAt": "2026-10-16T05:52:15.000Z",
           "riskScore": 40,
           "corroboratedBy": 1
-        },
-        {
-          "title": "National Security Expert Amit Dubey Joins TwinCafe as Mentor and Cybersecurity Advisor - PC-Tablet",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMW9EWnNUNFBpbUxNWGhWekFZdldWTll4RjJvSjFwUVBTVTRoWFYyNUxNc3p5TVE4U2ZtWThFSk5SVXFudFEtMVUtMjBiZHRVX0RvYWJJa29hYU9kYXg1VnZZaldudTlzaURmaVR2TEZ6Qk9Idm1iUE03Qlo3OVFBSlBDbmxfSnZISzN1Snp4OERoRW5qSXVOZVN5OVpvU1NCTmlmR01Ub2k0aXJ0eG8tNk95WWlYUmc?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-16T04:36:06.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 30,
+      "totalArticles": 31,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 267,
-      "reason": "Last 3 days averaged 7.3/day vs 2.0/day before.",
+      "changePercent": 283,
+      "reason": "Last 3 days averaged 7.7/day vs 2.0/day before.",
       "daily": [
         {
           "date": "2026-10-11",
@@ -358,10 +358,18 @@
         },
         {
           "date": "2026-10-17",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
+        {
+          "title": "Deputy Ag Accused Of Creating And Sharing Child Sexual Abuse Material - News12 | New Jersey",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUszZFJxVzV3VDRRdlhoUDhaVUdicHc5RUZhd0N5Mm1yR2hKSTQ4X2dFME5iNUVhZXhFUEstTExINS1IbnZBUk9ENl9YZWt4OUxvcHhhbEJrMnp1QUp0bFc3d0MwaEQtbTNfeS1USy1BcWhDblRkaEUxb2RUVGFYd1lfZjI4cWJJdkpmSDNGbzlJNnV4bkNtNUV1Y3VRY0k?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-16T19:06:03.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "International operation leads to 95 arrests in child sexual abuse material distribution case - SC Media",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEh6YjZ6a1VXUHpwNndhS1JkanlnbDVkSkpsNEMtZEQ5UXJzWTVwZWgwa1NaOGR2OHpQak4tUzZnUTJUVWNVLUllcHBfM0FXNzgxM3hWaVVicTRvU18yTzlIVG5Bc2lXQTd2OGdoeEJtV3NDV21EQTg4d0VoSWVTRU1vMGJkdTJfRmVhdjIxUEVZZTYxUHNHMzBseEY0eTd4TS1yWF81NHZqWVpkcndFRG9td3Y1ZmRBODV4WGMwdw?oc=5",
@@ -379,10 +387,10 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Deputy Ag Accused Of Creating And Sharing Child Sexual Abuse Material - News12 | New Jersey",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUszZFJxVzV3VDRRdlhoUDhaVUdicHc5RUZhd0N5Mm1yR2hKSTQ4X2dFME5iNUVhZXhFUEstTExINS1IbnZBUk9ENl9YZWt4OUxvcHhhbEJrMnp1QUp0bFc3d0MwaEQtbTNfeS1USy1BcWhDblRkaEUxb2RUVGFYd1lfZjI4cWJJdkpmSDNGbzlJNnV4bkNtNUV1Y3VRY0k?oc=5",
+          "title": "Interpol Arrests 95 In Child Abuse Material Crackdown - Menafn",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlVBTHU5aHc4Tjd1YVBPckkzbEpvY01vUGpjbFBHeEZLRG1wX2dzSW54REU3TGNaUTNFTHdnb0oxVjVadW5nc2N4VE9OUkVfdWU4OTdWSnpGVm5ISlVyRU9vazlYZUY4OTRlc0VWeHdFTWJiUTR5bGRTTWVldjk4ellleTNrX0c5QVZj?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-16T12:31:41.000Z",
+          "publishedAt": "2026-10-16T06:32:32.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         },
@@ -417,26 +425,18 @@
           "publishedAt": "2026-10-15T17:44:09.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Take child sexual abuse material circulation on social media seriously, SC tells Centre - www.thehawk.in",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTG5rWHZ2bGZfeWpPVER0UGV2LWdkdEtaMzhReDlxcURXckNPVWh5WkV1TjBSR1lWYVBYMnpoM1BoZmRJS1ZFaEQ1WTktekdZUVQ5b3Fwd1RJM1NTZ3NuaFdwMkh2NUFHZEphaElSQzB1ZVp0THYxaHl1QjM0UHJtemhGc19mNHY1Y3IwSkRENTh6ZmhLX1BVSnl5b2pYbG1fZEt4T2ZTYVhuNk82c1cyaFl5c1J5ZW9rLXozcA?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-15T13:36:28.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 17,
+      "totalArticles": 18,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 19,
-      "reason": "Last 3 days averaged 2.7/day vs 2.3/day before.",
+      "trend": "Rising",
+      "changePercent": 33,
+      "reason": "Last 3 days averaged 3.0/day vs 2.3/day before.",
       "daily": [
         {
           "date": "2026-10-11",
@@ -460,7 +460,7 @@
         },
         {
           "date": "2026-10-16",
-          "count": 5
+          "count": 6
         },
         {
           "date": "2026-10-17",
@@ -487,6 +487,14 @@
         {
           "title": "Discord sued in Florida over child grooming claims - AOL.ca",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VMUpNblkxWXhobzExWTR4eU12elRGcUZWWjk0S1lDYXFYVTFubk5oTnQ3ZHBVVy1HVnhua1JoQlNoaVl3OHdDSGFwYVdfWFFZTmxqR2lyWk9EQmdldkRvXzZ1eW1HZlJYSXh2OGtMQllyMGhKcFZsTzRTeFYzSnc?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-15T21:55:23.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Discord sued in Florida over child grooming claims - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0xncUZoazVaME9FWlBpckVEVTkzWjhFcnoybjdCUm1sNGNJNDc3UXFWME5qYkt6WUNDMEZFcmVUaDRYZVhkbF9taHJiT2dvZnRFME9XZXBXS3BMNFRta085RllzamYzQWNVNFk0bk9FaWtDNE51ZUlwblRtZW1GQQ?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
           "publishedAt": "2026-10-15T21:55:23.000Z",
           "riskScore": 52,
@@ -521,14 +529,6 @@
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOc0hyQTdLREVqbmY4bnlZb3pxbkwyNzZLOFJyVlNDVjZhelpDRl92QzZkS1VvNzQzUUJHV0JjbXVjLWNUMUhTTU1KaU1BZEVaczlYV0pXb1pQeXlCaGtXMDV3b3BKMkpLTzhyZWNQYkdnVU83Rm4tR2xMOHFzbk1FejdQSldZeTdFM3dJSnBiX2RKR092LUpOQnhMMjIxMkdGU0xVSzVPbWpsWGUwbTc4ZTQzMWpkM0xmSmh0c3lZWGxJdU9RWEV0Q1BnNXJ5R3lJU0pTUlgzMkZidjM0enhpS0lkbEVlWVNfaWtnQW1pZUXSAfYBQVVfeXFMTk9CU1BMejZuaDZZZUc4SjVrREpFSDR5Zk00T0lOMHRwMzBjUl9hYlh6QXRXWEkwTlFHdEVNbHJWZ21MWFFUeWRISTJHTDdKWTNSOGdHbFRSbDJDRmVqM0N0T1l0MTFQdmVFT0pnTzZPcUU2OVRJdURmbjlxM1pfZEUzV182MHZQZ3gxbEtRN1lTV0V2LTR2VDRzbkV4dWVJT2VlVnlkdnZ1RTBUeVBMZkw4NVhVcTNpMUhBN0psQmRpQ1B3VGxmb0xZVXU5cnhLVUJvUXZoLU5aa3c2Rml2b3Q2VHc5Q1MyWHNKUm5KbzA5OHZSTzRR?oc=5",
           "source": "Google News • Sexual Exploitation Online",
           "publishedAt": "2026-10-15T15:06:19.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Texas man sentenced to 30 years for sexual exploitation of children in the Central Valley - KMPH Fox 26",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd1VEajlVNzRGTFU1Sk1JZVEtRlRGbk1iNjI4SXNGaEprRjBoR2pUWmU3NGhyTmo4NFcwVnp5OHBIVVJzc3dzM0VYYVF0Q2J3VXEzdjY2WG9KcFBMVHBmcC05YXFYMXJmNFotRUlMcjdHNXdPZWFtbEszWk1lODU5dFgwdGxXOHdtM2xDWnVjaFJ4U2RvenJSNk9leFZhUDZSYW1icUZHNUpJTEE?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-14T19:26:16.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -641,6 +641,112 @@
       ]
     },
     {
+      "theme": "violent-speech",
+      "label": "Violent Speech",
+      "totalArticles": 11,
+      "distinctSources": 3,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 256,
+      "reason": "Last 3 days averaged 2.7/day vs 0.8/day before.",
+      "daily": [
+        {
+          "date": "2026-10-11",
+          "count": 2
+        },
+        {
+          "date": "2026-10-12",
+          "count": 0
+        },
+        {
+          "date": "2026-10-13",
+          "count": 0
+        },
+        {
+          "date": "2026-10-14",
+          "count": 1
+        },
+        {
+          "date": "2026-10-15",
+          "count": 2
+        },
+        {
+          "date": "2026-10-16",
+          "count": 2
+        },
+        {
+          "date": "2026-10-17",
+          "count": 4
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "\"Reflects broader, troubling trends\": US India Caucus co-chairs condemn alleged Hindu temple attack plot, demand probe as 'potential hate crime' - India's News.Net",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTW9yQmctdDc4MGhXYlhkV2EzeHplVUYwYnFqejVuZHFTS0RGdV9OQmlHZG1aYjhEb3FCdGZkc0NkVEpacnlRMEhpQWo3RDFiNWkxWDE1WjBtTnhHLVZ5ai1sUlRMc0NJSmRJMjBrWFFjOGF2NVZmTlNUYV9TZXRYYW1RM2dVUG91ZjI0MERQMzBhWjJmQy1CM2ZaOHNud3V1MkJyMzk2RXdqa2REeW1qTEwtdzFuYzUtR1hlam9YckdCTlNVaUJwYm43WXIxV3d2Z3ZwNS1seDE4M0JhUFZ5YzUwc1YtakFqaTZHdzdVdVhkdEdBWEwzYUk1LTVta0UyTFI1aV9JYTdaVjA?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-17T03:12:02.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Illinois Hindu temple: US India Caucus urges FBI, DOJ to probe attack plot as potential federal hate crime - ET Now",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN0ZMSk5samlJcVRFWkRfT19fRDNUNDZjZjFXOU13bUlGcjlDeUppQUd6dDRjSVdhSmVpNjc3WVhOTmNfdHJvaEhVZlF2X0tHbkd2T3BTV2tJVGZ2dVNKeVdGZUpEdlNIX3RkRGlsRDNqck9zNHlLdWFiMXJQNWFDNEtPWXhhRHhtekVXWlVQczUzaW1yZTV0aG5GX3lsZTVKcDVqendRSzhTRks1RkZXb2FMVkxKRGVxQ1FISjJGSEZVbVNpSzdSRWkzeE16d0dITl9FMG1ZZzd3bHJuSXA3Rnc0VTNiVHNxOHNyd0k5MFU5d9IB9wFBVV95cUxNOFZQMy1DQUVlSk9tOWI4aUdUZXhETFpMTUk5T3pvRUYwaXcwRm5FYXZaT0h3NTZDdU5iVlRnR0VPLUphSE9Uc21vRE9OeVZZUDdJZnktZkg2MFZyeWM1NVdjTGM1eHJMMzZCVFR3TGQzY1J4Y0RETGxSSzU1dTkyV09uVVZ1ZlZwUVZmVXVjU21NakR4QWhqaXJIWnVldm1zS3lrZF95ZnZmMDItWllOZEtyTGllWjN0MjluYWpxVEc5OThaQUZILS1TM1N4SUs5dlRIbDdhR3BFZnlHV0FUcDdTMlVmMlRteFBIRExtSWE1UWtnOEMw?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-17T00:05:03.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "US Lawmakers Urge FBI To Probe Illinois Temple Plot As Federal Hate Crime - NDTV",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczhTUXJpc05BSnJTQUN6RE44SjdLUVk1bDQ4cW9tTmExTEtXWEhZU0FhLUNJeGNwSUE2NjZQSW5BYkZDQm1zWTFQVU5zQWZkUDZiM3l3MHlmZVR6NHk2ZVVKR3AzZ1doc2gxcTNJcDlyRF9Md3NCcUVwWUo1SFNETlI2aFZHTV81d09LczNsbzN0X0pVS0dkTGgwUjVCdE9pUTNLWE9ZdGxILWRFWmpUbXdpSDjSAbwBQVVfeXFMTjZDMTBVNlJnbF9JQmp1bDVIcUlVNlMxQ1dlZTA3UV96MFJSZXpJOHg1R1lWX3dfM19qc3dqcUR6aDFZdURpUTRrVnI4V0FGYThheHhjUzBQRHhseTZKczAtUEtlbGNwLW1TU0dTQVFtRmg0bFgxczZzTEhpUE1CTHBtdkE1LUk5THJHS1pGMUZFTkE0aGpZNXB2QWdNeFl5Y0J6SXZ0MmJhOTJMVjRiSjBqMXBJTVNxdWlZSEc?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-16T20:57:26.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Hindu temple hate crime probe sought by US House India Caucus over Illinois shooting plot - Goodreturns",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXlyY293cTJxWm9WR2pQQllZeDNLVXhpVmZkWXFDNll5NlNoVWM4VFRCazhGUTE3WjFTSzI3dThTb2NyUjkwWmxkQjhmQWNuRVZwWDZZQUtkTXFtX3JFcWl2VVg5R1VxNUpKOTd0Um5wYzZOQW5rRG9CWHRfRjF0RXdoR20tX21oTk1GNExCS25McHdwTUYzRUhaOEJkbmRuVl9Jc2ZUbWs5VWxGNHhWRQ?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-16T19:51:02.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Pakistan condemns Indian defence minister's remarks threatening military aggression - The Express Tribune",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2NWR01OVVdJQV81cmFBVFVqMWwyNlJjaVRORk1EUnVHZ0tXTmZ1T29EOGkxRllmLTVKTHNxVVN4NnF0MGdfRFlSeFNBQlpmcHBaazhqaUc2Yk1nUTJSWk1WeUJCUXZqaWgwRktha0NfdzRzRWtTUnhWYlRpSmxqV2VzcGFqU3RqTkptNVFKczhRU3dCX0ZDdEdscHhnQUR5cW4xSHFPRG1sa2xUSHpCT1JSRENKdXV1VFpN?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-16T15:05:49.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Illinois Hindu temple shooting plot: MEA flags rising hate crimes and racial discrimination against Indians - Mid-Day",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2NIcmxoSDFDdV9Tdk1pTS1LNVVaalNuT2xHU0RWU0pUNk5WUHhtRWM2VEJzcHBBSTRNX052VnpkRGlIN0JBc2tmdXJKRkNINFZtX2JYelFLWGo3Q0Zza2NkVXRmMF9wRkE1V2I2c1AyQ19LeGxhd0tDQTRZZllFUDJHUXZON0QtZXphRUFWa1Zvd3NJV0NKSVNfcldTWE1rZk10ejZGUjBfeDM2OGxBcXgyWHE3VUEzc01KYkh2LWdTS0NJR3JFNGZkcUViQTkzcTRSR3lfRGxMbF81dlZUUFMxUWY?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-16T14:22:42.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Manifesto of Aurora Hindu temple Neo-Nazi shooter described Indians as ‘subhumans’: How hate speech by White supremacists and Indian leftists is putting Hindus and their temples under target in the US - OpIndia",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQd2NWLW92WElFQmJhVFd1dHd1SEo0bUprN1NuY2lxTm9hQzZHTUpTY3pITDIxcDNYakF5SG5Edm85bDZiUG5IRFJSa0JELTQ3YnV1akYyRUhwMmgwY29ndE1HYjNTSW5JekRoUmlsdlgtTGdBN2FuU3BJWElzNXZnTms3NWVHX1FEMDBodnNvQW5xX2htbklkb1Y0R0M2a0lHQzFYZkRNVWN5MDVlXzVFMkYwOTRUNXY4bFlYeFktM1Y3U0xhMGZ1VHpQempkX3pwWDZCRzRCaU9YdHVGTmFzcjhNRGd5cXJkcTJVMUZyX054S1hXU2NjTVFZTm5hR0oteFRuVXBheWVwSHBpQ1lubF8tN25EZw?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-15T08:11:17.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Hate crimes against Indians abroad: From racist abuse to an alleged mass shooting plot - Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQy03WjRKdUthZ2R6aVBfam9OZ0ZtRTBzV2hqRDItLWtrdDVhd1pfRGdmUnJvTXhUdjNvRl9CSTRDMWFNWHhPd29STmphTGcybTVNZDJmSWg3TW5jMlF1aUpoaFZHWUpsY0RURWluN01VYzRZVDJzMXNCT3RyMVBwb2RMTGRFMldHcy1aV0ZpNHJuNEJQdjNUNW5HeHJRa2dLMW1MN25WN0lNUEhwdi1qUWhoaW9rVl9NLWtxejNQOExqSVEtcmVhcnZoaXMxTWNZc1ZZb2lOTmJ1aVV30gHiAUFVX3lxTFBPUTVtcDFnMWlJYWhtNDNTUWUzRGxaZ0xjTk1lZVJZek5VZGJleDJJUFA5dEtQS1J3Y2VKNHphc21Ha1U1dWE4eVRZODg1X0tCZ1pKYWdCRlhtQm9YcTQwUDQ5WVdiMll2Zk03cTRVR0RBNWJPQjRRWTRQWEZQdGJxS01qN0t4dllqem16cG1FYXVXMWFEMDQ0NzlFcjJnVVJ0RTZLcEhMM0Qzdk1sOUJqdTJmd3BOeEhLb2hVOXAzWl9VWmgyZzFybFpraWVQVEJDS3c1b0dsbWZCX3RyU1VJakE?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-15T07:16:21.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "human-trafficking",
       "label": "Human Trafficking",
       "totalArticles": 10,
@@ -742,112 +848,6 @@
           "source": "Google News • Human Trafficking (South Asia)",
           "publishedAt": "2026-10-14T13:27:27.000Z",
           "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "violent-speech",
-      "label": "Violent Speech",
-      "totalArticles": 9,
-      "distinctSources": 3,
-      "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 167,
-      "reason": "Last 3 days averaged 2.0/day vs 0.8/day before.",
-      "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 2
-        },
-        {
-          "date": "2026-10-12",
-          "count": 0
-        },
-        {
-          "date": "2026-10-13",
-          "count": 0
-        },
-        {
-          "date": "2026-10-14",
-          "count": 1
-        },
-        {
-          "date": "2026-10-15",
-          "count": 2
-        },
-        {
-          "date": "2026-10-16",
-          "count": 2
-        },
-        {
-          "date": "2026-10-17",
-          "count": 2
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "US Lawmakers Urge FBI To Probe Illinois Temple Plot As Federal Hate Crime - NDTV",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczhTUXJpc05BSnJTQUN6RE44SjdLUVk1bDQ4cW9tTmExTEtXWEhZU0FhLUNJeGNwSUE2NjZQSW5BYkZDQm1zWTFQVU5zQWZkUDZiM3l3MHlmZVR6NHk2ZVVKR3AzZ1doc2gxcTNJcDlyRF9Md3NCcUVwWUo1SFNETlI2aFZHTV81d09LczNsbzN0X0pVS0dkTGgwUjVCdE9pUTNLWE9ZdGxILWRFWmpUbXdpSDjSAbwBQVVfeXFMTjZDMTBVNlJnbF9JQmp1bDVIcUlVNlMxQ1dlZTA3UV96MFJSZXpJOHg1R1lWX3dfM19qc3dqcUR6aDFZdURpUTRrVnI4V0FGYThheHhjUzBQRHhseTZKczAtUEtlbGNwLW1TU0dTQVFtRmg0bFgxczZzTEhpUE1CTHBtdkE1LUk5THJHS1pGMUZFTkE0aGpZNXB2QWdNeFl5Y0J6SXZ0MmJhOTJMVjRiSjBqMXBJTVNxdWlZSEc?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-16T20:57:26.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Hindu temple hate crime probe sought by US House India Caucus over Illinois shooting plot - Goodreturns",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXlyY293cTJxWm9WR2pQQllZeDNLVXhpVmZkWXFDNll5NlNoVWM4VFRCazhGUTE3WjFTSzI3dThTb2NyUjkwWmxkQjhmQWNuRVZwWDZZQUtkTXFtX3JFcWl2VVg5R1VxNUpKOTd0Um5wYzZOQW5rRG9CWHRfRjF0RXdoR20tX21oTk1GNExCS25McHdwTUYzRUhaOEJkbmRuVl9Jc2ZUbWs5VWxGNHhWRQ?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-16T19:51:02.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Pakistan condemns Indian defence minister's remarks threatening military aggression - The Express Tribune",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2NWR01OVVdJQV81cmFBVFVqMWwyNlJjaVRORk1EUnVHZ0tXTmZ1T29EOGkxRllmLTVKTHNxVVN4NnF0MGdfRFlSeFNBQlpmcHBaazhqaUc2Yk1nUTJSWk1WeUJCUXZqaWgwRktha0NfdzRzRWtTUnhWYlRpSmxqV2VzcGFqU3RqTkptNVFKczhRU3dCX0ZDdEdscHhnQUR5cW4xSHFPRG1sa2xUSHpCT1JSRENKdXV1VFpN?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-16T15:05:49.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Illinois Hindu temple shooting plot: MEA flags rising hate crimes and racial discrimination against Indians - Mid-Day",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2NIcmxoSDFDdV9Tdk1pTS1LNVVaalNuT2xHU0RWU0pUNk5WUHhtRWM2VEJzcHBBSTRNX052VnpkRGlIN0JBc2tmdXJKRkNINFZtX2JYelFLWGo3Q0Zza2NkVXRmMF9wRkE1V2I2c1AyQ19LeGxhd0tDQTRZZllFUDJHUXZON0QtZXphRUFWa1Zvd3NJV0NKSVNfcldTWE1rZk10ejZGUjBfeDM2OGxBcXgyWHE3VUEzc01KYkh2LWdTS0NJR3JFNGZkcUViQTkzcTRSR3lfRGxMbF81dlZUUFMxUWY?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-16T14:22:42.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Manifesto of Aurora Hindu temple Neo-Nazi shooter described Indians as ‘subhumans’: How hate speech by White supremacists and Indian leftists is putting Hindus and their temples under target in the US - OpIndia",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQd2NWLW92WElFQmJhVFd1dHd1SEo0bUprN1NuY2lxTm9hQzZHTUpTY3pITDIxcDNYakF5SG5Edm85bDZiUG5IRFJSa0JELTQ3YnV1akYyRUhwMmgwY29ndE1HYjNTSW5JekRoUmlsdlgtTGdBN2FuU3BJWElzNXZnTms3NWVHX1FEMDBodnNvQW5xX2htbklkb1Y0R0M2a0lHQzFYZkRNVWN5MDVlXzVFMkYwOTRUNXY4bFlYeFktM1Y3U0xhMGZ1VHpQempkX3pwWDZCRzRCaU9YdHVGTmFzcjhNRGd5cXJkcTJVMUZyX054S1hXU2NjTVFZTm5hR0oteFRuVXBheWVwSHBpQ1lubF8tN25EZw?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-15T08:11:17.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Hate crimes against Indians abroad: From racist abuse to an alleged mass shooting plot - Business Today",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQy03WjRKdUthZ2R6aVBfam9OZ0ZtRTBzV2hqRDItLWtrdDVhd1pfRGdmUnJvTXhUdjNvRl9CSTRDMWFNWHhPd29STmphTGcybTVNZDJmSWg3TW5jMlF1aUpoaFZHWUpsY0RURWluN01VYzRZVDJzMXNCT3RyMVBwb2RMTGRFMldHcy1aV0ZpNHJuNEJQdjNUNW5HeHJRa2dLMW1MN25WN0lNUEhwdi1qUWhoaW9rVl9NLWtxejNQOExqSVEtcmVhcnZoaXMxTWNZc1ZZb2lOTmJ1aVV30gHiAUFVX3lxTFBPUTVtcDFnMWlJYWhtNDNTUWUzRGxaZ0xjTk1lZVJZek5VZGJleDJJUFA5dEtQS1J3Y2VKNHphc21Ha1U1dWE4eVRZODg1X0tCZ1pKYWdCRlhtQm9YcTQwUDQ5WVdiMll2Zk03cTRVR0RBNWJPQjRRWTRQWEZQdGJxS01qN0t4dllqem16cG1FYXVXMWFEMDQ0NzlFcjJnVVJ0RTZLcEhMM0Qzdk1sOUJqdTJmd3BOeEhLb2hVOXAzWl9VWmgyZzFybFpraWVQVEJDS3c1b0dsbWZCX3RyU1VJakE?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-15T07:16:21.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "15% increase in hate crimes against Hindus in UK, home office data shows - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc0tMLWNrZG1BOGVYaGVmbkctSXdFeFRHVWpUNmZQcTlWdjRaNWFLM1NqUXVSQjF1TmVOazJLeEl2RXdwU0hIWG5xVEN5OEVRRFRhV3ZhajRpbk9DOVZHN3J2ZW90WE03MG1aSmJuUzJpdEpTdTJSTTRhWl91ak1lLXVMU0tKNzVzWmFfbXBqVmkzTV9WclVZdlhpSGpVdDJvdmUyNDlsX0lQMjJ1a3NZTU0zcUxLRWFCRktITU1EQjFTN00yVVJJVkdmbEZubk1RTWMzdk9qRVjSAd4BQVVfeXFMT3l2cjZzU2ZvcjBZd1RzV2kxY2ZHT3A0Mkw2TkJKUGRaRlNacjF5YU5qVi1FeC1Vc3EtUFRrYWxEa2xCbWVRVC1UX1otWjJkVWpZWUFXWHUyRXlCNEZlam1mRUtNR2pveU1nMm1rYVJ4XzlfRlJjOHk1SlgwTTJfSnltTzBaRDlLSFk3NlR3TkFOZjhRT09LYWczR29KdHQxLVdwTjd0YnF6dHJ6ZzFKTkdXT2tBQzQ4Tk9Ga21qV0RUTW9TbGlsZ0pSWnpUdFN6YW1qeXh0UG45V1N4LV9B?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-14T00:28:00.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Government warns against online incitement as migration tensions rise in SA - Cape Town ETC",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc21fR3VVQ3ZYNVAyendDRHlLcERlUlVnMVB2bFgyNjUyS1ZORVRlalFLU01BYWh3NEI4NTRfMUcyc0ZjR19NVUppRUQyT3VtSlRtMzd4RXZZbEJMWjI3NVIxS3c3bUpING9iaVphQUdYb3FnNGJkdC0wd2JIX3FUYk1wdWEwdXN1cWJaMG5mYmYxbmN6dzVGc0VTRzctVHFlWkVzRUMtaE51OHVtT3c?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-10-11T14:33:03.000Z",
-          "riskScore": 44,
           "corroboratedBy": 1
         }
       ]
