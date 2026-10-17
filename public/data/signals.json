@@ -1,9 +1,115 @@
 {
-  "generatedAt": "2026-10-17T11:06:36.729Z",
+  "generatedAt": "2026-10-17T15:51:47.532Z",
   "windowDays": 7,
   "endDate": "2026-10-17",
   "collectedDays": 7,
   "data": [
+    {
+      "theme": "fraud-impersonation",
+      "label": "Fraud & Impersonation",
+      "totalArticles": 82,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 62,
+      "reason": "Last 3 days averaged 15.0/day vs 9.3/day before.",
+      "daily": [
+        {
+          "date": "2026-10-11",
+          "count": 1
+        },
+        {
+          "date": "2026-10-12",
+          "count": 8
+        },
+        {
+          "date": "2026-10-13",
+          "count": 7
+        },
+        {
+          "date": "2026-10-14",
+          "count": 21
+        },
+        {
+          "date": "2026-10-15",
+          "count": 26
+        },
+        {
+          "date": "2026-10-16",
+          "count": 12
+        },
+        {
+          "date": "2026-10-17",
+          "count": 7
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "'Meet Kemi': Scammers Impersonate Popular YouTubers Until Nano Baiter Hijacks Webcam, Exposes Them - FIJ NG",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFpZMlhNdElHbFVoRk8waThNU2N1R3dUa0RyaDZDMUswaUJLZ2UxMGRyOTh2SzRYNFByZVJfbTV3M0V2QnotdGhxOGNPcnRRbFFuZ1E1aFV3a2FJMHQ2T0d5MjU0SFh6NlJUTWxPaS1Dc05GTEpGcWZHZUdjNTh3dHZNVFc2MmdGSUItR3hLa1g1QjdrbjZ2ZG1hMUJ0M3dYeTRvR3VYNENiZjdabU9nNUFMeVFLc0xheFE?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-17T12:57:10.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Australian Anti-Fraud Startup Uses AI to Impersonate Victims, Wasting 17 Years of Scammers' Time - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IM2tvWklaOWdRZlNhSFhUZGx5SVU0YmFqenJ0ZVNpZG5PRXJyR3ZsS1ZlX3JFTDJLVnhNU1dBVlJNUkZrYjdYcE9idm5uVUhUQlVROGlUNGZaNHlZaDRwOHpabU1sLUdMYko1eXh0T3NTOUpETVE?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-17T07:55:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "South Korea's Woori Bank Taps AI and Ex-Police Experts to Combat Financial Fraud, Blocks $130,000 Prosecutor-Impersonation Scam - BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42ZnFtdF9ib05mbDVFM0tCdWhHbmdBT2lHaHJVNno1a0ZhYWJfdVJ5NmlkUFRyZ1NscXBBMldVT3g1cFU2ZzFIY0lNZmtZOE92Y0w1NDVTUVd3YTQxeHZNYVFQS3pBaFY0Tnc5Z3Jxb3lDUVg0cmc?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-12T05:25:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Google strengthens Android Security to protect users against Scams and Online Fraud - Cybersecurity Insiders",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzNrMkxFaDJiWkJ1Y1ExbTVTQXBxV2J0M19vaGhxa2dpY3VsckJMQ3loZ1Vyc0xHZmsxTFVzbEVJNFRTa25HbnRZUTBqLUZKYU9JeXo5dlNUbEF2MWFMZ2dRZ3BQTHI1bVNvdFhDYXhrbkRpQThyRVh6T05OSVZiRXZNa3hlb2xBa1FGbW53Z0pfWl9JRjUtdG10VDJXbGQ1QzlWTDNsT19HeXpXVURyUWhzRWhpYU9CNGRHXzlWV1U?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-16T12:13:44.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Star Parker: Internet scammers need oversight | Opinion - The Daily Times",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlJxOUFZTE5XR1V3VFh6cjFLaTVDTzNYcmFYWnpLUzdGZzloS0ZVeXQxNlRpT1cwNEZadjdvRThpdE9pWml5SE5tTmV1dG1SSDRLTFBVMmI0b1VNXzFWNTNhSXVaTXRhdnlnYUFMU2JqRXBHU0FTM1NwajRrVUlQd1lnNlgzc1hyaHhkQXdmYzdSN0lYX3RobUNfRUpWdXMwbjF0QXcyc055M1BCYlBXQUg2X1hnaDBTX0dNWW4yTWw3VHh1b0hfejE3VzU?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-16T03:30:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Mumbai Cyber Fraud: 69-Year-Old Senior Citizen Loses ₹50 Lakh In AI Voice-Cloning Scam - Free Press Journal",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmRZOENWa1lWMlZSeF93Zjl5bEh4dXJraGFYRGpDdWVyejh0LVYxaHZheHJweDJ1ekdLZFY0dm1ERUI0Q0YwTW15S3NlMDZSRTZ4ZVdxOWdYQmY3b21HR3JJY1pVd0dmMmx2THBDNTRTMi1nTTMtQ0Fjb3RJNmJRYTNYSU4wSFJUcjl2eE5PZjE3azJmWVpISjEyVFJNWi1pRm1MSjBiREdIWVMxTjVPbG1zenNRMExlQ0Z5d3BmUkfSAcYBQVVfeXFMTk1yZXVmUkZaOWM4U3FmdnJjcXFsT1pyQTRBbHdIVjNpS2l5X0NRMUFWTjRac0Nkb3VYV2N5WFRMbXpxdWVpNTUwTUFhU0o3N0wzRnhmNkNQdFRDZjlJLVhPN2x0SFBkRW5UelBUN2NVT2FhV1BGLTY3a2w5LU83cVhhQzZDOHZhcUdHeHdMMzJQY3pWeU9YeGs3dk1LaWhJZjhBaWtEeWZQU3lrYmlxaGVlU1VqNXhOdnJseHpvdlpmdkpVZXJn?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-15T15:35:08.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Internet scammers need oversight - KPCNews",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1lJb1ZhclhrTmlSUl9nZWNoVldCMmlTMDE2dmtLR3dNb01IblpuSGs5SDBNajVmOEJFS1pxZmRsSndST3p1SlNwcmpZQjctUFkweWc5TnJIdlBUMUotRWRNc2FMM2xCVmdCZmo5SVJHVE83eEtUVUZQVng0b2xWU1VadmNvTXRhYVBIdGZ3eWc1NmlhTHZGb2t0SHY2aGRrRmhpdmd0UUtabWc?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-15T15:19:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Iron Man Phishing-as-a-Service Kit Impersonates Banks, Couriers and Government Agencies Worldwide - GBHackers News",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzRUNmTkJEcS10aTdaUXFWQjBiamg3SUQxLXhKbV9TRi1DN09sYzVYcENSVVlxZnVSUzJoUV9HRlVWQ1RrUUs2c2t1T2xVZ3VMT3dLSEtueGxZUlVIUFZNSkt1Z9IBaEFVX3lxTFBwU3c1a05nTUtlcXdWNERNNUZfbms2dEtlVm5zVmtQNl96SHdrSjRBYkRhWG5xd2UxWE83VUxRZXphT0JmV3lqdmRpVUJGTTlOcnFva25QU1lvVUxrOHpCdFFvZ181MWx2?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-15T11:05:37.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        }
+      ]
+    },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
@@ -36,11 +142,11 @@
         },
         {
           "date": "2026-10-16",
-          "count": 19
+          "count": 18
         },
         {
           "date": "2026-10-17",
-          "count": 7
+          "count": 8
         }
       ],
       "topArticles": [
@@ -93,124 +199,18 @@
           "corroboratedBy": 2
         },
         {
+          "title": "FACT CHECK — Will FIFA World Cup 2030 be available for free on Netflix? - Sportstar",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWxkbHl1S01CS3N0S08wRWZDeDRGU2l2Ri1HNWRmQkR4cDRwMTFzVVFhZzNSbzJNeGZIdFMySlhxVjNGTVRlQzB1YjhTVGdQUTVGOEdOc0RYT2JMdGVNdzFoeXIyejBoU250Z3gwVFZrUlE5R0gyeHpkdjR1VUtqS3ctV2JHZXhZLUJLVTllOXRXQ25CczNJdS1fRzhsT29VUnczTEt2NFpsQXJhSWppU0xDOGMxN2pieVh5Nk5nTGJpTEN3ajBZb2FLVlJQT3U0NFFWaWlvS2R1VmtvR2Jtem5sejIyUTjSAe4BQVVfeXFMT2J5bVZ1X0JhckI4ajFZcmxGRHltSzhWTk5IQlQydnVLU3JrT1QtN2JKNGdTaHdCZzFwN09tREgxUlJjYk9GVFdCVkF3enVNemxsaUtNWmszM0VHaVltSndFX0I5NkdJUGZmM2tNdlM5LThraUNtWFZtMWlIVjlxRUQ4Q3JFblNJbDhFM005VDBzcnd1c09wZzg1Unk0d3JORTN5VXRpVHZOTm9aT0p6d1pQbS1sM3hWRHV1RVloWV9QSmViMVlXNE93R043VEpEUUdKbHB3MENDR3N3RWdWcGdLbk1VcTBHYmo4NmpzZw?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-17T10:29:07.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Viral video of Times of India journalist Divya Kochar shown announcing divorce is digitally altered - DFRAC ORG",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS1dSREJhU0VNTlVQdnV5aC1OOXJUX0JrLWtERWdnM2syMXRWa1hpSVJXZVczMVZONUgtVFl4S0EtMUxFVGx0dmhNUDI3d1VyQ09EemVaMHNrRlFOX1ZJb2JibUFDenVZYlpsMkxVMWwxTC1KVGdaanlaRmZ2dE5YRVJVbERxOXpKb29BZElWVC1FUWVOLUNkZVJqYkhxLW96LUdHR01ndzd1MGxIRnJxQVVkanQtVFV3NFh0RXcxbTRiOU00WW4tSkZTdmo?oc=5",
           "source": "Google News • Fact Check (India)",
           "publishedAt": "2026-10-17T07:46:27.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact Check: Congress leader P Chidambaram claims ECI abandoned SIR in 17 states, but the facts tell a different story - Organiser",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOV0VWN3p6TnkycVdGRjBBQUl6RFpiaGhnNGVKT2pETHFJMHV4dDg1by1JYjhpamc5SE9ZeHNiZTFGay1GdFJFaE15VndiN0oySGF5VS1LS3dNWWs2YXAteUhxRUtoaGhUeTBPMnF5aWxOcDkyVWhnZTVNSkpGRU9GdzZJN2NKRy1rX1ZQWHo5M05aY01MUUlLaTdYWWtJeElSNnNzN0pXcm14QlgxYnZBYzlmOTJPTnloT3ZHM3MyUkZsZ0pPa3hwVXVuOHdObjhVaTQ3dVRQQzFydzhEUDJya2VwNmR3djNnS2FBWnhiMUdLTXdHUVHSAfsBQVVfeXFMUGl6LV9ZY19fbXVSZFExUDQzVF9yTG5DVXp2WDd1d0Zodk5zekVHVnFjZHVpSDZ4Ukg3VHBHbFlnVHYyYXpMb1FfUHQzUWdjOEd1YWlBUnhnMWdiai0taWtOVXdyT0VqRkFsVnJrOU1tWTQ1RjJJYk9Ia2tPS2N0TzVqT0x3RkhxTFEwdVlZQjNXcm9abHZnR2hzZ1BscG16Mk9vdHdqdTVzdnBIbkFuOF9zWlF6U2pQdDQzUlJCcFp1c2xEMDNibVJ4NmU2UlFnempGVDkxZURRbDBzeldDQkMxZ204NFQ5aF9OME1Ka1ZpNF9RZXpuZmJSXzQ?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-17T06:42:23.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "fraud-impersonation",
-      "label": "Fraud & Impersonation",
-      "totalArticles": 79,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 51,
-      "reason": "Last 3 days averaged 14.0/day vs 9.3/day before.",
-      "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 1
-        },
-        {
-          "date": "2026-10-12",
-          "count": 8
-        },
-        {
-          "date": "2026-10-13",
-          "count": 7
-        },
-        {
-          "date": "2026-10-14",
-          "count": 21
-        },
-        {
-          "date": "2026-10-15",
-          "count": 26
-        },
-        {
-          "date": "2026-10-16",
-          "count": 11
-        },
-        {
-          "date": "2026-10-17",
-          "count": 5
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Australian Anti-Fraud Startup Uses AI to Impersonate Victims, Wasting 17 Years of Scammers' Time - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IM2tvWklaOWdRZlNhSFhUZGx5SVU0YmFqenJ0ZVNpZG5PRXJyR3ZsS1ZlX3JFTDJLVnhNU1dBVlJNUkZrYjdYcE9idm5uVUhUQlVROGlUNGZaNHlZaDRwOHpabU1sLUdMYko1eXh0T3NTOUpETVE?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-17T07:55:00.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "South Korea's Woori Bank Taps AI and Ex-Police Experts to Combat Financial Fraud, Blocks $130,000 Prosecutor-Impersonation Scam - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42ZnFtdF9ib05mbDVFM0tCdWhHbmdBT2lHaHJVNno1a0ZhYWJfdVJ5NmlkUFRyZ1NscXBBMldVT3g1cFU2ZzFIY0lNZmtZOE92Y0w1NDVTUVd3YTQxeHZNYVFQS3pBaFY0Tnc5Z3Jxb3lDUVg0cmc?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-12T05:25:00.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Google strengthens Android Security to protect users against Scams and Online Fraud - Cybersecurity Insiders",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzNrMkxFaDJiWkJ1Y1ExbTVTQXBxV2J0M19vaGhxa2dpY3VsckJMQ3loZ1Vyc0xHZmsxTFVzbEVJNFRTa25HbnRZUTBqLUZKYU9JeXo5dlNUbEF2MWFMZ2dRZ3BQTHI1bVNvdFhDYXhrbkRpQThyRVh6T05OSVZiRXZNa3hlb2xBa1FGbW53Z0pfWl9JRjUtdG10VDJXbGQ1QzlWTDNsT19HeXpXVURyUWhzRWhpYU9CNGRHXzlWV1U?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-16T12:13:44.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Mumbai Cyber Fraud: 69-Year-Old Senior Citizen Loses ₹50 Lakh In AI Voice-Cloning Scam - Free Press Journal",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmRZOENWa1lWMlZSeF93Zjl5bEh4dXJraGFYRGpDdWVyejh0LVYxaHZheHJweDJ1ekdLZFY0dm1ERUI0Q0YwTW15S3NlMDZSRTZ4ZVdxOWdYQmY3b21HR3JJY1pVd0dmMmx2THBDNTRTMi1nTTMtQ0Fjb3RJNmJRYTNYSU4wSFJUcjl2eE5PZjE3azJmWVpISjEyVFJNWi1pRm1MSjBiREdIWVMxTjVPbG1zenNRMExlQ0Z5d3BmUkfSAcYBQVVfeXFMTk1yZXVmUkZaOWM4U3FmdnJjcXFsT1pyQTRBbHdIVjNpS2l5X0NRMUFWTjRac0Nkb3VYV2N5WFRMbXpxdWVpNTUwTUFhU0o3N0wzRnhmNkNQdFRDZjlJLVhPN2x0SFBkRW5UelBUN2NVT2FhV1BGLTY3a2w5LU83cVhhQzZDOHZhcUdHeHdMMzJQY3pWeU9YeGs3dk1LaWhJZjhBaWtEeWZQU3lrYmlxaGVlU1VqNXhOdnJseHpvdlpmdkpVZXJn?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-15T15:35:08.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Internet scammers need oversight - KPCNews",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1lJb1ZhclhrTmlSUl9nZWNoVldCMmlTMDE2dmtLR3dNb01IblpuSGs5SDBNajVmOEJFS1pxZmRsSndST3p1SlNwcmpZQjctUFkweWc5TnJIdlBUMUotRWRNc2FMM2xCVmdCZmo5SVJHVE83eEtUVUZQVng0b2xWU1VadmNvTXRhYVBIdGZ3eWc1NmlhTHZGb2t0SHY2aGRrRmhpdmd0UUtabWc?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-15T15:19:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Iron Man Phishing-as-a-Service Kit Impersonates Banks, Couriers and Government Agencies Worldwide - GBHackers News",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzRUNmTkJEcS10aTdaUXFWQjBiamg3SUQxLXhKbV9TRi1DN09sYzVYcENSVVlxZnVSUzJoUV9HRlVWQ1RrUUs2c2t1T2xVZ3VMT3dLSEtueGxZUlVIUFZNSkt1Z9IBaEFVX3lxTFBwU3c1a05nTUtlcXdWNERNNUZfbms2dEtlVm5zVmtQNl96SHdrSjRBYkRhWG5xd2UxWE83VUxRZXphT0JmV3lqdmRpVUJGTTlOcnFva25QU1lvVUxrOHpCdFFvZ181MWx2?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-15T11:05:37.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Microsoft, Japan Took Down a Notorious Cybercrime Phishing Network Responsible For Global Scams - Tech Times",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUFBsU0R2MTdoeU1VeEJtaUQycHFtd3FlVlFaVkpwa2VvSEFGclZyUWxKUFU4T0dSSHVsYUdVZDhBaWJWNDJpMS1Nd1VDZkg4a3VKekpvVDE4cVJ2eWZSR3BYcHFCN0FMaUxKM0IyaHNtUjd3dFQ4WEJCWGJqeDB3WW5fRWNEaHNDX2lLRlNGTEsyWHlteXltOS1hellYTHhTd1lmWEVmVzF4OG9RVWs2cTA0MTlOWk5hU2NDa0dsZDIzcVZWMG00VXNMenRnS0pJanE5RzNPZGZoNkE?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-15T08:00:06.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Justice Department arrests 28 alleged scammers in Africa - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjVTZm9kWVFyd2hVcmZOWHRGZXJDNm0zS08tNVZJRWtNaHZVQ2NZOUJrNzhsYklKYnFRN1dpTGZ2SVdvMVVPZWh1RmhXZXdua2RBRlN5TGNiYU1ta0RIalB4blZ5RG45UklMczJBTTRMM1IxSnZqUlVQN29sVC12emhZR0xjR2VJbW80Q3Vzc0ljREZpcFJjdkF5UWt5ekZMdHcw0gGoAUFVX3lxTFBsNm5zUGJNMmVVWjUtZE9RWVZ6RGxFUnVxRXIyd1BFWFBYMmc4THBQNWRJVGYwcUhwZzJBbVYyY3AxZmJ1cjVzUEpKVjJpRlRsZGlEaHloM0ZoZXBZd2N5VldhdzZqWk1oRk5XX0tvYXFNb3RGOXlhYUljc1hrRTNFWmNpcTlXRTZlN1V2NTlSU0lZanVXclRIRjA5M1FaSVAxSy1yMGFFeA?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-14T00:50:17.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -219,12 +219,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 42,
+      "totalArticles": 44,
       "distinctSources": 1,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": 0,
-      "reason": "Last 3 days averaged 6.0/day vs 6.0/day before.",
+      "changePercent": 11,
+      "reason": "Last 3 days averaged 6.7/day vs 6.0/day before.",
       "daily": [
         {
           "date": "2026-10-11",
@@ -252,7 +252,7 @@
         },
         {
           "date": "2026-10-17",
-          "count": 4
+          "count": 6
         }
       ],
       "topArticles": [
@@ -297,26 +297,26 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Cybersecurity in Singapore: How AI Is Changing Data Protection and Business Risk - businessnewsthisweek.com",
+          "title": "Kolkata Police Impart Cyber Security Lessons Amid Durga Puja Revelry - ETV Bharat",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGpfSGhHSV84cHVDczE0Umd3QWVOODNkU2tiWjRKZ2czX2RITkxvME41TlVIbjd5YXV3cjRHWEg4Z0tpbWNhX1ZSVkk0TVZtd19GM1RfTlNSNC0zZzV4cHJoNERvdVp2bDRxTXlqNGdfbVNnTDluTHVqV1FTSEdpakVGMnFyMDN6emtob2FBMHRQV3VERlVHUF84UWpMNnI2LUc0UnVIYngzMXZXM1RwbXRiQjBQVjE2RGfSAb8BQVVfeXFMUG5hakRJTXFIOWpzSE5lR2REWHhIbk1aenJaODdRRVJzOHpnQUh5SHlfTmZLRFBiQjRoQ0UzSmRYaEduUGhNVnBXNFZqbU9VLVV2X0F6M1dfQjJqd2NwY3lKTGlwRTB2SFVPTGhvWFMwSmNwNnQ1WnEzMHpVbVV0YV9yM0ozV191RllxN0dlRzR0QlZsLUF5WlZFX1BfZEFUWW1ndGk3TXE4Ymx3clZrcTVtSEkzeXBncDF3UHNyb3M?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-17T11:50:17.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Weekly Cybersecurity Roundup: Enterprise Breaches, Food Refrigerators, and AI Testing Across Borders - TechNadu",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaGlUQUY4WElsSVFrbFJORXZRNkxvdHJFblp4R2QyWTNPTEE2LUw0MGstN0FaOE9OSHZEUml5bXY5LUhNQ01EQlZxNFYteFFQSUl6c3RpdWVYYnRxWkRsanlyMkxHaVA2SHVfLVJZeGMyMUlrWjZxZFpEVHF0Z2phRjIxcnpaMlRBVTdjSTRnMkJLZFV4V25YSFA5R3oxaUZuckxkWjBvWHFwdXNyVDVkbzVLcWwtUDdGR29yQkRnQW9HSER2YmdvV3NKN29pNWRZMFBPa3VLUkhESUU1WG5ZcGhnSEpMZWRNRE8yQ2xKdjN1UlhfNkZzc0hqaXZaNXJLVVk1dUxtc1Y4LVZOUUtQazJVbw?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-17T10:33:04.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Cybersecurity in Singapore: How AI Is Changing Data Protection and Business Risk - Business News This Week",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0c2UWdGajNDb3FIdkFPdl9QSVV0cHU0czZMaVBhdkJpYkdfbnVsMWIxOTYycmp0WTBRT19kNmE5NkJyOTRfdzJMNTV1Rk5TWVlXVU80NE1HVWtDZVlXYUdsUl9XN1NtZUpZaERGZGtpeXVJY09kRXAteEFxVDVZQ1ZkRk96Y1NjOTYwU1l2LVQ4M0NFejZaVHV1VkpUTi02alNaTzJSMTdWQUdtc0JncUZwSS1GcnRUT2ZEazF5YlVvUQ?oc=5",
           "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-17T07:13:12.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "CT Medical Data Breach Hits 62,871, Costs $2.7M [2026] - shattered.io",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PcUIyS3lyb0RyN1A5SEtVZ3FFOGtvQ2NvbHgySFpCRW1sLWs1NVNOdGs0cVRNX0tIcy16b0lKRkVSRi1RUldzWXFPN21waXlEVms1aGtPRU9XYVpGLXFVSTVWTURJdE5RMzkzd3FBOFhVVWFL?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-17T00:29:35.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Healthcare Cyberattacks Increasing and Having Greater Impact on Patient Care - The HIPAA Journal",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcEU5djlibVJNcklxWk5BZzhnbDVfMUpDTFlpdF9MM1pIZGoxenlXN2VjNUNwQ2JxUmlHcV9wMUFGbXE2ZXlwNmZ6dldmWXhXSnlJVDRKUzFyQkZrRjQ3Q1RvS2cxRFdaMzJBbk9GYjRsTDZ3NlduR2NUZlNPQ1lVSVZ3a2ota0pubmx2NXhYV0NreWlJTGVz?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-16T17:03:47.000Z",
+          "publishedAt": "2026-10-17T07:37:49.000Z",
           "riskScore": 40,
           "corroboratedBy": 1
         }
@@ -325,12 +325,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 35,
+      "totalArticles": 43,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 350,
-      "reason": "Last 3 days averaged 9.0/day vs 2.0/day before.",
+      "changePercent": 483,
+      "reason": "Last 3 days averaged 11.7/day vs 2.0/day before.",
       "daily": [
         {
           "date": "2026-10-11",
@@ -358,10 +358,58 @@
         },
         {
           "date": "2026-10-17",
-          "count": 5
+          "count": 13
         }
       ],
       "topArticles": [
+        {
+          "title": "SC calls for national database to curb online child sexual abuse material - OpIndia",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFRzT0NTRjlMUm5UWlhhUmdRdXNIYmZJcVlBbW9Rb3gtb1BmVGJ1bGVfdWRHWDFDZFV6bHExZlJDT1FSVU9OaG43VERXRG1FRndlNWlPZG1kTnBoN2R4SXZxWWJ0anR1UjJRYzZnOVk5MVdlTXFEY0tUVnRacFBEeUdpTjdCVWNZ?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-17T14:25:48.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "One Platform Deletes It, Another Still Has It: Supreme Court Wants a National Database to Track Child Abuse Material - NewsX",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcGxkcWpKU2U3d2F1U2xRRlNyWHpFdzRIZXlpUmt1MGdDTjFJNzZpT0VKYnJCQ2dUbk9HZEZ3Y2RqNkhabjhjaXF1SVN1SEt4Mjduc3VlZmlvNkJBenN1MUJPa2FVX19hcWRSTlJKMTlOYmpDenNsQUZsN0s0RWpXNWMwRjdSZkJ4ckpia2JVN3ZPb3hIaDQ5bDgtVnhMZkI0TGRKM1ZQTy02dkNONmU1eVp5WEhoMVNScHItV1RkYmdHMFphNkNFeTdvM21OWmhLSUV0WTdFU1g2eVBxLW0yemlVRG_SAeoBQVVfeXFMTTItY3ZfNlhxbWRaTF9DLVFpVEZvcURfdGRncmJLWEtNRFpsSTRGUFJjTkoyRDlpSFR6MFBpR2pzbnMySGFoY3BEVEVUM3lyNFBfQ2lORHBhYnJSUml3eGRsQjUwY3o0YjV5eVRtTm1CUDBhdFNxc1VoemlDY1Zhd1A2ZWZSR1ZlZXVPSWJENVBzdFdYZ09QX0dlMmRhMjhoSURXdG1Qb3lXYlY0QUFpUlBDcXVaTl9abm93RjdJZnc5WWtNclVUZlRvR1NYc3ZXM2pLR3FXaF9DVm4zZkQ2d0xCeVNkcEJDbkJB?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-17T13:28:20.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "95 suspects arrested across 17 countries over distribution of child sexual abuse material - The Sun Nigeria",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGFqLV9JSWdQaGl2QVU4d0tYZWpMb1ZwTTBTbWFLM3BkS0VpcDhsa0xrWlMza0tRemQyV0ZvSXo3YTZQb3lkYUdHRTVzRC0wTkpBUnIwWkZnMkw5OFJFOENUcm1rR2h5U1B6NllOOEI0VXBZYzdBZVpzYXljSGxkUFRwUHhDbHQxTHBUM2FDNHVVN2dVSkgwZGFYVWFYZ0ptejZyVk1LX1dic2dM?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-17T12:35:41.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "SC Orders National Hash & URL Database For Child Sexual Abuse Material, Two-Hour Reporting Deadline For... - LawBeat",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcVpHZkZ1ZVBPUWhGLW5TZG5jNlZ2QmhsRmIwWVlfS0p3Rk1QWkVseFVJNkZzR3Q3M3lVRjBLNFBoekhQTnV4dHFBVlNHWENlRmt0SXV2cnkyRDVmSUxYWUdmMVBPZ2tyNHJ0eDZ5R0p2aHppb1pKX2U4MFRUVlZJa054ZmJmR19UYzFfbGdZOU41OThmUU92b3puYnNlQ0NIS2lDamkyMWRFUU90b3QwMUpYTjFUZ3RKM3RzdmlMWXZRbFpvWXhSRWJxYnFZMU1zbnYzN1I0V3F6blNRb1pnUGlZZzBJNHJQbW9rSnpqdEFfZG400gH6AUFVX3lxTE1STE1PZ1NZQzlZczRBRHRkRGtmTlhvM1BvZDJ1RVFkSmNDMnBKT2FGVVBFcmwxMEM3VzVmeDZiR0Y0RnFRR2d4R0NGbV81X09RTERSNmZiRWtwVkdRQ09wV3JkLVo5WWp1NGlTSWJlLU1tSTlYQTFhQ2lGT191d2Y4MmtkeXFieUtnblZhUWYwOWVzYUtPZDdfV1lMX1VaRFZQUU14d3lFcFhWSENhR2xJcVRBVjJfb091akxESGZ2Q3BLQ1c4UG96eVEtVmMyZldUT0RKUjZfX2w5U1N2NlZodUw1dEJpSjRYQk9LMExrRW9aWk1rbkVkTFE?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-17T12:16:47.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Supreme Court orders safeguards against online child sexual abuse material - Telangana Today",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0FEbndrczl3azhnblAwZW1rWXlTckh5aWJNcEdZb2pILW42WjBmSlZqSmRLZHpHcm9OM1VuaW9Yend0bnphLUhZY1JYcmdYTnhsZGQxdDBnN2puX2taVFN1VV9jRzFMeWw0Wkx2bG9GU3Z5TFM2OUdWYUQtUzlLNndqdEgtWWJza1doc1FFZVZteFZ0T2VybVhsU2xnWG9rcUZB?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-17T11:23:51.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Supreme Court orders platforms to block and demonetise child abuse material - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3FQNDR6a1hBNzloQ2hBVFU0ZjlHRXVLdzZlN3M5ZHFKZlB3MmlrTWZJM0RrWmZFTE5DU284V3hYanJLc1VSSnowOE1MTXdnUzMxU2xoRVByckNlYm5MLVJXVDh6enhOQ0EwV2pkdkJ1RklMRnU4WUNVQ0xmZlQ4X1BFbmxZTHYteFNQR2tuYmtETmVnemFGNGZKQXR4VXZxRmlldWtFSU5scVdEckFVT1BCQ1JMSlRjWUtpWldKQVNCOUpDU2ZkYmdOVVI3aldMQXQzUGJpNNIB3AFBVV95cUxNdzFNQ2RYckVkaU16b0JEVy1hbVhyTUxtQndwS0xLSlVZNndSN01Zc01Ka1ZkZlV3WFQ2YWZHSFlKM3dna0RTQ3VJM1AtMWJTQnFTM2dlbGdTOG5KZ0lERWhuOUNOSDJDZHFjVHN3XzVzOTlWQ1BWVjBoQkFEbnR4Ti12TEZObUtqd2VIVnY2X1I0SjRubThTZ0RrR2FWbktEM1JNZENMbEpneDhzeTJsdGZhUDBXaXpOZ1Z5WDRud2p4d0UtQ2pDdFBwZ0dTN2FseGktRXBaOU1XQ3Ff?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-17T11:16:28.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "SC's 20-Point Directive To Centre, Social Media Platforms On Urgent Need To Remove Child Sexual Abuse Material - Times Now",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWW10Mk5mRE50SElva2hOSHBIRDVQMVZuYW5mcEJmbE5rV2FrNVlIMEM1UlJWRjZtbUYybTRzaVExQXUwSFdYMko4b1FHbjh4engtMGZkWC1XcjhLbUdIWm05N1d1MHM2OGZtSUU3b0tMNlYyZkNlVl9xb2pfSVRPWGdld3RmSjlzOWFYdDNwNFZHYUNxSnZZNjZLWjJGNjZmaGdnM051UWhWMWxZWTkwNXExOEpMOWJNeU9GR1ZRSmtEZG9JeHo4cHBLU3JRbEFVTHJPZVdrWnY4N29HX2xXazlqNjFSNEp6QjRvLTM3QXRwUlpvNnE1ZVZpUzBKOGVvOW42dXRpN2JGNVhlcTZ6emxkV09uTnJrb0NGbHNTQ3M1Snd1YlE2bNIBrgJBVV95cUxNNlZQWkdZcmc3bE90VnlXeW1lcXAyYUh4WklINmItb2pXczcyZW9lSDNCaDVlcVkzeFRXaDN1N2E1dkxiSHBSTVpCdGU5MUI4d2piNXNOVFAzS0NJRWZLbkxKNVQ5OEdCcUFnU2pITjVtQlVaWlJIbmVpaWVRSGY5VWw0akg0M2ZzRjBuTVo0RXgwMERQel9faTU3MjdMSG9sVHY3d3FTN3h0SENuaUZXMHRFck1Gd0JnMm05eDA1aG1Wa3RZQ3BoajMxZE1wZ2Fqb0VDaHM0Q1hVYTJnVFNQRUhFVkJiQU45MlhqT0JTdkxzWkRLbUI1T3B5TFRadTlidEdOakszekpwQkZjWS1OS1JPSlE5X2VDeHNGbnVFMktRVkRraVV2SkZKd0JzUQ?oc=5",
@@ -371,58 +419,10 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Deputy Ag Accused Of Creating And Sharing Child Sexual Abuse Material - News12 | New Jersey",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUszZFJxVzV3VDRRdlhoUDhaVUdicHc5RUZhd0N5Mm1yR2hKSTQ4X2dFME5iNUVhZXhFUEstTExINS1IbnZBUk9ENl9YZWt4OUxvcHhhbEJrMnp1QUp0bFc3d0MwaEQtbTNfeS1USy1BcWhDblRkaEUxb2RUVGFYd1lfZjI4cWJJdkpmSDNGbzlJNnV4bkNtNUV1Y3VRY0k?oc=5",
+          "title": "‘Create national database of child abuse material’: SC directs Centre to use technology to remove such cont... - Bhaskar English",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjVyUzcwOWN4QWpoem03ZURJbUVreWFwNWkwQWEwYUd1ZGx4eHBhNFdXSmoxR2FseTZHMTBwN21SUEpNSkhvZmk0aG9jeHpac0JiNkxhZm04bXJFMGRSTU9tMndwYVllOVFYcExlTFJpc05UNUw4dFNoOG1OdHNoY1k3QlJMT0YwQ3BNbFB0WldjOVlQVkdXU0ljSlRTZ0xES1V1c1M4dC15MFJTazdHZHRmdmlRdHYtOXJYStIBwgFBVV95cUxPS1FtdVN4THpBM1JDOTBreU0zQ1I5dG1ja20yd0t1U1FMWFNfNlJEaXRkYjAyUTVOd2w4SEFLb3B2N1N6OGh3dlNZMjBuRENlaWtLUjFPRmYwMk03UHpHR3lwNmd2WnZIZF93dzYxQ3JaRTQ5ZG8yWGFTVzRhaVFBblVuOFFUM2Qxd2NJSE9NOEdQeWtSTEFqMkt1UTNyLUlyNW9WcDluRzBfcEloRXlPbTZkQlpweTZKamdOM19BZS1qZw?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-16T19:06:03.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "International operation leads to 95 arrests in child sexual abuse material distribution case - SC Media",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEh6YjZ6a1VXUHpwNndhS1JkanlnbDVkSkpsNEMtZEQ5UXJzWTVwZWgwa1NaOGR2OHpQak4tUzZnUTJUVWNVLUllcHBfM0FXNzgxM3hWaVVicTRvU18yTzlIVG5Bc2lXQTd2OGdoeEJtV3NDV21EQTg4d0VoSWVTRU1vMGJkdTJfRmVhdjIxUEVZZTYxUHNHMzBseEY0eTd4TS1yWF81NHZqWVpkcndFRG9td3Y1ZmRBODV4WGMwdw?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-16T15:26:18.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Deputy Ag Accused Of Creating And Sharing Child Sexual Abuse Material - News12 | Brooklyn",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWRPS0JabUZDSkpGem93eVl2VXZnZUdCOWdrMG1WLTFLa3hYWFA5TTVyTldHNjE0QVp0aXZPek9ubzl1dTB4eWlIeWI3YVB5clAxSE1iaFZzUlJzSXRadXRfY2hRYzlIVndzbEtfdGg0Rl9VekJlLWJQanN4czZrTXh0cW9YRUo4TlVUVURDNlAyT05FeVpna01KZ3dVdw?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-16T12:54:10.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Interpol Arrests 95 In Child Abuse Material Crackdown - Menafn",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlVBTHU5aHc4Tjd1YVBPckkzbEpvY01vUGpjbFBHeEZLRG1wX2dzSW54REU3TGNaUTNFTHdnb0oxVjVadW5nc2N4VE9OUkVfdWU4OTdWSnpGVm5ISlVyRU9vazlYZUY4OTRlc0VWeHdFTWJiUTR5bGRTTWVldjk4ellleTNrX0c5QVZj?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-16T06:32:32.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Omaha man sentenced to 25 years for distributing child sexual abuse material - Metro News Channel Nebraska",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNExaMmFiZWVkOTFRODNBWVZlNm5OZEpwbm9iTG0xWnduVHkxVUpyQTgyQXhzemNzdE44MXRJaEgwbFhsdUVpa0RyODV4UmNmVUFJT1VuZjFhOG10UkRuSEVaUWRjR285TDFPa1djU1p3OExXZ1pidnNuT1FZVE5GTlM4bV9TMUhnRVRpRGdibjBqMnJiYm95bVhDTUVpSmZXMy05V3h2eWNqNmtJdUpXblJoOHNfYi1xUjRnUFdRQ3h2WTJsZmYySHJR?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-15T23:07:16.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Belleville Man Sentenced to 19 Years for Reproducing Child Sexual Abuse Material - RiverBender.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdmJHTURjZ1JOS0xXX0NfVUlobDNFSjAzNTlPbGVqUEZIS2tDeXRZRWVNWEhqcmdZOWVLeHlhcHBaMWVXZkpqNDg4YUZjRExMcmlzQ0wycVBFdTh2UG5JdnZuc3M2V0xMZU42UEZyWTBmWUpGNEVHTFE0NUdnSEowNGhUbTh4UlZCX2VobnpEWVVYWjdMQmR1TXlUNUVhRlVsNEhjRlpPeFhuRFBRN3JuVzlvcVpHS2VxdnU2alB4dk5yblF3NFNaaHdoUQ?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-15T21:50:09.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Take child sexual abuse material circulation on social media seriously, SC tells Centre - Social News XYZ",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXFGMXFybEdNdDFFTTlqQ2Y2TVBJUFRFRzd0TXBJYWpGNVJUdkI2YV8wZ19zNEgxVVNyU1U5bC1EMHVMemI4TXNROXB2QXo5NzV6eVBiWHh0VUlFeFhpekpGLTB2alJ1dHV4NHRuUWJjcHNJTGRxQ2NJWENXalBCMk9sR3ZaWVlUZHY1d25WelU4U1NVZDNMczJiMkczd012aUd5NGdtdU9RMHlfM3hMYmdUVlJNV0thWTg4OG1LN0ZMWEHSAcMBQVVfeXFMTXVxRjFxcmxHTXQxRU05akNmNk1QSVBURUc3dE1wSWFqRjVSVHZCNmFfMGdfczRIMVVTclNVOWwtRDB1THpiOE1zUTlwdkF6OTc1enlQYlh4dFVJRXhYaXpKRi0wdmpSdXR1eDR0blFiY3BzSUxkcUNjSVhDV2pQQjJPbEd2WllZVGR2NXduVnpVOFNTVWQzTHMyYjJHM3dNdmlHeTRnbXVPUTB5XzN4TGJnVFZSTVdLYVk4ODhtSzdGTFhB?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-15T19:02:53.000Z",
+          "publishedAt": "2026-10-17T07:47:07.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         }
@@ -431,12 +431,12 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 19,
+      "totalArticles": 21,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 48,
-      "reason": "Last 3 days averaged 3.3/day vs 2.3/day before.",
+      "changePercent": 78,
+      "reason": "Last 3 days averaged 4.0/day vs 2.3/day before.",
       "daily": [
         {
           "date": "2026-10-11",
@@ -464,10 +464,26 @@
         },
         {
           "date": "2026-10-17",
-          "count": 1
+          "count": 3
         }
       ],
       "topArticles": [
+        {
+          "title": "Children Must Be Taught About Safe & Unsafe Touch, Train Teachers To Identify Grooming & Abuse : Supreme... - Live Law",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR2FWYktsOXFTQk1HQVpINk1hNktnX19sZUVRWDBnY3Q2S1M1RGtWVS13Y0hDSkdvSnh1SllWbWNnb3UyTWc2a2tBVDFFV3lOS0h2U21NYlloZEoxQV9XaFFHVnI4d3ppcGVFTk54blB3dHdXcWtkN1ptMkUtRXItLVNiMWY4cF9aaUo2aEZJLURENGFoSF85NG9NZUtHMWRSOGdKR0ZPSWh1b1NvYXlnNUFXS3UwcHFiS202MzE5TUFMbTRGQTZmSnE4YmxLX2tEV292VklTNGZRTU5kMDZrMHZNd9IB4wFBVV95cUxPR2FWYktsOXFTQk1HQVpINk1hNktnX19sZUVRWDBnY3Q2S1M1RGtWVS13Y0hDSkdvSnh1SllWbWNnb3UyTWc2a2tBVDFFV3lOS0h2U21NYlloZEoxQV9XaFFHVnI4d3ppcGVFTk54blB3dHdXcWtkN1ptMkUtRXItLVNiMWY4cF9aaUo2aEZJLURENGFoSF85NG9NZUtHMWRSOGdKR0ZPSWh1b1NvYXlnNUFXS3UwcHFiS202MzE5TUFMbTRGQTZmSnE4YmxLX2tEV292VklTNGZRTU5kMDZrMHZNdw?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-10-17T14:05:42.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Valeed Anjum | Snapchat & Roblox Child Sexual Exploitation - Andreozzi + Foote",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2lqY2dKc0ZjX2E1ZzJIX0lDSzlwbmkxM1JrQVp5NG1LTkRMTzhsaDc4WVBkQl9maGk5dmtiRXNhVGNnUlF6N2VwVG93dWZPU2cxQlh0TFd1YlFiSFlxcjJ4VjJndC1BNEMwUXFwX1BBWXBNODJmblQ4UTdOd1lvMkx3QXUweDB4b0gxaS1UU0VidlZzc2V1Nm90cTF3TGpKWU96cXVfMmJWQQ?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-10-17T13:55:05.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
         {
           "title": "Supreme Court directs centre to set up comprehensive national database for removal of child sexual exploitation and abuse material from internet - Revoi.in",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdklHX0tZSmdsYklFblcyX3Uydk1NRVhnR2pwOUZXTXJGQnIxVzdXYlhZSWdTb2hkejVvd09aeVpILUpYZ2kxOVFMYzV1SXBEeEtoU0pJZlZOQjdDMlQ3VkcyQ0RkS19pb19PckUxcGxvczJheEJzR1hhSlZ5dTF5M0NWNWNDWU51ZVAyamFHSVlUaWZodGd4NFBBQnJHYmhiNEdINFgyc3Y2bFM2MUZWMUpTNEd4ZjR5NjhLcFhXSUJmeC1XZzNUSTQyTVFza2dmY3FhbHA5WVZ4X01FZGViOExlNEhFVzBpcWY4OEw4VUFpNURPMkNvUDRRV2FGQlk?oc=5",
@@ -515,34 +531,18 @@
           "publishedAt": "2026-10-15T19:05:00.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Electronics seized, charges laid in child exploitation investigation - CTV News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenh0U2k1NnczM1RaalVVTDFsamdjNnI2TUNHYTAxNEwwNjNiWTlpd2UwOFAxaFZKd2RUMEtOMUQ4R2JZQzBQU3dsVVNMTTNpcG5mY3NNNjBMbGxwVC1fT3pMaGlyN2ZNbzU1Z196TEwtakVpUjNrQWluZldyZzdkTDBPNVkzZmVYQkVGVS1LNGNSbmVfd29rdWU0SXEyNEpaTzFXeVVxbzRodw?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-15T18:56:46.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Barrie man faces charges in child exploitation investigation - Barrie Police",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeFdxbnQwaUFKNy16VHJWcEJ4dUhKb19wTzQ1Skszd2FPcHFYZzNQbGYweW5pZzE5MV94NGYzSEwwbURMcDNjVGhhWl9XUF9iUTNjLXN2elJoWDhEYmxyZThqOE9iZnR5XzctblctUUxod1ZIalVBbkc3eHZsdkhJLVhVblp1SWpWMU5vUzU2d20ybGRvWVE?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-15T18:15:36.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 12,
+      "totalArticles": 13,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 300,
-      "reason": "Last 3 days averaged 3.0/day vs 0.8/day before.",
+      "changePercent": 344,
+      "reason": "Last 3 days averaged 3.3/day vs 0.8/day before.",
       "daily": [
         {
           "date": "2026-10-11",
@@ -570,13 +570,21 @@
         },
         {
           "date": "2026-10-17",
-          "count": 5
+          "count": 6
         }
       ],
       "topArticles": [
         {
           "title": "US India Caucus co-chairs condemn alleged Hindu temple attack plot, demand probe as 'potential hate crime' - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ1ltS04xUTZRVjlNRE9KYlZEcXRKcEFDaFlFLW15YmJoQmtsTE5UeDdUTlV1M3UzZmY4a0xnUUF5WlVOUW5VdXdKNEt5SEszWWxJQ05qVWprdkVtTGVacjhiaktpbVAtYmYwazVLMDBaY1lxTHB4dGZrTjdSVW83N3M5VkRMUmFHbTcwQk81c0JQSUlUeDNqTnIwWUd6Z1BLd0tCbm93UDJtckJURXJmZmN2LXcyaWpKZWVUWGtoV0ttRHFkajlRODFNVDA4X0VJTmVSTEl0M3FNQnpRRVpvMlRnanBLV2E0MlUtNFhNcDk1T254X01ydWJ3VUVaa0s1M25rQ2RYdw?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-17T04:20:39.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "US India Caucus co-chairs condemn alleged Hindu temple attack plot, demand probe as 'potential hate crime' - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ1ltS04xUTZRVjlNRE9KYlZEcXRKcEFDaFlFLW15YmJoQmtsTE5UeDdUTlV1M3UzZmY4a0xnUUF5WlVOUW5VdXdKNEt5SEszWWxJQ05qVWprdkVtTGVacjhiaktpbVAtYmYwazVLMDBaY1lxTHB4dGZrTjdSVW83N3M5VkRMUmFHbTcwQk81c0JQSUlUeDNqTnIwWUd6Z1BLd0tCbm93UDJtckJURXJmZmN2LXcyaWpKZWVUWGtoV0ttRHFkajlRODFNVDA4X0VJTmVSTEl0M3FNQnpRRVpvMlRnanBLV2E0MlUtNFhNcDk1T254X01ydWJ3VUVaa0s1M25rQ2RYd9IBjAJBVV95cUxNSHlReEVTVmROc09VTEVOZnhERndhM0h0YzZsUndlVE11amhZbDRPZFJDV0FXVnJVS0xraFJQQnpEZjlpNS14YmZ2Vks0REd0eEYzOElSdkRsaW81bk5KS3J3OGV1QVFtMGE2Y0dUMVk0MDFubXF3LThMTmhpc0p1RkVHTTFzd2h5ZnFvdGVTT3lZa0RqYjZSZE8wdEUyT3BLQkhIckxaeFdxRmd5bktwYVpZWFFtTEFCb1lFRS1VR01kVVpUenJ6d0h6SUlPYnFRUlZwcUpDZUpfQ0c3d1lxTWIzbUU3MU9DTzZnNzdEemtQcEpRdkxrQ21weEtoc2lNRlRmMVVvd3JST1Fa?oc=5",
           "source": "Google News • Online Hate (India)",
           "publishedAt": "2026-10-17T04:20:39.000Z",
           "riskScore": 44,
@@ -627,14 +635,6 @@
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2NIcmxoSDFDdV9Tdk1pTS1LNVVaalNuT2xHU0RWU0pUNk5WUHhtRWM2VEJzcHBBSTRNX052VnpkRGlIN0JBc2tmdXJKRkNINFZtX2JYelFLWGo3Q0Zza2NkVXRmMF9wRkE1V2I2c1AyQ19LeGxhd0tDQTRZZllFUDJHUXZON0QtZXphRUFWa1Zvd3NJV0NKSVNfcldTWE1rZk10ejZGUjBfeDM2OGxBcXgyWHE3VUEzc01KYkh2LWdTS0NJR3JFNGZkcUViQTkzcTRSR3lfRGxMbF81dlZUUFMxUWY?oc=5",
           "source": "Google News • Online Hate (India)",
           "publishedAt": "2026-10-16T14:22:42.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Manifesto of Aurora Hindu temple Neo-Nazi shooter described Indians as ‘subhumans’: How hate speech by White supremacists and Indian leftists is putting Hindus and their temples under target in the US - OpIndia",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQd2NWLW92WElFQmJhVFd1dHd1SEo0bUprN1NuY2lxTm9hQzZHTUpTY3pITDIxcDNYakF5SG5Edm85bDZiUG5IRFJSa0JELTQ3YnV1akYyRUhwMmgwY29ndE1HYjNTSW5JekRoUmlsdlgtTGdBN2FuU3BJWElzNXZnTms3NWVHX1FEMDBodnNvQW5xX2htbklkb1Y0R0M2a0lHQzFYZkRNVWN5MDVlXzVFMkYwOTRUNXY4bFlYeFktM1Y3U0xhMGZ1VHpQempkX3pwWDZCRzRCaU9YdHVGTmFzcjhNRGd5cXJkcTJVMUZyX054S1hXU2NjTVFZTm5hR0oteFRuVXBheWVwSHBpQ1lubF8tN25EZw?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-15T08:11:17.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
