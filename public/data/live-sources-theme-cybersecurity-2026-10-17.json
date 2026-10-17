@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T04:45:44.190Z",
+  "generatedAt": "2026-10-17T11:01:52.490Z",
   "snapshot": true,
   "date": "2026-10-17",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -208,6 +208,36 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity in Singapore: How AI Is Changing Data Protection and Business Risk - businessnewsthisweek.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ0c2UWdGajNDb3FIdkFPdl9QSVV0cHU0czZMaVBhdkJpYkdfbnVsMWIxOTYycmp0WTBRT19kNmE5NkJyOTRfdzJMNTV1Rk5TWVlXVU80NE1HVWtDZVlXYUdsUl9XN1NtZUpZaERGZGtpeXVJY09kRXAteEFxVDVZQ1ZkRk96Y1NjOTYwU1l2LVQ4M0NFejZaVHV1VkpUTi02alNaTzJSMTdWQUdtc0JncUZwSS1GcnRUT2ZEazF5YlVvUQ?oc=5",
+      "snippet": "Cybersecurity in Singapore: How AI Is Changing Data Protection and Business Risk businessnewsthisweek.com",
+      "publishedAt": "2026-10-17T07:13:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CT Medical Data Breach Hits 62,871, Costs $2.7M [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PcUIyS3lyb0RyN1A5SEtVZ3FFOGtvQ2NvbHgySFpCRW1sLWs1NVNOdGs0cVRNX0tIcy16b0lKRkVSRi1RUldzWXFPN21waXlEVms1aGtPRU9XYVpGLXFVSTVWTURJdE5RMzkzd3FBOFhVVWFL?oc=5",
+      "snippet": "CT Medical Data Breach Hits 62,871, Costs $2.7M [2026] shattered.io",
+      "publishedAt": "2026-10-17T00:29:35.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }
