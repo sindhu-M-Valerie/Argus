@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T15:51:47.532Z",
+  "generatedAt": "2026-10-17T20:51:09.145Z",
   "windowDays": 7,
-  "endDate": "2026-10-17",
+  "endDate": "2026-10-18",
   "collectedDays": 7,
   "data": [
     {
@@ -10,14 +10,10 @@
       "totalArticles": 82,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 62,
-      "reason": "Last 3 days averaged 15.0/day vs 9.3/day before.",
+      "trend": "Falling",
+      "changePercent": -57,
+      "reason": "Last 3 days averaged 6.7/day vs 15.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 1
-        },
         {
           "date": "2026-10-12",
           "count": 8
@@ -40,7 +36,11 @@
         },
         {
           "date": "2026-10-17",
-          "count": 7
+          "count": 8
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -48,7 +48,7 @@
           "title": "'Meet Kemi': Scammers Impersonate Popular YouTubers Until Nano Baiter Hijacks Webcam, Exposes Them - FIJ NG",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFpZMlhNdElHbFVoRk8waThNU2N1R3dUa0RyaDZDMUswaUJLZ2UxMGRyOTh2SzRYNFByZVJfbTV3M0V2QnotdGhxOGNPcnRRbFFuZ1E1aFV3a2FJMHQ2T0d5MjU0SFh6NlJUTWxPaS1Dc05GTEpGcWZHZUdjNTh3dHZNVFc2MmdGSUItR3hLa1g1QjdrbjZ2ZG1hMUJ0M3dYeTRvR3VYNENiZjdabU9nNUFMeVFLc0xheFE?oc=5",
           "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-17T12:57:10.000Z",
+          "publishedAt": "2026-10-17T13:00:54.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         },
@@ -66,6 +66,14 @@
           "source": "Google News • Fraud and Impersonation",
           "publishedAt": "2026-10-12T05:25:00.000Z",
           "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "US Man Loses Rs 4.7 Crore In 'Pig Butchering' Scam Twice, Falls For Fraudsters Posing As Women - NDTV",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQenJlcWZhbFU5Z0F0djFMX1F3MzlWbGtuSUs0NDBUcC05cW1vVmViUWxMMll6Sy1oSGZNejdPS0tZeFAyNjUwckdxVEdZOGE1SmpwR015UWNIeTQ0Y3d2Zy1GM24xS0lFWEtCY1ZjTktsUkhwU2ZLcGR4aWs1ZmtwcTdKOFFLTHJRaDU4bEprUDlnclE3b0JQN2tDUkVRaE5SX3c2TGFzWFUzMkFTSDctNEprNlE0M3h6T0xobkRDMzdsRmJ0c0l6c2x0blnSAdQBQVVfeXFMTXpQNWs3MWtlRlR3TDV3Rm85M0RkNFRUXzVXWDQyYTRGOGlSTW91djhIRzV0N0hvbV9hRGpobXIzbkdMVFJ3anRrdy14dGZlME1SWjk3MEFYbDJ3YUowaVJmei1Xai1Mb1pjX0h1cXFncVZXbGIxcjJTS2hLLVdOWDhUX1ZIaGRvSnM2cmhOWmo5ZklXYmZ5UnY1a3l5ZFpJZWNnNWt4alBuaXNoUjR4SEZqUHB6UFdIdEhpd1UyRnBOSjJJdmNScG1BVlZMbllzcTNxU20?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-17T13:50:37.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -99,31 +107,19 @@
           "publishedAt": "2026-10-15T15:19:00.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Iron Man Phishing-as-a-Service Kit Impersonates Banks, Couriers and Government Agencies Worldwide - GBHackers News",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzRUNmTkJEcS10aTdaUXFWQjBiamg3SUQxLXhKbV9TRi1DN09sYzVYcENSVVlxZnVSUzJoUV9HRlVWQ1RrUUs2c2t1T2xVZ3VMT3dLSEtueGxZUlVIUFZNSkt1Z9IBaEFVX3lxTFBwU3c1a05nTUtlcXdWNERNNUZfbms2dEtlVm5zVmtQNl96SHdrSjRBYkRhWG5xd2UxWE83VUxRZXphT0JmV3lqdmRpVUJGTTlOcnFva25QU1lvVUxrOHpCdFFvZ181MWx2?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-15T11:05:37.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 80,
-      "distinctSources": 4,
+      "totalArticles": 72,
+      "distinctSources": 3,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 21,
-      "reason": "Last 3 days averaged 12.7/day vs 10.5/day before.",
+      "trend": "Falling",
+      "changePercent": -25,
+      "reason": "Last 3 days averaged 8.7/day vs 11.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 8
-        },
         {
           "date": "2026-10-12",
           "count": 5
@@ -147,6 +143,10 @@
         {
           "date": "2026-10-17",
           "count": 8
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -222,14 +222,10 @@
       "totalArticles": 44,
       "distinctSources": 1,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 11,
-      "reason": "Last 3 days averaged 6.7/day vs 6.0/day before.",
+      "trend": "Falling",
+      "changePercent": -24,
+      "reason": "Last 3 days averaged 5.3/day vs 7.0/day before.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
         {
           "date": "2026-10-12",
           "count": 11
@@ -253,6 +249,10 @@
         {
           "date": "2026-10-17",
           "count": 6
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -325,17 +325,13 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 43,
+      "totalArticles": 41,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 483,
-      "reason": "Last 3 days averaged 11.7/day vs 2.0/day before.",
+      "changePercent": 88,
+      "reason": "Last 3 days averaged 8.0/day vs 4.3/day before.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 2
-        },
         {
           "date": "2026-10-12",
           "count": 1
@@ -359,6 +355,10 @@
         {
           "date": "2026-10-17",
           "count": 13
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -431,17 +431,13 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 21,
+      "totalArticles": 20,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 78,
-      "reason": "Last 3 days averaged 4.0/day vs 2.3/day before.",
+      "trend": "Stable",
+      "changePercent": 9,
+      "reason": "Last 3 days averaged 3.0/day vs 2.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 1
-        },
         {
           "date": "2026-10-12",
           "count": 2
@@ -465,6 +461,10 @@
         {
           "date": "2026-10-17",
           "count": 3
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -537,17 +537,13 @@
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 13,
-      "distinctSources": 3,
+      "totalArticles": 14,
+      "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 344,
-      "reason": "Last 3 days averaged 3.3/day vs 0.8/day before.",
+      "changePercent": 389,
+      "reason": "Last 3 days averaged 3.7/day vs 0.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 2
-        },
         {
           "date": "2026-10-12",
           "count": 0
@@ -570,10 +566,30 @@
         },
         {
           "date": "2026-10-17",
-          "count": 6
+          "count": 9
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "US India Caucus seeks federal hate crime probe into Aurora temple plot - Social News XYZ",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFZKMVBIRW9Gc3VRSkl5am1WYk5oUTZueFgwaUFxZ3hGRVB0bFBqbFEtVFQ5RTBHeVEwRVJnbG0yazNGUHZhTGJrbnMwaHB0Q2NVanFLamtEM2ZPV01IeVI1TmRIdy10em15Z3ZOak9EWDQzYUctX2wxYVhXb3Q4b3ZhVW1mMjZvMXpSY3hNdV9jYmVoSnA0YWp4MXNWbFpad05DV1dHdWZqSlRfd3fSAa4BQVVfeXFMTThWSjFQSEVvRnN1UUpJeWptVmJOaFE2bnhYMGlBcWd4RkVQdGxQamxRLVRUOUUwR3lRMEVSZ2xtMmszRlB2YUxia25zMGhwdENjVWpxS2prRDNmT1dNSHlSNU5kSHctdHpteWd2TmpPRFg0M2FHLV9sMWFYV290OG92YVVtZjI2bzF6UmN4TXVfY2JlaEpwNGFqeDFzVmxaWndOQ1dXR3VmakpUX3d3?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-17T13:46:07.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Illinois Hindu Temple Attack Plot: Indian-origin US lawmakers condemn hate crime; Urge FBI probe & safety of community - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLUgyRlY2M1pyT3pVQkpzcFVLdDAySk9YUTBfV2FhOTJYbU5rYzc5YmpQLWY1YlB2djJiUm5lNzdIU2oyQlNjbTFmUXJ4UWYzajc2QndWbzcwUno0c1VKSElGUVNSX3ktM2hKYlh1OU1LZWFQR0M4bEFCNkd6QVgwQjktRlJVN19YdDc3WXBPdU5VcGlacDRMaVlpQ2lMMnlZZnVlbmFxNVZ5YlpNQi0tR3Zka3padGsxN3pmS0VRUG5qVGNteU02dVhOR1lCbFhONzcybC1BS3Viam9TUGhaek5yVzlIQzdSY0tmODNXNi1iNmPSAfgBQVVfeXFMTjR1SXc2dlA4YWdfbUVoVnlibGtFenBlWi1tVmJYVmw1bUVfTzZIbzBjeEdBWm1wN3FJcUp4cmtvSzhHMkVVRThJUkQyVEtoT1ptcnBfd1lPN2d4VFQ5bUdvd2pQY01TVkU1TnhRUGYyQUt1TnczU25ISzdReXUyMEw2ZDlWc2NMZmZnenktNWhfTG9ublBTRmRwSGVTNVN0ajRsWDJYY2JfamxRVV9nZHBqR29jVERUUVZTbzB0amcwX2NEdFlMWDZRU0lwZi1yYkoweVZOS2JndG9CVnZ5UmJoaXRtSENpU3VNblNfWFpPYVE0bFppRV8?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-17T10:34:55.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
         {
           "title": "US India Caucus co-chairs condemn alleged Hindu temple attack plot, demand probe as 'potential hate crime' - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ1ltS04xUTZRVjlNRE9KYlZEcXRKcEFDaFlFLW15YmJoQmtsTE5UeDdUTlV1M3UzZmY4a0xnUUF5WlVOUW5VdXdKNEt5SEszWWxJQ05qVWprdkVtTGVacjhiaktpbVAtYmYwazVLMDBaY1lxTHB4dGZrTjdSVW83N3M5VkRMUmFHbTcwQk81c0JQSUlUeDNqTnIwWUd6Z1BLd0tCbm93UDJtckJURXJmZmN2LXcyaWpKZWVUWGtoV0ttRHFkajlRODFNVDA4X0VJTmVSTEl0M3FNQnpRRVpvMlRnanBLV2E0MlUtNFhNcDk1T254X01ydWJ3VUVaa0s1M25rQ2RYdw?oc=5",
@@ -615,27 +631,117 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Hindu temple hate crime probe sought by US House India Caucus over Illinois shooting plot - Goodreturns",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXlyY293cTJxWm9WR2pQQllZeDNLVXhpVmZkWXFDNll5NlNoVWM4VFRCazhGUTE3WjFTSzI3dThTb2NyUjkwWmxkQjhmQWNuRVZwWDZZQUtkTXFtX3JFcWl2VVg5R1VxNUpKOTd0Um5wYzZOQW5rRG9CWHRfRjF0RXdoR20tX21oTk1GNExCS25McHdwTUYzRUhaOEJkbmRuVl9Jc2ZUbWs5VWxGNHhWRQ?oc=5",
+          "title": "US India Caucus urges FBI, DOJ to probe Illinois Hindu temple attack plot as federal hate crime - Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWnpjSGdVTmxJZEtkX2JXSy1rQlFDNHFWSjg4ZHd0Ymk5cjJjQ3VsNm0yRDduMm5NZFYwc3ViWU50TkZ5aThoRHp2cUtwckhaS2hFeGRneGRXb0ZjMWVBTl9UMEFnU2ZuNndlb3c2SDZDU0NPLXh3U0VyeTA2SWhEU1hHdnl1WkotS2FURmdETDBxd0dpbUtlY2pkXzdxZ0d2eHgyM0FqWEJwOHV1WlNtWWRSbDlPcE4td21hU3ZURUM4aU5uYjk3QklTOWcwUy1QRkwyM09pVEJCWDZ4WEphdU5TQXdEUzVkRTNWT2VxWmN2UdIB8gFBVV95cUxPWnpjSGdVTmxJZEtkX2JXSy1rQlFDNHFWSjg4ZHd0Ymk5cjJjQ3VsNm0yRDduMm5NZFYwc3ViWU50TkZ5aThoRHp2cUtwckhaS2hFeGRneGRXb0ZjMWVBTl9UMEFnU2ZuNndlb3c2SDZDU0NPLXh3U0VyeTA2SWhEU1hHdnl1WkotS2FURmdETDBxd0dpbUtlY2pkXzdxZ0d2eHgyM0FqWEJwOHV1WlNtWWRSbDlPcE4td21hU3ZURUM4aU5uYjk3QklTOWcwUy1QRkwyM09pVEJCWDZ4WEphdU5TQXdEUzVkRTNWT2VxWmN2UQ?oc=5",
           "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-16T19:51:02.000Z",
+          "publishedAt": "2026-10-16T20:18:13.000Z",
           "riskScore": 44,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "human-trafficking",
+      "label": "Human Trafficking",
+      "totalArticles": 10,
+      "distinctSources": 3,
+      "highRiskArticles": 0,
+      "trend": "Stable",
+      "changePercent": -11,
+      "reason": "Last 3 days averaged 1.3/day vs 1.5/day before.",
+      "daily": [
+        {
+          "date": "2026-10-12",
+          "count": 1
+        },
+        {
+          "date": "2026-10-13",
+          "count": 1
+        },
+        {
+          "date": "2026-10-14",
+          "count": 2
+        },
+        {
+          "date": "2026-10-15",
+          "count": 2
+        },
+        {
+          "date": "2026-10-16",
+          "count": 3
+        },
+        {
+          "date": "2026-10-17",
+          "count": 1
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "DOJ eliminates 3.7 million fraudulent social media accounts, rescues more than 100 human trafficking victims in West Africa operation - Heartlander News",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZDRsX1dIYW92Y2NHUEhkbTcwbGFNN3lVSGh6MnVNWURvRWhTOWU1eWJsSHpIbG5zRGg3MzZlYWZyVXo5NFlDOEF1V3JvM0loY3hqdUJ1QzR0NEZJYXI3Yml6b2F4NXBrSWlSakJFaDMtQzNZc0J2XzVjcmsxMmhCZjR4X2s0RVU5VGgtckNfdkV3Znlpdmg2VjZJZ0lVUElDVG9pUzFVd3UwUXIwMHJEY1ZkLVJqUXV2QUJKSjJPbEMyUWVRT1NYRWVnSExUZC1uQVRfWDQ5NEY4QTZlejhhY3hIX0stVG9QN1k2VFFoaDdlSVU?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-16T20:59:48.000Z",
+          "riskScore": 60,
           "corroboratedBy": 1
         },
         {
-          "title": "Pakistan condemns Indian defence minister's remarks threatening military aggression - The Express Tribune",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2NWR01OVVdJQV81cmFBVFVqMWwyNlJjaVRORk1EUnVHZ0tXTmZ1T29EOGkxRllmLTVKTHNxVVN4NnF0MGdfRFlSeFNBQlpmcHBaazhqaUc2Yk1nUTJSWk1WeUJCUXZqaWgwRktha0NfdzRzRWtTUnhWYlRpSmxqV2VzcGFqU3RqTkptNVFKczhRU3dCX0ZDdEdscHhnQUR5cW4xSHFPRG1sa2xUSHpCT1JSRENKdXV1VFpN?oc=5",
+          "title": "West African scam compounds raided, more than 100 suspected trafficking victims ‘rescued’ - The Record from Recorded Future News",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00Ymdxcy1Yd2xVd2tRNGVneTlqajNEQW13WG4tWXc0ZTg2cUpRbGNybDB6ekNHTTdnWkt6TGtYT1J6WVZCVG5HeU92QWYxcGo5WmIwTzVPS3BRYmpicHgzbDd3T1FOa0I1THozV1BrTFA?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-13T16:16:58.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "20 Bangladeshis trafficked to Russia killed in invasion of Ukraine: SRB - The Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRBbEF0TzhDa25ibTk4TTNDb0lVWlg1M2lGNHp3dE5EWDltWU0taVI3UXNTN0hzZjRJMmNXVXBxWEpUS3I3V2VoN0lSdEZ4ek1rbjdfU1NiYXZzZjBaTkFKQlh3VmFRUlY2enh3dEFDeU92cWNyUWUwYkloU0I5NDQwanBPRTBHYjRPbWIxUEt2ejUxd3ZnR0ZYODd2V00tYnlHY0VGVFJENnFS?oc=5",
           "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-16T15:05:49.000Z",
-          "riskScore": 44,
+          "publishedAt": "2026-10-16T16:44:01.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
-          "title": "Illinois Hindu temple shooting plot: MEA flags rising hate crimes and racial discrimination against Indians - Mid-Day",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2NIcmxoSDFDdV9Tdk1pTS1LNVVaalNuT2xHU0RWU0pUNk5WUHhtRWM2VEJzcHBBSTRNX052VnpkRGlIN0JBc2tmdXJKRkNINFZtX2JYelFLWGo3Q0Zza2NkVXRmMF9wRkE1V2I2c1AyQ19LeGxhd0tDQTRZZllFUDJHUXZON0QtZXphRUFWa1Zvd3NJV0NKSVNfcldTWE1rZk10ejZGUjBfeDM2OGxBcXgyWHE3VUEzc01KYkh2LWdTS0NJR3JFNGZkcUViQTkzcTRSR3lfRGxMbF81dlZUUFMxUWY?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-16T14:22:42.000Z",
-          "riskScore": 44,
+          "title": "NCRPO strengthens victim protection in anti-human trafficking operations By Christopher Lloyd Caliwan MANILA – The National Capital Region Police Office (NCRPO) said Friday it is strengthening measures to ensure the proper identification, protection, and - Facebook",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVpFb0d3ZUkxaHZ6bHVfWWotMWViZ3piNGI3NmdhTWJSRDNudUJkaFpid3Z6ZHdFYzhQVGl0Y2tNOWFkSkJPeGZkRDh6WkVNNDVPZkFlb21DVzItd294S2J1b29TMzZoM0NvZ0t6blVmcm9Nd0REVFhGRS14Y2pFSnA1WHhGMWN2NEdGT0ZsY0FmYWR6LXFkR2JudkRKMVNwcGhsb2d2WUUzVGpNWmZpeVo3RzJQN05tU2pFLUdzQ0dzeHlVTnhITjRtckRWSGw0QUN5Ng?oc=5",
+          "source": "Google News • Human Exploitation Abuse",
+          "publishedAt": "2026-10-16T06:38:51.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "The 2026 Trafficking in Persons Report (TIP) is out—here’s what you need to know - FreedomUnited",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DeWNfSjYzZ2VlNi0yYkJmSjYwWXcxSXhvN1htMUJaMFN5cUdDU2d4VXZ5WlZNdmVtNWNTV0tWTlBLYkdzWktrcW80aFlwcmtPYWtEMzZFZ21OVlJCT3dyc1p4dWZTOTNWVXdZMWpMeHBtc00?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-15T21:37:32.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Oyo govt intensifies campaign against human trafficking - Tribune Online",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQNXdXaE14WUhyQmdlcW9DMGlPZGo0d3VzVUhQMVRmMzlUV3REeTQ3Y0JoU2tPWHluejVPT0tIbFNPZGpQLTlQLUw2QU5BZWxmbk1lMHg0eTFYaTRFdkJHZFpIQURsU1lzSzVNWlpfUUF4VFJ0VWlSNXpsM25XS0RmU2UwVzNNNEFFbWlqMGtld2lfZzlveGRoX3MwaEtqYlFKakxQLUlfUGYwanlrQm5KdXNyMXBLN1Q3WnJqYjlGVUZDRHlPazNBT2VUNkI4RVkxb2c1Yy1ycy0yUl9nN1hJT0NoMlh3Tjg5amk5bkZiYTRrc0VkWWpzc0RkMHhwRnlYOTVKci1IQmNacmN2N0VUYkN1U1haTDFBMDhRMEhQS1ptaTAwbG9jM2paUUt6WFozY3NlU2VtSjZpQjBnX2hUYUxFQmdOWkdSUi16WVhDbDBlcWlZZ1dsbmx5eGgwaERL0gHgAkFVX3lxTFA1d1doTXhZSHJCZ2Vxb0MwaU9kajR3dXNVSFAxVGYzOVRXdER5NDdjQmhTa09YeW56NU9PS0hsU09kalAtOVAtTDZBTkFlbGZuTWUweDR5MVhpNEV2QkdkWkhBRGxTWXNLNU1aWl9RQXhUUnRVaVI1emwzbldLRGZTZTBXM000QUVtaWowa2V3aV9nOW94ZGhfczBoS2piUUpqTFAtSV9QZjBqeWtCbkp1c3IxcEs3VDdacmpiOUZVRkNEeU9rM0FPZVQ2QjhFWTFvZzVjLXJzLTJSX2c3WElPQ2gyWHdOODlqaTluRmJhNGtzRWRZanNzRGQweHBGeVg5NUpyLUhCY1pyY3Y3RVRiQ3VTWFpMMUEwOFEwSFBLWm1pMDBsb2MzalpRS3pYWjNjc2VTZW1KNmlCMGdfaFRhTEVCZ05aR1JSLXpZWENsMGVxaVlnV2xubHl4aDBoREs?oc=5",
+          "source": "Google News • Human Exploitation Abuse",
+          "publishedAt": "2026-10-15T07:21:15.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Oyo govt intensifies campaign against human trafficking - Tribune Online",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXJuMXdWNHFNenRZR2tiWkJsMnVNSjc0U3FlWmx1TVc3aW9IbFdNTlk0bmt4NHFnSEdZeTBMQXhBX0FlU2lYWDBuV29YNVo1ZDkzd1B6VV9Udk1EclZ2UWhLaTZlNGtGU2VQWUpQUUJxSFVJOGNVVlk4N2VCRTRsNHFGcTl5VGw5Ukwza9IBkgFBVV95cUxOZEtVVzk1REdBemxiTVpsbmYyY2lIWXU0TGpPczZBMTdQazJncWtsSk5DTWRlWVM3aWU3MDJFRXV3R2ZmdWt1MWJPV1N3dkl5TldYWW8tVnpNb0FsNXR0UGE3dHg1Y1BHSkd5dk5LQ2l5cmJQYTh3SnRCeU1QWGpHN1ZGV2FaSUpsYTlsMGMtOUhQZw?oc=5",
+          "source": "Google News • Human Exploitation Abuse",
+          "publishedAt": "2026-10-15T07:12:36.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "20 Bangladeshis trafficked to Russia killed in invasion of Ukraine: SRB - The Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRBbEF0TzhDa25ibTk4TTNDb0lVWlg1M2lGNHp3dE5EWDltWU0taVI3UXNTN0hzZjRJMmNXVXBxWEpUS3I3V2VoN0lSdEZ4ek1rbjdfU1NiYXZzZjBaTkFKQlh3VmFRUlY2enh3dEFDeU92cWNyUWUwYkloU0I5NDQwanBPRTBHYjRPbWIxUEt2ejUxd3ZnR0ZYODd2V00tYnlHY0VGVFJENnFS?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-14T13:27:27.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         }
       ]
@@ -643,17 +749,13 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 11,
+      "totalArticles": 9,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -70,
-      "reason": "Last 3 days averaged 0.7/day vs 2.3/day before.",
+      "changePercent": -83,
+      "reason": "Last 3 days averaged 0.3/day vs 2.0/day before.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 2
-        },
         {
           "date": "2026-10-12",
           "count": 1
@@ -676,6 +778,10 @@
         },
         {
           "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
           "count": 0
         }
       ],
@@ -747,223 +853,15 @@
       ]
     },
     {
-      "theme": "human-trafficking",
-      "label": "Human Trafficking",
-      "totalArticles": 10,
-      "distinctSources": 3,
-      "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 100,
-      "reason": "Last 3 days averaged 2.0/day vs 1.0/day before.",
-      "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
-        {
-          "date": "2026-10-12",
-          "count": 1
-        },
-        {
-          "date": "2026-10-13",
-          "count": 1
-        },
-        {
-          "date": "2026-10-14",
-          "count": 2
-        },
-        {
-          "date": "2026-10-15",
-          "count": 2
-        },
-        {
-          "date": "2026-10-16",
-          "count": 3
-        },
-        {
-          "date": "2026-10-17",
-          "count": 1
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "DOJ eliminates 3.7 million fraudulent social media accounts, rescues more than 100 human trafficking victims in West Africa operation - Heartlander News",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZDRsX1dIYW92Y2NHUEhkbTcwbGFNN3lVSGh6MnVNWURvRWhTOWU1eWJsSHpIbG5zRGg3MzZlYWZyVXo5NFlDOEF1V3JvM0loY3hqdUJ1QzR0NEZJYXI3Yml6b2F4NXBrSWlSakJFaDMtQzNZc0J2XzVjcmsxMmhCZjR4X2s0RVU5VGgtckNfdkV3Znlpdmg2VjZJZ0lVUElDVG9pUzFVd3UwUXIwMHJEY1ZkLVJqUXV2QUJKSjJPbEMyUWVRT1NYRWVnSExUZC1uQVRfWDQ5NEY4QTZlejhhY3hIX0stVG9QN1k2VFFoaDdlSVU?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-16T20:59:48.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "West African scam compounds raided, more than 100 suspected trafficking victims ‘rescued’ - The Record from Recorded Future News",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00Ymdxcy1Yd2xVd2tRNGVneTlqajNEQW13WG4tWXc0ZTg2cUpRbGNybDB6ekNHTTdnWkt6TGtYT1J6WVZCVG5HeU92QWYxcGo5WmIwTzVPS3BRYmpicHgzbDd3T1FOa0I1THozV1BrTFA?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-13T16:16:58.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "20 Bangladeshis trafficked to Russia killed in invasion of Ukraine: SRB - The Daily Star",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRBbEF0TzhDa25ibTk4TTNDb0lVWlg1M2lGNHp3dE5EWDltWU0taVI3UXNTN0hzZjRJMmNXVXBxWEpUS3I3V2VoN0lSdEZ4ek1rbjdfU1NiYXZzZjBaTkFKQlh3VmFRUlY2enh3dEFDeU92cWNyUWUwYkloU0I5NDQwanBPRTBHYjRPbWIxUEt2ejUxd3ZnR0ZYODd2V00tYnlHY0VGVFJENnFS?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-16T16:44:01.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "NCRPO strengthens victim protection in anti-human trafficking operations By Christopher Lloyd Caliwan MANILA – The National Capital Region Police Office (NCRPO) said Friday it is strengthening measures to ensure the proper identification, protection, and - Facebook",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUVpFb0d3ZUkxaHZ6bHVfWWotMWViZ3piNGI3NmdhTWJSRDNudUJkaFpid3Z6ZHdFYzhQVGl0Y2tNOWFkSkJPeGZkRDh6WkVNNDVPZkFlb21DVzItd294S2J1b29TMzZoM0NvZ0t6blVmcm9Nd0REVFhGRS14Y2pFSnA1WHhGMWN2NEdGT0ZsY0FmYWR6LXFkR2JudkRKMVNwcGhsb2d2WUUzVGpNWmZpeVo3RzJQN05tU2pFLUdzQ0dzeHlVTnhITjRtckRWSGw0QUN5Ng?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-10-16T06:38:51.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "The 2026 Trafficking in Persons Report (TIP) is out—here’s what you need to know - FreedomUnited",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DeWNfSjYzZ2VlNi0yYkJmSjYwWXcxSXhvN1htMUJaMFN5cUdDU2d4VXZ5WlZNdmVtNWNTV0tWTlBLYkdzWktrcW80aFlwcmtPYWtEMzZFZ21OVlJCT3dyc1p4dWZTOTNWVXdZMWpMeHBtc00?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-15T21:37:32.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Oyo govt intensifies campaign against human trafficking - Tribune Online",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQNXdXaE14WUhyQmdlcW9DMGlPZGo0d3VzVUhQMVRmMzlUV3REeTQ3Y0JoU2tPWHluejVPT0tIbFNPZGpQLTlQLUw2QU5BZWxmbk1lMHg0eTFYaTRFdkJHZFpIQURsU1lzSzVNWlpfUUF4VFJ0VWlSNXpsM25XS0RmU2UwVzNNNEFFbWlqMGtld2lfZzlveGRoX3MwaEtqYlFKakxQLUlfUGYwanlrQm5KdXNyMXBLN1Q3WnJqYjlGVUZDRHlPazNBT2VUNkI4RVkxb2c1Yy1ycy0yUl9nN1hJT0NoMlh3Tjg5amk5bkZiYTRrc0VkWWpzc0RkMHhwRnlYOTVKci1IQmNacmN2N0VUYkN1U1haTDFBMDhRMEhQS1ptaTAwbG9jM2paUUt6WFozY3NlU2VtSjZpQjBnX2hUYUxFQmdOWkdSUi16WVhDbDBlcWlZZ1dsbmx5eGgwaERL0gHgAkFVX3lxTFA1d1doTXhZSHJCZ2Vxb0MwaU9kajR3dXNVSFAxVGYzOVRXdER5NDdjQmhTa09YeW56NU9PS0hsU09kalAtOVAtTDZBTkFlbGZuTWUweDR5MVhpNEV2QkdkWkhBRGxTWXNLNU1aWl9RQXhUUnRVaVI1emwzbldLRGZTZTBXM000QUVtaWowa2V3aV9nOW94ZGhfczBoS2piUUpqTFAtSV9QZjBqeWtCbkp1c3IxcEs3VDdacmpiOUZVRkNEeU9rM0FPZVQ2QjhFWTFvZzVjLXJzLTJSX2c3WElPQ2gyWHdOODlqaTluRmJhNGtzRWRZanNzRGQweHBGeVg5NUpyLUhCY1pyY3Y3RVRiQ3VTWFpMMUEwOFEwSFBLWm1pMDBsb2MzalpRS3pYWjNjc2VTZW1KNmlCMGdfaFRhTEVCZ05aR1JSLXpZWENsMGVxaVlnV2xubHl4aDBoREs?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-10-15T07:21:15.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Oyo govt intensifies campaign against human trafficking - Tribune Online",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXJuMXdWNHFNenRZR2tiWkJsMnVNSjc0U3FlWmx1TVc3aW9IbFdNTlk0bmt4NHFnSEdZeTBMQXhBX0FlU2lYWDBuV29YNVo1ZDkzd1B6VV9Udk1EclZ2UWhLaTZlNGtGU2VQWUpQUUJxSFVJOGNVVlk4N2VCRTRsNHFGcTl5VGw5Ukwza9IBkgFBVV95cUxOZEtVVzk1REdBemxiTVpsbmYyY2lIWXU0TGpPczZBMTdQazJncWtsSk5DTWRlWVM3aWU3MDJFRXV3R2ZmdWt1MWJPV1N3dkl5TldYWW8tVnpNb0FsNXR0UGE3dHg1Y1BHSkd5dk5LQ2l5cmJQYTh3SnRCeU1QWGpHN1ZGV2FaSUpsYTlsMGMtOUhQZw?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-10-15T07:12:36.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "20 Bangladeshis trafficked to Russia killed in invasion of Ukraine: SRB - The Daily Star",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTRBbEF0TzhDa25ibTk4TTNDb0lVWlg1M2lGNHp3dE5EWDltWU0taVI3UXNTN0hzZjRJMmNXVXBxWEpUS3I3V2VoN0lSdEZ4ek1rbjdfU1NiYXZzZjBaTkFKQlh3VmFRUlY2enh3dEFDeU92cWNyUWUwYkloU0I5NDQwanBPRTBHYjRPbWIxUEt2ejUxd3ZnR0ZYODd2V00tYnlHY0VGVFJENnFS?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-14T13:27:27.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "harassment-bullying",
-      "label": "Harassment & Bullying",
-      "totalArticles": 7,
-      "distinctSources": 3,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -78,
-      "reason": "Last 3 days averaged 0.3/day vs 1.5/day before.",
-      "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 2
-        },
-        {
-          "date": "2026-10-12",
-          "count": 1
-        },
-        {
-          "date": "2026-10-13",
-          "count": 0
-        },
-        {
-          "date": "2026-10-14",
-          "count": 3
-        },
-        {
-          "date": "2026-10-15",
-          "count": 1
-        },
-        {
-          "date": "2026-10-16",
-          "count": 0
-        },
-        {
-          "date": "2026-10-17",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Cebu Children’s Code targets online predators, cyberbullying - Cebu Daily News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUJ5NFYxR0E5bUhaVXNtMWhSZXRMY255UG1EVXdfSUJqWkFYOVQ4NmdNRWdsQTJTZmVFRU9QQllqVGJYYUZEbXNwVjRPTm9ZVGZic1V5VVRvd2s3eTNaek83X0d3WHVxb1d0V3VOZTNac1FIaDg0V0VVTm1BOXBsWjVFcUxXQUZ1Wm1qa2Y5OUtobVBDLW90UGxCWGIzZm5RcVHSAacBQVVfeXFMTVR5cXFBY1k5ZWtiZ1NaVXV3T3NXUnFSRWRyc3FYZXo5TzBNNTc3NEduWUdDQVNtY2FpVTcxRTA5a1ZqWEFfRl85Y0UzX0l0ZzYwNGV2aUhyY0pQRFpHZnltekE3YktnRDNBSTBobUxueFdEeXlrTkNCcFpYZmhSZVd0elVuVTVMakxtajk0Q1dMM1Bfem0teHl3ZC1JcUpXSUxsRmRFVFk?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-12T05:54:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "600 Kwale youths targeted for digital literacy training to combat cyberbullying - Education News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1BhVGc1LVpMaXo1WlNzNG9OTm5icUg4T1BBdWUwbms2aDVhbmpCeDJPblRObzFpdEtBRzR5THd1b1ZNc3JfckhRSXN0Ym9DektiZTgxUDdXa2pZTTFONk94WmNNQ3VaeDViaTVwTU9qZ3NjenUtSVljOTRibGQwcWsyQ3Vpb0hqVjhpTm5aT0FjY0liamtUdDlxcXZTbVQ4cC1xRTY2Y3lYdWdkV2FpQlpn?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-10-11T18:07:35.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "AI Deepfakes, Trolling and Threats: How Women in Entertainment Are Battling Online Abuse - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcVFLREZWU1NCTnZSUll6Uy1oN1hxWkdfTWJnbmtaWjJsd2RqNFZGaHZhbEc5U2F1dXNOaUR5ZENROHFHNzluWW1vakNDVmZmRE1GdFQzak1sdklncTdKX1dHNVljQk1TblI0b2dnaDh2UG1GdlpaVnVFSFRabzYwVzFZb2FSWG5zT1cxWWlkVnpLd3FVdnZkNnFsNnhVdEJYaks0dDBhSXc2OXlnVHRSYVRULVJyOFBxWGNYaUF2dTVlV2NwY2hYMGhpbzZtN1BiYmxNM2xrUGJyRlV0ZXllWE9pN216V0dKZU1Tcm9QMlVYbWJvYTF2MVZQR0lsNVVhZmlCUF9IakR1TWtIaUHSAZMCQVVfeXFMT0RtMDJvQ05SZFMxSDJnQTk4MnJRdVB4V3RoeDNKX1ZOTXQzdmFvYnVtVXNWQ2c2eTBHdm0tOUFSNHpvUTZIX3h6VkpsY2xYU3U3VXZCVkRvLUhwWW9hMTZON09OMEFXd2lHNW5KNEpBTXVfNmJBUVVSU05GOEFVaE1pUWpqQkJfQTB6ODhyY3hvYnplVjhSbmE1UHFrU0YxVFdad0xBNVphZmxZSUxUVXJ5SEVyZHVIeXZXRzM0WG5vVkFhM2EyVG9odmlKQzd0RGtUMFNPZWotRGxCLXdUZVRxajYzRDhFUXplUjJSaTh6MF9VMzk4SkJnWWcwMzBKbGFLd21fUVI1UUxEWEszRHpnWnc?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-11T07:19:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "'They won, I lost': Sahiba Bali breaks down over relentless online hate, threats & trolling - Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdElqRUowLTV6MDlGTGNINEItcTE2OTJjSzJrT0pjaWRXRGhrLWNTb3lCWTZXVFFPdWhyNWx6WGxLN0pMVGZ2T0Y5ZmhSajlocFI2NnNIeEY4ZmwzdGlXeDNyN2RjMm1lMHRpOWVrT3BxMTRpdDJtQWY0SWV4UTA3VEc3VnJGNFprWUdrXzVyazc0aGhTTEp3dTJqTlJRWTJOS0w0Xy1Rc29mYmNiSUhNdWdwa2Jxc1Z2SU5nSGhfYjNDOUJoTUVEZmRMQlJhWW5rTkJfOWVWVC1BYUFpY1JyTw?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-15T13:26:00.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Sona Mohapatra Reports Online Abuse After Criticizing Rahul Gandhi Over Himachal Pradesh Conditions - INDIA New England News",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1NCdHZ5ajJ4Wkw1d2xZV19YRnpRdjVkVE9RcDFhUmhwMi1qMkt0ZzNHejUyTkVQeERaVDVQOVJpRU4xVU1vNklZSF9ESEVNYWZBOHpYU3l2MGpTVFI1ajdLNEdWVmlSVzJlRlNXOU95bG12ZnVoUWR5azdhTUJnejhvSy1pMkRpRWR6cTRVLUpKRE1PVHFsbE9xREZwVWtVMDdFdWUyMGphZi04NkNJNUN4QTMtMDRrOEh5cFdoQjZobXkyRjBZ?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-14T14:54:22.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Sona Mohapatra calls out online abuse after Rahul Gandhi criticism, says Odisha mining post drew no hate - India.com",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbU5mNWdlaUpMMXNvOHR2VDZuMDN0N1BVd1lqbnBlUkc0NG5CQUMtdmNrRHdHaVVaMkxGbENvYVZCb3ViTVNzaFdpSVowSVloQnl5bGhEczQ2M1lwcUpubGR0bnQ1RnI2RDU0Q0NDbkQ1OERyQkEzVWRlaC02WlhqNTh0NENlbzh0Z0duNEpyYS1Sc1hKRHg3RXRFb1RUQlB0aVBIRTlvZ1RZaHRBX01ObTZpUTZMWjJwcWl5bl9fWXBmN2d1bmJTQjhEdDJkdHJOaEc1MkpTSlc0UTUyUGFVZ1JEbXIwU0Nlcld2Z050OFV3NHhn0gH0AUFVX3lxTE1tTmY1Z2VpSkwxc284dHZUNm4wM3Q3UFV3WWpucGVSRzQ0bkJBQy12Y2tEd0dpVVoyTEZsQ29hVkJvdWJNU3NoV2lJWjBJWWhCeXlsaERzNDYzWXBxSm5sZHRudDVGcjZENTRDQ0NuRDU4RHJCQTNVZGVoLTZaWGo1OHQ0Q2VvOHRnR240SnJhLVJzWEpEeDdFdEVvVFRCUHRpUEhFOW9nVFlodEFfTU5tNmlRNkxaMnBxaXluX19ZcGY3Z3VuYlNCOER0MmR0ck5oRzUySlNKVzRRNTJQYVVnUkRtcjBTQ2VyV3ZnTnQ4VXc0eGc?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-14T10:56:11.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Actor Sahiba Bali faces online abuse over post on 'worship Durga, punish women' - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd2FYbGRmZDBuNmNIdGhqVzNQQXFQTkdaT3pqdDFDUHNSblBDazJXcFNNWnpGZFRBWDVVZmZfeFRveGRwVE0xQlcyR0tIOE9ZWlM1ckU5bndaMWRMLUNvWjFaeFpTWTVPakNXVlNKZExLeWdHQWxWVEdjR3Y3M0lGTHNzNlRUNnJKY3RlcVJJcERwYjVOT0FLVkswbUdXS01oLXk3ZnVDZmM1eVVSSWZpVWQyeHVZdFJuTmZTUk1PQmpFLTZyUF90REZUWnA5cGFMRXM1SEpnVU1Sbk9oVXlxWTYyTlVuQmJicTFPVktaWdIB9AFBVV95cUxPYWxQSHk4SE9QdnRBVXo0LVAzeDJBdzk5c2M5ZnhodUhMOC1xUXNZN3p1MkRRQVRqcXc2TE1aLXB2MG1nUlN0a2kwWEdtNW5wOExRcFRVOWRBWmtOc2dObkRDSXBBNGVabWdBa3dNTUgxaC1VRWhMam1TZkxWTWVIYjlRcFBRYThjRnNnZHhNVFg2LVZUVWIxWWtGQjNHN21kRWFYZ2RlZ3BwN0F5M0lmS2hWMUxCVDkyM3NVODQ3SzVyYXFNc3JCUVg1WTg5OU95RFE5UzVUeWZIV3RfQUZ2bm9wcjltSmZIb0Rqd2JsLTVGUFpO?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-14T05:31:56.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "spam-inauthentic",
       "label": "Spam & Inauthentic Behavior",
       "totalArticles": 6,
       "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 167,
-      "reason": "Last 3 days averaged 1.3/day vs 0.5/day before.",
+      "trend": "Falling",
+      "changePercent": -100,
+      "reason": "Last 3 days averaged 0.0/day vs 1.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
         {
           "date": "2026-10-12",
           "count": 0
@@ -986,6 +884,10 @@
         },
         {
           "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
           "count": 0
         }
       ],
@@ -1041,6 +943,88 @@
       ]
     },
     {
+      "theme": "harassment-bullying",
+      "label": "Harassment & Bullying",
+      "totalArticles": 5,
+      "distinctSources": 2,
+      "highRiskArticles": 0,
+      "trend": "Falling",
+      "changePercent": -100,
+      "reason": "Last 3 days averaged 0.0/day vs 1.3/day before.",
+      "daily": [
+        {
+          "date": "2026-10-12",
+          "count": 1
+        },
+        {
+          "date": "2026-10-13",
+          "count": 0
+        },
+        {
+          "date": "2026-10-14",
+          "count": 3
+        },
+        {
+          "date": "2026-10-15",
+          "count": 1
+        },
+        {
+          "date": "2026-10-16",
+          "count": 0
+        },
+        {
+          "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Cebu Children’s Code targets online predators, cyberbullying - Cebu Daily News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUJ5NFYxR0E5bUhaVXNtMWhSZXRMY255UG1EVXdfSUJqWkFYOVQ4NmdNRWdsQTJTZmVFRU9QQllqVGJYYUZEbXNwVjRPTm9ZVGZic1V5VVRvd2s3eTNaek83X0d3WHVxb1d0V3VOZTNac1FIaDg0V0VVTm1BOXBsWjVFcUxXQUZ1Wm1qa2Y5OUtobVBDLW90UGxCWGIzZm5RcVHSAacBQVVfeXFMTVR5cXFBY1k5ZWtiZ1NaVXV3T3NXUnFSRWRyc3FYZXo5TzBNNTc3NEduWUdDQVNtY2FpVTcxRTA5a1ZqWEFfRl85Y0UzX0l0ZzYwNGV2aUhyY0pQRFpHZnltekE3YktnRDNBSTBobUxueFdEeXlrTkNCcFpYZmhSZVd0elVuVTVMakxtajk0Q1dMM1Bfem0teHl3ZC1JcUpXSUxsRmRFVFk?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-12T05:54:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "'They won, I lost': Sahiba Bali breaks down over relentless online hate, threats & trolling - Deccan Herald",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdElqRUowLTV6MDlGTGNINEItcTE2OTJjSzJrT0pjaWRXRGhrLWNTb3lCWTZXVFFPdWhyNWx6WGxLN0pMVGZ2T0Y5ZmhSajlocFI2NnNIeEY4ZmwzdGlXeDNyN2RjMm1lMHRpOWVrT3BxMTRpdDJtQWY0SWV4UTA3VEc3VnJGNFprWUdrXzVyazc0aGhTTEp3dTJqTlJRWTJOS0w0Xy1Rc29mYmNiSUhNdWdwa2Jxc1Z2SU5nSGhfYjNDOUJoTUVEZmRMQlJhWW5rTkJfOWVWVC1BYUFpY1JyTw?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-15T13:26:00.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Sona Mohapatra Reports Online Abuse After Criticizing Rahul Gandhi Over Himachal Pradesh Conditions - INDIA New England News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1NCdHZ5ajJ4Wkw1d2xZV19YRnpRdjVkVE9RcDFhUmhwMi1qMkt0ZzNHejUyTkVQeERaVDVQOVJpRU4xVU1vNklZSF9ESEVNYWZBOHpYU3l2MGpTVFI1ajdLNEdWVmlSVzJlRlNXOU95bG12ZnVoUWR5azdhTUJnejhvSy1pMkRpRWR6cTRVLUpKRE1PVHFsbE9xREZwVWtVMDdFdWUyMGphZi04NkNJNUN4QTMtMDRrOEh5cFdoQjZobXkyRjBZ?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-14T14:54:22.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Sona Mohapatra calls out online abuse after Rahul Gandhi criticism, says Odisha mining post drew no hate - India.com",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbU5mNWdlaUpMMXNvOHR2VDZuMDN0N1BVd1lqbnBlUkc0NG5CQUMtdmNrRHdHaVVaMkxGbENvYVZCb3ViTVNzaFdpSVowSVloQnl5bGhEczQ2M1lwcUpubGR0bnQ1RnI2RDU0Q0NDbkQ1OERyQkEzVWRlaC02WlhqNTh0NENlbzh0Z0duNEpyYS1Sc1hKRHg3RXRFb1RUQlB0aVBIRTlvZ1RZaHRBX01ObTZpUTZMWjJwcWl5bl9fWXBmN2d1bmJTQjhEdDJkdHJOaEc1MkpTSlc0UTUyUGFVZ1JEbXIwU0Nlcld2Z050OFV3NHhn0gH0AUFVX3lxTE1tTmY1Z2VpSkwxc284dHZUNm4wM3Q3UFV3WWpucGVSRzQ0bkJBQy12Y2tEd0dpVVoyTEZsQ29hVkJvdWJNU3NoV2lJWjBJWWhCeXlsaERzNDYzWXBxSm5sZHRudDVGcjZENTRDQ0NuRDU4RHJCQTNVZGVoLTZaWGo1OHQ0Q2VvOHRnR240SnJhLVJzWEpEeDdFdEVvVFRCUHRpUEhFOW9nVFlodEFfTU5tNmlRNkxaMnBxaXluX19ZcGY3Z3VuYlNCOER0MmR0ck5oRzUySlNKVzRRNTJQYVVnUkRtcjBTQ2VyV3ZnTnQ4VXc0eGc?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-14T10:56:11.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Actor Sahiba Bali faces online abuse over post on 'worship Durga, punish women' - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd2FYbGRmZDBuNmNIdGhqVzNQQXFQTkdaT3pqdDFDUHNSblBDazJXcFNNWnpGZFRBWDVVZmZfeFRveGRwVE0xQlcyR0tIOE9ZWlM1ckU5bndaMWRMLUNvWjFaeFpTWTVPakNXVlNKZExLeWdHQWxWVEdjR3Y3M0lGTHNzNlRUNnJKY3RlcVJJcERwYjVOT0FLVkswbUdXS01oLXk3ZnVDZmM1eVVSSWZpVWQyeHVZdFJuTmZTUk1PQmpFLTZyUF90REZUWnA5cGFMRXM1SEpnVU1Sbk9oVXlxWTYyTlVuQmJicTFPVktaWdIB9AFBVV95cUxPYWxQSHk4SE9QdnRBVXo0LVAzeDJBdzk5c2M5ZnhodUhMOC1xUXNZN3p1MkRRQVRqcXc2TE1aLXB2MG1nUlN0a2kwWEdtNW5wOExRcFRVOWRBWmtOc2dObkRDSXBBNGVabWdBa3dNTUgxaC1VRWhMam1TZkxWTWVIYjlRcFBRYThjRnNnZHhNVFg2LVZUVWIxWWtGQjNHN21kRWFYZ2RlZ3BwN0F5M0lmS2hWMUxCVDkyM3NVODQ3SzVyYXFNc3JCUVg1WTg5OU95RFE5UzVUeWZIV3RfQUZ2bm9wcjltSmZIb0Rqd2JsLTVGUFpO?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-14T05:31:56.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "malware",
       "label": "Malware",
       "totalArticles": 4,
@@ -1050,10 +1034,6 @@
       "changePercent": null,
       "reason": "4 articles in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
         {
           "date": "2026-10-12",
           "count": 0
@@ -1076,6 +1056,10 @@
         },
         {
           "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
           "count": 0
         }
       ],
@@ -1125,10 +1109,6 @@
       "reason": "4 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-11",
-          "count": 0
-        },
-        {
           "date": "2026-10-12",
           "count": 0
         },
@@ -1150,6 +1130,10 @@
         },
         {
           "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
           "count": 0
         }
       ],
@@ -1191,17 +1175,13 @@
     {
       "theme": "dangerous-organizations",
       "label": "Criminal & Dangerous Organizations",
-      "totalArticles": 2,
-      "distinctSources": 1,
+      "totalArticles": 3,
+      "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "2 articles in 7 collected days.",
+      "reason": "3 articles in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
         {
           "date": "2026-10-12",
           "count": 0
@@ -1224,10 +1204,22 @@
         },
         {
           "date": "2026-10-17",
-          "count": 1
+          "count": 2
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "India News | Varanasi to Witness IAF’s ‘Wings Over Ganges’ Aerial Display from October 22-25 - LatestLY",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ1ZLakdqZEQzWDB5aGhUdG9OenFERERNZGM0TGdUUTh3QlhMajVmdEt3VHllRXM5NDZtS0NvZ3lHaW1MMjBxSERpMF9VRWt1VktnX29jY0ozMF9BNXdyempoZFpsQXhIXzZHM1hGTFA4ME53WFZObFFkOVFia09ka20xYVZqR3M4ME1lOERudzBYN19Qdm9KeXZmcnNqWHNOT1VDZ1ZTdGxNSWhiUnZJLUhfMGpudklVaGMyUmxtWXUyc3RLMEswY1Z4WndIQUlwc3pVRUdqa1PSAdgBQVVfeXFMTkNWS2pHamREM1gweWhoVHRvTnpxRERETWRjNExnVFE4d0JYTGo1ZnRLd1R5ZUVzOTQ2bUtDb2d5R2ltTDIwcUhEaTBfVUVrdVZLZ19vY2NKMzBfQTV3cnpqaGRabEF4SF82RzNYRkxQODBOd1hWTmxRZDlRYmtPZGttMWFWakdzODBNZThEbncwWDdfUHZvSnl2ZnJzalhzTk9VQ2dWU3RsTUloYlJ2SS1IXzBqbnZJVWhjMlJsbVl1MnN0SzBLMGNWeFp3SEFJcHN6VUVHamtT?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-17T03:50:23.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
         {
           "title": "How Indian Cyber Fraud Gangs Are Targeting US Citizens - The420.in",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV1dzSFNIQXBsYU5Yay1kWWNjN3ZWQVhWMGdKbE04enF4V0ZTUEhrVTlVODZLYmNmbXB1THlWX2dmSExfM1FBa0N1Wll2bUNUd2RZMjlFRjZtTGRsNnlqOGdMd0oxTXNoZE5VaVp1TWk?oc=5",
@@ -1249,17 +1241,13 @@
     {
       "theme": "suicide-self-harm",
       "label": "Suicide / Self-Harm",
-      "totalArticles": 2,
+      "totalArticles": 3,
       "distinctSources": 1,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "2 articles in 7 collected days.",
+      "reason": "3 articles in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
         {
           "date": "2026-10-12",
           "count": 0
@@ -1283,9 +1271,21 @@
         {
           "date": "2026-10-17",
           "count": 0
+        },
+        {
+          "date": "2026-10-18",
+          "count": 1
         }
       ],
       "topArticles": [
+        {
+          "title": "Why self-injury and suicidal behaviour should not be confused - Deccan Herald",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzh5N1hmcGRMMG50enozSXJxMWZTTjZKWnctSm5wMHRLajB3eWJNMXQ0S3hZd0pzbkdSTGVCVmV2c1lyVHU2S3RVcWZpSXNvSzZqbGRQel9SV25EWVp1WGFBLVFGNlplUGJUNzJhZGU1akR4UnU2Qk1FZWoxR01rRHotZDdjbHN1R0V2YnNYSVhrdmZaNXNsQUxkZ2F0TUp6SHZ2RjBJWUF6c2Fka1BvVzhYUndYRDNMMl91S1NaV2JZZw?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-10-17T20:00:13.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
         {
           "title": "Bath Building Society renews suicide prevention technology for staff - Mortgage Soup",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU215UDdHdkYtd3o0Ukd2QVdSS05FSDFfTkV6a2F6VWJwVWpreC0yRXFzR0VMcFVIdHVldTZJTUlwSndRLU4yalpCMHZWR3VNYzBkVU9weEVDdl9ZUndNbDVRVkNKVm9XUXAyLWlCZGZkRDY3cFg1VnBwVVpwTTA0UVBaQXBVNVZDb2ZjdzFKaEJ5cktUVE9WNWwwblA?oc=5",
@@ -1307,17 +1307,13 @@
     {
       "theme": "illegal-goods",
       "label": "Illegal Goods",
-      "totalArticles": 1,
-      "distinctSources": 1,
+      "totalArticles": 2,
+      "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "1 article in 7 collected days.",
+      "reason": "2 articles in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-10-11",
-          "count": 0
-        },
         {
           "date": "2026-10-12",
           "count": 0
@@ -1340,10 +1336,22 @@
         },
         {
           "date": "2026-10-17",
+          "count": 1
+        },
+        {
+          "date": "2026-10-18",
           "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "India News | Keralam: CBI Arrests Key Accused in International Cyber Fraud and ATM Card Smuggling Case - LatestLY",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcDJiS0dSUlU1ZUhVbklBZmN6T3ctaHpVTzJ6eTZrZDBxYkhOTHVRMW05aGNJSTdLSzNPX3RaNzVXMDcxeUl5UWJ1LWd5RXZIN2owTFYzdkd3dHlOdElJMHB0MnZpNUlkV19nU3RGcDA0a05MRTNENTc3OFdKeVRrRF9EVF9hTFgta2lXc0pRMVFMUW9Ielp3QlJNMmhxUTg0TVZTc2dCbjl2UXdpUm9SUWNIUDNVS1lkQnhnOS1hU2ZMSWtXaGJRd0FBeG40NDZkY2J6bVZuQklZN29tWmROd2FQQmR1WE9M0gHoAUFVX3lxTE5wMmJLR1JSVTVlSFVuSUFmY3pPdy1oelVPMnp5NmtkMHFiSE5MdVExbTloY0lJN0tLM09fdFo3NVcwNzF5SXlRYnUtZ3lFdkg3ajBMVjN2R3d0eU50SUkwcHQydmk1SWRXX2dTdEZwMDRrTkxFM0Q1Nzc4V0p5VGtEX0RUX2FMWC1raVdzSlExUUxRb0h6WndCUk0yaHFRODRNVlNzZ0JuOXZRd2lSb1JRY0hQM1VLWWRCeGc5LWFTZkxJa1doYlF3QUF4bjQ0NmRjYnptVm5CSVk3b21aZE53YVBCZHVYT0w?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-17T13:22:22.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
         {
           "title": "Drug Trafficking, Causes, Effects, Laws in India, Government Measures - Vajiram & Ravi",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kYUVmdmR4U05HMXg3SUI4aHd2Y2FVX2dVa0gyVFYwOGVjRHZ2ZHo0VGFpSERpRkY4THhwcHVhOHBNUXpQVkRfajJxN1RHMk5CbnpDTHE4RWV1VUlfeG9BWTZoRmFjSndTaGlCLQ?oc=5",
@@ -1365,10 +1373,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-11",
-          "count": 0
-        },
-        {
           "date": "2026-10-12",
           "count": 0
         },
@@ -1390,6 +1394,10 @@
         },
         {
           "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
           "count": 0
         }
       ],
@@ -1406,10 +1414,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-11",
-          "count": 0
-        },
-        {
           "date": "2026-10-12",
           "count": 0
         },
@@ -1431,6 +1435,10 @@
         },
         {
           "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
           "count": 0
         }
       ],

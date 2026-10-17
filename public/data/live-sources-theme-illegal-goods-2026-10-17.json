@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:47:20.127Z",
+  "generatedAt": "2026-10-17T20:46:41.535Z",
   "snapshot": true,
   "date": "2026-10-17",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-17 on illegal-goods.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "India News | Keralam: CBI Arrests Key Accused in International Cyber Fraud and ATM Card Smuggling Case - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcDJiS0dSUlU1ZUhVbklBZmN6T3ctaHpVTzJ6eTZrZDBxYkhOTHVRMW05aGNJSTdLSzNPX3RaNzVXMDcxeUl5UWJ1LWd5RXZIN2owTFYzdkd3dHlOdElJMHB0MnZpNUlkV19nU3RGcDA0a05MRTNENTc3OFdKeVRrRF9EVF9hTFgta2lXc0pRMVFMUW9Ielp3QlJNMmhxUTg0TVZTc2dCbjl2UXdpUm9SUWNIUDNVS1lkQnhnOS1hU2ZMSWtXaGJRd0FBeG40NDZkY2J6bVZuQklZN29tWmROd2FQQmR1WE9M0gHoAUFVX3lxTE5wMmJLR1JSVTVlSFVuSUFmY3pPdy1oelVPMnp5NmtkMHFiSE5MdVExbTloY0lJN0tLM09fdFo3NVcwNzF5SXlRYnUtZ3lFdkg3ajBMVjN2R3d0eU50SUkwcHQydmk1SWRXX2dTdEZwMDRrTkxFM0Q1Nzc4V0p5VGtEX0RUX2FMWC1raVdzSlExUUxRb0h6WndCUk0yaHFRODRNVlNzZ0JuOXZRd2lSb1JRY0hQM1VLWWRCeGc5LWFTZkxJa1doYlF3QUF4bjQ0NmRjYnptVm5CSVk3b21aZE53YVBCZHVYT0w?oc=5",
+      "snippet": "India News | Keralam: CBI Arrests Key Accused in International Cyber Fraud and ATM Card Smuggling Case LatestLY",
+      "publishedAt": "2026-10-17T13:22:22.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
