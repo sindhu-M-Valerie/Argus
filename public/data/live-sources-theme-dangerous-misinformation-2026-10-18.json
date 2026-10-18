@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:46:41.535Z",
+  "generatedAt": "2026-10-18T04:52:08.487Z",
   "snapshot": true,
   "date": "2026-10-18",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-18 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Fact Check: Is PM Modi angry over CJP protests & Prashant Bhushan’s ‘Regime change’ Remark? No, video is from February - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNDYyd2dHMFFjRXgtdU1WY1NGUmVsS2hmUktTQmNhbnZmTUtLRjFRanBmekhaQkV2RDI4NGlLR21kNEJLWkpuVTFaUXdzSlhzOHNCLUdDaEhyUW9jSkJRRzY0ejFFZXBHWDZ0YmwtOFU3RG9FZU9sckF2ZXl6U05QQzNyM09sVTNKWFVYZUJrckdRRFFWYjZBd2RqemZEa1RjNkhNcW1GS3BZa0V5Um9zUW5zUTRpMnZBMHRielU1QUZmc2RLcDFvTGZjcTI1VkJDSWhaZUhsRDZNdUcxbWh3ZU5uR1BGLTktcmNnUF92UdIB9AFBVV95cUxNVTJiMk5fVnduOERhSGFTRUpVRUlJbjdVTWpXd1RhVlFwRTd2cXFpX2FtVHNGS2c1MGRXMUJTZ3o1UlNKdWo2LXZhbjJsc2ZGbHVPZ21Wc1lQWHA1ci1Xcm1JczNjSk9ZbWR2U2laR2Z3T0pHUG9vNlZZYVVrTmdTTEdTVmpRMlBMLTlsZlNpVDRYeV9oZTFSMVpUZHJUSE9ITEpuUzV2QUZZSkpwaGVqSk40OXpLd3lSejU0M0stOUtPeXlKN3hQQTdyUGFwSnhvY3VSSzBLQ3pqSV9LSE5pTXY4UHhDWDlRd3Jva2RMcWgzRmIx?oc=5",
+      "snippet": "Fact Check: Is PM Modi angry over CJP protests & Prashant Bhushan’s ‘Regime change’ Remark? No, video is from February Organiser",
+      "publishedAt": "2026-10-18T04:02:57.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

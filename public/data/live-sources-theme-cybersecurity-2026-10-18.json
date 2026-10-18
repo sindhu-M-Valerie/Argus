@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:46:41.535Z",
+  "generatedAt": "2026-10-18T04:52:08.487Z",
   "snapshot": true,
   "date": "2026-10-18",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-18 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "More Rewards customers’ data accessed in a cybersecurity breach - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalFoV19IRHJ5cVpEckZyeUprbE1JTm92OGticHFQX0R3QnRHa2xXam1hTHB3ejN3TGZ0N25yS2FNNkZ3QS1pZjAtaEppM0IwN3NPWjI5X0l4Yk5seElZc05zMk5RUDFDZEJtRUdac2ZBV0hwVEc4cUR5TUpnUklnNlQwS3E0N0h4U1IzYU5QdUEtNFlMMFJBVFZ0UTZXZHhrR2hvV1VCOA?oc=5",
+      "snippet": "More Rewards customers’ data accessed in a cybersecurity breach CTV News",
+      "publishedAt": "2026-10-17T22:50:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
