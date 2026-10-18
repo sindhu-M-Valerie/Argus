@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:29:27.985Z",
+  "generatedAt": "2026-10-18T16:02:15.281Z",
   "snapshot": true,
   "date": "2026-10-17",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -193,6 +193,21 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indonesia fights cyber syndicates and human trafficking across ASEAN - ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVR2OGlNOXl2ckh0LW1oVXVuNmNBZlUtZHl6N21XNk5YTU9hTzgzaEtxbC1Pb3hpT3FPckt0QUJwX3U3dFpmOWlGRE9SalZZODBMZVZWQ0hhbm4xTHBERkRkM2lZWEItZXIzeWdaV3FkZ0RaMHlhNEx6WmZJWmIyUG9ld2xISno0czFVcjNxeEMxRHJ3WDd2SXJYaThxYktaNkVudDdSbkFud9IBrwFBVV95cUxPcEp3TUVLUlpoUFFhdGRIUUdSckVnOURzS0k0S1ZYT1VmYW5iSnhkMy12RFNaQmdMdFc3ZFNRNFptd2FYanZNLWJVOVN4QjNyTDhZZHF2ZGR2UUpBcnRRbURVaXJWTl8zM01NN3Q1QVEtdW5DU1UwYTk1UFRNX2p6bkxsa1FqZV8zVk05UGVRU29PcFIzSG9SSWNoQzdsWjI1dGxveGhFbWpIQm9jZWs4?oc=5",
+      "snippet": "Indonesia fights cyber syndicates and human trafficking across ASEAN ANTARA News",
+      "publishedAt": "2026-10-17T09:38:46.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

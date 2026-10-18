@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:29:27.985Z",
+  "generatedAt": "2026-10-18T16:02:15.281Z",
   "snapshot": true,
   "date": "2026-10-18",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-18 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Bus headed for Kashmir pelted with stones in Haryana; hate crime, say Valley leaders - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOU1zRjNRVWZwQ2FsX2IwTjB3NFdFTm1pckZVb2w5ZEREbW1kTXgtbWRQQS1KV1dDZDRva3VTVEo1MXdoZ05hTWdNZFppWGR5OFdGaFotSkkycm51Q2tOcmdyNjZTRklJZ0FrUmlLTURJbkdfNU1EVy16NjN1RXdQbW1uVFcyd0JveWdjR25vODZjWUlKVHFET3lYaEZ0al8yN3I3WGZzbzlnbG81cjJ4RDhyUkpkQWJETG9vOWZ5Q21CUjBTd041OE1vd3BwTFVkNi1BVXNYMmcwd9IB4AFBVV95cUxPYUUwQnJrejZzWVJUejFoaDVWVW11VE1YMW1qRS1vdU9fbUZwRGR3SDFGby1ObHpFeGZodGczYkNVM0M5Zzgzb1RWaG1PT0NrdnJ0SDNPbUpSdHA4TzZQMTdMajMwaktZb2RxR0hyb2FzY0hvUzFYNlVzem1SN1FPUkdZZkxQUnlCbFdVelN5dXBjNkNwMU5XVU5XdEZtZmxEZHhDUFNKVGVMcGhsNDZnVURhcm01MTVIMlFkN0w1Nzd5TWJlNVRuYXlYYUlmUUQ0NS1uQ19Pc192WnlwNzFhSQ?oc=5",
+      "snippet": "Bus headed for Kashmir pelted with stones in Haryana; hate crime, say Valley leaders The Indian Express",
+      "publishedAt": "2026-10-18T10:59:06.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
