@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:52:08.487Z",
+  "generatedAt": "2026-10-18T11:29:27.985Z",
   "snapshot": true,
   "date": "2026-10-18",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-10-18 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Beware of scammers impersonating investment personalities, financial gurus: Police - Yahoo News Singapore",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUWhldE1JdTVCTDJmblBZY3BiTC1JdmdIblpjNEticHMtdl9rVXBOQ0lRTmFicDhaMEJjTUVLdE9fbHRWNDFhQ1V1cTNxck9sQ0NvTkR1WFNlUWMzR2ZsS3FkRDFzVXBQT1NUYi15QjFsaEpVT25FTy1tZWpqWV81ODFKUGxZM0xKX2V1TTIwd3p2OWJNMHpYa1BUbw?oc=5",
+      "snippet": "Beware of scammers impersonating investment personalities, financial gurus: Police Yahoo News Singapore",
+      "publishedAt": "2026-10-18T08:05:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Over 1,000 Facebook Pages Flagged in Bangladesh Stock Scam Probe - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PRzhqQVRfQnd6RWFVMW9hczRvc0gzSUE4V0theGk2cmdyZllMQV9taTlXSkFmdUdrMWpOZGxncnN5ekEwV0hIODZNN1M5MFhmdmR0YjVmOU5QcUNxQnlfSVdnOTZ0UE9L?oc=5",
+      "snippet": "Over 1,000 Facebook Pages Flagged in Bangladesh Stock Scam Probe The420.in",
+      "publishedAt": "2026-10-18T06:32:26.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

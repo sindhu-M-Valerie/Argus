@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:56:34.167Z",
+  "generatedAt": "2026-10-18T11:33:51.732Z",
   "windowDays": 7,
   "endDate": "2026-10-18",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 83,
+      "totalArticles": 85,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -55,
-      "reason": "Last 3 days averaged 7.0/day vs 15.5/day before.",
+      "changePercent": -51,
+      "reason": "Last 3 days averaged 7.7/day vs 15.5/day before.",
       "daily": [
         {
           "date": "2026-10-12",
@@ -40,10 +40,18 @@
         },
         {
           "date": "2026-10-18",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
+        {
+          "title": "Beware of scammers impersonating investment personalities, financial gurus: Police - Yahoo News Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUWhldE1JdTVCTDJmblBZY3BiTC1JdmdIblpjNEticHMtdl9rVXBOQ0lRTmFicDhaMEJjTUVLdE9fbHRWNDFhQ1V1cTNxck9sQ0NvTkR1WFNlUWMzR2ZsS3FkRDFzVXBQT1NUYi15QjFsaEpVT25FTy1tZWpqWV81ODFKUGxZM0xKX2V1TTIwd3p2OWJNMHpYa1BUbw?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-18T08:05:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "'Meet Kemi': Scammers Impersonate Popular YouTubers Until Nano Baiter Hijacks Webcam, Exposes Them - FIJ NG",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFpZMlhNdElHbFVoRk8waThNU2N1R3dUa0RyaDZDMUswaUJLZ2UxMGRyOTh2SzRYNFByZVJfbTV3M0V2QnotdGhxOGNPcnRRbFFuZ1E1aFV3a2FJMHQ2T0d5MjU0SFh6NlJUTWxPaS1Dc05GTEpGcWZHZUdjNTh3dHZNVFc2MmdGSUItR3hLa1g1QjdrbjZ2ZG1hMUJ0M3dYeTRvR3VYNENiZjdabU9nNUFMeVFLc0xheFE?oc=5",
@@ -99,26 +107,18 @@
           "publishedAt": "2026-10-15T15:35:08.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Internet scammers need oversight - KPCNews",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1lJb1ZhclhrTmlSUl9nZWNoVldCMmlTMDE2dmtLR3dNb01IblpuSGs5SDBNajVmOEJFS1pxZmRsSndST3p1SlNwcmpZQjctUFkweWc5TnJIdlBUMUotRWRNc2FMM2xCVmdCZmo5SVJHVE83eEtUVUZQVng0b2xWU1VadmNvTXRhYVBIdGZ3eWc1NmlhTHZGb2t0SHY2aGRrRmhpdmd0UUtabWc?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-15T15:19:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 74,
+      "totalArticles": 82,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": -19,
-      "reason": "Last 3 days averaged 9.3/day vs 11.5/day before.",
+      "changePercent": 4,
+      "reason": "Last 3 days averaged 12.0/day vs 11.5/day before.",
       "daily": [
         {
           "date": "2026-10-12",
@@ -146,10 +146,18 @@
         },
         {
           "date": "2026-10-18",
-          "count": 1
+          "count": 9
         }
       ],
       "topArticles": [
+        {
+          "title": "Fact check on Johnny Lever’s death rumours: Viral death hoax targeting veteran comedian debunked as daughter Jamie Lever says, ‘Don’t want to pay any attention to this’ - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTE5GQmNWNU9qc3ZPRzdVQnRzS3ZnUlhieWphczFrVVNSVnN1ZXZ1aHd0NnVUZGJUbFRBVktHR2xDVWs1S3hSbHA0NlR0Uld4V2J6aEpESDlUcDgyR043SEFPY0U2T00tNkhhQXE0VVdQanAtaEJHOC1Ca09kVmJydnNaNWlpdWdaNFR1bndFbTFlREZIcGIyNmxweFVJWnZ3TFB5UGtCUkhKRmp4ZUJhUWg5Wkp3TnhXTFR1M2ducVZ0MjQ3SE5LZjdWdnBGMHpkSE9qc0VkWVBQX29uR29vbU1GZEg1MV9rYk9lT21vb2s4S0pNYzJaX1FVZ1pXWi00aXJWODdaaURfZHF5Y05oemJfb3RuMWItRktfU2VvamlQbTNrLU5xRkV2LVpZVDc4NHRBODRNcmMtalZJUkdHOXlpZmtmMDJMRHo3RktwRjVmYXJZVk93M3B4eWxRWEgwdVkwcEpaejFLbDJZOEtlS0dHYl9kUQ?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-18T10:27:00.000Z",
+          "riskScore": 68,
+          "corroboratedBy": 1
+        },
         {
           "title": "Fact Check: Viral Video of Police Attack on Rahul Gandhi’s Residence Is From 2019 Anti-CAA Protests - Telugu Post",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0l2Tkp3N0hsbERHVElHVWdUVFlkUUNTd2tGWGpuVHdwU2FiMUVDd1M4aFBRZE15bWhsRXc2bGljRnVwWnNoNU1UYWZXU3JYUUR1bGg5ZGRfWXF5YUZRN3h2Vkh4X2N1RFdHVGJTLW5GSjRLRE04UXR0bU1jNlowOWI5Z3RtZUc1MFAwczA1U0JNeVpXQm1jUmRVYno0RWxzLWJXVlhBVjg1ZnFpVmF3Y1pyMNIBuAFBVV95cUxOb0pFYlZkcmpHc0E4cjhVNkc4M0lKSjEweXNiekZLSlN3Z2hKWmNiamVLVDJ1eFRUeU5YeE9zYmFsMGU0ZFBQTENXYnJUX3dBTWU2bDFVQjFDbl9lcnpfbnZTQkxwODA3Z29oZDJuYmRuRXJCNmVLOGFCS0FfUzlVeHFOX09tMm1lQnN1cjZETk13Zm5EbXduWTNlS2Z2Vl83U2FpYjZHYk5qWHo2NEFsdkxkVzl3dGJs?oc=5",
@@ -199,18 +207,10 @@
           "corroboratedBy": 2
         },
         {
-          "title": "Fact Check: Is PM Modi angry over CJP protests & Prashant Bhushan’s ‘Regime change’ Remark? No, video is from February - Organiser",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNDYyd2dHMFFjRXgtdU1WY1NGUmVsS2hmUktTQmNhbnZmTUtLRjFRanBmekhaQkV2RDI4NGlLR21kNEJLWkpuVTFaUXdzSlhzOHNCLUdDaEhyUW9jSkJRRzY0ejFFZXBHWDZ0YmwtOFU3RG9FZU9sckF2ZXl6U05QQzNyM09sVTNKWFVYZUJrckdRRFFWYjZBd2RqemZEa1RjNkhNcW1GS3BZa0V5Um9zUW5zUTRpMnZBMHRielU1QUZmc2RLcDFvTGZjcTI1VkJDSWhaZUhsRDZNdUcxbWh3ZU5uR1BGLTktcmNnUF92UdIB9AFBVV95cUxNVTJiMk5fVnduOERhSGFTRUpVRUlJbjdVTWpXd1RhVlFwRTd2cXFpX2FtVHNGS2c1MGRXMUJTZ3o1UlNKdWo2LXZhbjJsc2ZGbHVPZ21Wc1lQWHA1ci1Xcm1JczNjSk9ZbWR2U2laR2Z3T0pHUG9vNlZZYVVrTmdTTEdTVmpRMlBMLTlsZlNpVDRYeV9oZTFSMVpUZHJUSE9ITEpuUzV2QUZZSkpwaGVqSk40OXpLd3lSejU0M0stOUtPeXlKN3hQQTdyUGFwSnhvY3VSSzBLQ3pqSV9LSE5pTXY4UHhDWDlRd3Jva2RMcWgzRmIx?oc=5",
+          "title": "Fact Check: ECI calls Rahul Gandhi ‘Illegal form 6 change’ claim misleading, cites Bihar SIR verdict by Supreme Court - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdkNkU3U1U2NYcXdad0psNUJ4VXZZQ1J3UE9vWnhtaDQ5c3llNHo1c3RCcFZmWC11Qks3azliN2JWQzdPcFQ3MVVicG1CemlEUEludVI4MUkzOFEzYzREcmFlb2xJYy0tUGh0bjNZZFBmWnpYMVViSmNpV1lXQVY1aEJlSV9CYkRIeWlRSU9JQ2VaUWUySlNHbGxQYW44dFBlMlVYVVVtcXN3aFNGU3RTSVROVzVLbnc4cTRSbllQOGVNa3FHbVREMmZWaUxzSkhsc2RNa3YybWNrQ0huQTlFT2lvLVpRSVN2Si1pbldyQXBlQdIB9wFBVV95cUxQYmtuSzdJWmZPVGVvbENzeEZqMVExUkhoWEYxclpJOS1RUHFlTW5xTjhTSDlkU0Q1SjRUeXRPRHBVcmpwUXVDckVYU1ZDTkw0Mk8zU0drQ0lHNWVPSl91RXhUS3ptb1VWQmxtMEo3dEtOYTZQbXlTaEhfMEZtdWF5cUhRdWl1eFl6ZXBxOURNS2gxWUQ0d1NLWVgxUHhDb0RZdXh2YUVSWjltS1Bpcnlia0xzMWk0bXVlaGV3bW9RYm1Tc0F5ZGtzdFJtQnlSUWRSSE4wdFJSUHIyYmZJZ2FTZzREX3FLRGRRRF8tNEhVUlFEWFR0YkJz?oc=5",
           "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-18T04:02:57.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "FACT CHECK — Will FIFA World Cup 2030 be available for free on Netflix? - Sportstar",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWxkbHl1S01CS3N0S08wRWZDeDRGU2l2Ri1HNWRmQkR4cDRwMTFzVVFhZzNSbzJNeGZIdFMySlhxVjNGTVRlQzB1YjhTVGdQUTVGOEdOc0RYT2JMdGVNdzFoeXIyejBoU250Z3gwVFZrUlE5R0gyeHpkdjR1VUtqS3ctV2JHZXhZLUJLVTllOXRXQ25CczNJdS1fRzhsT29VUnczTEt2NFpsQXJhSWppU0xDOGMxN2pieVh5Nk5nTGJpTEN3ajBZb2FLVlJQT3U0NFFWaWlvS2R1VmtvR2Jtem5sejIyUTjSAe4BQVVfeXFMT2J5bVZ1X0JhckI4ajFZcmxGRHltSzhWTk5IQlQydnVLU3JrT1QtN2JKNGdTaHdCZzFwN09tREgxUlJjYk9GVFdCVkF3enVNemxsaUtNWmszM0VHaVltSndFX0I5NkdJUGZmM2tNdlM5LThraUNtWFZtMWlIVjlxRUQ4Q3JFblNJbDhFM005VDBzcnd1c09wZzg1Unk0d3JORTN5VXRpVHZOTm9aT0p6d1pQbS1sM3hWRHV1RVloWV9QSmViMVlXNE93R043VEpEUUdKbHB3MENDR3N3RWdWcGdLbk1VcTBHYmo4NmpzZw?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-17T10:29:07.000Z",
+          "publishedAt": "2026-10-18T10:04:56.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -219,12 +219,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 45,
+      "totalArticles": 47,
       "distinctSources": 1,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": -19,
-      "reason": "Last 3 days averaged 5.7/day vs 7.0/day before.",
+      "changePercent": -10,
+      "reason": "Last 3 days averaged 6.3/day vs 7.0/day before.",
       "daily": [
         {
           "date": "2026-10-12",
@@ -252,7 +252,7 @@
         },
         {
           "date": "2026-10-18",
-          "count": 1
+          "count": 3
         }
       ],
       "topArticles": [
@@ -297,26 +297,26 @@
           "corroboratedBy": 1
         },
         {
+          "title": "How to Recover a Hacked Gaming Account in 12 Steps [2026] - shattered.io",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS2Exc0FlWTlMLUhCRnhfWnBRRGI5aHVMdko1ZEZTTGRZMG1FTXdsMjJoSzFGVGg3SzE3dEtYcUt0WjVZRnZzekRERlR1WXRRMUZrVE11dHJTSEw2TUdvYm85T2RSUG5ZdFl1bmpGQkkweUdNdFhMTmtDNGJhVFBKZg?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-18T08:34:19.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "BAE Systems Cybersecurity Incident Disrupts US Federal Bankruptcy Noticing Center (BNC) Nationwide - Rescana",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEFxYmcwUUk1N0hnenJnWEVrc2dQLTFFbVByVEZLTEM1MkVSemNZMklkOGlfT2t2cUVvY3hQN3lFdGpqczE5b3ZhRmFGZHFkTEF5Xy1BVWxVT3B1RnU1dnlIM0htR3UwcHppREF2RnFsazBucHRKN1ZVVGpkMTUxS0xLYTNUZ1F6aENUU2hieXZlYTl5bTN6Q2FENm0xLWJZTVo2TWdZNm5qX1FJT085djBpWU54WjJsbGlNUXNNVmM0WlE?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-18T08:20:49.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
           "title": "More Rewards customers’ data accessed in a cybersecurity breach - CTV News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalFoV19IRHJ5cVpEckZyeUprbE1JTm92OGticHFQX0R3QnRHa2xXam1hTHB3ejN3TGZ0N25yS2FNNkZ3QS1pZjAtaEppM0IwN3NPWjI5X0l4Yk5seElZc05zMk5RUDFDZEJtRUdac2ZBV0hwVEc4cUR5TUpnUklnNlQwS3E0N0h4U1IzYU5QdUEtNFlMMFJBVFZ0UTZXZHhrR2hvV1VCOA?oc=5",
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-17T22:50:06.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Kolkata Police Impart Cyber Security Lessons Amid Durga Puja Revelry - ETV Bharat",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGpfSGhHSV84cHVDczE0Umd3QWVOODNkU2tiWjRKZ2czX2RITkxvME41TlVIbjd5YXV3cjRHWEg4Z0tpbWNhX1ZSVkk0TVZtd19GM1RfTlNSNC0zZzV4cHJoNERvdVp2bDRxTXlqNGdfbVNnTDluTHVqV1FTSEdpakVGMnFyMDN6emtob2FBMHRQV3VERlVHUF84UWpMNnI2LUc0UnVIYngzMXZXM1RwbXRiQjBQVjE2RGfSAb8BQVVfeXFMUG5hakRJTXFIOWpzSE5lR2REWHhIbk1aenJaODdRRVJzOHpnQUh5SHlfTmZLRFBiQjRoQ0UzSmRYaEduUGhNVnBXNFZqbU9VLVV2X0F6M1dfQjJqd2NwY3lKTGlwRTB2SFVPTGhvWFMwSmNwNnQ1WnEzMHpVbVV0YV9yM0ozV191RllxN0dlRzR0QlZsLUF5WlZFX1BfZEFUWW1ndGk3TXE4Ymx3clZrcTVtSEkzeXBncDF3UHNyb3M?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-17T11:50:17.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Weekly Cybersecurity Roundup: Enterprise Breaches, Food Refrigerators, and AI Testing Across Borders - TechNadu",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaGlUQUY4WElsSVFrbFJORXZRNkxvdHJFblp4R2QyWTNPTEE2LUw0MGstN0FaOE9OSHZEUml5bXY5LUhNQ01EQlZxNFYteFFQSUl6c3RpdWVYYnRxWkRsanlyMkxHaVA2SHVfLVJZeGMyMUlrWjZxZFpEVHF0Z2phRjIxcnpaMlRBVTdjSTRnMkJLZFV4V25YSFA5R3oxaUZuckxkWjBvWHFwdXNyVDVkbzVLcWwtUDdGR29yQkRnQW9HSER2YmdvV3NKN29pNWRZMFBPa3VLUkhESUU1WG5ZcGhnSEpMZWRNRE8yQ2xKdjN1UlhfNkZzc0hqaXZaNXJLVVk1dUxtc1Y4LVZOUUtQazJVbw?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-17T10:33:06.000Z",
           "riskScore": 40,
           "corroboratedBy": 1
         }
@@ -325,12 +325,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 42,
+      "totalArticles": 44,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 96,
-      "reason": "Last 3 days averaged 8.3/day vs 4.3/day before.",
+      "changePercent": 112,
+      "reason": "Last 3 days averaged 9.0/day vs 4.3/day before.",
       "daily": [
         {
           "date": "2026-10-12",
@@ -354,14 +354,22 @@
         },
         {
           "date": "2026-10-17",
-          "count": 13
+          "count": 14
         },
         {
           "date": "2026-10-18",
-          "count": 1
+          "count": 2
         }
       ],
       "topArticles": [
+        {
+          "title": "​Supreme Court Directs Social Media Platforms to Halt Child Sexual Abuse Material - The420.in",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNFQ2MWdjYmFoRmt4cXpWVDVEZHZXQ0lxMGtPakpiWFRCaFpyZ2U1dDhFQVFySFh1dGU3RmZGNGFpLUcwQTZvMjJEbXpUTS1hOXY1eEJsVFY5ZU12Y3R6YXY4OXNJWHZKVEhLVFczazRmcUM2cWlGWl9fNGlNVjhQVlRLZw?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-18T10:55:27.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "Sahyog Portal could detect, remove child abuse material: Supreme Court | India News - Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUEpsczJ2czQzOHBNTnVnb2xEbXk2a2kyVVkzRExHRXFUcGd1X3R4NTBXbDZ5VmJHZVlJY3pNM0daaFp5V0pPRVVRc1VrN2tXWnN1ZVlCTHprMzVxRFYzTTkyOHNjbjNrMEwtMGhwNWNkNlF4U3FMY05jc3prVWNFWFVTLVhzYl85TjhMSE1nUEotbk53YjBsNHZsbDRRU1FCaXZOT2pMc0hQZzcwUWFweHl5UEJkSGhCeGE5M2hmeXI4ZmdyaXRUc2M1cHZrUXdW0gHQAUFVX3lxTE1QSmxzMnZzNDM4cE1OdWdvbERteTZraTJVWTNETEdFcVRwZ3VfdHg1MFdsNnlWYkdlWUljek0zR1poWnlXSk9FVVFzVWs3a1dac3VlWUJMemszNXFEVjNNOTI4c2NuM2swTC0waHA1Y2Q2UXhTcUxjTmNzemtVY0VYVVMtWHNiXzlOOExITWdQSi1uTndiMGw0dmxsNFFTUUJpdk5PakxzSFBnNzBRYXB4eXlQQmRIaEJ4YTkzaGZ5cjhmZ3JpdFRzYzVwdmtRd1Y?oc=5",
@@ -415,14 +423,6 @@
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3FQNDR6a1hBNzloQ2hBVFU0ZjlHRXVLdzZlN3M5ZHFKZlB3MmlrTWZJM0RrWmZFTE5DU284V3hYanJLc1VSSnowOE1MTXdnUzMxU2xoRVByckNlYm5MLVJXVDh6enhOQ0EwV2pkdkJ1RklMRnU4WUNVQ0xmZlQ4X1BFbmxZTHYteFNQR2tuYmtETmVnemFGNGZKQXR4VXZxRmlldWtFSU5scVdEckFVT1BCQ1JMSlRjWUtpWldKQVNCOUpDU2ZkYmdOVVI3aldMQXQzUGJpNNIB3AFBVV95cUxNdzFNQ2RYckVkaU16b0JEVy1hbVhyTUxtQndwS0xLSlVZNndSN01Zc01Ka1ZkZlV3WFQ2YWZHSFlKM3dna0RTQ3VJM1AtMWJTQnFTM2dlbGdTOG5KZ0lERWhuOUNOSDJDZHFjVHN3XzVzOTlWQ1BWVjBoQkFEbnR4Ti12TEZObUtqd2VIVnY2X1I0SjRubThTZ0RrR2FWbktEM1JNZENMbEpneDhzeTJsdGZhUDBXaXpOZ1Z5WDRud2p4d0UtQ2pDdFBwZ0dTN2FseGktRXBaOU1XQ3Ff?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
           "publishedAt": "2026-10-17T11:16:28.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "SC's 20-Point Directive To Centre, Social Media Platforms On Urgent Need To Remove Child Sexual Abuse Material - Times Now",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWW10Mk5mRE50SElva2hOSHBIRDVQMVZuYW5mcEJmbE5rV2FrNVlIMEM1UlJWRjZtbUYybTRzaVExQXUwSFdYMko4b1FHbjh4engtMGZkWC1XcjhLbUdIWm05N1d1MHM2OGZtSUU3b0tMNlYyZkNlVl9xb2pfSVRPWGdld3RmSjlzOWFYdDNwNFZHYUNxSnZZNjZLWjJGNjZmaGdnM051UWhWMWxZWTkwNXExOEpMOWJNeU9GR1ZRSmtEZG9JeHo4cHBLU3JRbEFVTHJPZVdrWnY4N29HX2xXazlqNjFSNEp6QjRvLTM3QXRwUlpvNnE1ZVZpUzBKOGVvOW42dXRpN2JGNVhlcTZ6emxkV09uTnJrb0NGbHNTQ3M1Snd1YlE2bNIBrgJBVV95cUxNNlZQWkdZcmc3bE90VnlXeW1lcXAyYUh4WklINmItb2pXczcyZW9lSDNCaDVlcVkzeFRXaDN1N2E1dkxiSHBSTVpCdGU5MUI4d2piNXNOVFAzS0NJRWZLbkxKNVQ5OEdCcUFnU2pITjVtQlVaWlJIbmVpaWVRSGY5VWw0akg0M2ZzRjBuTVo0RXgwMERQel9faTU3MjdMSG9sVHY3d3FTN3h0SENuaUZXMHRFck1Gd0JnMm05eDA1aG1Wa3RZQ3BoajMxZE1wZ2Fqb0VDaHM0Q1hVYTJnVFNQRUhFVkJiQU45MlhqT0JTdkxzWkRLbUI1T3B5TFRadTlidEdOakszekpwQkZjWS1OS1JPSlE5X2VDeHNGbnVFMktRVkRraVV2SkZKd0JzUQ?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-17T10:45:57.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         }
@@ -749,12 +749,12 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 9,
+      "totalArticles": 10,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -83,
-      "reason": "Last 3 days averaged 0.3/day vs 2.0/day before.",
+      "changePercent": -67,
+      "reason": "Last 3 days averaged 0.7/day vs 2.0/day before.",
       "daily": [
         {
           "date": "2026-10-12",
@@ -782,7 +782,7 @@
         },
         {
           "date": "2026-10-18",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -801,6 +801,14 @@
           "publishedAt": "2026-10-13T13:16:00.000Z",
           "riskScore": 63,
           "corroboratedBy": 2
+        },
+        {
+          "title": "Karnataka: Mumtazwul Malik detained over link with LeT terrorists; Probe flags possible leak of sensitive information - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUUhaaFR1d083VTJ1RGZHWjhieUVpYU4zNUt3LVlFd3B2SVVsZmN1dDVkZkx6bl9wd1hmQzZCLTR3cUVDTXoxUWJOWklIbEM3REdnOWkzbEZDSVNkc1FvelBJRDFlUlpHS1gyY2V2aTdiUlZaV3NfWWtfbDRYYkhobjllNlZsQTBlQ2FCbVlEeThtanVEWGZyZ3kwX0tXT3RQbnF4eExKVW02RjVwNmRFMTRDbHJnMDlOVzNBSUM2RXpCQVRzSjVFcGUxSWVCZlRSNG1GN2M0Y2VMeDBTR0hjU2xzSjdETnVSSU83LVRWcWNFNk9JTmfSAfsBQVVfeXFMT0owTGtRbW4tS0p0ZXB2Vkozc1NOQ3A4OUpwN3FfZnBxNGVpLXdaU0F1OHBGakU2QXg5TkFqOWt3SUZfR2ktUURtUkh1aXViZnlSSXhndEx0QWdTVFV6cEFESHpsbzdwTnY5aUhqS3J4a3lVR1k2YnlWTzlNWG84WTZHcm1VRUVVcVp5aEppX1BZb3NNczhPZS1fVHR4Q1U1UFRFVjF3LUtpOHAtSVFMeTM5TXh0bmswSkUyZGlSNmt4QzlWbjNfRGE3MVF5RXlVYWxrYlI5OURXU1E2aHRDanlRSm5xZVFyblk2VURXZUZiWXBZcGd1VEd4TmM?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-18T08:04:53.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
         },
         {
           "title": "DANNY TOMO Claims Patriot Platform could be proscribed as terrorist group circulate online - uknip.co.uk",
@@ -839,14 +847,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEFrbEFEQzQ0ZGtNenpoWFZYTWNpMmsxWGpxUkJMZEZ2RmRYdzlpdHNfUjFfYTZGNnFkM0t5cGFPTF9ieGNGZDBUNk83NEtLdGdaM1BLUFd4VmVxSWVEallvQWg5V3R6Wkx1NTFLd292ejd6YlFKRUhSM3JHTEtWenZoM3lGTFpiSnNRdEJaSjE1UGtQbTRuLTE4LVpINFZBQ2hsVmlKM3NsTDMzNExibnFteWNwZ3B2T0lz?oc=5",
           "source": "Google News • Misinformation (India)",
           "publishedAt": "2026-10-15T15:13:47.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "STF gets 12 terror-linked Instagram accounts removed, counsels 200 youths - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSF9ZLWZ5Z1pBclpuT3dTZEFHUE82bjNkLWkyR2lwV1dkUThiZVBwUl85R1F2Ti10VHhPRVo4TnF4RmU1NEREbV9yUkJOc20tM20yd1ZvcnFZSlRxYy1jMFkyMC1pZ05lMGduTVl6NmZlc25xQjBqWEpqWjc4VmgtU0ZZb0RNWENGeVFoSlpPSnBOOXcySG12elNWdTJMdXdsdHZvdU9UcG05MjF0NFlWSkpERVhNOGxxbTdOZWMzQ2Vvci1PZl9vU0xKOXNpelJMQkEtTm9GaXZtdHhOcGFxddIB5gFBVV95cUxNcUJKUWhpRWN3ajFHTFdZN2hVRnEwMHowVzhTdXRfNjZFcXJGMWhsWHMwUEJrSTc0MVRIZkhJTzhjZ3dzanVJcjhuUlJTNU01OXFxY3BIakRqUXlLTm5oWkpoR2d5ZGNiNGhMNjVXYlptMXNjX3Aya3ZVQVVCazMweEkzZGQ2R2J2TXpUeUNNVzMxUU5RcjZpY3Y1X29EaXVORlB5cFVwQ010a01FY2psckZ6R0EyU3h4Rk9BNERUUE5MRmc2SVRQcEtnYkZlcnBxNlp6Y0k2VHBXNndsRlBOQjhybGJkdw?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-12T19:03:00.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }
