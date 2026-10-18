@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T16:02:15.281Z",
+  "generatedAt": "2026-10-18T20:55:53.540Z",
   "snapshot": true,
   "date": "2026-10-18",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-18 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "India News | YS Jagan Mohan Reddy Alleges Electoral Irregularities, Political Violence in Andhra Pradesh - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnNFWWRyQmZ2V3N2M3VMTEpORFNUbGp2cDVZWi15d0ktcnViR2RqcEJaLUJMUExLc2YwSlFSdzFkSjgyX2ZzQWVld2g5MTZncTVfTU1pQ2J4N3R0RTFsTjNSYzBMRllxaVY4bDJtRkt1U2d6VzZYRzZjcjY0dmcwaUF1N2pFTU1CanlqdWJSQ1pKSmltbnRoNXZXTHg0N2RORllkdk5pSEdqeS1MX2Mxdl9qRzZzMWRJYldqNjQ5OXlHajY2cy1rbHlqYWN5N1JwV3lSN2tabGc3amNNVzZ4RkZSbEpiOTVnS0c00gHrAUFVX3lxTE52c0VZZHJCZnZXc3YzdUxMSk5EU1RsanZwNVlaLXl3SS1ydWJHZGpwQlotQkxQTEtzZjBKUVJ3MWRKODJfZnNBZWV3aDkxNmdxNV9NTWlDYng3dHRFMWxOM1JjMExGWXFpVjhsMm1GS3VTZ3pXNlhHNmNyNjR2ZzBpQXU3akVNTUJqeWp1YlJDWkpKaW1udGg1dldMeDQ3ZE5GWWR2TmlIR2p5LUxfYzF2X2pHNnMxZEliV2o2NDk5eUdqNjZzLWtseWphY3k3UnBXeVI3a1psZzdqY01XNnhGRlJsSmI5NWdLRzQ?oc=5",
+      "snippet": "India News | YS Jagan Mohan Reddy Alleges Electoral Irregularities, Political Violence in Andhra Pradesh LatestLY",
+      "publishedAt": "2026-10-18T07:36:24.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
