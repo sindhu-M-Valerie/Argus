@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:45:36.136Z",
+  "generatedAt": "2026-10-19T22:31:50.704Z",
   "snapshot": true,
   "date": "2026-10-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -193,6 +193,51 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SC Directs Online Platforms to Prevent Subscription-Based Distribution of Child Sexual Abuse Material - Kalimpong News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcktFZzVyUXA5V2YyTmdQZDBGM29mWnpWaWhBUHIxLUZZRDN3WEotaW9Fc1ZkNnBISjdCeC1yMTh2c3VnZXE4WkZMSE1IZGlsc1pWNWprLTVyaVFmRGNUMjZTLWVVRjVkbGtjUXluaEtxS3laamFSWGg0dURRQXF0TDNZTHFyYkQ5aVZLOFQ2MTRLeHBZdXZn?oc=5",
+      "snippet": "SC Directs Online Platforms to Prevent Subscription-Based Distribution of Child Sexual Abuse Material Kalimpong News",
+      "publishedAt": "2026-10-19T03:45:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SC directs CSAM regulations for intermediaries; rejects social media ban for children - MediaNama",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUFXMlMxTmVFVDNURVVCWW9TWm56dk9XbUhpb3RPeDNTZEdPN1VfeGFZVEY1RFBtYmxHdU9VYmhuZ0N2RE5BM3F5N19VQWJVUUZCS0lESHpFVF9zaTFtMEswcFF4ck1VeFozb2xsRDJsbWNLai1Gb1kyVkp6X3pIR1hleDI1ZkpEZFM3cDIySTVKYTd4?oc=5",
+      "snippet": "SC directs CSAM regulations for intermediaries; rejects social media ban for children MediaNama",
+      "publishedAt": "2026-10-19T09:51:52.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Interpol smashes online child abuse network in 17-country raid - Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXl4VDR6UkRKWnZaMGNJdE9qVjdhY3R0RDR0NFJuRDlkZjVYRm5NTmRRRDlnMmxqQUF1dHdvRDFNNmVkZzdpZWFnblJQVkJGTVVRRVVUa2l4M1ZXUHNpcXA2YWZXUkJuUWthSTRBX2tYTlRsWldmWGNkdnMwbXFlbg?oc=5",
+      "snippet": "Interpol smashes online child abuse network in 17-country raid Cybernews",
+      "publishedAt": "2026-10-19T08:04:20.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

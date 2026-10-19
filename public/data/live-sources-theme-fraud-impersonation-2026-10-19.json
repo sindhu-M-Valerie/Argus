@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T13:45:36.136Z",
+  "generatedAt": "2026-10-19T22:31:50.704Z",
   "snapshot": true,
   "date": "2026-10-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 13
+    "total": 22
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -192,6 +192,21 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Milk Dragon phishing kit makes online fraud easier to scale - MSSP Alert",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd3hSSGFGTFJpR0ZIMG10cW5kNGt6ZzRCRmJNS2Fzdzh5TTlMODdJZHFLd3pUMXNtTGo1OUE4TDY0NFVVTkcwUGdyQy1rR0RQQ29vRUxIOG5zS2ZydkV4STZ1NUQ3Nm5MbFluZV9XNm1OOXpHZDZQSUlCcjhaSDZpNWprY0FqQXpLdDdUVGZLUGM?oc=5",
+      "snippet": "Milk Dragon phishing kit makes online fraud easier to scale MSSP Alert",
+      "publishedAt": "2026-10-19T14:09:43.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -272,6 +287,96 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Online Financial Fraud in Bangladesh: Current Scenario and Recommendations - Daily Sun",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1SHQ4VlpMd3FTSEhNc1RjZmxHT3VHalNnbk5wb21XeGxOdjNmbldKbks4UGNXQnBpN1lTOFFoenhHczRIazdNeHlaZjNtQ0ltOEpfcw?oc=5",
+      "snippet": "Online Financial Fraud in Bangladesh: Current Scenario and Recommendations Daily Sun",
+      "publishedAt": "2026-10-19T17:32:19.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Singapore police warn of Facebook investment scams using fake financial experts - The Online Citizen",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRl9HLURmb2x5RXhwR3FqYk5UOUhvRm1FbFhaOHlTdnZ6dUNuSXN6UUJDdmFnUHpvNURndmpVUGNaWWlPS0NvaXNBWGpTMnhGV1lrbUQzVFBtdlJlMEtDTFB6eXU5eGFqc2pVLTRFZWdWd2JiOVZaaFRVbjE1UG5Ubkw0aG1CRTZXVV9PQjdIUXQxU3NGMVVGSWgteHB6STAyYUl0MkYxV1pzNUF2ZEVSLWtYQ2liTXlaY2NVbXByWWh2dw?oc=5",
+      "snippet": "Singapore police warn of Facebook investment scams using fake financial experts The Online Citizen",
+      "publishedAt": "2026-10-19T15:06:13.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bank fraud victims want Ottawa to make big banks pay more - CBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EdFUtaV8xVFdDUE1ocXJBbHotVXo3c0VIUkUwaXU5bzdjSGh3N1RCTHNzS09zcmdScFBCdGM4TVFPTmQxUDhGdExYZ2JZUmRXRkpXYmlBZGttNk5WVVhkbXkxY1RjSlBGWmMxSXA0bnpNaXc?oc=5",
+      "snippet": "Bank fraud victims want Ottawa to make big banks pay more CBC",
+      "publishedAt": "2026-10-19T15:02:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Microsoft, Apple, Google, LinkedIn and Amazon Lead Phishing Attacks in Q3 2026: Check Point Research - InfotechLead",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeWRBb000ZXZDOUdDa3I4TUdBNE02MHVtYnRZbXEycThYbHhUS0h1VGZLV3FfQWZoelgxNVcxZ2d0emFBTHVVNHB5MDQxMW5Db0pEQ0NoRm1OaUp4c0lXQlpfMUhEMDdaNzdmOGxvbUpPLVNxaEg4SjJfOEpKWlRXNUNpUEJCcS05amxDd09OclVHVGc2ZlRpWHZ6a2ZfdzZqNkliak95bE9oalNXZUxDU09SMnZFLWhYcjVaLUtjTXVQOEJLUzFOOXVjdmlrYnlfR2x1Y2o0OENtUdIB2gFBVV95cUxPeWRBb000ZXZDOUdDa3I4TUdBNE02MHVtYnRZbXEycThYbHhUS0h1VGZLV3FfQWZoelgxNVcxZ2d0emFBTHVVNHB5MDQxMW5Db0pEQ0NoRm1OaUp4c0lXQlpfMUhEMDdaNzdmOGxvbUpPLVNxaEg4SjJfOEpKWlRXNUNpUEJCcS05amxDd09OclVHVGc2ZlRpWHZ6a2ZfdzZqNkliak95bE9oalNXZUxDU09SMnZFLWhYcjVaLUtjTXVQOEJLUzFOOXVjdmlrYnlfR2x1Y2o0OENtUQ?oc=5",
+      "snippet": "Microsoft, Apple, Google, LinkedIn and Amazon Lead Phishing Attacks in Q3 2026: Check Point Research InfotechLead",
+      "publishedAt": "2026-10-19T14:40:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Microsoft accounts for 33 pc of brand phishing attacks in Q3, Apple, Google trail: Report - The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTnZpRlBldWlTX0hnV1g2SG1pM0h3dVJNc3pockJWMWxmXzk1eXA2a3N6YjhxenFGWGtLVV9XbkI4MWVTaXhRZHZxelhoSS1JRGx6cFNMakJoeUo0OWxzb1RUa1hkUDRpb1RGa2JLY0c3ODJJdHhrM0RoZnd6cG9CbHlJOVdnU0oxVmVHOG91ZFpkZmEzMXhMaDlBVVlHTmF1MXJ3Yl8xZjdvcHNGRzVpSkFEdEdhWGMxZ29LQnBUQl85RnJwaGxrb3NacGk?oc=5",
+      "snippet": "Microsoft accounts for 33 pc of brand phishing attacks in Q3, Apple, Google trail: Report The Hans India",
+      "publishedAt": "2026-10-19T14:26:08.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "BoC chief warns vs ongoing 'Love Scam' targeting Pinays - Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMXRtdzR3MzJhVEFZUHRFUjh6TlZMZVVyUGdGTWFtS2N2NFJQTmwtVGJCamRjTEl3cnZ6QnZPblladlpPOUFwUmZLbDVRYnlNeGlxVmlOSXlVdzBIR1FqQzI2VVZWOWppYmk5eU9fdzM0M1h2cGVDRmwwdVF4VnYtb1BEYjVpZG5veDhEUk1UZzE?oc=5",
+      "snippet": "BoC chief warns vs ongoing 'Love Scam' targeting Pinays Daily Tribune",
+      "publishedAt": "2026-10-19T14:19:59.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Forget Viruses: 62% of Americans Think AI-Fueled Scams Are the Bigger Threat - PCMag UK",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb21aR21ZQklzcTg1VDNlNWpkRGN1eG1QMDdUYTc4b1U1RE9IWXUtbGZZWGtrcTdYNkFiclRQYnlNR1c0Zl9ZUWNFb1dPdlBCWktHb21sSVFYdE01NmpfS3paa21xWEhaS3puMlR6REhDNFBkT0hMdnB5Wk5jejk3VE04eldoT1c4VWloWlBpOXAyVDcwcXRGdWFmNEZ6YTFYQ0RTajFUMEVnRkI2UWtOVw?oc=5",
       "snippet": "Forget Viruses: 62% of Americans Think AI-Fueled Scams Are the Bigger Threat PCMag UK",
@@ -291,6 +396,21 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RUkdMaUJVZEd6cUdHY3ZWZ05OZnFWSHYtTmRwdkpvYV9HY21xN2lUR3FLM2J2MW5uMWdfRllyNXNkQVV1VGc?oc=5",
       "snippet": "PTA Warns Pakistanis Against Online Scams and Data Theft 247news.com.pk",
       "publishedAt": "2026-10-19T10:04:15.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybercriminals favor Microsoft over Apple and Google in brand phishing attacks - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUhEUTAwRmJsZUh0LUxOcGNFNGZoMWhONFRERkF1cWp3dWZsQjJuWkUzQmJWOTJoRVd5STExMjdjb2pnMXpYemUxVWpTbjBGSWpSdVJuNm9rTTZVTUw3OFc4N0VHVS1NdW5RYUVLOTltTjdJaUMycGNOMHRsalpZQ3lyc21YMzhIVHIyZkhnYTFIc2hqazZkTmFOS0w?oc=5",
+      "snippet": "Cybercriminals favor Microsoft over Apple and Google in brand phishing attacks Help Net Security",
+      "publishedAt": "2026-10-19T09:38:17.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -371,6 +491,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Over 390,000 phishing attacks exploit legitimate cloud platforms in 12 months - Escudo Digital",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWU5tQ0FxQ0pmdlVvaVBwaWRxbVNoMU93T2pCeXRVOFA1c0wxQVlVY1hWZ2VSWnJLU2taek12SkFWZmdmLThjQlF1bFdMUWZndUNwSDZaMTBxZlVRS2I1ZTYxNkh1RnVGZjBQVUo1T1F2b2pXUXFseHZPSmFMRThEZHQ3MFIwQThBRnBNVjFaRXRLTXRaN203d2x5SHp3c1doeHozbEdTcVFCa1Z0WHktemYtNTM0R2dHdW10dDhaUzZUMDg?oc=5",
+      "snippet": "Over 390,000 phishing attacks exploit legitimate cloud platforms in 12 months Escudo Digital",
+      "publishedAt": "2026-10-19T03:45:01.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
