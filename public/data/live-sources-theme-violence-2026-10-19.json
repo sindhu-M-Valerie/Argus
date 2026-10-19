@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:00:29.864Z",
+  "generatedAt": "2026-10-19T13:45:36.136Z",
   "snapshot": true,
   "date": "2026-10-19",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-19 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -72,14 +72,14 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Online anti-Indian hate surges in US ahead of midterms, fuelling fears of real-world violence - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZTF0WnR1VmdndDNZYk0yMUpoeTFxdTc3Q2xIaFR3YzRlQ00zUWNpZTlmVHRLdFRWbURfX1AwYThuV01SenBrbldMZ1FsUGFTalh3S1VLdUZRUlZYZ19oSXJjTmI1akpnU05ocGlxcVNWM0lObGREUHk0am92M084UnBiTU5OUXA4RmRrUmRIbTlHWjNWRFlNZHk5eDJPVHlxN1ZtZDFTeTNwM3Y4dWF3Sm9LN20tN2RoX0w1bENmbmZ1TFBSWDZob0Q0UG1OY01LVzQxd003bXd0SEhxTHRCQmRTdlpHd9IB6wFBVV95cUxQZmN1MGZQNkh2eXVLdXRhLXp0YVhpQ0hnX1ZoTDZ2NTA0alBibm1OYW1hOEhNR2JVS1pieTFpY0Z0TU9mTzI5YUZWc2JmOUtoN291dEx0T1hRMllMZmREdm9tNUdXTnE1R3hPZFlIMy1hMHpoR3NId1lQWVJuWXJrRExNTmhKQXVKcEM2dS1BbXBjMUxPSEFqMFY1bm9sRmsyU0QxUzlFSXBIdGpOakhWd0xMM2I5ZkVaTmhkRUF4YXFuNWtuMHFReDJhYy1JQjJpeXdBT1RyRkxCaER0ZkpOdmVhNjVFUUxXNXpV?oc=5",
+      "snippet": "Online anti-Indian hate surges in US ahead of midterms, fuelling fears of real-world violence Firstpost",
+      "publishedAt": "2026-10-19T05:59:25.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

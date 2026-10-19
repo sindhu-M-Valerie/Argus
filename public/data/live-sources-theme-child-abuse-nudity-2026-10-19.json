@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:00:29.864Z",
+  "generatedAt": "2026-10-19T13:45:36.136Z",
   "snapshot": true,
   "date": "2026-10-19",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-19 on child-abuse-nudity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -72,14 +72,14 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Supreme Court Targets Online Child Abuse Material With This New Database Plan - Indian Masterminds",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGRKUmNuaHF3MVRXaWJKMVJ2MGV5NWhkSkFhcFZvZnE4OTI3U1docFplUWJacGYzeXltWHZIZnJQMmUzazRpXzYza3Ztem9ENnJoZzdtSUNIYlBYZ21FV0hGNXAxSEhWWW9tTzZ4UUwyR043Unk1a2ZiNkY3MUhyZjFFalo1MHl2OFZFdXBZVk40TFlm?oc=5",
+      "snippet": "Supreme Court Targets Online Child Abuse Material With This New Database Plan Indian Masterminds",
+      "publishedAt": "2026-10-19T13:12:43.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:00:29.864Z",
+  "generatedAt": "2026-10-19T13:45:36.136Z",
   "snapshot": true,
   "date": "2026-10-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -72,14 +72,14 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -182,6 +182,96 @@
   ],
   "data": [
     {
+      "title": "Fact Check: Old video of sanitation workers’ protest shared as recent from CJP protest - Lighthouse Journalism",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXJIMWxCRjB2YWR4RGM5cEtpaHhwM1llQVNFWGFiTG1IYzJDQ3JvbV9vZGJBWUJaSFlMVlRNZlJNem5hQ0ZHUkF2VDlGbUtPOElxQkZnTFBjWUw5QWI3Z0VHLUV3UlB6U3lDUUgwTjFRRjJiWlJweDJYZ2FrbUVBd1hhYUR4Z1Z1c0xTaFRSTElIQXU2MUluY1VYdGhVYjhvTldiUWIxRlFfWEJzS0JfeWxTMEtIdlhHdUFDclZkMC0wTTBLQzJWandaRHJHQQ?oc=5",
+      "snippet": "Fact Check: Old video of sanitation workers’ protest shared as recent from CJP protest Lighthouse Journalism",
+      "publishedAt": "2026-10-19T12:29:47.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Shahid Afridi's Death Rumours Sweep Internet - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONnRLRGtHaW92cTJ4ZURfVXVaRXRqT2djdjdNbV9uZUE3N052Sk5weVI5OGNqaUlMdEhVbFBXQXFRRDlvalp3Tk1ZWnZRSlpqT0tpeE9PUmhiT0RkeUZIS1RVOUZNZU1wUGRZREpMNkxzY1RmbVlsd2JiVnhtb0s1RmlvUUdaLXFTa1dXRWNabDQza2JUSjcwMUk2NNIBowFBVV95cUxNdktxWDh1Ny1GWFc1eWczZ1FNcmJKcl9QTm0xem0zS09yOTZ6b2VqR1pnRkJWcXVuWWNRZlRmaTBfN1RlRzhicjh4MWc2OTJqT0RWbGtoR09UMTBoSjZINm5EMVkyZ0V0bV9qREZqNUp1ZDVKdV9wSi0zQTloakFwSHZwbDZMNDBKOUZTZE1yZmQxRkdtVk5mQ2wtQUV5dEdEQk9z?oc=5",
+      "snippet": "Fact Check: Shahid Afridi's Death Rumours Sweep Internet NDTV",
+      "publishedAt": "2026-10-19T11:31:19.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "FactWatch debunks claim of attack on priests at Palashbari temple - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Rc0JFTU9kMTNmbDlCUy1Yb19zeFNpYkdpdEtpdE04R09VMjd5U1NPNDVZMUcwc2Y1ZkNWSUgyQS1uWnpfbkswTndyN09pcFFCR2dN?oc=5",
+      "snippet": "FactWatch debunks claim of attack on priests at Palashbari temple Bangladesh Sangbad Sangstha (BSS)",
+      "publishedAt": "2026-10-19T10:18:23.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Image from Spanish Protest falsely shared as Anti-Modi protests in India - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQWdlTkJyTjNzd0FEY2pkMmNhYmYwWFZ0Rm5meDBFRFloNkRKR2VNcVBxRF95OUFvVTNkTi1MSzNmbHhYVWxramhXMjMzN2N5Q3ZyeEpnangzcGI3Y25HUHNNeWdrT1JYS1J1R2NnTnQ2RjVJOFlqTmVmTFBLNmZaRmhOX2FSZkgxcnphcGVXWnllbjNZR0VROHVPd3hxSkc1X2VHREdOMmxheVVfeWp3LUl4WFZycVBUTzBPalVURmxHU0NZR1A4T3lrQdIB0AFBVV95cUxQS3lKWUFhWjBaT0dNZDlRSjExSmpBbmcxN1NOUVp1aVZ6ZnYzQlVadjJ1dHZfVVMyaGdFYWQ1UlNnNERhQWlsRXo2T0tBdmIzaENvdjl5d1d5RGpKUEh2cF9wQkplZEhHakdFamlERGFxNlZBN0FGRk1CUlEtWUJ3TEJPZFYwaklHODFHR3BkUXZKcGFkSFRrTUd5bmVRMGRxUll4b3pJYnZRYjZ4clhYWmtkd3oyQVlZNThYTDZDTG9ZOWdiYjBTSzY4TXlwbmpi?oc=5",
+      "snippet": "Fact Check: Image from Spanish Protest falsely shared as Anti-Modi protests in India Organiser",
+      "publishedAt": "2026-10-19T07:13:23.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Pakistan claims IMF chair as “Historic Milestone”; Turns out it is just an empty protocol - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUnU3QWhySk1jWHl1dnQzaVJGdE9rbFZaYlp5ekN3LUFNdEV2QUY0SlpMV2RWM2FTYm1FeDFodkFhVU9nc0ZUODEyaVdsR25BX0ltMTBST0ZRWWJ6S3NhUnd4YWpNaDUxU0JocTV3X05sczBJUTF1NFI2Nm1LQzhZXzZqajVhQ29KU3F6TS1aTTN1ZEJMRjRuV28tTlRPVEJmQ3NtTU9xUExnME55Z2UzRFN6RWIyM2pQd0ZlVVhHWmM4Ym1xallfZTd3bmd3M1VHTUhZYWc2YXQzTWZVZXfSAeMBQVVfeXFMTXpRUDRQazFJMTctRUNpOFcxd1dWY3dNVGhkd1B6NlZRTlpjQ0lic0stSzhRblFuYTJzS1FfYXl0d0NhN0lORzJScTlpUXhieHlTMnRSNkNBWmN1Zy1yZU9Kay14bDBQLU1nX3BvMS02V2pLd0s2M2ZxQS1BenBlZXhPOGJnVC1IVE9NNW5DanZUSHp5VXJjSVJUaVAwYm1iWUFWX1RucWhPNHdYWTliNWhNRjlza2JJVnU1V21xTmxwMjZrc3BTcm80ZzJQN2UtekVhc0k4ODBKUWotMUxOTXNpR1k?oc=5",
+      "snippet": "Fact Check: Pakistan claims IMF chair as “Historic Milestone”; Turns out it is just an empty protocol Organiser",
+      "publishedAt": "2026-10-19T06:33:46.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Viral post claims UP CEO admitted 85,000 Muslim voters forms were auto-deleted; Election chief calls it ‘Fake news’ - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRnBIWXVsV0FDWDVmY1k1d2FmcmJVTWxaZHlibWx3TU1DenZLYVFHTC03VmhUdmpqNjRjVUUwdnl4Q3I1QXdBNHdpbWk3MDdrTjROampRRGRPREJoTXdyekxIU1pPTDVKc2dTVTNlMnVaQ3pWZ1ZhZGV6a2NUaE0zZWhWd1pmQ0tSTWN5WDU5RW9mNmJNVWZjaUxFWnV2N1B6TFpveXUybGdLVFlNeGlLX0o0U0FtRTdncmxlLTRPMk1vRGQ4Ui1QMXJsQWN2MzdzMkNvX0tqVTVOTGJkQ3FaeWZLZjgzcmlTNU9Nb3d5cVHSAfYBQVVfeXFMT210QmNySnNNTTVTeEhXOVFiR0k2b25QT2RoWHgyNTJIcU1QRUxpQmo2aXVCUE5zRkRUaXE3cGtSN1FoOG81RmhwN2Nia194VWtqTWVicjVuQ1E1YUt4MVRFLWE2OG9ZcFVPVjk4czJWbDVUZ21Jc0c1dWxsOEdGQS1VdUhOZG5Bcjd3QmkyUmpoTWprOVJTYTRZczBaS2NwbWl2ZGVKS1BGZ2h6bzVOcHM4TUFqZlVTYTNpYmVGN1VpLWpQNjZUV3daZ0taeGRlT090dERTNEtDOFJaUzlUME9pRDZDaUpCT19SQnhRNXhyMmRxZ0Rn?oc=5",
+      "snippet": "Viral post claims UP CEO admitted 85,000 Muslim voters forms were auto-deleted; Election chief calls it ‘Fake news’ Organiser",
+      "publishedAt": "2026-10-19T06:05:22.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact check: Viral Texas Roadhouse photo falsely claims Gypsy Rose Blanchard was arrested for murder | Hindustan Times - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNa1VQMWR3dGlYSy1uX2U0dU42UFhSS285c093QW1wbzBlYnNQZ21FR0s2WTJqYzVhaDRib3VIQUZNbm1zNjduNGVRUVM3am1pSVZXZVVaNEU1YWY5cDNsWVBLYmhTQlpLbDRlY1lNdnMwMUphU2xrVi1iRHdUZWEwOWZrRUFuajVta1puS3FsakgxXzRTVGc5Z1FOYU9kWkxpVFpfaDBXclBRN081ck9hYWE1c29KR3h2Mk5fdzBOMnI2SHZjVnJtYU8yT0t0cnAwbTJFT0pCSUhwdWl3dGV2aDlxbDdldUJRUFZuSkRtMXZfNGVINmpEemVjZmlId9IBgwJBVV95cUxPd1ZDazVWcUd1bWJweXJhTUhPVXhIU2c1Z0JkOXEyWGVCTm02cVdYVFVTcXpYSDFFUHFjNlYxdU1LY3d5eFlpbjU3MnFCcW9FV2p0aWFDdTJLRWlldWNDSy1fLTc0Y2Znb1lCaHdKTTE5MW5wcDB0NlMxYjVJSXBFXzNTQWpBOTRPdWFhRFhSZ1dnQWZUOHQ2dGRXa2J0RjVVdmU5cERxVHhMbUFQcUQxZWhTSUtjM3JfeEVWckxSb0tuNTBDWkpKdVhsbm12Z1B5VlhNVkxmb0dfMWYzMjdEYTZJX0RETXJPc0dLa09YOW9KWmk3VWlOdVUwRjMxekZnVHNZ?oc=5",
       "snippet": "Fact check: Viral Texas Roadhouse photo falsely claims Gypsy Rose Blanchard was arrested for murder | Hindustan Times Hindustan Times",
@@ -192,6 +282,36 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NCW Seeks Action Over ‘Fake News’ by ABP News on Singer Neha Singh Rathore - The News Insight",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzROcW5jQWtaeDFfamUzck1EM2I5MWkxaWtGdlJ1N29CaVpybm9ad01rbUd0NnBSQ0pnX1JlYkVfeDBHdkVlRFpVYnpxUWJQeEV4YmlaamZJV3BsU0R4UVhzWEl6aXppMWxpNW14T3I1MklMWTNfak1zOHlISWdkZUtkeC1IMmlHeVFVQzdnOWJ5YWlSeVgycFJHWGQxNTA?oc=5",
+      "snippet": "NCW Seeks Action Over ‘Fake News’ by ABP News on Singer Neha Singh Rathore The News Insight",
+      "publishedAt": "2026-10-19T13:44:13.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Fake news': UP CEO rejects lies that ECI automatically deleted 85,854 voter forms, says no such admission was made - OpIndia",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmtLT2ZOYndpc0RtNG1lbXdNUm1EbnhaVU5tVVlYaTJVRWZMWGlsNmdnY1lROWhxYmQyQ1NPMzdCTkRiYi16MTJLcDNTWENZQnp1VEJDN25adzY1S1dsZFlORVQzRFVFWTFZMXdsbHRmS1RLUExDcVlHeG04OVBvRi1hWEpfYXRjSWN0aEZNSUFpei03ZnBFLUxSZTNJaW1tMjB4SGFyMWRuQzhOT2N0MXZycnpubVRLSHB2SWRkbnZpSm9jb2t6UVlUcTFYZ1p5YU5BYWxNM1Vpc1U?oc=5",
+      "snippet": "'Fake news': UP CEO rejects lies that ECI automatically deleted 85,854 voter forms, says no such admission was made OpIndia",
+      "publishedAt": "2026-10-19T13:32:19.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

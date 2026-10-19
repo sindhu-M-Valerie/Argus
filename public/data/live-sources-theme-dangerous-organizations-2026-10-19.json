@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:00:29.864Z",
+  "generatedAt": "2026-10-19T13:45:36.136Z",
   "snapshot": true,
   "date": "2026-10-19",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-19 on dangerous-organizations.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -72,14 +72,14 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Who is Anil Pandit, the gangster in the spotlight after Tiger Shroff’s failed assassination? - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaTBVSW50WnpNeU9Pb0tXZnc0UkFzbDY4MEx5WV83NDNNUnBqcVk3T2ZkX1psOHAyZElybE5lMHJUXzZwZDZ3MjB0RXVVWkNlNk9CMlYwNVVGVmxGeE12Ym5ubHhSZnhreWZlZkZGVnV3ZmZyRjhqLXE0ajBsUENtQ0JpNlpjbk1SbHpLZi1OM0hOX2pDaUptRkJxZ1lQTE8wdnhEZUtvOURXYWp4bW9jTzR6NmdoQnpiQUdjOTNLeHhrYnRId2F6ZW5XTGg1UHhjNlRuYXIyZmZnbkF20gHcAUFVX3lxTFBpMFVJbnRaek15T09vS1dmdzRSQXNsNjgwTHlZXzc0M01ScGpxWTdPZmRfWmw4cDJkSXJsTmUwclRfNnBkNncyMHRFdVVaQ2U2T0IyVjA1VUZWbEZ4TXZibm5seFJmeGt5ZmVmRkZWdXdmZnJGOGotcTRqMGxQQ21DQmk2WmNuTVJsektmLU4zSE5fakNpSm1GQnFnWVBMTzB2eERlS285RFdhanhtb2NPNHo2Z2hCemJBR2M5M0t4eGtidEh3YXplbldMaDVQeGM2VG5hcjJmZmduQXY?oc=5",
+      "snippet": "Who is Anil Pandit, the gangster in the spotlight after Tiger Shroff’s failed assassination? Firstpost",
+      "publishedAt": "2026-10-19T07:11:03.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
