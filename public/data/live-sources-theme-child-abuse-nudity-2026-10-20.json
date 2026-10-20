@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:31:50.704Z",
+  "generatedAt": "2026-10-20T05:04:40.242Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-20 on child-abuse-nudity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Woman sentenced to 55 years in prison in sexual assault, child pornography case - Herald-Whig",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzBWaHJXaU5aMDFsemcwOW1ERTlKeUNnZGZJQWFxUk1MNGk5STJrbnAzU1FkdmdycURfLUlqNG1RR3BjMEJuaVZneW5kR0RFSG9KQzJOV3ZsLUM0Rlg4YWRRS2VKX0VyemRXLU9zTFpYYVRXM2dwNDZIZmM1WmwwSGZ6MlVFWW5BUE9mZnJnMnVOQzMycnVMYm1SMFROM0diTnNiazU0djNZVDg?oc=5",
+      "snippet": "Woman sentenced to 55 years in prison in sexual assault, child pornography case Herald-Whig",
+      "publishedAt": "2026-10-20T01:40:03.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

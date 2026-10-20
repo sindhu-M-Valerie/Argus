@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:31:50.704Z",
+  "generatedAt": "2026-10-20T05:04:40.242Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-20 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Did protesters hoist Palestine flag on Eiffel Tower? Fact-checking claims amid protests in France - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzZyWjRzdEJWN2Nja1FzamtOa3l2OFBtUGstY1g4a2Y4ZXNrak8wS0pmWmZHenhoZUZVMkVjRnhFVmd4Y1E3YXdjSF9oVmdZNXBDaVg2Qi1tM01XXy1xSGYyYXl0S2pqd2pLY0c0Y0k1LUJOVFZiYWl4Ml9qMnpDSDh5b2pNS1I1S0p0SXZUSkFpcjlFdmdnWDdzX3htNlJTQXJLMThJY0RiVmhqWGpXd2l6Vm12M2NVMGNKc19ScGU4d9IBwgFBVV95cUxOTzZyWjRzdEJWN2Nja1FzamtOa3l2OFBtUGstY1g4a2Y4ZXNrak8wS0pmWmZHenhoZUZVMkVjRnhFVmd4Y1E3YXdjSF9oVmdZNXBDaVg2Qi1tM01XXy1xSGYyYXl0S2pqd2pLY0c0Y0k1LUJOVFZiYWl4Ml9qMnpDSDh5b2pNS1I1S0p0SXZUSkFpcjlFdmdnWDdzX3htNlJTQXJLMThJY0RiVmhqWGpXd2l6Vm12M2NVMGNKc19ScGU4dw?oc=5",
+      "snippet": "Did protesters hoist Palestine flag on Eiffel Tower? Fact-checking claims amid protests in France Firstpost",
+      "publishedAt": "2026-10-20T03:41:46.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

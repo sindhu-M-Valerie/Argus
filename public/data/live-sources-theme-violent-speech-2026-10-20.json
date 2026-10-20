@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:31:50.704Z",
+  "generatedAt": "2026-10-20T05:04:40.242Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-10-20 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "‘America more polarised than ever’: Raja Krishnamoorthi raises alarm over rising hate crimes in US - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVBIcUVUOWprT09OdnBORWU5aGgwampjRGtMMTFhTklCWW9Ma1pVcWxqazdGTzRjR3pCdHFkWDYzZFpkTy16a1hFWkwyYndtczJscnJxa081c1NUYmZPU0Fyc19VWGR0bEg1UzNPWnA5ekhPLW5MbDZ2Sm1xdlBkVURYNlgyeVVteVRzZEZqOHNnY29fOGpJTDNwNXpPdURwUmRuNGEyV2JZQzJoOUd3M3hXUlZuZnpTN3l3ZmI0RjdKSUZ4MHEtTXRpRG9JTWQ0U3kzSFhHaVdNLXpKVkFqUWJqOGdHWlRya3BSNDFwSdIB9AFBVV95cUxOZlBZZ1NhS3llX2pMRnozb3EweC1SdU5lVXdMTGZKU1VFblNMXzN5Ukt1cGs3d0haeVl0YUlqRFM4Uy1QZVh1anNGNjRISHJSeGwtT1lUUVVidUxPQnRaNjZWYlNuTVFiTnJDRXdxV2lQd0dTRVltRDljcTg3QmhZUlhvQkl1bU9IQlJNWFU5N2hMd01PT3hZTFRNNjVfLU9WazB3ZkJzcUxHOXVfTVdIdmZLLW9YVXdRNGJfTmNTcFlyT1Y4Ym04TEhkWEM3QUgwVjNpZ2oxNnUtNHE5cXNfNGdfZXFmbDd3ajJWaDNrS2FydExn?oc=5",
+      "snippet": "‘America more polarised than ever’: Raja Krishnamoorthi raises alarm over rising hate crimes in US The Economic Times",
+      "publishedAt": "2026-10-20T03:45:28.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "\"America of today is more polarised than ever before\": Raja Krishnamoorthi blames government rhetoric for rising hate crimes - www.indiagazette.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNWJGbXJ5NlMzdVhTWkJrMXVqdGNHWmpWRE83NUdybmp6cHVxejNSNGNZdmZUU0RXamItWnJsUUJyc3lKMFhqZmwxTkE0T1NFM3NiRUhvbS14Y0hfUXB2eHR6Z2VDY2lTR3F2NDZuZzcxQXRlUTgtSXB1akVtSjFEdEtKdnVUX2FCeVNHUURYZUt6QWM3X3BrNkhTd2VMNzQzTmdoYXFtZHNsMGRCc0RWaDB4dENpU1NHN2pVNVJEbjdMTk9PX1hwQm1Mc2ZvWkgzdVdxY0tKUTJ5ZE5KZkJ1X09jTGNIazg3WnNrd2c2ajl0NWRhdUg1LQ?oc=5",
+      "snippet": "\"America of today is more polarised than ever before\": Raja Krishnamoorthi blames government rhetoric for rising hate crimes www.indiagazette.com",
+      "publishedAt": "2026-10-19T21:28:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
