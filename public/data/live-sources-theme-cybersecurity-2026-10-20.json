@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:04:40.242Z",
+  "generatedAt": "2026-10-20T11:55:04.539Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSjdCb0tvb0ZPOVRLQ1BLM3A5QlJrcm0yVFR6RFEwaEt5UWI1YlBUYmU1dEVoRG9QUlY4dGNCTVpHNDJmVG9ZaUVoYk9CNm9MVm1rUlV0UkpHODZrRlliaGVRZU8zbFQyXzBBYjFwWHdCWWpkQjRRQlNnRjU4RHkzMmc3NF9NZzJhbVZ6WmdZNVZlTU5KWlVGWkxiVU52UjQtNnBvY011YXlMdXQxX3lFanpFa08ycF9SQUpMd1REUE1BMnB6cC1Bby1NN0plZ3lFb2RONFNJYWNzWmvSAeABQVVfeXFMUF9PSlo4VGY3TWdXNDBhU1AzRnBnbV9YMW9UT292Z2k2WlZtWEdHSjRGOFhqVW45S3N3VEtOMDhRN3ZQbjhpRld4NXBnalM4Zkt4WmZqckFkLWNCSVVEYTFOTzJIcEdsZEFKanc4SmxlQ3NvU0J2b25IcnpMSG5MYzF3d3JDTHRvaVJiSVJsTk0wcVlPVkFmT3ZOcEs2cHBpSm5DaC1uZ1JZZmhLVWlEUjlKUWtNZnJ3cHFSMFdSS2lOcXVTTDdMNXIzVndhbG5XMjNTcWJ1Wk9aaTZOYkYzY1I?oc=5",
+      "snippet": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents Moneycontrol.com",
+      "publishedAt": "2026-10-20T10:58:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Japan Faces New Wave Of AI-Powered Cyberattacks As Hackers Exploit Stolen Data - ChannelNews.com.au",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHlXTGs1aElqalJKdnJtQWtQVVFjajhta1hmeVlmUjI4ckxQcmktbFlUQUNOY1l4cmF6UWpBOXhnVnpYeTVsUk53a3lEZUpCQmNTbWRzbFlfMkNwUGhKVFh4QWJTUXAtQlZEUUc2RTRRWXIxX054NF81azZYVXZ0TGV0cGlnSWpuN1pTb0VXa0ZZdHRiYndxZngyeW1vZlV2YnZLWG0xMWU3bWlPOUI4?oc=5",
       "snippet": "Japan Faces New Wave Of AI-Powered Cyberattacks As Hackers Exploit Stolen Data ChannelNews.com.au",
@@ -193,6 +208,51 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "California Student Data Breach: ETS Hack Hits Millions - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOOUdJOWNTdUNjLUxYWTBJWHFLVmF5dndKdlltR09mY2ZEcUxiZm5ZRkJOMVlDWXBZclF4Ml9ZaG1CMUhsQmV0dEl3a2xwSTc2MzFYNllVRUNEeWxzVGszUEN2RUhjVXVxZ2Q2Tkg3NnBfeDl2NlVPaA?oc=5",
+      "snippet": "California Student Data Breach: ETS Hack Hits Millions https://tech-insider.org/",
+      "publishedAt": "2026-10-20T08:40:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nikkei Inc. Cloud Data Breach Analysis: Credential Compromise Exposes 1.83 Million Records in October 2026 - Rescana",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3JUbUhDVXpVX211SVpwZFlxbmRsdDNpNnZYYnJNYWdERVNzeEFibHVXeGhjOHE3TE00ZkpxVjNpb3pVbE53VDF5T1FPMzBicW5heml6NU44ZHdaMEtaMllVQlBlUm05M1Frd29WTGVpWU94TFUtZDg1MTUwSXRlenJTN0h2bDBqbGJ5QVJHam42QW1JdVQ2SW9xVDd6WEZma1RGaURjbmFTRnk5b04tOWhldG0wTmpIZFY1ZHNST1MyZ1dZN1JoeW10aHNIQQ?oc=5",
+      "snippet": "Nikkei Inc. Cloud Data Breach Analysis: Credential Compromise Exposes 1.83 Million Records in October 2026 Rescana",
+      "publishedAt": "2026-10-20T07:14:02.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ticketmaster Brasil notifies customers and ANPD after third-party data breach exposes buyer records - Mix Vale",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVmNEZyUnBCb0YxU3dVVkFPd0ljWVp0R0tSVm94U2EwVk1yUTVsaXBUUm5YSUhKRHJ1U0dkdldjNGR6LU9Dc1FHc0FsMmZOUnNMRWl3eFp1QkJ4OWRtQ01qWUI3MG5tcjVIVXkydE5OTzE5OTJVV2lWZ1BwSllKaWJvWThpWE43TE9XN3RTU2gtdjZ2QnotS09ISl95WlZFbHV3b1VSMNIBpwFBVV95cUxQSjVmNEZyUnBCb0YxU3dVVkFPd0ljWVp0R0tSVm94U2EwVk1yUTVsaXBUUm5YSUhKRHJ1U0dkdldjNGR6LU9Dc1FHc0FsMmZOUnNMRWl3eFp1QkJ4OWRtQ01qWUI3MG5tcjVIVXkydE5OTzE5OTJVV2lWZ1BwSllKaWJvWThpWE43TE9XN3RTU2gtdjZ2QnotS09ISl95WlZFbHV3b1VSMA?oc=5",
+      "snippet": "Ticketmaster Brasil notifies customers and ANPD after third-party data breach exposes buyer records Mix Vale",
+      "publishedAt": "2026-10-20T03:09:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

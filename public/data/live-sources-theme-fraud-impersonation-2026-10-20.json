@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:04:40.242Z",
+  "generatedAt": "2026-10-20T11:55:04.539Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 11
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -193,6 +193,111 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Beware of Fake ‘Yojnas’: Inside the Social Media Govt Scheme Ad Scams Promising Instant Cash Grants - Outlook Money",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3daZ1kxQ1IzYmpUMkZ1VFdjeXFILUgyZHJzZVM3aWxRM1FMZkZGYWl2dXoxb1pfUUo2N1JkRDNUM3ZxXzRkRW1XMGcwclpDc0hISDhuYk9OcDNYVGhrcFdDeW5hS2RIaWRzeDdtbGh5c0dHMWUzMmRKX1JOSUpQTGw0ZS1BVVlJRjlrT19GLWdveEpBTlg1MS05b2JSVnZ1N0JHRlUxWHMyNnZRYVlsZU1ELTJlZkNHazE5Sld1dnlIU2RjUy01T2xB0gHXAUFVX3lxTE41RF9vZDN4TG1rNEVKdVlkQVNNR1ZCWTExNmhuTkZqZVRWVG5jMm11YXlYcDBvRFZuMTFGalgwa0VjREVyeU91ZDFwc3BFV0FwUzBNSkZjbmZCaUVrRTc2X2ZmSC1VVkh2anZQNnRqMjRaSmh1QkJKTzdYS1pWNTVaSXktYzYxX0hnMWd2RHBtX3lXQWg2YllCNW10QXV1Q25lMjR1MTF0UFFEQXA2dWlzenRGSzNqSUtHQklzVm5QdWM3R2FMZ0JCZHhCNlIxUV83M0dlTkJ3?oc=5",
+      "snippet": "Beware of Fake ‘Yojnas’: Inside the Social Media Govt Scheme Ad Scams Promising Instant Cash Grants Outlook Money",
+      "publishedAt": "2026-10-20T10:53:51.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Is the ad a scam? How to tell before you click - WeLiveSecurity",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekdZVVloMjhOYnVLMkVsaXVoYkR2Q2tkWDlIMS1DVkhRVTBzdks3amxIem5rSVZKMzJualg2YnZDdVFaQnJyWVVhYm1WQkpVWjhHY3RJUnM0MzdEcWVVVnNZZVJrdVhLREcwbS1vVENEaWdfYmZPcWpHS3ZpN1BzYmdJdGZLWFU?oc=5",
+      "snippet": "Is the ad a scam? How to tell before you click WeLiveSecurity",
+      "publishedAt": "2026-10-20T09:35:26.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cambodia’s Scam Crackdown Faces Test Over Alleged Links to Political Elites - Sri Lanka Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1Z2ZTdUTXJFNEdCUFNrRVRUd01FenVPMy1LRTUxVDBHSEphVkpYVGVlTHNVRDBkWThXUUM3ZjhGS1dIVm5teUVZMzhFd2pZNzdwZUVzM3pvdkxUeS12U1RzLUJzSUR5YU5BS19RZnNKU3ZSQVJ6TEJVdHYyZ2dYUEdyM0s5UlBkNjA4OTNpenJpT1VCdjNfSHdqekFwMFk?oc=5",
+      "snippet": "Cambodia’s Scam Crackdown Faces Test Over Alleged Links to Political Elites Sri Lanka Guardian",
+      "publishedAt": "2026-10-20T08:33:43.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Your Mobile Number Is All It Takes: How Fintech Data Profiling Puts Millions at Risk of Fraud - TheWire.in",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzlEcnE5RG4wTGp6TEJ2VlVKRmx2T1IwTzZWTm5IUGIxdmoyOUxHRURGRU9hdlB2eGVmODZWOHJ0cjZYZnQxR19fb3pjajNtMTh6b3lNTVF3ZVRXYnItSzlQRzlWdG95ZDYzb3BDUF9MQklMeGNidWxhcExSMVRWc09ZOXNoQUJPVThnZ3A4amlTN1VuNDdXM2ZGOFNlRmw0VGo0a0Z1VXE3WnRkVjdQeE1YRDIyZ0FWcTc3dlpB0gHQAUFVX3lxTE1qUGtSWGJKTnNlZ0pZelJJMW51My1sOGRUSlJDUVd6a3JtYW8ydUwzWFZnNzFqZDUtZlVBaWFKcy1fdktIbzk5aklaUTI2aTlGUmlxU013Mzl4bV9FV1hPOG91c25zTFQ2MV9sck1qZFRLRWVMY1RvMEFRa3JzTWdCckdOY3BwdTI3ckNzY09iMnI2N2ZEV19MZU5PazhYc203Y2xIbkhhNVBwZi1BWmJpS1R1TmV5YnBvWWZrcUdqYnlPRGQ2TDhJMGF4bWpCZWs?oc=5",
+      "snippet": "Your Mobile Number Is All It Takes: How Fintech Data Profiling Puts Millions at Risk of Fraud TheWire.in",
+      "publishedAt": "2026-10-20T08:19:43.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Check Point Research: Microsoft Accounts for One in Three Brand Phishing Attempts in Q3 2026 - Novus Press Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemtXZE5UZm5na0d6c1hjUTNTc2Uxb2d0RURZUE0tcVAzNEJIWkI2T3JsY09MeUU2S2E1UlB1S2xNVUhfZ1RoZmJHaWFxMU92cnBhcngyVFNfa1cxb2V3Y1lmb0xxMnFZZzdmRldjbE45QW83dDVYYlJRNUdFdzRiUGdpWVktUno2VFNrTlRHT3IyaHBiUmZRTjJ4cjV5ZE1hMm1pYkdyTTFONk5vbHJ5cFRUSG5DZkVXYndMLUlBMTBoRFJDSVIzbA?oc=5",
+      "snippet": "Check Point Research: Microsoft Accounts for One in Three Brand Phishing Attempts in Q3 2026 Novus Press Bulletin",
+      "publishedAt": "2026-10-20T07:12:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Identifying scams and protecting yourself online. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWpuVVBncHVTTHQ4VnBKa293UHNlNXlrNENwWVNxNHZWaG9HekFrcVVkdEhhM0NOaWphUXBILXRTdVhtbVNua0lyN0FCVGFGU2lZZm1DTTBBLS04czRjOVlSTGpyWkRGLWhzbDVoYjd3QmZseHlXeUZmZnBpX0htcWd3?oc=5",
+      "snippet": "Identifying scams and protecting yourself online. Vietnam.vn",
+      "publishedAt": "2026-10-20T05:31:12.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Visakhapatnam: Over 20 Victims Lose Rs 1 Crore in Google Review Job Scam - News Mobile",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNckxLbGs5Uk1rRnJkZmEzR2Q1UXprci1TZk4yYW5LbmlQRHg1MnJZME8wWnMyc0I0ZXg2Wmh2aDB4ZTI3VFJHZk5nVnR1c1d0RTJQaF84SlY1R0NhWnZNOFc1T2FJd0V1WGtELXZ2SktvTm1mZThlLU5Rek9lY1VPWHZpZVZOa3hPQm1BTHR2SzMxQVZyYTBKU2U1X0luaHRseE5ER01NQkJNN3hwMFpvU19Vaw?oc=5",
+      "snippet": "Visakhapatnam: Over 20 Victims Lose Rs 1 Crore in Google Review Job Scam News Mobile",
+      "publishedAt": "2026-10-20T05:16:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

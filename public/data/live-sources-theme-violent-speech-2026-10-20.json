@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:04:40.242Z",
+  "generatedAt": "2026-10-20T11:55:04.539Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,10 +182,40 @@
   ],
   "data": [
     {
+      "title": "'I couldn't stay silent': Miriam Mattova's fight against antisemitism after receiving death threats - www.israelhayom.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWZSQmFCb3o5aUF1OFJESVZEUUpDb1AxenVoUS1NR2p6SzFiSlQyYVhDRDNaLTc2RHhhLXQ4SGxxeHo2X2Y1RHc1Nnl3VUZLZElqc25zZGhFOWxNS21DTHoyR2lDLXNnLW9jdGRiZklQVlFMbnFLT2o1UjJ0LWRodkxqZklSdVVk?oc=5",
+      "snippet": "'I couldn't stay silent': Miriam Mattova's fight against antisemitism after receiving death threats www.israelhayom.com",
+      "publishedAt": "2026-10-20T10:32:51.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "‘America more polarised than ever’: Raja Krishnamoorthi raises alarm over rising hate crimes in US - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVBIcUVUOWprT09OdnBORWU5aGgwampjRGtMMTFhTklCWW9Ma1pVcWxqazdGTzRjR3pCdHFkWDYzZFpkTy16a1hFWkwyYndtczJscnJxa081c1NUYmZPU0Fyc19VWGR0bEg1UzNPWnA5ekhPLW5MbDZ2Sm1xdlBkVURYNlgyeVVteVRzZEZqOHNnY29fOGpJTDNwNXpPdURwUmRuNGEyV2JZQzJoOUd3M3hXUlZuZnpTN3l3ZmI0RjdKSUZ4MHEtTXRpRG9JTWQ0U3kzSFhHaVdNLXpKVkFqUWJqOGdHWlRya3BSNDFwSdIB9AFBVV95cUxOZlBZZ1NhS3llX2pMRnozb3EweC1SdU5lVXdMTGZKU1VFblNMXzN5Ukt1cGs3d0haeVl0YUlqRFM4Uy1QZVh1anNGNjRISHJSeGwtT1lUUVVidUxPQnRaNjZWYlNuTVFiTnJDRXdxV2lQd0dTRVltRDljcTg3QmhZUlhvQkl1bU9IQlJNWFU5N2hMd01PT3hZTFRNNjVfLU9WazB3ZkJzcUxHOXVfTVdIdmZLLW9YVXdRNGJfTmNTcFlyT1Y4Ym04TEhkWEM3QUgwVjNpZ2oxNnUtNHE5cXNfNGdfZXFmbDd3ajJWaDNrS2FydExn?oc=5",
       "snippet": "‘America more polarised than ever’: Raja Krishnamoorthi raises alarm over rising hate crimes in US The Economic Times",
       "publishedAt": "2026-10-20T03:45:28.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "America of today is more polarised than ever before: Raja Krishnamoorthi blames government rhetoric for rising hate crimes - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYUx2LURFU1JZdFVBUDh5Y0Q3U0hMbHdZYTBydml1eE9HVzJZbi1ZNi02N3R3QTJyM1RKd0V2R1hzNmNVbElmNjdnZkxyeTJRNGhzZEJKdkN3bGxEZ0hwNHZXX1BCSTJHdnJ4dHVaZDhWTDBpUWpaRVRhM3ZmN3NSd2xUWUtXVEl4clFhZndfNG45amVSZ2Ztb2FkcEhkSVdWbUZHTW1FeWcxZHR5ODgtbklDazVrbzlBX0pYMVo0WlRPRUN4dnB0a1UySDk3akNJTzJRUHJ3Nkp2aHNfdnBKcF9KRzBpeHQ5cDRLMTZsTDJ1RU80eUlNWNIB_AFBVV95cUxNcExYMUQtSEtiV1lFeVJHNFZYeGtMS0llaWhiazB4alNHZVV3XzdSOWttNmwyb2pJM096UTQwci1aVDZRN0xlNjBHcWlZUE92Qk5XU1RnUW5OODMtY3BiR0dNT2tYeHNlUXBONng4U1pGT09sRUtKMXlQZ25KRnNhV1dJajAxMjBfVDJtejhnbnBISkJ2T3p2YzN2S2tEVXlsRU9fQ0pwTGt2N1FCcmZ3NmtNcjcxMXRvNk0xQ21BOXJZNDdULUppLVpnd0pheV9oUWZHR0VySTFwekhIc25Ic29uWUlwQmQ1Mm1VUmlWUG5MOTlXNUVrS2FldFg?oc=5",
+      "snippet": "America of today is more polarised than ever before: Raja Krishnamoorthi blames government rhetoric for rising hate crimes The Tribune",
+      "publishedAt": "2026-10-20T01:34:01.000Z",
       "source": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",

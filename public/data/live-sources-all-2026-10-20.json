@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:04:40.242Z",
+  "generatedAt": "2026-10-20T11:55:04.539Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 18
+    "total": 37
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -197,34 +197,79 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Pimping websites: Human trafficking 'hidden in plain sight' online - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3MmZhdUJWZ1lNSDV1emFQMnFUVGdkS0tWSVZYTmxycXdFYTRsbE9fTlB3S3JNUV91SGRGYnFYUnNfZGk4THVkOVh4UjhZbkxGU2VrMXYxVDdqX1pOVEE?oc=5",
-      "snippet": "Pimping websites: Human trafficking 'hidden in plain sight' online BBC",
-      "publishedAt": "2026-10-19T23:05:38.000Z",
-      "source": "Google News • Sexual Exploitation Online",
-      "theme": "human-trafficking",
+      "title": "'I couldn't stay silent': Miriam Mattova's fight against antisemitism after receiving death threats - www.israelhayom.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWZSQmFCb3o5aUF1OFJESVZEUUpDb1AxenVoUS1NR2p6SzFiSlQyYVhDRDNaLTc2RHhhLXQ4SGxxeHo2X2Y1RHc1Nnl3VUZLZElqc25zZGhFOWxNS21DTHoyR2lDLXNnLW9jdGRiZklQVlFMbnFLT2o1UjJ0LWRodkxqZklSdVVk?oc=5",
+      "snippet": "'I couldn't stay silent': Miriam Mattova's fight against antisemitism after receiving death threats www.israelhayom.com",
+      "publishedAt": "2026-10-20T10:32:51.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "violent-speech",
       "type": "News",
       "provenance": "historical-archive",
-      "feedTheme": "sexual-exploitation",
-      "riskScore": 59,
+      "feedTheme": "harassment-bullying",
+      "riskScore": 52,
       "confidence": "Medium",
       "severity": "Medium",
-      "corroboratedBy": 2
+      "corroboratedBy": 1
     },
     {
-      "title": "Pimping websites: Human trafficking 'hidden in plain sight' online - BBC",
+      "title": "AI-generated images of India's women 'cockroach' protesters mislead online - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4QnR0Zmd3dDZxUThySUFPdDZnV2ZFOHRIOHdpNXd5ZHFwYVFjNjBqdlFVbWc3dFpBOTVEZnQyZXJ3Q0VKZFpMejV0Qkw4Rkx5dENjdm5qMEI?oc=5",
+      "snippet": "AI-generated images of India's women 'cockroach' protesters mislead online AFP Fact Check",
+      "publishedAt": "2026-10-20T10:31:04.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Pimping website' inquiry finds human trafficking 'hidden in plain sight' online - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlFkcmV3V0FPVU5VZEdONzhfaHhjdDRSQTJoMmFqb2dUSDUxUW1NUnlySTlIV044WDBMb3RzRVNYRzdhQnllakV2V1BkaVU3dmwtNFZvdlBpUm8?oc=5",
-      "snippet": "Pimping websites: Human trafficking 'hidden in plain sight' online BBC",
-      "publishedAt": "2026-10-19T23:05:38.000Z",
+      "snippet": "'Pimping website' inquiry finds human trafficking 'hidden in plain sight' online BBC",
+      "publishedAt": "2026-10-20T08:51:02.000Z",
       "source": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
-      "riskScore": 59,
-      "confidence": "Medium",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
-      "corroboratedBy": 2
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Is Shahid Afridi Dead? Truth Behind Viral Death Rumours - Oneindia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelpVenJsaGJwdlQ0LThZT2drUm93bkZ2WGNCWFdpTWh0Si04MW1vMHZuMnJkQWRTSVZRX1JLbW1GQjRUNE1jZ2JxVDNIOHJtYWxQNEpOcnBpSlZwR0FxbGNLcmdVQU9vd3NTVHFuNUpIN0tOa3lqMGFLMUxta2piOXNudDlJeGZJUkRBZjJvLWM1WktrR2I3SFJHSndxTGxSZU9ZblpvOEVLdW9pczAzMC00R0c?oc=5",
+      "snippet": "Fact Check: Is Shahid Afridi Dead? Truth Behind Viral Death Rumours Oneindia",
+      "publishedAt": "2026-10-20T08:17:02.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: Is the viral beheading video linked to 2 Bangladeshi nationals executed in Saudi Arabia over a 'forehead kiss'? Here's what is known - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTUxSOU9HWTdsaDRxUVJjLUlDc3AySElFTkJQR1RaTjFoaEpiczF0dDd6eVFENmxIZ0pPSnlmYXBXREtvamVhQlJjN2tsSW1Cb2RmTXhjYjBRcTJMSGNqdXlRV3hBbVctczYzUnN3N21KdlRfTnFFSWY1d0owMHZHTTJlY0ZrN0ZOVE5BSzZEVnMtdS10VEZ4QjN3VzB1WVFmMnhjUmJnWDR4SWpOODkzZjRYUDF1VEtuXy1ibTFJUXJxN0FaS2U4WlJNLWFXUFhMcmozdE10WS1OUHJrVkt0akJZTXhfWkozQTBYbFFVMDU1RjRqODRUY1dQLVhnTkx4TjFQelNmejdWNk04YVVvNXVUM29odkw4aW1oMlBnVGU1ZDl2SGxCd1RR0gGvAkFVX3lxTE53QVlOOEVBRkgtR0ktZ0lFNGlqUmRBbVNfMHlHQXo4VFRxZUJEMEFnUDMtbHlfSlVpNlZfZUZ1TVNZRG1ubUIwampUal9uNklsQy0xVXFFLWdMWmp4VGdFMXNINTlaSFlTTzJKNktpNG1OVmhJWU5uS1ZMc1lIWU5LVWU2a19DU2RNbUhqQ1VwXzBhTXR3eFNrT1dpQUpkNmpLUjg0aTkzaGh3ZGZlazU3NUF4QXRKSFFHVEFIV19iN1lodVRzeGRsWkJxTkplcDJ2Y3pVWXBkQTFrc2RzbjBubXBMTFRubDhJQUhRYmhwa3lmeG81NDNBM1BmdVI5R0pRZFZGd0RXX1o1RWQtU3VFUlQ4WjJXUEtnelppc2Y5Z0o0RDdKTkFMX2JDT1pNMA?oc=5",
+      "snippet": "Fact check: Is the viral beheading video linked to 2 Bangladeshi nationals executed in Saudi Arabia over a 'forehead kiss'? Here's what is known Indiatimes",
+      "publishedAt": "2026-10-20T04:13:49.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
     },
     {
       "title": "Huge number of nudify apps in Aussie hands - Yahoo News Australia",
@@ -287,6 +332,81 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Pimping websites: Human trafficking 'hidden in plain sight' online - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3MmZhdUJWZ1lNSDV1emFQMnFUVGdkS0tWSVZYTmxycXdFYTRsbE9fTlB3S3JNUV91SGRGYnFYUnNfZGk4THVkOVh4UjhZbkxGU2VrMXYxVDdqX1pOVEE?oc=5",
+      "snippet": "Pimping websites: Human trafficking 'hidden in plain sight' online BBC",
+      "publishedAt": "2026-10-19T23:05:38.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSjdCb0tvb0ZPOVRLQ1BLM3A5QlJrcm0yVFR6RFEwaEt5UWI1YlBUYmU1dEVoRG9QUlY4dGNCTVpHNDJmVG9ZaUVoYk9CNm9MVm1rUlV0UkpHODZrRlliaGVRZU8zbFQyXzBBYjFwWHdCWWpkQjRRQlNnRjU4RHkzMmc3NF9NZzJhbVZ6WmdZNVZlTU5KWlVGWkxiVU52UjQtNnBvY011YXlMdXQxX3lFanpFa08ycF9SQUpMd1REUE1BMnB6cC1Bby1NN0plZ3lFb2RONFNJYWNzWmvSAeABQVVfeXFMUF9PSlo4VGY3TWdXNDBhU1AzRnBnbV9YMW9UT292Z2k2WlZtWEdHSjRGOFhqVW45S3N3VEtOMDhRN3ZQbjhpRld4NXBnalM4Zkt4WmZqckFkLWNCSVVEYTFOTzJIcEdsZEFKanc4SmxlQ3NvU0J2b25IcnpMSG5MYzF3d3JDTHRvaVJiSVJsTk0wcVlPVkFmT3ZOcEs2cHBpSm5DaC1uZ1JZZmhLVWlEUjlKUWtNZnJ3cHFSMFdSS2lOcXVTTDdMNXIzVndhbG5XMjNTcWJ1Wk9aaTZOYkYzY1I?oc=5",
+      "snippet": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents Moneycontrol.com",
+      "publishedAt": "2026-10-20T10:58:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WSO Releases Report on India-Linked Disinformation Targeting Sikh Canadians - Sikh Siyasat News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGtyT095MFppcjFzdXhadko2enVfdjNwRzVtUzBlUWlfN2UwZXR4LXZkN1hVTjRHQjloUDhZNlI2M0NWRjEtd3dzNFhTcWJGMkJLNkJCNGF0RmNkMTNQMEQ0c3BBMFFCTUo0d0RFUGNoQTlGR3I1d1d3NkV4TWtmYWJ0TjFrQXJIT2NuOUtPNEhhNW5yWS1IdzJldm9nQ3BNTGUyampKYw?oc=5",
+      "snippet": "WSO Releases Report on India-Linked Disinformation Targeting Sikh Canadians Sikh Siyasat News",
+      "publishedAt": "2026-10-20T10:01:34.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Man Held For Spreading Misinformation About Toll In Kolkata Durga Puja Stampede - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFVtOG1CblFaVkZlaGo4VXdWb05uQmVJd2xZMG1rSHIwX3NpOFcwUXdVS192a2ZLWVVTblBMd0o0Zzc4R1hyUWhkSURyeFJHWGRrX01MOE5nbXZ4WkxMYnVNUnhzNk1VTTgwOGk0a3BnRmlndGZjelBFRTAwTExUdXpTWkFWaFlBMmhmY0ZZeVFiWWtJQ2J1NXg3bmlMdUVWeTZsdDRDcXpTaFM0SVdKd09NaldDM3B5YUJpOGItM2hHVFc3TlHSAcYBQVVfeXFMT2hVbThtQm5RWlZGZWhqOFV3Vm9ObkJlSXdsWTBta0hyMF9zaThXMFF3VUtfdmtmS1lVU25QTHdKNGc3OEdYclFoZElEcnhSR1hka19NTDhOZ212eFpMTGJ1TVJ4czZNVU04MDhpNGtwZ0ZpZ3RmY3pQRUUwMExMVHV6U1pBVmhZQTJoZmNGWXlRYllrSUNidTV4N25pTHVFVnk2bHQ0Q3F6U2hTNElXSndPTWpXQzNweWFCaThiLTNoR1RXN05R?oc=5",
+      "snippet": "Man Held For Spreading Misinformation About Toll In Kolkata Durga Puja Stampede Outlook India",
+      "publishedAt": "2026-10-20T08:21:14.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Man held for spreading misinformation about toll in Kolkata Durga Puja stampede - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBLdjhmZzFUbzV4YklLWUo2ODVMMGJWcGtocW9GYkpQcmdTMzRILW1SUjZTN0FLRjYwblliUWQ5T0VmZGdmQjN6NHRoaFQ0Z0I0NlJYd3VhN0g5Q2xVZjM4WkNLVXZnYVRQTVBWcVlnWFBXQ2tqMVB3X0kzVzdncG1IMlFYZk1fem5pdXhmXzFXU3BVbGVaOWZZSzJGdXVzdWFvU1VLbmZXa2NTQTdxanYzY01lMlo3clHSAboBQVVfeXFMT00wS3Y4ZmcxVG81eGJJS1lKNjg1TDBiVnBraHFvRmJKUHJnUzM0SC1tUlI2UzdBS0Y2MG5ZYlFkOU9FZmRnZkIzejR0aGhUNGdCNDZSWHd1YTdIOUNsVWYzOFpDS1V2Z2FUUE1QVnFZZ1hQV0NrajFQd19JM1c3Z3BtSDJRWGZNX3puaXV4Zl8xV1NwVWxlWjlmWUsyRnV1c3Vhb1NVS25mV2tjU0E3cWp2M2NNZTJaN3JR?oc=5",
+      "snippet": "Man held for spreading misinformation about toll in Kolkata Durga Puja stampede ThePrint",
+      "publishedAt": "2026-10-20T06:45:03.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Did protesters hoist Palestine flag on Eiffel Tower? Fact-checking claims amid protests in France - Firstpost",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzZyWjRzdEJWN2Nja1FzamtOa3l2OFBtUGstY1g4a2Y4ZXNrak8wS0pmWmZHenhoZUZVMkVjRnhFVmd4Y1E3YXdjSF9oVmdZNXBDaVg2Qi1tM01XXy1xSGYyYXl0S2pqd2pLY0c0Y0k1LUJOVFZiYWl4Ml9qMnpDSDh5b2pNS1I1S0p0SXZUSkFpcjlFdmdnWDdzX3htNlJTQXJLMThJY0RiVmhqWGpXd2l6Vm12M2NVMGNKc19ScGU4d9IBwgFBVV95cUxOTzZyWjRzdEJWN2Nja1FzamtOa3l2OFBtUGstY1g4a2Y4ZXNrak8wS0pmWmZHenhoZUZVMkVjRnhFVmd4Y1E3YXdjSF9oVmdZNXBDaVg2Qi1tM01XXy1xSGYyYXl0S2pqd2pLY0c0Y0k1LUJOVFZiYWl4Ml9qMnpDSDh5b2pNS1I1S0p0SXZUSkFpcjlFdmdnWDdzX3htNlJTQXJLMThJY0RiVmhqWGpXd2l6Vm12M2NVMGNKc19ScGU4dw?oc=5",
       "snippet": "Did protesters hoist Palestine flag on Eiffel Tower? Fact-checking claims amid protests in France Firstpost",
@@ -313,6 +433,111 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Beware of Fake ‘Yojnas’: Inside the Social Media Govt Scheme Ad Scams Promising Instant Cash Grants - Outlook Money",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3daZ1kxQ1IzYmpUMkZ1VFdjeXFILUgyZHJzZVM3aWxRM1FMZkZGYWl2dXoxb1pfUUo2N1JkRDNUM3ZxXzRkRW1XMGcwclpDc0hISDhuYk9OcDNYVGhrcFdDeW5hS2RIaWRzeDdtbGh5c0dHMWUzMmRKX1JOSUpQTGw0ZS1BVVlJRjlrT19GLWdveEpBTlg1MS05b2JSVnZ1N0JHRlUxWHMyNnZRYVlsZU1ELTJlZkNHazE5Sld1dnlIU2RjUy01T2xB0gHXAUFVX3lxTE41RF9vZDN4TG1rNEVKdVlkQVNNR1ZCWTExNmhuTkZqZVRWVG5jMm11YXlYcDBvRFZuMTFGalgwa0VjREVyeU91ZDFwc3BFV0FwUzBNSkZjbmZCaUVrRTc2X2ZmSC1VVkh2anZQNnRqMjRaSmh1QkJKTzdYS1pWNTVaSXktYzYxX0hnMWd2RHBtX3lXQWg2YllCNW10QXV1Q25lMjR1MTF0UFFEQXA2dWlzenRGSzNqSUtHQklzVm5QdWM3R2FMZ0JCZHhCNlIxUV83M0dlTkJ3?oc=5",
+      "snippet": "Beware of Fake ‘Yojnas’: Inside the Social Media Govt Scheme Ad Scams Promising Instant Cash Grants Outlook Money",
+      "publishedAt": "2026-10-20T10:53:51.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Is the ad a scam? How to tell before you click - WeLiveSecurity",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekdZVVloMjhOYnVLMkVsaXVoYkR2Q2tkWDlIMS1DVkhRVTBzdks3amxIem5rSVZKMzJualg2YnZDdVFaQnJyWVVhYm1WQkpVWjhHY3RJUnM0MzdEcWVVVnNZZVJrdVhLREcwbS1vVENEaWdfYmZPcWpHS3ZpN1BzYmdJdGZLWFU?oc=5",
+      "snippet": "Is the ad a scam? How to tell before you click WeLiveSecurity",
+      "publishedAt": "2026-10-20T09:35:26.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cambodia’s Scam Crackdown Faces Test Over Alleged Links to Political Elites - Sri Lanka Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1Z2ZTdUTXJFNEdCUFNrRVRUd01FenVPMy1LRTUxVDBHSEphVkpYVGVlTHNVRDBkWThXUUM3ZjhGS1dIVm5teUVZMzhFd2pZNzdwZUVzM3pvdkxUeS12U1RzLUJzSUR5YU5BS19RZnNKU3ZSQVJ6TEJVdHYyZ2dYUEdyM0s5UlBkNjA4OTNpenJpT1VCdjNfSHdqekFwMFk?oc=5",
+      "snippet": "Cambodia’s Scam Crackdown Faces Test Over Alleged Links to Political Elites Sri Lanka Guardian",
+      "publishedAt": "2026-10-20T08:33:43.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Your Mobile Number Is All It Takes: How Fintech Data Profiling Puts Millions at Risk of Fraud - TheWire.in",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzlEcnE5RG4wTGp6TEJ2VlVKRmx2T1IwTzZWTm5IUGIxdmoyOUxHRURGRU9hdlB2eGVmODZWOHJ0cjZYZnQxR19fb3pjajNtMTh6b3lNTVF3ZVRXYnItSzlQRzlWdG95ZDYzb3BDUF9MQklMeGNidWxhcExSMVRWc09ZOXNoQUJPVThnZ3A4amlTN1VuNDdXM2ZGOFNlRmw0VGo0a0Z1VXE3WnRkVjdQeE1YRDIyZ0FWcTc3dlpB0gHQAUFVX3lxTE1qUGtSWGJKTnNlZ0pZelJJMW51My1sOGRUSlJDUVd6a3JtYW8ydUwzWFZnNzFqZDUtZlVBaWFKcy1fdktIbzk5aklaUTI2aTlGUmlxU013Mzl4bV9FV1hPOG91c25zTFQ2MV9sck1qZFRLRWVMY1RvMEFRa3JzTWdCckdOY3BwdTI3ckNzY09iMnI2N2ZEV19MZU5PazhYc203Y2xIbkhhNVBwZi1BWmJpS1R1TmV5YnBvWWZrcUdqYnlPRGQ2TDhJMGF4bWpCZWs?oc=5",
+      "snippet": "Your Mobile Number Is All It Takes: How Fintech Data Profiling Puts Millions at Risk of Fraud TheWire.in",
+      "publishedAt": "2026-10-20T08:19:43.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Check Point Research: Microsoft Accounts for One in Three Brand Phishing Attempts in Q3 2026 - Novus Press Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOemtXZE5UZm5na0d6c1hjUTNTc2Uxb2d0RURZUE0tcVAzNEJIWkI2T3JsY09MeUU2S2E1UlB1S2xNVUhfZ1RoZmJHaWFxMU92cnBhcngyVFNfa1cxb2V3Y1lmb0xxMnFZZzdmRldjbE45QW83dDVYYlJRNUdFdzRiUGdpWVktUno2VFNrTlRHT3IyaHBiUmZRTjJ4cjV5ZE1hMm1pYkdyTTFONk5vbHJ5cFRUSG5DZkVXYndMLUlBMTBoRFJDSVIzbA?oc=5",
+      "snippet": "Check Point Research: Microsoft Accounts for One in Three Brand Phishing Attempts in Q3 2026 Novus Press Bulletin",
+      "publishedAt": "2026-10-20T07:12:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Identifying scams and protecting yourself online. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWpuVVBncHVTTHQ4VnBKa293UHNlNXlrNENwWVNxNHZWaG9HekFrcVVkdEhhM0NOaWphUXBILXRTdVhtbVNua0lyN0FCVGFGU2lZZm1DTTBBLS04czRjOVlSTGpyWkRGLWhzbDVoYjd3QmZseHlXeUZmZnBpX0htcWd3?oc=5",
+      "snippet": "Identifying scams and protecting yourself online. Vietnam.vn",
+      "publishedAt": "2026-10-20T05:31:12.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Visakhapatnam: Over 20 Victims Lose Rs 1 Crore in Google Review Job Scam - News Mobile",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNckxLbGs5Uk1rRnJkZmEzR2Q1UXprci1TZk4yYW5LbmlQRHg1MnJZME8wWnMyc0I0ZXg2Wmh2aDB4ZTI3VFJHZk5nVnR1c1d0RTJQaF84SlY1R0NhWnZNOFc1T2FJd0V1WGtELXZ2SktvTm1mZThlLU5Rek9lY1VPWHZpZVZOa3hPQm1BTHR2SzMxQVZyYTBKU2U1X0luaHRseE5ER01NQkJNN3hwMFpvU19Vaw?oc=5",
+      "snippet": "Visakhapatnam: Over 20 Victims Lose Rs 1 Crore in Google Review Job Scam News Mobile",
+      "publishedAt": "2026-10-20T05:16:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -362,6 +587,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "America of today is more polarised than ever before: Raja Krishnamoorthi blames government rhetoric for rising hate crimes - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYUx2LURFU1JZdFVBUDh5Y0Q3U0hMbHdZYTBydml1eE9HVzJZbi1ZNi02N3R3QTJyM1RKd0V2R1hzNmNVbElmNjdnZkxyeTJRNGhzZEJKdkN3bGxEZ0hwNHZXX1BCSTJHdnJ4dHVaZDhWTDBpUWpaRVRhM3ZmN3NSd2xUWUtXVEl4clFhZndfNG45amVSZ2Ztb2FkcEhkSVdWbUZHTW1FeWcxZHR5ODgtbklDazVrbzlBX0pYMVo0WlRPRUN4dnB0a1UySDk3akNJTzJRUHJ3Nkp2aHNfdnBKcF9KRzBpeHQ5cDRLMTZsTDJ1RU80eUlNWNIB_AFBVV95cUxNcExYMUQtSEtiV1lFeVJHNFZYeGtMS0llaWhiazB4alNHZVV3XzdSOWttNmwyb2pJM096UTQwci1aVDZRN0xlNjBHcWlZUE92Qk5XU1RnUW5OODMtY3BiR0dNT2tYeHNlUXBONng4U1pGT09sRUtKMXlQZ25KRnNhV1dJajAxMjBfVDJtejhnbnBISkJ2T3p2YzN2S2tEVXlsRU9fQ0pwTGt2N1FCcmZ3NmtNcjcxMXRvNk0xQ21BOXJZNDdULUppLVpnd0pheV9oUWZHR0VySTFwekhIc25Ic29uWUlwQmQ1Mm1VUmlWUG5MOTlXNUVrS2FldFg?oc=5",
+      "snippet": "America of today is more polarised than ever before: Raja Krishnamoorthi blames government rhetoric for rising hate crimes The Tribune",
+      "publishedAt": "2026-10-20T01:34:01.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "\"America of today is more polarised than ever before\": Raja Krishnamoorthi blames government rhetoric for rising hate crimes - www.indiagazette.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNWJGbXJ5NlMzdVhTWkJrMXVqdGNHWmpWRE83NUdybmp6cHVxejNSNGNZdmZUU0RXamItWnJsUUJyc3lKMFhqZmwxTkE0T1NFM3NiRUhvbS14Y0hfUXB2eHR6Z2VDY2lTR3F2NDZuZzcxQXRlUTgtSXB1akVtSjFEdEtKdnVUX2FCeVNHUURYZUt6QWM3X3BrNkhTd2VMNzQzTmdoYXFtZHNsMGRCc0RWaDB4dENpU1NHN2pVNVJEbjdMTk9PX1hwQm1Mc2ZvWkgzdVdxY0tKUTJ5ZE5KZkJ1X09jTGNIazg3WnNrd2c2ajl0NWRhdUg1LQ?oc=5",
       "snippet": "\"America of today is more polarised than ever before\": Raja Krishnamoorthi blames government rhetoric for rising hate crimes www.indiagazette.com",
@@ -387,6 +627,51 @@
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "California Student Data Breach: ETS Hack Hits Millions - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOOUdJOWNTdUNjLUxYWTBJWHFLVmF5dndKdlltR09mY2ZEcUxiZm5ZRkJOMVlDWXBZclF4Ml9ZaG1CMUhsQmV0dEl3a2xwSTc2MzFYNllVRUNEeWxzVGszUEN2RUhjVXVxZ2Q2Tkg3NnBfeDl2NlVPaA?oc=5",
+      "snippet": "California Student Data Breach: ETS Hack Hits Millions https://tech-insider.org/",
+      "publishedAt": "2026-10-20T08:40:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nikkei Inc. Cloud Data Breach Analysis: Credential Compromise Exposes 1.83 Million Records in October 2026 - Rescana",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3JUbUhDVXpVX211SVpwZFlxbmRsdDNpNnZYYnJNYWdERVNzeEFibHVXeGhjOHE3TE00ZkpxVjNpb3pVbE53VDF5T1FPMzBicW5heml6NU44ZHdaMEtaMllVQlBlUm05M1Frd29WTGVpWU94TFUtZDg1MTUwSXRlenJTN0h2bDBqbGJ5QVJHam42QW1JdVQ2SW9xVDd6WEZma1RGaURjbmFTRnk5b04tOWhldG0wTmpIZFY1ZHNST1MyZ1dZN1JoeW10aHNIQQ?oc=5",
+      "snippet": "Nikkei Inc. Cloud Data Breach Analysis: Credential Compromise Exposes 1.83 Million Records in October 2026 Rescana",
+      "publishedAt": "2026-10-20T07:14:02.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ticketmaster Brasil notifies customers and ANPD after third-party data breach exposes buyer records - Mix Vale",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVmNEZyUnBCb0YxU3dVVkFPd0ljWVp0R0tSVm94U2EwVk1yUTVsaXBUUm5YSUhKRHJ1U0dkdldjNGR6LU9Dc1FHc0FsMmZOUnNMRWl3eFp1QkJ4OWRtQ01qWUI3MG5tcjVIVXkydE5OTzE5OTJVV2lWZ1BwSllKaWJvWThpWE43TE9XN3RTU2gtdjZ2QnotS09ISl95WlZFbHV3b1VSMNIBpwFBVV95cUxQSjVmNEZyUnBCb0YxU3dVVkFPd0ljWVp0R0tSVm94U2EwVk1yUTVsaXBUUm5YSUhKRHJ1U0dkdldjNGR6LU9Dc1FHc0FsMmZOUnNMRWl3eFp1QkJ4OWRtQ01qWUI3MG5tcjVIVXkydE5OTzE5OTJVV2lWZ1BwSllKaWJvWThpWE43TE9XN3RTU2gtdjZ2QnotS09ISl95WlZFbHV3b1VSMA?oc=5",
+      "snippet": "Ticketmaster Brasil notifies customers and ANPD after third-party data breach exposes buyer records Mix Vale",
+      "publishedAt": "2026-10-20T03:09:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
