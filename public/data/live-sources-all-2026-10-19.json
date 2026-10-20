@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:55:04.539Z",
+  "generatedAt": "2026-10-20T17:24:40.366Z",
   "snapshot": true,
   "date": "2026-10-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 72
+    "total": 73
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -761,6 +761,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "violent-speech",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Immigration tensions hijacked by misinformation as police urge public to verify content - weekendargus.co.za",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVHU2Mnl3ZFh2MEtJeUNDNXBNd1phX3ZKeElVU1czTnp1VktBNGNrMVFZYWR4NjE2TTBsckpvSXlMZHFDSGR6dDVXYWZzNHlDX1Rya1NOVU5EQUVDVkhOVVFKREpNb1cxQWxrWGJCQ291WmJlWjJCTG92QkVPVGgxNFo0MGE0V1NXak9ocFo3dW9UMXA4UHlUcDhBQkNpV2ktWFRDbDRReE12Q1ExQVFwbWRsblE3aV9DeGExOXhIRklBcnR4RnUyNzVtZXEzZjJRcGl2ZjVSUWJzck9sWkE?oc=5",
+      "snippet": "Immigration tensions hijacked by misinformation as police urge public to verify content weekendargus.co.za",
+      "publishedAt": "2026-10-18T18:50:48.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
       "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:55:04.539Z",
+  "generatedAt": "2026-10-20T17:24:40.366Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-20 on dangerous-organizations.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Mann Slams Shah Over Kandla Port Drugs, BSF Border Checks and Haryana Gangsters - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVXRVWTIxSG1SZzhielpXZVhsMW9OMTlpUExnNFNHU1dHVGprcnlydnMtV3lBZmtOcDctMDVjRHd0d05qZHhwbl9iMmtQNTQ0NEx4YUJsdmpaS3BLWnJpUmI1Nl9RUGh5eFZUYTFSUmJycDBield1NFRqUnNLZWY5NzRNbGRTM3FjblJqdVhYYzhySTdscjZVdFJVeGtyZjBvWl81QWZtZUtxQzA4VS1GMHgyamF3NndzVHpLRFo2ckFmQTZJT0x0NncxNHRMTHo2RnFGVmQtY9IB3AFBVV95cUxPa0NKT2pKLVdoLW52WTNsbTgyNkVfYTd1Y05OYmN5OFZpRXdQUjdCQW5rSHZUbE14MU03cXB6UVlXQ3FwTEViRkd3ZERWTkpESWFPZ1RmU0JIRXFZTXRCOWNKX1pqcFNadjV0Zk43TTZSV3hHbzRnbWZiRU9BR0xpVGMtZ19RX05KWU0yMWlDVWRmamJfY2hSSE1Ka1dETzZmeHE5LXV5UWlJN21yNEtDWVE1ZmJ6Nlljank4VkRKdHVZUmprSFZVZ0RTNHRCNENzY0hYSTVISjlDUTlU?oc=5",
+      "snippet": "Mann Slams Shah Over Kandla Port Drugs, BSF Border Checks and Haryana Gangsters - India Today India Today",
+      "publishedAt": "2026-10-20T12:09:11.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

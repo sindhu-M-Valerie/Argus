@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:55:04.539Z",
+  "generatedAt": "2026-10-20T17:24:40.366Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 7
+    "total": 13
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Fact-Check: This Image Showing Neha Bora and Shashi Tharoor Is AI-Altered - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUdDcGx2T3RtTDlxZ1d1eExpU1dxUUFxdDhWZWRkZk1oaktDMU5udGFnTTNWX2ZuZkE2SXZodWRQT2JyX2FlYkU0d20yWERzb19HT1BVX082SEpMVWtHQklYRVVHWGVINVJBaVQyNnA0TFB5NThfaVVXaFU5M3JSS2o0ZXhYRXl6a05Fbks3SGNIVTTSAaABQVVfeXFMTnkwWlppbmhjN1NTbEVpT0tZLXo3MGFWbkgzanBjcnRKaFhRTm5xcFZubko4cU8yWERNb1RobDdYWFVRMERLelRpOThiS28tU3dFb1Y3Nkx1YUdLejNwVkZJNng2aWNvc2t1VkpmTGJjZGdmN0dDQlJBNS1kNmM2VnZGU2VpS3U2aTQzWGtXa0FkQmpUR1JPN0Y1azMxbm5Cag?oc=5",
+      "snippet": "Fact-Check: This Image Showing Neha Bora and Shashi Tharoor Is AI-Altered The Quint",
+      "publishedAt": "2026-10-20T12:11:41.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "AI-generated images of India's women 'cockroach' protesters mislead online - AFP Fact Check",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4QnR0Zmd3dDZxUThySUFPdDZnV2ZFOHRIOHdpNXd5ZHFwYVFjNjBqdlFVbWc3dFpBOTVEZnQyZXJ3Q0VKZFpMejV0Qkw4Rkx5dENjdm5qMEI?oc=5",
       "snippet": "AI-generated images of India's women 'cockroach' protesters mislead online AFP Fact Check",
@@ -227,6 +242,66 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Entertainment News | Tiger Shroff's Team Issues Warning Against Misinformation on Firing Incident - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEw3anJHbXh0eF9sMDRfenJBNnZpUFdESnowOVNsWmo0STdhckZ1MVYyUmJScjl4SkRVQWI2QzdtYkpIUnVIWm1XZXI0amVBcjhLR1Z1VV9IdktwOENwZmxYcmh0RFRDcUduS094a25Mek9uVkdmNnJIZUFQYlhLWUgxRkc4elRzOEN4c04xU1J6OWlNU0I3WVJCR19UZzN4aXpVbm1PUUdVc1V6ajdfMWtVWXR5NlNKZEV6T0hUWi1wbVk5SmpMMWFac2hUZkFzaHRsSjM0ZjBDWmcx0gHiAUFVX3lxTE5nWld4WHRiOEZOTWVzUnVWTGYxb21xQzlLb1ViMjg4S2tfbkttTmp5M0duT0N1S2phUVhETmlIMHVXV3JhR2JwU1R5YW44Nl8zRFRUSTk0VHIwb042VnF2U25ZR2xOZ2I1eFdrdEVoelZ2d3Bha3M2MG1mY25iR0hEaVp1dmRHeGIxMTVvSXluVmZ5LTI0cG50alNpZlBwbU41OURiTkNybEcyOUVMZGw4NkJOSWR4d3ZrWWxqY2w2SjVoUlotbWhNWkdHcm94eWlLSzYyMVVVdFE2eFZKdm93T2c?oc=5",
+      "snippet": "Entertainment News | Tiger Shroff's Team Issues Warning Against Misinformation on Firing Incident LatestLY",
+      "publishedAt": "2026-10-20T15:08:19.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Tiger Shroff’s team issues first statement after firing incident, warns of legal action over fake news an - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOZ01VazZqX1hmeGhIUV9OMEQyS3NPMzd5YVZUb2szdWtLQjM4VVJXdklWQ05PS2ZVQWZ5MDJLYUs1MjhPNlNLOEhNOXl5TEZIZ3B4cWxTT1MxV21DS3phbTc3cVI1V3ZaWHZxU3NYaUpBakJVcm5mMjluWXozQ2xmdDNQbTNmQy1zZnE1Y3NibGpCNW8ySFJSb2NHQWZDWUtwSXhmWlFRajlfU3ZTSkhmUy1rTXU4X1BLZ3UwLUI2SFl5TzZUVk5zZkx2SzBGWE85Vmg2aFBlNUl5QUVkMUJJY3VmVFN2TlZBdkpiNDNZeC0zUXl0dXQ0QlRwTWVmMEtaM0F0MGRGbEVqUk1pSlZvXzlKXy1BdkduczBSRmZoTjYzWnpwRTdFWkRzMk9FaVZDQmZ1a2ZmdU5iSGU4dnZUOUFkRdIByAJBVV95cUxQeW1nVXBRbTR2X2tQNTB5eC16M2M5cjRCOHRsRE5MLTVMQW9ISmNUaU9tYXFCMUtVZFhhVWkzOVl4LVE1MUpNQW1wSnZKZUlNUFpvZzIwYUR3ZVZHamlCblhKRmZMVjFYcHdNaG1OVUFyNzliWjJtYkljWGV1cHlxdmNaVE9ueGpoc1JUcFlUUmFUc0JkOEhVM3FxSnJld1VfcVNETWg0ZTd5SXRVbFNjb19Pc0lvaFEtLXBnZWVCOHJnVVBSQlVWRjB3b0FSa3VxMVdWUVFVaTQwOTh1WXUtTUNzelNibXZkMzlJQ28xUnhkQXdXVmVWZnJ2S1EwaEV5U1F1eFZmUTE3RkZ1WlZFNS01RzVfa3dLaWtKdFdoY3pXeTBSUzd3V25yNzA5cGhZaXV0QjZFeDl0aThXb00tMDhDUlFTOV9v?oc=5",
+      "snippet": "Tiger Shroff’s team issues first statement after firing incident, warns of legal action over fake news an The Times of India",
+      "publishedAt": "2026-10-20T14:59:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Tiger Shroff's team warns of legal action over fake news after firing incident - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRnBqUFVsbHlUUWRQakpRVS0wNHVNdmQ5Wl9ld24xa2I0bVBPZ3duR2tydWZ6bWdObTBHbnVCZDFwMm01dEVzSm44eG5zUmlVSE81cFlCZTcxZnZuWmE5SEdlclFSNUhtNUd0SkRpNTMwZUF2VTFDdjNWT2ppZWNUSXFMcm0zSTBYUTBhZUJSV0UwZWdqY18ydEFxc3NtOTBnRk9kZk5wdVpDRFNCeXh1d1FzR2pURDFoUEFCemJxa2FaNk5HN3A5RXNmc09mZkQyQnFIV0dabFZQTTRUX0FpSdIB5gFBVV95cUxOOGJraWFqd1VyX1lPdWFGc1lkTXYtVEdiUWRrb21mOXVYLWNsRXIzRTlVQ21xSXl1U3AteEpxbnFRYkRoV3MtVmt4QkF3S1VMb1lsWE92b2d2OE16WmVqNmtXMGdlQ1FGWGY2LTcyMDFQalgxMnJ1WXpFdzgxdDN5Ty1yZGtWQlJyVjJYMWtUeVI1cFAxckhzTVVJRUpnc2ZYeXQzTnJNeEdiNWNYTnBYekhldElyOGJZeURYSFYxTTB3ODhjRk8xd3hHQkp6eU9fRGZvUjRFcHpoVHQ0bHhrenF4ZER1dw?oc=5",
+      "snippet": "Tiger Shroff's team warns of legal action over fake news after firing incident India Today",
+      "publishedAt": "2026-10-20T13:56:20.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Tiger Shroff's team issues warning against misinformation on firing incident - https://www.indiagazette.com/",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2lQRllLRDR3X0FUdnYzMTJTeVdQOGdoazV3TDJEcXFJNnhQemYzNU9ZT21UUTFpcU5VVmZiZmJ2U2ZLajdreHZUSmM3OWpETkRfSlRoaUw3dEdZemNlaldYQUZ0MUF1NHhXd1ZQUDRGVU4wbk8zWWtNRzNtWEF5SjhiUm9nQUpQanpDMWJpOXU3R1h1M3hjWC1SQU16V2dlLVZmRUlHSE42d0Rwb2lzWVVyMkhwS3RSMXc?oc=5",
+      "snippet": "Tiger Shroff's team issues warning against misinformation on firing incident https://www.indiagazette.com/",
+      "publishedAt": "2026-10-20T11:08:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "WSO Releases Report on India-Linked Disinformation Targeting Sikh Canadians - Sikh Siyasat News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGtyT095MFppcjFzdXhadko2enVfdjNwRzVtUzBlUWlfN2UwZXR4LXZkN1hVTjRHQjloUDhZNlI2M0NWRjEtd3dzNFhTcWJGMkJLNkJCNGF0RmNkMTNQMEQ0c3BBMFFCTUo0d0RFUGNoQTlGR3I1d1d3NkV4TWtmYWJ0TjFrQXJIT2NuOUtPNEhhNW5yWS1IdzJldm9nQ3BNTGUyampKYw?oc=5",
       "snippet": "WSO Releases Report on India-Linked Disinformation Targeting Sikh Canadians Sikh Siyasat News",
@@ -246,6 +321,21 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFVtOG1CblFaVkZlaGo4VXdWb05uQmVJd2xZMG1rSHIwX3NpOFcwUXdVS192a2ZLWVVTblBMd0o0Zzc4R1hyUWhkSURyeFJHWGRrX01MOE5nbXZ4WkxMYnVNUnhzNk1VTTgwOGk0a3BnRmlndGZjelBFRTAwTExUdXpTWkFWaFlBMmhmY0ZZeVFiWWtJQ2J1NXg3bmlMdUVWeTZsdDRDcXpTaFM0SVdKd09NaldDM3B5YUJpOGItM2hHVFc3TlHSAcYBQVVfeXFMT2hVbThtQm5RWlZGZWhqOFV3Vm9ObkJlSXdsWTBta0hyMF9zaThXMFF3VUtfdmtmS1lVU25QTHdKNGc3OEdYclFoZElEcnhSR1hka19NTDhOZ212eFpMTGJ1TVJ4czZNVU04MDhpNGtwZ0ZpZ3RmY3pQRUUwMExMVHV6U1pBVmhZQTJoZmNGWXlRYllrSUNidTV4N25pTHVFVnk2bHQ0Q3F6U2hTNElXSndPTWpXQzNweWFCaThiLTNoR1RXN05R?oc=5",
       "snippet": "Man Held For Spreading Misinformation About Toll In Kolkata Durga Puja Stampede Outlook India",
       "publishedAt": "2026-10-20T08:21:14.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Man Held For Spreading Misinformation About Toll In Kolkata Durga Puja Stampede - ABP Live English",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbDFXQWtTckdfcE1ZbmVCQWg0dllDS0dPRGZHb0lBVlByYnlnSWwwdkpBcWhuOFBTQjhpbldUNHNWWE85UVo1T2pqWTRKaUl4OTZ3MmNPeDhuUkRyakFuVUJUUlBSQTVQX0VaY0s4S3ZUbS1EdTZhbmJVbXAyZmc0dnBTdF9mNkc3MzQ1aUUyYWlmNjJOazdjNGxYZ1NLVVNfOFh2R0NMUXlabHQzNHlwY0k2Zy1ZTUxONTVF0gHAAUFVX3lxTFBqU0lPM3ZqNDVmRDVHVUVMNEpsaHZCV1VBUlJycWxyYU1vNng4SUtYRlI0ejd0dm5RWDVaWHhQRTBzLWlXeEg4eVNmNGVQVnVrOVFVd19OM2FXNVNaeDhValc0UDh6LXIwdFVOS1AzNDhVYmRQVmtfaEk5SW5zcVBmTjBHeTY4b0ZjZnNkTVhWT0h6bmlYWFlSeGJXR21LVFBqVWpvNWZRTG9oM0hFOElqVmw5SkZpWmktNnZ0RV8zXw?oc=5",
+      "snippet": "Man Held For Spreading Misinformation About Toll In Kolkata Durga Puja Stampede ABP Live English",
+      "publishedAt": "2026-10-20T07:49:54.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:55:04.539Z",
+  "generatedAt": "2026-10-20T17:24:40.366Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 9
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Hackers Exploit Open Banking Services to Test Stolen Credentials Without Paying a Cent - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDeGRMVml5ak1CcHRCUnBVWUhPUE1Bc3FjT0lua3J0TGtmTzZtQ19DRXJtVVk1RDE1RUdodjlnQUVIOU53eTRTb3h2MHVDMTZqVVBiNGU1Y3NkX0RQdVotZzVjWEdJejktbXFQMWZad3JJd1lPWDRCeTI4bVbSAXxBVV95cUxQQ3hkTFZpeWpNQnB0QlJwVVlIT1BNQXNxY09JbmtydExrZk82bUNfQ0VybVVZNUQxNUVHaHY5Z0FFSDlOd3k0U294djB1QzE2alVQYjRlNWNzZF9EUHVaLWc1Y1hHSXo5LW1xUDFmWndySXdZT1g0QnkyOG1W?oc=5",
+      "snippet": "Hackers Exploit Open Banking Services to Test Stolen Credentials Without Paying a Cent CyberSecurityNews",
+      "publishedAt": "2026-10-20T14:22:05.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSjdCb0tvb0ZPOVRLQ1BLM3A5QlJrcm0yVFR6RFEwaEt5UWI1YlBUYmU1dEVoRG9QUlY4dGNCTVpHNDJmVG9ZaUVoYk9CNm9MVm1rUlV0UkpHODZrRlliaGVRZU8zbFQyXzBBYjFwWHdCWWpkQjRRQlNnRjU4RHkzMmc3NF9NZzJhbVZ6WmdZNVZlTU5KWlVGWkxiVU52UjQtNnBvY011YXlMdXQxX3lFanpFa08ycF9SQUpMd1REUE1BMnB6cC1Bby1NN0plZ3lFb2RONFNJYWNzWmvSAeABQVVfeXFMUF9PSlo4VGY3TWdXNDBhU1AzRnBnbV9YMW9UT292Z2k2WlZtWEdHSjRGOFhqVW45S3N3VEtOMDhRN3ZQbjhpRld4NXBnalM4Zkt4WmZqckFkLWNCSVVEYTFOTzJIcEdsZEFKanc4SmxlQ3NvU0J2b25IcnpMSG5MYzF3d3JDTHRvaVJiSVJsTk0wcVlPVkFmT3ZOcEs2cHBpSm5DaC1uZ1JZZmhLVWlEUjlKUWtNZnJ3cHFSMFdSS2lOcXVTTDdMNXIzVndhbG5XMjNTcWJ1Wk9aaTZOYkYzY1I?oc=5",
       "snippet": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents Moneycontrol.com",
@@ -208,6 +223,36 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Shadow AI a growing concern, warn cyber security experts - ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUhubUJkY0pMQk9zc19HM081YnRlTENqVVh0TUM2bXYtMDR0UVVUVzBKUmhmNUtDeXJIM1FZQWkzX0N1aFVza0NkeDI5U1BRd2tsc1RidGcwX2xPdzkwNHhvU0luQlNVR2ItVjJHTVl3dFpkUlAzbEUzWUJ6b1V1VDBURkRPX3RDRFMwQUJZeWtOWUJTZ1ZKQ3FkTVd6Nzl3LW9xR0J5TQ?oc=5",
+      "snippet": "Shadow AI a growing concern, warn cyber security experts ITWeb",
+      "publishedAt": "2026-10-20T12:50:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity Awareness Month: Increased dependence on outsourced systems leaves businesses vulnerable - Lifestyle & Tech",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSHBHWFFqNXF5TkoxaFM1QW8xVlNlZEhLQ3huTHpmbENQQjBuTTNFbDY3QkUtaWVXMTlrZWxFX2lwdU8wd1hLX2xtNzY0VGREdXVlb1ZIcE94U3ppOEVpV1pmcTU5Nlc3X3YybXRlNEJLZ1c3N3ktSUV1dTBUWDZNeVN6bFUxZVluaktRU0FIcXZSeFU4a1lrYmZkeEE3Zktmc1Iza1BwUGRWdEZvMlpYckJoRVB2NXJLSVFxcGV5YldHWjlhYWtqWHFRYUxzX0F3Y1gtdGxpc2h5XzNndjV2RG5GUkNCVnhrckpEeVh5dTRPSDly?oc=5",
+      "snippet": "Cybersecurity Awareness Month: Increased dependence on outsourced systems leaves businesses vulnerable Lifestyle & Tech",
+      "publishedAt": "2026-10-20T12:47:43.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
