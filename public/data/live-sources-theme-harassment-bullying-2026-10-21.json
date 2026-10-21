@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:46:03.914Z",
+  "generatedAt": "2026-10-21T05:05:17.430Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-21 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Finance Influencer With Over 1M Followers Dies By Suicide, Father Alleges Cyberbullying - ABP Live English",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmlQWU04bU9CVXdaRVM4T2JUeGtZbHkxZ2QwRFBiVVZkVjZaWFVSOWwtLXNJZFBFOUJBY0tqckNiS0JVWmg3c09nbjN1NGlTQTRJUXpUaGlQYTNOSi1zVEtiUWxwWkJORDFmWDZ6MkE2UVh0dVJJS2VMR2FVN2VUOEM3U0lDMVJNZ0doQlJXX3M2MlB3Z0Y4T3dUQXB0dURJOEhHVnBvVkFianNmOG1seUd0MXdQSlEyc1k3dDhlcVlzeE9PYWpITkJ30gHPAUFVX3lxTE0xNWdMZGdTNnVLWjNwNWpHaEI4M0p1QmJ2eFJSeHpZQlNZYnI4dDdlLWljeXYyTURUVHdtVTZ2SkczZ0t1ZUtMbUMwWlcxUkZyZXlRSHpOS2xaRHl3d0NFRElYcjJDZkNFeEIxR0FXYUJheENNVmo3MGpWYmVxLWF0QjhwcExOMlk0aENUSWR0ODhwdjZrejI4dWxpYjBFYUJfOEJXc2xnbHFZclo1NjdTem9sYkFkVkEwODVVcjZpMWxtRFh1bjZZNXpDVzhNRQ?oc=5",
+      "snippet": "Finance Influencer With Over 1M Followers Dies By Suicide, Father Alleges Cyberbullying ABP Live English",
+      "publishedAt": "2026-10-21T01:39:15.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:46:03.914Z",
+  "generatedAt": "2026-10-21T05:05:17.430Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "SC directs Centre, states to step up measures to curb online child abuse content - Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTRUUnFFNDRmYUJkdi1FcU43aE1fV0M1LW10WmdTeS1mQnhfVWpmRF9Hb3NCUkE3QWZPckNldDhDMDRNZktTTnY2Wnh6SHdtM0I1c2tFV1JEc2VRSmttTEZzOUN1MVMwY2Fsb0JLSHNubjl2U2pwU3puaXhKWUZpSVg2Y1FpZU91NXFORktobE5NbHpwTzcyRDhyZ29rdXA3NzJ6NklGazhycXlQSjRLZEltQ3ZGSDNKbXZvVDA3ZDhnSVpUY1dKNGdqejNHUdIB0wFBVV95cUxPV20xUEVjZlh5cGFkX2VCaE9iNUtVUHVhUnFQeFBUWVZmRkQ4LXpYM2xnN1U5SDNLLU02YWV0QndBcXJIbG41OGE3YkJlbEN5d0FVUkxLUGR0WG9razdIZzdaUXllU1hjTDdlMVl5ODljNExzVEU5RjZPdUk4QnFtWmhlVWRTaVB2ZGlPV3MzWlVzUHRUM2V0VTlzWGxIc2pncTRIVEJ3LU5XUHpQMUcyM09CR3hSSDNsbkRWN2hNUnh4blF2THZ5TDFleXBKWGpWNEdB?oc=5",
+      "snippet": "SC directs Centre, states to step up measures to curb online child abuse content Telegraph India",
+      "publishedAt": "2026-10-21T01:20:14.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "SC directs Centre, states to step up measures to curb online child abuse content - Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV20xUEVjZlh5cGFkX2VCaE9iNUtVUHVhUnFQeFBUWVZmRkQ4LXpYM2xnN1U5SDNLLU02YWV0QndBcXJIbG41OGE3YkJlbEN5d0FVUkxLUGR0WG9razdIZzdaUXllU1hjTDdlMVl5ODljNExzVEU5RjZPdUk4QnFtWmhlVWRTaVB2ZGlPV3MzWlVzUHRUM2V0VTlzWGxIc2pncTRIVEJ3LU5XUHpQMUcyM09CR3hSSDNsbkRWN2hNUnh4blF2THZ5TDFleXBKWGpWNEdB0gHTAUFVX3lxTE9XbTFQRWNmWHlwYWRfZUJoT2I1S1VQdWFScVB4UFRZVmZGRDgtelgzbGc3VTlIM0stTTZhZXRCd0FxckhsbjU4YTdiQmVsQ3l3QVVSTEtQZHRYb2trN0hnN1pReWVTWGNMN2UxWXk4OWM0THNURTlGNk91SThCcW1aaGVVZFNpUHZkaU9XczNaVXNQdFQzZXRVOXNYbEhzamdxNEhUQnctTldQelAxRzIzT0JHeFJIM2xuRFY3aE1SeHhuUXZMdnlMMWV5cEpYalY0R0E?oc=5",
+      "snippet": "SC directs Centre, states to step up measures to curb online child abuse content Telegraph India",
+      "publishedAt": "2026-10-21T01:20:14.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
     {
       "title": "Prosecutors seek five years for man accused of arranging child sexual abuse online - NL Times",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0kxMFlwNXI5MzJGZzJDV011SHRYN0NzaE9aUnhZdG1sOEFTSmhXZXE4Z3JaSWUxMFhlSlRYUFJtc195aTAxczB3T2tiSXY2SmxSOThnUnRvX1VTSHVPMUlTT3hMSHF6ZGtJWW9fMjA0MVhYQzl0eXZWTHd6U19kaktocDlQeElXZlUteGJ6a3J5T2dGempFNTZOclB1b1gwbkREN0loWjY?oc=5",

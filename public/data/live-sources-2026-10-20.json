@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:46:03.914Z",
+  "generatedAt": "2026-10-21T05:05:17.430Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 77
+    "total": 81
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -242,19 +242,34 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Expect our partners to show zero tolerance toward terrorism: EAM Jaishankar - India's News.Net",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3JtaXMzeXkxQngtNkZZNnBLcnV3WE5JQUxEbXpXQUFtUE1VR0NkUVVJN2dxdVNqV3YzSnN0a2lqby1GS1c3YV9mSXpmSFJQY2M4VWlPczIwSHc4TWJQQUxxNHlzb3o3TUZaLWIzWDVwYnZuUFAyYmgwNGhKakNFRXJwUk1ueTBqSThjZUtvQVJvUGF4Q2I1RUh4V3hCR3N6X20yWTFCR1lRczFBUkJFVzZnZzVxTkU?oc=5",
-      "snippet": "Expect our partners to show zero tolerance toward terrorism: EAM Jaishankar India's News.Net",
-      "publishedAt": "2026-10-20T17:19:08.000Z",
-      "source": "Google News • Misinformation (India)",
-      "theme": "tvec",
+      "title": "Human trafficking is not just something you see in a film, says survivor - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3MmZhdUJWZ1lNSDV1emFQMnFUVGdkS0tWSVZYTmxycXdFYTRsbE9fTlB3S3JNUV91SGRGYnFYUnNfZGk4THVkOVh4UjhZbkxGU2VrMXYxVDdqX1pOVEE?oc=5",
+      "snippet": "Human trafficking is not just something you see in a film, says survivor BBC",
+      "publishedAt": "2026-10-20T17:04:48.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "human-trafficking",
       "type": "News",
       "provenance": "historical-archive",
-      "feedTheme": "dangerous-misinformation",
-      "riskScore": 56,
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 59,
       "confidence": "Medium",
       "severity": "Medium",
-      "corroboratedBy": 1
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Human trafficking is not just something you see in a film, says survivor - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlFkcmV3V0FPVU5VZEdONzhfaHhjdDRSQTJoMmFqb2dUSDUxUW1NUnlySTlIV044WDBMb3RzRVNYRzdhQnllakV2V1BkaVU3dmwtNFZvdlBpUm8?oc=5",
+      "snippet": "Human trafficking is not just something you see in a film, says survivor BBC",
+      "publishedAt": "2026-10-20T16:52:38.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
     },
     {
       "title": "State Department: Kosovo fails to meet minimum standards in key areas of fight against human trafficking - Kosovo Online",
@@ -317,21 +332,6 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Human trafficking is not just something you see in a film, says survivor - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlFkcmV3V0FPVU5VZEdONzhfaHhjdDRSQTJoMmFqb2dUSDUxUW1NUnlySTlIV044WDBMb3RzRVNYRzdhQnllakV2V1BkaVU3dmwtNFZvdlBpUm8?oc=5",
-      "snippet": "Human trafficking is not just something you see in a film, says survivor BBC",
-      "publishedAt": "2026-10-20T16:52:38.000Z",
-      "source": "Google News • Human Trafficking (South Asia)",
-      "theme": "human-trafficking",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "human-trafficking",
-      "riskScore": 52,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "Decorah Bank Sounds Alarm Over Impersonation Scam - Decorah News",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUptTXJTOVAyR1hZeWxJbGx3S1BGaVphOEl5cnJWeV9PcmpIbVNlOG9NSkFqM2d4Wko2YkJwZTJaWEtiN0tXTkRjc0lxR21ZS1dLbUNaNTdyRjlpSDFZSm5uUzJoZmRsYll5TnNnZTF3cTU1MFNLem10OHJZQVdnczFFNU9GSzJ2T1dNSHp3?oc=5",
       "snippet": "Decorah Bank Sounds Alarm Over Impersonation Scam Decorah News",
@@ -358,6 +358,21 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Scammers Abuse Frame.io Notifications to Steal Microsoft 365 Credentials - Hackread",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fX0F0NnpHbDNBUWxnS2paSDc0Y1Z1M2l5MFAyalROQjg4QXBSSV8zZ0VUTUktb2k3cEJqWkxHdjktdHpodk4yNUlLZmRjYzVFa0RoRzNJQkpRcWJVYkxsemNpOVdDNGlXYWFkZklNTV9fMFpJaERvTUo2UQ?oc=5",
+      "snippet": "Scammers Abuse Frame.io Notifications to Steal Microsoft 365 Credentials Hackread",
+      "publishedAt": "2026-10-20T12:21:25.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 52,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -573,21 +588,6 @@
     },
     {
       "title": "Pimping websites: Human trafficking 'hidden in plain sight' online - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3MmZhdUJWZ1lNSDV1emFQMnFUVGdkS0tWSVZYTmxycXdFYTRsbE9fTlB3S3JNUV91SGRGYnFYUnNfZGk4THVkOVh4UjhZbkxGU2VrMXYxVDdqX1pOVEE?oc=5",
-      "snippet": "Pimping websites: Human trafficking 'hidden in plain sight' online BBC",
-      "publishedAt": "2026-10-19T23:05:38.000Z",
-      "source": "Google News • Sexual Exploitation Online",
-      "theme": "human-trafficking",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "sexual-exploitation",
-      "riskScore": 52,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Pimping websites: Human trafficking 'hidden in plain sight' online - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZ0Q0cE9hS3JJTVdOWHpVQTRVTWIzWVlyNzYta29jWkJZNy1hUU85WTAwU1VjemVhSVV2bk1Gb2huYVRJbHltSVZ5N20tWUdwbkFKTXNkTEtaQko4?oc=5",
       "snippet": "Pimping websites: Human trafficking 'hidden in plain sight' online BBC",
       "publishedAt": "2026-10-19T23:05:38.000Z",
@@ -692,6 +692,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "SBI Data Breach: Hacker claims 3.75 lakh customer records leaked on dark web - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSHFQV2NTTXIySE1FYm9fQlIwYXcyV2w1bzBxMGNTR0g4NHpwZGtGUjZ2VDdIQ0lEWVU3SmtLY0ZrRTBZVW1UNkRGd0pMOGxLRTlEdnNlYnh1cHpJS2p6a2Y0YTFXWFl2VWRGRnBuNHI1Y05pbWNvZllXcUVoZnUwQzJxb29yZlp5a0tuWVA5amF2QWJKMjludl9hQmlyWnB2V2ZkX2JNMWFRZG9tbDlOLWx5ZWtnWFNhRmdEVzBuMFg3bUZFMVZhRHFn0gHPAUFVX3lxTFAtZEVXTnAyVURKSUtwYm1MdGY0VjJZNzE2UUJGSmM4Z0dZUVhZQUVpc3JzaVdVcnlxZjc4UGtib1B3Y2hXZlBtNzNOWnphRzdUNm1BdlFYZmpkcDAwS0hjdXdaMnhtSGwyWUpUSWRvbE96dVVja2Y3UmNwMVlZYy03c3g2UF9wdHFfMlI5Zy1EcUNLTHZVUE5LMnh5ZEZJTjQ2U2ZiTTUwa25Od1ptSndIT1ZEV3pPeGhtR1dnbXBVSG5ibzZ2YWlWcGE4YzVwbw?oc=5",
+      "snippet": "SBI Data Breach: Hacker claims 3.75 lakh customer records leaked on dark web ET Now",
+      "publishedAt": "2026-10-20T11:55:41.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Tiger Shroff's team issues warning against misinformation on firing incident - https://www.indiagazette.com/",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT2lQRllLRDR3X0FUdnYzMTJTeVdQOGdoazV3TDJEcXFJNnhQemYzNU9ZT21UUTFpcU5VVmZiZmJ2U2ZLajdreHZUSmM3OWpETkRfSlRoaUw3dEdZemNlaldYQUZ0MUF1NHhXd1ZQUDRGVU4wbk8zWWtNRzNtWEF5SjhiUm9nQUpQanpDMWJpOXU3R1h1M3hjWC1SQU16V2dlLVZmRUlHSE42d0Rwb2lzWVVyMkhwS3RSMXc?oc=5",
       "snippet": "Tiger Shroff's team issues warning against misinformation on firing incident https://www.indiagazette.com/",
@@ -703,6 +718,21 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Turn Low-Cost Android Phones Into Hidden Proxy Botnets Through Preinstalled Malware - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLMWVmR1FxbFc1d3phX3ZZSThPRXB4dmJhUjNPODlycnRtRXlrY1Z6UUJIazZrenhBQkdBeHozR3RmRTZzLVhYWWVjMVJEdlYzdVNmb0hJcTNkdUVNcVHSAWNBVV95cUxOOFZGY2E0dFNGdmo3QVRDSGJSeGhXRi1Ba2VRZGVwOFVhSXVldWg3R3A4S2ZlUWY0amkwVC1hUE1xSjc3dGNRdUZfTklwX3RmRWJEU3JzcWpmRkxDQXVNTWdyNjA?oc=5",
+      "snippet": "Hackers Turn Low-Cost Android Phones Into Hidden Proxy Botnets Through Preinstalled Malware GBHackers News",
+      "publishedAt": "2026-10-20T11:04:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "malware",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -932,6 +962,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Nearly 480,000 Phishing Emails Traced to Computer Hidden Behind Hotel Fridge - Hackread",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUmxENWJDZXhuZEtwdUtpR0k2QXZXNUdYcHhBYWZ1U2YweGY3aUhobm5BZVBYTzdQMG15TlY1amxiSmtzc1hITDBJaVd0MUc3eTJhZ3VSWndpaDNyRU9TdzVuX3JxVlVINElDSC1FenJjc1hHXzZPd1NMNmlCUQ?oc=5",
+      "snippet": "Nearly 480,000 Phishing Emails Traced to Computer Hidden Behind Hotel Fridge Hackread",
+      "publishedAt": "2026-10-20T10:48:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Microsoft accounts for 33 pc of brand phishing attacks in Q3, Apple, Google trail - ET BrandEquity",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa09FbFp3SV9EVkZHbHA1ZDZBLTNMMmgxZXlNc2JzTnoxcXE5cGI5c1Mta0J3aTF6cG10dk45UDkwTUJOZjVOdXFQdUhlVzR3SzJ5WjEyWkVySC1BZTUyWnk3MW5IblhnaVVNT3MyeTV0ekJ2OTVrRzY4eS1TcVpab0FKN3ZYb3Z1YWdUczZXaElaNUZ2VkJBWDY4dWZiOWpVZnc0NGhPNEFCaHQ4T1RJWnJHWjBBblV2QktKUmJnM0l4akRKdVBmeGN5VGNKWTBfTjVnV0duTE16MDFLTHluV3ozd3pmSUpmUklv0gHrAUFVX3lxTFBrT0VsWndJX0RWRkdscDVkNkEtM0wyaDFleU1zYnNOejFxcTlwYjlzUy1rQndpMXpwbXR2TjlQOTBNQk5mNU51cVB1SGVXNHdLMnlaMTJaRXJILUFlNTJaeTcxbkhuWGdpVU1PczJ5NXR6QnY5NWtHNjh5LVNxWlpvQUo3dlhvdnVhZ1RzNldoSVo1RnZWQkFYNjh1ZmI5alVmdzQ0aE80QUJodDhPVElackdaMEFuVXZCS0pSYmczSXhqREp1UGZ4Y3lUY0pZMF9ONWdXR25MTXowMUtMeW5XejN3emZJSmZSSW8?oc=5",
       "snippet": "Microsoft accounts for 33 pc of brand phishing attacks in Q3, Apple, Google trail ET BrandEquity",
@@ -1137,6 +1182,21 @@
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "eMudhra Certificate Authority Compromise Triggers Emergency Action Across Browsers - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdTFSZ0JFcHJKR1hkeHcweVZQeW1mTGNadXBiM1ROZWZXOTFRUFhmNUZpNnNtMWl6UkpFbnRNcHppRlc1MlFJVDY2U3pYN1ppcGtPUDg4a3VLem9TNU9RSGFneFJERFRrVWfSAW9BVV95cUxNWFY0N1NKS0w4dUV1a0hjeWJxQ1F5N1lRcUd4TFhSaXRCVExUeVgxdDB3V1FHdlU0WnJIOUEyQlp4UmVYeWhGZ2F1TEFxVkM0a2pHUzNTVi0yYzVVenNCTlVxdV93eGhTUkYtQXlLN00?oc=5",
+      "snippet": "eMudhra Certificate Authority Compromise Triggers Emergency Action Across Browsers CyberSecurityNews",
+      "publishedAt": "2026-10-20T18:29:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

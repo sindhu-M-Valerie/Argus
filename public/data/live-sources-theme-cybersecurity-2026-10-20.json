@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:46:03.914Z",
+  "generatedAt": "2026-10-21T05:05:17.430Z",
   "snapshot": true,
   "date": "2026-10-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 16
+    "total": 18
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -197,6 +197,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "SBI Data Breach: Hacker claims 3.75 lakh customer records leaked on dark web - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSHFQV2NTTXIySE1FYm9fQlIwYXcyV2w1bzBxMGNTR0g4NHpwZGtGUjZ2VDdIQ0lEWVU3SmtLY0ZrRTBZVW1UNkRGd0pMOGxLRTlEdnNlYnh1cHpJS2p6a2Y0YTFXWFl2VWRGRnBuNHI1Y05pbWNvZllXcUVoZnUwQzJxb29yZlp5a0tuWVA5amF2QWJKMjludl9hQmlyWnB2V2ZkX2JNMWFRZG9tbDlOLWx5ZWtnWFNhRmdEVzBuMFg3bUZFMVZhRHFn0gHPAUFVX3lxTFAtZEVXTnAyVURKSUtwYm1MdGY0VjJZNzE2UUJGSmM4Z0dZUVhZQUVpc3JzaVdVcnlxZjc4UGtib1B3Y2hXZlBtNzNOWnphRzdUNm1BdlFYZmpkcDAwS0hjdXdaMnhtSGwyWUpUSWRvbE96dVVja2Y3UmNwMVlZYy03c3g2UF9wdHFfMlI5Zy1EcUNLTHZVUE5LMnh5ZEZJTjQ2U2ZiTTUwa25Od1ptSndIT1ZEV3pPeGhtR1dnbXBVSG5ibzZ2YWlWcGE4YzVwbw?oc=5",
+      "snippet": "SBI Data Breach: Hacker claims 3.75 lakh customer records leaked on dark web ET Now",
+      "publishedAt": "2026-10-20T11:55:41.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSjdCb0tvb0ZPOVRLQ1BLM3A5QlJrcm0yVFR6RFEwaEt5UWI1YlBUYmU1dEVoRG9QUlY4dGNCTVpHNDJmVG9ZaUVoYk9CNm9MVm1rUlV0UkpHODZrRlliaGVRZU8zbFQyXzBBYjFwWHdCWWpkQjRRQlNnRjU4RHkzMmc3NF9NZzJhbVZ6WmdZNVZlTU5KWlVGWkxiVU52UjQtNnBvY011YXlMdXQxX3lFanpFa08ycF9SQUpMd1REUE1BMnB6cC1Bby1NN0plZ3lFb2RONFNJYWNzWmvSAeABQVVfeXFMUF9PSlo4VGY3TWdXNDBhU1AzRnBnbV9YMW9UT292Z2k2WlZtWEdHSjRGOFhqVW45S3N3VEtOMDhRN3ZQbjhpRld4NXBnalM4Zkt4WmZqckFkLWNCSVVEYTFOTzJIcEdsZEFKanc4SmxlQ3NvU0J2b25IcnpMSG5MYzF3d3JDTHRvaVJiSVJsTk0wcVlPVkFmT3ZOcEs2cHBpSm5DaC1uZ1JZZmhLVWlEUjlKUWtNZnJ3cHFSMFdSS2lOcXVTTDdMNXIzVndhbG5XMjNTcWJ1Wk9aaTZOYkYzY1I?oc=5",
       "snippet": "SBI data breach claim: Hacker group alleges access to 3.75 lakh records, 2,722 documents Moneycontrol.com",
@@ -223,6 +238,21 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "eMudhra Certificate Authority Compromise Triggers Emergency Action Across Browsers - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wdTFSZ0JFcHJKR1hkeHcweVZQeW1mTGNadXBiM1ROZWZXOTFRUFhmNUZpNnNtMWl6UkpFbnRNcHppRlc1MlFJVDY2U3pYN1ppcGtPUDg4a3VLem9TNU9RSGFneFJERFRrVWfSAW9BVV95cUxNWFY0N1NKS0w4dUV1a0hjeWJxQ1F5N1lRcUd4TFhSaXRCVExUeVgxdDB3V1FHdlU0WnJIOUEyQlp4UmVYeWhGZ2F1TEFxVkM0a2pHUzNTVi0yYzVVenNCTlVxdV93eGhTUkYtQXlLN00?oc=5",
+      "snippet": "eMudhra Certificate Authority Compromise Triggers Emergency Action Across Browsers CyberSecurityNews",
+      "publishedAt": "2026-10-20T18:29:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

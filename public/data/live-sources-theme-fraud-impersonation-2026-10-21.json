@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:46:03.914Z",
+  "generatedAt": "2026-10-21T05:05:17.430Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations - Check Point Research",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUNnT1B4Q0RMRWx2eURBZU9hQmlPX3pESm5LRmhtaGFWZk5JT1VjMVFmWFZiY0t4RmNnTHl4OTlsSXlrN0tCenpVUF9RbmJ3QnphZHUzLUJWdlNpRDFCNjY4ZDVaRmU2bnUwcnp0N3VFZTE3YWN2SmR0X0pqMTcxRmFFU01rbVhEUXFjNnF2Z2lZRmNLZ0Z0c254NjlJc1lCSGNjSjhCWFZiRTY5a1JuWnVNbDZENWpzMzdlRHZR?oc=5",
+      "snippet": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations Check Point Research",
+      "publishedAt": "2026-10-21T04:28:34.000Z",
+      "source": "Google News • Spam and Inauthentic Behavior",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "spam-inauthentic",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "World Series tickets: how to avoid scams - WMTV 15 NEWS",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSXd1SXpON09yMDV6MTM5cGlsSWx0MS1RZ0MxZnlxd2tqRUFjbnlINHRaX0hNSncwbDRDVV9Ha082dnR0amZreGVfR2N0bkhfU3J1OGxxaTRLVGlOaUl0ZkJ4LU5ySzJZT1lXRUUxUmR0d256UGV0SVZrbDJRTHJWbdIBlAFBVV95cUxOZzQ0SkdnV3dLMGxyaUllaGZ3V3Axbmx4dlB0emJhaTZaZmJSUVFpaHJwZ2pZY3A5OTNWelU3RndZU0gtb3pnTmNUN1ZDZGVMcHNVSVNrZ0dBNGduTldZSWhfSzRiN05rTllYRUl5ZlB6UDBDcFptZWUxc3dFN2U1T094eG1QVTgwSkxWcWphN3J0UHNK?oc=5",
+      "snippet": "World Series tickets: how to avoid scams WMTV 15 NEWS",
+      "publishedAt": "2026-10-21T00:19:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "IRONSCALES Report Finds AI Agents Are Becoming a New Target for Phishing - Unite.AI",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04a0ptc0RsVzM5b1ZUZGhUMVk1YU9xdWhKLTNxdWJGY0JQR0E1aUNkNHhNX1V1YjZhUHlqYTdlV2tJY2ZoTUxFVmY2bzRWVktKMUE0MWpWT0lYc2NoSDdGNTFDWkNkR3hFQ2ZaOVpxSG00ZDRDTmVzZ253?oc=5",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:46:03.914Z",
+  "generatedAt": "2026-10-21T05:05:17.430Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-21 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Tiger Shroff’s Team Hits Back At Fake News And AI Videos Following Attack - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcTNwaFdCX1FnclN2YnY0N3B5RlAyZWhrUFl6dGZpdU5WRmU2M3ZtaTFxV2FEdkNYTjA3OXk3d1dpR3U2RnM2cDgwaUVrWkptZjBMTlhDa0xkVmNLZTRyQnlpT0dOX2xYV2ZQLUZyb09hdmZCWHRjSHluWFVlbmZMWkd5NWpGWjZ1ZkFSS1ktdzg3TWVaYjRCU1ZvNU1ncGJsZkw2SVp0eE1XUVpXbEhEdGdVWkdjcjkxVDJV0gHIAUFVX3lxTE82N1BfTER3SzZiZVItNm9QTHRNVFFiekpldFFpaWNOLTZQLWZpZERPOXlZcHlsYkN4WVlsQlRuZ0xWSENkbDM0SWNhY2dUSmc5SEpnOUowcmwwUjdRdTZqSnpKQWhHUGRCb2JISlhYY3JqZkFmODBWcDk0Ny1DS1VZZTdWQURONGNaUVMzclczVzdfZldZVWhzRFl0dlpEOTFXYlVMUmROREVfVm4tYlJGaVZzYXgyUVloNDktLUIxNmtRODZBbzY1?oc=5",
+      "snippet": "Tiger Shroff’s Team Hits Back At Fake News And AI Videos Following Attack Outlook India",
+      "publishedAt": "2026-10-21T04:38:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

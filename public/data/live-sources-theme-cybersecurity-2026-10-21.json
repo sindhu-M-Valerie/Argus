@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:46:03.914Z",
+  "generatedAt": "2026-10-21T05:05:17.430Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-10-21 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "How Fortnum invested in improving its cyber security - Professional Planner",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzhWRG9ORTc0eTZiYlluR0E0ZXcxMGVNaWZNbHJSTy1Lc2V2eFJwSm9zNFVJS3ZxWjNBekNMZGVjTUJzWW9NZUFHOEFHMnBRVHhpSDhIX0hhemZIUGstVkpEQVUzU3ZiaHo4VkhvYURMUkwzcFJkaVdxQzh6RmJnWHYzWWVTUEN3WnFaUVVRdERTX1kwWUl5aHhGV0g4LWFCZ2c?oc=5",
+      "snippet": "How Fortnum invested in improving its cyber security Professional Planner",
+      "publishedAt": "2026-10-21T04:36:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How to Check if Your Personal Information Was Exposed in a Data Breach - eSecurity Planet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNTFsSlJoWGRXZnFGX3ZuWEJaajlrMEIzV2l1MDcwNm03RV9xbG1qenQySGc4VDQxV1NWT0s4dUQtY3A5TUpLOGZjMjFFWjRLa2g3cHhiT3RGaTQ3V0NKb25TUnUzTXBjejhWT18yRlRnNm5lMGg2SXdLNFF2V24wMGR1TzNaNlFhc0RhM0F5UUZxUmcz?oc=5",
+      "snippet": "How to Check if Your Personal Information Was Exposed in a Data Breach eSecurity Planet",
+      "publishedAt": "2026-10-20T19:59:57.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
