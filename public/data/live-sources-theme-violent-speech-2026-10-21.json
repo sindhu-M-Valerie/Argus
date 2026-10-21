@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:05:17.430Z",
+  "generatedAt": "2026-10-21T12:08:06.303Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 9
+    "total": 17
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -191,6 +191,111 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "violent-speech",
+      "riskScore": 51,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "105 US Lawmakers Urge FBI Hate Crime Probe Into US Temple Mass Shooting Plot - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVUQyMjFhYmhCZHcwallwTml3UHpxckV4UGpHeXVrZTZ0bEY1d1pTOWpWOUk0bnF0VUhMTFJwbDB0elJiVFpiU3VHOXA0ZlJDcXE0MVF1dWNKYTc1bVQxMjg4SURDUTJJZ0xScFg0ZV9GU0xKY0VtZHVvWjVXdXZFenVhT0Z2Q0I5b2RjUEhBRUJVeFBQNzRFYnFyaEZqcHd4WHlzT0NqTWdqX2kxVkFWdG5GWFdnTkQ4X3BmUVJCaGtuWXlpNnVTTm1IaXhDMVRpTmVBbUFQYno5Z9IB2gFBVV95cUxPVUQyMjFhYmhCZHcwallwTml3UHpxckV4UGpHeXVrZTZ0bEY1d1pTOWpWOUk0bnF0VUhMTFJwbDB0elJiVFpiU3VHOXA0ZlJDcXE0MVF1dWNKYTc1bVQxMjg4SURDUTJJZ0xScFg0ZV9GU0xKY0VtZHVvWjVXdXZFenVhT0Z2Q0I5b2RjUEhBRUJVeFBQNzRFYnFyaEZqcHd4WHlzT0NqTWdqX2kxVkFWdG5GWFdnTkQ4X3BmUVJCaGtuWXlpNnVTTm1IaXhDMVRpTmVBbUFQYno5Zw?oc=5",
+      "snippet": "105 US Lawmakers Urge FBI Hate Crime Probe Into US Temple Mass Shooting Plot NDTV",
+      "publishedAt": "2026-10-21T04:46:57.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 51,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "105 US Lawmakers Urge FBI to Probe Illinois Hindu Temple Plot as Hate Crime - Dainik Jagran MP CG",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXppU25OeGp4WmlwVUFlWWJSZi0yQk54MzJtZVoyTXNHVEJQeGJQLVBuTkx2YlUxa0xlLW1sNGhqZmtHRjJuelcwYVgtaS12MXFjTHBZU2U4VmJjejRuNVZPbUlBWXpJWGZDQmVqUHJDWFNNUkxsTnZuaUQzODZNOWluX1pZVTBEYjhSbE1scnhaTjNEVENPZ0dLTk0xSDRfd2phZmtQQlJOR2tzMTNBWkhsSlh1dUlsLUNwak93?oc=5",
+      "snippet": "105 US Lawmakers Urge FBI to Probe Illinois Hindu Temple Plot as Hate Crime Dainik Jagran MP CG",
+      "publishedAt": "2026-10-21T07:28:55.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Probe Hindu temple attack as hate crime, US lawmakers tell FBI chief Kash Patel - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelpWQW1vdGdMOG1tQ1BXaVV4QnZZRXF2RUJoT0RpWXVfbmNVOEtLX0tuMEpkM3BmTUtVbGM4ZVFmLWlxRFEwa2h1T01XeFdDYmtadlhJZU1hU29LcnExa3ZZUGdKOFlrU2Q4bGhSUWNkOHBQY3dxSm1tNk5UTDh2S09qSzFWbjRqejdrUUNkRkRpMk41RXlDYVRXUEhKc2Z2WXNnWVI4SG5mNmF1TTlxZEdlajZDRUI4eFhSZndHSl80dmds0gHHAUFVX3lxTFA2SUhnaTBBZTFlQmotVkl4TnRqRGcxeVlzV0plWW5lQ3RuN0prWXBPaGsyTGs1NzVZSU5xZHpGLWpHTEd1VDItRGdKRmNOSFFBMDR3MEI4M0ZyYzNBSHAtYkx5bmsxek9rTWhaeWxFQlRpZ1pGa1dweEhiU190aWdDNmdaQUVHeGR3b1V0a3dZT29KTjJHWjFMcjgzYW1faFdoSjBhWHhad1p1c2hSdUtWc2FqclVIc1c4Y0pNdmpPMkE2enlaSmc?oc=5",
+      "snippet": "Probe Hindu temple attack as hate crime, US lawmakers tell FBI chief Kash Patel Rediff",
+      "publishedAt": "2026-10-21T07:10:48.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Krishnamoorthi leads call for FBI to probe Aurora temple plot as hate crime, flags rising racism - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYVNIZndURzc2TWtPZ3ExSjJpOEhsQTBoeWIwLUNuZURmRmRsb3h0V2pGcTlkNktTdGMxcUt0NVZGckZ0MV9jNVRQNlhYVy1YVl84NWhGY2NoSTB0ZjR6S19UM0hKU05PNzhEeHlLMUFFVUlWX1lad3ptVjU5R083QlhkMlllbTRQSTE5Ql9lSGxpNDA5aVEwa1libEwyc2lVWXRXZHcxeXh0eXhsMWtlYWlmVXJtZmwzTVZ1M3E0VzltVzZlUm8tSFNzUVRiQnB6NTJvb01LZ0pmUFd3SUNQbWxnSG9pMXU5bUxNX3BabmQ4RnNIWHR4VU04QWJLRzNPVUd2cVJmU2hQRTE5a0HSAY4CQVVfeXFMUGFTSGZ3VEc3Nk1rT2dxMUoyaThIbEEwaHliMC1DbmVEZkZkbG94dFdqRnE5ZDZLU3RjMXFLdDVWRnJGdDFfYzVUUDZYWFctWFZfODVoRmNjaEkwdGY0ektfVDNISlNOTzc4RHh5SzFBRVVJVl9ZWnd6bVY1OUdPN0JYZDJZZW00UEkxOUJfZUhsaTQwOWlRMGtZYmxMMnNpVVl0V2R3MXl4dHl4bDFrZWFpZlVybWZsM01WdTNxNFc5bVc2ZVJvLUhTc1FUYkJwejUyb29NS2dKZlBXd0lDUG1sZ0hvaTF1OW1MTV9wWm5kOEZzSFh0eFVNOEFiS0czT1VHdnFSZlNoUEUxOWtB?oc=5",
+      "snippet": "Krishnamoorthi leads call for FBI to probe Aurora temple plot as hate crime, flags rising racism Firstpost",
+      "publishedAt": "2026-10-21T07:04:17.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Aurora Hindu Temple Shooting: 105 US Lawmakers Demand FBI Hate Crime Probe | Raja Krishnamoorthi - News18",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaDZuV3FIRnJGdEhQRFdmNEZyVVY0RXRhcDZORW13c0VaM0tBLWdGUkRLT3VfNktFMGFTdlRYLWdtQkdEZHVQbUpvdVk5M2JjYnZNX1NiVDFRanJFVXRJZ2tIV2xyNTdDd094c282Q2duLVR3OGxVbjgwZVpJamRXZUNvX05DenR6aWhydEdOcEhGQ3BfM1g5N3JSZV83M1dpR0RWNksyNlpobHVzSjdpU2VRRURmZ0hqNF9IaVlQQ05MMEl5YVJQQklYWFdKbG1YQUVFbjctaTNwUlhJcHdSbW9oaXUwd9IB6wFBVV95cUxQckNDTDFRZkRoUEoyakw2am9OQW16RG1NR1c3WnpqZXhwOGtuNjV3OEY3VzRTSmc4UWduUExYWnFxS1R6aHk3d3JjZVRvRWVmMGk5WWRaZElWUkhsS3VENkREWUZzY0lrRURaN2RUZTluR052bGxoWUVEcWpHQ0VBd09UT0JHNXF4MEpDZHliUkxkYXdMMHpWb0g3TVBqT2F2QU9Beks0YzFuenF0VjN6NzI3SFUwS2dpd0NSVlJ2Q1ptOXA1NlhrUl9iNVc0YTk3TkRnc0o1N2ZZVWxtVjg3V01ndjc0ZFZ4a0Zv?oc=5",
+      "snippet": "Aurora Hindu Temple Shooting: 105 US Lawmakers Demand FBI Hate Crime Probe | Raja Krishnamoorthi News18",
+      "publishedAt": "2026-10-21T05:15:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "105 US lawmakers seek FBI hate crime probe into foiled mass shooting at Hindu temple - NewsDrum",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdVVoRmZZZ2Nzbk5vMldya1RQOEV6bWo3c05qQ3V5OGFpal9LOGlVM3Boc3dDY0JsVXFsTjRvVnZncEtxa1d5TTJrRkY5dm5Md2EyV3FEdlVtT1prd01Yc0NUaC1qNko5TWktemx3S3ZKeTdkZllrSUpDNDh5Vk1kSDhONUxKbVdHOUlUNk9Xdy1VSEZRcTBjY2pRUzJUdUUxb1VkN25jeWJQbU05aDNaSzl1eXdhSENaV1NuVmVXTGFMTVdZZlM4QnNId9IBywFBVV95cUxPdVVoRmZZZ2Nzbk5vMldya1RQOEV6bWo3c05qQ3V5OGFpal9LOGlVM3Boc3dDY0JsVXFsTjRvVnZncEtxa1d5TTJrRkY5dm5Md2EyV3FEdlVtT1prd01Yc0NUaC1qNko5TWktemx3S3ZKeTdkZllrSUpDNDh5Vk1kSDhONUxKbVdHOUlUNk9Xdy1VSEZRcTBjY2pRUzJUdUUxb1VkN25jeWJQbU05aDNaSzl1eXdhSENaV1NuVmVXTGFMTVdZZlM4QnNIdw?oc=5",
+      "snippet": "105 US lawmakers seek FBI hate crime probe into foiled mass shooting at Hindu temple NewsDrum",
+      "publishedAt": "2026-10-21T04:29:21.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "105 members of US Congress urge FBI to investigate Illinois Hindu Temple shooting plot as potential hate crime - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMWx2WTluOWtuaXhZYTBaSWxoQV9MWW8yeE9iR0QzcENiOVpGVEd6U01lb3Y0QVo3Zkhpb0hJMEhSR0ZnY2t4VEJGSlhCeENrTWlKMWw5R182aHZWMzdaV2xGMzVmUV90WXd4THQ4S0dMZ1ZSdlVRZktweFBVdHEzd1E0VUxMOU9lcXZ5dnZwMzhucHFpU0diYk1kWmdxZTF2b2F6WGVXenFOamFKNkFpTlMwMFFVLUUwUGdUdl9sZHJMcm0wcFNPY1hMZmpBdkVUN3FkWHN6VERXS3NJT0d4TVAtZXNFYnRwc2NDcVRCbGpnY3pKdGE1dVlpV2hxTUcwaXBF0gGDAkFVX3lxTE4xbHZZOW45a25peFlhMFpJbGhBX0xZbzJ4T2JHRDNwQ2I5WkZUR3pTTWVvdjRBWjdmSGlvSEkwSFJHRmdja3hUQkZKWEJ4Q2tNaUoxbDlHXzZodlYzN1pXbEYzNWZRX3RZd3hMdDhLR0xnVlJ2VVFmS3B4UFV0cTN3UTRVTEw5T2Vxdnl2dnAzOG5wcWlTR2JiTWRaZ3FlMXZvYXpYZVd6cU5qYUo2QWlOUzAwUVUtRTBQZ1R2X2xkckxybTBwU09jWExmakF2RVQ3cWRYc3pURFdLc0lPR3hNUC1lc0VidHBzY0NxVEJsamdjekp0YTV1WWlXaHFNRzBpcEU?oc=5",
+      "snippet": "105 members of US Congress urge FBI to investigate Illinois Hindu Temple shooting plot as potential hate crime Devdiscourse",
+      "publishedAt": "2026-10-21T04:13:02.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -200,7 +305,22 @@
       "title": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora - INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT3VxVE5fVEswcW5QUEtMblFBNEtET25IcUZPQWZIeWlLUnUxLUdQZzNIUVEyUkZTdm5TM2hta0tTalBWM0dVNTF5Q0I1RU5ZNVlpYXBEU0hpRWZpTDJIOEMyYk5DZWdvQjZZTmtVM1NhUnREeDFiN3lQNFAzMlRSSzI3ZnZ4QUU4d2xZeVY5am1fNlZSWkIzV2tjQUg3bVhGOWRHZ2k1dHF6bVVjT3Awempjei14Qjh6MHZSMUtqeUdlbDdvVl9tVEZoREt3V2JaZnJFcU1TaUF6VG13OUJJMUtsV3hULTJfM1RHQUF0R1RKZVk?oc=5",
       "snippet": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora INDIA New England News",
-      "publishedAt": "2026-10-21T02:33:17.000Z",
+      "publishedAt": "2026-10-21T02:42:17.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "105 US lawmakers urge FBI to probe Illinois temple attack as hate crime - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaHJrY3hOVkZhVnBmU3JNTHFXdVNkbExHbXJtT3dVU1hQM1ZKU1l3X0ExRFVlOE0wLVNra2V5QzZpNDFMWXFKWlZqN2ItdjZ3SHBFQWtZTHJBTmU5VFF3ZEdSN3ItVDJRdnhwcjgzUFU2dWo3MUpobEJaTWNtNDF6ZTZOcHB2djNzam1qYS0wZ1lNQl9nV3NFbXRyTG9vRE1DZjBETDhJRkFXVElXaDBVTDN4N1k3djViRFBET1ZkODJwMkxvYzI3cUczQ0pVa3IxT0pwT1NJMNIB1wFBVV95cUxPaHJrY3hOVkZhVnBmU3JNTHFXdVNkbExHbXJtT3dVU1hQM1ZKU1l3X0ExRFVlOE0wLVNra2V5QzZpNDFMWXFKWlZqN2ItdjZ3SHBFQWtZTHJBTmU5VFF3ZEdSN3ItVDJRdnhwcjgzUFU2dWo3MUpobEJaTWNtNDF6ZTZOcHB2djNzam1qYS0wZ1lNQl9nV3NFbXRyTG9vRE1DZjBETDhJRkFXVElXaDBVTDN4N1k3djViRFBET1ZkODJwMkxvYzI3cUczQ0pVa3IxT0pwT1NJMA?oc=5",
+      "snippet": "105 US lawmakers urge FBI to probe Illinois temple attack as hate crime Business Standard",
+      "publishedAt": "2026-10-21T02:26:32.000Z",
       "source": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:05:17.430Z",
+  "generatedAt": "2026-10-21T12:08:06.303Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-21 on dangerous-organizations.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "India News | Haridwar: 20-day Ganga Canal Closure Impacting Pilgrims Ahead of Kumbh Mela - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWDI2U09GM3dlRmJORXdLY29NcUhpOXQyOUVyaFdwNE9OOUhmb2ZoM0R2YW1UZHZfdUhCOWtqeHZUVllERVk1ck5qREVwR2F0aExZYXBJVWMzTl9RSTM2RVVqVU1QNFJ2WFNWMnhZRzZ1eDZUUlJUZmI5UXhiaElHeWdXOHcxSFdSY0tsVldGSjEwbWpNUGFjRnZiUkZWR0U1VXIwSHNtOUhIM2NBT0lCalhJUUVGRlJNb1VVZ1U5XzdpZEs4Wmd6Wi1BR0lKRWtWMEtxYjh30gHWAUFVX3lxTE5YMjZTT0Yzd2VGYk5Fd0tjb01xSGk5dDI5RXJoV3A0T045SGZvZmgzRHZhbVRkdl91SEI5a2p4dlRWWURFWTVyTmpERXBHYXRoTFlhcElVYzNOX1FJMzZFVWpVTVA0UnZYU1YyeFlHNnV4NlRSUlRmYjlReGJoSUd5Z1c4dzFIV1JjS2xWV0ZKMTBtak1QYWNGdmJSRlZHRTVVcjBIc205SEgzY0FPSUJqWElRRUZGUk1vVVVnVTlfN2lkSzhaZ3paLUFHSUpFa1YwS3FiOHc?oc=5",
+      "snippet": "India News | Haridwar: 20-day Ganga Canal Closure Impacting Pilgrims Ahead of Kumbh Mela LatestLY",
+      "publishedAt": "2026-10-21T04:50:24.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:05:17.430Z",
+  "generatedAt": "2026-10-21T12:08:06.303Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,36 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI deepfakes, extremist recruitment: PAS MP sounds alarm over threats to children - Malaysiakini",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXQ2R29hMHNCelhBM01ZT1pXNHRBZ0MxZ3FqT3U1ZHEyOGZzT3ctTWtWdUFxcHIzNkt0VzBmTWFCd1ZNdTZzWGlNZzFsZ1QtQ0pkQ2Q1TkRsRHIyaFFLVG1RdEJPRl90VGZLZnQySUJXTnB3YUUyWjg4a01jVUM1cHVISlJKN1k0UlVDdWxKVzlSY004OFVqQ3c0T2x1NExOdWZoUHVtWFZHYS1Edmp3TlZ4cnRycGlIQkZHMg?oc=5",
+      "snippet": "AI deepfakes, extremist recruitment: PAS MP sounds alarm over threats to children Malaysiakini",
+      "publishedAt": "2026-10-21T08:01:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India Urges Global Vigilance Against Transfer of Sensitive Weapons Technology to Terror Groups - boldnewsonline.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pBaDl6Ri1pRjc3NzRHcXJBMGVvQjM4Qmp1djFMbFJGUkVtN003eGtBTnBfdndKNGpzdFdsaHA0NS1nRHo3aS01Sy1oYlJzWU55VWI0bTI5UDdWRG45ajVmcFZVcDdZeUVobFdELU4wUWd4bXVCMDJvNkxMX0lzS2NQbzd0bWY5QktTdlpUT3MxTnZnSmZKWE5PWi16R1h4WXZ2NU9sSG9LT3E0RE9sWHFWTW5fYWlXOTZlVDNIS2dUdzI0?oc=5",
+      "snippet": "India Urges Global Vigilance Against Transfer of Sensitive Weapons Technology to Terror Groups boldnewsonline.com",
+      "publishedAt": "2026-10-21T03:52:28.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

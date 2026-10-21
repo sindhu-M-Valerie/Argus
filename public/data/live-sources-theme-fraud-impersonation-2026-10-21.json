@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:05:17.430Z",
+  "generatedAt": "2026-10-21T12:08:06.303Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 16
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,201 @@
     }
   ],
   "data": [
+    {
+      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
+      "snippet": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Reuters",
+      "publishedAt": "2026-10-21T10:11:21.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission launches probe into Booking.com over fraud, scam risks - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWZyWnFfTlZNNlhtTXpyMnhmNDNJaTlEcDIyaFNVUHJROEhWakpyUW5qQTJFNm9ncnotS0tlN00xX28yNFJrR181WmdwenVJcWY5RDluaC0tYjlQcmZtUVJUTGtCZ3htR203SUpwcjZjdEwxanVyaXZoZm9GTnpZTGswUXJnQzNOY3N0VGZOMWh0d3dXZVFQSHVMbkdsblp3RE9US0ZzckJBZWNGX3FiN1NB?oc=5",
+      "snippet": "European Commission launches probe into Booking.com over fraud, scam risks Anadolu Ajansı",
+      "publishedAt": "2026-10-21T11:59:13.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU investigates Booking.com over fake listings and phishing scams - Cyprus Mail",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVBGc0RwN0dkaW05MTZUbkhOSU5fN1FqVXBBeXE0QUR1Z2xJb3RIVUwyLS16Z3l5Y1pOYlM1VmoyZGRoX1FSMkF5SWtFbEVvcF8yV2dUMGF2aHE4ODJPS3lJR01mQWpiYkIxcC1JOFBrTGhPdlBlT2w3dXZKcTJ0TVRtS280NmdSbzZBWXBjSFJRT2FSM0lmWDFvTTYta21mV2c?oc=5",
+      "snippet": "EU investigates Booking.com over fake listings and phishing scams Cyprus Mail",
+      "publishedAt": "2026-10-21T11:00:10.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission launches investigation into Booking.com over phishing and fraud — Channel NewsAsia - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWplZmZiV0F2TjMzRVRPcjhXZTRiNjJ2UW9wc004QzBiTnoyeWkteW5uNE1rTHppX3NMdndOcVQwWVFPRXhpeHVoTTRDcGVTd2VjMlJLN2ZVX2dDQ0V4d2NDYi1VbEdBTzBSa0paRzBsaTZ1QUFhS2xNQnlNTDFmRWdmSk5vTWRDVW43SzVRYjBJWHktRE5kdGphVkF2Nk5zQmNaeDZSREFGV09rTkxIQzBHWEJ2N055SG1fS2xoNWRhbWRFV2c?oc=5",
+      "snippet": "European Commission launches investigation into Booking.com over phishing and fraud — Channel NewsAsia UA.NEWS",
+      "publishedAt": "2026-10-21T10:33:48.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU opens probe into Booking.com over fraud and scam risks - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUNzMTEtYXQyVWpjMVF3NGJLYjRYQ3ZsZzg0b3dWQ3NLRF9vSksyUG9BanhyTFcyT2szT0ZlVFloVjZHQ3ZBNzJYMUxWamV1MEFiSUxWNGdCbnhyNzdveTlUVHJuRnVpaktKMTNTS3VMZjQzMGdMTHZlUHl1cHViZTJmVVZTNEVaaHQtbm9xZDViMEN6a04zMVB6UFd0ejJwRDZOV0NCREJ5MUVyVDNKVFV2Q0U0NzNBZlE?oc=5",
+      "snippet": "EU opens probe into Booking.com over fraud and scam risks Investing.com",
+      "publishedAt": "2026-10-21T10:31:57.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU probes Booking.com over alleged failure to tackle scams and fraud - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnAxdlhlS0FwOHVXcHZpLWtqNkdnSmRzblItclJkN1czNmdZWF90MlBSQW9QZ3VIMy1GN3JISWNhd2pQdUlLSEE0a19HREFrQ1JqbmJGNS0xVHg1MDVtdWZ0R2dEXzd4dWFqZVpFYnYwVHYwWDd2emFzUnl2anhjM29NNEF4NUJ0ZkFN?oc=5",
+      "snippet": "EU probes Booking.com over alleged failure to tackle scams and fraud Yahoo",
+      "publishedAt": "2026-10-21T10:18:48.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "At least $83,000 lost in phishing scams linked to fake Simba websites since March: Police - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTFFeUpiWFNaUEFPS3RFY3RZYXJJZGhWLTJrZ09yM0Y2cWM5ZGJha2NiVFlRRW5JM3F5ZTlUbWZlVDB4RGVQcTRGTmdjZE1zcXFLR2VBMmViY21leUpiYVZTNzMtT2xIR2VpV3hoQnpja3hSM241dkU3bFlBQWVvaW1Jd2JCYUdhelFWS2EzLTR2bUxoTXlqRERBM2dUeUh6cm8zRk9IRk5ra0xFVTlVREJMMjJKODlKaVJIM1lENVM2WkE?oc=5",
+      "snippet": "At least $83,000 lost in phishing scams linked to fake Simba websites since March: Police The Straits Times",
+      "publishedAt": "2026-10-21T10:12:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Online Scams: Types, Warning Signs, Effects, and Ways to Stay Safe - Technology For You",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0Q4dDlEM0QyN0pTcnJwMHBrald0SnJsVmtjcjhvVzNoOE9RRW52YzFwM3JKRWtBam9QcU5HWDVDWlJ5MWV0dmstR3RkTEQ0RVVMMDR6eVZFZk5HblBWQjdGYkVoRlFaSUNrSjlpRklvQk9wcWJMc3RVeWp3ZkU3YmFoR2NRM0lsZzlRZFAwYXpvclZQcWs4Q0JxbFRVS0gyVk1R?oc=5",
+      "snippet": "Fake Online Scams: Types, Warning Signs, Effects, and Ways to Stay Safe Technology For You",
+      "publishedAt": "2026-10-21T11:09:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "President Trump to highlight federal crypto scam crackdown as FBI complaints surge 17% - Crypto News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMEN2c1VycjYwZ0VySmpfMk5DZnNRQ3ZIQUlUU0pIVThlbWgyMmhQTTJBVjIwY2pObUxQa01mb0pSMU0yTTF1V2hUaEdvM3RVWDFISnd1WHFKQml2eHU5SllQMVF0RWE2eFhNUExDRkhGTHNMRTMw?oc=5",
+      "snippet": "President Trump to highlight federal crypto scam crackdown as FBI complaints surge 17% Crypto News",
+      "publishedAt": "2026-10-21T11:05:04.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU probes Booking.com over online fraud risks - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWY5cG8zbVVvWHFjdFR1Vm13NWpjQTVmRFdLcUp5RVFfNjZ1WXk2Mk9lbkVmNjhvWWtQQ3FiWmxzT1c4YVJjck5fMlNjYVllN0hOUThpclYwQkdSLTU5ZGxESzV2TkpwWWo0SDF3dThpSmdDOUNadU9zcVRQaTJqZjNXbVp5QzJmVFpnSmRKdlY?oc=5",
+      "snippet": "EU probes Booking.com over online fraud risks The Straits Times",
+      "publishedAt": "2026-10-21T10:52:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU investigating Booking.com over action on fraud cases - RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuOElfWGRQelF2bHhYX2hSNzhwZXpCa0dqbC11d2lBMDFGRldsLW5iWGdrcFctNUljeUtJQU1TakdqdkVLbjlIc3gtc1QyT1FKUWtiN3VWQ1VlSW13ajBDVzlwRHRrYVhOWHFsdzhFNExKUlFsZWc?oc=5",
+      "snippet": "EU investigating Booking.com over action on fraud cases RTE.ie",
+      "publishedAt": "2026-10-21T10:14:36.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ClickFix scams pose growing risk to education sector, Jisc says - Computer Weekly",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVdRQzZsYWNxSE4yY3d0SzRmVTlSeUEyRC1ieWNSemNNdThhaDRSSVZTa190dVA3YTFnbVVrdmVHWElIazFLVWZReDQ0bTlzUXZqcGFoOTJKZWc4NkRzTXBOdDZFbXNtVFljR3JBYWJkSGZsM0I5Ykd6RDRXNkc0ZzVnVjBEaE1ENmFLaTVOeTk4eTcwM01PMktGSlVaWFJrc2paRHZXRnlPRHNz?oc=5",
+      "snippet": "ClickFix scams pose growing risk to education sector, Jisc says Computer Weekly",
+      "publishedAt": "2026-10-21T09:10:37.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ASEAN steps up fight against cybercrime, online scam networks - Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTzNwZUpaUGsyTXFQSkRQaWoydDBQNnJJZVJBM1U5WEtORTlNcFphS2R0Wi1uV0J3RklKY2IxY2x6TzE1SWJPajBwb21YdVdkaWNhd2M3LUpGZTdNZEE3dGk4WGRyQ05VNGllNFV0V1hJY0xjbFF5aEZScXlVMnFnakVUeVUyWmRfUzZ4QnN6dEZoS2FQU212ZUx3eVF1RmJWeVZBLUpyQQ?oc=5",
+      "snippet": "ASEAN steps up fight against cybercrime, online scam networks Daily Tribune",
+      "publishedAt": "2026-10-21T08:01:38.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "The Risk of AI-Powered Antidetect Browsers in Online Fraud and Influence Operations - Check Point Research",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUNnT1B4Q0RMRWx2eURBZU9hQmlPX3pESm5LRmhtaGFWZk5JT1VjMVFmWFZiY0t4RmNnTHl4OTlsSXlrN0tCenpVUF9RbmJ3QnphZHUzLUJWdlNpRDFCNjY4ZDVaRmU2bnUwcnp0N3VFZTE3YWN2SmR0X0pqMTcxRmFFU01rbVhEUXFjNnF2Z2lZRmNLZ0Z0c254NjlJc1lCSGNjSjhCWFZiRTY5a1JuWnVNbDZENWpzMzdlRHZR?oc=5",

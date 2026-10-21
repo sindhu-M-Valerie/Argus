@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:05:17.430Z",
+  "generatedAt": "2026-10-21T12:08:06.303Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-21 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "How rage and frustration against authority figures tips over into conspiracy and violence – and what we can do about it - The Sen Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaS12QkQ4emVmSzA5N1hrNWJBQU5odjhtazk2U0VsR0ZQV1lablktcTZZNTQ3SDdpNEhoSVplWDlFUEFZU2JkVmZkbzRCU195N0xDUjExMlZNbVgydmEtT2FhUnhGV2JzdWFvNnZYS0NfMlRFLTluaU9UMFFBUUdaVjJOQWhWVl9yaU55MTZaZ3kxRWVxcjliblNTQnpYcDgwRklsLWRUa2VqaU1Lcks0YnJYUDBiSW1ZUDBzbnVnSW9HS3piYmdfVU1kOHFBQkdDdVV0Tm5URmNKUQ?oc=5",
+      "snippet": "How rage and frustration against authority figures tips over into conspiracy and violence – and what we can do about it The Sen Times",
+      "publishedAt": "2026-10-21T07:22:09.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

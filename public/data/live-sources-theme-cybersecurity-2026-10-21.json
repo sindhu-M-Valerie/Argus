@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:05:17.430Z",
+  "generatedAt": "2026-10-21T12:08:06.303Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 14
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,186 @@
     }
   ],
   "data": [
+    {
+      "title": "India's largest lender, State Bank of India (SBI), was hit by a suspected cyberattack and customer data leak, with approximately 3.75 lakh records surfacing on the dark web, according to a stock exchange filing on October 21, 2026. A preliminary analysis of app - Instagram",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1raXpVTVBuaUUwWkxxc0FWdEoyMmZpQlJKV3M5S1k4bkU4VmFXZzhlOWktZ1FRcDJWOEQ0d0RfXy1sTHlJaHZPWFM0VDlXQmdCOUE?oc=5",
+      "snippet": "India's largest lender, State Bank of India (SBI), was hit by a suspected cyberattack and customer data leak, with approximately 3.75 lakh records surfacing on the dark web, according to a stock exchange filing on October 21, 2026. A preliminary analysis of app Instagram",
+      "publishedAt": "2026-10-21T09:49:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUk4ydEZBOFlMS1JEWEY3WkdxWTNyLVRHaE94WHhOa2VWXzc5aTR3QWhvRFJUZWkxYWliLUc2ekRtV2d1S2dtaVRXeExBTWo2aHRTdmJKdk4tUVdzSWRVYzh1OW9zZ9IBa0FVX3lxTE9zT0ZUQXhkSGZ2TzE0WDBad1lVRXhDYzE0RUpva19oNURhRjJtU1l4SDliUWxlR0JMZ1h0VFJOdXFiS0owMUpPMDVCM1IwV1R1M3VSYzM5RHlhcVNDbDcyMjRubF9tVjlzN0ww?oc=5",
+      "snippet": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web CyberSecurityNews",
+      "publishedAt": "2026-10-21T06:19:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI Data Leak: Hacker Group Claims Access To 3.8 Lakh Records - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHROWV8xdjh4ZloxQ0U4U0pLVTRwcUwxMkthenRXQ0pWREJrRjZvc1I4WklOejZUbzhUWkRKYUNGdXVsa19nNEw2eEJqX2NHNVlpeS0zLUVrTGpsSTZIcG5jdGo3OHRaV3cxWjBIa0wwRWVXYnlKV3Job0FJdnh0azZ0S0V1MG1nUFBRUmsxaDJEQVFhNHNFakdCRFBkcnZDTk9pNlp4b200XzZLbTVtZGhqam5PUDh3?oc=5",
+      "snippet": "SBI Data Leak: Hacker Group Claims Access To 3.8 Lakh Records TradingView",
+      "publishedAt": "2026-10-21T05:31:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Data breach exposes 1.5 million Canadian Crime Stoppers tips, compromising anonymity - https://streamlinefeed.co.ke/",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOE1MYXRsaVNsMnFNTXVtdVExZ21tX1ZtcnF1S3g1NWJxdDMzNG85UGRaVFREVk1rV016WGo0LTUyR3JqWFoxZW1Hd3dBLXRoQzk1OVpPYmozeVczbEFGMU9CY2V4WmNtN2JNZ1FoVWZvU2VYZWZ2c1NFMmJ4dFcyV1ZzMGh4ZDI5SlJmRThidE1aUm5SVnFrR1hEZDJUa3M5ZEVma09PdE9mOUdLNEZhNGtTeHFPUllE?oc=5",
+      "snippet": "Data breach exposes 1.5 million Canadian Crime Stoppers tips, compromising anonymity https://streamlinefeed.co.ke/",
+      "publishedAt": "2026-10-21T10:33:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How AI is reshaping the cybersecurity skills gap - Barracuda Networks Blog",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91R295LVR4aEpMVW9yZFJTQ25MZkZHYk95TDJnNmVqY0xhdGd6aEtkUTNsT3lNN00xWmNQamwzUXlPVWtzdU9WVl93Z0taRmJ0ZGJIb0NwRFdaU0NqNFQyS2ZjYkFZa1dKdlY5Wi01QnZ3LU0?oc=5",
+      "snippet": "How AI is reshaping the cybersecurity skills gap Barracuda Networks Blog",
+      "publishedAt": "2026-10-21T09:55:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "OPINION | Your Food May Be Safe, But Is Your Data? The Cybersecurity Risk Facing Indias F&B Industry - ABP Live English",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVV9LRUFod1pBS0JyYmNVRDFDTnBZR1VsY2lmRUR6V29GQjlkcjktbTNneHV0endkcWREQ3I3WmhvWU40aEVQRUpMaEhpWmw1bmd0cGVQUzJ2WDdvWTY5UUtRSTdqZ0IyWlpNMHRDc1hmclV4eGc3N3M0cWZPQ1k4UGZFVHVzVGxNUHpWMFRGSzdaTUU4ajJIel91Z2VsV01ublY4ONIBqgFBVV95cUxQejdOTllUVzlaUnBnMVEweENVVmxUWVFyOHdIRnZFWkZndVlNZXdrYU5MYXJNYW5wbU83WDNPdzhWaWZCeVNzdWtKMDl3ZnZJWlpBMUFhNWVRTWFiQTlmNkJvQjJxTFFxRDJ0c3luRjBreFFBUjlLR0tPUXg2T3ctcU1SbzFtcjA3N084c0FxM1UtajJJdTZhS1NwSHlkb0t2eDY2ZUpraWwyQQ?oc=5",
+      "snippet": "OPINION | Your Food May Be Safe, But Is Your Data? The Cybersecurity Risk Facing Indias F&B Industry ABP Live English",
+      "publishedAt": "2026-10-21T09:25:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI Data Breach: 3,897 Customer Records Flagged on Dark Web - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZU1yd0Q3Q0hmZXJza01pM3ZjQ2lOb2s5OHNsZUlsMVpqQlJiUmxGYXAtMWc2T3VJc2xmQWh4Ry04bTFpckVZTVNFUXZJdFRNaUw5Wkt0anROVVZwTjVuUC1naTJNZ1VkcjVXZ0hHOGxXMDZyNmtLeF9Bd1VMaU1TbGFsTmJLSF9xR2dVaC13VHNPdW9zZjFaeklfV05IY2tQc2xOZ2xYU2fSAagBQVVfeXFMT2VNcndEN0NIZmVyc2tNaTN2Y0NpTm9rOThzbGVJbDFaakJSYlJsRmFwLTFnNk91SXNsZkFoeEctOG0xaXJFWU1TRVF2SXRUTWlMOVpLdGp0TlVWcE41blAtZ2kyTWdVZHI1V2dIRzhsVzA2cjZrS3hfQXdVTGlNU2xhbE5iS0hfcUdnVWgtd1RzT3Vvc2YxWnpJX1dOSGNrUHNsTmdsWFNn?oc=5",
+      "snippet": "SBI Data Breach: 3,897 Customer Records Flagged on Dark Web Analytics Insight",
+      "publishedAt": "2026-10-21T08:46:19.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "State Bank of India confirms cyberattack after 3,897 customer records surface on dark web - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHdWRDNQM2o5NHBGSmhDOEI3TUVTd2NnWXJHVUF1MkttWUxWNXVVZW9KQzVpU0RyNktHTjVWbDhKUnVKaUJmUDFHMEFuajEwUlpibW1NZWEtRG11a2xxa2c1VmxWdEtSWWdUai1tR0RwakhMVFdzcUpYdUtvejZoMGEwU0tKbmg5OXlDM2o1aW9iS0FFVXRqOUNPX1JXZE52ekNPbi1kR29hT1JyX3VJaGlSUktPenU0V1ZPYW9KSQ?oc=5",
+      "snippet": "State Bank of India confirms cyberattack after 3,897 customer records surface on dark web streamlinefeed.co.ke",
+      "publishedAt": "2026-10-21T08:01:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "OPINION | Crypto & Cybersecurity: What Exchanges, Investors, Regulators Should Be Responsible For - ABP Live English",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlcwOWFHdlJHYi1zdG5ETWNObkptci1vU1h6Vk5UQzlhYzVxRnd2T0tfbjVmS0lJVkd0am1JUVFuNlMwMHEyUHU4Z1VzVlFOQUVWS09XWHB6VWJxT05kRlZicWktM2NGZTEzUEhXWWhFMDUtSFd6NHE1NTRkOGpsZVVrUXB1QmF2NFVBTUtidlYzQ25Bd1piLWZNeUwwYlRmLUN5ZTdHQ0pqY3Z5V0xLTk80by12cG9uTXFQc0hJcTZTTkNUSEl4UzR3YlVTY2Nqa2tnaUZPelRxRDRSRHFSdNIB5gFBVV95cUxPM044ek9ZamNvZFoyQm1tay10M0lhZXdwQVAxSTFLcG1pNUhGc3lZX3BvWTNuUFcxUFZrRko0RVJmWlNWSUZ5UFdTYVlDRTAtRVU1Y3RxQXg2UU9kRmh2SXZhRWRGYm9CSXppX1daRnI5X3cxNUM2Zk1wVThPbHhEN3kwWVVFSHdINGhkVXRmdHRPSzhoUTNIQWtMV2ZYR3FHTnNSQ3VTMGlibnlubHphRjlEMkdYMVIwNlB1ZUdQX0I1ZVFMaFFKNkdMdWlQOF9XQ0FIODVSQXplQklfYl9oZmdNaUtnZw?oc=5",
+      "snippet": "OPINION | Crypto & Cybersecurity: What Exchanges, Investors, Regulators Should Be Responsible For ABP Live English",
+      "publishedAt": "2026-10-21T07:33:21.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity in Digital Banking and the Growing Need for Consumer Trust - Business News This Week",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0k2RWhiVWNQT0trWHhyYkRiRTdrWERxcFJaU3dRcDNvcjBGOTJqbG4xNWVLclc2UkNpN0VWdmVJMXl0dEh3VEdSdVY0ODBhVE5MRzRqQzNuZjQyM0U4UU5XYnI4S1VQbThtN1JjbUZNdDJtdzdYOUloMlZyaWFQV3BYaGVRcGhOeWF0TjBmWFlPZTRJUFQ5UkN2R2JqTWFLcjlNQVdScm1ydEt1VEFZZnNzR0hZSGx4?oc=5",
+      "snippet": "Cybersecurity in Digital Banking and the Growing Need for Consumer Trust Business News This Week",
+      "publishedAt": "2026-10-21T06:27:32.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI identifies 3,897 customer records in suspected data leak, says operations unaffected - NewsDrum",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYS1vTldPcDZLN1pXVFFmM2VqOG9lVWU2eHVlMUxsVl9kWjVTc21ZVUVoMTRCZ3ZicFE2NmdxUGRMdnNHUTdyeUROWFNaWFpWNWd5dVRtT2V6eF85UV9ZbE9EdHlEVFlvUlJSU3pycGMzenRPQ3BrUHZWdm5aV3RrMHpFa2FjVXhiWjlpYlJkYnl1UFA4Nm9uVWdQdmtCUGRWRjB3TWhzVXZZczZwZVd2VHh3b2pKeUJiNWd2THhRMHFrNGR5NjRZ0gHHAUFVX3lxTFBhLW9OV09wNks3WldUUWYzZWo4b2VVZTZ4dWUxTGxWX2RaNVNzbVlVRWgxNEJndmJwUTY2Z3FQZEx2c0dRN3J5RE5YU1pYWlY1Z3l1VG1PZXp4XzlRX1lsT0R0eURUWW9SUlJTenJwYzN6dE9DcGtQdlZ2blpXdGswekVrYWNVeGJaOWliUmRieXVQUDg2b25VZ1B2a0JQZFZGMHdNaHNVdllzNnBlV3ZUeHdvakp5QmI1Z3ZMeFEwcWs0ZHk2NFk?oc=5",
+      "snippet": "SBI identifies 3,897 customer records in suspected data leak, says operations unaffected NewsDrum",
+      "publishedAt": "2026-10-21T06:03:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-Powered Cybersecurity Tools Transform How Businesses Detect Digital Threats - boldnewsonline.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOW5HZThVX1FoR3lLRFF0eHJGM3hOQUQxM2pqZDZMdndJSU4zeUMzdDhVRzl2U2lZeGhHMjd2TTVBWGpCUkFPb3ZnVFZPMExkYWk2OW9VLVRwVG50ZGRmOEp2dWlMT3llOXByZjh4NFJFQ0t0TEpKdUs3cXBQSURJQ1dSb0wxVkF5RHJOSGg5NzBrdVBqOHJjUUhNS0ZHLUpEeThiSWNYQ200SEVLRDg4?oc=5",
+      "snippet": "AI-Powered Cybersecurity Tools Transform How Businesses Detect Digital Threats boldnewsonline.com",
+      "publishedAt": "2026-10-21T06:03:20.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "How Fortnum invested in improving its cyber security - Professional Planner",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzhWRG9ORTc0eTZiYlluR0E0ZXcxMGVNaWZNbHJSTy1Lc2V2eFJwSm9zNFVJS3ZxWjNBekNMZGVjTUJzWW9NZUFHOEFHMnBRVHhpSDhIX0hhemZIUGstVkpEQVUzU3ZiaHo4VkhvYURMUkwzcFJkaVdxQzh6RmJnWHYzWWVTUEN3WnFaUVVRdERTX1kwWUl5aHhGV0g4LWFCZ2c?oc=5",

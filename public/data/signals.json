@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:09:48.285Z",
+  "generatedAt": "2026-10-21T12:12:44.554Z",
   "windowDays": 7,
   "endDate": "2026-10-21",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 103,
+      "totalArticles": 118,
       "distinctSources": 7,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 21,
-      "reason": "Last 3 days averaged 16.3/day vs 13.5/day before.",
+      "trend": "Rising",
+      "changePercent": 58,
+      "reason": "Last 3 days averaged 21.3/day vs 13.5/day before.",
       "daily": [
         {
           "date": "2026-10-15",
@@ -36,14 +36,22 @@
         },
         {
           "date": "2026-10-20",
-          "count": 24
+          "count": 26
         },
         {
           "date": "2026-10-21",
-          "count": 3
+          "count": 16
         }
       ],
       "topArticles": [
+        {
+          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-21T10:11:21.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "Scammers Impersonate Poshmark Through Trusted Payment Emails to Steal Card Details and OTPs - Cyber Press",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vclM3dEMwdF9tbVlDYzgyQ0xiMFVQME54cm1YQ1gwRjVubU43ZmlEb050RG1RYm1pdjRES2FMV2Mtc05XMldVa0JfemtjTXBpVlJqaWZRZ3FSVXEtdzh5LUpNUHZObWJR0gFoQVVfeXFMTW9yUzd0QzB0X21tWUNjODJDTGIwVVAwTnhybVhDWDBGNW5tTjdmaURvTnREbVFibWl2NERLYUxXYy1zTlcyV1VrQl96a2NNcGlWUmppZlFncVJVcS13OHktSk1Qdk5tYlE?oc=5",
@@ -98,14 +106,6 @@
           "source": "Google News • Fraud and Impersonation",
           "publishedAt": "2026-10-17T07:55:00.000Z",
           "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Decorah Bank Sounds Alarm Over Impersonation Scam - Decorah News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUptTXJTOVAyR1hZeWxJbGx3S1BGaVphOEl5cnJWeV9PcmpIbVNlOG9NSkFqM2d4Wko2YkJwZTJaWEtiN0tXTkRjc0lxR21ZS1dLbUNaNTdyRjlpSDFZSm5uUzJoZmRsYll5TnNnZTF3cTU1MFNLem10OHJZQVdnczFFNU9GSzJ2T1dNSHp3?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-20T15:50:30.000Z",
-          "riskScore": 52,
           "corroboratedBy": 1
         }
       ]
@@ -219,12 +219,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 59,
+      "totalArticles": 71,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 81,
-      "reason": "Last 3 days averaged 11.3/day vs 6.3/day before.",
+      "changePercent": 145,
+      "reason": "Last 3 days averaged 15.3/day vs 6.3/day before.",
       "daily": [
         {
           "date": "2026-10-15",
@@ -252,10 +252,34 @@
         },
         {
           "date": "2026-10-21",
-          "count": 2
+          "count": 14
         }
       ],
       "topArticles": [
+        {
+          "title": "India's largest lender, State Bank of India (SBI), was hit by a suspected cyberattack and customer data leak, with approximately 3.75 lakh records surfacing on the dark web, according to a stock exchange filing on October 21, 2026. A preliminary analysis of app - Instagram",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1raXpVTVBuaUUwWkxxc0FWdEoyMmZpQlJKV3M5S1k4bkU4VmFXZzhlOWktZ1FRcDJWOEQ0d0RfXy1sTHlJaHZPWFM0VDlXQmdCOUE?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-21T09:49:03.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUk4ydEZBOFlMS1JEWEY3WkdxWTNyLVRHaE94WHhOa2VWXzc5aTR3QWhvRFJUZWkxYWliLUc2ekRtV2d1S2dtaVRXeExBTWo2aHRTdmJKdk4tUVdzSWRVYzh1OW9zZ9IBa0FVX3lxTE9zT0ZUQXhkSGZ2TzE0WDBad1lVRXhDYzE0RUpva19oNURhRjJtU1l4SDliUWxlR0JMZ1h0VFJOdXFiS0owMUpPMDVCM1IwV1R1M3VSYzM5RHlhcVNDbDcyMjRubF9tVjlzN0ww?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-21T06:19:50.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "SBI Data Leak: Hacker Group Claims Access To 3.8 Lakh Records - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHROWV8xdjh4ZloxQ0U4U0pLVTRwcUwxMkthenRXQ0pWREJrRjZvc1I4WklOejZUbzhUWkRKYUNGdXVsa19nNEw2eEJqX2NHNVlpeS0zLUVrTGpsSTZIcG5jdGo3OHRaV3cxWjBIa0wwRWVXYnlKV3Job0FJdnh0azZ0S0V1MG1nUFBRUmsxaDJEQVFhNHNFakdCRFBkcnZDTk9pNlp4b200XzZLbTVtZGhqam5PUDh3?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-21T05:31:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
         {
           "title": "Hackers Exploit Open Banking Services to Test Stolen Credentials Without Paying a Cent - CyberSecurityNews",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDeGRMVml5ak1CcHRCUnBVWUhPUE1Bc3FjT0lua3J0TGtmTzZtQ19DRXJtVVk1RDE1RUdodjlnQUVIOU53eTRTb3h2MHVDMTZqVVBiNGU1Y3NkX0RQdVotZzVjWEdJejktbXFQMWZad3JJd1lPWDRCeTI4bVbSAXxBVV95cUxQQ3hkTFZpeWpNQnB0QlJwVVlIT1BNQXNxY09JbmtydExrZk82bUNfQ0VybVVZNUQxNUVHaHY5Z0FFSDlOd3k0U294djB1QzE2alVQYjRlNWNzZF9EUHVaLWc1Y1hHSXo5LW1xUDFmWndySXdZT1g0QnkyOG1W?oc=5",
@@ -295,42 +319,18 @@
           "publishedAt": "2026-10-17T02:42:29.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "South Korean banks boost cybersecurity after data leaks - AzerNews",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aRk9ESkNfRjRRTDJsMEs5ajdyTUNJN2x5dzNjbmhITWxJeTd0elluQjIxWHZ2dkszU2FkSXQ4TEpWSTZNLWZuVVV1UjJjNEk2bHgybw?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-16T19:00:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Burger King Japan Confirms Data Breach Exposing 11.18M User Records - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRWGRFZUpLWlFweWZSRDFrSEhlZGZ5R09Gdmt2ckxnbGxfNXAwY3ZqVnVIb1VxaTlhSVRhR3JBMkkxOWtRUzV0a2RQQTNONlpZZFRaOUc4QWdBb3ljUFdMclFkVkd6SDlybXRTOdIBckFVX3lxTFA2R01yRGRqTlQyb2Y2S2NPUG5xRmtLQ0lRNEg5U1N1c045Q1Y2VURyalhfQzV2SXRTX2dYNlp0MWczZkdTdWpPdTBpbGJYX0NtOUhUZzlwa3cyZDFHVFdXS1pyVzB3b2JJc1ozeW1uUmotdw?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-15T15:58:40.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Elevate cybersecurity to national security priority - The Malaysian Reserve",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVZVZ1d2ZldQbTNUWWJpUXpJMkdnajViZi1CaF9XSVRodWpvTE4waFBqcjl5Y3JZc2NTcjFlZy0zZEZHeUNibzZFaHlza1A5a2NiRTZuTHA5dS1oc2otX212dE55NmhXVlhCbW5yUWw1bU45LWJtUnFlWEJXY09oTDdFQm5sT2luVUFfcDRPUjFNSU9ob196QVVpUVNjT0hq?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-19T01:07:38.000Z",
-          "riskScore": 47,
-          "corroboratedBy": 2
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 51,
-      "distinctSources": 2,
+      "totalArticles": 52,
+      "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -54,
-      "reason": "Last 3 days averaged 4.3/day vs 9.5/day before.",
+      "changePercent": -51,
+      "reason": "Last 3 days averaged 4.7/day vs 9.5/day before.",
       "daily": [
         {
           "date": "2026-10-15",
@@ -358,7 +358,7 @@
         },
         {
           "date": "2026-10-21",
-          "count": 4
+          "count": 5
         }
       ],
       "topArticles": [
@@ -431,12 +431,12 @@
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 30,
+      "totalArticles": 38,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 33,
-      "reason": "Last 3 days averaged 5.0/day vs 3.8/day before.",
+      "changePercent": 104,
+      "reason": "Last 3 days averaged 7.7/day vs 3.8/day before.",
       "daily": [
         {
           "date": "2026-10-15",
@@ -464,7 +464,7 @@
         },
         {
           "date": "2026-10-21",
-          "count": 9
+          "count": 17
         }
       ],
       "topArticles": [
@@ -481,54 +481,54 @@
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUVnFvLURLd3dGVmJlYkhGeWl1S2Z3QThkV0NUbG1fVWwydGZob1pOQTlaanpwb1FQSGd4TzRhd1cwUFBWUWVHYWNmbnZyTFczRDlz?oc=5",
           "source": "Google News • Violent Speech (India)",
           "publishedAt": "2026-10-21T04:57:54.000Z",
+          "riskScore": 51,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "105 US Lawmakers Urge FBI Hate Crime Probe Into US Temple Mass Shooting Plot - NDTV",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVUQyMjFhYmhCZHcwallwTml3UHpxckV4UGpHeXVrZTZ0bEY1d1pTOWpWOUk0bnF0VUhMTFJwbDB0elJiVFpiU3VHOXA0ZlJDcXE0MVF1dWNKYTc1bVQxMjg4SURDUTJJZ0xScFg0ZV9GU0xKY0VtZHVvWjVXdXZFenVhT0Z2Q0I5b2RjUEhBRUJVeFBQNzRFYnFyaEZqcHd4WHlzT0NqTWdqX2kxVkFWdG5GWFdnTkQ4X3BmUVJCaGtuWXlpNnVTTm1IaXhDMVRpTmVBbUFQYno5Z9IB2gFBVV95cUxPVUQyMjFhYmhCZHcwallwTml3UHpxckV4UGpHeXVrZTZ0bEY1d1pTOWpWOUk0bnF0VUhMTFJwbDB0elJiVFpiU3VHOXA0ZlJDcXE0MVF1dWNKYTc1bVQxMjg4SURDUTJJZ0xScFg0ZV9GU0xKY0VtZHVvWjVXdXZFenVhT0Z2Q0I5b2RjUEhBRUJVeFBQNzRFYnFyaEZqcHd4WHlzT0NqTWdqX2kxVkFWdG5GWFdnTkQ4X3BmUVJCaGtuWXlpNnVTTm1IaXhDMVRpTmVBbUFQYno5Zw?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-21T04:46:57.000Z",
+          "riskScore": 51,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "105 US Lawmakers Urge FBI to Probe Illinois Hindu Temple Plot as Hate Crime - Dainik Jagran MP CG",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXppU25OeGp4WmlwVUFlWWJSZi0yQk54MzJtZVoyTXNHVEJQeGJQLVBuTkx2YlUxa0xlLW1sNGhqZmtHRjJuelcwYVgtaS12MXFjTHBZU2U4VmJjejRuNVZPbUlBWXpJWGZDQmVqUHJDWFNNUkxsTnZuaUQzODZNOWluX1pZVTBEYjhSbE1scnhaTjNEVENPZ0dLTk0xSDRfd2phZmtQQlJOR2tzMTNBWkhsSlh1dUlsLUNwak93?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-21T07:28:55.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         },
         {
-          "title": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora - INDIA New England News",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT3VxVE5fVEswcW5QUEtMblFBNEtET25IcUZPQWZIeWlLUnUxLUdQZzNIUVEyUkZTdm5TM2hta0tTalBWM0dVNTF5Q0I1RU5ZNVlpYXBEU0hpRWZpTDJIOEMyYk5DZWdvQjZZTmtVM1NhUnREeDFiN3lQNFAzMlRSSzI3ZnZ4QUU4d2xZeVY5am1fNlZSWkIzV2tjQUg3bVhGOWRHZ2k1dHF6bVVjT3Awempjei14Qjh6MHZSMUtqeUdlbDdvVl9tVEZoREt3V2JaZnJFcU1TaUF6VG13OUJJMUtsV3hULTJfM1RHQUF0R1RKZVk?oc=5",
+          "title": "Probe Hindu temple attack as hate crime, US lawmakers tell FBI chief Kash Patel - Rediff",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelpWQW1vdGdMOG1tQ1BXaVV4QnZZRXF2RUJoT0RpWXVfbmNVOEtLX0tuMEpkM3BmTUtVbGM4ZVFmLWlxRFEwa2h1T01XeFdDYmtadlhJZU1hU29LcnExa3ZZUGdKOFlrU2Q4bGhSUWNkOHBQY3dxSm1tNk5UTDh2S09qSzFWbjRqejdrUUNkRkRpMk41RXlDYVRXUEhKc2Z2WXNnWVI4SG5mNmF1TTlxZEdlajZDRUI4eFhSZndHSl80dmds0gHHAUFVX3lxTFA2SUhnaTBBZTFlQmotVkl4TnRqRGcxeVlzV0plWW5lQ3RuN0prWXBPaGsyTGs1NzVZSU5xZHpGLWpHTEd1VDItRGdKRmNOSFFBMDR3MEI4M0ZyYzNBSHAtYkx5bmsxek9rTWhaeWxFQlRpZ1pGa1dweEhiU190aWdDNmdaQUVHeGR3b1V0a3dZT29KTjJHWjFMcjgzYW1faFdoSjBhWHhad1p1c2hSdUtWc2FqclVIc1c4Y0pNdmpPMkE2enlaSmc?oc=5",
           "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-21T02:33:17.000Z",
+          "publishedAt": "2026-10-21T07:10:48.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         },
         {
-          "title": "105 US lawmakers urge FBI to probe temple shooting: Seek hate crime investigation and answers on online thr... - Bhaskar English",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlhWWV9ieG56bjJpTWxLT1BMRjB5SmNVTG9fV2FzNTlybjJtbjJwUS1JVjl6R2ZVMU5la1FmQjBkQ0VEVHRvbGQ0Q3I1bV9nVUx2VzBfSE1jN0lpV043QVZjZ1ZXU3Bnb0hrcnRoWTM4M2lkblViZ21VbEJJbFdPMmJHczI1YjZPSHVfNmtjWUNkVGhMTXl3NzlRY21mS3JJNnhtWVY4YmcxMkNzOXo2eDRZWnJNSlhzbUJxRVRmbHpGQ1ZnV1hKSGExV2pSZknSAc8BQVVfeXFMTUJYVllfYnhuem4yaU1sS09QTEYweUpjVUxvX1dhczU5cm4ybW4ycFEtSVY5ekdmVTFOZWtRZkIwZENFRFR0b2xkNENyNW1fZ1VMdlcwX0hNYzdJaVdON0FWY2dWV1NwZ29Ia3J0aFkzODNpZG5VYmdtVWxCSWxXTzJiR3MyNWI2T0h1XzZrY1lDZFRoTE15dzc5UWNtZktySTZ4bVlWOGJnMTJDczl6Nng0WVpyTUpYc21CcUVUZmx6RkNWZ1dYSkhhMVdqUmZJ?oc=5",
+          "title": "Krishnamoorthi leads call for FBI to probe Aurora temple plot as hate crime, flags rising racism - Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYVNIZndURzc2TWtPZ3ExSjJpOEhsQTBoeWIwLUNuZURmRmRsb3h0V2pGcTlkNktTdGMxcUt0NVZGckZ0MV9jNVRQNlhYVy1YVl84NWhGY2NoSTB0ZjR6S19UM0hKU05PNzhEeHlLMUFFVUlWX1lad3ptVjU5R083QlhkMlllbTRQSTE5Ql9lSGxpNDA5aVEwa1libEwyc2lVWXRXZHcxeXh0eXhsMWtlYWlmVXJtZmwzTVZ1M3E0VzltVzZlUm8tSFNzUVRiQnB6NTJvb01LZ0pmUFd3SUNQbWxnSG9pMXU5bUxNX3BabmQ4RnNIWHR4VU04QWJLRzNPVUd2cVJmU2hQRTE5a0HSAY4CQVVfeXFMUGFTSGZ3VEc3Nk1rT2dxMUoyaThIbEEwaHliMC1DbmVEZkZkbG94dFdqRnE5ZDZLU3RjMXFLdDVWRnJGdDFfYzVUUDZYWFctWFZfODVoRmNjaEkwdGY0ektfVDNISlNOTzc4RHh5SzFBRVVJVl9ZWnd6bVY1OUdPN0JYZDJZZW00UEkxOUJfZUhsaTQwOWlRMGtZYmxMMnNpVVl0V2R3MXl4dHl4bDFrZWFpZlVybWZsM01WdTNxNFc5bVc2ZVJvLUhTc1FUYkJwejUyb29NS2dKZlBXd0lDUG1sZ0hvaTF1OW1MTV9wWm5kOEZzSFh0eFVNOEFiS0czT1VHdnFSZlNoUEUxOWtB?oc=5",
           "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-21T02:07:49.000Z",
+          "publishedAt": "2026-10-21T07:04:17.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         },
         {
-          "title": "Probe Illinois Temple Plot As Federal Hate Crime: 105 US Lawmakers To FBI Director - ETV Bharat",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUGQtczd6SWRzbXFoQ2ZYc0w4MTJueWl1eTFYT3NSWkhyUHVscEIxNzZMYzhyNjJhVnZnaUVSNE5MT0tHVDlid1lGazFzVW9BeHMwdnA4dlhUN013ejkwUmJWVjg4VmZLZ3NsUGJmQWw4NmZRaThpdE5obnNJRkxIZE9MLTlkRUZDSEhzb3htankydkNXMlhYWHl4b3lSNmQ1NXBtb3NhTFpYYzYxdmJJRVFjVDBUWFRHUDA2eHdQQ3IyNDl6R2NWQzdTRUJsLU14R1hPN3I3a3E5UDDSAdsBQVVfeXFMTVBkLXM3eklkc21xaENmWHNMODEybnlpdXkxWE9zUlpIclB1bHBCMTc2TGM4cjYyYVZ2Z2lFUjROTE9LR1Q5YndZRmsxc1VvQXhzMHZwOHZYVDdNd3o5MFJiVlY4OFZmS2dzbFBiZkFsODZmUWk4aXROaG5zSUZMSGRPTC05ZEVGQ0hIc294bWp5MnZDVzJYWFh5eG95UjZkNTVwbW9zYUxaWGM2MXZiSUVRY1QwVFhUR1AwNnh3UENyMjQ5ekdjVkM3U0VCbC1NeEdYTzdyN2txOVAw?oc=5",
+          "title": "Aurora Hindu Temple Shooting: 105 US Lawmakers Demand FBI Hate Crime Probe | Raja Krishnamoorthi - News18",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaDZuV3FIRnJGdEhQRFdmNEZyVVY0RXRhcDZORW13c0VaM0tBLWdGUkRLT3VfNktFMGFTdlRYLWdtQkdEZHVQbUpvdVk5M2JjYnZNX1NiVDFRanJFVXRJZ2tIV2xyNTdDd094c282Q2duLVR3OGxVbjgwZVpJamRXZUNvX05DenR6aWhydEdOcEhGQ3BfM1g5N3JSZV83M1dpR0RWNksyNlpobHVzSjdpU2VRRURmZ0hqNF9IaVlQQ05MMEl5YVJQQklYWFdKbG1YQUVFbjctaTNwUlhJcHdSbW9oaXUwd9IB6wFBVV95cUxQckNDTDFRZkRoUEoyakw2am9OQW16RG1NR1c3WnpqZXhwOGtuNjV3OEY3VzRTSmc4UWduUExYWnFxS1R6aHk3d3JjZVRvRWVmMGk5WWRaZElWUkhsS3VENkREWUZzY0lrRURaN2RUZTluR052bGxoWUVEcWpHQ0VBd09UT0JHNXF4MEpDZHliUkxkYXdMMHpWb0g3TVBqT2F2QU9Beks0YzFuenF0VjN6NzI3SFUwS2dpd0NSVlJ2Q1ptOXA1NlhrUl9iNVc0YTk3TkRnc0o1N2ZZVWxtVjg3V01ndjc0ZFZ4a0Zv?oc=5",
           "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-21T01:15:47.000Z",
+          "publishedAt": "2026-10-21T05:15:00.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         },
         {
-          "title": "Krishnamoorthi seeks FBI hate crime probe into Aurora temple plot - New India Abroad",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaENScmc2ZEpScklRbHBzX0ZaV0xZMGFaREFTaG5vVFlfd0lFbmxEU2t2MnZzTXFmd0ozZlhwa3I3QXUxcHVmOHpMRm52eDQ1ejItMGlfc3lEQTVvdm9NNmY5Zll3QXplb1hTNWV0cHh1Vjl1bEtBcVJtT0hGN0N4TjB2MFhoR3FLZW51WUJEOTA2UndtaHV3cGJObVM2cDZ1ZjNheXlQZlF4cl9HR0E?oc=5",
+          "title": "105 US lawmakers seek FBI hate crime probe into foiled mass shooting at Hindu temple - NewsDrum",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdVVoRmZZZ2Nzbk5vMldya1RQOEV6bWo3c05qQ3V5OGFpal9LOGlVM3Boc3dDY0JsVXFsTjRvVnZncEtxa1d5TTJrRkY5dm5Md2EyV3FEdlVtT1prd01Yc0NUaC1qNko5TWktemx3S3ZKeTdkZllrSUpDNDh5Vk1kSDhONUxKbVdHOUlUNk9Xdy1VSEZRcTBjY2pRUzJUdUUxb1VkN25jeWJQbU05aDNaSzl1eXdhSENaV1NuVmVXTGFMTVdZZlM4QnNId9IBywFBVV95cUxPdVVoRmZZZ2Nzbk5vMldya1RQOEV6bWo3c05qQ3V5OGFpal9LOGlVM3Boc3dDY0JsVXFsTjRvVnZncEtxa1d5TTJrRkY5dm5Md2EyV3FEdlVtT1prd01Yc0NUaC1qNko5TWktemx3S3ZKeTdkZllrSUpDNDh5Vk1kSDhONUxKbVdHOUlUNk9Xdy1VSEZRcTBjY2pRUzJUdUUxb1VkN25jeWJQbU05aDNaSzl1eXdhSENaV1NuVmVXTGFMTVdZZlM4QnNIdw?oc=5",
           "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-20T22:27:53.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Over 100 US lawmakers seek hate crime probe into Illinois temple attack - India Today",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWtFS1NzN0NqTGJmWWtDS0hWRFR0QW9fN0JQbmRWTlFrdTdnT25ybEJlT0NUN1Rka0pSSE9wTGx1OEl3amlxQTVsSU8xSkRWa3Y0b2FjRmNfaTdaWHpLaGI1dWVrTDlwQmdnNFV2WmxWQ3pYZjVsWHg5Y0kyTzRUM2JNbi1BUnA3dGk0bHhBV2N4dmVqVzN4OTFsaGhEYzdBQnZFQm51VVNPX3ZncDBlajUzR0h1TWU0a3U5WWd6TWlVQdIBxwFBVV95cUxOX3ljUlNYdlJSa1dxa2dtV1Uxc3hUYkVONm5XSk5LUUxWOU9YWW1nY25nVkhRQVRpTW5IQXRxSGdKT2YzUHI1eExha2ZGNlNjQkQ3ekNBRGt5RGJpdFFPUjlHc1F6RHpTd1pIY0RFUUNMZzlJVFdmaFVzVlRxcVNNUi1GN1pQNTlCWGJwSXdDM0dPZEtHOUNwaW9oa1FybVNBYlFfTFFOTDhyY3pUaFVHR3JVUnp1OV95ZDNUWFU3N1lXLV9DM3Nz?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-20T21:20:29.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Probe Illinois temple plot as federal hate crime: 105 US lawmakers to FBI director - ABP Live English",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkdHUTViLVZHdGdyWjZnal9hcjd3ZVpVZmp1ZlRsWUtaeVZzeDZhcEF1YmZuT0EwOENPU3A2YTh1Wi1VWkFjcEJ3a0xsVlZCekw0TjZidWZiZlJuVEg1aG51NU1oTkpwYzBiN0VfdmZhb25zR3pQb0g3T29uUnV5RXk0bmNNUXVTTENuSjlIR1NiYkh4STY4ZjZfV0g2T3dVbVpzbjVMaVlMQU56M2Y0RW5pXzZEeEhWYzlYcEo3YVdSV2fSAcgBQVVfeXFMTXZxckhfWF91TW15NlYwaDZDMEtfajNEb1piZURFc2Q1ZlpTS3EyUzRDMnk1aUk0OHliNmY1WnowcWtfQkotb0dIZU9OSUFnX3lmbk4wRVhXdGZ1VERYZk1VbnppVWEtd1o0TEVUYlhrVWlnQ2ZQY1paMTVfcXB6a3Y4RjJwZzRET3NpelZTZlBVOUM5N1dvQkYtVUIzSUVLN3hGb2wtSTlBdXNmUE1mZW5nLUh1SWpjLXp4bUVNUnJza0dVQjVQdlE?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-20T21:15:01.000Z",
+          "publishedAt": "2026-10-21T04:29:21.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
@@ -749,12 +749,12 @@
     {
       "theme": "dangerous-organizations",
       "label": "Criminal & Dangerous Organizations",
-      "totalArticles": 8,
+      "totalArticles": 9,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 122,
-      "reason": "Last 3 days averaged 1.7/day vs 0.8/day before.",
+      "changePercent": 167,
+      "reason": "Last 3 days averaged 2.0/day vs 0.8/day before.",
       "daily": [
         {
           "date": "2026-10-15",
@@ -782,10 +782,18 @@
         },
         {
           "date": "2026-10-21",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
+        {
+          "title": "India News | Haridwar: 20-day Ganga Canal Closure Impacting Pilgrims Ahead of Kumbh Mela - LatestLY",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWDI2U09GM3dlRmJORXdLY29NcUhpOXQyOUVyaFdwNE9OOUhmb2ZoM0R2YW1UZHZfdUhCOWtqeHZUVllERVk1ck5qREVwR2F0aExZYXBJVWMzTl9RSTM2RVVqVU1QNFJ2WFNWMnhZRzZ1eDZUUlJUZmI5UXhiaElHeWdXOHcxSFdSY0tsVldGSjEwbWpNUGFjRnZiUkZWR0U1VXIwSHNtOUhIM2NBT0lCalhJUUVGRlJNb1VVZ1U5XzdpZEs4Wmd6Wi1BR0lKRWtWMEtxYjh30gHWAUFVX3lxTE5YMjZTT0Yzd2VGYk5Fd0tjb01xSGk5dDI5RXJoV3A0T045SGZvZmgzRHZhbVRkdl91SEI5a2p4dlRWWURFWTVyTmpERXBHYXRoTFlhcElVYzNOX1FJMzZFVWpVTVA0UnZYU1YyeFlHNnV4NlRSUlRmYjlReGJoSUd5Z1c4dzFIV1JjS2xWV0ZKMTBtak1QYWNGdmJSRlZHRTVVcjBIc205SEgzY0FPSUJqWElRRUZGUk1vVVVnVTlfN2lkSzhaZ3paLUFHSUpFa1YwS3FiOHc?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-21T04:50:24.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
         {
           "title": "Tiger Shroff shooting: How Lawrence Bishnoi gang runs its network from jail - India Today - India Today",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGV0bDByMkYzb2tIejJIeEdjVE1qbXFQVUFYZ3NJa3h5aVgwbnJGM0VadmV6VnM0aG1JMkN2MGgyRmtKdFFuUjdWTExGd0dLRnotVFJRcHB0cnhyY3g0OGp6ZnFPWFZ6dUNlQWE5emRWM1VmQVdoLUduVnVDNU5BT1k2ZUFPdjRuN1daVFoxVFVMUldRcGRuLXkwMGFtMV9JVFhvc2pJbU4tVE93NlZhVzR6dGtod1NiNFBjcTFNSlBKTjRXWmliajJGejRDcDFHUjFqdW1JZ19GUXhYeXfSAeMBQVVfeXFMT1RPbG1RYlFOWXhqaG00cFZLSG14N1dUSWlZUmlTa1VaY051V2ZybkFGVDVCNnVET0MwSXgtdnE2UnByTnhBUnhZZXB4eUNkeElNN1NldHgwcVJveWNTRkNpc2JXaG1oQzNpZ0N5TTVOR3hjeVlITTUyZVRWNFpvRFF6bE0wTHpNOXM2NWY3SDFOR0xGSHhCdnRJdGVtcDEtYTJWNjVXLTdmanZDT0p3NXI0ei1KbW5DaUtXRWw2YnRUVkxsblMxUlNkcTZiNG1qZ2d5T3JlelZqU2xyTnBObWhtZTQ?oc=5",
@@ -841,26 +849,18 @@
           "publishedAt": "2026-10-17T03:31:26.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Addressing environmental crime through community action - Global Initiative against Transnational Organized Crime (GI-TOC)",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEpEVExZVkY2TTBodHRJSHJsdS1UZjdEcDE3V3Z3LTJ1MGRtNk1jT0N6eGpHTDJHTVFjUHlsVzdKbWVIS1U0QnhYTGY4NTMzSmN0MTQ2ZDdiY0FwemlnTE03eld5b1FRalVBQkJwQU03QXlfYmYySE5rQ1Z5OWNzbWV5cUVuR0E3aF85ME8wbEVaQ2RuZ3VYTkxR?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-16T15:35:34.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 7,
-      "distinctSources": 5,
+      "totalArticles": 8,
+      "distinctSources": 6,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 0,
-      "reason": "Last 3 days averaged 1.0/day vs 1.0/day before.",
+      "trend": "Rising",
+      "changePercent": 33,
+      "reason": "Last 3 days averaged 1.3/day vs 1.0/day before.",
       "daily": [
         {
           "date": "2026-10-15",
@@ -888,7 +888,7 @@
         },
         {
           "date": "2026-10-21",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -914,6 +914,14 @@
           "source": "Google News • Fact Check (India)",
           "publishedAt": "2026-10-18T07:36:24.000Z",
           "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "How rage and frustration against authority figures tips over into conspiracy and violence – and what we can do about it - The Sen Times",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaS12QkQ4emVmSzA5N1hrNWJBQU5odjhtazk2U0VsR0ZQV1lablktcTZZNTQ3SDdpNEhoSVplWDlFUEFZU2JkVmZkbzRCU195N0xDUjExMlZNbVgydmEtT2FhUnhGV2JzdWFvNnZYS0NfMlRFLTluaU9UMFFBUUdaVjJOQWhWVl9yaU55MTZaZ3kxRWVxcjliblNTQnpYcDgwRklsLWRUa2VqaU1Lcks0YnJYUDBiSW1ZUDBzbnVnSW9HS3piYmdfVU1kOHFBQkdDdVV0Tm5URmNKUQ?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-21T07:22:09.000Z",
+          "riskScore": 44,
           "corroboratedBy": 1
         },
         {
@@ -953,12 +961,12 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 5,
-      "distinctSources": 3,
+      "totalArticles": 7,
+      "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -67,
-      "reason": "Last 3 days averaged 0.3/day vs 1.0/day before.",
+      "trend": "Stable",
+      "changePercent": 0,
+      "reason": "Last 3 days averaged 1.0/day vs 1.0/day before.",
       "daily": [
         {
           "date": "2026-10-15",
@@ -986,7 +994,7 @@
         },
         {
           "date": "2026-10-21",
-          "count": 1
+          "count": 3
         }
       ],
       "topArticles": [
@@ -1012,6 +1020,22 @@
           "source": "Google News • Dangerous Criminal Organizations",
           "publishedAt": "2026-10-16T10:57:18.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "AI deepfakes, extremist recruitment: PAS MP sounds alarm over threats to children - Malaysiakini",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXQ2R29hMHNCelhBM01ZT1pXNHRBZ0MxZ3FqT3U1ZHEyOGZzT3ctTWtWdUFxcHIzNkt0VzBmTWFCd1ZNdTZzWGlNZzFsZ1QtQ0pkQ2Q1TkRsRHIyaFFLVG1RdEJPRl90VGZLZnQySUJXTnB3YUUyWjg4a01jVUM1cHVISlJKN1k0UlVDdWxKVzlSY004OFVqQ3c0T2x1NExOdWZoUHVtWFZHYS1Edmp3TlZ4cnRycGlIQkZHMg?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-21T08:01:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "India Urges Global Vigilance Against Transfer of Sensitive Weapons Technology to Terror Groups - boldnewsonline.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0pBaDl6Ri1pRjc3NzRHcXJBMGVvQjM4Qmp1djFMbFJGUkVtN003eGtBTnBfdndKNGpzdFdsaHA0NS1nRHo3aS01Sy1oYlJzWU55VWI0bTI5UDdWRG45ajVmcFZVcDdZeUVobFdELU4wUWd4bXVCMDJvNkxMX0lzS2NQbzd0bWY5QktTdlpUT3MxTnZnSmZKWE5PWi16R1h4WXZ2NU9sSG9LT3E0RE9sWHFWTW5fYWlXOTZlVDNIS2dUdzI0?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-21T03:52:28.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
