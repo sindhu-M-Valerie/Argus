@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:08:06.303Z",
+  "generatedAt": "2026-10-21T17:28:34.867Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 5
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Terrorism From Pakistan, Khalistani Extremism Direct Threat To India And UK: British Lawmaker - Ommcom News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGtrd0paNk5HS0lYaHZ6cXNVenZJeWFfdnpxZ3ZOTnBON3ZpU3RJMjB3TGFydTY1SVo4ZkJ2UER5MEZEZ1IxTkU0aDAwLVMxRTVyVS1ITF9OSkpyRGJKeHdhaEQxTFJyOFd4b1JpVWNmSml3Qk5GblAyY3JmdzVlcmhVdjYyTTdPNGtzbERJZ1BiMnhvX1JTZ3VPZmoydG9RamlIODg0X1FoZkwxelFvcl85M0VlZjVQMWI5YllJZHNqY0JX?oc=5",
+      "snippet": "Terrorism From Pakistan, Khalistani Extremism Direct Threat To India And UK: British Lawmaker Ommcom News",
+      "publishedAt": "2026-10-21T13:18:45.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Expect our partners to show zero tolerance toward terrorism: EAM Jaishankar - India's News.Net",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3JtaXMzeXkxQngtNkZZNnBLcnV3WE5JQUxEbXpXQUFtUE1VR0NkUVVJN2dxdVNqV3YzSnN0a2lqby1GS1c3YV9mSXpmSFJQY2M4VWlPczIwSHc4TWJQQUxxNHlzb3o3TUZaLWIzWDVwYnZuUFAyYmgwNGhKakNFRXJwUk1ueTBqSThjZUtvQVJvUGF4Q2I1RUh4V3hCR3N6X20yWTFCR1lRczFBUkJFVzZnZzVxTkU?oc=5",
       "snippet": "Expect our partners to show zero tolerance toward terrorism: EAM Jaishankar India's News.Net",
@@ -193,6 +208,21 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CICC flags NVE as 'clear and present danger' to youth By Raymond Carl M. Dela Cruz MANILA – The Cybercrime Investigation and Coordinating Center (CICC) on Wednesday flagged Nihilistic Violent Extremism (NVE) as a \"clear and present danger\" to Filipi - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0pWdG9uZHNvbkZ6RklWbV91YTRWckZxSmRzWXFpaVktSC1Gd01lTkVURldxMzdWdGNJRzl3NHRkRUU1b1RKRkgzVWpud2ktQUFjM2ltU3dvNDNXT0lvQ0tJdHUwQUN1V2pTaVNLdWs5dm9MbFlIbWdTWGpHNUYwSnMzcUpRRWVsU1B6UGd6OFhfY1lHRi1lVFpHdmlFdFJYY0EwczVaSHZiMkNSaWpIdmNNZHlqc1lGa2V3eDN1SnhrRzE3VWplcG90ZzhILV9Zak50Yg?oc=5",
+      "snippet": "CICC flags NVE as 'clear and present danger' to youth By Raymond Carl M. Dela Cruz MANILA – The Cybercrime Investigation and Coordinating Center (CICC) on Wednesday flagged Nihilistic Violent Extremism (NVE) as a \"clear and present danger\" to Filipi Facebook",
+      "publishedAt": "2026-10-21T13:06:46.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

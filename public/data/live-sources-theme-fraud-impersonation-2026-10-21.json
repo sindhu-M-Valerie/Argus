@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:08:06.303Z",
+  "generatedAt": "2026-10-21T17:28:34.867Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 16
+    "total": 28
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,16 +182,121 @@
   ],
   "data": [
     {
-      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
-      "snippet": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Reuters",
-      "publishedAt": "2026-10-21T10:11:21.000Z",
+      "title": "EU investigates Booking.com over fraudulent listings, phishing scams - MaltaToday",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWVEaktTVlZpMGQyWkNkMmhKM2pRcWlKVnhoSURHTE5ObHNqSmpGc2xOV0hUaThHWERjQURiR0FCZ1hUT2QtY0dxSS1rY3o0RHJ5dmxnOTl1WlU5NWRjNlg1QzgxUjJNQTlDSnNvN2lrZjZzWENJbXlYemUzaDhmVmlfalZfbDRjaHdLd1UzM3hIUUc2SjZnWGpLbFBUM3J3WFp0c1JfMS1MTHFmejViNXZyZzk3dw?oc=5",
+      "snippet": "EU investigates Booking.com over fraudulent listings, phishing scams MaltaToday",
+      "publishedAt": "2026-10-21T14:06:00.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Y100 WNCY",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkk1Z1FjN3ZUb2dybC05UC1qRDJnenlZME5FYmc2RDJUM01PN091dmM0MTM2Q0tnbmFQLVhLQVFGVV81SnVCanFzdkY2YUducjJoLWd3VmRxTWZNNVVYQXNjb2tRTnkwM3BxR1I1bk9yT1NNQ3R3RExCYmViYXFUdktIMGxVYTVVcDFVUmN4VTNzUDgwZWNxd1FwMEVlb01VdFpJMHoyREQ1ZTA2Tmc?oc=5",
+      "snippet": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Y100 WNCY",
+      "publishedAt": "2026-10-21T12:27:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Trump to highlight efforts to tackle overseas crypto fraud and online impersonation scams - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObVRYSXJDUXNWZFh2Uk9JMzEyQ3ZhX01EZDdyYWV6Zmp0NVRWdzJId2JMenlac1d4WFh0M3E1RVJZc2hlaVJDamRoMVNqMWNfWldwUFZTTDJVRURhZ0t0VmJISzNMcnZEVFJyNU5LclJkTUtEYWUwQ1dwamVIcFQ4VHU0OHhOS3ZOeE9JT1hiblVtT0JRMEMwUUNBMzdtbFZLZGFqWTZPYmRzY196cExYQ1o5WEt3cWxrNllvZDdLWEVVOVVEcHc5WGlQTDVQU1XSAdQBQVVfeXFMTTJLclNlWGU0OFU0Q2NKNWpjSUp4cEcxSmxBQmtoa2ZtRmhzcjM0djlad3FHTDMyd1d1QnR3N01sci03TC1tZUhIajBlZlZQQU15U244bndTeGhUb0xrekxLYkxTai16VzlTMnBUOWFyd3g5a2V1LVlENG53WXNyVnUyS0poYk8xMnoyOEdVVmc0UjUtd3ViUkFybk5OaU9FQjJtYmw4UjNzRGt4aU1DcGtDMWhkRlhnbV93QlpjcnVob2t5YmhOekYwd0pMZjhWZUVIQ00?oc=5",
+      "snippet": "Trump to highlight efforts to tackle overseas crypto fraud and online impersonation scams Firstpost",
+      "publishedAt": "2026-10-21T12:13:11.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
+      "snippet": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Reuters",
+      "publishedAt": "2026-10-21T11:04:18.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU Commission investigates Booking.com over scams, fraud risks and ad transparency - INSIGHT EU MONITORING",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLU5JSDMxRmE2S25TZTV2S3NaVEppSUNaTU5UWVZ5VHowRWl6OGhwNHBCMDdoYUhfS0VVb2I1eU9oZnR3U1gzZ1ZiTng2TlVPTTVVeFp3WkYxdkpIQ21qNUtiWXYxWUgzT0hkaWpqSG9FR2I0WHdlbGdibk5OOENfY2NLU2V1YXBITmhYMEhtM3dTZlJLZlNaZlZMSEhOeE5FaU1JNTVqdm45Q2FuU0E4V3YtdUVlMTBoWVRqXzFsSkhxN1Nrd3Y0LWJLWlozdU55Z0xWeElMRlZmTGUwaURSZERzNA?oc=5",
+      "snippet": "EU Commission investigates Booking.com over scams, fraud risks and ad transparency INSIGHT EU MONITORING",
+      "publishedAt": "2026-10-21T13:53:57.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Trump to Announce Crypto Scam Crackdown as FBI Targets Fraud Networks - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWpGb1R4OTVQdHhFakFsRXdCV2JJVG5kRnV4RjU1enc0T0ZqdXduV2Q5NXZZOGIwVEtpVi1ybWpMNDVUQllNVTA0dnBLTkVrdkpxRzdSMndzV3FTU1NrOS0zejVaY1dBR0ltY0lFNnRyY1BTSVZCay1FSXJZOEc3OXBqOUhUdVhDelc3S1g3cEo2Unl0NlVsSHJXRkJtUXduazRzTzBVX0FxWmotMEJOT3B6MHlWVF9fd2dmbTNTV21BclJfNWJEQg?oc=5",
+      "snippet": "Trump to Announce Crypto Scam Crackdown as FBI Targets Fraud Networks TradingView",
+      "publishedAt": "2026-10-21T12:59:12.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Hotels, Phishing Scams Put Booking.com in EU Crosshairs - Arab Times Kuwait News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzljX0RSZzYwZnBCUWhZT241dl90WlNSRGU1NUhfQ2V2QnJGbW1fWWx3U2psdmM3YUJSTkh4WTJiT3k4akhncTZLdHUxT204YVhyaW1wT1E1NEFNa0pYekdwbjhSS3d2bVhvNWR0SmJLS0hkY3RuNlVaUm9EVTNjYzZGTHU4cG1HTEtMUnRBNEpXMzkzbFFmRk55ajVUODNDSTVRUFZxQTNEelk?oc=5",
+      "snippet": "Fake Hotels, Phishing Scams Put Booking.com in EU Crosshairs Arab Times Kuwait News",
+      "publishedAt": "2026-10-21T12:44:36.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission Launches Probe Into Booking.com Over Fraud, Scam Risks - bernama",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKRnNCTjVuTGlaZ283V3ZNMGhUVS1GeUdVNUhBNm5xM1NYVFoxYkFQYjQyeWhtQ2liUWVBQlFmakFaNklUaXg4Wkp0RVR0ZWhJMXBVNl9EWld4QQ?oc=5",
+      "snippet": "European Commission Launches Probe Into Booking.com Over Fraud, Scam Risks bernama",
+      "publishedAt": "2026-10-21T12:39:10.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -227,10 +332,10 @@
       "corroboratedBy": 1
     },
     {
-      "title": "European Commission launches investigation into Booking.com over phishing and fraud — Channel NewsAsia - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWplZmZiV0F2TjMzRVRPcjhXZTRiNjJ2UW9wc004QzBiTnoyeWkteW5uNE1rTHppX3NMdndOcVQwWVFPRXhpeHVoTTRDcGVTd2VjMlJLN2ZVX2dDQ0V4d2NDYi1VbEdBTzBSa0paRzBsaTZ1QUFhS2xNQnlNTDFmRWdmSk5vTWRDVW43SzVRYjBJWHktRE5kdGphVkF2Nk5zQmNaeDZSREFGV09rTkxIQzBHWEJ2N055SG1fS2xoNWRhbWRFV2c?oc=5",
-      "snippet": "European Commission launches investigation into Booking.com over phishing and fraud — Channel NewsAsia UA.NEWS",
-      "publishedAt": "2026-10-21T10:33:48.000Z",
+      "title": "EU opens probe into Booking.com over fraud and scam risks - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUNzMTEtYXQyVWpjMVF3NGJLYjRYQ3ZsZzg0b3dWQ3NLRF9vSksyUG9BanhyTFcyT2szT0ZlVFloVjZHQ3ZBNzJYMUxWamV1MEFiSUxWNGdCbnhyNzdveTlUVHJuRnVpaktKMTNTS3VMZjQzMGdMTHZlUHl1cHViZTJmVVZTNEVaaHQtbm9xZDViMEN6a04zMVB6UFd0ejJwRDZOV0NCREJ5MUVyVDNKVFV2Q0U0NzNBZlE?oc=5",
+      "snippet": "EU opens probe into Booking.com over fraud and scam risks Investing.com",
+      "publishedAt": "2026-10-21T10:37:26.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -242,10 +347,10 @@
       "corroboratedBy": 1
     },
     {
-      "title": "EU opens probe into Booking.com over fraud and scam risks - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUNzMTEtYXQyVWpjMVF3NGJLYjRYQ3ZsZzg0b3dWQ3NLRF9vSksyUG9BanhyTFcyT2szT0ZlVFloVjZHQ3ZBNzJYMUxWamV1MEFiSUxWNGdCbnhyNzdveTlUVHJuRnVpaktKMTNTS3VMZjQzMGdMTHZlUHl1cHViZTJmVVZTNEVaaHQtbm9xZDViMEN6a04zMVB6UFd0ejJwRDZOV0NCREJ5MUVyVDNKVFV2Q0U0NzNBZlE?oc=5",
-      "snippet": "EU opens probe into Booking.com over fraud and scam risks Investing.com",
-      "publishedAt": "2026-10-21T10:31:57.000Z",
+      "title": "European Commission launches investigation into Booking.com over phishing and fraud — Channel NewsAsia - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWplZmZiV0F2TjMzRVRPcjhXZTRiNjJ2UW9wc004QzBiTnoyeWkteW5uNE1rTHppX3NMdndOcVQwWVFPRXhpeHVoTTRDcGVTd2VjMlJLN2ZVX2dDQ0V4d2NDYi1VbEdBTzBSa0paRzBsaTZ1QUFhS2xNQnlNTDFmRWdmSk5vTWRDVW43SzVRYjBJWHktRE5kdGphVkF2Nk5zQmNaeDZSREFGV09rTkxIQzBHWEJ2N055SG1fS2xoNWRhbWRFV2c?oc=5",
+      "snippet": "European Commission launches investigation into Booking.com over phishing and fraud — Channel NewsAsia UA.NEWS",
+      "publishedAt": "2026-10-21T10:33:48.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -283,6 +388,81 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU Probes Booking.com Over Fake Listings, Phishing and Unlabelled Ads - POLITIS - To the point",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalQxLUZuY2p4M2RtQWRjNzJIRWJ2NFBXZDBlQnRSemtkNEx2SjlnQTI2ZkgxWUw5eW1obHV3ZjRScl9iZ2U0cG84MDh5MFhGSVhWYmpScDI4WkNrSlJqclBJamhkazZCSFluVWZLdnZjUWZGLVNFalo2Mnp1MENTV3BaYmRONGhVQkVHMkZkN18yMmI5TnA1UzEtS0lhbG01QXNSamNnZjRKQQ?oc=5",
+      "snippet": "EU Probes Booking.com Over Fake Listings, Phishing and Unlabelled Ads POLITIS - To the point",
+      "publishedAt": "2026-10-21T15:46:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "eMudhra certificate keys compromised, cyber fraud risk flagged - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDlEb2JnSVloMGUtSHp2YmVRZFpHMGUxTVVOaWdzdk15TjJWNXZCZ2sySVBkaXo1TFVXYnQxSDk2YlBvV3lBVUJPSmZMZjNGcWNta0tZMUFJci1uMmtiSGw5YWRxajluSXVQXzhfeWs5Y3ZkdVZKMERRdlJuNGpTOWtOTElwX2RqNzBha05KUF9LWFJzVlNMR1RpR2lveTJVaFkxeUluaDhmY2JzbEHSAbABQVVfeXFMUDMwTVVLSUs2VGtCa2I1alBWUmM0MXpRU0FHck03eGFyNTVfZEhfWHViZklVemVEdEFVTjZVWFJ0dDFlQkpTYmVNN29xbVdlTzg1RXNuZGpNUkM3aU55RFN3OThwTmNlMFVIaENzbjhxNzNlak4wdFFqZ3NsZVZaLUd0MlJjMDRkaU1sVUVTSGVyelBSRFNjWnU0QklXdXFaQkFOOUJyNlpkbklUc3V0dVA?oc=5",
+      "snippet": "eMudhra certificate keys compromised, cyber fraud risk flagged Rediff",
+      "publishedAt": "2026-10-21T14:22:41.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake housing and fraudulent schemes: the EU launches an investigation into Booking.com - EUalive",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGREQUVfWDhBenJJcWtQS0xqYmVWdXFISzllQ3pCaktqck9QMmltVk81YnY0Qk9uU3FOMGxkWklPRDhoSDQwMXREZWR5S3dyYjItZFh6dk5lSGpyendjMU5EQVR3eEdWMFdTa29DZVJnQVVJUC1LVDVISElrY3J0MzlHRmhYRThGc2pfUFBlNFhlVGg5b0tBYS1FUEVjSGMxMC1VMnZhbS1GZw?oc=5",
+      "snippet": "Fake housing and fraudulent schemes: the EU launches an investigation into Booking.com EUalive",
+      "publishedAt": "2026-10-21T13:21:44.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Donald Trump to spotlight overseas crypto fraud at cybercrime event - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3hYOV9WbU1UZjA0cEJIMWktbUhjRTRLRFBzM2NUVm5LZHkyVURnSzBqMVY0ZmxRQy0zaVdMdEJ6RDR0MU9EcktSUzZ5VXpXeUNDSFhub2RZLXJiZjcwbW0xbmp0cHZ2SkZ1TzZSZkJ3dV9YZF9HMGhwTWNUNXY2MURodHdfLWlrd05VUlVyM24zaUlOa2xCSmVYbkZmYTJSNGozd1Myb08xOTFscVNiekdR?oc=5",
+      "snippet": "Donald Trump to spotlight overseas crypto fraud at cybercrime event NewsBytes",
+      "publishedAt": "2026-10-21T12:27:58.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ASEAN is vigilant against new tactics employed by online scam networks. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzV1M1pDOF9mUzNvcVpvZnYyX2UxQjZIYlNfeEhKc1hOcHZVQ3dBb1RJMS1jMEZneTBIeW5xT1FQZHlncUxmVzNiWV8zR3Vsb3JjOVBSVHJSSWwtRGQ3UV8wcTBUTEVpVE5sODlGS05MQkE0YjM5RGM0blJrcmNodFdUcWNWRFZKSzJsZm1pUk9OSW5nVlBLSVdzR2g2Zw?oc=5",
+      "snippet": "ASEAN is vigilant against new tactics employed by online scam networks. Vietnam.vn",
+      "publishedAt": "2026-10-21T12:24:23.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

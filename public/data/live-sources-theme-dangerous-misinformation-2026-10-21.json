@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:08:06.303Z",
+  "generatedAt": "2026-10-21T17:28:34.867Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,8 +182,83 @@
   ],
   "data": [
     {
+      "title": "PTI Fact Check: Fake Instagram Story falsely attributed to Tiger Shroff after Mumbai firing incident - Press Trust of India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVERFYVNmVnBCLThlM3dxaXJVY0NIZ2xVUVVhOHdIYjM1VHNrdWhCQmFTZVNtdkg4X0pDREZFMWpsSWZ0UURQU3lSZldmazNELXNYZGdBTkphd3FuMV9LU2xZdkhMcWRKajd0SWdpeHhGMmM0VWphcHdPcm95LVRmeGoyUlR2bzJkT1dhZ2phd2ZqLWtBYUdNQjNDMVJsTzZiSUZWTmNHNW1XcUxWWGdSZHdWMHUwNndUR3lOblZnbHIwT2Z4eEtV?oc=5",
+      "snippet": "PTI Fact Check: Fake Instagram Story falsely attributed to Tiger Shroff after Mumbai firing incident Press Trust of India",
+      "publishedAt": "2026-10-21T14:50:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PTI Fact Check: Old photo of blogger couple announcing pregnancy falsely linked to Bangladeshi nationals executed in Saudi Arabia - Press Trust of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS0cwMHhJWGVaNFNXVVp0a0VCejUzemYxTHdHenF6bzB1S3lFUDVaVmNXU2laRm91b1VPMUhkcWs5a0lfM1BvMlZIU0hGbUhnbDRsd2I4QXFNeXFmVGNLVnRjVVU5RFNYSk54WGJWSGp6Y1VicEJRdG9lTjFMQlFXaVY3UEl1UXlCSDM0UjNnRDlWZ0FYbXM4cU9yd2pqcTY4bFQ3Z2F3aVQyYlpFT3RoYVo1RjN0YzBXVmVXUWw4bmx0M2ttSHdGQ2FwbWR2UjlqVDluX1pqU3UwMFczZXFUZnRna0RfTlQ1SWV4RUxn?oc=5",
+      "snippet": "PTI Fact Check: Old photo of blogger couple announcing pregnancy falsely linked to Bangladeshi nationals executed in Saudi Arabia Press Trust of India",
+      "publishedAt": "2026-10-21T14:50:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi Police write to X over false claims of IPS officer Sumit Jha’s resignation during CJP protest - Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYWdyWTI0Q2Z4SXNOV3ltNXJ2OGktUkdBOVcyVmFkbWh3ald4Ymh6eGRCdDhRaExHckY1eXp3Q04wREl4SnJRcTVUR3lsQ1lnbW1ZWldkRDhoOFp4UlVGY2ctTlRuSUhqWnQ4Y1N0MXg0NkJKaHAyVHA2SUtLU1hPaE9wV01sWjRhS3ZJaGhSN0VhQ2MtWUFuV3ktMEVzM19Bb2hWUEVFLS0wU2NveFJodTdhUU1DV1B0MURjeEtfUmxhUW1vaEVzRlBhenhOajlISU1Hb1VqNmdXcThtYWlERExLNV9JOGxJLUNZQdIB7AFBVV95cUxQYWdyWTI0Q2Z4SXNOV3ltNXJ2OGktUkdBOVcyVmFkbWh3ald4Ymh6eGRCdDhRaExHckY1eXp3Q04wREl4SnJRcTVUR3lsQ1lnbW1ZWldkRDhoOFp4UlVGY2ctTlRuSUhqWnQ4Y1N0MXg0NkJKaHAyVHA2SUtLU1hPaE9wV01sWjRhS3ZJaGhSN0VhQ2MtWUFuV3ktMEVzM19Bb2hWUEVFLS0wU2NveFJodTdhUU1DV1B0MURjeEtfUmxhUW1vaEVzRlBhenhOajlISU1Hb1VqNmdXcThtYWlERExLNV9JOGxJLUNZQQ?oc=5",
+      "snippet": "Delhi Police write to X over false claims of IPS officer Sumit Jha’s resignation during CJP protest Telegraph India",
+      "publishedAt": "2026-10-21T15:05:09.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI deepfake threat looms over 2027 Assembly elections, intelligence agencies warn - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUNyMXVVUFdkcThoVElMdlFHUUhxaC1TYTdHcUNORjBMMFVMSXBNYjl1OTNtX1dPVnlkRDZBQXpxcktsajJ1NUY5RVFoX1ZUQTBDbnYyWHhmOFVwS2lmdmY0M1dHVlJGSGE4QjBTb0w1NDNPbUZIdmcxOU9teVhlaER6aFJkUDE3djFzWUFHeklVeGJRMGNkdVlLUHBFa3kxb25BM3dGUy11R3M?oc=5",
+      "snippet": "AI deepfake threat looms over 2027 Assembly elections, intelligence agencies warn Telangana Today",
+      "publishedAt": "2026-10-21T12:22:01.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Tiger Shroff’s Team Hits Back At Fake News And AI Videos Following Attack - Outlook India",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcTNwaFdCX1FnclN2YnY0N3B5RlAyZWhrUFl6dGZpdU5WRmU2M3ZtaTFxV2FEdkNYTjA3OXk3d1dpR3U2RnM2cDgwaUVrWkptZjBMTlhDa0xkVmNLZTRyQnlpT0dOX2xYV2ZQLUZyb09hdmZCWHRjSHluWFVlbmZMWkd5NWpGWjZ1ZkFSS1ktdzg3TWVaYjRCU1ZvNU1ncGJsZkw2SVp0eE1XUVpXbEhEdGdVWkdjcjkxVDJV0gHIAUFVX3lxTE82N1BfTER3SzZiZVItNm9QTHRNVFFiekpldFFpaWNOLTZQLWZpZERPOXlZcHlsYkN4WVlsQlRuZ0xWSENkbDM0SWNhY2dUSmc5SEpnOUowcmwwUjdRdTZqSnpKQWhHUGRCb2JISlhYY3JqZkFmODBWcDk0Ny1DS1VZZTdWQURONGNaUVMzclczVzdfZldZVWhzRFl0dlpEOTFXYlVMUmROREVfVm4tYlJGaVZzYXgyUVloNDktLUIxNmtRODZBbzY1?oc=5",
+      "snippet": "Tiger Shroff’s Team Hits Back At Fake News And AI Videos Following Attack Outlook India",
+      "publishedAt": "2026-10-21T04:38:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Tiger Shroff’s Team Hits Back At Fake News And AI Videos Following Attack - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNjdQX0xEd0s2YmVSLTZvUEx0TVRRYnpKZXRRaWljTi02UC1maWRETzl5WXB5bGJDeFlZbEJUbmdMVkhDZGwzNEljYWNnVEpnOUhKZzlKMHJsMFI3UXU2akp6SkFoR1BkQm9iSEpYWGNyamZBZjgwVnA5NDctQ0tVWWU3VkFETjRjWlFTM3JXM1c3X2ZXWVVoc0RZdHZaRDkxV2JVTFJkTkRFX1ZuLWJSRmlWc2F4MlFZaDQ5LS1CMTZrUTg2QW82NdIByAFBVV95cUxPNjdQX0xEd0s2YmVSLTZvUEx0TVRRYnpKZXRRaWljTi02UC1maWRETzl5WXB5bGJDeFlZbEJUbmdMVkhDZGwzNEljYWNnVEpnOUhKZzlKMHJsMFI3UXU2akp6SkFoR1BkQm9iSEpYWGNyamZBZjgwVnA5NDctQ0tVWWU3VkFETjRjWlFTM3JXM1c3X2ZXWVVoc0RZdHZaRDkxV2JVTFJkTkRFX1ZuLWJSRmlWc2F4MlFZaDQ5LS1CMTZrUTg2QW82NQ?oc=5",
       "snippet": "Tiger Shroff’s Team Hits Back At Fake News And AI Videos Following Attack Outlook India",
       "publishedAt": "2026-10-21T04:38:00.000Z",
       "source": "Google News • Misinformation (India)",

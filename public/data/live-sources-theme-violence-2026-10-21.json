@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:08:06.303Z",
+  "generatedAt": "2026-10-21T17:28:34.867Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Protest Rights vs Violent Unrest: Europe Curbs Riots as UN Faces Double Standards Debate - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPazZwd0xTZGo2dDA5OG5wbU9YNVhtcjdhX2o3NkxHOXV6OVU2RnN5WHl2TjFHWkhTTUhGeVh5NFRVekFtUGRKckdfeTVrUE9ERkJfdXRFTzBOQUJEcUlUeG03QXh6NGt5TXRMQlo1cl9STjJKN2x5VVhPemp6UVAxcUdkdHctRG5mM19Bb2xSTHBoZzNFeGlrdUVrdFdlVUJZdF8xanNKUTRya3dtTTdhTDBYLUFSbEJYVGJiTWtlSmhYRzJlZEpraHlJMVpFQmNKNEVVS1pOQWFKSDk2OHJzcFBqWdIB6AFBVV95cUxOZW1NTDktUWNldnZmZTJlWGljV3JiclVubi05bzVPS2lkNVg3alJoeFVOM0Y2OUdSbnpvMTg5dTRqeEg1cUFycDFfaU9JM0lkYWxxLUJLUVhxRFJPRkFmRE04RmZubXNvRFl5NG9PZTZia0xXems5X3U4UTdaMVdmUTNlbEo5dHM4dXFLYVduUVhFYms2WjRDM0tOdnJXTS1RSG10a1pqRElpV1hnT3I3VW04a1QtRl9lemdSV1dOaWotNHdqR2RVU01PVFJjQ2pBY2NUN1ViMVlwSzJ5cTJwVVlFdURmSFo3?oc=5",
+      "snippet": "Protest Rights vs Violent Unrest: Europe Curbs Riots as UN Faces Double Standards Debate - India Today India Today",
+      "publishedAt": "2026-10-21T16:09:06.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "How rage and frustration against authority figures tips over into conspiracy and violence – and what we can do about it - The Sen Times",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaS12QkQ4emVmSzA5N1hrNWJBQU5odjhtazk2U0VsR0ZQV1lablktcTZZNTQ3SDdpNEhoSVplWDlFUEFZU2JkVmZkbzRCU195N0xDUjExMlZNbVgydmEtT2FhUnhGV2JzdWFvNnZYS0NfMlRFLTluaU9UMFFBUUdaVjJOQWhWVl9yaU55MTZaZ3kxRWVxcjliblNTQnpYcDgwRklsLWRUa2VqaU1Lcks0YnJYUDBiSW1ZUDBzbnVnSW9HS3piYmdfVU1kOHFBQkdDdVV0Tm5URmNKUQ?oc=5",

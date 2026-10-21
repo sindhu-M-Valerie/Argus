@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:08:06.303Z",
+  "generatedAt": "2026-10-21T17:28:34.867Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 14
+    "total": 18
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -227,6 +227,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "eMudhra reports digital certificate key compromise; CERT-In warns of fake websites, cyber fraud - PSU Watch",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHVuS1BVbzVyVjVrc2hWMF80YjEtYzRMeEh1Wmc5c3pudkdqNkVRTGw3TU1FQnBxRndSOTVBMFZLOHlxOGR2ZXR3SGhkYkd2SEM0VEcweWxUMXYtcHA2TDdJSDVFcy1DSTVUUUJQYTZrWXpZT0p2Mkd1eWFaUlJ1ck5ITGpKREFvQU85TDNPVlp5bk9abG1KVTROZEh2di1WeGZ5YVpjQkxTNWM4Vm1meWZneGJBRVNyMWk2Ynk1YnVsY0xy0gHSAUFVX3lxTE94MUFPR0pnR0hNLTlicmYxaGJQWHcxWkpwOGhYXzJKeWJPcEQ0SHp5R3NpemRVMmhmOFhHbEJHOXN0MlphVV9SRFcxYXBwbmFhc3ZGNXdEUU5fbXFabXdJbEQyVTV4d1JRWG9Zdkhza0VFcS02MkhRQ0hrYkNGMDd4MzlFVnl0eUtKbERTMVYwb2xCNmFNX3hMbDdGNlZtMDB3ZUdGaENUWFZzVGo3b0paeWlhaDZwTHo5LTEzN1lpOVlvRUFRdHphMWpyUEp5U2Vodw?oc=5",
+      "snippet": "eMudhra reports digital certificate key compromise; CERT-In warns of fake websites, cyber fraud PSU Watch",
+      "publishedAt": "2026-10-21T14:26:49.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New Report From IRONSCALES Reveals 77% of Organizations Experienced Agentic AI-Related Security Incidents in the Past Year - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVTFya2Q1cUlZbHNZZUI2TXQza0xmR2pjQ0tOMGVqR1pzcWFIaG1DSzFqVWJZdFFDRHpSd3BTX3oxd244U2gzUzhZX0tleDluU19hdW1KaFRQTFhDWUd1Y0RFaXhEYXNUT05SdWlheXVrZnBXNE43S0Q2YUJGUi10alpaYmxHWVY2NWRRTTM3c2w1R01vdW9wYTBBZFpsYWdna1FxSXRiUUJmd2FlOTk2UzMzZHc5amtoNWlGbHh6ZU5lY3d3TTduX2NPYmJqYzJpR3l3OTRvalZhUENHbVc5NkpuRnhHZXRXWHByQTA5V0RJNmx5c1I5TEdzNzI5ZTJwLWtHZ1NLVVBGUQ?oc=5",
+      "snippet": "New Report From IRONSCALES Reveals 77% of Organizations Experienced Agentic AI-Related Security Incidents in the Past Year Business Wire",
+      "publishedAt": "2026-10-21T13:02:04.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Data breach exposes 1.5 million Canadian Crime Stoppers tips, compromising anonymity - https://streamlinefeed.co.ke/",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOE1MYXRsaVNsMnFNTXVtdVExZ21tX1ZtcnF1S3g1NWJxdDMzNG85UGRaVFREVk1rV016WGo0LTUyR3JqWFoxZW1Hd3dBLXRoQzk1OVpPYmozeVczbEFGMU9CY2V4WmNtN2JNZ1FoVWZvU2VYZWZ2c1NFMmJ4dFcyV1ZzMGh4ZDI5SlJmRThidE1aUm5SVnFrR1hEZDJUa3M5ZEVma09PdE9mOUdLNEZhNGtTeHFPUllE?oc=5",
       "snippet": "Data breach exposes 1.5 million Canadian Crime Stoppers tips, compromising anonymity https://streamlinefeed.co.ke/",
@@ -246,6 +276,21 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91R295LVR4aEpMVW9yZFJTQ25MZkZHYk95TDJnNmVqY0xhdGd6aEtkUTNsT3lNN00xWmNQamwzUXlPVWtzdU9WVl93Z0taRmJ0ZGJIb0NwRFdaU0NqNFQyS2ZjYkFZa1dKdlY5Wi01QnZ3LU0?oc=5",
       "snippet": "How AI is reshaping the cybersecurity skills gap Barracuda Networks Blog",
       "publishedAt": "2026-10-21T09:55:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI data leak: Nearly 4,000 customer records found on dark web; what we know so far - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRWJDZXlTTDhZT2ZqOHltdUFFYWF4bkViSGJ5NlNUVmxoWi1uX0VHX1gtbW9xT2pEWWZoVnNqRERCNGtUemZjWUtxbFdha1F5ZFJPZUg5NGRQZ0N1bnh2UDhTcldBNFdsWWViYkhKQ0o4Q0pWeFFITXpjVko1OEh5Wkt3ZXBRTDJMZ3ZfUjd2SW5oblo5LW01YU5lU3FwNkpYRXlFTHYyQzkxNFBUMGxBdVNJMnVwbkJpMjlkQXlJbElickJiX1UtM3hNaWpjdEdZcWUxelVfbXNIdURLX2QzcF9qamRzME90VFRlTW1mUExzb3ZuekRNOVpn0gH_AUFVX3lxTE9ad2JveTlQVzlZV1NNYTlGbnJWX0dHS2M5eGxmRERydk14c19BQlUtcmkxREQtazJ0ZWR0UXhaM1RwM0VocmluemMtQS1hdVREeDdJbnFOOWNxbFdTNFU3MkRjNUxUSzQ3WHhBYjBZQUhEbDVmemhISHl4dUdvcmVqWVBiRW0xY0c0SnI2ZUxtYWoxQjlNaTBjeE9XdFpQR2hUVl9pTE1kckpHdk5scnk4RU9VbHQ0ZkROanJ6TE10Y3E0T2xwdnQzdFpxWk9BS2RGY2pfbnhYWnpzamlQQWM2bnEwUmZtS0dyRHh3TUpPQm1LclNnM0dSenFsVS1Taw?oc=5",
+      "snippet": "SBI data leak: Nearly 4,000 customer records found on dark web; what we know so far The Times of India",
+      "publishedAt": "2026-10-21T09:40:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -306,6 +351,21 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlcwOWFHdlJHYi1zdG5ETWNObkptci1vU1h6Vk5UQzlhYzVxRnd2T0tfbjVmS0lJVkd0am1JUVFuNlMwMHEyUHU4Z1VzVlFOQUVWS09XWHB6VWJxT05kRlZicWktM2NGZTEzUEhXWWhFMDUtSFd6NHE1NTRkOGpsZVVrUXB1QmF2NFVBTUtidlYzQ25Bd1piLWZNeUwwYlRmLUN5ZTdHQ0pqY3Z5V0xLTk80by12cG9uTXFQc0hJcTZTTkNUSEl4UzR3YlVTY2Nqa2tnaUZPelRxRDRSRHFSdNIB5gFBVV95cUxPM044ek9ZamNvZFoyQm1tay10M0lhZXdwQVAxSTFLcG1pNUhGc3lZX3BvWTNuUFcxUFZrRko0RVJmWlNWSUZ5UFdTYVlDRTAtRVU1Y3RxQXg2UU9kRmh2SXZhRWRGYm9CSXppX1daRnI5X3cxNUM2Zk1wVThPbHhEN3kwWVVFSHdINGhkVXRmdHRPSzhoUTNIQWtMV2ZYR3FHTnNSQ3VTMGlibnlubHphRjlEMkdYMVIwNlB1ZUdQX0I1ZVFMaFFKNkdMdWlQOF9XQ0FIODVSQXplQklfYl9oZmdNaUtnZw?oc=5",
       "snippet": "OPINION | Crypto & Cybersecurity: What Exchanges, Investors, Regulators Should Be Responsible For ABP Live English",
       "publishedAt": "2026-10-21T07:33:21.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Data breach: SBI admits exposure of its customer data on the Dark Web - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNUI2YWRjb0MwZWZGZHFSVVNmaWtidENEWW5lTldibzFxNEpWRHlETWdPUzhRVVNOTjRBR0l3X3Z3eE5pRVNBc25nVEFxUlZIalJ5ZWFURWppa1N1czZHSmFscEdhN01IN2JESi1WcHZQQmJvclhoaGs2WWVVQUFFeW1GOVdMMnZFUUF6WlBnY1EwbW85a09ud2ttM0U2YXRRQzlDQ3NWUnM3MTUxVzlVcXNHbzZNd2FDaGtxMGFVODhGV0ZIcEM4Z1BVc2t0a3c5dHh5S1p5RdIB3gFBVV95cUxNUTJUTXUxNnRHeWd6RGpmcTNrT3FxZzFjQUVOMXFMdzU4Q0JGWWxtbTJPbUx1c0M0YlFwZjRZb3RuZlRoTmhEQ0xaSGVLTThYeGNhUy1GbGNQWmZNNnl1aEtIbm8wWFhZTjVZd1RIcWxhbVVYMk1mWlcyYlQwcjhkRXlFQ1pPY1RQVmlxenpmczV6UkhPcmwybnp0emhnMV9pVV93VUtEM28za09UcUNFUkFobEE1US1jNEV0T3dxQkNvd2VYTmxvTjFQNXFLTVhyajBibWE0OEZQMkQyVXc?oc=5",
+      "snippet": "Data breach: SBI admits exposure of its customer data on the Dark Web The Hindu",
+      "publishedAt": "2026-10-21T07:06:37.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

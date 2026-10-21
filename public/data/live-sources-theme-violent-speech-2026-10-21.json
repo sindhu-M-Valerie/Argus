@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:08:06.303Z",
+  "generatedAt": "2026-10-21T17:28:34.867Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 17
+    "total": 18
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -210,6 +210,21 @@
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 2
+    },
+    {
+      "title": "‘Demands comprehensive federal response’: 105 US lawmakers urge FBI to probe Hindu temple shooting plot amid hate crime concerns - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQRmpTUG9JYTFSeWl3VFh4RDA2UmVfVzhNcXpJenF1VjlNM242NlZrVWxEbFpkUzlIQkd0VzZGaGRIN29uU3h1MnhRaWVMOFJCaG0yLUtZOU96WXN0dHJrc05Va01HOXhXYXhkOUhzekl6ck1zUjlqMEFDcVhpWjFRdHFJXzJuZkhzc1N2SWRvTnZ3SENOZkVUU1pWN1JKeW9FeF9LNGxWYWN4WkFvOW5HWjJQYnJhLU1IanQ4LTUyYlZIZXJUUW5RMkR1cnNZcW9nd0dqeU5MekxhQnlyZWp6NFpwVDVzbXlTUDBTblVqRFBrNHQtU2dxalpBX01KWU9jSHdsb1BFQmJlTS1TWXZ1aVVid0Z2REtzajFhbjRBMURFdw?oc=5",
+      "snippet": "‘Demands comprehensive federal response’: 105 US lawmakers urge FBI to probe Hindu temple shooting plot amid hate crime concerns The Times of India",
+      "publishedAt": "2026-10-21T11:27:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
     },
     {
       "title": "105 US Lawmakers Urge FBI to Probe Illinois Hindu Temple Plot as Hate Crime - Dainik Jagran MP CG",
@@ -305,7 +320,7 @@
       "title": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora - INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT3VxVE5fVEswcW5QUEtMblFBNEtET25IcUZPQWZIeWlLUnUxLUdQZzNIUVEyUkZTdm5TM2hta0tTalBWM0dVNTF5Q0I1RU5ZNVlpYXBEU0hpRWZpTDJIOEMyYk5DZWdvQjZZTmtVM1NhUnREeDFiN3lQNFAzMlRSSzI3ZnZ4QUU4d2xZeVY5am1fNlZSWkIzV2tjQUg3bVhGOWRHZ2k1dHF6bVVjT3Awempjei14Qjh6MHZSMUtqeUdlbDdvVl9tVEZoREt3V2JaZnJFcU1TaUF6VG13OUJJMUtsV3hULTJfM1RHQUF0R1RKZVk?oc=5",
       "snippet": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora INDIA New England News",
-      "publishedAt": "2026-10-21T02:42:17.000Z",
+      "publishedAt": "2026-10-21T02:43:16.000Z",
       "source": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",

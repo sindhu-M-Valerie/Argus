@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:08:06.303Z",
+  "generatedAt": "2026-10-21T17:28:34.867Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,7 +128,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -192,6 +192,21 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Investigators probe Bend gunman’s connection to violent extremist groups - NPR for Oregonians",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjM1ZnZqZzdfdncyQVlCSFVtUHc3bWRuNWViVjN3UnBJbDhJLUg1NVJzc2FLY0hjOWQ0aHVnV2NOVGNMZGJUQldWOGluWmV0R0JaNzdaTkxNaEpqSmwtRHZkUWNuUUcwWmhvVjEyRWUyZHczVWF6WWhUcHAyV2dubXU1YUdTTmtZN3dzQldGQmxWc0ViQ2xtOHRJMzhUVUJTWmRLeXZFdGxSQmx1YkxEQnVjS2JqMUFkSkhUclpTNGFBUEFD?oc=5",
+      "snippet": "Investigators probe Bend gunman’s connection to violent extremist groups NPR for Oregonians",
+      "publishedAt": "2026-10-21T13:37:00.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
