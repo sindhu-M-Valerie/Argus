@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:07:53.714Z",
+  "generatedAt": "2026-10-22T12:12:05.178Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 21
+    "total": 22
   },
   "message": null,
   "sourceStatus": [
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 28
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -291,6 +291,21 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORzd3RkhUMFVqUEVoT1NXeGVjd203WEo0dzQ0OXJIcEZ6T2lLaVIzd2JzSHNsME5nQVVWNXk3VkkyWHA0Q1dYVEowSzkyYnhueEh5Z0tSajBfa1o2YU42ZFBkeVcxR1NERmpEX1NUSlNOQWt5eEtWbkNpNk43LVdFQktkMDE0dHF6R2Eya3dRc1h4QjRYZjJZRWdWT2Y2Zmo5QnhqNDJvbUFUd3pILVFYMThKeWQwQ2hWWUhRVEJYMlRvODJjQ1FmVUVTeUpvZGJvTzNkenhBcHJNV1RkTVV4Nk52LWNNOF9GZWM0MFhDZXRka3BHRnBpMEJmS3JGbEJTaFNBRXg0SXfSAY4CQVVfeXFMUGFTSGZ3VEc3Nk1rT2dxMUoyaThIbEEwaHliMC1DbmVEZkZkbG94dFdqRnE5ZDZLU3RjMXFLdDVWRnJGdDFfYzVUUDZYWFctWFZfODVoRmNjaEkwdGY0ektfVDNISlNOTzc4RHh5SzFBRVVJVl9ZWnd6bVY1OUdPN0JYZDJZZW00UEkxOUJfZUhsaTQwOWlRMGtZYmxMMnNpVVl0V2R3MXl4dHl4bDFrZWFpZlVybWZsM01WdTNxNFc5bVc2ZVJvLUhTc1FUYkJwejUyb29NS2dKZlBXd0lDUG1sZ0hvaTF1OW1MTV9wWm5kOEZzSFh0eFVNOEFiS0czT1VHdnFSZlNoUEUxOWtB?oc=5",
       "snippet": "Krishnamoorthi leads call for FBI to probe Aurora temple plot as hate crime, flags rising racism Firstpost",
       "publishedAt": "2026-10-21T07:04:17.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "105 Members of US Congress Urge FBI to Investigate Illinois Hindu Temple Shooting Plot as Potential Hate Crime - Republic World",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd3p6NW8zc3BjVmRDbW84dnBvZm9WRU9lN1E5LXRLenNRckVWc1hZUEtqam5DNWtLQ0tFYWZZa1plOTNDNWxHV004cUMweFRBUXdTVzZ2eWZSTTQ5blUwb29pNk0xemZ5akViR3hOT1FIMHBfYkNVM3ZXVk1Sa3ZqZ3M4MEprWlhrWUEwOElZeE4zek95SmpweTM4T0Y2STZJYlVKQ0UxNzAzdDNoOEM4d1ZBaWQ2ZVlTclBKQXpOd2xjOUVEblRaNzU5LUkxYUJYSURuWm9pdzc0VnRqNDh0TE42SVg2NjhzWWNzQi1vREplSHp5RGhxRHd1bGFyUdIBgwJBVV95cUxOTjkxYUtYWjc4OXZZS25fWTl1UkZvZU5OX01uVjRnYTA0UGZWaHpPcWU3SmUzdlYyWTB4RnU2aDZmZDZiV2lnSkFFZDlITjRzbDJNck9VNGdLcVZ2V1pEcjBheVc4UEs2dnktTjhiOTBHWjdSYW1idTZwYVNEcGlpckNyVXFGeVpJQ29lYjkwNm9DQnNOZnN6VHlCT2hPNTc3TnNjQjBtaElGejNzYVV6c0N2R2Fjd3l1VGd5Wk1HanVYZEViZnJWcnkwM3N4ckFrdTlOYXRwNWNsQkE5V2xiZ1lEUGpRV3k1anU0LUVJNlkzYmJMR3R2TEpjZ3JvS3pRUDJn?oc=5",
+      "snippet": "105 Members of US Congress Urge FBI to Investigate Illinois Hindu Temple Shooting Plot as Potential Hate Crime Republic World",
+      "publishedAt": "2026-10-21T06:02:06.000Z",
       "source": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",

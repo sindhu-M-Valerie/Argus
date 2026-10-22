@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:07:53.714Z",
+  "generatedAt": "2026-10-22T12:12:05.178Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 28
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Fact Check: Video Of A Farmers' Protest In Bhopal Is Being Shared With The False Claim That It Shows A Protest At Jantar Mantar. - Vishvas News Fact Check Hindi",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdUZlVGlVWGk5SncwaW9WVjJrY3ZTbjFtcGlMZTVJRHNpSkNIZkxiMUo0UUI2T3ZXSkc1Z3loamNaRkdycHd1Wk1oUEQ1QUF6UE1va2lRY2FrTHFubC1CQ214MVFmTHNqdXBlNzMxYmhFc09OOFl6NTZ4XzBPck9LbklBMUNaY2VSY2xjUlMxZW5DYmxGZVh0ZGh1ZW5DVmdHR1ZnU3Eydm9fY2g1cWNBRmVzTGI3VEVCS0xrRDFBamxhR0RQNGxGNXp0RGdwZDhfU0hoWFNEWmlFNjZyMHBjZEFlSjVFUURYZW9Xamx0OVZNM1U2UVpvaFdCMGJzZDZK?oc=5",
+      "snippet": "Fact Check: Video Of A Farmers' Protest In Bhopal Is Being Shared With The False Claim That It Shows A Protest At Jantar Mantar. Vishvas News Fact Check Hindi",
+      "publishedAt": "2026-10-22T07:42:43.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Video Of US Senator Blumenthal Calling India A Failed State Is A Deepfake | BOOM - BOOM Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVpDWGVlOWtUekp3U2ZDbVJ5ZDBlTmZCbTVRUXN1QVN5VUgza25ITlVMRTRBYkNsQXotU3VfZWkwV3VhY3Q1UEZpRDdRMUE3NWlJZFlPN21MRTk4X3gwc2xxWW9kWXFyYWluZnhva3dGamNCRzluY09YQTNHM1l4QzJPSGgxZGd1V05IUkZEbWx5SHNKRTZsMXlMeFZaZUdkeTdxdWQwQ3piUUJmME4tRnp6alFkM2ktZUHSAboBQVVfeXFMTzFaQ1hlZTlrVHpKd1NmQ21SeWQwZU5mQm01UVFzdUFTeVVIM2tuSE5VTEU0QWJDbEF6LVN1X2VpMFd1YWN0NVBGaUQ3UTFBNzVpSWRZTzdtTEU5OF94MHNscVlvZFlxcmFpbmZ4b2t3RmpjQkc5bmNPWEEzRzNZeEMyT0hoMWRndVdOSFJGRG1seUhzSkU2bDF5THhWWmVHZHk3cXVkMEN6YlFCZjBOLUZ6empRZDNpLWVB?oc=5",
+      "snippet": "Video Of US Senator Blumenthal Calling India A Failed State Is A Deepfake | BOOM BOOM Fact Check",
+      "publishedAt": "2026-10-22T07:31:27.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact check: 'Judge Judy' aka Judy Sheindlin faces death hoax on her 84th birthday as ‘Judy Justice’ ends | Hindustan Times - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkJ0eFRndjhlZ3U5WW1vM2tWQ0ROQ0x4ZktaWW1IRjdIeVpVSWozX3h4TnNZRXg1TEZ2ZlRkN2IxY0U0dDFkaGFLUHhkaWVVM3JUTmYtTkpHbjQxN3hYSU90QkpJdjlyd096aWpFM1Z4RmlnXzVuc2NTQ0ljMERBQmg3UHBTdGpDMk1HRXU0eElHdGJ2X1hYYWVtYmdqbDNxYnVhQ2p1Z195RG1jVDRGVm9OZDdKd1dHTlphUUtMbG5vTm14eEFueF80NHdRQzdEWWNfSEVtU2Y1b2NwOHlKMWhKLVZQbkVYU29iQ0QxZnhjajN5Z2VLTU9ORkNHTXPSAYQCQVVfeXFMTVJ1NlhLaW9ZUF9WckxkNGdkZFF4ekREbllFNDJySU84dUc4RE40ZXYyODlkT0tsY2J0N1lrcDh5amY5Nmt5bDhDeXFPYzNKcUdVaE5lSWtucEZTU05GOVlFWi1ITjdZQXJQcGFpNHNyUTNMTGMyZEdJR0lMb0tkV0gwRUw2Mnc3c0V2QUJWWTc2dkZhZ3NDYjlhcVVfcW9DTHFlNEFVWTRNaG1TWDNBRWFpSFI3aFlHWWJvTnhJRWNLdVZ3UTRFX1c4eFNqbE1halppaU4wbEVyRHhOOWZVRTZTQ1Jta1pCc2F5enEwaFRkdzNLeEwya054YWhEakZ2WGROS0M?oc=5",
       "snippet": "Fact check: 'Judge Judy' aka Judy Sheindlin faces death hoax on her 84th birthday as ‘Judy Justice’ ends | Hindustan Times Hindustan Times",
@@ -193,6 +223,66 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Old Video Showing Mistreatment Of A Sikh Youth In Mohali Goes Viral, Falsely Linked To Delhi Protests - Vishvas News Fact Check Hindi",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ0tobHB0SVhzNXZ4QnJwUUdNeGRQZXlTV1BUM0Q0VHQ5Yk1KeWxHd1VFcVFkMkVhRkJjaWJLWFlFMFFqcEJleC10UGJYanJEOG1QNFRBb0dnNEVzbHg4WGxPUzRMWnR5RFp6OFVTNzA0UmpqS1M0S3haR05Ja3BrRFAwWjJVTnRTMDEyZl81OEx5NmFJQmdmbEVmX0NSS2VpNlhRMElTM2ZXejFmcjc0bU9NWjlSSi1rX01pYTRSZTRIYlNsSUZ1NHpWS2RHOEloTDBocFBDOThacXpuVkRIU1UxdUlrc0VZMGRqUDln?oc=5",
+      "snippet": "Fact Check: Old Video Showing Mistreatment Of A Sikh Youth In Mohali Goes Viral, Falsely Linked To Delhi Protests Vishvas News Fact Check Hindi",
+      "publishedAt": "2026-10-22T07:42:41.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact-check: Pakistani flags at Dhruv Rathee's anti-Modi protest in London? - Geo News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU1dXZnh2Yml5T2dkVGZHU1hXb2loa2Z5U2lxQmNKRGJBX0hCalNDRGVNREExa2x4SFVJQjM1WlFDb01wWHk5cU1XWHZlTlh4R0ZkSVZUUVhyM3FWbDM1UUxBMGd5VmxJdUdSUS1JcVE5dHBfbFQxT2NLc29ZU1hSdnczZVMybVF4UTBfUmFMbWRJMGhQQ0tqaUJaUTM3TkxOM3AtNnJjNA?oc=5",
+      "snippet": "Fact-check: Pakistani flags at Dhruv Rathee's anti-Modi protest in London? Geo News",
+      "publishedAt": "2026-10-22T07:07:27.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Dawood is in country where Osama was found: India fact-checks UN Special Rapporteur - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY29kejc1cHNkTWF3SlNadGZnckxiSHRBWlN3WDhTUkVpZkljY3A5OWNyVTNmT2hIZjFPWHU2VW5NUjZlZ0F3bmZqY3o4VUt2eGdSR0l4Z0N1c25xdC16eDgxenNjOTI5VDEtSENuU1d6dVFVZ2FHZ3o2Wm9RWXZ1UWJ6R09qTGJBT0NmZzZzM3ZBREtKT01iblRvQS1sbU5CbF94UnNmbkVnblN3SklZNVZyU001OW5WNm8ybWtOa3ZWQThTeU5TQ19UX1ZVamVJZmZkNTk4ek5qa0tCZXVpQVRZa2l6WmdGNFHSAe8BQVVfeXFMUFBrQzloLUVXeW9fS29QaG45OWFJd2ItN2tjX20zVzRYakRKWkRMNnpjckxVWDRzN2FESlpJOXF2UzhpUWo5MEw0Z0ZwbUdUc0dXRXJjWHlwbTdSZldNNGRCOXdZanRIc0ExaTIteXBQeW5tX1ZraURYTDZsaVdWWU1WLXI5WEI2bU1CQWZyeHNuVzJQakVEdmx4alItTUtWN3Z3bDE3UXgtd0JrLTc3Yk4zbTEwMWdwcXF5TEhOZmJEWlRLaWk5UUx2RllCVnE2ZXR0NnpnUFgwWTVIc0VEbUZEZmllZDRET21aTXRYdnc?oc=5",
+      "snippet": "Dawood is in country where Osama was found: India fact-checks UN Special Rapporteur India Today",
+      "publishedAt": "2026-10-22T06:44:59.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Russia Targeting Democrats With Online Disinformation Ahead Of US Midterm Polls, Say Senior Lawmakers - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZHFic2dHQWlaaklkR0JkQ2dfYUpoZEwtN1M5MDRaNjh2NHlaTzdYZ3ZZLXVWZUxyVlpJdVNaOU84LWFoTEllcDZ1RTVSRGtfWDlBdzB5Wms2XzN0SXRSQjVkRGJFUWtFQjBHRGExMXFtVXpXUHMwc0JHbEpldENxeTAtSTR5UUp0ajZ6cFhMblRYVUl5N1JZTEFMdDBDc29pcGZVRzU4Mk1Oc18ySXhSMTJ4a2V3TGNSWWpFV29GLWdPLXVZSzhfSnlVbWpRUERwbXZXWjBxSVlsQmJLOXNzRmUxR1ZwbjJfY2ZBMWtuQWZaZkpFalJN0gH8AUFVX3lxTE1IV1hqSXFNNkQxMEtuVGw4cGw0eFh0YmlNaGYxRnJQdElWa1UxVkVyc2lRVzRqTXpTaFdvMWdfYlA0cy1CdGZBUXBwTWVxR2hsLV9jaXNKX21NYi1EWWdzajZtR2NXM2RGS3ozNTF3YXhlTzlhSVh5UlBvT09DeF9ESEJ6U1RWLV9DNTNSZHgyQmF4NFNEQ0pCQUZhUGtPM3pfNHNsLXRtcjhoZTBRV2FCTGg5Q3JMVEJGQ1JaMENkWFpTYXlXcmM1Zmh2YVdXM0M4QS1LUnhxcHZjQUtWeGMyd3RvTkpxbWp0VmhQSmhsd2ZHbWRCcTU2YlYxZQ?oc=5",
+      "snippet": "Russia Targeting Democrats With Online Disinformation Ahead Of US Midterm Polls, Say Senior Lawmakers Times Now",
+      "publishedAt": "2026-10-22T07:41:49.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
