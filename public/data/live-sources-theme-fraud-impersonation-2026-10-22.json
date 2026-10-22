@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:12:05.178Z",
+  "generatedAt": "2026-10-22T17:26:20.204Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 17
+    "total": 20
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fQzVsLU9SaHJtdWJKTUNXMW5FbzJtQ3BJZ2E2WmVieFRJclQwMnphVkp4aXZjMjJVSDRIZXlzNmFEQUo0ZlZrYnYxUVc3VTVXd1Y5dGxrUklDVmVSQVdVTkpLT1dEN2fSAWxBVV95cUxNQ01ydkdRbUNqTTZsSThFZk9rWHZYdTkwYjduYmhtMGRhT0VlNVFQQXFRdjEtdXJqZnBkb0NHdE5YcHQySG43TTRaSEZ2d29ySjZJOEFBeVpsVnVOTVRjT1I0N0NWQUpTNnNEXzM?oc=5",
+      "snippet": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection GBHackers News",
+      "publishedAt": "2026-10-22T12:12:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud - Analytics Insight",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV21SQnQzUmJDZHZuZ21vU0tGY3U5YXdmdmxNd1dOcDViaDNoeEJXRGJmZzBRLUJRTW00akFjUWtYUEszS2gweTFqaEtsVWhSdGtsaTZXdDNvck5MTTEzd1RxYk1jNzFXaTlNaGc5ZzRXOTFXMGpOckxtaHcxX3VqMFg4VlJxRW8ydEk2QW9WWW1YN1MydjcxSTZIUm1sUHJ5aktTQnNac2RRMmFrRG5MbWMxQVEtMTEzWU5QVjItLTlEcGVLUUU4cEJFVmpWeVJkVFdMSGYySkxLd0xF0gHcAUFVX3lxTFBXbVJCdDNSYkNkdm5nbW9TS0ZjdTlhd2Z2bE13V05wNWJoM2h4QldEYmZnMFEtQlFNbTRqQWNRa1hQSzNLaDB5MWpoS2xVaFJ0a2xpNld0M29yTkxNMTN3VHFiTWM3MVdpOU1oZzlnNFc5MVcwak5yTG1odzFfdWowWDhWUnFFbzJ0STZBb1ZZbVg3UzJ2NzFJNkhSbWxQcnlqS1NCc1pzZFEyYWtEbkxtYzFBUS0xMTNZTlBWMi0tOURwZUtRRThwQkVWalZ5UmRUV0xIZjJKTEt3TEU?oc=5",
       "snippet": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud Analytics Insight",
@@ -190,6 +205,21 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWNRZEFvSmlZYTZObzBsZFJXSVdzaTVfN0ZIemJvY2FEV3I4MUZORVljenlRcDBMd2V3UHpGTXlUbkRveFd2QjNrdnU3X1p0OWFJRENMdTFlX3VwQ3pMNlpyMkpvcUVzenRleGZDZlNLRU9XeVRWUjdqd3hyNV9raVRoVHNQc3NnNFR3cC1HVGlNbW5IMG41cmQ4LU03NmFueUlPOUxianRaNnJiSTZzR3lMMUthTV81VnhwSlg3STlqQzQzZThYeUtGckNMRk3SAdwBQVVfeXFMUFdtUkJ0M1JiQ2R2bmdtb1NLRmN1OWF3ZnZsTXdXTnA1YmgzaHhCV0RiZmcwUS1CUU1tNGpBY1FrWFBLM0toMHkxamhLbFVoUnRrbGk2V3Qzb3JOTE0xM3dUcWJNYzcxV2k5TWhnOWc0VzkxVzBqTnJMbWh3MV91ajBYOFZScUVvMnRJNkFvVlltWDdTMnY3MUk2SFJtbFByeWpLU0JzWnNkUTJha0RuTG1jMUFRLTExM1lOUFYyLS05RHBlS1FFOHBCRVZqVnlSZFRXTEhmMkpMS3dMRQ?oc=5",
+      "snippet": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud Analytics Insight",
+      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
       "confidence": "Medium",
@@ -252,6 +282,21 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission launches investigation into Booking.com over fraud and scam allegations - Travel Tomorrow",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFhSaU50VFc0TVRVdUktbmtFcWtnZVlTQi1nWDJqMGp5b0ZVUHJxT2E3ZVdxZDFIT1FwWm5BZXhfOHB0YzlYSEhQcUNiS1kzSkpYUzRrczJ0RFZRWWt2Mks0RVZyTUFLVDhlUjYwOXhNSFkyNDVKanprSno5MTNXNmQ4dG1jUFB3bFpPODVmQ0xsSUlud2o0WDlEZjZQMHpkTDA5aG84dmRiRlFFVC10UktoN2tqT0IwUi00?oc=5",
+      "snippet": "European Commission launches investigation into Booking.com over fraud and scam allegations Travel Tomorrow",
+      "publishedAt": "2026-10-22T11:26:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1

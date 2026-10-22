@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:12:05.178Z",
+  "generatedAt": "2026-10-22T17:26:20.204Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 23
+    "total": 25
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "PIB Fact Check",
@@ -186,6 +186,21 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1raXpVTVBuaUUwWkxxc0FWdEoyMmZpQlJKV3M5S1k4bkU4VmFXZzhlOWktZ1FRcDJWOEQ0d0RfXy1sTHlJaHZPWFM0VDlXQmdCOUE?oc=5",
       "snippet": "India's largest lender, State Bank of India (SBI), was hit by a suspected cyberattack and customer data leak, with approximately 3.75 lakh records surfacing on the dark web, according to a stock exchange filing on October 21, 2026. A preliminary analysis of app Instagram",
       "publishedAt": "2026-10-21T09:49:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0dhdDcxMDBhYllLaTM2LVJxN2tvYzNvMXk2VkEzQmNWOTRkd2Z6b3VzdnNjZnNJajVuV3FJcTAtOGY4VTN0c2s0XzRPRlNrYXA2RGVESm9WTXNKalJNdTJvYjdqQXAxQ1QxWXlwdjhMOVJxcVFTX0huWmxCWE5KanhUNA?oc=5",
+      "snippet": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web The Hacker News",
+      "publishedAt": "2026-10-21T07:44:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -381,6 +396,21 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZU1yd0Q3Q0hmZXJza01pM3ZjQ2lOb2s5OHNsZUlsMVpqQlJiUmxGYXAtMWc2T3VJc2xmQWh4Ry04bTFpckVZTVNFUXZJdFRNaUw5Wkt0anROVVZwTjVuUC1naTJNZ1VkcjVXZ0hHOGxXMDZyNmtLeF9Bd1VMaU1TbGFsTmJLSF9xR2dVaC13VHNPdW9zZjFaeklfV05IY2tQc2xOZ2xYU2fSAagBQVVfeXFMT2VNcndEN0NIZmVyc2tNaTN2Y0NpTm9rOThzbGVJbDFaakJSYlJsRmFwLTFnNk91SXNsZkFoeEctOG0xaXJFWU1TRVF2SXRUTWlMOVpLdGp0TlVWcE41blAtZ2kyTWdVZHI1V2dIRzhsVzA2cjZrS3hfQXdVTGlNU2xhbE5iS0hfcUdnVWgtd1RzT3Vvc2YxWnpJX1dOSGNrUHNsTmdsWFNn?oc=5",
       "snippet": "SBI Data Breach: 3,897 Customer Records Flagged on Dark Web Analytics Insight",
       "publishedAt": "2026-10-21T08:46:19.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI Data Breach: 3,897 Customer Records Flagged on Dark Web - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa21xRXhLRVlQc1dldDYzODdIdWlnU3NrZjBKUURreWZzVWFJT25ha1E4cEdBa25ScWpPMmc0eUQ2NDZHQXpZMHpZX0JBd0pSVl9IaDU3NkhiRFhzeVp3M0cxVmpkNUR0c2hJeUVxeTdDVFQ2Y2psQXRuYXFxWVBuNTNTVml2bTlnMnF1RUhEcFU2ZEI4Z2YwNmhfZ9IBqAFBVV95cUxPZU1yd0Q3Q0hmZXJza01pM3ZjQ2lOb2s5OHNsZUlsMVpqQlJiUmxGYXAtMWc2T3VJc2xmQWh4Ry04bTFpckVZTVNFUXZJdFRNaUw5Wkt0anROVVZwTjVuUC1naTJNZ1VkcjVXZ0hHOGxXMDZyNmtLeF9Bd1VMaU1TbGFsTmJLSF9xR2dVaC13VHNPdW9zZjFaeklfV05IY2tQc2xOZ2xYU2c?oc=5",
+      "snippet": "SBI Data Breach: 3,897 Customer Records Flagged on Dark Web Analytics Insight",
+      "publishedAt": "2026-10-21T08:30:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

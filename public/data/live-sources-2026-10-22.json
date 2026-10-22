@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:12:05.178Z",
+  "generatedAt": "2026-10-22T17:26:20.204Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 54
+    "total": 76
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,66 @@
   ],
   "data": [
     {
+      "title": "PM Modi, Polish counterpart Tusk condemn terrorism and violent extremism - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGRKSGJyWlJPS2RoQ3c4dWZIRDJrVjFXT2IyTXFnVnZ2OVNSaGs3cE05dGptU1Z4RWthRGJUX3V5MlFWUGVrRDJzTkRSTmRoWkFQU0diYkxZTzNmTjJyRnRIXzBVSUtRd1VBWXYtV04xV1lhM3hGY0lDelV1U2RHb3FtRTFvWWVUaklkUWJoVHNlcUpnUkJGMFd1R2piUEk4N1dSOHZhaEtaanB2NWdDSV9WNTRiZ9IBtgFBVV95cUxPRGRKSGJyWlJPS2RoQ3c4dWZIRDJrVjFXT2IyTXFnVnZ2OVNSaGs3cE05dGptU1Z4RWthRGJUX3V5MlFWUGVrRDJzTkRSTmRoWkFQU0diYkxZTzNmTjJyRnRIXzBVSUtRd1VBWXYtV04xV1lhM3hGY0lDelV1U2RHb3FtRTFvWWVUaklkUWJoVHNlcUpnUkJGMFd1R2piUEk4N1dSOHZhaEtaanB2NWdDSV9WNTRiZw?oc=5",
+      "snippet": "PM Modi, Polish counterpart Tusk condemn terrorism and violent extremism The Tribune",
+      "publishedAt": "2026-10-22T13:22:15.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rockton man charged in AI-generated child sexual abuse material case - MyStateline",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnp2TWdkLS13R3RFQTZ2TzlPLU1qbV8xQUxXR2F6cDJDZ0hraU9EX1VuLXhwdnpScEtZQTM1eFZQN1hOM09zd3YtdzVGLXR1US1sSG81Y1Q4Z3RZczhQV0NSUUdXUThuUVBvYUtwdWVPM19EOTNRd05kUldqSmhfM0FiWHp4d9IBiwFBVV95cUxQNmVGN2Y5VDVMLU1kcEZubllDYm84VDZVaFY2MldReHRkVE9kbmlEdU5icnZyT2piTlphZ1F6T1pwWlBzaE85UFlJSVRhVlVoZEZsR2xDRmNEODBDZEhMaHZ4WlJZZHdQY0F1ZnFSSlEtczVQeFRuNWh4akpmZUxFTXdiVDlQdGlIRHRZ?oc=5",
+      "snippet": "Rockton man charged in AI-generated child sexual abuse material case MyStateline",
+      "publishedAt": "2026-10-22T16:23:02.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "27-year-old man sentenced to 11 years in federal prison for distributing child sexual abuse material - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcEpZWnlZQmgwdjN4MkdkRVpyV3B4TURTWGYtWnJYTnkxTFNiUktSaWhsR254RG1HWnF6aDZFMEE5QjdBTDdHMXdOWXlPNzJULXlfZV9DN1lZWE5sUEh6TUFDZHVWQ3dSOGdCRmppWV9WNlV5N0ZjLU1oOUZoZk9lXzN0Y3FkUjRxWEM0THFaN3FJcVRHam9pWWpFa1N2VC1DcWs1ajVGVlRoLWVMUC1Sc0JuS0U4Y1dOMk02LXI4UTlydnFadWVGX0c4S1RLd2tCZVV5LTVfRTVKcjlEakR1aDNRS1VzQTRR?oc=5",
+      "snippet": "27-year-old man sentenced to 11 years in federal prison for distributing child sexual abuse material Click2Houston",
+      "publishedAt": "2026-10-22T13:25:12.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fQzVsLU9SaHJtdWJKTUNXMW5FbzJtQ3BJZ2E2WmVieFRJclQwMnphVkp4aXZjMjJVSDRIZXlzNmFEQUo0ZlZrYnYxUVc3VTVXd1Y5dGxrUklDVmVSQVdVTkpLT1dEN2fSAWxBVV95cUxNQ01ydkdRbUNqTTZsSThFZk9rWHZYdTkwYjduYmhtMGRhT0VlNVFQQXFRdjEtdXJqZnBkb0NHdE5YcHQySG43TTRaSEZ2d29ySjZJOEFBeVpsVnVOTVRjT1I0N0NWQUpTNnNEXzM?oc=5",
+      "snippet": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection GBHackers News",
+      "publishedAt": "2026-10-22T12:12:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud - Analytics Insight",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV21SQnQzUmJDZHZuZ21vU0tGY3U5YXdmdmxNd1dOcDViaDNoeEJXRGJmZzBRLUJRTW00akFjUWtYUEszS2gweTFqaEtsVWhSdGtsaTZXdDNvck5MTTEzd1RxYk1jNzFXaTlNaGc5ZzRXOTFXMGpOckxtaHcxX3VqMFg4VlJxRW8ydEk2QW9WWW1YN1MydjcxSTZIUm1sUHJ5aktTQnNac2RRMmFrRG5MbWMxQVEtMTEzWU5QVjItLTlEcGVLUUU4cEJFVmpWeVJkVFdMSGYySkxLd0xF0gHcAUFVX3lxTFBXbVJCdDNSYkNkdm5nbW9TS0ZjdTlhd2Z2bE13V05wNWJoM2h4QldEYmZnMFEtQlFNbTRqQWNRa1hQSzNLaDB5MWpoS2xVaFJ0a2xpNld0M29yTkxNMTN3VHFiTWM3MVdpOU1oZzlnNFc5MVcwak5yTG1odzFfdWowWDhWUnFFbzJ0STZBb1ZZbVg3UzJ2NzFJNkhSbWxQcnlqS1NCc1pzZFEyYWtEbkxtYzFBUS0xMTNZTlBWMi0tOURwZUtRRThwQkVWalZ5UmRUV0xIZjJKTEt3TEU?oc=5",
       "snippet": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud Analytics Insight",
@@ -190,6 +250,21 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWNRZEFvSmlZYTZObzBsZFJXSVdzaTVfN0ZIemJvY2FEV3I4MUZORVljenlRcDBMd2V3UHpGTXlUbkRveFd2QjNrdnU3X1p0OWFJRENMdTFlX3VwQ3pMNlpyMkpvcUVzenRleGZDZlNLRU9XeVRWUjdqd3hyNV9raVRoVHNQc3NnNFR3cC1HVGlNbW5IMG41cmQ4LU03NmFueUlPOUxianRaNnJiSTZzR3lMMUthTV81VnhwSlg3STlqQzQzZThYeUtGckNMRk3SAdwBQVVfeXFMUFdtUkJ0M1JiQ2R2bmdtb1NLRmN1OWF3ZnZsTXdXTnA1YmgzaHhCV0RiZmcwUS1CUU1tNGpBY1FrWFBLM0toMHkxamhLbFVoUnRrbGk2V3Qzb3JOTE0xM3dUcWJNYzcxV2k5TWhnOWc0VzkxVzBqTnJMbWh3MV91ajBYOFZScUVvMnRJNkFvVlltWDdTMnY3MUk2SFJtbFByeWpLU0JzWnNkUTJha0RuTG1jMUFRLTExM1lOUFYyLS05RHBlS1FFOHBCRVZqVnlSZFRXTEhmMkpMS3dMRQ?oc=5",
+      "snippet": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud Analytics Insight",
+      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
       "confidence": "Medium",
@@ -212,8 +287,38 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fact Check: Viral Video Is Not From The Delhi Protests, But From Kolkata’s Sealdah Railway Station - Vishvas News Fact Check Hindi",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0lYcFF5MTFYMHBxcm4ybkNqNU14WmlNcjIwOGs5R2lJUnZpMmVIb3pyNVI4YUJkaWxxYjdpV2thamFKRWJDTDFhZXBUV3FRU2ZfRUtsUW9FdENFdDYydUJPOHlkb0RFdlNvRDRYeExuMXZOendzTjFqdV9JbmxMeHhuUmhLVEdPUVVCelppTUYzdHVIX1NScEJORnYxWEdaQ1Y1MXN2X3psUWJOd0dTcnlzb1hLWi1lbk9LSUx3ZWpISVB2WWhFclNubjVjYVJKa2J0SXY2dWI?oc=5",
+      "snippet": "Fact Check: Viral Video Is Not From The Delhi Protests, But From Kolkata’s Sealdah Railway Station Vishvas News Fact Check Hindi",
+      "publishedAt": "2026-10-22T07:42:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Video Of US Senator Blumenthal Calling India A Failed State Is A Deepfake | BOOM - BOOM Fact Check",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVpDWGVlOWtUekp3U2ZDbVJ5ZDBlTmZCbTVRUXN1QVN5VUgza25ITlVMRTRBYkNsQXotU3VfZWkwV3VhY3Q1UEZpRDdRMUE3NWlJZFlPN21MRTk4X3gwc2xxWW9kWXFyYWluZnhva3dGamNCRzluY09YQTNHM1l4QzJPSGgxZGd1V05IUkZEbWx5SHNKRTZsMXlMeFZaZUdkeTdxdWQwQ3piUUJmME4tRnp6alFkM2ktZUHSAboBQVVfeXFMTzFaQ1hlZTlrVHpKd1NmQ21SeWQwZU5mQm01UVFzdUFTeVVIM2tuSE5VTEU0QWJDbEF6LVN1X2VpMFd1YWN0NVBGaUQ3UTFBNzVpSWRZTzdtTEU5OF94MHNscVlvZFlxcmFpbmZ4b2t3RmpjQkc5bmNPWEEzRzNZeEMyT0hoMWRndVdOSFJGRG1seUhzSkU2bDF5THhWWmVHZHk3cXVkMEN6YlFCZjBOLUZ6empRZDNpLWVB?oc=5",
+      "snippet": "Video Of US Senator Blumenthal Calling India A Failed State Is A Deepfake | BOOM BOOM Fact Check",
+      "publishedAt": "2026-10-22T07:31:27.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Video Of US Senator Blumenthal Calling India A Failed State Is A Deepfake | BOOM - BOOM Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMldZNVphajR0NDV4U3B6cHp0YnVpWHNIa2lvVG5mMnN4bHJpaERkd0R0UVB6Y2ZqbDFqTzQ1dmxuQzVQUm0xckE2djEtVmRyZWdMRUx4QlpIU0JvWkJWSEk4ZzQ5RjJYbjFCUkVBUlVoOC1JZ2I2WDgtSVgzdklWMElWNV9jQkpoRFY0VE10eFF2YTVnWDdGVDNEV2xPZmZiQks4aUVqYmd1bjlYZHdDamhvMm3SAboBQVVfeXFMTzFaQ1hlZTlrVHpKd1NmQ21SeWQwZU5mQm01UVFzdUFTeVVIM2tuSE5VTEU0QWJDbEF6LVN1X2VpMFd1YWN0NVBGaUQ3UTFBNzVpSWRZTzdtTEU5OF94MHNscVlvZFlxcmFpbmZ4b2t3RmpjQkc5bmNPWEEzRzNZeEMyT0hoMWRndVdOSFJGRG1seUhzSkU2bDF5THhWWmVHZHk3cXVkMEN6YlFCZjBOLUZ6empRZDNpLWVB?oc=5",
       "snippet": "Video Of US Senator Blumenthal Calling India A Failed State Is A Deepfake | BOOM BOOM Fact Check",
       "publishedAt": "2026-10-22T07:31:27.000Z",
       "source": "Google News • Fact Check (India)",
@@ -362,6 +467,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Pakistan, EU Agree to Strengthen Counterterrorism Cooperation and Tackle Online Radicalisation - https://newsalert.com.pk/",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblVUUmc0dlNmWVJIeS1PYUd5OGFCSU9UV3JaWXQxMENGODF6NmVwN2stX09jRko0ZG9tVHo3MW9ramswNjZHdzAzcXdVTl9NRC02UXJ5WjJnSWx1T0lFSkZIZFFWbXRQOWtqcU9sVnVOb2ZkdVdDVm9EV3BqZjZnQjlmekZ3Q2h6aW5HUjB4OC1aVGE2YUt5cDl0VmFlSnBUa3VzWXE4eFcya3FzQVlicWJDdk1TUWV3WmFv?oc=5",
+      "snippet": "Pakistan, EU Agree to Strengthen Counterterrorism Cooperation and Tackle Online Radicalisation https://newsalert.com.pk/",
+      "publishedAt": "2026-10-22T11:41:05.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "First terrorism, then Naxalism, now drugs: By 2029, Amit Shah sets hard deadline to wipe out India’s narco - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQ19BaWd3TFRzdmpXcnJqUUpHaVJDbE1fZW1sS0JXRzc5cWd3QWtfNzNTV1czRXQ3UkhqYTVNNlZENFBZU194bUJBd1Q1d3gtYjBGa0FIaE5PMkUzM2RwcklNLVdEUUs4TGRtb0ViRVlVZnFHYnRXVS1KTHNrZGdCZlRuOFpmdS1VcmhKeERudEk0aTYxbVlpd05vc2w4bmxKT1VSOGJFdWFicEkwb1gxemJ1S2NjMlRXaWtMdHJlT2pzU2NyTlprYnJDWk9oWkNrT1A5TnE4WVRza0F1eUI4S0QtVEdybkhjSURlREVGTVFMYy01RTNDTkttcUJ6eTlIOU9UY3hjU2dieHVOLVVnZkFoRVhFNS16eU5MZjBLTVZIa3PSAagCQVVfeXFMTTBLdjMxX1N1RGtfV1VEQkNlaVkwYzBJTGZEVjhlSkZ1aEhGb0o2ZGZjUVFDRGFWRXl6aG9aNkhnMERpc1IxOFo4LUhrYUpYa3lDMWNRUW5RWXMyLTE1UmdHdHNNN05qNFpQYVJFQ1Z6VUtGank3NDd0cG8wWXp3NE1DTkw1UTJ6MmxxVkhjdlQ3LVJ2UHEzZU9fUm1JTzU4dDlqeF8xRzNESktnam93N2VmUWY3UndXTWZad1lwY2ptSTE0czZRSXpobkVvTHZfODlDQlpETXo3bGhkdEs1X2lpZTFUTDdtQzN5cGViZHUwd2dfYTctNWJ5SzNnRXg2VEFkc2xKODdIU2ZJaUNBMHNUUV9nWnNlUTBKUjFqdG0zcVlzMEt2ZUU?oc=5",
       "snippet": "First terrorism, then Naxalism, now drugs: By 2029, Amit Shah sets hard deadline to wipe out India’s narco The Economic Times",
@@ -402,6 +522,111 @@
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
       "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Niagara Falls man charged in child sexual abuse, exploitation material investigation - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXY1b1RNbEFvZzN2ZHdCNnY3LWloZ0JzVzl6YnN2UjRWVkhQTlA0cGVmQkhJaEVCeFF2UW5ZLWZwRGl6b3M4NzFoMUJueHNpUzR2cjhXOUhCQmhOUS15NTB4aVc3bU0ta1NaSE84UFdFdFlBYkJpTFhLamZZSm9IUmNFSmFlUWliMldWMkNKWWVxSFVXckVORFJ6YWxmN0hxeDVWcERQTjVhbG0tVE9rVG1jMjJfSXdkMmNXNG13MFhMTk5SWVZ0bHplQU55cXkxRjc0?oc=5",
+      "snippet": "Niagara Falls man charged in child sexual abuse, exploitation material investigation CTV News",
+      "publishedAt": "2026-10-22T16:33:29.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Niagara Falls man charged in internet child exploitation investigation - Niagara-on-the-Lake Local",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRF80NzdGenEzbkk0Q3E5MDJMSVRRTU4wN2dZQlBRVlllT2h0b1B2d3ctekdBWk1GRmZubWxjb3pYV3R6ZHNNYW5RY09hSjlzd1ZqcGFPek4yQ294aDl1aVg0UnM5Rkt3OUlqQk1HYkJWQ0pyMS1CYnR4cWJKWmZPbDhZNW43NUVmMUZyaHYyS0daeUkzUTN6OExDMXM2YTBCQ09aQ0pmeGo4bEN5WGZsczFnelZJR285?oc=5",
+      "snippet": "Niagara Falls man charged in internet child exploitation investigation Niagara-on-the-Lake Local",
+      "publishedAt": "2026-10-22T14:32:05.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Altered video fabricates Jaiswal’s remarks about Pakistani commando - Soch Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkpsZ2JHY3o5R3c3aTZ4RXRZVWhna3AwOEk1MWVRakFhb2VKT19JejFoN3UzR1NjRG1obzFTZG1jMlljMkRnd3FfMDIyeV9FVHBVdGp4R0Z3eHNzYVNKbWM1aUxxSXBGLWxTYW4tWVA5Rlo0dUZGc3d0eS1GMGVOZXFiVlo5bnRtMFNZVzNCREdLWVljMEtlWlh1MDVsQQ?oc=5",
+      "snippet": "Altered video fabricates Jaiswal’s remarks about Pakistani commando Soch Fact Check",
+      "publishedAt": "2026-10-22T13:23:29.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Niagara Falls man charged in internet child exploitation investigation - PelhamToday.ca",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOUxYSy13VnZZd1NrOERUSzFXZVhSYlBPRng2cG0wTFdpZFVUUjhzUDlvNHJDQU13ODVYVHFzdWlTclVkZXNOVldKQXpmdzJoVjBvZWh0RFFCekF6RTZFRkswOHpUOV9UQ0IwM3NvZFF3QnhsTlFnckRickNzTHo5QVBaUkYyb1E5dGNhcnNhc3Z6aC1BdmphaWJESzJ0QkJMR29Ld0VRNEpfYmhBaWd4NFp1LVYzSFFiUEE?oc=5",
+      "snippet": "Niagara Falls man charged in internet child exploitation investigation PelhamToday.ca",
+      "publishedAt": "2026-10-22T13:07:51.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Niagara Falls man charged with possession of child sexual abuse and exploitation material - CHCH",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0hQWlF0VVQ2YWR1T3BvWlQzcVBoNUVEMGpwdk12Uk10emV5STlzTmt5ZHRDeW9jVUs1TktkWjVfUHptUnpiN1F0Z0dYdGVBRlBzU2ZQZG9rS2txLXBxdDRaMU8yVEM0dklvSkVYSEFReFNpOGRNT0NpS3ZYaF9ZR2FpMlFuWTA3TjdWbkVQbW1ka1pQTjRGQWU3N1R5cXRsSjU2TncyRlRrRmhXVlRIU0cydTJEUTNCYVBQSXJR?oc=5",
+      "snippet": "Niagara Falls man charged with possession of child sexual abuse and exploitation material CHCH",
+      "publishedAt": "2026-10-22T12:50:46.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australian teen charged with hate crime for racially abusing Indian family, threatening to 'blow up' Bris - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUFFnR0oxbWh3YkxlWFN4N3daaldRdFYtdTZBbTJsM1U5VjB5WXMyYUNjY0twTW9Lc2gzTGZHcmVOZF9GbE5BN1NaVHdobTlZdGhhZkFpd1dDVU5qQnd5TDBSdEl1d1ZfRzFzQVhpS3g4NHBsUnFaNVBZMXlFdGY0OUI2NXJ6SUtLLUtTajY0U3ZGbVQ3RUQ1QVk1OE9CM0RhR29BWk5jZFNoMXRyd2ltNlJLLTV1WDRMUlpQajdSOEJaQ2RZRUN1c093ZDk3a0FlUFFpMmpTT2JGa1BYTGM5YzZGRlUxSVRRTmN3a2dMdWs2aGIwZmlTMW8yR1k3S1pSNldMLVotS1VrSUNMbl8ycEp6TGhMZmM5MXVVemJSTG44dnVfLThrN2l1dFFRRklSTFo4a1BfbWtNV3hRMnBxcTZwY3VTZ9IBywJBVV95cUxQN1VDazUzZWVyaC1LTGRybXhQSGlKd1ZJWEtjR3FFRmU0aDdnVk9OcFllN1lyVVdfV09GMTJMS3JpNmZxMlBXSDdhLTJ3a0tqb3dRTHd6S2x0TmxBaEVXREdsbnM3ZW12eXJaM1dFTUQ0Tk4xUVUyTzkteE0wQXEyY0I4d0syUWgtSkc4Q1FIcEJvb3dza2lNN0dTbGJLUHFhWHJlaWxvN3F4ai1MYVZvZFNNOER5UTdyOFBzUTNRczZTWVpRUXZ3Mm0waGpydjNRa0xWN0pNN1d0alI4RDdTeGh1T0dUT3g2Z284RE1ha3V1aGdMN1M3NV9ZMnJnU2VwUEFiSm1oM0hMNjdzV01QdFIzVi1WRUtwU0s2SXU1T0RwRXVKOUQ5TVZHN2ctelJMNllqbFBCUldsUlVMWXJGWG9Cb0xLRzI2MmZr?oc=5",
+      "snippet": "Australian teen charged with hate crime for racially abusing Indian family, threatening to 'blow up' Bris The Times of India",
+      "publishedAt": "2026-10-22T11:57:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission launches investigation into Booking.com over fraud and scam allegations - Travel Tomorrow",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFhSaU50VFc0TVRVdUktbmtFcWtnZVlTQi1nWDJqMGp5b0ZVUHJxT2E3ZVdxZDFIT1FwWm5BZXhfOHB0YzlYSEhQcUNiS1kzSkpYUzRrczJ0RFZRWWt2Mks0RVZyTUFLVDhlUjYwOXhNSFkyNDVKanprSno5MTNXNmQ4dG1jUFB3bFpPODVmQ0xsSUlud2o0WDlEZjZQMHpkTDA5aG84dmRiRlFFVC10UktoN2tqT0IwUi00?oc=5",
+      "snippet": "European Commission launches investigation into Booking.com over fraud and scam allegations Travel Tomorrow",
+      "publishedAt": "2026-10-22T11:26:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -617,6 +842,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Action Needed: JSP Must Control Fake News Factory! - Gulte",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHNqbHYzVWxSWXBZVG1EMlkyNUgzX3U3M1E0TF9NMWtueUMxczVFZml0em16dGtMM2xVQjlfSU4tcUR0clIzbXpuU2tBYmlFMkFFNXF2X0ZwbnNzN2ZyY2xzSGlqY3NZRURXV0N1ZHRnT05QLThCWmxJTy1xN1dzVDhZRngtTkZ1R1hQbGRpMmw4alMtSzFZQnhpNEvSAZwBQVVfeXFMTVBzamx2M1VsUllwWVRtRDJZMjVIM191NzNRNExfTTFrbnlDMXM1RWZpdHptenRrTDNsVUI5X0lOLXFEdHJSM216blNrQWJpRTJBRTVxdl9GcG5zczdmcmNsc0hpamNzWUVEV1dDdWR0Z09OUC04QlpsSU8tcTdXc1Q4WUZ4LU5GdUdYUGxkaTJsOGpTLUsxWUJ4aTRL?oc=5",
+      "snippet": "Action Needed: JSP Must Control Fake News Factory! Gulte",
+      "publishedAt": "2026-10-22T11:38:04.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUk4ydEZBOFlMS1JEWEY3WkdxWTNyLVRHaE94WHhOa2VWXzc5aTR3QWhvRFJUZWkxYWliLUc2ekRtV2d1S2dtaVRXeExBTWo2aHRTdmJKdk4tUVdzSWRVYzh1OW9zZ9IBa0FVX3lxTE9zT0ZUQXhkSGZ2TzE0WDBad1lVRXhDYzE0RUpva19oNURhRjJtU1l4SDliUWxlR0JMZ1h0VFJOdXFiS0owMUpPMDVCM1IwV1R1M3VSYzM5RHlhcVNDbDcyMjRubF9tVjlzN0ww?oc=5",
       "snippet": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web CyberSecurityNews",
@@ -636,6 +876,21 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ka1ZRbk90emJkVEluRTBNQUFOWmxZZjNZNWlXZUR2dmthbTBGekxkNUU5THJHQzZCY3c5R1FmX1hZOEdubFp1VklHWmJITXd6dDdQeHYxazNGWHdEZ1dHek1NSVVwa2FtZ2fSAW9BVV95cUxQbFZ4VllVcnNWU1pySTJscnM3VHRDZ3RwTjk3enVNRTNHbVJicnVNLTY5NmJ3aGNVdEZDX25uR1hJUVhOanZUVVJKOUVCNU9wam5oUFJqdndxdldzTUxVaTRMVWI2TTE2RFhxbWRxc1E?oc=5",
       "snippet": "Hackers Are Using Real Dell and Staples Emails to Make Their Scams Look Legitimate CyberSecurityNews",
       "publishedAt": "2026-10-22T08:26:15.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Are Using Real Dell and Staples Emails to Make Their Scams Look Legitimate - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsVnhWWVVyc1ZTWnJJMmxyczdUdENndHBOOTd6dU1FM0dtUmJydU0tNjk2YndoY1V0RkNfbm5HWElRWE5qdlRVUko5RUI1T3BqbmhQUmp2d3F2V3NNTFVpNExVYjZNMTZEWHFtZHFzUdIBb0FVX3lxTFBsVnhWWVVyc1ZTWnJJMmxyczdUdENndHBOOTd6dU1FM0dtUmJydU0tNjk2YndoY1V0RkNfbm5HWElRWE5qdlRVUko5RUI1T3BqbmhQUmp2d3F2V3NNTFVpNExVYjZNMTZEWHFtZHFzUQ?oc=5",
+      "snippet": "Hackers Are Using Real Dell and Staples Emails to Make Their Scams Look Legitimate CyberSecurityNews",
+      "publishedAt": "2026-10-22T08:03:39.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -797,6 +1052,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "eMudhra Shares Crash 35% in a Week: Cybersecurity Scare Sends Stock Near 52-Week Low - India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOejQxQTRZc3VQV2RTRWZfODMzV2JEVjJkU3M0ZzdXUjF1a1hTbEFCRlNFZnR6VF85SERsQWU1cm9mUU5qWVRkVHEzY0JlVXdQNTNJMG5MZ3kzYV83LWZxMVJQMUlBMjRrRk1WbXRNbEdKaXVWcHQwUjVUM0dtTlQ4QUQ5d1NBVkY2ZHdJOUVNWUY4Qm5LTXpvTTZBY04zXzZidjQ0NWxrb1NteXFqU1VjMU9QS20yUGUxVU82cS16UjdxX1ViVmc?oc=5",
+      "snippet": "eMudhra Shares Crash 35% in a Week: Cybersecurity Scare Sends Stock Near 52-Week Low India Infoline",
+      "publishedAt": "2026-10-22T12:54:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "eMudhra certificate security incident highlights need for independent verification, cyber resilience: CyberPeace Founder - Big News Network.com",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT3k4MUpORkhDeWE2ZzBGbUF6U0RhM3Y1akhvSjNJS2xGb21WbkZSNEFhZ1pHalJJbk1yc014SXJFZlhwTk5CVmVlLWtwejVwVzh4c05qTGNobUsySksyYVdtYm9uRWoyRzRGYTAtY3RKeHdBWVpMSndBdkk3UE9aWlRjUElBd0tuTTBDNDA5YWZ3QlAteXpraWdBNm12Ql9nUkVocW1IdzV0bUNxay0zODd0LVljRjZ0TE5fMDhpbzRSTVpibDhEeUluazZnS3VPUkVNU0JZNmxkTEN4bXpXT2RGcEVIQ0pwbGlOWWhmQXhWaFd2NFcw?oc=5",
       "snippet": "eMudhra certificate security incident highlights need for independent verification, cyber resilience: CyberPeace Founder Big News Network.com",
@@ -827,10 +1097,55 @@
       "corroboratedBy": 1
     },
     {
+      "title": "PHP: What is it and why did it spark a global cyber security scramble? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1V0VTbm4wQ3BmN1hGMnNiSFRrU3FMTlNGcEV4Nzl4RVgzRk9NNjZIWXVkaWdFVElIZVRQUGdjbWZ6Wk1CUHM5djJJMGxqZVFlVjJqQ2tjUWRoZTg?oc=5",
+      "snippet": "PHP: What is it and why did it spark a global cyber security scramble? BBC",
+      "publishedAt": "2026-10-22T11:15:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3NRWkNjUmZJM1oyYnM2c3A0eWVyNjVuMzZxb0YtSWw0UmZoQy0xdWZKRjU3T0RLQTZHd1VkdXkzbmRYNGJxaE4yUXhyR1U5bzF3d0JQOXpuRjlkZkVLN3hUTWJiSk5qVGV6YnFOUURDbjZaX2Z4S2RxRUo2ZU8xbUpYUkM?oc=5",
+      "snippet": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation The Hacker News",
+      "publishedAt": "2026-10-22T11:15:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Synersoft Advances AI-Powered Cybersecurity and Cost-Effective IT Solutions for MSMEs - IT Voice Media",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGxZSDFZSEJZS05hNkxxc2JzYjhUOTU4VjY3cnJHcVZBd1FEamc4TzQwX1lKWU45QzJfOUU4NTZoQ0psWEd3VXcxczZ3eWNpQk9fT1ZKSjNoRUdmLWU4R1NaaVVmbTZPUlc4UlFqaUpoUzY3RFVIb1lVLXo3NUxnYklYSG1ESmNwVjk2UkIyYkQwTVBJeTF2dHExOEJLbGk1eWZrbks3TUFGSkZG?oc=5",
       "snippet": "Synersoft Advances AI-Powered Cybersecurity and Cost-Effective IT Solutions for MSMEs IT Voice Media",
       "publishedAt": "2026-10-22T10:13:01.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Max Messenger: A fake data breach with genuine consequences? - Barracuda Networks Blog",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0Y0S1JPNWRSV0c3SWNEWXlQT3FqeGJaUDJOUE1zdEZ3Q0gwRVVHb2VpeFcyZFZfTmtqMVFpUWd5cmRnRFkzNi1Pa2QtYXZfTFdyZjhlRHgwWXpIVHRUN2RGeEdtYnNGZEtEN0dITFdWWFI0RjFOdjN6TDAtMEZEV3B3QlZudFVBR0ZBcTRsU2ZJM1E?oc=5",
+      "snippet": "Max Messenger: A fake data breach with genuine consequences? Barracuda Networks Blog",
+      "publishedAt": "2026-10-22T10:10:38.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -902,6 +1217,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "eMudhra certificate security incident highlights need for independent verification, cyber resilience: CyberPeace Founder - https://www.indiagazette.com/",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVnBQQk5KNWdsNmxnTkxlZ3VkTUNLenNIU3hvV3FiS3hEVFprZVF5WnVRaVUwNHdwbWtRTUhXcXFjUmt5bXZLQ2tMMXNCM3JkcVhiX192OG84cUxWSk9hcWwxcVBzWnREZHRWX0VFcko3Z0J3b0dsbE5kQ0l4ZjR0dVUtaDNWT3E0NHkxaXhYTW9yRGFkWVdmdG9jcDQwR09TSWVTY3NaY1BuUkliQU5zMzdnR0tWUTFFYWpsRm1RbHZCMDZtV3NfSUVTS2JTWFFac0JVcGxHaG5VakJ3dC1XRGl0RXd0NFkyM0UtREFLcDllb0lC?oc=5",
+      "snippet": "eMudhra certificate security incident highlights need for independent verification, cyber resilience: CyberPeace Founder https://www.indiagazette.com/",
+      "publishedAt": "2026-10-22T07:35:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "From eMudhra To SBI, Reliance: 5 Major Data Breaches That Exposed India’s Digital Fault Lines - Outlook India",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDl2aHZNZ3NORkF2WUtBbDlMV18yVjJISkJZbFo0eEYtb01GWXNMbzZsZlZPWVliTG9nSGpUYkYwWTlUUjZnV0gwaTBvNnJCM3JIMmgyQXA0S0xuQ0oxN2w1eUY4SUJNRnFtdEJmSVY5WUtWbVFuZ2dBZWtTUlZ5QmtvR2lXaWtxdVhOV1k3VGtVOWZVRXlNbE12SlcycGl0c1JXdkJwSdIBtAFBVV95cUxQUkZaamFVWE50TEwtTEFWU1NSSEpkLXBWZ19wRjZkWVVENDhEVWpvZjdjOUNMQTliSDRGT2tETWw2cU04QmkzSUpEdkdpdTZZRUdZaXhSblJQbmJha3JaVkUyekVONVpzNlRUVWJibkNqMEsyQjVXWGhTSjNKcFhlWW85SEhnVWtoaDBPUWhSNnl3cHp6RXA0X25rbGw0Q1ZPbDloeldnTWZLY1IxdXROYklWTTg?oc=5",
       "snippet": "From eMudhra To SBI, Reliance: 5 Major Data Breaches That Exposed India’s Digital Fault Lines Outlook India",
@@ -917,10 +1247,10 @@
       "corroboratedBy": 1
     },
     {
-      "title": "PHP: What is it and why did it spark a global cyber security scramble? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1V0VTbm4wQ3BmN1hGMnNiSFRrU3FMTlNGcEV4Nzl4RVgzRk9NNjZIWXVkaWdFVElIZVRQUGdjbWZ6Wk1CUHM5djJJMGxqZVFlVjJqQ2tjUWRoZTg?oc=5",
-      "snippet": "PHP: What is it and why did it spark a global cyber security scramble? BBC",
-      "publishedAt": "2026-10-22T06:24:59.000Z",
+      "title": "eMudhra, SBI To Reliance Group: Inside 5 Major Data Breach Incidents - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkZaamFVWE50TEwtTEFWU1NSSEpkLXBWZ19wRjZkWVVENDhEVWpvZjdjOUNMQTliSDRGT2tETWw2cU04QmkzSUpEdkdpdTZZRUdZaXhSblJQbmJha3JaVkUyekVONVpzNlRUVWJibkNqMEsyQjVXWGhTSjNKcFhlWW85SEhnVWtoaDBPUWhSNnl3cHp6RXA0X25rbGw0Q1ZPbDloeldnTWZLY1IxdXROYklWTTjSAbQBQVVfeXFMUFJGWmphVVhOdExMLUxBVlNTUkhKZC1wVmdfcEY2ZFlVRDQ4RFVqb2Y3YzlDTEE5Ykg0Rk9rRE1sNnFNOEJpM0lKRHZHaXU2WUVHWWl4Um5SUG5iYWtyWlZFMnpFTjVaczZUVFViYm5DajBLMkI1V1hoU0ozSnBYZVlvOUhIZ1VraGgwT1FoUjZ5d3B6ekVwNF9ua2xsNENWT2w5aHpXZ01mS2NSMXV0TmJJVk04?oc=5",
+      "snippet": "eMudhra, SBI To Reliance Group: Inside 5 Major Data Breach Incidents Outlook India",
+      "publishedAt": "2026-10-22T06:53:29.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
