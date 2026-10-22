@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:52:33.659Z",
+  "generatedAt": "2026-10-22T05:07:53.714Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Business Recorder",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pd3hVc01aZUsxWEhPSE1ubWdtU2s2S0V1eElLdXJvSmFHVWFYZnVKNHp3cU1HckJlS1FzSUxScEd4QmxxS0JjM2t5aTNRbFdfczBGS0tB0gFWQVVfeXFMTWl3eFVzTVplSzFYSE9ITW5tZ21TazZLRXV4SUt1cm9KYUdVYVhmdUo0endxTUdyQmVLUXNJTFJwR3hCbHFLQmMza3lpM1FsV19zMEZLS0E?oc=5",
+      "snippet": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Business Recorder",
+      "publishedAt": "2026-10-21T20:53:12.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
+      "snippet": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Reuters",
+      "publishedAt": "2026-10-21T20:49:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "European Commission investigating Booking.com's handling of scams, fraud - PhocusWire",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOajV6ZXQ1NFB6LThxQjlzb09xeW9mQmpMVUpuVmJhR1FuRFRXa3RKeFdGSGwyNVJEX3p2R3lKWjBHa2ZKM0Z3QTB0b3V6b0YxOXQyUmJHM185aUJYWGpPWEtvTGxwdkxQRWJQdWpUYjRaWXN6ZzF2VzVTWDNxX0daaGVWQ2wtbEF4eGx0NWdkV0haeUV1QWxXeDNoNWVpeFlDeThz?oc=5",
       "snippet": "European Commission investigating Booking.com's handling of scams, fraud PhocusWire",
@@ -200,7 +230,7 @@
       "title": "Police Force to increase efforts to tackle cyber crimes, with special focus on financial scams and impersonations - News Source Guyana",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZkNSRG5OSFlpUVpYR1FlWEo2RXpReXlkUU1HaUNuUW1POXFfZVFfX19HQjBXQnBlVGV5S3laX2kyOHQ5bmtxUG1oWVNYQTZ1dmlQbld3ME5ZZkwtSFJWaF9pc0lLRUxsVDJoSW8weEdaWHN0Q21UcFBOLXBYSk16V0NReWlmSlZ3UkxzRDh4cEhRV05jdVdTYk4yaE9saTQ3cnJsQUxDMVBfZnZzWkNhRDVMQUdFa2pWNEtqZzVtQ1hKWjI5aDR2ZmROYm03d3JXS2tTZjBvWTJvM1k?oc=5",
       "snippet": "Police Force to increase efforts to tackle cyber crimes, with special focus on financial scams and impersonations News Source Guyana",
-      "publishedAt": "2026-10-21T19:30:33.000Z",
+      "publishedAt": "2026-10-21T19:32:34.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -208,6 +238,21 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DILG leads ASEAN talks to strengthen fight against cybercrime, online scams - The Chronicle PH",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnFUbG9xUEx3MnRFcGN3YTlvUGVRdkw4WlVyNnkwT2kySko4Xy1pQnYwQkxwX1ZSbG4tVkZuM3BsSGF3MHdVLWY0eTdTUDFReVNLeUVKVGhIRU4xdHUzY1RtaUJpbjVwY3paLXBxNjdFWDJBalIwNGdDYmtFRHA4N1U2Sl9WbE1PYURodUJBT1NUU3pFRExyQndxT1JDbnFka0JWUW1B?oc=5",
+      "snippet": "DILG leads ASEAN talks to strengthen fight against cybercrime, online scams The Chronicle PH",
+      "publishedAt": "2026-10-21T23:17:13.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

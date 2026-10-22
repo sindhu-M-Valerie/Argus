@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:52:33.659Z",
+  "generatedAt": "2026-10-22T05:07:53.714Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-22 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "India slams UN rapporteur over alleged bias in counter-terror report, affirms Dawood Ibrahim in Pakistan - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb2k2MFVHcjFMUnEydkdOT0wtdFZyMTJ3TWZ5ZFhINHl2czBZVjBhOEZEdnJoVGFxa3c1akI1QmpUcjVpZkFYOEU2aGkxZllUSEVGb3pFU0h1emk2NXdLVlpFTGFBQUJjX1hRUzFFT1pfcF9JWlpyUFRHaUhycExIZjF3aDFDZlV3enhrWjhIaDlfeTEzREhBYzY5SDltdm43UllZVkJpNUJ3TC1mNzNMdU1WeVJFbFR6RjNUOTdvYWVwR0dfcE9LeU13U1FEUnRQa0hQRXUzR1ptaFVBcndkS0RwVWxjcUdxdVHSAfcBQVVfeXFMTlVtYjJsT1VyUEJPNFVyM2EzdUxoeUo2TlBfUlVFUEVZRlgwV3VHQkVkSm01R2kteExzRWtPM0pNX2xUWG1rWnJEaGU5NzN4R3p3bnJOSzJZaGVBZ2N0VUJBdzY3V2ZCbi1mRUxfLUZlNThxWGNKZnUzXzRrYTJjSmxHZXRXMnlYOHRVa2ZlUW5YVkpKMWlJYUlHUUhKOF8zeWZHdnFsOFZ2TDIzc1F3LWJmQ1hIWEV1Zk45QWtZSjR1ZHV3WFZXVC1EdE9yQjZKcFpsT1B5al9WOUZhMk11bW0tZ0hXSU11UHNad3BHRExWLWNDajcyQQ?oc=5",
+      "snippet": "India slams UN rapporteur over alleged bias in counter-terror report, affirms Dawood Ibrahim in Pakistan The New Indian Express",
+      "publishedAt": "2026-10-22T03:48:37.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:52:33.659Z",
+  "generatedAt": "2026-10-22T05:07:53.714Z",
   "snapshot": true,
   "date": "2026-10-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 103
+    "total": 105
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -235,21 +235,6 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "live-feed",
-      "feedTheme": "fraud-impersonation",
-      "riskScore": 60,
-      "confidence": "Medium",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
-      "snippet": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings Reuters",
-      "publishedAt": "2026-10-21T11:04:18.000Z",
-      "source": "Google News • Fraud and Impersonation",
-      "theme": "fraud-impersonation",
-      "type": "News",
-      "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
       "confidence": "Medium",
@@ -392,6 +377,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Firefighter Charged In Middlesex Co. Child Exploitation Case - Patch",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU245M1VKVFFMd3JIMmtpeU5lT3drVTluV0dfYW1TWF9sNWR3d1hvNU5SNWRjaGVRX0RXb3lwODV1Q2NERHhid3pTQVJBenljTHNDaXc0bzBCR3FYWFJiQlhTQ0ExUWxjNVdzV19LYWtuVjZpdHpad2RPRXJtWUwzV19tamFnTHFYaHRLRkFDajNFUlBacXVKRTJBZlRVOGRZbFHSAbcBQVVfeXFMTlpIMTBhcFFHbnZJTzdzdE1MVmZIa2oxbUxwM19Gc2lvbjkxUGFJaUM3SjhQbFBocmFtSjZHWlFFbEVjbnVaOC1WVFpnVmlxajJGMk50M0ljbVhOdTctVHBPQV8wSVJPMGlhWmE5UDVsSFU2WGdwR1RhLWRvTUZ5TUdwT29SYnJQSDR4dl96TklkV1h4YlpSYklvdWRBblVQRXZlTkRyUHdaQ1dDeWJoaXJyRmdvT293?oc=5",
+      "snippet": "Firefighter Charged In Middlesex Co. Child Exploitation Case Patch",
+      "publishedAt": "2026-10-21T13:24:59.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Kosovo’s Ministry of Internal Affairs reaffirms commitment to preventing and combating human trafficking - KosovaPress",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTM0U0EwQnkzOF9zMlBSbVRfVDZmV0daZDZycVVQdWFmVk9rc3J6eEY4N3J6dFFPcEs3R2VCTlBPeVJ3cWRLV1VCWm56MHBEMjFSN0xzbFREVkw4czRfa2pDRmh5Znp3NDZOdGY1ZWpFWDcwdVFid01ZbVRuQmdJNkg2aE12aUNPR09GM1hiRUdlblVScVJWakpqZlVHZWlTUVhvR1l2c3JuRGRtM2Y4X2tKNzJaMHRDLXZWWnY1NlF3azltVkprb0kxVmJBZ0lGUkZFTQ?oc=5",
       "snippet": "Kosovo’s Ministry of Internal Affairs reaffirms commitment to preventing and combating human trafficking KosovaPress",
@@ -430,6 +430,21 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Trump to Announce Crypto Scam Crackdown as FBI Targets Fraud Networks - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2x2SDVKYWdrRlFULW8tenJjYWJlZ2tseGxPZ2lYYS04Wk1xMlVBR1lnSTdpUW5fYnY5UThwd0ZpalM3MDNpVG5Ia09HVWxKaVNtTFBHZlUzNkR1Wm5Fam1SX1A1Z0NNUG10dG5maG5EdWViN0F2V01sdUgyLVFXMG1ueXBXUFR2Z2pIbTVCMnU5d1lvcE9YUURJQVZpUnlmSjg4cFlKWE5TOE9UeXVMekhkZzUtWU5FbHNNOWx6U0JuYVl4NFI4?oc=5",
+      "snippet": "Trump to Announce Crypto Scam Crackdown as FBI Targets Fraud Networks TradingView",
+      "publishedAt": "2026-10-21T12:59:12.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
@@ -797,21 +812,6 @@
       "corroboratedBy": 1
     },
     {
-      "title": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web - CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUk4ydEZBOFlMS1JEWEY3WkdxWTNyLVRHaE94WHhOa2VWXzc5aTR3QWhvRFJUZWkxYWliLUc2ekRtV2d1S2dtaVRXeExBTWo2aHRTdmJKdk4tUVdzSWRVYzh1OW9zZ9IBa0FVX3lxTE9zT0ZUQXhkSGZ2TzE0WDBad1lVRXhDYzE0RUpva19oNURhRjJtU1l4SDliUWxlR0JMZ1h0VFJOdXFiS0owMUpPMDVCM1IwV1R1M3VSYzM5RHlhcVNDbDcyMjRubF9tVjlzN0ww?oc=5",
-      "snippet": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web CyberSecurityNews",
-      "publishedAt": "2026-10-21T06:19:50.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 48,
-      "confidence": "Medium",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "SBI Data Leak: Hacker Group Claims Access To 3.8 Lakh Records - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHROWV8xdjh4ZloxQ0U4U0pLVTRwcUwxMkthenRXQ0pWREJrRjZvc1I4WklOejZUbzhUWkRKYUNGdXVsa19nNEw2eEJqX2NHNVlpeS0zLUVrTGpsSTZIcG5jdGo3OHRaV3cxWjBIa0wwRWVXYnlKV3Job0FJdnh0azZ0S0V1MG1nUFBRUmsxaDJEQVFhNHNFakdCRFBkcnZDTk9pNlp4b200XzZLbTVtZGhqam5PUDh3?oc=5",
       "snippet": "SBI Data Leak: Hacker Group Claims Access To 3.8 Lakh Records TradingView",
@@ -905,7 +905,7 @@
       "title": "105 US Lawmakers Urge FBI to Investigate Alleged Illinois Hindu Temple Attack as Hate Crime - INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE81c3dQT095dnRRUGV6eUpaclNqT2h3OThVSzV3eDNzc0tabVNQWE5MbnJyYXo4a2QwYzREUGpwUDNKOWVGUFZqWkN3Q21LMjMxQmhTSmVQNjZCUXFpTmRSZFBIOHJwM2JDVzBwamhoclVxMl9PSU9MUTBYVnVyR1dsRVRLSlNfX2RMZHhCYVpNNHY5Y3JUWTVmUUFuSVltcVVoQU05amEtVGg0US1Qb3prV3liSldyREhaSQ?oc=5",
       "snippet": "105 US Lawmakers Urge FBI to Investigate Alleged Illinois Hindu Temple Attack as Hate Crime INDIA New England News",
-      "publishedAt": "2026-10-21T16:40:05.000Z",
+      "publishedAt": "2026-10-21T16:43:06.000Z",
       "source": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
@@ -956,6 +956,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pakistani authorities arrest man accused in $126m US postage fraud - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTBUSnYxRHFLMkx2U2NxRzVZN2RpaEFneklMVzUyMlBHcUZDZmZZVkNhZ3Z5MG8xbjh2VnZpNkFwZGJaUEJmX1V6V3l2ZDZfLUZfNlFKaF9yYWhWY1NqUWg5cU1aMVF6WUlLVEVnVWdCUTh6cEdBMGlBWndUY0tocUFlOWhjM0JsNE54NVFnME9EQ2ZsWFB4ZWhNRGh3OGFaZkMxSWp2SHNPcUHSAbABQVVfeXFMTXAxUEVxNVRhSjVVa2sxM291c0gzdi01dkR3UGwtNmtLZEN0bXBSUG1rLXlaVkZsNktqc0xvQnd4Qi1nelFPTVdRSkhyZnZ5NTNvNkJMTm5vNE4xNWZCbzRLSllkV1pHNnI3TTByZEpvQTZCc2h5cWppOFhxX0lEdXJ5Z1NaM2VtcldtQkhpaUpURk9SWjVmZUppY09RYmk5ME5Nd0tLRDdhRlBEQjlEdlM?oc=5",
+      "snippet": "Pakistani authorities arrest man accused in $126m US postage fraud Al Jazeera",
+      "publishedAt": "2026-10-21T13:26:58.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -1159,6 +1174,21 @@
     {
       "title": "Krishnamoorthi leads call for FBI to probe Aurora temple plot as hate crime, flags rising racism - Firstpost",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYVNIZndURzc2TWtPZ3ExSjJpOEhsQTBoeWIwLUNuZURmRmRsb3h0V2pGcTlkNktTdGMxcUt0NVZGckZ0MV9jNVRQNlhYVy1YVl84NWhGY2NoSTB0ZjR6S19UM0hKU05PNzhEeHlLMUFFVUlWX1lad3ptVjU5R083QlhkMlllbTRQSTE5Ql9lSGxpNDA5aVEwa1libEwyc2lVWXRXZHcxeXh0eXhsMWtlYWlmVXJtZmwzTVZ1M3E0VzltVzZlUm8tSFNzUVRiQnB6NTJvb01LZ0pmUFd3SUNQbWxnSG9pMXU5bUxNX3BabmQ4RnNIWHR4VU04QWJLRzNPVUd2cVJmU2hQRTE5a0HSAY4CQVVfeXFMUGFTSGZ3VEc3Nk1rT2dxMUoyaThIbEEwaHliMC1DbmVEZkZkbG94dFdqRnE5ZDZLU3RjMXFLdDVWRnJGdDFfYzVUUDZYWFctWFZfODVoRmNjaEkwdGY0ektfVDNISlNOTzc4RHh5SzFBRVVJVl9ZWnd6bVY1OUdPN0JYZDJZZW00UEkxOUJfZUhsaTQwOWlRMGtZYmxMMnNpVVl0V2R3MXl4dHl4bDFrZWFpZlVybWZsM01WdTNxNFc5bVc2ZVJvLUhTc1FUYkJwejUyb29NS2dKZlBXd0lDUG1sZ0hvaTF1OW1MTV9wWm5kOEZzSFh0eFVNOEFiS0czT1VHdnFSZlNoUEUxOWtB?oc=5",
+      "snippet": "Krishnamoorthi leads call for FBI to probe Aurora temple plot as hate crime, flags rising racism Firstpost",
+      "publishedAt": "2026-10-21T07:04:17.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Krishnamoorthi leads call for FBI to probe Aurora temple plot as hate crime, flags rising racism - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORzd3RkhUMFVqUEVoT1NXeGVjd203WEo0dzQ0OXJIcEZ6T2lLaVIzd2JzSHNsME5nQVVWNXk3VkkyWHA0Q1dYVEowSzkyYnhueEh5Z0tSajBfa1o2YU42ZFBkeVcxR1NERmpEX1NUSlNOQWt5eEtWbkNpNk43LVdFQktkMDE0dHF6R2Eya3dRc1h4QjRYZjJZRWdWT2Y2Zmo5QnhqNDJvbUFUd3pILVFYMThKeWQwQ2hWWUhRVEJYMlRvODJjQ1FmVUVTeUpvZGJvTzNkenhBcHJNV1RkTVV4Nk52LWNNOF9GZWM0MFhDZXRka3BHRnBpMEJmS3JGbEJTaFNBRXg0SXfSAY4CQVVfeXFMUGFTSGZ3VEc3Nk1rT2dxMUoyaThIbEEwaHliMC1DbmVEZkZkbG94dFdqRnE5ZDZLU3RjMXFLdDVWRnJGdDFfYzVUUDZYWFctWFZfODVoRmNjaEkwdGY0ektfVDNISlNOTzc4RHh5SzFBRVVJVl9ZWnd6bVY1OUdPN0JYZDJZZW00UEkxOUJfZUhsaTQwOWlRMGtZYmxMMnNpVVl0V2R3MXl4dHl4bDFrZWFpZlVybWZsM01WdTNxNFc5bVc2ZVJvLUhTc1FUYkJwejUyb29NS2dKZlBXd0lDUG1sZ0hvaTF1OW1MTV9wWm5kOEZzSFh0eFVNOEFiS0czT1VHdnFSZlNoUEUxOWtB?oc=5",
       "snippet": "Krishnamoorthi leads call for FBI to probe Aurora temple plot as hate crime, flags rising racism Firstpost",
       "publishedAt": "2026-10-21T07:04:17.000Z",
       "source": "Google News • Online Hate (India)",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:52:33.659Z",
+  "generatedAt": "2026-10-22T05:07:53.714Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 5
   },
-  "message": "No verified news was found for 2026-10-22 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -180,5 +180,81 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Railway Security Incident: Hackers May Have Accessed Customer Environment Variables - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FOGRoSnBzZGVicnRUVmNQd2ljRGJhSWwtM1Z3Z1BDQUhxVHRoYVV0QnBnV0hKTlJwdmhoQTBCRWdod2lPS2dZYnU4SGdRd3FFSEtyaVpWX01mWXRuLWZ2R0ZENjgtN0nSAWxBVV95cUxQaGliWXVTdnRTYXdQQ0QtUU13SXM3Y2tBYktnZUlzWkozR0p0N0dJX2JaaTE5R21UdjZOS3gwa2pSbU5ZTm16MVlrd0lvRFN4N19oTkx4NFJLNWl6eWttZ2RiXzhBUDZWZVJ0a1E?oc=5",
+      "snippet": "Railway Security Incident: Hackers May Have Accessed Customer Environment Variables CyberSecurityNews",
+      "publishedAt": "2026-10-22T03:05:23.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUk4ydEZBOFlMS1JEWEY3WkdxWTNyLVRHaE94WHhOa2VWXzc5aTR3QWhvRFJUZWkxYWliLUc2ekRtV2d1S2dtaVRXeExBTWo2aHRTdmJKdk4tUVdzSWRVYzh1OW9zZ9IBa0FVX3lxTE9zT0ZUQXhkSGZ2TzE0WDBad1lVRXhDYzE0RUpva19oNURhRjJtU1l4SDliUWxlR0JMZ1h0VFJOdXFiS0owMUpPMDVCM1IwV1R1M3VSYzM5RHlhcVNDbDcyMjRubF9tVjlzN0ww?oc=5",
+      "snippet": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web CyberSecurityNews",
+      "publishedAt": "2026-10-22T02:37:02.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI Data Leak Explained: What Happened, What Customers Should Know and How Banks Can Prevent It - Convergence Now",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX3lwWEIxMDhkdXBQTEpGOU5uaHJxbVhXMlBUSHUzRXdFLTFIaGhySmJPTlQzanRSNkVfV1l5ODg0ZjdzRmI0YXFMOUNZQ3phaVhCdVRISkp3eWx1Nm9xQ1VjRGQ3QWVwYURlUDBEaG9vS21ZYm1yNFdNNXJvcFhUdkZ0U2sxdUlWR0VYMUFuZ3g2NFFjN0RQcXBObGZVVWFHWjBfankycGdGbDhlQy1rZlN5cVFEU25haVNtcVF5endaNWlFNDZDcWRPUVRUUnhWZFZn?oc=5",
+      "snippet": "SBI Data Leak Explained: What Happened, What Customers Should Know and How Banks Can Prevent It Convergence Now",
+      "publishedAt": "2026-10-22T04:52:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI Confirms Data Leak Exposing Personal Details of 3897 Customers - NewsBricks",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWF1R1psbzh1WG9kRlBETm1EYnUzU0xmQjNpalVOR0VXV0VXcUhMMHY1MS1XQ0F5YzY5VHZxV2htanRlam5Rd04zdEoxWWU4NldoT3lYR3dQVWpaaXJTZFBlTG0wRjNGa09wX21OcVA4YUlMY21jZmozcERnclEyV0hnOFNsMHRiSFE?oc=5",
+      "snippet": "SBI Confirms Data Leak Exposing Personal Details of 3897 Customers NewsBricks",
+      "publishedAt": "2026-10-22T04:25:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PHP: What is it and why did it spark a global cyber security scramble? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZUtSMjJXTVRua3RfMlFwcDV2VS00Z2JtZVM4eGlaNkdlMlJCVlM5ZmJFR05LS2tEUURxdHhGYXptVGNMQXM4RmZsalBWSGsyUWlVanZmYWRabXhUTHc?oc=5",
+      "snippet": "PHP: What is it and why did it spark a global cyber security scramble? BBC",
+      "publishedAt": "2026-10-22T03:48:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
