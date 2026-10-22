@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:26:20.204Z",
+  "generatedAt": "2026-10-22T21:48:49.719Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -193,6 +193,36 @@
       "feedTheme": "violent-speech",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australian teen threatens to blow up Indian neighbours, charged with hate crime - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTEdHRndDTFF6bGV2LXhHTWp0SW1jaVRBejkwaFYyaVA0OXRkSUJoM2piTENOSXR6WEpZbFZaZjVLdTRHNm1UakI3LVBydUZKSEVoQVhUTERBOG1GVUpkeXpwYVgyTzh1eFF2TU5XU1NvU1Q4cTdwRS1jUE1jNUFJWGFXSzNvODdVaXQ5WDdoSjNlMTNMX3ZCR1hoeV9xd0JzeWlKcWJwQkRTMHRsTnBuNHpoNzY1dTFaNTA2cWVJVm9zRlRhcVpNS0lodVBuazVEZlJJSGFFNNIB1wFBVV95cUxQTEdHRndDTFF6bGV2LXhHTWp0SW1jaVRBejkwaFYyaVA0OXRkSUJoM2piTENOSXR6WEpZbFZaZjVLdTRHNm1UakI3LVBydUZKSEVoQVhUTERBOG1GVUpkeXpwYVgyTzh1eFF2TU5XU1NvU1Q4cTdwRS1jUE1jNUFJWGFXSzNvODdVaXQ5WDdoSjNlMTNMX3ZCR1hoeV9xd0JzeWlKcWJwQkRTMHRsTnBuNHpoNzY1dTFaNTA2cWVJVm9zRlRhcVpNS0lodVBuazVEZlJJSGFFNA?oc=5",
+      "snippet": "Australian teen threatens to blow up Indian neighbours, charged with hate crime India Today",
+      "publishedAt": "2026-10-22T06:25:16.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hindu temple hate crime probe sought by US House India Caucus over Illinois shooting plot - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXlyY293cTJxWm9WR2pQQllZeDNLVXhpVmZkWXFDNll5NlNoVWM4VFRCazhGUTE3WjFTSzI3dThTb2NyUjkwWmxkQjhmQWNuRVZwWDZZQUtkTXFtX3JFcWl2VVg5R1VxNUpKOTd0Um5wYzZOQW5rRG9CWHRfRjF0RXdoR20tX21oTk1GNExCS25McHdwTUYzRUhaOEJkbmRuVl9Jc2ZUbWs5VWxGNHhWRQ?oc=5",
+      "snippet": "Hindu temple hate crime probe sought by US House India Caucus over Illinois shooting plot Goodreturns",
+      "publishedAt": "2026-10-22T05:00:59.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

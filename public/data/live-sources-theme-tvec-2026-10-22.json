@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:26:20.204Z",
+  "generatedAt": "2026-10-22T21:48:49.719Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -192,6 +192,36 @@
       "provenance": "historical-archive",
       "feedTheme": "tvec",
       "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PM Modi, Polish counterpart Tusk condemn terrorism and violent extremism - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlJ1bnB1WTVuV0N6eGVDNjd4LUk1U01hbXN3OVYtQ0RfZWYwcjJLODYzSE5JTURoZmNvYWxGNXJuWnpsSGJqRVJjeURMQXZGamR4SDM4SkkyelNrYmViWENLa201cW9tUzJQS25mVEFOejl1MUxRNHkzbDQ2S2MzbklMT003MlNuc1dFUUNvU1dVQUpkcnVlUEFGLWl4Q25Kb1RNMzZvWWM0TmJFRUpyUWNn0gG2AUFVX3lxTE9EZEpIYnJaUk9LZGhDdzh1ZkhEMmtWMVdPYjJNcWdWdnY5U1JoazdwTTl0am1TVnhFa2FEYlRfdXkyUVZQZWtEMnNORFJOZGhaQVBTR2JiTFlPM2ZOMnJGdEhfMFVJS1F3VUFZdi1XTjFXWWEzeEZjSUN6VXVTZEdvcW1FMW9ZZVRqSWRRYmhUc2VxSmdSQkYwV3VHamJQSTg3V1I4dmFoS1pqcHY1Z0NJX1Y1NGJn?oc=5",
+      "snippet": "PM Modi, Polish counterpart Tusk condemn terrorism and violent extremism The Tribune",
+      "publishedAt": "2026-10-22T13:22:15.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Argentina designates 5 Latin American criminal and guerrilla groups as terrorist organizations - Jacksonville Journal-Courier",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN0JvYTBpX29Zc3Y5M2Z6dnN2dDlIa3JWTHNkUHBkZmxSQWNqNkc5RTVMNzVpXzhMV2xnRzUxZkhNalYyemU1d1dYZGx5Q1h6QU5pdGUxWkFscXl6cUdpSDZPQ0MxZjlPWlh0MFhic215LXdFWHM0RVdhd01sbHNSMUp6WXBrbXhrTTBmUGVnMG55M0ZGY2JnZXp4a0tQZV8yM0ZiNmV3Q3hPdW1jb0RHcQ?oc=5",
+      "snippet": "Argentina designates 5 Latin American criminal and guerrilla groups as terrorist organizations Jacksonville Journal-Courier",
+      "publishedAt": "2026-10-22T17:45:51.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1

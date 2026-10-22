@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:26:20.204Z",
+  "generatedAt": "2026-10-22T21:48:49.719Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 20
+    "total": 21
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -185,7 +185,7 @@
       "title": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection - GBHackers News",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fQzVsLU9SaHJtdWJKTUNXMW5FbzJtQ3BJZ2E2WmVieFRJclQwMnphVkp4aXZjMjJVSDRIZXlzNmFEQUo0ZlZrYnYxUVc3VTVXd1Y5dGxrUklDVmVSQVdVTkpLT1dEN2fSAWxBVV95cUxNQ01ydkdRbUNqTTZsSThFZk9rWHZYdTkwYjduYmhtMGRhT0VlNVFQQXFRdjEtdXJqZnBkb0NHdE5YcHQySG43TTRaSEZ2d29ySjZJOEFBeVpsVnVOTVRjT1I0N0NWQUpTNnNEXzM?oc=5",
       "snippet": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection GBHackers News",
-      "publishedAt": "2026-10-22T12:12:26.000Z",
+      "publishedAt": "2026-10-22T14:15:57.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -401,6 +401,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Thailand Urges China to Ease Scam-Focused Travel Warning - https://www.thetraveler.org/",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTNhOWxuVnU3MTg0SGJ3WTZQb2doeUl2QlVXQlVSWGtMZ0pTRkc2UzlIVG9GUEJGaEVEZWpJRncwTlR5NUNkOGZCbWFjdnN3M3dNbkRhbFg2MlE0N2ZkN1I1NlJMendCd2RBMkRsbG5pNHJfU09DSGxmSS1mdXZPS1MyTnQ1TFdoTzl0RW5n?oc=5",
+      "snippet": "Thailand Urges China to Ease Scam-Focused Travel Warning https://www.thetraveler.org/",
+      "publishedAt": "2026-10-22T06:51:02.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

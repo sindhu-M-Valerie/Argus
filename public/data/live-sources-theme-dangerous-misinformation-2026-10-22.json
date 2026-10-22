@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:26:20.204Z",
+  "generatedAt": "2026-10-22T21:48:49.719Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 13
+    "total": 14
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -253,6 +253,21 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Rahul Gandhi attends Dussehra celebrations in 2026? No, video from 2024 goes viral - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXhmU19KU1p5UDN4b0NHN3hUeG8xSVhNZFVUTUN5dGNydTlLSzB5am5mVldwZDU4ZkJiZVluLVZBWlBSTkdRMVo0WmNsTmxSNXNBZHoyTEpzakV0Sm01cXl4V0pQcTlNUjA3R1FpRjE0TmVvV3V4WUpTX0h1LXQ4a0RXSmFVMzhwZ3IwX2F0V3Q0LXRxNExMQ3QtcGFDX05WcjR2a1JxcW1JOXcxaTFVT1FrOTNiS2tRcV8tUWhIaklwZ2hvVENyTzdB?oc=5",
+      "snippet": "Fact Check: Rahul Gandhi attends Dussehra celebrations in 2026? No, video from 2024 goes viral NewsMeter",
+      "publishedAt": "2026-10-22T16:14:34.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

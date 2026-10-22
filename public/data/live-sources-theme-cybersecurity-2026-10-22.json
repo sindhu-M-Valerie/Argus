@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:26:20.204Z",
+  "generatedAt": "2026-10-22T21:48:49.719Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 22
+    "total": 29
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -242,6 +242,81 @@
       "corroboratedBy": 1
     },
     {
+      "title": "SBI customer data leak to PHP flaw: Major cybersecurity incidents raise alarm - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNGdqcDQ5QWY3bUNzTzM0aU5iaFpENDVlZVRfd0NtUVRzV2JwSlhJYl9mcWlPRVlPZXdaOFQ0OE82QW9jSEw3QnBXV3N1ckl1b0xvcUpKOTVEYTlkUm55UnZISnJQLXdSTU1LZkVPWmhldi1SbmtudTJwVl9Tc1BDaUJrS3hReVZnS0JRM0lULW1Ic29lQTZublRuUzVpZXl0ZWI5bUl5Q3lUZVAzSXNKYU96bHNwSEpxaFJxZ1gyZDQzY1RVQzVSbS1Bc27SAdIBQVVfeXFMTkZEaG1uajlfZExQUi0wcFZOUllDZlptZ2pyWUtmejNWaVlJUGdaZUgwdlJLUmktSlVjN2NKN3NQazk0c25WSHNNRFpxUWFuYlBxTGZ2LXZVRXREQVZzcWhack9pZnVOR2dWa19hcXNrbHlHcmdRa19GU0IycEdaSkZfc3lQblNLcjFxMGcwRUdEVGJuWkhRbEgycVhhRjFVZ0JSMGYyNXVyZzg1TTVOR3Z5cWYzOTNKcWZkTmJaNF8wNHhCVWZBNFUtRW9mUWZPVHlR?oc=5",
+      "snippet": "SBI customer data leak to PHP flaw: Major cybersecurity incidents raise alarm CNBC TV18",
+      "publishedAt": "2026-10-22T07:29:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SafeVoice data breach may expose personal information tied to Nevada school safety tips - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc1V5bjRhVkdhVVdnLXB2U25oX19pWjI2T0ZsSmR5OUhPZ1l4YlJzQXhIUmFxUG15X2w0cGVmaDVKZjViQl96TTA0WTRYZl9wQUpPUXotdjEteVNvYl9RUURBOElvTzR2alB5UjJnejNZbzJGQlI0NlRVQ3E1S01PenladUFzZnYxTUJlQ3dUbWhJU2l3a2ZmOFE3WHVFM3hMdEp6S2ZNNzE3bjZaYlFzYkgwc1VoRE8wMm02QzJVTUdOUTB4V1NseGdScGFzd1RFVzR2cWJYT29xemVZZHNjR1lKN3dLNDlzbUJvY3pOdEx6d01WME14Tnd5N1FOSVk?oc=5",
+      "snippet": "SafeVoice data breach may expose personal information tied to Nevada school safety tips KTVN",
+      "publishedAt": "2026-10-22T17:47:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LTUx5Z3NyUXdFVHJ0SENOX0NFcW5WZHpVREdJUHdqaWZFMWRodUNUSUIxOXNwcE1ZU3Z1VUwyYmFjcl9zemN3M2drVE5GSkNuamFOczhKeW1JX1RLRVFJbG1ac2N6bFJiTE9USElSYjJwOUdxSmx3dXNWMkFHdw?oc=5",
+      "snippet": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More The Hacker News",
+      "publishedAt": "2026-10-22T17:45:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGNwTHJqaG4wZzBMSkQ4OVI3dzVxaVZacnhIMklDb2VuWTc5U2hfZlhpS1RaZlk1Y0JwTUppZjdtUVh0RzE5NDJ3cHN4TTZZa1M5ZXZ0STlBMlVrT0RmRWJ5WHRENExjMVNnOVBmMUMxY3Jrbkt3bXdyTXJaU2ZOcDIwXzJUU3JrNGV3QXRrcDFKU0pCdVFlTm8xU252LUZ3bHFxSzl3ZTFJeG12Yzg2eGpfOW85Qm9F?oc=5",
+      "snippet": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack TechCrunch",
+      "publishedAt": "2026-10-22T14:03:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Capcom Data Breach: 11.77M CAPCOM ID Records [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpTmw1akhGcVhRM3N5eEJkMWJtTTl0eG1LTVBIQ2ktRGI1M1JMYzBNWlBkZnYwVFE2SDlETkJlTEZQaU5wNFA2NlZyVVpQSy0xMzNqMk00MWhXaWdyQTBtTFMxWW81ZGVpUngwS0dOS3VfT2QwS0MzTUVHTQ?oc=5",
+      "snippet": "Capcom Data Breach: 11.77M CAPCOM ID Records [2026] shattered.io",
+      "publishedAt": "2026-10-22T13:52:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "eMudhra Shares Crash 35% in a Week: Cybersecurity Scare Sends Stock Near 52-Week Low - India Infoline",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOejQxQTRZc3VQV2RTRWZfODMzV2JEVjJkU3M0ZzdXUjF1a1hTbEFCRlNFZnR6VF85SERsQWU1cm9mUU5qWVRkVHEzY0JlVXdQNTNJMG5MZ3kzYV83LWZxMVJQMUlBMjRrRk1WbXRNbEdKaXVWcHQwUjVUM0dtTlQ4QUQ5d1NBVkY2ZHdJOUVNWUY4Qm5LTXpvTTZBY04zXzZidjQ0NWxrb1NteXFqU1VjMU9QS20yUGUxVU82cS16UjdxX1ViVmc?oc=5",
       "snippet": "eMudhra Shares Crash 35% in a Week: Cybersecurity Scare Sends Stock Near 52-Week Low India Infoline",
@@ -276,6 +351,21 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzBJN05aNkw3dUxEcmd5X2prT3h5blUtdWdtSkNGdU0xNnFIcXJMVGlscXdfX2FXZkc1ck5FSXU4NkhTQjItR2Y4a3pEQ2p0LUViX0hKSkZpNE0yVVEySWI1QjNrTFlKcUk4QmJEbXU1dzc5eURYTkQyMWpsXzVlSjVzQmxuM2I1cm83cURyMVhBaWVZR1pDQWpHQTN5THAxMExOOGhKMEJpcUxJODRab3cwbDE0UQ?oc=5",
       "snippet": "The WISP Compliance Gap: Why CPA Firms Need More Than a Written Cybersecurity Plan World Business Outlook",
       "publishedAt": "2026-10-22T11:18:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Plant Malware on Onamae.com Cloud Servers, 26,739 Systems Potentially Affected - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00dnYtcFJpMWxpRE5WMDhGYVZDdTFZeFQzUlJxRVVkX0Z4UTRRYTBCN1V2cGlQV1NLVFhpOHgtdUJsMDU0QlFzNl9BZTJpS1Bya3FrYkptdTJTaGvSAWBBVV95cUxPMUcwNkNLdTRaS2x1c2FUaE14UmlTd2c3bjFzZ2VsSjhlU2pFeWNNenZWU0FCQTFVM2lGR3Q4cy05cm1SVXlPMFlJUHRKLXB5UFVMMkF5VlNza2pkTDRzTXY?oc=5",
+      "snippet": "Hackers Plant Malware on Onamae.com Cloud Servers, 26,739 Systems Potentially Affected GBHackers News",
+      "publishedAt": "2026-10-22T11:17:01.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -336,6 +426,21 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0Y0S1JPNWRSV0c3SWNEWXlQT3FqeGJaUDJOUE1zdEZ3Q0gwRVVHb2VpeFcyZFZfTmtqMVFpUWd5cmRnRFkzNi1Pa2QtYXZfTFdyZjhlRHgwWXpIVHRUN2RGeEdtYnNGZEtEN0dITFdWWFI0RjFOdjN6TDAtMEZEV3B3QlZudFVBR0ZBcTRsU2ZJM1E?oc=5",
       "snippet": "Max Messenger: A fake data breach with genuine consequences? Barracuda Networks Blog",
       "publishedAt": "2026-10-22T10:10:38.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI data breach: How the bank discovered the leak and what followed - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3VoRnZSQ1FyS1ZYZVNXV0pVQW5welpJV1gwU2Y5T09VSVJVRThUazBaTUJvUDRNb1QyWm9OZlRBVHc2Ums5bFJtM0I5MXJIaVg3RHRlVFpwVndBcU0xSTVlVGtQSE1SZGtfb0tDZWZDNjZULU1wUW5sMnc2LURKTTVtd2NRT0tfb3N1YjdvQjlMNDhPOHZaWHR0SUdaVGpVazlGX1RaS0RHcVp0RnlwSWZsWjM5SUtjNWNJLXRxR045d0V0a2RFdNIBzwFBVV95cUxPYW1ENEIycGhaaWw1ZURhbDZ4TlY4TTN4bFctME96VzFrWl9UWEpNTC1nNUVZWXhUdWhEcXVaZHFicVZnR05fQVBFdmtCWnRqeTNkRUJPZ0NHWEtyTzUwOXVzanNzWGJoS2NoRW9DSm9hZkNabUJ3TUlaS05yWWVSZkprY3doYmd6OHloQkR1OVVvOTZKRE03eFo3TmlGZ0NQWWVLQnFWU2ZCbVBDbS1GLUlqQ1BQVDJjQ0pxY2ZYNi1EMVhkUHVwVnZudGNPOTg?oc=5",
+      "snippet": "SBI data breach: How the bank discovered the leak and what followed The Hindu",
+      "publishedAt": "2026-10-22T10:08:29.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
