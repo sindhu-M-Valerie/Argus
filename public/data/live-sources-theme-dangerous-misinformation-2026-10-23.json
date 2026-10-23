@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:48:49.719Z",
+  "generatedAt": "2026-10-23T05:07:36.900Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 76
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "AI chatbot falsely labels Delhi protest photo as old, fuels misinformation - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tTzRfdUxWOFMxZHBlSi1VQkhMMnFCVGV0SXRHa0F3dHRtTmMxd0E5U0l3STBpRmhaOUZpVklmXzlHR0ducWFNUUhMaGd1eURqZE5iOU1vXzE?oc=5",
+      "snippet": "AI chatbot falsely labels Delhi protest photo as old, fuels misinformation AFP Fact Check",
+      "publishedAt": "2026-10-23T00:35:25.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check by Telugu Post: Viral Image of Hisar Police Kicking Woman Is AI-Generated - The South India Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmQwZTRwcDc1aVZyb0JzRTMydnpmQ1FpS096SDd2ZlFSdm1MOGhrVl9xWW9uU0hydW11SWh3cUdXQXFYRjZfc193dXhRSnN5QjJsSzRtY0hmRlhzYld3UWpnWU5xT3ZOUExBVnZQbGVuaV95VUNIbFZKbVB6MjVaYlJ2dWkwTThFZVdqOEFuTDFYQnluZ3U0WjhHalE2bURtRE5KREJPaXhmdG5WcklhVVA1dzJSdzZRbVJvRmhwYlBJQQ?oc=5",
+      "snippet": "Fact Check by Telugu Post: Viral Image of Hisar Police Kicking Woman Is AI-Generated The South India Times",
+      "publishedAt": "2026-10-23T04:24:18.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Japan urges social media platforms to curb misinformation in elections - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjJySHlHdUZwblY5VXJyR2ZIN3J5a3pIMDg0ekhqTU1CeUNMcDYtMy1tT1Bjb3BYRm43MkZ3bWtGS0ZXNWphNUtYUHJ4Q1VDTzlCMjM5MktpMlY1a1RvSUlVVFVtZUZJeWZCUnNSWjhIVzcyaEVkQlFaV25naDdETFR1MWtOM0VpQXBhYV9DWlI0R25IWG5CR2dkdGozakxjUWtCNFJR?oc=5",
+      "snippet": "Japan urges social media platforms to curb misinformation in elections Nikkei Asia",
+      "publishedAt": "2026-10-23T04:11:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "SMA drug trial controversy: Health Department examines circumstances; hospital says misinformation is being spread - Kerala Kaumudi",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1J5N3NRLWliU09sWk5wSEd2eWwzVFNlYkZKbTFuX0ZGNUZkVHI3TXdvWU8tR0RIb0l2Zkh1cGtpWVA4cDNtLW01Qjl5WjlqNnNxZy16Z0VwTzdfdzE5UkpYVm1FenYtWkluM3FJY0p0ZGd2M200c0JrSXRPYUt4dXJKNDVhTEJUTHpyYmZIa3hQbHlhX3BXTWRZOFpkUjg?oc=5",

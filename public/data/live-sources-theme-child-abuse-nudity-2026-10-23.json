@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:48:49.719Z",
+  "generatedAt": "2026-10-23T05:07:36.900Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 76
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "A 27-year-old man was sentenced to 11 years in federal prison for distributing child sexual abuse material. - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTFlnb0RHSW4xM1BMYy1Ea1FCeHB6Z3RqdDAxYmc5M3pwdFE3ZGhxSWtUcUx4WlB1UmdHUEs0bkM2S0hDUUdRZ3ljY2JKOGZlcnVLVWhySktPWjkyRk9zZVBBNUZFVWlYZFoyVjVlT3lNUzJTRE1qemhOYlAzSkdBV1Zrc015VmlPdW51WUNNNjlsRjJlNDZMUEhWYVhGTVpNUTRLOGQ3MTYzTmQwNjFCVXpXUzQybjA5Z1BDSU5JUEdOaUU0MTZlcFVn?oc=5",
+      "snippet": "A 27-year-old man was sentenced to 11 years in federal prison for distributing child sexual abuse material. Hoodline",
+      "publishedAt": "2026-10-22T22:27:22.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Quincy man charged with distributing child sexual abuse material - Herald-Whig",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeG1CbmN3MUZvcFlWZkFkajVtZVA2VEllSF9XcWlQLWM5Tm1FWWd6TVRHaU5hWHd2anZ3T0VjcXEwejVKTmVSUlJYUllhT1RiYkxqRkRBMFNJemlRVTlVSDNxZlRtR04wZjRtdzZDaGRuM0dZdG4wbHl6RFJNV3J0bEUxai1pMlRHblI1ZFhtbTBFUjZkMi1Qaw?oc=5",
       "snippet": "Quincy man charged with distributing child sexual abuse material Herald-Whig",
@@ -193,6 +208,51 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ballari Police Register Case Over Suspected Child Sexual Abuse Content on Instagram - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nbFZSakNVYV9xWElMMnY5UXhQMjY1VkxETDF6ZUlyeXVDTXJYamFoZkVfb3lXNU1fNmJKc0h6Umg5SnJTdExQRjRaSG9ZWFhybnNEWVRiS1FReVplRjNqVEZ1WHpNUEwyVVhR?oc=5",
+      "snippet": "Ballari Police Register Case Over Suspected Child Sexual Abuse Content on Instagram The420.in",
+      "publishedAt": "2026-10-23T02:40:30.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Google, Telegram asked how they handle CSAM | India News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeHlkZHlPdDVaamhTYmZjd2hrMk53WXRvYmNlcnA1NkhmZkZPVFpRbzdaMkxvRVdUUG9WdkVzSnAtdWI4UDFmSVN6WW5MQlZJOXpiR0FIVjBhZloxSlNBcEtIUzMxdS11MkJaTjV6WkZHNFhweXI0ZUJSVURIRWxUZzNmTDQ3OTVld19FLXBiRnd2eXl5TDNrWkRuS0dZV0dnOXZwbXYyR0RsVTF4VmfSAa4BQVVfeXFMT3h5ZGR5T3Q1WmpoU2JmY3doazJOd1l0b2JjZXJwNTZIZmZGT1RaUW83WjJMb0VXVFBvVnZFc0pwLXViOFAxZklTelluTEJWSTl6YkdBSFYwYWZaMUpTQXBLSFMzMXUtdTJCWk41elpGRzRYcHlyNGVCUlVESEVsVGczZkw0Nzk1ZXdfRS1wYkZ3dnl5eUwza1pEbktHWVdHZzl2cG12MkdEbFUxeFZn?oc=5",
+      "snippet": "Google, Telegram asked how they handle CSAM | India News Hindustan Times",
+      "publishedAt": "2026-10-23T02:08:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Quincy man charged in child sex abuse materials investigation - KHQA",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUDFPa0M3bGc1MjdVazYtSDdyN1F0bUhKUWFDTlhfYWlVeFcwNnYySEpWOXNyVFVFaG9BdlNJQV80NV9ENDhzcmV3MzB3NjZVbXptRmpfSkRkTFlvWUxUOUZ1WGVxXy1BdlNrRUpNOWJyMlNGUlZveE9oLVpjT2x3S3NyN1o5RjJSR3hUMGw5MlFQMUJ0NG9Ua2FmMnJpbTdmU05hWDBVeFdBV1ROaWJ3TDVxNFYyRnFMeE9kNU5LVEtLRDc5S0RrVkhtVFV2eE1CTi1rbngyQ1BrZjg?oc=5",
+      "snippet": "Quincy man charged in child sex abuse materials investigation KHQA",
+      "publishedAt": "2026-10-22T21:50:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -215,7 +275,7 @@
       "title": "Houston man sentenced in child pornography case - The Victoria Advocate",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLV9oQzZJVW02aFltTmpNeTVReG1MS2ZVZ0VxcTZtY3FsdURqVE1SWGphTHVWS1NWd2p5Q1RwRUxmdElYb3VVaWFuTmpYc3owSXZvZXVONXFKNnZ4aEE3cHViMUYwRTJtcWJKVVUtNmZWQkIwSHgzTnR3aDlHcGE5OE1wb1h0N1ZraUhiOU1JYXltZw?oc=5",
       "snippet": "Houston man sentenced in child pornography case The Victoria Advocate",
-      "publishedAt": "2026-10-22T19:00:43.000Z",
+      "publishedAt": "2026-10-22T19:06:06.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:48:49.719Z",
+  "generatedAt": "2026-10-23T05:07:36.900Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 10
+    "total": 26
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 76
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "A 27-year-old man was sentenced to 11 years in federal prison for distributing child sexual abuse material. - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTFlnb0RHSW4xM1BMYy1Ea1FCeHB6Z3RqdDAxYmc5M3pwdFE3ZGhxSWtUcUx4WlB1UmdHUEs0bkM2S0hDUUdRZ3ljY2JKOGZlcnVLVWhySktPWjkyRk9zZVBBNUZFVWlYZFoyVjVlT3lNUzJTRE1qemhOYlAzSkdBV1Zrc015VmlPdW51WUNNNjlsRjJlNDZMUEhWYVhGTVpNUTRLOGQ3MTYzTmQwNjFCVXpXUzQybjA5Z1BDSU5JUEdOaUU0MTZlcFVn?oc=5",
+      "snippet": "A 27-year-old man was sentenced to 11 years in federal prison for distributing child sexual abuse material. Hoodline",
+      "publishedAt": "2026-10-22T22:27:22.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Quincy man charged with distributing child sexual abuse material - Herald-Whig",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeG1CbmN3MUZvcFlWZkFkajVtZVA2VEllSF9XcWlQLWM5Tm1FWWd6TVRHaU5hWHd2anZ3T0VjcXEwejVKTmVSUlJYUllhT1RiYkxqRkRBMFNJemlRVTlVSDNxZlRtR04wZjRtdzZDaGRuM0dZdG4wbHl6RFJNV3J0bEUxai1pMlRHblI1ZFhtbTBFUjZkMi1Qaw?oc=5",
       "snippet": "Quincy man charged with distributing child sexual abuse material Herald-Whig",
@@ -192,6 +207,36 @@
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI chatbot falsely labels Delhi protest photo as old, fuels misinformation - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tTzRfdUxWOFMxZHBlSi1VQkhMMnFCVGV0SXRHa0F3dHRtTmMxd0E5U0l3STBpRmhaOUZpVklmXzlHR0ducWFNUUhMaGd1eURqZE5iOU1vXzE?oc=5",
+      "snippet": "AI chatbot falsely labels Delhi protest photo as old, fuels misinformation AFP Fact Check",
+      "publishedAt": "2026-10-23T00:35:25.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPODkzNjNBRVQ3SEtLQzFGMFdlem5HLVNTX1ZmazktRFdpNHBnbVY1S0JhdVNIQkEtUzFqajBxZnlQbUYxUDljbGhQME9aeTdmVl9sUmY0b1NLVFJvcDNWc0xrMUl3TkxXalhheVlkTV9fSFh3ZTV1NU5MSjM1Q01QVFlwUS1UVHBNRGNyLU5hc3RJSlFNYVlRUUVLbTZFM08yVUZiRzJKYV8yak9iZmo5YThRYVI2OVAxWEsyN3ZLTG9fY1ozd2JkekdsWmk5clk?oc=5",
+      "snippet": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations CTV News",
+      "publishedAt": "2026-10-22T23:45:01.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -208,6 +253,66 @@
       "feedTheme": "dangerous-organizations",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check by Telugu Post: Viral Image of Hisar Police Kicking Woman Is AI-Generated - The South India Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmQwZTRwcDc1aVZyb0JzRTMydnpmQ1FpS096SDd2ZlFSdm1MOGhrVl9xWW9uU0hydW11SWh3cUdXQXFYRjZfc193dXhRSnN5QjJsSzRtY0hmRlhzYld3UWpnWU5xT3ZOUExBVnZQbGVuaV95VUNIbFZKbVB6MjVaYlJ2dWkwTThFZVdqOEFuTDFYQnluZ3U0WjhHalE2bURtRE5KREJPaXhmdG5WcklhVVA1dzJSdzZRbVJvRmhwYlBJQQ?oc=5",
+      "snippet": "Fact Check by Telugu Post: Viral Image of Hisar Police Kicking Woman Is AI-Generated The South India Times",
+      "publishedAt": "2026-10-23T04:24:18.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ballari Police Register Case Over Suspected Child Sexual Abuse Content on Instagram - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nbFZSakNVYV9xWElMMnY5UXhQMjY1VkxETDF6ZUlyeXVDTXJYamFoZkVfb3lXNU1fNmJKc0h6Umg5SnJTdExQRjRaSG9ZWFhybnNEWVRiS1FReVplRjNqVEZ1WHpNUEwyVVhR?oc=5",
+      "snippet": "Ballari Police Register Case Over Suspected Child Sexual Abuse Content on Instagram The420.in",
+      "publishedAt": "2026-10-23T02:40:30.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Google, Telegram asked how they handle CSAM | India News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeHlkZHlPdDVaamhTYmZjd2hrMk53WXRvYmNlcnA1NkhmZkZPVFpRbzdaMkxvRVdUUG9WdkVzSnAtdWI4UDFmSVN6WW5MQlZJOXpiR0FIVjBhZloxSlNBcEtIUzMxdS11MkJaTjV6WkZHNFhweXI0ZUJSVURIRWxUZzNmTDQ3OTVld19FLXBiRnd2eXl5TDNrWkRuS0dZV0dnOXZwbXYyR0RsVTF4VmfSAa4BQVVfeXFMT3h5ZGR5T3Q1WmpoU2JmY3doazJOd1l0b2JjZXJwNTZIZmZGT1RaUW83WjJMb0VXVFBvVnZFc0pwLXViOFAxZklTelluTEJWSTl6YkdBSFYwYWZaMUpTQXBLSFMzMXUtdTJCWk41elpGRzRYcHlyNGVCUlVESEVsVGczZkw0Nzk1ZXdfRS1wYkZ3dnl5eUwza1pEbktHWVdHZzl2cG12MkdEbFUxeFZn?oc=5",
+      "snippet": "Google, Telegram asked how they handle CSAM | India News Hindustan Times",
+      "publishedAt": "2026-10-23T02:08:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Quincy man charged in child sex abuse materials investigation - KHQA",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUDFPa0M3bGc1MjdVazYtSDdyN1F0bUhKUWFDTlhfYWlVeFcwNnYySEpWOXNyVFVFaG9BdlNJQV80NV9ENDhzcmV3MzB3NjZVbXptRmpfSkRkTFlvWUxUOUZ1WGVxXy1BdlNrRUpNOWJyMlNGUlZveE9oLVpjT2x3S3NyN1o5RjJSR3hUMGw5MlFQMUJ0NG9Ua2FmMnJpbTdmU05hWDBVeFdBV1ROaWJ3TDVxNFYyRnFMeE9kNU5LVEtLRDc5S0RrVkhtVFV2eE1CTi1rbngyQ1BrZjg?oc=5",
+      "snippet": "Quincy man charged in child sex abuse materials investigation KHQA",
+      "publishedAt": "2026-10-22T21:50:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -230,13 +335,73 @@
       "title": "Houston man sentenced in child pornography case - The Victoria Advocate",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLV9oQzZJVW02aFltTmpNeTVReG1MS2ZVZ0VxcTZtY3FsdURqVE1SWGphTHVWS1NWd2p5Q1RwRUxmdElYb3VVaWFuTmpYc3owSXZvZXVONXFKNnZ4aEE3cHViMUYwRTJtcWJKVVUtNmZWQkIwSHgzTnR3aDlHcGE5OE1wb1h0N1ZraUhiOU1JYXltZw?oc=5",
       "snippet": "Houston man sentenced in child pornography case The Victoria Advocate",
-      "publishedAt": "2026-10-22T19:00:43.000Z",
+      "publishedAt": "2026-10-22T19:06:06.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pakistan rescues teenage girl coerced into animal cruelty, self-harm by online network ‘764’ - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjJlb1VJb1ktM1BtLTlMN3JFenpkc3ZLVkZVanJWM1pnQkhOVFpUWENHd1R0cUhLWWc1OVZIQk9HazMtNDRMTlNjUm94amFrZHptMXBvdEtmYnhaZVFLcXFLbWpfeVhWbU5qQkhfRGs3N1A2dks2UjN1Qmd5cnJSZmtHd0c5bS1nMkI3T25Zd05qa3A4MzNnYndsZFVBUURnWF80QVZOcnJLcE5QUDNGcktjZmM2WXdLMjhOcko5d212bmlqam1ORWJB?oc=5",
+      "snippet": "Pakistan rescues teenage girl coerced into animal cruelty, self-harm by online network ‘764’ Arab News PK",
+      "publishedAt": "2026-10-23T04:26:17.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "suicide-self-harm",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Japan urges social media platforms to curb misinformation in elections - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjJySHlHdUZwblY5VXJyR2ZIN3J5a3pIMDg0ekhqTU1CeUNMcDYtMy1tT1Bjb3BYRm43MkZ3bWtGS0ZXNWphNUtYUHJ4Q1VDTzlCMjM5MktpMlY1a1RvSUlVVFVtZUZJeWZCUnNSWjhIVzcyaEVkQlFaV25naDdETFR1MWtOM0VpQXBhYV9DWlI0R25IWG5CR2dkdGozakxjUWtCNFJR?oc=5",
+      "snippet": "Japan urges social media platforms to curb misinformation in elections Nikkei Asia",
+      "publishedAt": "2026-10-23T04:11:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhIOTNtYVpQQ2VZQ0RnRHhKWWxYRHN5YWd1bF9iMWgwN241Z2pGNEFxYWxIRTltUFRtUkpMNEJKcTIyamNCRDFTQ2EwejdaYklVTEFfZmw5TExPYnhZWlRZVE1Wb1dhb2hDLTF6SlVEYjJpdlQ2TnY3TE1SZ3ZpdEp3cVpweThKR2lhdU41dUcyVVpIbjZ1QldwNS1RWEI5ZXdNZnc3YklCaGZTYzlRbHVKVHpaejJQMG9ERWpHYmVoRk9qQ2N1UXBkMjlqanRwQUtxVndR?oc=5",
+      "snippet": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem BW Businessworld",
+      "publishedAt": "2026-10-23T02:51:29.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australians warned of ‘tsunami of youth crime’ as AI accelerates online radicalisation of children within days - The Australia Today",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlQ2YUVVLWRHaHJxc2RBUmY1RjQ4ZllFY0RUR3F4Rklha05TaGl5dkZjbEZkc0lPYTh0MjU4ZDhPdHA0ck51bGI2RmNNZUlTWlFqNGh3Z2Q2VVdvcXJJRnBnMjUtb2V3WFZlVXlXTlNCNkNPRVI1STVZRENoalpLOWFLWGFQOUx1Sl9CRTI3MXZqcXdHMGwxZlNLSTVnNGw1MkhDMWtaRW5zaE5mc1JRZUNvYXZXYWM1UmNLTUl5bEFQQThjelU0aVZOUGE2dTJyZmRHNTFySllsRGJoWHRr?oc=5",
+      "snippet": "Australians warned of ‘tsunami of youth crime’ as AI accelerates online radicalisation of children within days The Australia Today",
+      "publishedAt": "2026-10-22T22:20:57.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -297,6 +462,81 @@
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWRtbnJkcmhPX0IyQllDb1dvNVVnTnF5OTR4WHVtNUFpZE9RcGdqb0JTZkhzOUhuVUhKelhoaWdKLUE3bFRsMDA1MEQ0OThhSEtoVXMyOEU2UGRqWUFiZlg4dDUyWmMxRkVST2ZqOW53LWxRUnh3M0RmNnV2bGQ4eF9CalpvXy1YZXdyUWJJcG5lNnJEOV9ybFZPQktHUWgtaVgxaUpfWVRNbWJxNmtrVUVuVTdxMmF6RGZwXzZyV0NYMEd6eXc?oc=5",
+      "snippet": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years The Straits Times",
+      "publishedAt": "2026-10-23T02:45:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Loblaw Data Breach: 24 Months Free Monitoring [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjkyM0IxVDZQZ1JDdklUNlZGREVLdXhHbkhQQTJIaTdNZXJueDVlajA3SnZUSFBieUNzZ1U0NlJwa3VMbmRPc1NFRDZoUnNrXzNhZGVwYnNXRlZYMHlmTUllQXhIZVZjVzNad3JuNmszcUxYN2liYVZkN2NTTDFqaWVsWHEzZWRn?oc=5",
+      "snippet": "Loblaw Data Breach: 24 Months Free Monitoring [2026] tech-insider.org",
+      "publishedAt": "2026-10-23T01:46:41.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Top Cybersecurity Companies of 2026 - The Software Report",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tN1RuWXk2aG9SXzZodFZwTFlqQmhwaFlxbEpQVF9UQWd0dC1adzhpSFZ6VENtc1NYY1pXLXQ4Ykp3b2kwT21TNzIzY3RXbl9rdU1iTTVvTTQ1TjFfM2pVa3pTZUVDU29qdy1MQWczSm9lbHYwd2RhczNfZ3Q?oc=5",
+      "snippet": "The Top Cybersecurity Companies of 2026 The Software Report",
+      "publishedAt": "2026-10-23T01:02:05.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Peel Regional Police Statement on the Crime Stoppers Data Breach - Peel Regional Police",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXpDbkp2OFJ1ZGdaZkx5RDJKWjBLUHRfQVkzcXRsRTlBRHNfQ2lZdzMxdF8yU3NJdmU4LVhHSVMzTFJXM1NnclV5ZHFJVk5rLWdkbEFQN01fWXh5ejA5eDBPQlFHSmRZYWpwc1o4OTVSRkE5OXlDOHowQWgtRUM0S2ZQZU1pNERqNjJULU5BZ1RFN3BuaUg0ajI1WkhNdEJaeWpEZjFLbjktY1E?oc=5",
+      "snippet": "Peel Regional Police Statement on the Crime Stoppers Data Breach Peel Regional Police",
+      "publishedAt": "2026-10-22T23:57:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Here are the Worst 5 Data Breaches of the Past Year and How to Protect Yourself - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0VRdGNQaTVISFdkOW1BNGF2MTBkXzgxenZDVFFVejZkQjJqbXBMck0za3VKS215bV9BTHhPVFBoWkhmVFQyNExWTDFvSG9LU3lXQWFUXzNiNVBMMm5UREJoZ0wyckYtM3JQVHpXV0IwMS1ub0M1ZlowaGlrN1VnT2R2M19hdDhFS2VRYmEzZjVaNTlSV0ZDQWFxd2hRdkFWSUdvanpxTQ?oc=5",
+      "snippet": "Here are the Worst 5 Data Breaches of the Past Year and How to Protect Yourself TechBullion",
+      "publishedAt": "2026-10-22T22:26:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

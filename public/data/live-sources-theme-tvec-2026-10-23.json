@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:48:49.719Z",
+  "generatedAt": "2026-10-23T05:07:36.900Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 76
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPODkzNjNBRVQ3SEtLQzFGMFdlem5HLVNTX1ZmazktRFdpNHBnbVY1S0JhdVNIQkEtUzFqajBxZnlQbUYxUDljbGhQME9aeTdmVl9sUmY0b1NLVFJvcDNWc0xrMUl3TkxXalhheVlkTV9fSFh3ZTV1NU5MSjM1Q01QVFlwUS1UVHBNRGNyLU5hc3RJSlFNYVlRUUVLbTZFM08yVUZiRzJKYV8yak9iZmo5YThRYVI2OVAxWEsyN3ZLTG9fY1ozd2JkekdsWmk5clk?oc=5",
+      "snippet": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations CTV News",
+      "publishedAt": "2026-10-22T23:45:01.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - Stamford Advocate",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclI0WnpaSXRNUm1BQkFFUjZ3R1FOVUdEMGtlbXFleW5UUGRNVW9CVTRVQXlyeUtDeTlOaG50NGliN0c2T1pjVXVXSmFpQTdUTnI1SXp1OGE0Ui1haVJWZVMwVGlCMElpQ0VocnVmVkR6NVdDNkMzOTNTbXpxeWZMT3JMYXphYlV5eVQwWFlSRHAxUy04R0UyMTNoZE84VUtydF9ma3F3aERtNVZTejdSTVJMSGE?oc=5",
       "snippet": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations Stamford Advocate",
@@ -193,6 +208,21 @@
       "feedTheme": "dangerous-organizations",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australians warned of ‘tsunami of youth crime’ as AI accelerates online radicalisation of children within days - The Australia Today",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlQ2YUVVLWRHaHJxc2RBUmY1RjQ4ZllFY0RUR3F4Rklha05TaGl5dkZjbEZkc0lPYTh0MjU4ZDhPdHA0ck51bGI2RmNNZUlTWlFqNGh3Z2Q2VVdvcXJJRnBnMjUtb2V3WFZlVXlXTlNCNkNPRVI1STVZRENoalpLOWFLWGFQOUx1Sl9CRTI3MXZqcXdHMGwxZlNLSTVnNGw1MkhDMWtaRW5zaE5mc1JRZUNvYXZXYWM1UmNLTUl5bEFQQThjelU0aVZOUGE2dTJyZmRHNTFySllsRGJoWHRr?oc=5",
+      "snippet": "Australians warned of ‘tsunami of youth crime’ as AI accelerates online radicalisation of children within days The Australia Today",
+      "publishedAt": "2026-10-22T22:20:57.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

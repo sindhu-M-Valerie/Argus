@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:53:21.265Z",
+  "generatedAt": "2026-10-23T05:12:22.314Z",
   "windowDays": 7,
   "endDate": "2026-10-23",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 119,
+      "totalArticles": 120,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": 15,
-      "reason": "Last 3 days averaged 18.3/day vs 16.0/day before.",
+      "changePercent": 17,
+      "reason": "Last 3 days averaged 18.7/day vs 16.0/day before.",
       "daily": [
         {
           "date": "2026-10-17",
@@ -36,7 +36,7 @@
         },
         {
           "date": "2026-10-22",
-          "count": 21
+          "count": 22
         },
         {
           "date": "2026-10-23",
@@ -77,6 +77,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Idaho Statesman",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VaVVEUVFCTGd2NmRQay1DUjFHLVNKNVVGWmhHTS1wYm82ZjRHSzFxVEQ2Y3czSXVTN1hlQ2EyV1k2MlBrZXY3R2RGRmFFVnNmNi1aSGI5b1Y3OVgyVFEtV2FwYjhqREt2VWNTYnI2Y2tkeWdh?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-21T21:01:08.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Business Recorder",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pd3hVc01aZUsxWEhPSE1ubWdtU2s2S0V1eElLdXJvSmFHVWFYZnVKNHp3cU1HckJlS1FzSUxScEd4QmxxS0JjM2t5aTNRbFdfczBGS0tB0gFWQVVfeXFMTWl3eFVzTVplSzFYSE9ITW5tZ21TazZLRXV4SUt1cm9KYUdVYVhmdUo0endxTUdyQmVLUXNJTFJwR3hCbHFLQmMza3lpM1FsV19zMEZLS0E?oc=5",
           "source": "Google News • Fraud and Impersonation",
@@ -99,26 +107,18 @@
           "publishedAt": "2026-10-21T20:49:52.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "EU investigates Booking.com over fraudulent listings, phishing scams - MaltaToday",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWVEaktTVlZpMGQyWkNkMmhKM2pRcWlKVnhoSURHTE5ObHNqSmpGc2xOV0hUaThHWERjQURiR0FCZ1hUT2QtY0dxSS1rY3o0RHJ5dmxnOTl1WlU5NWRjNlg1QzgxUjJNQTlDSnNvN2lrZjZzWENJbXlYemUzaDhmVmlfalZfbDRjaHdLd1UzM3hIUUc2SjZnWGpLbFBUM3J3WFp0c1JfMS1MTHFmejViNXZyZzk3dw?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-21T14:06:00.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 100,
+      "totalArticles": 106,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 77,
-      "reason": "Last 3 days averaged 19.0/day vs 10.8/day before.",
+      "changePercent": 95,
+      "reason": "Last 3 days averaged 21.0/day vs 10.8/day before.",
       "daily": [
         {
           "date": "2026-10-17",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-10-22",
-          "count": 29
+          "count": 30
         },
         {
           "date": "2026-10-23",
-          "count": 3
+          "count": 8
         }
       ],
       "topArticles": [
@@ -156,6 +156,14 @@
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-22T03:05:23.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem - BW Businessworld",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhIOTNtYVpQQ2VZQ0RnRHhKWWxYRHN5YWd1bF9iMWgwN241Z2pGNEFxYWxIRTltUFRtUkpMNEJKcTIyamNCRDFTQ2EwejdaYklVTEFfZmw5TExPYnhZWlRZVE1Wb1dhb2hDLTF6SlVEYjJpdlQ2TnY3TE1SZ3ZpdEp3cVpweThKR2lhdU41dUcyVVpIbjZ1QldwNS1RWEI5ZXdNZnc3YklCaGZTYzlRbHVKVHpaejJQMG9ERWpHYmVoRk9qQ2N1UXBkMjlqanRwQUtxVndR?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-23T02:51:29.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
@@ -170,7 +178,7 @@
           "title": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web - CyberSecurityNews",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUk4ydEZBOFlMS1JEWEY3WkdxWTNyLVRHaE94WHhOa2VWXzc5aTR3QWhvRFJUZWkxYWliLUc2ekRtV2d1S2dtaVRXeExBTWo2aHRTdmJKdk4tUVdzSWRVYzh1OW9zZ9IBa0FVX3lxTE9zT0ZUQXhkSGZ2TzE0WDBad1lVRXhDYzE0RUpva19oNURhRjJtU1l4SDliUWxlR0JMZ1h0VFJOdXFiS0owMUpPMDVCM1IwV1R1M3VSYzM5RHlhcVNDbDcyMjRubF9tVjlzN0ww?oc=5",
           "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-22T10:15:14.000Z",
+          "publishedAt": "2026-10-22T15:28:10.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         },
@@ -205,26 +213,18 @@
           "publishedAt": "2026-10-21T09:49:03.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web - The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0dhdDcxMDBhYllLaTM2LVJxN2tvYzNvMXk2VkEzQmNWOTRkd2Z6b3VzdnNjZnNJajVuV3FJcTAtOGY4VTN0c2s0XzRPRlNrYXA2RGVESm9WTXNKalJNdTJvYjdqQXAxQ1QxWXlwdjhMOVJxcVFTX0huWmxCWE5KanhUNA?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-21T07:44:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 83,
+      "totalArticles": 88,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -52,
-      "reason": "Last 3 days averaged 7.3/day vs 15.3/day before.",
+      "changePercent": -41,
+      "reason": "Last 3 days averaged 9.0/day vs 15.3/day before.",
       "daily": [
         {
           "date": "2026-10-17",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-10-22",
-          "count": 14
+          "count": 16
         },
         {
           "date": "2026-10-23",
-          "count": 1
+          "count": 4
         }
       ],
       "topArticles": [
@@ -313,11 +313,11 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Fact Check: Rahul Gandhi attends Dussehra celebrations in 2026? No, video from 2024 goes viral - NewsMeter",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXhmU19KU1p5UDN4b0NHN3hUeG8xSVhNZFVUTUN5dGNydTlLSzB5am5mVldwZDU4ZkJiZVluLVZBWlBSTkdRMVo0WmNsTmxSNXNBZHoyTEpzakV0Sm01cXl4V0pQcTlNUjA3R1FpRjE0TmVvV3V4WUpTX0h1LXQ4a0RXSmFVMzhwZ3IwX2F0V3Q0LXRxNExMQ3QtcGFDX05WcjR2a1JxcW1JOXcxaTFVT1FrOTNiS2tRcV8tUWhIaklwZ2hvVENyTzdB?oc=5",
+          "title": "Fact check: 'Judge Judy' aka Judy Sheindlin faces death hoax on her 84th birthday as ‘Judy Justice’ ends | Hindustan Times - Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUnU2WEtpb1lQX1ZyTGQ0Z2RkUXh6RERuWUU0MnJJTzh1RzhETjRldjI4OWRPS2xjYnQ3WWtwOHlqZjk2a3lsOEN5cU9jM0pxR1VoTmVJa25wRlNTTkY5WUVaLUhON1lBclBwYWk0c3JRM0xMYzJkR0lHSUxvS2RXSDBFTDYydzdzRXZBQlZZNzZ2RmFnc0NiOWFxVV9xb0NMcWU0QVVZNE1obVNYM0FFYWlIUjdoWUdZYm9OeElFY0t1VndRNEVfVzh4U2psTWFqWmlpTjBsRXJEeE45ZlVFNlNDUm1rWkJzYXl6cTBoVGR3M0t4TDJrTnhhaERqRnZYZE5LQ9IBhAJBVV95cUxNUnU2WEtpb1lQX1ZyTGQ0Z2RkUXh6RERuWUU0MnJJTzh1RzhETjRldjI4OWRPS2xjYnQ3WWtwOHlqZjk2a3lsOEN5cU9jM0pxR1VoTmVJa25wRlNTTkY5WUVaLUhON1lBclBwYWk0c3JRM0xMYzJkR0lHSUxvS2RXSDBFTDYydzdzRXZBQlZZNzZ2RmFnc0NiOWFxVV9xb0NMcWU0QVVZNE1obVNYM0FFYWlIUjdoWUdZYm9OeElFY0t1VndRNEVfVzh4U2psTWFqWmlpTjBsRXJEeE45ZlVFNlNDUm1rWkJzYXl6cTBoVGR3M0t4TDJrTnhhaERqRnZYZE5LQw?oc=5",
           "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-22T16:14:34.000Z",
-          "riskScore": 52,
+          "publishedAt": "2026-10-21T18:36:06.000Z",
+          "riskScore": 60,
           "corroboratedBy": 1
         }
       ]
@@ -325,12 +325,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 49,
+      "totalArticles": 53,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 28,
-      "reason": "Last 3 days averaged 8.0/day vs 6.3/day before.",
+      "changePercent": 49,
+      "reason": "Last 3 days averaged 9.3/day vs 6.3/day before.",
       "daily": [
         {
           "date": "2026-10-17",
@@ -358,10 +358,18 @@
         },
         {
           "date": "2026-10-23",
-          "count": 3
+          "count": 7
         }
       ],
       "topArticles": [
+        {
+          "title": "A 27-year-old man was sentenced to 11 years in federal prison for distributing child sexual abuse material. - Hoodline",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTFlnb0RHSW4xM1BMYy1Ea1FCeHB6Z3RqdDAxYmc5M3pwdFE3ZGhxSWtUcUx4WlB1UmdHUEs0bkM2S0hDUUdRZ3ljY2JKOGZlcnVLVWhySktPWjkyRk9zZVBBNUZFVWlYZFoyVjVlT3lNUzJTRE1qemhOYlAzSkdBV1Zrc015VmlPdW51WUNNNjlsRjJlNDZMUEhWYVhGTVpNUTRLOGQ3MTYzTmQwNjFCVXpXUzQybjA5Z1BDSU5JUEdOaUU0MTZlcFVn?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-22T22:27:22.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "Quincy man charged with distributing child sexual abuse material - Herald-Whig",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeG1CbmN3MUZvcFlWZkFkajVtZVA2VEllSF9XcWlQLWM5Tm1FWWd6TVRHaU5hWHd2anZ3T0VjcXEwejVKTmVSUlJYUllhT1RiYkxqRkRBMFNJemlRVTlVSDNxZlRtR04wZjRtdzZDaGRuM0dZdG4wbHl6RFJNV3J0bEUxai1pMlRHblI1ZFhtbTBFUjZkMi1Qaw?oc=5",
@@ -415,14 +423,6 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0JIMWUyU21TR0xKQ0c1S3JlR1p6TmNudHpLYUNEOHp3QWQ0YU9aSzFZbnFQLXlSVEh5N29lSzJSY2YwSXV5NUdEV1dIcUh0d2xEZ1MtN1UxMVVBZnNqLUhuSU92Q2FZUWNva2p0TVdTTG96ZUpxaEdkQ1BaUV96VHdfT1pvd0lHTk1TMy1rWGVUaVN1eU9CbVRlb1kwYWtk?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
           "publishedAt": "2026-10-22T00:34:15.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Eagle Pass man faces 15 to 30 years in prison after pleading guilty to producing child sexual abuse material, court documents say - kens5.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeGcwVHZTWjdBZ2R6VWJoQk16LXFRTHJraU1XaThjYkFDdzVrMzR6ei1KbWxabzBVRmo1cXp2Zk5lQkh3N2JxRE1KQXU0elRRZ3pyalBmV2VCNy1YOE5QOHNMVWdFMms0dEZVbjVaaHVnX0lQOC1XdW5XWEh5enNUMjVwZHljVElEODBuZ0xSYWN1bWJDOW1vSkxGMDY2eDdjUEpmX1BobmZaNWx5ZWR4TGVlSDI0a2ZiRWYtaS0xY2dqVE1MN09WTEVLa3lKQ0J1TjRJVzNBeGhkbGo5aVRtRmhYNUt5VEk?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-21T22:09:00.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         }
@@ -535,6 +535,112 @@
       ]
     },
     {
+      "theme": "tvec",
+      "label": "Terrorist & Violent Extremist Content",
+      "totalArticles": 17,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 900,
+      "reason": "Last 3 days averaged 5.0/day vs 0.5/day before.",
+      "daily": [
+        {
+          "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
+          "count": 2
+        },
+        {
+          "date": "2026-10-19",
+          "count": 0
+        },
+        {
+          "date": "2026-10-20",
+          "count": 0
+        },
+        {
+          "date": "2026-10-21",
+          "count": 5
+        },
+        {
+          "date": "2026-10-22",
+          "count": 6
+        },
+        {
+          "date": "2026-10-23",
+          "count": 4
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "PM Modi, Polish counterpart Tusk condemn terrorism and violent extremism - The Tribune",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGRKSGJyWlJPS2RoQ3c4dWZIRDJrVjFXT2IyTXFnVnZ2OVNSaGs3cE05dGptU1Z4RWthRGJUX3V5MlFWUGVrRDJzTkRSTmRoWkFQU0diYkxZTzNmTjJyRnRIXzBVSUtRd1VBWXYtV04xV1lhM3hGY0lDelV1U2RHb3FtRTFvWWVUaklkUWJoVHNlcUpnUkJGMFd1R2piUEk4N1dSOHZhaEtaanB2NWdDSV9WNTRiZ9IBtgFBVV95cUxPRGRKSGJyWlJPS2RoQ3c4dWZIRDJrVjFXT2IyTXFnVnZ2OVNSaGs3cE05dGptU1Z4RWthRGJUX3V5MlFWUGVrRDJzTkRSTmRoWkFQU0diYkxZTzNmTjJyRnRIXzBVSUtRd1VBWXYtV04xV1lhM3hGY0lDelV1U2RHb3FtRTFvWWVUaklkUWJoVHNlcUpnUkJGMFd1R2piUEk4N1dSOHZhaEtaanB2NWdDSV9WNTRiZw?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-22T13:22:15.000Z",
+          "riskScore": 64,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "PM Modi, Polish counterpart Tusk condemn terrorism and violent extremism - The Tribune",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlJ1bnB1WTVuV0N6eGVDNjd4LUk1U01hbXN3OVYtQ0RfZWYwcjJLODYzSE5JTURoZmNvYWxGNXJuWnpsSGJqRVJjeURMQXZGamR4SDM4SkkyelNrYmViWENLa201cW9tUzJQS25mVEFOejl1MUxRNHkzbDQ2S2MzbklMT003MlNuc1dFUUNvU1dVQUpkcnVlUEFGLWl4Q25Kb1RNMzZvWWM0TmJFRUpyUWNn0gG2AUFVX3lxTE9EZEpIYnJaUk9LZGhDdzh1ZkhEMmtWMVdPYjJNcWdWdnY5U1JoazdwTTl0am1TVnhFa2FEYlRfdXkyUVZQZWtEMnNORFJOZGhaQVBTR2JiTFlPM2ZOMnJGdEhfMFVJS1F3VUFZdi1XTjFXWWEzeEZjSUN6VXVTZEdvcW1FMW9ZZVRqSWRRYmhUc2VxSmdSQkYwV3VHamJQSTg3V1I4dmFoS1pqcHY1Z0NJX1Y1NGJn?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-22T13:22:15.000Z",
+          "riskScore": 64,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Terrorism From Pakistan, Khalistani Extremism Direct Threat To India And UK: British Lawmaker - Ommcom News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGtrd0paNk5HS0lYaHZ6cXNVenZJeWFfdnpxZ3ZOTnBON3ZpU3RJMjB3TGFydTY1SVo4ZkJ2UER5MEZEZ1IxTkU0aDAwLVMxRTVyVS1ITF9OSkpyRGJKeHdhaEQxTFJyOFd4b1JpVWNmSml3Qk5GblAyY3JmdzVlcmhVdjYyTTdPNGtzbERJZ1BiMnhvX1JTZ3VPZmoydG9RamlIODg0X1FoZkwxelFvcl85M0VlZjVQMWI5YllJZHNqY0JX?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-21T13:21:56.000Z",
+          "riskScore": 64,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - CTV News",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPODkzNjNBRVQ3SEtLQzFGMFdlem5HLVNTX1ZmazktRFdpNHBnbVY1S0JhdVNIQkEtUzFqajBxZnlQbUYxUDljbGhQME9aeTdmVl9sUmY0b1NLVFJvcDNWc0xrMUl3TkxXalhheVlkTV9fSFh3ZTV1NU5MSjM1Q01QVFlwUS1UVHBNRGNyLU5hc3RJSlFNYVlRUUVLbTZFM08yVUZiRzJKYV8yak9iZmo5YThRYVI2OVAxWEsyN3ZLTG9fY1ozd2JkekdsWmk5clk?oc=5",
+          "source": "Google News • Dangerous Criminal Organizations",
+          "publishedAt": "2026-10-22T23:45:01.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - Stamford Advocate",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclI0WnpaSXRNUm1BQkFFUjZ3R1FOVUdEMGtlbXFleW5UUGRNVW9CVTRVQXlyeUtDeTlOaG50NGliN0c2T1pjVXVXSmFpQTdUTnI1SXp1OGE0Ui1haVJWZVMwVGlCMElpQ0VocnVmVkR6NVdDNkMzOTNTbXpxeWZMT3JMYXphYlV5eVQwWFlSRHAxUy04R0UyMTNoZE84VUtydF9ma3F3aERtNVZTejdSTVJMSGE?oc=5",
+          "source": "Google News • Dangerous Criminal Organizations",
+          "publishedAt": "2026-10-22T19:52:46.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Argentina designates 5 Latin American criminal and guerrilla groups as terrorist organizations - Jacksonville Journal-Courier",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN0JvYTBpX29Zc3Y5M2Z6dnN2dDlIa3JWTHNkUHBkZmxSQWNqNkc5RTVMNzVpXzhMV2xnRzUxZkhNalYyemU1d1dYZGx5Q1h6QU5pdGUxWkFscXl6cUdpSDZPQ0MxZjlPWlh0MFhic215LXdFWHM0RVdhd01sbHNSMUp6WXBrbXhrTTBmUGVnMG55M0ZGY2JnZXp4a0tQZV8yM0ZiNmV3Q3hPdW1jb0RHcQ?oc=5",
+          "source": "Google News • Dangerous Criminal Organizations",
+          "publishedAt": "2026-10-22T17:45:51.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Pakistan, EU Agree to Strengthen Counterterrorism Cooperation and Tackle Online Radicalisation - https://newsalert.com.pk/",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblVUUmc0dlNmWVJIeS1PYUd5OGFCSU9UV3JaWXQxMENGODF6NmVwN2stX09jRko0ZG9tVHo3MW9ramswNjZHdzAzcXdVTl9NRC02UXJ5WjJnSWx1T0lFSkZIZFFWbXRQOWtqcU9sVnVOb2ZkdVdDVm9EV3BqZjZnQjlmekZ3Q2h6aW5HUjB4OC1aVGE2YUt5cDl0VmFlSnBUa3VzWXE4eFcya3FzQVlicWJDdk1TUWV3WmFv?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-22T11:41:05.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "First terrorism, then Naxalism, now drugs: By 2029, Amit Shah sets hard deadline to wipe out India’s narco - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQ19BaWd3TFRzdmpXcnJqUUpHaVJDbE1fZW1sS0JXRzc5cWd3QWtfNzNTV1czRXQ3UkhqYTVNNlZENFBZU194bUJBd1Q1d3gtYjBGa0FIaE5PMkUzM2RwcklNLVdEUUs4TGRtb0ViRVlVZnFHYnRXVS1KTHNrZGdCZlRuOFpmdS1VcmhKeERudEk0aTYxbVlpd05vc2w4bmxKT1VSOGJFdWFicEkwb1gxemJ1S2NjMlRXaWtMdHJlT2pzU2NyTlprYnJDWk9oWkNrT1A5TnE4WVRza0F1eUI4S0QtVEdybkhjSURlREVGTVFMYy01RTNDTkttcUJ6eTlIOU9UY3hjU2dieHVOLVVnZkFoRVhFNS16eU5MZjBLTVZIa3PSAagCQVVfeXFMTTBLdjMxX1N1RGtfV1VEQkNlaVkwYzBJTGZEVjhlSkZ1aEhGb0o2ZGZjUVFDRGFWRXl6aG9aNkhnMERpc1IxOFo4LUhrYUpYa3lDMWNRUW5RWXMyLTE1UmdHdHNNN05qNFpQYVJFQ1Z6VUtGank3NDd0cG8wWXp3NE1DTkw1UTJ6MmxxVkhjdlQ3LVJ2UHEzZU9fUm1JTzU4dDlqeF8xRzNESktnam93N2VmUWY3UndXTWZad1lwY2ptSTE0czZRSXpobkVvTHZfODlDQlpETXo3bGhkdEs1X2lpZTFUTDdtQzN5cGViZHUwd2dfYTctNWJ5SzNnRXg2VEFkc2xKODdIU2ZJaUNBMHNUUV9nWnNlUTBKUjFqdG0zcVlzMEt2ZUU?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-22T10:21:26.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
       "totalArticles": 15,
@@ -636,112 +742,6 @@
           "source": "Google News • Sexual Exploitation Online",
           "publishedAt": "2026-10-19T23:36:11.000Z",
           "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "tvec",
-      "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 15,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 767,
-      "reason": "Last 3 days averaged 4.3/day vs 0.5/day before.",
-      "daily": [
-        {
-          "date": "2026-10-17",
-          "count": 0
-        },
-        {
-          "date": "2026-10-18",
-          "count": 2
-        },
-        {
-          "date": "2026-10-19",
-          "count": 0
-        },
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
-        {
-          "date": "2026-10-21",
-          "count": 5
-        },
-        {
-          "date": "2026-10-22",
-          "count": 6
-        },
-        {
-          "date": "2026-10-23",
-          "count": 2
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "PM Modi, Polish counterpart Tusk condemn terrorism and violent extremism - The Tribune",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGRKSGJyWlJPS2RoQ3c4dWZIRDJrVjFXT2IyTXFnVnZ2OVNSaGs3cE05dGptU1Z4RWthRGJUX3V5MlFWUGVrRDJzTkRSTmRoWkFQU0diYkxZTzNmTjJyRnRIXzBVSUtRd1VBWXYtV04xV1lhM3hGY0lDelV1U2RHb3FtRTFvWWVUaklkUWJoVHNlcUpnUkJGMFd1R2piUEk4N1dSOHZhaEtaanB2NWdDSV9WNTRiZ9IBtgFBVV95cUxPRGRKSGJyWlJPS2RoQ3c4dWZIRDJrVjFXT2IyTXFnVnZ2OVNSaGs3cE05dGptU1Z4RWthRGJUX3V5MlFWUGVrRDJzTkRSTmRoWkFQU0diYkxZTzNmTjJyRnRIXzBVSUtRd1VBWXYtV04xV1lhM3hGY0lDelV1U2RHb3FtRTFvWWVUaklkUWJoVHNlcUpnUkJGMFd1R2piUEk4N1dSOHZhaEtaanB2NWdDSV9WNTRiZw?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-22T13:22:15.000Z",
-          "riskScore": 64,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "PM Modi, Polish counterpart Tusk condemn terrorism and violent extremism - The Tribune",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlJ1bnB1WTVuV0N6eGVDNjd4LUk1U01hbXN3OVYtQ0RfZWYwcjJLODYzSE5JTURoZmNvYWxGNXJuWnpsSGJqRVJjeURMQXZGamR4SDM4SkkyelNrYmViWENLa201cW9tUzJQS25mVEFOejl1MUxRNHkzbDQ2S2MzbklMT003MlNuc1dFUUNvU1dVQUpkcnVlUEFGLWl4Q25Kb1RNMzZvWWM0TmJFRUpyUWNn0gG2AUFVX3lxTE9EZEpIYnJaUk9LZGhDdzh1ZkhEMmtWMVdPYjJNcWdWdnY5U1JoazdwTTl0am1TVnhFa2FEYlRfdXkyUVZQZWtEMnNORFJOZGhaQVBTR2JiTFlPM2ZOMnJGdEhfMFVJS1F3VUFZdi1XTjFXWWEzeEZjSUN6VXVTZEdvcW1FMW9ZZVRqSWRRYmhUc2VxSmdSQkYwV3VHamJQSTg3V1I4dmFoS1pqcHY1Z0NJX1Y1NGJn?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-22T13:22:15.000Z",
-          "riskScore": 64,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Terrorism From Pakistan, Khalistani Extremism Direct Threat To India And UK: British Lawmaker - Ommcom News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGtrd0paNk5HS0lYaHZ6cXNVenZJeWFfdnpxZ3ZOTnBON3ZpU3RJMjB3TGFydTY1SVo4ZkJ2UER5MEZEZ1IxTkU0aDAwLVMxRTVyVS1ITF9OSkpyRGJKeHdhaEQxTFJyOFd4b1JpVWNmSml3Qk5GblAyY3JmdzVlcmhVdjYyTTdPNGtzbERJZ1BiMnhvX1JTZ3VPZmoydG9RamlIODg0X1FoZkwxelFvcl85M0VlZjVQMWI5YllJZHNqY0JX?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-21T13:21:56.000Z",
-          "riskScore": 64,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - Stamford Advocate",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclI0WnpaSXRNUm1BQkFFUjZ3R1FOVUdEMGtlbXFleW5UUGRNVW9CVTRVQXlyeUtDeTlOaG50NGliN0c2T1pjVXVXSmFpQTdUTnI1SXp1OGE0Ui1haVJWZVMwVGlCMElpQ0VocnVmVkR6NVdDNkMzOTNTbXpxeWZMT3JMYXphYlV5eVQwWFlSRHAxUy04R0UyMTNoZE84VUtydF9ma3F3aERtNVZTejdSTVJMSGE?oc=5",
-          "source": "Google News • Dangerous Criminal Organizations",
-          "publishedAt": "2026-10-22T19:52:46.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Argentina designates 5 Latin American criminal and guerrilla groups as terrorist organizations - Jacksonville Journal-Courier",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN0JvYTBpX29Zc3Y5M2Z6dnN2dDlIa3JWTHNkUHBkZmxSQWNqNkc5RTVMNzVpXzhMV2xnRzUxZkhNalYyemU1d1dYZGx5Q1h6QU5pdGUxWkFscXl6cUdpSDZPQ0MxZjlPWlh0MFhic215LXdFWHM0RVdhd01sbHNSMUp6WXBrbXhrTTBmUGVnMG55M0ZGY2JnZXp4a0tQZV8yM0ZiNmV3Q3hPdW1jb0RHcQ?oc=5",
-          "source": "Google News • Dangerous Criminal Organizations",
-          "publishedAt": "2026-10-22T17:45:51.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Pakistan, EU Agree to Strengthen Counterterrorism Cooperation and Tackle Online Radicalisation - https://newsalert.com.pk/",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblVUUmc0dlNmWVJIeS1PYUd5OGFCSU9UV3JaWXQxMENGODF6NmVwN2stX09jRko0ZG9tVHo3MW9ramswNjZHdzAzcXdVTl9NRC02UXJ5WjJnSWx1T0lFSkZIZFFWbXRQOWtqcU9sVnVOb2ZkdVdDVm9EV3BqZjZnQjlmekZ3Q2h6aW5HUjB4OC1aVGE2YUt5cDl0VmFlSnBUa3VzWXE4eFcya3FzQVlicWJDdk1TUWV3WmFv?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-22T11:41:05.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "First terrorism, then Naxalism, now drugs: By 2029, Amit Shah sets hard deadline to wipe out India’s narco - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOQ19BaWd3TFRzdmpXcnJqUUpHaVJDbE1fZW1sS0JXRzc5cWd3QWtfNzNTV1czRXQ3UkhqYTVNNlZENFBZU194bUJBd1Q1d3gtYjBGa0FIaE5PMkUzM2RwcklNLVdEUUs4TGRtb0ViRVlVZnFHYnRXVS1KTHNrZGdCZlRuOFpmdS1VcmhKeERudEk0aTYxbVlpd05vc2w4bmxKT1VSOGJFdWFicEkwb1gxemJ1S2NjMlRXaWtMdHJlT2pzU2NyTlprYnJDWk9oWkNrT1A5TnE4WVRza0F1eUI4S0QtVEdybkhjSURlREVGTVFMYy01RTNDTkttcUJ6eTlIOU9UY3hjU2dieHVOLVVnZkFoRVhFNS16eU5MZjBLTVZIa3PSAagCQVVfeXFMTTBLdjMxX1N1RGtfV1VEQkNlaVkwYzBJTGZEVjhlSkZ1aEhGb0o2ZGZjUVFDRGFWRXl6aG9aNkhnMERpc1IxOFo4LUhrYUpYa3lDMWNRUW5RWXMyLTE1UmdHdHNNN05qNFpQYVJFQ1Z6VUtGank3NDd0cG8wWXp3NE1DTkw1UTJ6MmxxVkhjdlQ3LVJ2UHEzZU9fUm1JTzU4dDlqeF8xRzNESktnam93N2VmUWY3UndXTWZad1lwY2ptSTE0czZRSXpobkVvTHZfODlDQlpETXo3bGhkdEs1X2lpZTFUTDdtQzN5cGViZHUwd2dfYTctNWJ5SzNnRXg2VEFkc2xKODdIU2ZJaUNBMHNUUV9nWnNlUTBKUjFqdG0zcVlzMEt2ZUU?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-22T10:21:26.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "India slams UN rapporteur over alleged bias in counter-terror report, affirms Dawood Ibrahim in Pakistan - The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb2k2MFVHcjFMUnEydkdOT0wtdFZyMTJ3TWZ5ZFhINHl2czBZVjBhOEZEdnJoVGFxa3c1akI1QmpUcjVpZkFYOEU2aGkxZllUSEVGb3pFU0h1emk2NXdLVlpFTGFBQUJjX1hRUzFFT1pfcF9JWlpyUFRHaUhycExIZjF3aDFDZlV3enhrWjhIaDlfeTEzREhBYzY5SDltdm43UllZVkJpNUJ3TC1mNzNMdU1WeVJFbFR6RjNUOTdvYWVwR0dfcE9LeU13U1FEUnRQa0hQRXUzR1ptaFVBcndkS0RwVWxjcUdxdVHSAfcBQVVfeXFMTlVtYjJsT1VyUEJPNFVyM2EzdUxoeUo2TlBfUlVFUEVZRlgwV3VHQkVkSm01R2kteExzRWtPM0pNX2xUWG1rWnJEaGU5NzN4R3p3bnJOSzJZaGVBZ2N0VUJBdzY3V2ZCbi1mRUxfLUZlNThxWGNKZnUzXzRrYTJjSmxHZXRXMnlYOHRVa2ZlUW5YVkpKMWlJYUlHUUhKOF8zeWZHdnFsOFZ2TDIzc1F3LWJmQ1hIWEV1Zk45QWtZSjR1ZHV3WFZXVC1EdE9yQjZKcFpsT1B5al9WOUZhMk11bW0tZ0hXSU11UHNad3BHRExWLWNDajcyQQ?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-22T03:48:37.000Z",
-          "riskScore": 56,
           "corroboratedBy": 1
         }
       ]
@@ -1131,6 +1131,64 @@
       ]
     },
     {
+      "theme": "illegal-goods",
+      "label": "Illegal Goods",
+      "totalArticles": 2,
+      "distinctSources": 2,
+      "highRiskArticles": 0,
+      "trend": "Low volume",
+      "changePercent": null,
+      "reason": "2 articles in 7 collected days.",
+      "daily": [
+        {
+          "date": "2026-10-17",
+          "count": 1
+        },
+        {
+          "date": "2026-10-18",
+          "count": 0
+        },
+        {
+          "date": "2026-10-19",
+          "count": 0
+        },
+        {
+          "date": "2026-10-20",
+          "count": 0
+        },
+        {
+          "date": "2026-10-21",
+          "count": 0
+        },
+        {
+          "date": "2026-10-22",
+          "count": 0
+        },
+        {
+          "date": "2026-10-23",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "India News | Keralam: CBI Arrests Key Accused in International Cyber Fraud and ATM Card Smuggling Case - LatestLY",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcDJiS0dSUlU1ZUhVbklBZmN6T3ctaHpVTzJ6eTZrZDBxYkhOTHVRMW05aGNJSTdLSzNPX3RaNzVXMDcxeUl5UWJ1LWd5RXZIN2owTFYzdkd3dHlOdElJMHB0MnZpNUlkV19nU3RGcDA0a05MRTNENTc3OFdKeVRrRF9EVF9hTFgta2lXc0pRMVFMUW9Ielp3QlJNMmhxUTg0TVZTc2dCbjl2UXdpUm9SUWNIUDNVS1lkQnhnOS1hU2ZMSWtXaGJRd0FBeG40NDZkY2J6bVZuQklZN29tWmROd2FQQmR1WE9M0gHoAUFVX3lxTE5wMmJLR1JSVTVlSFVuSUFmY3pPdy1oelVPMnp5NmtkMHFiSE5MdVExbTloY0lJN0tLM09fdFo3NVcwNzF5SXlRYnUtZ3lFdkg3ajBMVjN2R3d0eU50SUkwcHQydmk1SWRXX2dTdEZwMDRrTkxFM0Q1Nzc4V0p5VGtEX0RUX2FMWC1raVdzSlExUUxRb0h6WndCUk0yaHFRODRNVlNzZ0JuOXZRd2lSb1JRY0hQM1VLWWRCeGc5LWFTZkxJa1doYlF3QUF4bjQ0NmRjYnptVm5CSVk3b21aZE53YVBCZHVYT0w?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-17T13:22:22.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years - The Straits Times",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWRtbnJkcmhPX0IyQllDb1dvNVVnTnF5OTR4WHVtNUFpZE9RcGdqb0JTZkhzOUhuVUhKelhoaWdKLUE3bFRsMDA1MEQ0OThhSEtoVXMyOEU2UGRqWUFiZlg4dDUyWmMxRkVST2ZqOW53LWxRUnh3M0RmNnV2bGQ4eF9CalpvXy1YZXdyUWJJcG5lNnJEOV9ybFZPQktHUWgtaVgxaUpfWVRNbWJxNmtrVUVuVTdxMmF6RGZwXzZyV0NYMEd6eXc?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-23T02:45:00.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "malware",
       "label": "Malware",
       "totalArticles": 2,
@@ -1247,6 +1305,64 @@
       ]
     },
     {
+      "theme": "suicide-self-harm",
+      "label": "Suicide / Self-Harm",
+      "totalArticles": 2,
+      "distinctSources": 1,
+      "highRiskArticles": 0,
+      "trend": "Low volume",
+      "changePercent": null,
+      "reason": "2 articles in 7 collected days.",
+      "daily": [
+        {
+          "date": "2026-10-17",
+          "count": 0
+        },
+        {
+          "date": "2026-10-18",
+          "count": 1
+        },
+        {
+          "date": "2026-10-19",
+          "count": 0
+        },
+        {
+          "date": "2026-10-20",
+          "count": 0
+        },
+        {
+          "date": "2026-10-21",
+          "count": 0
+        },
+        {
+          "date": "2026-10-22",
+          "count": 0
+        },
+        {
+          "date": "2026-10-23",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Pakistan rescues teenage girl coerced into animal cruelty, self-harm by online network ‘764’ - Arab News PK",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjJlb1VJb1ktM1BtLTlMN3JFenpkc3ZLVkZVanJWM1pnQkhOVFpUWENHd1R0cUhLWWc1OVZIQk9HazMtNDRMTlNjUm94amFrZHptMXBvdEtmYnhaZVFLcXFLbWpfeVhWbU5qQkhfRGs3N1A2dks2UjN1Qmd5cnJSZmtHd0c5bS1nMkI3T25Zd05qa3A4MzNnYndsZFVBUURnWF80QVZOcnJLcE5QUDNGcktjZmM2WXdLMjhOcko5d212bmlqam1ORWJB?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-10-23T04:26:17.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Why self-injury and suicidal behaviour should not be confused - Deccan Herald",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzh5N1hmcGRMMG50enozSXJxMWZTTjZKWnctSm5wMHRLajB3eWJNMXQ0S3hZd0pzbkdSTGVCVmV2c1lyVHU2S3RVcWZpSXNvSzZqbGRQel9SV25EWVp1WGFBLVFGNlplUGJUNzJhZGU1akR4UnU2Qk1FZWoxR01rRHotZDdjbHN1R0V2YnNYSVhrdmZaNXNsQUxkZ2F0TUp6SHZ2RjBJWUF6c2Fka1BvVzhYUndYRDNMMl91S1NaV2JZZw?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-10-17T20:00:13.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "human-exploitation",
       "label": "Human Exploitation",
       "totalArticles": 1,
@@ -1292,106 +1408,6 @@
           "source": "Google News • Human Exploitation Abuse",
           "publishedAt": "2026-10-21T04:18:03.000Z",
           "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "illegal-goods",
-      "label": "Illegal Goods",
-      "totalArticles": 1,
-      "distinctSources": 1,
-      "highRiskArticles": 0,
-      "trend": "Low volume",
-      "changePercent": null,
-      "reason": "1 article in 7 collected days.",
-      "daily": [
-        {
-          "date": "2026-10-17",
-          "count": 1
-        },
-        {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
-          "date": "2026-10-19",
-          "count": 0
-        },
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
-        {
-          "date": "2026-10-21",
-          "count": 0
-        },
-        {
-          "date": "2026-10-22",
-          "count": 0
-        },
-        {
-          "date": "2026-10-23",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "India News | Keralam: CBI Arrests Key Accused in International Cyber Fraud and ATM Card Smuggling Case - LatestLY",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcDJiS0dSUlU1ZUhVbklBZmN6T3ctaHpVTzJ6eTZrZDBxYkhOTHVRMW05aGNJSTdLSzNPX3RaNzVXMDcxeUl5UWJ1LWd5RXZIN2owTFYzdkd3dHlOdElJMHB0MnZpNUlkV19nU3RGcDA0a05MRTNENTc3OFdKeVRrRF9EVF9hTFgta2lXc0pRMVFMUW9Ielp3QlJNMmhxUTg0TVZTc2dCbjl2UXdpUm9SUWNIUDNVS1lkQnhnOS1hU2ZMSWtXaGJRd0FBeG40NDZkY2J6bVZuQklZN29tWmROd2FQQmR1WE9M0gHoAUFVX3lxTE5wMmJLR1JSVTVlSFVuSUFmY3pPdy1oelVPMnp5NmtkMHFiSE5MdVExbTloY0lJN0tLM09fdFo3NVcwNzF5SXlRYnUtZ3lFdkg3ajBMVjN2R3d0eU50SUkwcHQydmk1SWRXX2dTdEZwMDRrTkxFM0Q1Nzc4V0p5VGtEX0RUX2FMWC1raVdzSlExUUxRb0h6WndCUk0yaHFRODRNVlNzZ0JuOXZRd2lSb1JRY0hQM1VLWWRCeGc5LWFTZkxJa1doYlF3QUF4bjQ0NmRjYnptVm5CSVk3b21aZE53YVBCZHVYT0w?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-17T13:22:22.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "suicide-self-harm",
-      "label": "Suicide / Self-Harm",
-      "totalArticles": 1,
-      "distinctSources": 1,
-      "highRiskArticles": 0,
-      "trend": "Low volume",
-      "changePercent": null,
-      "reason": "1 article in 7 collected days.",
-      "daily": [
-        {
-          "date": "2026-10-17",
-          "count": 0
-        },
-        {
-          "date": "2026-10-18",
-          "count": 1
-        },
-        {
-          "date": "2026-10-19",
-          "count": 0
-        },
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
-        {
-          "date": "2026-10-21",
-          "count": 0
-        },
-        {
-          "date": "2026-10-22",
-          "count": 0
-        },
-        {
-          "date": "2026-10-23",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Why self-injury and suicidal behaviour should not be confused - Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzh5N1hmcGRMMG50enozSXJxMWZTTjZKWnctSm5wMHRLajB3eWJNMXQ0S3hZd0pzbkdSTGVCVmV2c1lyVHU2S3RVcWZpSXNvSzZqbGRQel9SV25EWVp1WGFBLVFGNlplUGJUNzJhZGU1akR4UnU2Qk1FZWoxR01rRHotZDdjbHN1R0V2YnNYSVhrdmZaNXNsQUxkZ2F0TUp6SHZ2RjBJWUF6c2Fka1BvVzhYUndYRDNMMl91S1NaV2JZZw?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-10-17T20:00:13.000Z",
-          "riskScore": 48,
           "corroboratedBy": 1
         }
       ]

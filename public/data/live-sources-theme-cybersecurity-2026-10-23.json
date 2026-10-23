@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:48:49.719Z",
+  "generatedAt": "2026-10-23T05:07:36.900Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 76
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhIOTNtYVpQQ2VZQ0RnRHhKWWxYRHN5YWd1bF9iMWgwN241Z2pGNEFxYWxIRTltUFRtUkpMNEJKcTIyamNCRDFTQ2EwejdaYklVTEFfZmw5TExPYnhZWlRZVE1Wb1dhb2hDLTF6SlVEYjJpdlQ2TnY3TE1SZ3ZpdEp3cVpweThKR2lhdU41dUcyVVpIbjZ1QldwNS1RWEI5ZXdNZnc3YklCaGZTYzlRbHVKVHpaejJQMG9ERWpHYmVoRk9qQ2N1UXBkMjlqanRwQUtxVndR?oc=5",
+      "snippet": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem BW Businessworld",
+      "publishedAt": "2026-10-23T02:51:29.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Frequent data breaches expose Bangladesh’s cybersecurity gaps - New Age BD",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3BQcTREZ3lFSTNZY1pWT1FOMHQwU01xVTBGRXJpczN0Vm0teTB6Zk04YXpyeEdzX3ExNThBbGthWndZVzBfanJia0JtbDgtWThHek1tLXkxdll2WWdNbmpFcmpZWXhreWdKTzdOQTJ5TU1Lb05tTTRXanBTZm1CQncxYlZfRXdwZ3dHZksweXZ3WFhYM2pEZFhzazA2RkZuNFlwRnZxbXI?oc=5",
       "snippet": "Frequent data breaches expose Bangladesh’s cybersecurity gaps New Age BD",
@@ -193,6 +208,66 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Loblaw Data Breach: 24 Months Free Monitoring [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjkyM0IxVDZQZ1JDdklUNlZGREVLdXhHbkhQQTJIaTdNZXJueDVlajA3SnZUSFBieUNzZ1U0NlJwa3VMbmRPc1NFRDZoUnNrXzNhZGVwYnNXRlZYMHlmTUllQXhIZVZjVzNad3JuNmszcUxYN2liYVZkN2NTTDFqaWVsWHEzZWRn?oc=5",
+      "snippet": "Loblaw Data Breach: 24 Months Free Monitoring [2026] tech-insider.org",
+      "publishedAt": "2026-10-23T01:46:41.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Top Cybersecurity Companies of 2026 - The Software Report",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tN1RuWXk2aG9SXzZodFZwTFlqQmhwaFlxbEpQVF9UQWd0dC1adzhpSFZ6VENtc1NYY1pXLXQ4Ykp3b2kwT21TNzIzY3RXbl9rdU1iTTVvTTQ1TjFfM2pVa3pTZUVDU29qdy1MQWczSm9lbHYwd2RhczNfZ3Q?oc=5",
+      "snippet": "The Top Cybersecurity Companies of 2026 The Software Report",
+      "publishedAt": "2026-10-23T01:02:05.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Peel Regional Police Statement on the Crime Stoppers Data Breach - Peel Regional Police",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXpDbkp2OFJ1ZGdaZkx5RDJKWjBLUHRfQVkzcXRsRTlBRHNfQ2lZdzMxdF8yU3NJdmU4LVhHSVMzTFJXM1NnclV5ZHFJVk5rLWdkbEFQN01fWXh5ejA5eDBPQlFHSmRZYWpwc1o4OTVSRkE5OXlDOHowQWgtRUM0S2ZQZU1pNERqNjJULU5BZ1RFN3BuaUg0ajI1WkhNdEJaeWpEZjFLbjktY1E?oc=5",
+      "snippet": "Peel Regional Police Statement on the Crime Stoppers Data Breach Peel Regional Police",
+      "publishedAt": "2026-10-22T23:57:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Here are the Worst 5 Data Breaches of the Past Year and How to Protect Yourself - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0VRdGNQaTVISFdkOW1BNGF2MTBkXzgxenZDVFFVejZkQjJqbXBMck0za3VKS215bV9BTHhPVFBoWkhmVFQyNExWTDFvSG9LU3lXQWFUXzNiNVBMMm5UREJoZ0wyckYtM3JQVHpXV0IwMS1ub0M1ZlowaGlrN1VnT2R2M19hdDhFS2VRYmEzZjVaNTlSV0ZDQWFxd2hRdkFWSUdvanpxTQ?oc=5",
+      "snippet": "Here are the Worst 5 Data Breaches of the Past Year and How to Protect Yourself TechBullion",
+      "publishedAt": "2026-10-22T22:26:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
