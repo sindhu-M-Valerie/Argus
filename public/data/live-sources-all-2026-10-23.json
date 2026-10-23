@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:07:36.900Z",
+  "generatedAt": "2026-10-23T11:53:38.711Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 26
+    "total": 45
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,21 +79,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "How will platforms detect child abuse material? Supreme Court proposes a National Hash & URL Database, Time-Bound Reporting; Recognises right to internet access - SCC Online",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVJHcndGRzVQcy1tNkFReEdLLTg2QjBYZ1BzSmJpRFFFM213bEhzWVdXdDNibXZBZ1BUZjFrbGJ1Sm5FTW9EU1JIWkhveHlqeXFRZjh6dFMxQTBBaXJPNWNWMnFhd1B6MzJlM0xLQnlYQzRFT0wxemhuWU1fNWlQLU1rdWtMRHpzYVRyYTRybXQtOWFYdjlIX2ZPYk5POElNbW4zMnJ2bGI4Q0FNTjZBN0FVbTBEcnhBNXp1YVNqdEt5S2xVXzFpcA?oc=5",
+      "snippet": "How will platforms detect child abuse material? Supreme Court proposes a National Hash & URL Database, Time-Bound Reporting; Recognises right to internet access SCC Online",
+      "publishedAt": "2026-10-23T05:44:41.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "A 27-year-old man was sentenced to 11 years in federal prison for distributing child sexual abuse material. - Hoodline",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTFlnb0RHSW4xM1BMYy1Ea1FCeHB6Z3RqdDAxYmc5M3pwdFE3ZGhxSWtUcUx4WlB1UmdHUEs0bkM2S0hDUUdRZ3ljY2JKOGZlcnVLVWhySktPWjkyRk9zZVBBNUZFVWlYZFoyVjVlT3lNUzJTRE1qemhOYlAzSkdBV1Zrc015VmlPdW51WUNNNjlsRjJlNDZMUEhWYVhGTVpNUTRLOGQ3MTYzTmQwNjFCVXpXUzQybjA5Z1BDSU5JUEdOaUU0MTZlcFVn?oc=5",
@@ -215,7 +230,7 @@
       "title": "AI chatbot falsely labels Delhi protest photo as old, fuels misinformation - AFP Fact Check",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tTzRfdUxWOFMxZHBlSi1VQkhMMnFCVGV0SXRHa0F3dHRtTmMxd0E5U0l3STBpRmhaOUZpVklmXzlHR0ducWFNUUhMaGd1eURqZE5iOU1vXzE?oc=5",
       "snippet": "AI chatbot falsely labels Delhi protest photo as old, fuels misinformation AFP Fact Check",
-      "publishedAt": "2026-10-23T00:35:25.000Z",
+      "publishedAt": "2026-10-23T00:36:05.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -242,6 +257,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - Laredo Morning Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVMzMVlLOW94N09Nb1hoaGtaMDdya0ZiREt1QmNmRHB4WVlncjhEbEI5cVJHX0tBZHlFajRJT2NxS2lVMUdPdE5EN29aUmROMXpGZjcyRTdNeTdMWlUyTWxFY1ZadlNRZS1iSEZITENsVnZoZ0FENUlCSDBqM0lCVzVGSWR4S2l5R21BZWZxMlFUTDJiUDg2S0RHdFBXdjhQMHZQWEFrUQ?oc=5",
+      "snippet": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations Laredo Morning Times",
+      "publishedAt": "2026-10-22T23:38:47.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - chronicleonline.com",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVm1CdVVvQURudW9ubUJ1bVJlaEV0Qzk4OHVBbTBSLWVMMFNzcG5icnFYdzhxV0F6SGZ2cE9oOEljWVVZZzBWYzBQWFN0NExLUTNCTWhlenNDVXIzV2MxTTV3UGVVd3Nob2s4U3BYbFBScERlUUJMUC1DdkNqb2xfX2xoOTFOMWdYS1p4aVVwUW13YWF5QnNiWC1jYkFMclVjQkNyTTJuc2lpLXl5a29KYUVwaHRQNzJRY0hyM014R01PNGFldjRWUlk1X3l6Ml9aLWtNT1AzSTZENmdsQ0N2WlNGakpGbnNUQVNtYW1KUE10cGRycUlub1FTSzBSSm5MVGZBVHJ4RzNZMm1jWXkxWHk1ekU1d0Zt?oc=5",
+      "snippet": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations chronicleonline.com",
+      "publishedAt": "2026-10-22T20:43:46.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - Stamford Advocate",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclI0WnpaSXRNUm1BQkFFUjZ3R1FOVUdEMGtlbXFleW5UUGRNVW9CVTRVQXlyeUtDeTlOaG50NGliN0c2T1pjVXVXSmFpQTdUTnI1SXp1OGE0Ui1haVJWZVMwVGlCMElpQ0VocnVmVkR6NVdDNkMzOTNTbXpxeWZMT3JMYXphYlV5eVQwWFlSRHAxUy04R0UyMTNoZE84VUtydF9ma3F3aERtNVZTejdSTVJMSGE?oc=5",
       "snippet": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations Stamford Advocate",
@@ -253,6 +298,81 @@
       "feedTheme": "dangerous-organizations",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pinoy teen arrested for online sexual exploitation of minor Australian ex-girlfriend - Interaksyon",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTjBCUUhhR0kzMHdtSDkwZDU5UzVMaEVTSnlKUXVHQ3piQUxWTThJTGJjdkRZUmJVdnJGbjFtNnhVY3N0d1hJd2RyZnhTTlcyZ3pQeGpoeVdWZ1Z0QjBPY1dnZ0Jab2F5SWROeWpKNC0xY0lvRXZtRTJma0Q2MndfTTNiSTQ1WVFpb0x6SXIxMkhTZW5reGw4MTFGUTZjSkl6NTYzTzc5UnlDOEJNT1ptcU5QSkc4RzlJVWkyemhsUGxRVHVnMDZjTTREa250M0FhbDByVF9ZYmpFQkt6YlE?oc=5",
+      "snippet": "Pinoy teen arrested for online sexual exploitation of minor Australian ex-girlfriend Interaksyon",
+      "publishedAt": "2026-10-23T10:53:04.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Franklin County man gets 25 years in child exploitation case - KTTN",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2ZFN1pkLTNlUnJxUkphRVNpN1ozYnB3UUdiMlpEbGc0Q3NEOUJyaVBkTGFtRFdyZkpScGNDV1RsUUdIU3F5b2dycjFWY1pCYS1naEd4aUMxUW9MaF9jaEVyTkxXbUx0MUxOQnFHbnVTTnRpWExiUXE3T0w1MFhQT1lXVVJDMkhGSXc?oc=5",
+      "snippet": "Franklin County man gets 25 years in child exploitation case KTTN",
+      "publishedAt": "2026-10-23T09:33:36.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Did Neha Bora call for Bangladesh-like GenZ protest, 'anarchy' in India? WION Fact-checks viral claim - WION",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFVGaEo4Zkh6cWYwV09JRmpCd2JSbFlYT1NRV3A3MXFINFA3aTlyV1gzTnhVamxlQ0hLSDNTTmZCR2x5eWZqMVdMbnJ2SVFtX2FFQXlpanMyelZQRGNOdTljcDg0YXZVOGwwMVVkNmZDS3BUUjR4cmZ0VjNYVFNUNWluRnozd2hJVU44RVU4QldsbURLOGpoclJxZi1VN2VjVnJJU2QwQ3NmLWd0d0RPSVRQOURnMTR3aU1LNTVObFdfM0dDeDlXWUI2WTJEWFktUWxaQ2kwZkZKZjVkUmdN0gHkAUFVX3lxTE9aNWlCZ1pyU0Z5MmpSZHpRVHM0OXRyWC1USTdONDQ0SDZmOG52emZoRHJXZ2ZkRGZMS3lia0FFVFBCWi1ZTEk5Z2I0dHFVbnNUUXFiYzF3OWo3dFZZbkcwVUdfMHBFcW9mZFFUYm5BeUtTeUJPQWxhekRNSm01d2NUeHN5MFRFdFlqQ05XSXZUZmZaWFc0ZVYxQ1BUZHh4ZnZfb29PMENnX0pXcFNTT0wzMGVjMTFyUlR3N0J5bl9hN3B0UWNjLUp5b1ZxVFR0ZTA1aEdvY1R0MU5ESEVhaW5OTkJaTA?oc=5",
+      "snippet": "Did Neha Bora call for Bangladesh-like GenZ protest, 'anarchy' in India? WION Fact-checks viral claim WION",
+      "publishedAt": "2026-10-23T07:41:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police charge four men with 57 child exploitation offences - The Cairns Post",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbEJ6eVUwQm9kb2lhcXNMV3lYWVVQMm9XZ0k1WkRDelFzcUVlY3NKOUZjVWFiNFc2Q3YtM181M0pTMHVsODVvWFlYdGxjSnNJZ1VCeUR2QlhNU0hBNEtYb2Njd0tSOERCWjNab1NaOHlJNW53dThRUGQ5Z2dOdjQyQmJmcXowOTEwQlFiYmIxVm5tV043bl9FTTNQRi1wSEdTYVdwV0U0TldISGFyOTJCRjBCZFBuR3pyakpMTkxKam1SZFRrUUdOLTJmb0F5NTZ3Uy1zQzY1TTh1aVNTTDh3S2JjT2hULWg5Z2lNWXZrYUhVdXcxMDBUaXVKSk1KcW1KTTZJRkpBZFRfQm95WWdvWExSUlc0c3FtVl9CUXJfMmhfcnRr?oc=5",
+      "snippet": "Police charge four men with 57 child exploitation offences The Cairns Post",
+      "publishedAt": "2026-10-23T06:21:36.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Southeast Asia's Cybercrime-Cyber Slavery Nexus: Implications for India - orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3dCaUJmeUFrTkozV1JMSGZuRjU5T1NpQmpxS0xiQk5uS1huUmcxQTVVdy1yQndZVEM0cEpYOXpXN1VUSGhteVZDUThnN1FyUVZrcGh1QjlHTEF5M0JOdWJYc2VGR3I4U1FHWkxySHE5MVVOLTFqNXJoSjdfNnNwU0ZxMEwzSGQtS3p3bGJWdmp0dFdjUE9YdGJFanBWWFZhQU9GWkIyYko?oc=5",
+      "snippet": "Southeast Asia's Cybercrime-Cyber Slavery Nexus: Implications for India orfonline.org",
+      "publishedAt": "2026-10-23T04:54:38.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -347,6 +467,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "APC targets diaspora networks to counter misinformation - Daily Trust",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMlFlQVZ0S2s0ZHBZYklyNWpCQ211YmI5MVh2NXNwRTZQMzBERXVxUDZreVdkYUM0Z056dFNrQlU0YW5DUkJrSkdfR0pUSmhQdEdWZkc2UjZFRExQdjdOVFl4OHkza1VwSUpRUFBFdk02N0gyR21KbTA4Q0swdmtxQ1R0SmwzUQ?oc=5",
+      "snippet": "APC targets diaspora networks to counter misinformation Daily Trust",
+      "publishedAt": "2026-10-23T06:59:25.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WebQoof Recap: Of Misinformation Around Anti-CEC Protests, AI visuals & More - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2FHek1fT2pydmtEZlZPVUZmQURFS1BqekdKaWxFS3Rtak9reUM3MGx2UDNVejN2NzZZdEZCS3BTZDl3SW53QWdkYjJVNGRDaGRTREJ5emd6NjItdnlOdjVkUjdmY295U04xR2JMYnlFejNUQU9GYlVBUmJ1aFFrWDJVbGRZaFQ1RGs2UkpGOXFaSGhzaVAzaHQybVBYUmVBQ0t6bjhDczJNV3BwZTVyTVBn0gG_AUFVX3lxTE9iVHQ2Ym9abDhIa3NsN0FvMXd3R1JQNUc1MExpS1ZvcEZmeTdWd3V1MnNtUEdnYWh1U2RoNTYzZE9LTVFOaElBOHJwdlMzUlNSWDNnT1FGazFsYWZwSUFCVElCMnRjcUlQOHpHLTVaU1ZKdThpcHhobHdrMkZGLUhTVEhtRE5GYnR0dUhxbnVrTnNpeHFhcDNJRnNHbl9kYXFoR2ZjSkZ6U3FmR21Ub3RHa3lhVHBNTEpnaC13UW1n?oc=5",
+      "snippet": "WebQoof Recap: Of Misinformation Around Anti-CEC Protests, AI visuals & More The Quint",
+      "publishedAt": "2026-10-23T06:53:59.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Pakistan rescues teenage girl coerced into animal cruelty, self-harm by online network ‘764’ - Arab News PK",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjJlb1VJb1ktM1BtLTlMN3JFenpkc3ZLVkZVanJWM1pnQkhOVFpUWENHd1R0cUhLWWc1OVZIQk9HazMtNDRMTlNjUm94amFrZHptMXBvdEtmYnhaZVFLcXFLbWpfeVhWbU5qQkhfRGs3N1A2dks2UjN1Qmd5cnJSZmtHd0c5bS1nMkI3T25Zd05qa3A4MzNnYndsZFVBUURnWF80QVZOcnJLcE5QUDNGcktjZmM2WXdLMjhOcko5d212bmlqam1ORWJB?oc=5",
       "snippet": "Pakistan rescues teenage girl coerced into animal cruelty, self-harm by online network ‘764’ Arab News PK",
@@ -356,6 +506,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "suicide-self-harm",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Health misinformation minefield: Countering online deluge by copying its style - Genetic Literacy Project",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTFUNTZueVVLd2RjM3NWNmtwZGpyUDAwYzRHOUNNb0NrMGxyTkxJS0dRaU9mdHEwcVNtcl9iRWczaDVTWjUtUTM4RzlXWVNJUkE3dXo2Q21jRmJDZS1IdnJxeGluQ0tLeGpNQXhpQTBLU1BCVG9aVS1OdDNCY2VvMHdsaC1rdXlHQUYyZHZqNUczWXhiZHVIeVJKNGd4aGlaRkh1NEpEclIzTFVQcFR5Vl8xcGVJQS1YdWZBVW9GV0lPdw?oc=5",
+      "snippet": "Health misinformation minefield: Countering online deluge by copying its style Genetic Literacy Project",
+      "publishedAt": "2026-10-23T04:13:08.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
@@ -452,6 +617,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "WhatsApp and Telegram Face New SIM Verification Rules to Prevent Cyber Fraud - Cyber Press",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QT3lhQVYwalhraTBkLWlvVVFLdll2R184MmVOeEFqemFGeEpyZE5KZDhuMHhGeEw2MEFVTU93bGhVNmpjNTMybVlkWUVGSHhWZzVRVkEtcmZXcS1GN2hRdUg0cUNQLWdrb2lWN1c2SnVOdUJYcS1JZdIBeEFVX3lxTE5QT3lhQVYwalhraTBkLWlvVVFLdll2R184MmVOeEFqemFGeEpyZE5KZDhuMHhGeEw2MEFVTU93bGhVNmpjNTMybVlkWUVGSHhWZzVRVkEtcmZXcS1GN2hRdUg0cUNQLWdrb2lWN1c2SnVOdUJYcS1JZQ?oc=5",
+      "snippet": "WhatsApp and Telegram Face New SIM Verification Rules to Prevent Cyber Fraud Cyber Press",
+      "publishedAt": "2026-10-23T09:05:46.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "In India, pro-government media and far-right networks capitalize on France's October 17 riots - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTWo1LXdETnRFeVkxRTNBZkY4LTNFM0Q1ZGppRWZEUVJiZkFHeHRXRWlpMGh5QUxRcVdnNi0tNzFtNU1MbGtlQUhqRVpkeE5oLVktYVlhUXBxLTJBMXlUUTBXMnlmNU1zWXVpNjJvcWxacVlncGJ0WXN6VXNlcC1jNjZlMy1tNWlNdmpYbWxDaDB0alpaRHRWTHNVbTJKOGhhS08zT0JTNjZOUkNfeldCWVlMWWY0UnBVRmsyWm5YOWdfQ21DckVtWkd6al8yNnZvMElaRUZhNVdfZk5oTEVDMUVsbm8xc0NGRXRBY2RsVHNWRTYwLUM3VS1R?oc=5",
+      "snippet": "In India, pro-government media and far-right networks capitalize on France's October 17 riots Le Monde.fr",
+      "publishedAt": "2026-10-23T08:06:44.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Chinese-Pakistani scam networks seek foothold in Bangladesh as security gaps raise alarm - BLiTZ - Fears None But God",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXN2M3doS1dvdU1zUWtjbER4NGhmZ2cySkZ5Y1VGdjVidkFmYUZId1RXSEJoVERLZXVFUkZLdEtSdU1OTVZqWGFLRGFMOGNVOFdmNnBOVlB0RWpNS3ZVUm9WTmpWd0tneEFRYWxibGR5V3NPbUpDWWl2NVhUdHJKeUpQdmw?oc=5",
       "snippet": "Chinese-Pakistani scam networks seek foothold in Bangladesh as security gaps raise alarm BLiTZ - Fears None But God",
@@ -467,8 +662,113 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Dark Web Exploitation in Pakistan: NCCIA Rescues 13-Year-Old Girl in Karachi - PhoneWorld",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWQ3SXI4aVNoZjhtMW1BNldpOEZvaWxoQXlyUnkySW9YYmlqTzJrOHFsRHpPXzZXS2w1N3F1eEZVRjcyc0VHM2FmZ0RzNDBhMFlpbHkxV3JKeE54dWxfdW5tX1BxM1k1UlpEc2dFMTM4MkxmQmJrNndJNDEtUFNOejhwZlBCTFZYMi01V2RTdGZkeG5tTlB5N3RiWVR1UTFqMUV5Mk95Y3ZHdw?oc=5",
+      "snippet": "Dark Web Exploitation in Pakistan: NCCIA Rescues 13-Year-Old Girl in Karachi PhoneWorld",
+      "publishedAt": "2026-10-23T10:06:21.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Trends In Healthcare Data Breach Statistics - The HIPAA Journal",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5",
+      "snippet": "Trends In Healthcare Data Breach Statistics The HIPAA Journal",
+      "publishedAt": "2026-10-23T09:52:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "dark web network: NCCIA rescues Karachi girl from abuse - NewzTodays",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVRCcTF5dFRObHpXd3UtSHRjcTNsWnJKYVA4bDlWbHNURFVDZXFId2JrSW8xRlliTmFUcUpXMEdhakNpOENvTlYwaFQ1NGlhSjFXOFBpN0JTUEdhZW42LWRWWXhjV0paTTJfRkZmTjB3Sm82RlA0dHJzM1FKSTVDSUdR?oc=5",
+      "snippet": "dark web network: NCCIA rescues Karachi girl from abuse NewzTodays",
+      "publishedAt": "2026-10-23T08:38:22.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Capcom ID Data Breach Exposes 11.7 Million User Accounts: Incident Analysis and Security Impact - Rescana",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRG5HbHFQR1NSeFpzUF84RFYzdXAtYVVHR0ppNGFaSjFRX08tNUhjeXpQUWM4TGZLd0dXVGFzLUgwVF8zX2NQRFNrVl96Wkl0UU41Q0dCcWVOU1gtdW9GS0ZDWWRVeFRCcGpVeklKU2NVTU54eUtPNnBQZnZ1UU1wVE1xb1dkZlpweFV4WFIwZmJVTUZmNXo3alNPRG5fT3JWdFh6MEpVQTdCZmdpWmw1SlpEeW5tUFFqZ3c0TF9OVFI?oc=5",
+      "snippet": "Capcom ID Data Breach Exposes 11.7 Million User Accounts: Incident Analysis and Security Impact Rescana",
+      "publishedAt": "2026-10-23T07:13:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PHP Security Flaw Triggers Global Hacking Surge; Experts Offer 5 Protections - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHBHZ1dkT2JmVVZOLU5LeUtvcDJPcm41NWZRYkdjRGw1a2FvWE5vZVNfZUpXR29renprY19IRVU3QVU2Rm9JaEZvS0Y5OGE3QV9mN1NFUWk1aUptV2JUT0kwM3JjaERjSXhHRGZ0S0NEUkRTN0p6d25hYWMtT1dPLThqVG1NakxL?oc=5",
+      "snippet": "PHP Security Flaw Triggers Global Hacking Surge; Experts Offer 5 Protections 조선일보",
+      "publishedAt": "2026-10-23T04:45:37.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Foreign agency’s alert helps Pakistan rescue girl from international online abuse network - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJuTkFkY3lycVRfOHFWVWQ0NmVzeXBXbG90ekkwWFVaaER6NWJSdkxpMmhodXBqeGREY0ZWWHRyaEUyb0RjRl9CSFRHU1pKV0VaeDc0SnRHX0JiSkJZQUhqZ0o3VS15S01ZZFZ3eXNlc3haMVZheS1DQUdSZDBDd0d2Nl93NnpzQ0ZPVHFVWUVuT2V4MzRTOW5FMGh5VEJvR2o4WGZkbmtGc3owNG51a3Y1M1hQRmpEMEhJTXU3Zy1HM3h0dHZJdA?oc=5",
+      "snippet": "Foreign agency’s alert helps Pakistan rescue girl from international online abuse network Arab News PK",
+      "publishedAt": "2026-10-23T04:26:17.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years - The Straits Times",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWRtbnJkcmhPX0IyQllDb1dvNVVnTnF5OTR4WHVtNUFpZE9RcGdqb0JTZkhzOUhuVUhKelhoaWdKLUE3bFRsMDA1MEQ0OThhSEtoVXMyOEU2UGRqWUFiZlg4dDUyWmMxRkVST2ZqOW53LWxRUnh3M0RmNnV2bGQ4eF9CalpvXy1YZXdyUWJJcG5lNnJEOV9ybFZPQktHUWgtaVgxaUpfWVRNbWJxNmtrVUVuVTdxMmF6RGZwXzZyV0NYMEd6eXc?oc=5",
+      "snippet": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years The Straits Times",
+      "publishedAt": "2026-10-23T02:45:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeUt6SjhKTDY1bElaeGhuV0JIX1ZEdUdIYUpfdS1yMFEwNzJTZUViY0d0TC1wWXhoMk9LY29HQ3A5SmxmcWhWdDdsSWtzQkZBbXgtc2F0Nm56OHAxcjRsNkdVR3N1eHh3SGhXcWprb1dqNVR3aXo0OF9RT3lIMXZWYVhJVjV4TWotOFRBYmlKeU5yaDAweU1INTJLMXBkVmZpd2pxNnNWWFYwN1IxS3ktSTNvQnhaN1gzQUd5NTlLMFRXbFV1Q3dkNVlwb2hiUXRBMkNHZmpEcmdiclp4dFdOeG1n?oc=5",
       "snippet": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years The Straits Times",
       "publishedAt": "2026-10-23T02:45:00.000Z",
       "source": "Google News • Human Trafficking (South Asia)",
@@ -531,21 +831,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0VRdGNQaTVISFdkOW1BNGF2MTBkXzgxenZDVFFVejZkQjJqbXBMck0za3VKS215bV9BTHhPVFBoWkhmVFQyNExWTDFvSG9LU3lXQWFUXzNiNVBMMm5UREJoZ0wyckYtM3JQVHpXV0IwMS1ub0M1ZlowaGlrN1VnT2R2M19hdDhFS2VRYmEzZjVaNTlSV0ZDQWFxd2hRdkFWSUdvanpxTQ?oc=5",
       "snippet": "Here are the Worst 5 Data Breaches of the Past Year and How to Protect Yourself TechBullion",
       "publishedAt": "2026-10-22T22:26:27.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Trends In Healthcare Data Breach Statistics - The HIPAA Journal",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5",
-      "snippet": "Trends In Healthcare Data Breach Statistics The HIPAA Journal",
-      "publishedAt": "2026-10-22T20:38:40.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

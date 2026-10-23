@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:07:36.900Z",
+  "generatedAt": "2026-10-23T11:53:38.711Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,21 +79,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -190,6 +190,36 @@
       "theme": "tvec",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - Laredo Morning Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVMzMVlLOW94N09Nb1hoaGtaMDdya0ZiREt1QmNmRHB4WVlncjhEbEI5cVJHX0tBZHlFajRJT2NxS2lVMUdPdE5EN29aUmROMXpGZjcyRTdNeTdMWlUyTWxFY1ZadlNRZS1iSEZITENsVnZoZ0FENUlCSDBqM0lCVzVGSWR4S2l5R21BZWZxMlFUTDJiUDg2S0RHdFBXdjhQMHZQWEFrUQ?oc=5",
+      "snippet": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations Laredo Morning Times",
+      "publishedAt": "2026-10-22T23:38:47.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - chronicleonline.com",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVm1CdVVvQURudW9ubUJ1bVJlaEV0Qzk4OHVBbTBSLWVMMFNzcG5icnFYdzhxV0F6SGZ2cE9oOEljWVVZZzBWYzBQWFN0NExLUTNCTWhlenNDVXIzV2MxTTV3UGVVd3Nob2s4U3BYbFBScERlUUJMUC1DdkNqb2xfX2xoOTFOMWdYS1p4aVVwUW13YWF5QnNiWC1jYkFMclVjQkNyTTJuc2lpLXl5a29KYUVwaHRQNzJRY0hyM014R01PNGFldjRWUlk1X3l6Ml9aLWtNT1AzSTZENmdsQ0N2WlNGakpGbnNUQVNtYW1KUE10cGRycUlub1FTSzBSSm5MVGZBVHJ4RzNZMm1jWXkxWHk1ekU1d0Zt?oc=5",
+      "snippet": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations chronicleonline.com",
+      "publishedAt": "2026-10-22T20:43:46.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "dangerous-organizations",
       "riskScore": 56,
       "confidence": "Medium",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:07:36.900Z",
+  "generatedAt": "2026-10-23T11:53:38.711Z",
   "snapshot": true,
   "date": "2026-10-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 16
+    "total": 17
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,21 +79,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -364,6 +364,21 @@
     {
       "title": "Russia Targeting Democrats With Online Disinformation Ahead Of US Midterm Polls, Say Senior Lawmakers - Times Now",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZHFic2dHQWlaaklkR0JkQ2dfYUpoZEwtN1M5MDRaNjh2NHlaTzdYZ3ZZLXVWZUxyVlpJdVNaOU84LWFoTEllcDZ1RTVSRGtfWDlBdzB5Wms2XzN0SXRSQjVkRGJFUWtFQjBHRGExMXFtVXpXUHMwc0JHbEpldENxeTAtSTR5UUp0ajZ6cFhMblRYVUl5N1JZTEFMdDBDc29pcGZVRzU4Mk1Oc18ySXhSMTJ4a2V3TGNSWWpFV29GLWdPLXVZSzhfSnlVbWpRUERwbXZXWjBxSVlsQmJLOXNzRmUxR1ZwbjJfY2ZBMWtuQWZaZkpFalJN0gH8AUFVX3lxTE1IV1hqSXFNNkQxMEtuVGw4cGw0eFh0YmlNaGYxRnJQdElWa1UxVkVyc2lRVzRqTXpTaFdvMWdfYlA0cy1CdGZBUXBwTWVxR2hsLV9jaXNKX21NYi1EWWdzajZtR2NXM2RGS3ozNTF3YXhlTzlhSVh5UlBvT09DeF9ESEJ6U1RWLV9DNTNSZHgyQmF4NFNEQ0pCQUZhUGtPM3pfNHNsLXRtcjhoZTBRV2FCTGg5Q3JMVEJGQ1JaMENkWFpTYXlXcmM1Zmh2YVdXM0M4QS1LUnhxcHZjQUtWeGMyd3RvTkpxbWp0VmhQSmhsd2ZHbWRCcTU2YlYxZQ?oc=5",
+      "snippet": "Russia Targeting Democrats With Online Disinformation Ahead Of US Midterm Polls, Say Senior Lawmakers Times Now",
+      "publishedAt": "2026-10-22T07:41:49.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Russia Targeting Democrats With Online Disinformation Ahead Of US Midterm Polls, Say Senior Lawmakers - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSFdYaklxTTZEMTBLblRsOHBsNHhYdGJpTWhmMUZyUHRJVmtVMVZFcnNpUVc0ak16U2hXbzFnX2JQNHMtQnRmQVFwcE1lcUdobC1fY2lzSl9tTWItRFlnc2o2bUdjVzNkRkt6MzUxd2F4ZU85YUlYeVJQb09PQ3hfREhCelNUVi1fQzUzUmR4MkJheDRTRENKQkFGYVBrTzN6XzRzbC10bXI4aGUwUVdhQkxoOUNyTFRCRkNSWjBDZFhaU2F5V3JjNWZodmFXVzNDOEEtS1J4cXB2Y0FLVnhjMnd0b05KcW1qdFZoUEpobHdmR21kQnE1NmJWMWXSAfwBQVVfeXFMTUhXWGpJcU02RDEwS25UbDhwbDR4WHRiaU1oZjFGclB0SVZrVTFWRXJzaVFXNGpNelNoV28xZ19iUDRzLUJ0ZkFRcHBNZXFHaGwtX2Npc0pfbU1iLURZZ3NqNm1HY1czZEZLejM1MXdheGVPOWFJWHlSUG9PT0N4X0RIQnpTVFYtX0M1M1JkeDJCYXg0U0RDSkJBRmFQa08zel80c2wtdG1yOGhlMFFXYUJMaDlDckxUQkZDUlowQ2RYWlNheVdyYzVmaHZhV1czQzhBLUtSeHFwdmNBS1Z4YzJ3dG9OSnFtanRWaFBKaGx3ZkdtZEJxNTZiVjFl?oc=5",
       "snippet": "Russia Targeting Democrats With Online Disinformation Ahead Of US Midterm Polls, Say Senior Lawmakers Times Now",
       "publishedAt": "2026-10-22T07:41:49.000Z",
       "source": "Google News • Misinformation (India)",

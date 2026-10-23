@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:07:36.900Z",
+  "generatedAt": "2026-10-23T11:53:38.711Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 8
+    "total": 10
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,21 +79,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -212,6 +212,51 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Trends In Healthcare Data Breach Statistics - The HIPAA Journal",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5",
+      "snippet": "Trends In Healthcare Data Breach Statistics The HIPAA Journal",
+      "publishedAt": "2026-10-23T09:52:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Capcom ID Data Breach Exposes 11.7 Million User Accounts: Incident Analysis and Security Impact - Rescana",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRG5HbHFQR1NSeFpzUF84RFYzdXAtYVVHR0ppNGFaSjFRX08tNUhjeXpQUWM4TGZLd0dXVGFzLUgwVF8zX2NQRFNrVl96Wkl0UU41Q0dCcWVOU1gtdW9GS0ZDWWRVeFRCcGpVeklKU2NVTU54eUtPNnBQZnZ1UU1wVE1xb1dkZlpweFV4WFIwZmJVTUZmNXo3alNPRG5fT3JWdFh6MEpVQTdCZmdpWmw1SlpEeW5tUFFqZ3c0TF9OVFI?oc=5",
+      "snippet": "Capcom ID Data Breach Exposes 11.7 Million User Accounts: Incident Analysis and Security Impact Rescana",
+      "publishedAt": "2026-10-23T07:13:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PHP Security Flaw Triggers Global Hacking Surge; Experts Offer 5 Protections - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHBHZ1dkT2JmVVZOLU5LeUtvcDJPcm41NWZRYkdjRGw1a2FvWE5vZVNfZUpXR29renprY19IRVU3QVU2Rm9JaEZvS0Y5OGE3QV9mN1NFUWk1aUptV2JUT0kwM3JjaERjSXhHRGZ0S0NEUkRTN0p6d25hYWMtT1dPLThqVG1NakxL?oc=5",
+      "snippet": "PHP Security Flaw Triggers Global Hacking Surge; Experts Offer 5 Protections 조선일보",
+      "publishedAt": "2026-10-23T04:45:37.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Loblaw Data Breach: 24 Months Free Monitoring [2026] - tech-insider.org",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjkyM0IxVDZQZ1JDdklUNlZGREVLdXhHbkhQQTJIaTdNZXJueDVlajA3SnZUSFBieUNzZ1U0NlJwa3VMbmRPc1NFRDZoUnNrXzNhZGVwYnNXRlZYMHlmTUllQXhIZVZjVzNad3JuNmszcUxYN2liYVZkN2NTTDFqaWVsWHEzZWRn?oc=5",
       "snippet": "Loblaw Data Breach: 24 Months Free Monitoring [2026] tech-insider.org",
@@ -261,21 +306,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0VRdGNQaTVISFdkOW1BNGF2MTBkXzgxenZDVFFVejZkQjJqbXBMck0za3VKS215bV9BTHhPVFBoWkhmVFQyNExWTDFvSG9LU3lXQWFUXzNiNVBMMm5UREJoZ0wyckYtM3JQVHpXV0IwMS1ub0M1ZlowaGlrN1VnT2R2M19hdDhFS2VRYmEzZjVaNTlSV0ZDQWFxd2hRdkFWSUdvanpxTQ?oc=5",
       "snippet": "Here are the Worst 5 Data Breaches of the Past Year and How to Protect Yourself TechBullion",
       "publishedAt": "2026-10-22T22:26:27.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Trends In Healthcare Data Breach Statistics - The HIPAA Journal",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5",
-      "snippet": "Trends In Healthcare Data Breach Statistics The HIPAA Journal",
-      "publishedAt": "2026-10-22T20:38:40.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

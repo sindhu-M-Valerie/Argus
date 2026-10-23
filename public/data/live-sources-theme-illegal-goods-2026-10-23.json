@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:07:36.900Z",
+  "generatedAt": "2026-10-23T11:53:38.711Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,21 +79,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,8 +182,53 @@
   ],
   "data": [
     {
+      "title": "Dark Web Exploitation in Pakistan: NCCIA Rescues 13-Year-Old Girl in Karachi - PhoneWorld",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWQ3SXI4aVNoZjhtMW1BNldpOEZvaWxoQXlyUnkySW9YYmlqTzJrOHFsRHpPXzZXS2w1N3F1eEZVRjcyc0VHM2FmZ0RzNDBhMFlpbHkxV3JKeE54dWxfdW5tX1BxM1k1UlpEc2dFMTM4MkxmQmJrNndJNDEtUFNOejhwZlBCTFZYMi01V2RTdGZkeG5tTlB5N3RiWVR1UTFqMUV5Mk95Y3ZHdw?oc=5",
+      "snippet": "Dark Web Exploitation in Pakistan: NCCIA Rescues 13-Year-Old Girl in Karachi PhoneWorld",
+      "publishedAt": "2026-10-23T10:06:21.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "dark web network: NCCIA rescues Karachi girl from abuse - NewzTodays",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVRCcTF5dFRObHpXd3UtSHRjcTNsWnJKYVA4bDlWbHNURFVDZXFId2JrSW8xRlliTmFUcUpXMEdhakNpOENvTlYwaFQ1NGlhSjFXOFBpN0JTUEdhZW42LWRWWXhjV0paTTJfRkZmTjB3Sm82RlA0dHJzM1FKSTVDSUdR?oc=5",
+      "snippet": "dark web network: NCCIA rescues Karachi girl from abuse NewzTodays",
+      "publishedAt": "2026-10-23T08:38:22.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years - The Straits Times",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWRtbnJkcmhPX0IyQllDb1dvNVVnTnF5OTR4WHVtNUFpZE9RcGdqb0JTZkhzOUhuVUhKelhoaWdKLUE3bFRsMDA1MEQ0OThhSEtoVXMyOEU2UGRqWUFiZlg4dDUyWmMxRkVST2ZqOW53LWxRUnh3M0RmNnV2bGQ4eF9CalpvXy1YZXdyUWJJcG5lNnJEOV9ybFZPQktHUWgtaVgxaUpfWVRNbWJxNmtrVUVuVTdxMmF6RGZwXzZyV0NYMEd6eXc?oc=5",
+      "snippet": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years The Straits Times",
+      "publishedAt": "2026-10-23T02:45:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeUt6SjhKTDY1bElaeGhuV0JIX1ZEdUdIYUpfdS1yMFEwNzJTZUViY0d0TC1wWXhoMk9LY29HQ3A5SmxmcWhWdDdsSWtzQkZBbXgtc2F0Nm56OHAxcjRsNkdVR3N1eHh3SGhXcWprb1dqNVR3aXo0OF9RT3lIMXZWYVhJVjV4TWotOFRBYmlKeU5yaDAweU1INTJLMXBkVmZpd2pxNnNWWFYwN1IxS3ktSTNvQnhaN1gzQUd5NTlLMFRXbFV1Q3dkNVlwb2hiUXRBMkNHZmpEcmdiclp4dFdOeG1n?oc=5",
       "snippet": "KLIA emerges as key airport for gibbon smuggling, with at least 16 cases in 2½ years The Straits Times",
       "publishedAt": "2026-10-23T02:45:00.000Z",
       "source": "Google News • Human Trafficking (South Asia)",
