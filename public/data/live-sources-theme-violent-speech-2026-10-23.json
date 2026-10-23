@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:53:38.711Z",
+  "generatedAt": "2026-10-23T17:20:16.343Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-23 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,28 +23,28 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 63
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Australia visa rules 2026: Tougher character checks for crime, hate speech from October 31 - News24Online",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmFQQU5PLU91VE9FWnBockdqaXpWbS1jcV9GYVRVd2RqUWhQMWYwbHFQU1N2bjZWc1l5S05XNGRIVFRQMXhHV2xnOWN5M3FpRERwVTZJdDI2ZnJHTW5jVUlqbjh3b2dmVlNWVWh3YU1tTlRKaWxoQTR0OUNydXJua2NwWGJZUHVJblgySnpCSmtFQzlsdXpzaTU2M25QQW0yMkk3LXdWVmRTa1oydGF0eHBrcW9fcmRSTFFMNTdTQXZ6LXFFM2fSAcoBQVVfeXFMTWo1bjEwb0F5U09KaTVIOV9iTjNCaUVGZlI2MWkxXzdScjZrSm5IaEpZUTk4bFFyRHFHYjZ3NkZNM0cycFpzOVhUQ3cyT0pSazdiVzZSczVRZ0lCa1NQSU9NNmZSSFJSbTlXNzJ2Nmw5RUJKTzU0blRvUmpkSkNlTDl5enBUcGt2dFl1aHAtMERVRGVaWEJEbDZvX3R3UDMwcTQ5WHRBMzZwR3RLeUdOSkZiWHY0Q0M4VlNpM3k0cDBCa1NzbE1lTXFnQQ?oc=5",
+      "snippet": "Australia visa rules 2026: Tougher character checks for crime, hate speech from October 31 News24Online",
+      "publishedAt": "2026-10-23T12:28:30.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

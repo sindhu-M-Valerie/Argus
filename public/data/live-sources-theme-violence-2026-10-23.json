@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:53:38.711Z",
+  "generatedAt": "2026-10-23T17:20:16.343Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -23,28 +23,28 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 63
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Trump Blames France Riots on Immigration as Europe Faces Migrant Surge - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcWNfRHB1SHAtVm1MbUxNdXhqUnozV1hFRUI3dzZpRm9oSVBISWJxZENfNUJ3bmQ4RFNrLUN5QXVGVU9rcVVnaDJFdlNZMGRtUXZvRmFMN1Vqb2ZkUDcyUUQ3ckpGaEswSEFXaDNidm1aSXVpQXRBeUVHNVg3Sm5IdkFsLXhrbl93NjVVZVltMXJfVzk4a3dwbXpkT2xPeW14Rmg2dzQzNF9YalBqRWRxSlhvemEwYnVqQUFTbVVqQWVoYi1aei10LVZneHrSAdIBQVVfeXFMUFNkX0xHUFlSQWl2VUhNMUlXbU8wLVBxOFh5anVJMnFQT3hGRFlHMHVnc3R2eDl1RjIzN1Y0V1lxc3pJNjlNWFB1bHlPOUVtQlhnTUFkNVk2aUV6Y1hIRHBGazIxUUlka1ppU1AxMGJESGVSYTVqUHRtdkdYN1RpR25HNVZlM2VKaTRaLWlLd2Q5ODhqMjJha3BfQ0VvU0tydHJmTERZTlNjNFRzQk5WRmxFMUpVVFdLeWxWNXJjbW12YjJrY2E2QW1rSk5Ba3ViLXp3?oc=5",
+      "snippet": "Trump Blames France Riots on Immigration as Europe Faces Migrant Surge - India Today India Today",
+      "publishedAt": "2026-10-23T14:18:21.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "In India, pro-government media and far-right networks capitalize on France's October 17 riots - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTWo1LXdETnRFeVkxRTNBZkY4LTNFM0Q1ZGppRWZEUVJiZkFHeHRXRWlpMGh5QUxRcVdnNi0tNzFtNU1MbGtlQUhqRVpkeE5oLVktYVlhUXBxLTJBMXlUUTBXMnlmNU1zWXVpNjJvcWxacVlncGJ0WXN6VXNlcC1jNjZlMy1tNWlNdmpYbWxDaDB0alpaRHRWTHNVbTJKOGhhS08zT0JTNjZOUkNfeldCWVlMWWY0UnBVRmsyWm5YOWdfQ21DckVtWkd6al8yNnZvMElaRUZhNVdfZk5oTEVDMUVsbm8xc0NGRXRBY2RsVHNWRTYwLUM3VS1R?oc=5",

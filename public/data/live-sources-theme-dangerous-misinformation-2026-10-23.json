@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:53:38.711Z",
+  "generatedAt": "2026-10-23T17:20:16.343Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 8
+    "total": 10
   },
   "message": null,
   "sourceStatus": [
@@ -23,28 +23,28 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 63
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -197,10 +197,25 @@
       "corroboratedBy": 1
     },
     {
+      "title": "PTI Fact Check: Unrelated video of influencer couple's pregnancy announcement falsely linked to execution of Bangladeshi nationals in Saudi Arabia - Press Trust of India",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcWFfWWZob2s5UldmYTI0dktzbzIxbUNKS1dydTBpNGJvWlNaVlhjZkpzMUswN0FSWXdLR3RVa2dVX3pUZFdnRmJQSzdtX3gydVNJdWZ0eGJLS25DaEIycGFvZGVoc2lpaXFjV0dNbEF2UHl5cGcwendiVExmU0VXejhSeTlWZDR2bk1fc1Z6bk5XTzhhSk9yM0xpUXl1bGd4NjRwV25vOGxaMHhhZVhMUlVWOHZ2R3p0ejMtNm9GZ0JWcDZ6ZmJzZDlaY0VWWGRrRjhORE9jU25jdHFZcWhCUzQzQXZpN2Zrcm5zdWdoMUo1akp4WVlwcTJwMnFpZlI3aTlF?oc=5",
+      "snippet": "PTI Fact Check: Unrelated video of influencer couple's pregnancy announcement falsely linked to execution of Bangladeshi nationals in Saudi Arabia Press Trust of India",
+      "publishedAt": "2026-10-23T14:50:40.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Did Neha Bora call for Bangladesh-like GenZ protest, 'anarchy' in India? WION Fact-checks viral claim - WION",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObFVGaEo4Zkh6cWYwV09JRmpCd2JSbFlYT1NRV3A3MXFINFA3aTlyV1gzTnhVamxlQ0hLSDNTTmZCR2x5eWZqMVdMbnJ2SVFtX2FFQXlpanMyelZQRGNOdTljcDg0YXZVOGwwMVVkNmZDS3BUUjR4cmZ0VjNYVFNUNWluRnozd2hJVU44RVU4QldsbURLOGpoclJxZi1VN2VjVnJJU2QwQ3NmLWd0d0RPSVRQOURnMTR3aU1LNTVObFdfM0dDeDlXWUI2WTJEWFktUWxaQ2kwZkZKZjVkUmdN0gHkAUFVX3lxTE9aNWlCZ1pyU0Z5MmpSZHpRVHM0OXRyWC1USTdONDQ0SDZmOG52emZoRHJXZ2ZkRGZMS3lia0FFVFBCWi1ZTEk5Z2I0dHFVbnNUUXFiYzF3OWo3dFZZbkcwVUdfMHBFcW9mZFFUYm5BeUtTeUJPQWxhekRNSm01d2NUeHN5MFRFdFlqQ05XSXZUZmZaWFc0ZVYxQ1BUZHh4ZnZfb29PMENnX0pXcFNTT0wzMGVjMTFyUlR3N0J5bl9hN3B0UWNjLUp5b1ZxVFR0ZTA1aEdvY1R0MU5ESEVhaW5OTkJaTA?oc=5",
       "snippet": "Did Neha Bora call for Bangladesh-like GenZ protest, 'anarchy' in India? WION Fact-checks viral claim WION",
-      "publishedAt": "2026-10-23T07:41:00.000Z",
+      "publishedAt": "2026-10-23T09:14:24.000Z",
       "source": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -227,10 +242,25 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Deepfakes are turning trust into a new enterprise security risk - Tech Observer Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU00tT0VUSWxQWEpDOG9idFlzZVJuMk1yanJEeVZmdG1uSXhqYVp1NE1BRkxNZnM2UWpyazhHOXR2OHBJTjVuaHducWFhd25tLTdMZjZRaXpYeF9DVk1BbVdyNzBBb2lzOWlZVDZCb2dJU2lTenRfSGE2MnRMV0RwZjN5VzExYktoNmRZRXFGUV9wU21mUkdKc1RVczZNUEZYVVhGaEkwSXhkMV9WN2I3b3VjWWdBMTlybXfSAboBQVVfeXFMT1NNLU9FVElsUFhKQzhvYnRZc2VSbjJNcmpyRHlWZnRtbkl4amFadTRNQUZMTWZzNlFqcms4Rzl0djhwSU41bmh3bnFhYXdubS03TGY2UWl6WHhfQ1ZNQW1XcjcwQW9pczlpWVQ2Qm9nSVNpU3p0X0hhNjJ0TFdEcGYzeVcxMWJLaDZkWUVxRlFfcFNtZlJHSnNUVXM2TVBGWFVYRmhJMEl4ZDFfVjdiN291Y1lnQTE5cm13?oc=5",
+      "snippet": "Deepfakes are turning trust into a new enterprise security risk Tech Observer Magazine",
+      "publishedAt": "2026-10-23T13:16:32.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "APC targets diaspora networks to counter misinformation - Daily Trust",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMlFlQVZ0S2s0ZHBZYklyNWpCQ211YmI5MVh2NXNwRTZQMzBERXVxUDZreVdkYUM0Z056dFNrQlU0YW5DUkJrSkdfR0pUSmhQdEdWZkc2UjZFRExQdjdOVFl4OHkza1VwSUpRUFBFdk02N0gyR21KbTA4Q0swdmtxQ1R0SmwzUQ?oc=5",
       "snippet": "APC targets diaspora networks to counter misinformation Daily Trust",
-      "publishedAt": "2026-10-23T06:59:25.000Z",
+      "publishedAt": "2026-10-23T07:04:33.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",

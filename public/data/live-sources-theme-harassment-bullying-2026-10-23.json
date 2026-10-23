@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:53:38.711Z",
+  "generatedAt": "2026-10-23T17:20:16.343Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -23,28 +23,28 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 63
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Tripura Youth Lasonjit Reang Speaks Out Against Alleged Racial Harassment - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXV5Q09iaVdFbnNLVF9pc0ZuRXQyOGtnWkw2U1o1NlVOMktCWjg3ZEdFUUFwMUxFVEpUYlRxUmp1T2JydDhNdGZsbllvc185WHN1SU1BVlNPakdrT3J0OU01dWNxeU11RXFRaS0yN0hldnNTXzdvRUJEdjFKUGJIbklPNmRJbzJmWUU1MHNTTWYtcWdnSGNEU1pjSjRjWTJRTFBIQlhBMm1RYWsxak9UeNIBtgFBVV95cUxPNWV0TkdaM3RmTUhEdjFaeGowVG52S0g0dzRyUmdCNGZmMVBCVUhzejBLY1hMVE9wTU82N0I3SHh5SHZEWkFSa3RPWXpUMEdBay1QZ2gwUnBCeExUd0FXbEpmM2xIZDRHZ19JQm12RmZwTll6djJoZ2p6QlR3bXh2VkRKcG5oMzMycXpadTI0RlF4WWZ4Z2FCZzlhQkloMFNUdDUzeXl0dm1fdzMxS21UaElReGdTZw?oc=5",
+      "snippet": "Tripura Youth Lasonjit Reang Speaks Out Against Alleged Racial Harassment Times Now",
+      "publishedAt": "2026-10-23T05:03:11.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Foreign agency’s alert helps Pakistan rescue girl from international online abuse network - Arab News PK",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJuTkFkY3lycVRfOHFWVWQ0NmVzeXBXbG90ekkwWFVaaER6NWJSdkxpMmhodXBqeGREY0ZWWHRyaEUyb0RjRl9CSFRHU1pKV0VaeDc0SnRHX0JiSkJZQUhqZ0o3VS15S01ZZFZ3eXNlc3haMVZheS1DQUdSZDBDd0d2Nl93NnpzQ0ZPVHFVWUVuT2V4MzRTOW5FMGh5VEJvR2o4WGZkbmtGc3owNG51a3Y1M1hQRmpEMEhJTXU3Zy1HM3h0dHZJdA?oc=5",
