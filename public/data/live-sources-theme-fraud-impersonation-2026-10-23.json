@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:20:16.343Z",
+  "generatedAt": "2026-10-23T21:33:38.971Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 11
   },
   "message": null,
   "sourceStatus": [
@@ -23,28 +23,28 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "PIB Fact Check",
@@ -182,10 +182,130 @@
   ],
   "data": [
     {
+      "title": "Booking.com faces EU DSA probe over scams and phishing - The Paypers",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0dNVDQwTTNZQ0JJYW01aG1kNGhueklaU3p6MjdJQm5RMUd4QzJZaWZ3LWZYU19SUWtOWTg2YlNFNk5zYWZOYUpMb25kUVVzTEh5Z1FzWUdTbXdnTldkam11N2dRZTF6VEhGT2EtdVBGQVRNWm94anljU0RySmVEdV9KRTRCMDF4VVlaVTBva2pvTno0Z05EUjBXMFdFbXZTQjQycFplNVd0VjI3TXc?oc=5",
+      "snippet": "Booking.com faces EU DSA probe over scams and phishing The Paypers",
+      "publishedAt": "2026-10-23T09:57:03.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "A Computer Hidden Behind a Hotel Fridge Allegedly Helped Send 480,000 Phishing Emails - www.techtimes.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdVlEUmtzUWh6MDhyUzZFb1FuQmNwZ01PV1J1blJTQkJXeGlMdXktNzZrdjNLMjM2TWRWY2M0Y01fT1p4TGxiZWZ3RElScHVGWUhqT3Z5Wnl6b0swQnJRMW00OTBIN0wtV194NHNuQzBoRDhBNjVCZmNlUWQ4Y0J4NzYyUGFMeG5KV0E?oc=5",
+      "snippet": "A Computer Hidden Behind a Hotel Fridge Allegedly Helped Send 480,000 Phishing Emails www.techtimes.co.uk",
+      "publishedAt": "2026-10-23T13:50:19.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nasdaq CEO calls for a national strategy as global fraud losses reach $579B - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd19HLXhLQloyeHBzZkY0WHNmMXh4bHNxOFA1SWtBMm9BM0dsRVV6WEJsSktiVVJXZUpXSG9BQ0IwcWFiRWU2Si1LSmNPQUNpMktPUlFJNzNXTGYxTThpVHMtSi1FZ0tfMDQ3ZnkzdVBLZTZ6cEJ2TDNsdllTM24xbGpORnZHWVVxSVhWd2NjUV9mYXpqcUE?oc=5",
+      "snippet": "Nasdaq CEO calls for a national strategy as global fraud losses reach $579B Fortune",
+      "publishedAt": "2026-10-23T13:04:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "WhatsApp and Telegram Face New SIM Verification Rules to Prevent Cyber Fraud - Cyber Press",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QT3lhQVYwalhraTBkLWlvVVFLdll2R184MmVOeEFqemFGeEpyZE5KZDhuMHhGeEw2MEFVTU93bGhVNmpjNTMybVlkWUVGSHhWZzVRVkEtcmZXcS1GN2hRdUg0cUNQLWdrb2lWN1c2SnVOdUJYcS1JZdIBeEFVX3lxTE5QT3lhQVYwalhraTBkLWlvVVFLdll2R184MmVOeEFqemFGeEpyZE5KZDhuMHhGeEw2MEFVTU93bGhVNmpjNTMybVlkWUVGSHhWZzVRVkEtcmZXcS1GN2hRdUg0cUNQLWdrb2lWN1c2SnVOdUJYcS1JZQ?oc=5",
       "snippet": "WhatsApp and Telegram Face New SIM Verification Rules to Prevent Cyber Fraud Cyber Press",
       "publishedAt": "2026-10-23T09:05:46.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Booking.com faces European Commission probe over fake hotel listings, online scams | Trending - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnVBcUw0MkdRajRFc3RCbHo4U3lfT1ZYVVVxQUZYclBfT0hSSDFIMERhdThMSllfaVRseXlpU3NOMDJmMExoeU9UU0Y5cXlJS21nRkVXdnFkeE53ZlJYTWhrMW13U1BkbkdqR2hlNno5QWtZeDgyOXpkSVI3dTN6aHFaNHRwV25KYjU0RmNuemRFdU5xOElMTjRBcmlXOU9ZenByTlF0NmxWYVZEbVR6UkljeXJHMDZ5OUdtZnBJeVNGU0hGbm1lNUowTW5BeTNWMTZ0eXBfMTDSAd4BQVVfeXFMT2l1WDN6WWg1d1E0bjFkOUFFM0xrS3R2akJyYzJsVU1UZHFNakktaFpLWnVWc1lNLVRhOHlRLWt4UjI4OFRteFp4WF9sWHU3OFB6UkpXRTZaYTBCTE5iYmJXY1Y3Q2ZjVWl3OEljcUYwb1pPNkI0UUs4YzhBZURpTW1uY0EyZlh2N3F2LTR0VzV1WWUtN1I0Mk9sbkxTS241M3dyU0Q2eldQWWVpck9ZNDM2azVyMmtGWF9Ld0tHRjJQRFpJUXp5M016cjU3d3lNWGtWSWF4QU9wTV9mLUlR?oc=5",
+      "snippet": "Booking.com faces European Commission probe over fake hotel listings, online scams | Trending Hindustan Times",
+      "publishedAt": "2026-10-23T07:54:09.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SecurEyes Highlights Rising Risks of Festive Season Cyber Fraud - SMEStreet",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVjZWNDQzaVQxTXQ3LXBWeEhTMGhRN01ORElhdkZ6OGZqN3RENnBoSFdQOGJ5Z3dialYwblRteXdTOS1rLUtVV0ozU2xjWTBVNW1sSGRIdUg1Zk4tZjhwdENwejEyeW4ybG9JQlB3VXBEbUt1b3BhZ0hmWWlFT0VaZHhFcmlwbkdrRFl4QnFTUXJaSF93RVdRTEY4VmY5THExS2ZSaGppVdIBpwFBVV95cUxPVjZWNDQzaVQxTXQ3LXBWeEhTMGhRN01ORElhdkZ6OGZqN3RENnBoSFdQOGJ5Z3dialYwblRteXdTOS1rLUtVV0ozU2xjWTBVNW1sSGRIdUg1Zk4tZjhwdENwejEyeW4ybG9JQlB3VXBEbUt1b3BhZ0hmWWlFT0VaZHhFcmlwbkdrRFl4QnFTUXJaSF93RVdRTEY4VmY5THExS2ZSaGppVQ?oc=5",
+      "snippet": "SecurEyes Highlights Rising Risks of Festive Season Cyber Fraud SMEStreet",
+      "publishedAt": "2026-10-23T07:47:37.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI supercharges festive shopping scams as fake deals put consumers and brands at risk - Storyboard18",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2F1akQ5bmcxVWtlZ2hDNDNNTmhsYjNOQWc4bHJNdWR5UmFLeXl1dG43bl9FVGM2R25HN2tGR3FxZzJ3LWpVV1FWWnhMSUF3M0NNcHN2MVVnRDdtNE5FWHZqZ081VUdfZjhIbVV0cDBKWVRjS3JWZmFkbUJmQVF1aTk4QjQwTnZrTXE5T0JhUGt5VlVockg1Z1NEd1pPS1dzTG8xMlFiNXJXTnRDNGMwaUlrbEZEbFHSAbwBQVVfeXFMUGo3cEcxa3FTWnBmZ2ZnNDJCZXlOTzJOanJLMU1fdEtyUHBqQnp3dWl0M01Pblk2djYyZlhpV0hyX2tEZlM3OHo5Z3UyWnYwSGxYcEhsdld6b1JUY3ZRT0tJNWFMbUx3bzZXWkZad1RDa2ltdXdaZjBpaHF5dENUUzlMSHZad1RSVUhXRXl3TWROT1NFWGJncGxkUklDanlsRlI4VlFCRHRCdGdFWDlNdnIxbTlCdGtNSlBDYUc?oc=5",
+      "snippet": "AI supercharges festive shopping scams as fake deals put consumers and brands at risk Storyboard18",
+      "publishedAt": "2026-10-23T03:43:16.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Over 1.03 Lakh Senior Citizens Fall Victim to Cyber Fraud, Lose Nearly ₹4,000 Crore - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RbTNEUHJNSUZXV1pRS0pDbktremlwME9naXJUbkhISUFtaWxycXZiTVV3OHplbk9XLXlsM1BuSnJqbTJmN3ZGcFlDVE9uTW9kY2hGcjhPTFJzV0pfRUpSNVNBeXl4QU9W?oc=5",
+      "snippet": "Over 1.03 Lakh Senior Citizens Fall Victim to Cyber Fraud, Lose Nearly ₹4,000 Crore The420.in",
+      "publishedAt": "2026-10-23T02:08:05.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rhode Island Sues Meta Over 15B Daily Scam Ads [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KU1R6bzAxVUdEeEtMb2xKYzQ4MWpOTXA3OVdPQ2oxeEdJUGhxWWVVVUxPOXZjVWpxUi16bkJNRTd3eXlZWkVJc1UwZnIxTWdtZlQ5MjVGYXJRVXRSeVVwa0ZUTmpnbzZhLUlib0VjSjBBeGp3?oc=5",
+      "snippet": "Rhode Island Sues Meta Over 15B Daily Scam Ads [2026] shattered.io",
+      "publishedAt": "2026-10-22T20:47:46.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -206,6 +326,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "1 in every 5 cyber fraud victims in Noida a senior citizen - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWRlQklkaUtRUjBTb2ZjZDZITnU1TlFQTV9lc2FhaG14S1JLdmJTWF92UjJkQ0x6alh4OWt0Qmx1SWE3QXlBYU1adzQzdGp3QldHSGtlMUhDQmoxYko2VXZfRzA1QU52SGFNSHotamVOSGg1aE03aGhLcUNobTY3QVlZczFUelh1cTlkendoNEVLWU04LUhvbC1xVnVpbVdpT21zV0N4QnpmUjBlQW1YSVdja2tZMlA4QkpGYnAzcEFQZG50bEhBZ0JrTdIB0AFBVV95cUxQSzVKeXkwemNaWFJzRjg3SVdUbENmTW9nYlUtN3NobVd0ZnRUU3JpWnFRWDRTa1diUzFWRDFwdlh4Sk9BX1VnbS1HZEw2UGk2c0NhOFJkTDhQTDRzbTd4dmRKU1JwZUo2bDVRTDRmNzh1WnJsVW1WRE91Q05vdXdSTG1jbHYtWXR0Ykd0UWk3b3RyYXZpNlltMGlkSDRraHpSM2s1MGFFeUI0RGtHeV9XbVAwQVBVTXhOREVsQzRTWUNuMFJETE5WRXBWejFRazRR?oc=5",
+      "snippet": "1 in every 5 cyber fraud victims in Noida a senior citizen The Times of India",
+      "publishedAt": "2026-10-22T19:38:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

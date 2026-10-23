@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:20:16.343Z",
+  "generatedAt": "2026-10-23T21:33:38.971Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 11
+    "total": 14
   },
   "message": null,
   "sourceStatus": [
@@ -23,28 +23,28 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 76
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "PIB Fact Check",
@@ -266,6 +266,51 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Roblox Child Sexual Abuse Lawsuit - Lawsuit Information Center",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZ1RSZGJfTFVSUnc0OGFBSkY0VlVzYWVLY0NvNFkzYkxNSVlYUnNPeUxMSXcwVXBNeGh5NGU3d1hKdlFQZGFuSVZqX0QyOWFmUHpNaVFsTy1XUy1GVm00ZnJQc2swWVBodzUxTV9rRFdEZ190aGd6X3B4Qmc?oc=5",
+      "snippet": "Roblox Child Sexual Abuse Lawsuit Lawsuit Information Center",
+      "publishedAt": "2026-10-23T12:29:44.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "A man from Lviv suspected of selling child pornography was arrested in Romania - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVm5zMXk5QzRlVmlGTlhrN0JpbEFGTDd3MnRlUzZXSTRabFA0dFExZzBHSU1mVHVabWtPY2FvWDFqekxFbk1QZXg5OEVwZko5dE1MRUMySk5MTXZUcEppbExCeERrMXZnMEJDOW9yZXV2ZVU4anpHM2NzM3pLQWsyTXVfYjNnalBXZlEwcjgwUHJCUlRWRDlDdjE5TWV5aV84Q3g5WWtZMXlIT255?oc=5",
+      "snippet": "A man from Lviv suspected of selling child pornography was arrested in Romania UA.NEWS",
+      "publishedAt": "2026-10-23T11:39:52.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hansen Waives Preliminary Hearing in CSAM Case - The Fallon Post",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGI2NkNNUDl4LVB6c3ZtaGVuWi1XVnM2dVlic3pXQmw2SWtEYldyejN4MUw2RE9tZnFacmtMM3JIUTVMQU01Tk1fU0t4RTdiRC1zT3RKYWx5b1ZKV0pJeGt4NWFKdXdvMDI5cEQzUUJtYV9lUEdfalR2S2NaOFVuQjY5WVRickpjMzJWM3RmRUFJWWRG?oc=5",
+      "snippet": "Hansen Waives Preliminary Hearing in CSAM Case The Fallon Post",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
