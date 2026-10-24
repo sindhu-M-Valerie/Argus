@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:08:50.337Z",
+  "generatedAt": "2026-10-24T21:01:39.181Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 40
+    "total": 58
   },
   "message": null,
   "sourceStatus": [
@@ -37,14 +37,14 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 73
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -257,6 +257,66 @@
       "corroboratedBy": 2
     },
     {
+      "title": "Fact Check: 300-Day Wait for Slots After Rejection? - M9.news",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHVpYTNfMkIxaGNDcHhSUE1DdnUyZHJMUVZaZFZnTGNBcVBBVTRpTjhkbE1sN3JMR1BsZXY3WlhBYk90ZXJzN3F0Ql9fRnNuRmNwdHNYSGNDNWV5S09vcWlQZG4yUVBFNE1LdlB5dG9UUEkwbGhROHBIb1NZSjNnd3lod1M0d9IBiwFBVV95cUxPdUcteVhkSkhIV3BuMHhfQS12VGwyYUpKYWwycHQwdEYxNmpsa2F4RUYwWVVKd2ZEbkN3eXZBREZYbURYVFNRSlJyeVJPVlhOOHI5TFNzem9NR04wdk1ERFNMR3hCTDMyZk04OHM3ZzRIeDE2WndSNXlGQVJHazNlOUpMdnlIc0RMN0VB?oc=5",
+      "snippet": "Fact Check: 300-Day Wait for Slots After Rejection? M9.news",
+      "publishedAt": "2026-10-24T18:07:20.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI Impersonator Scams Bon Jovi Fan Out of More Than 10000 Dollars - Demokratis.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1id3pDaUIyOVNLMUQ0Skt6VWI3UUZBejhuOG1hV3Mtc29CUnY1Q3k0anNqZWphZXVpSDdxeTcydmMxT2VDRXdDT2xqT0gyYTlzT0s1ckRQbFhISVhhYzhCNzRSd05Gd2Zy?oc=5",
+      "snippet": "AI Impersonator Scams Bon Jovi Fan Out of More Than 10000 Dollars Demokratis.co.id",
+      "publishedAt": "2026-10-24T16:22:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI Impersonator Scams Louisiana Woman Out of More Than 10000 Dollars - SuaraGarut.ID",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sSWZ4LXlTLUN5Z2NqODBsSDFfeUFCc0k0dGtGY2dnRDB5djNQbUVXYkFocHRlMGVOUHlqckYzaExMRmxEYVNVR0UyZ0JhVExUeGN3WnU3anJCbWFwU01JY0hDRQ?oc=5",
+      "snippet": "AI Impersonator Scams Louisiana Woman Out of More Than 10000 Dollars SuaraGarut.ID",
+      "publishedAt": "2026-10-24T16:02:44.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kerala Police indict social media influencer Darren for ‘communally divisive hate speech’ on Instagram - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTkU1WENRYjZiWFp1MGtvWTdlZTNOU1FYWUxGM29IUmFsZ2tJS2pIMU4wTjBrek1KRWs2X1FxMlViLWhndkRRV2hfRGhQN0FkQmRoZkxVVDljQ19NVG9LaXZnVG5Zbnp0VGdwck95UUhhdTFUWnlzQ1NOdndxWS1kUXFobEF4U3ppb3ltandtcU1ackdtUkFDZWxzZ1JVVWJkTmhPSnMyLWJhWHZQYnp1UlZjbThydDBSMkJHN1V0RVVEdS1RYnFzQTVZZk1qYjF1eGxhd3ZxeTU2UC1ZM3FUVmtzR3MtTDFIUFQ2VkpUZkd3ZWNOVjZqeFVB0gGAAkFVX3lxTFBGU2FpU3dmdkRIYVI4V2NlYnNhZXJCZG1rUWlQVk9sakRtWFlFZnY5ZVBOLW1IM2F3Q2lXaWljQVo4aklxbFp0ZU1kaXlzcTdxT3E0aEhudG12ZkpNOHpmUk0wcDc2ZE9KRVVmcFc5R3V5S2hlcHpRTnFzaEs5d25sRHZHWi1UdnBCbFVEeEgyQ29qZTJtZ3ZXOVRUWnBDTFViUzk4Xy0wNUFpUllfQkZIRGxrVjZZSkJYczZQUXNiOWtVR3djOHluUzF6QmJlSWthV21pR3FTTXIzU1dtbmN0WlBaRlpZU3dyQk1zVmptU1REWDRzM2dzU2xGV1o2SnY?oc=5",
+      "snippet": "Kerala Police indict social media influencer Darren for ‘communally divisive hate speech’ on Instagram The Hindu",
+      "publishedAt": "2026-10-24T13:05:11.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "NPF-NCCC ARRESTS NINE OVER INTERNATIONAL FRAUD, ELON MUSK IMPERSONATION - crimefightersng.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHFjeW84U0pPdVFhREVnc0MzSkpydTNISDJhY1hMaHNSSWxPYm9tRWN1LW5SdTE1LWYxYnBZTktwWDJvOEI0QWdyZ0ZBNzdxNzlWOGJickRycE9ER2EtMHNIOG5kNDd5akNYREk0ZmhTRHJ0alNPOWZYb3UyOW9tMzJtaXJPVS1sLWZOcFd6bVI3R0dERzdWOHJnS1V0d2pJYS13eTBB?oc=5",
       "snippet": "NPF-NCCC ARRESTS NINE OVER INTERNATIONAL FRAUD, ELON MUSK IMPERSONATION crimefightersng.com",
@@ -268,6 +328,21 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "🔴 Former primary school headteacher downloaded hundreds of child abuse images - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnlDQnd4VTA0X1FDX2Z6TUdiZTdnaHNkQUt1WkpUcG9sOXU1U3NQdkE2ZGFhdHdVTVlxaWdwQWpwZjlHRmVwX3ZvUUtmM21pTlc2ZVdfbmVOaFM5NzY4c0tZR0lkQkQ5R3U4eW1HR0hRbnZ6NE9xWGtiRElJMHdBem1ueEg2ejVDRFhoazV6c0JteE1aNURfekZyVk9IeWZiUEoxMlZwTUZUWjVSX0xnT3Z5X2xoeE93SHd0X0M5eUs1UFlEV0NQMFRReFRyWXhEems2VXV3NERCdTBkaFdXZw?oc=5",
+      "snippet": "🔴 Former primary school headteacher downloaded hundreds of child abuse images Facebook",
+      "publishedAt": "2026-10-24T11:50:02.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -362,6 +437,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Meghan 'Deeply Distressed' as Father Faces Child Abuse Image Probe, Says Estrangement Was to Protect Her Kids - International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSk05UnFNSGY5Z1E5M1lyMGw3TXZkNGdPUXNBSFB1ZDBiaUhXZmM3b1dKYUh5TVFDNWFXbEVOcEMxS19sUDcyZ3NWX2lYS1drd2Y2YTFqSW5jV2k2S3AxSG9QWFpKcTA2TVBDUERORDE4TkhDVktwZG5VR1pFRG5xQ19PTjE5WVo0U2V5OHpsVQ?oc=5",
+      "snippet": "Meghan 'Deeply Distressed' as Father Faces Child Abuse Image Probe, Says Estrangement Was to Protect Her Kids International Business Times Australia",
+      "publishedAt": "2026-10-24T04:58:53.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Hells Angels Member Sentenced To 136 Months In Federal Prison Following Fontana Child Exploitation Investigation - VVNG",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3J1Slg2cjdoM2FjUVRyb3FOOVkzek92aUVHX3B0QUJhd0pMcjFvanFPZzh3dHRLS1ZaR0tHLVQ2TzRmQ2ZQcjQ3Xy1NcnloeHdUbXhfUTZSSVBhd3A4eU04REMzdGxta0pqemNGS0l3bWVDdHRkS05aMGE1VXJNUWVBaC1SWk9XYWNUZ1UtcVQtclJncnQ2SnNhZmNOSGtJTnBnWHJ0UjJiXzU1OTF5XzFXSWRZRUpwUWpLbmxoLXlkM0trTzdJNThobFM4SUk?oc=5",
       "snippet": "Hells Angels Member Sentenced To 136 Months In Federal Prison Following Fontana Child Exploitation Investigation VVNG",
@@ -422,6 +512,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Lambton OPP urges residents to stay vigilant against fraud, romance scams - The Sydenham Current",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlkzZkoxTnFtVkE1Nm80UkN0UmFhVElzdFNuVElBX2tXTWQ5Z1RrMFNMUFpPcmJnbF9Uek9BbGdzQXlHYkhjX2NhdFVLeVZZUVdLUUxMdFRJNks4Y2E2VE1ZV0dSODNSX0VVRUdiaExEOFg3TEpEUV81bjBnQ2YxeEJNMEpSb25VYW1xSWlWV2ZZa2sxMGs4aE1ocTFqeF96MjRoLWxXR2cwaG13U2xhag?oc=5",
+      "snippet": "Lambton OPP urges residents to stay vigilant against fraud, romance scams The Sydenham Current",
+      "publishedAt": "2026-10-23T23:02:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Virginia Beach Man Sentenced 25 Years, Child Abuse Images - Hoodline",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNS0xMllPdkVXbmVQZU80YnNscDM1QzZVWmhBekE5anVIRm9CemtjUTgzb0JYUjhsOTVvbzhSWF9BOE1aaGdRQnh5a2JNMFJNYlNjUkhqZzIyT1FpVHBSNzNSd2s5OFRESU1lR0prdTZ0TUdKZm9XTWhrd0VwT2UxMXNSNVVTZVlDN1hsOGNRWVBaMl92VzRseU9uSEhYSVg4LVViSA?oc=5",
       "snippet": "Virginia Beach Man Sentenced 25 Years, Child Abuse Images Hoodline",
@@ -437,10 +542,25 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Jackson Township attorney arrested on child pornography charges - Asbury Park Press",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQURhTUVuSVF0RVdWd3N1SDFYdy1GVDNZdVFLblJtR0dIZFA2MUJKRjEtZmYyZVNyM0dwNzVNLVJ3RXZBbEk4TFNEbV9OaGlqOVBRelo3cXc5UFM1RnA2ZVhUbDNMVTVQcWZSY0JMNXR2MERYaGwtcnZxUUgxYVVGeC1FdG9sb2V1NUJrLXhkVV9oWFFEMzA5WFY5dFlmM0JGVm81Nk00LVktSlZmWFR1OQ?oc=5",
+      "snippet": "Jackson Township attorney arrested on child pornography charges Asbury Park Press",
+      "publishedAt": "2026-10-23T18:31:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Why India And Uzbekistan Are Teaming Up Against Cross-border Terror - ИФЗ РАН",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYm1OanMwNGdlOUkxRk5VVUtsRU5HeFNidkVqWmhUalg2YmkyWDYxYkxpNVUwWFNzT29LdWd3dEVtZDBBblVkbWV4VURpZFR5NDdYaWp3TEg0akw5QlhtTUdZUVJPRW5aVHlkc2dUd1NTR3RqWHR0bkxKMDBvM1c3Q3U0UQ?oc=5",
       "snippet": "Why India And Uzbekistan Are Teaming Up Against Cross-border Terror ИФЗ РАН",
-      "publishedAt": "2026-10-24T11:34:08.000Z",
+      "publishedAt": "2026-10-24T11:43:55.000Z",
       "source": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
@@ -463,6 +583,21 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Data Security Incidents Raise Cybersecurity Concerns - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazFCZkVBMWVCVnEwSlFsaHp5bDdDeUp5Ny03UGxidDMxMlR4bWtBRGpmbXNhNEg2T3dnM2ZNQzlnUHY5QkVXUlJPX25wNXhQUEJEM01UcURqZWhLMEVxU2wtYXY5YzR1ZHh5bTE3eXM3S0l3Z0VFWER5eFNEZlU0TzlMSmc0LUtWamFGTW1uOGprZUxp?oc=5",
+      "snippet": "Indian Data Security Incidents Raise Cybersecurity Concerns The420.in",
+      "publishedAt": "2026-10-24T08:47:39.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -542,6 +677,66 @@
       "corroboratedBy": 1
     },
     {
+      "title": "ഫോര്‍ട്ടുകൊച്ചിയെ കലക്കാൻ | YouTuber Caught Spreading Venomous Communal Hate | Out Of Focus - Media One",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbTUzejE3QzZsbU5FRVJ6OFhDbUxaaVlDaUhNSzA0YUVHWGk2WDZJR2dkc1RqMWxVR1pnR0s0UXZERGc2ZHkxX1lpVVl6V2xBMkp3WmVWN1liNkRRVE5oa3JTWENFdU1lclhpSFZrcG1wd1piX3NCS0dCSTZZSGJNWF9rVzVxTlFLazlpbFpLZ29MRENFekFRRVItblhZQmk5M2pWdDRWTlBHMlVGWFJGVDZhYWVDLXJWbGpsNDhiVl9LaVXSAcMBQVVfeXFMT201M3oxN0M2bG1ORUVSejhYQ21MWmlZQ2lITUswNGFFR1hpNlg2SUdnZHNUajFsVUdaZ0dLNFF2RERnNmR5MV9ZaVVZeldsQTJKd1plVjdZYjZEUVROaGtyU1hDRXVNZXJYaUhWa3BtcHdaYl9zQktHQkk2WUhiTVhfa1c1cU5RS2s5aWxaS2dvTERDRXpBUUVSLW5YWUJpOTNqVnQ0Vk5QRzJVRlhSRlQ2YWFlQy1yVmxqbDQ4YlZfS2lV?oc=5",
+      "snippet": "ഫോര്‍ട്ടുകൊച്ചിയെ കലക്കാൻ | YouTuber Caught Spreading Venomous Communal Hate | Out Of Focus Media One",
+      "publishedAt": "2026-10-24T18:25:49.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WhatsApp safety guide: Features that can help you avoid online fraud - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVENPRURDZkUzUWpnc2RIMzRlczFzSlZvZWVJYVlTbGVoRkp5aHFvVVI4Z0tVNy1fdnhfN29JNHB1UnBaSzBHLW43VDRvVjJKZ01Ha1VMRTh2TDJ2TXh1M1VCQ1I5RnJma2RFMlp6WklDa2VqTTdlZFFVX28tY2N0d2ZZanFsQjVfUzgxZGxoc0tZUnhkZ2xfOHpvX1B2azhNdzUtVlZ5MnUzY0k5dmUzQVFId2N5dkpHY1JfdmlMTTZvN0ZQNkxfckRleU8xVmhZZ3hNSWh2aXhEV2Q1X0VFSWQ2eVPSAeoBQVVfeXFMTjZXckFpRW5odXY2MmR1SS1OQ0hhSGd3Z0FvdEt3a3NWdVczTm5JYjV6bG9aSnB5T3RxUmttMXpaT2lISDlwZDBicmhodVE0a1VhNTl0a2hpb1Bxd0tFNmdBVkVRaTFhbnlGQWh3R09yRU1oQUgzcmZaYWxnY1ItaTlTWWJrOWp0UFA3djlTMHhUbmdINHNPOENEQTgwR2lBU3dPcEdwQVRSeHJ5VGU3U25Uc2hFbHgwQTk2RTMyRmpMQ05ESHdmRlRKUzJyRk1lVlJHMVdfTnYtdVRONDROSnN4cDRhM3ZJTlBn?oc=5",
+      "snippet": "WhatsApp safety guide: Features that can help you avoid online fraud The Times of India",
+      "publishedAt": "2026-10-24T17:43:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Keralam Police book social media influencer Amrit Singh Darren for communal remarks about Fort Kochi - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWnExbTdxNW03ZkR0ZVFXWnBvblNELTI0ZDRJUGpXOVI1VVR1TDBUTUhURnh5aVNBbnBBSGN4eFRwdVB1b3BnY0ZPaW5uMHN6ZmJ2dk9JNHdtaXRrS3ZJUVl0cFV3M1E3TVprNkpKanZ6dnZXYlc2OEhpckJKS2F4VmNFR2FGRFdxYWN4NXA5SFU5M0hrdm5NYnR6anZqZ0JjeGVsYmIwYzN4UDNqekdMTFVUaFQ4SXpqbUROSjl3cnlSMnc3UXBtTlJJV0pNa1FWellKaEd1VV9fYVdhdDdpZDFsZGlaWDR5WUFsS2J3VU4xdmctTmFmaw?oc=5",
+      "snippet": "Keralam Police book social media influencer Amrit Singh Darren for communal remarks about Fort Kochi Deccan Herald",
+      "publishedAt": "2026-10-24T17:27:41.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vlogger booked for disrupting communal harmony - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT2pZNXhtbEt6b0ZQNy1mbGNKbWp5MmtrcU1IRklqYUxzSFJjLXR6RVBTcFVVY2t5eTdnRmpQWVB6LTVUYlN6bjFxOEphNkt1OU9zQmxDTTgxODBka1NGZmN4TUo0SVdGV2wxR2pkVGxaeXREd2JEM3U3ZVlUU2M2UzNFQS1MTG5lSklLT2t5bC1qOTV5MHRnRHY3a3QzOHNuSm5OMFBrVjVBUU43N1FndHE3ZkpoQmFZc1VB0gHAAUFVX3lxTE9LOTdCcXJfVlJJeDNfaDBETnRXRFp2Ynk0cl9zYjc3UlVTeW1iZmJXZi15LU1YOUdUaWU0eHpZUjRtNXpaTDVRWFVkZ1Bka1ViOXIwRHQ1VHlGMTEzaWxOczhkNkQ2MDB5SmxTVUtPNHdnLWNuOGE4SGZSREhYTGJJVTdRYnhDZUpLUWlXOGd1LXYzZzBnV3luR3RZczhZa3FUa3VkRTZXUXlhWHlYYXZPa3BTa0FSdzN1cVZNSDR1eg?oc=5",
+      "snippet": "Vlogger booked for disrupting communal harmony The Times of India",
+      "publishedAt": "2026-10-24T16:43:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "'Named after Kashi served beef, Jinnah statue': YouTuber booked over communal remarks on Fort Kochi cafe - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObW4zM2prYVZlZl9NNFlnRXc2NHRhbm1OWk5uWDNjNElwY2J2THh4V05EdjJKTjVZMVFxdW10U21LTDI5bGZHNlhlazY1MDJYakV5THNicFRhRy1qZGNNeExEdkR4bXQyZ2JMVEtKTEo5RndUOS1WQzVCMnlzLTN6WXU1RW51ejdHQ1c3THBfOHdKeWIxcU51aktpVGxoN3AzQlFCMGxrZDNGQVJCaDRNaHR1eDA3QWNldHB4WjVFcXR6UDFHVHdqcFJoemtoYTZOY3NKS0tjTVBxQ0lNRGVFNS15aU5IN2piVWYyak5TazJxQmZqRWl0dVY0OUFrREJNVC000gGIAkFVX3lxTE1EOHloSjdESFVaSi05X1RxY29SM1NUNUpUcl95RFB2TWZ1d2h3Ul93Qnl0RXhZaTlEVERMQ3Zpb29pZl9xcGVsT2JVbHJYMXVJWEdaSzZ1dVlYcmR6MVd0dmxqRzJVOFktMmhWanRuMFJOYlFvWVM4Y0xoUTZ4Mi1wanRsd18xblV6WnIxdzlZQXNlWURvbS1wdWFuckhac3owdExOSFc1a0RHQWEzUWRlVVJoeHFnNXRyNWFBTjQ5OXZ1anlIY2stUTFMS2JPNWFXMW9oMkc4MmNiR1NBX3lVYV9rQXFuN3hybGJWLUd6Wkp3V1A2ZUtiRlhLUWRJTTlKb3JYMU1XSg?oc=5",
       "snippet": "'Named after Kashi served beef, Jinnah statue': YouTuber booked over communal remarks on Fort Kochi cafe The Times of India",
@@ -551,6 +746,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police Bust Money Laundering Networks Involved in $2m fraud, Arrest 8 - NigerianEye",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmxCdmlNWW9KUmxiZ3BGVUlRU2dxbVgxTWlqc24zY1EtdFg3elA3Mi1MQ0FNZkplTmtMYlhoajdFUHN1bVFLZEppSURkbEx5dnA2d1J2M0hnMUpiRjNFbUVwQy1WMzVzMUItNURKa1gzTjI2TUJsUE9KYTZfTW94dFIwWlQ?oc=5",
+      "snippet": "Police Bust Money Laundering Networks Involved in $2m fraud, Arrest 8 NigerianEye",
+      "publishedAt": "2026-10-24T15:11:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -572,10 +782,25 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Police Bust Money Laundering Networks Involved in $2m fraud, Arrest 8 - NigerianEye",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmxCdmlNWW9KUmxiZ3BGVUlRU2dxbVgxTWlqc24zY1EtdFg3elA3Mi1MQ0FNZkplTmtMYlhoajdFUHN1bVFLZEppSURkbEx5dnA2d1J2M0hnMUpiRjNFbUVwQy1WMzVzMUItNURKa1gzTjI2TUJsUE9KYTZfTW94dFIwWlQ?oc=5",
-      "snippet": "Police Bust Money Laundering Networks Involved in $2m fraud, Arrest 8 NigerianEye",
-      "publishedAt": "2026-10-24T13:41:15.000Z",
+      "title": "Police warn public of financial scams linked to online dating applications - Ada Derana",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIOU1wanQ3a21fbXNSN0JKbWlxZVZPNXNHREhNSkpEMzVSWFRJcGtXMmFmaFNiY0lBN2tBWjBYazRRV3BvXzRR?oc=5",
+      "snippet": "Police warn public of financial scams linked to online dating applications Ada Derana",
+      "publishedAt": "2026-10-24T11:00:59.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police bust money laundering networks involved in $2m fraud, arrest 8 - Vanguard News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQlJMYTdZVUo3OXlPWkYzY0liejZhVjdRLWFDaFpNellnV3FfZk1Fd3YzVnJoZkltMDQyWmhmdTVETTk4aWM1cWFwaWo5Q1VqYWV5OEdtVmtNYXhteUVOUzdCMENySnVJcWEyN1BwcmFXUEtRenYtTTY0ZkxlU0ZyNkExTUhVcEFXOXZiZlpYVEw5ZVl6M2tvSkdqVUtLRnRSR1F3OU1Jb9IBrAFBVV95cUxOMW00YlU4dHE2ZWtKQkFQUHJBUjNsZGp3MktCQXlxa3VWRnNEMENUN3dtdjJvZG9PejIzT0txek5wa0ttWDNFclI2SjA3Q2V5bERqbFh2Z202M1B2RldTQ1MyRXpNdGIyZFZHM1R1NTJrZ0hjZU5VOVUtWEdoeE9qZHBoQnpsMG5ENDA5cXlaRGRHRXFuX2pubkFncGZYd1RjN0xXZnppWUhMZ04x?oc=5",
+      "snippet": "Police bust money laundering networks involved in $2m fraud, arrest 8 Vanguard News",
+      "publishedAt": "2026-10-24T09:00:03.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -722,10 +947,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Sona Mohapatra Reports Online Abuse After Criticizing Rahul Gandhi Over Himachal Pradesh Conditions - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1NCdHZ5ajJ4Wkw1d2xZV19YRnpRdjVkVE9RcDFhUmhwMi1qMkt0ZzNHejUyTkVQeERaVDVQOVJpRU4xVU1vNklZSF9ESEVNYWZBOHpYU3l2MGpTVFI1ajdLNEdWVmlSVzJlRlNXOU95bG12ZnVoUWR5azdhTUJnejhvSy1pMkRpRWR6cTRVLUpKRE1PVHFsbE9xREZwVWtVMDdFdWUyMGphZi04NkNJNUN4QTMtMDRrOEh5cFdoQjZobXkyRjBZ?oc=5",
+      "snippet": "Sona Mohapatra Reports Online Abuse After Criticizing Rahul Gandhi Over Himachal Pradesh Conditions INDIA New England News",
+      "publishedAt": "2026-10-24T04:48:45.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Navigate360 Data Breach: 8M Tips, 7 Months Late [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkJENmZrT05VZ3NFR2FHUHJjeG45bW00SFJIdDhjdUZWV1V2U1JLVUQ3ZUtPcWt3cXFLenhKZExiWGc2RzZJUGZKVF8tZV9WanB1YS1Bb29fMzBOcHo4TFFneUJHOVRKX2QxazliRlZ4ZTRGY0NNRTFDSlR6a0tKM1dR?oc=5",
       "snippet": "Navigate360 Data Breach: 8M Tips, 7 Months Late [2026] shattered.io",
       "publishedAt": "2026-10-24T03:55:05.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ottawa police suspending use of Crime Stoppers after report of cybersecurity breach - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVF5MTNaS2Y4aTc0WlEzbVc4ZkwtbzBsRDFlRWFpSnEwNlJrUXEwbkxXWnotbmQwdk04Yy16ZnJCak1FYXNaa0JncU1GOG5yQlRuWGNlb2hwM0RGdC1ONjE5LUwzTWRZMnZoLUFWTndiTGFBb3ZIYzU5LWpaajhMTHJvSkFlYWgzeElsSVdCdDd0S1N3VlFRdjJ4akJJM3VnQTFySkRtMl80dzUxa3RQX0pLSElURVQySk9YQnNURQ?oc=5",
+      "snippet": "Ottawa police suspending use of Crime Stoppers after report of cybersecurity breach CTV News",
+      "publishedAt": "2026-10-23T22:55:19.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -776,6 +1031,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NCCIA rescues 13-year-old Karachi girl in probe into suspected dark web network - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdjhBbTZSNURpaWV3VFNsVTlWRGd2STdsbmRRRkQzVW04OGJCcURoZjJEbVBQZVpIMlE2dkRfUzh5NGRWRzlVUUdVY1o2YXVOeHZyZ3oyQWtQaGRfcFhDbEVhTzFrRjVCWEFIVGVfSkhnZi1CR2RtYXZJYmpEQUlKNW5VSHNsOHgyM2ZJYlROZi1WdDdLaHhITzBfRktXNXpfWHBkcTZmS0dvT01BUEZ4MGJUQ0dxX0k?oc=5",
+      "snippet": "NCCIA rescues 13-year-old Karachi girl in probe into suspected dark web network The Express Tribune",
+      "publishedAt": "2026-10-23T19:11:15.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",

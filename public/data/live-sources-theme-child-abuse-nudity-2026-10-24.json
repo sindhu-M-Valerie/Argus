@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:08:50.337Z",
+  "generatedAt": "2026-10-24T21:01:39.181Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -37,14 +37,14 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 73
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -212,10 +212,55 @@
       "corroboratedBy": 1
     },
     {
+      "title": "🔴 Former primary school headteacher downloaded hundreds of child abuse images - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnlDQnd4VTA0X1FDX2Z6TUdiZTdnaHNkQUt1WkpUcG9sOXU1U3NQdkE2ZGFhdHdVTVlxaWdwQWpwZjlHRmVwX3ZvUUtmM21pTlc2ZVdfbmVOaFM5NzY4c0tZR0lkQkQ5R3U4eW1HR0hRbnZ6NE9xWGtiRElJMHdBem1ueEg2ejVDRFhoazV6c0JteE1aNURfekZyVk9IeWZiUEoxMlZwTUZUWjVSX0xnT3Z5X2xoeE93SHd0X0M5eUs1UFlEV0NQMFRReFRyWXhEems2VXV3NERCdTBkaFdXZw?oc=5",
+      "snippet": "🔴 Former primary school headteacher downloaded hundreds of child abuse images Facebook",
+      "publishedAt": "2026-10-24T11:50:02.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meghan 'Deeply Distressed' as Father Faces Child Abuse Image Probe, Says Estrangement Was to Protect Her Kids - International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSk05UnFNSGY5Z1E5M1lyMGw3TXZkNGdPUXNBSFB1ZDBiaUhXZmM3b1dKYUh5TVFDNWFXbEVOcEMxS19sUDcyZ3NWX2lYS1drd2Y2YTFqSW5jV2k2S3AxSG9QWFpKcTA2TVBDUERORDE4TkhDVktwZG5VR1pFRG5xQ19PTjE5WVo0U2V5OHpsVQ?oc=5",
+      "snippet": "Meghan 'Deeply Distressed' as Father Faces Child Abuse Image Probe, Says Estrangement Was to Protect Her Kids International Business Times Australia",
+      "publishedAt": "2026-10-24T04:58:53.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Virginia Beach Man Sentenced 25 Years, Child Abuse Images - Hoodline",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNS0xMllPdkVXbmVQZU80YnNscDM1QzZVWmhBekE5anVIRm9CemtjUTgzb0JYUjhsOTVvbzhSWF9BOE1aaGdRQnh5a2JNMFJNYlNjUkhqZzIyT1FpVHBSNzNSd2s5OFRESU1lR0prdTZ0TUdKZm9XTWhrd0VwT2UxMXNSNVVTZVlDN1hsOGNRWVBaMl92VzRseU9uSEhYSVg4LVViSA?oc=5",
       "snippet": "Virginia Beach Man Sentenced 25 Years, Child Abuse Images Hoodline",
       "publishedAt": "2026-10-23T21:22:48.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Jackson Township attorney arrested on child pornography charges - Asbury Park Press",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQURhTUVuSVF0RVdWd3N1SDFYdy1GVDNZdVFLblJtR0dIZFA2MUJKRjEtZmYyZVNyM0dwNzVNLVJ3RXZBbEk4TFNEbV9OaGlqOVBRelo3cXc5UFM1RnA2ZVhUbDNMVTVQcWZSY0JMNXR2MERYaGwtcnZxUUgxYVVGeC1FdG9sb2V1NUJrLXhkVV9oWFFEMzA5WFY5dFlmM0JGVm81Nk00LVktSlZmWFR1OQ?oc=5",
+      "snippet": "Jackson Township attorney arrested on child pornography charges Asbury Park Press",
+      "publishedAt": "2026-10-23T18:31:00.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",

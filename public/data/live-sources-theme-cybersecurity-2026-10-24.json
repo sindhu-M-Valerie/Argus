@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:08:50.337Z",
+  "generatedAt": "2026-10-24T21:01:39.181Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 7
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -37,14 +37,14 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 73
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Indian Data Security Incidents Raise Cybersecurity Concerns - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazFCZkVBMWVCVnEwSlFsaHp5bDdDeUp5Ny03UGxidDMxMlR4bWtBRGpmbXNhNEg2T3dnM2ZNQzlnUHY5QkVXUlJPX25wNXhQUEJEM01UcURqZWhLMEVxU2wtYXY5YzR1ZHh5bTE3eXM3S0l3Z0VFWER5eFNEZlU0TzlMSmc0LUtWamFGTW1uOGprZUxp?oc=5",
+      "snippet": "Indian Data Security Incidents Raise Cybersecurity Concerns The420.in",
+      "publishedAt": "2026-10-24T08:47:39.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Belgium Data Breaches: 47 Hit, Jims 150,000 [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjdjWkVySC1va1NtckdBeXFXbVJVc2dUS3FkYmw4OTFGcFpjeFdSSndJMnJCTGVKVDhWRlFsaEp5ZEljWHVLcEtMVUJBdUlnSGVHdXRJaEN4M2RtUU5mNy1MX1JWaXg2bzQ5SVVtYUhzM3hQV0k1eEFBczNrXzJ0YUo3b1Y5dVlDeUxpdFJ3?oc=5",
@@ -231,6 +246,21 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkJENmZrT05VZ3NFR2FHUHJjeG45bW00SFJIdDhjdUZWV1V2U1JLVUQ3ZUtPcWt3cXFLenhKZExiWGc2RzZJUGZKVF8tZV9WanB1YS1Bb29fMzBOcHo4TFFneUJHOVRKX2QxazliRlZ4ZTRGY0NNRTFDSlR6a0tKM1dR?oc=5",
       "snippet": "Navigate360 Data Breach: 8M Tips, 7 Months Late [2026] shattered.io",
       "publishedAt": "2026-10-24T03:55:05.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ottawa police suspending use of Crime Stoppers after report of cybersecurity breach - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVF5MTNaS2Y4aTc0WlEzbVc4ZkwtbzBsRDFlRWFpSnEwNlJrUXEwbkxXWnotbmQwdk04Yy16ZnJCak1FYXNaa0JncU1GOG5yQlRuWGNlb2hwM0RGdC1ONjE5LUwzTWRZMnZoLUFWTndiTGFBb3ZIYzU5LWpaajhMTHJvSkFlYWgzeElsSVdCdDd0S1N3VlFRdjJ4akJJM3VnQTFySkRtMl80dzUxa3RQX0pLSElURVQySk9YQnNURQ?oc=5",
+      "snippet": "Ottawa police suspending use of Crime Stoppers after report of cybersecurity breach CTV News",
+      "publishedAt": "2026-10-23T22:55:19.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

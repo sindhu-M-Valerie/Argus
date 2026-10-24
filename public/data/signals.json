@@ -1,23 +1,19 @@
 {
-  "generatedAt": "2026-10-24T16:13:39.941Z",
+  "generatedAt": "2026-10-24T21:06:20.957Z",
   "windowDays": 7,
-  "endDate": "2026-10-24",
+  "endDate": "2026-10-25",
   "collectedDays": 7,
   "data": [
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 131,
+      "totalArticles": 130,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -35,
-      "reason": "Last 3 days averaged 14.3/day vs 22.0/day before.",
+      "changePercent": -65,
+      "reason": "Last 3 days averaged 9.0/day vs 25.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 7
-        },
         {
           "date": "2026-10-19",
           "count": 22
@@ -40,7 +36,11 @@
         },
         {
           "date": "2026-10-24",
-          "count": 9
+          "count": 15
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -113,17 +113,13 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 127,
+      "totalArticles": 124,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 40,
-      "reason": "Last 3 days averaged 21.7/day vs 15.5/day before.",
+      "trend": "Falling",
+      "changePercent": -52,
+      "reason": "Last 3 days averaged 11.0/day vs 22.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 5
-        },
         {
           "date": "2026-10-19",
           "count": 14
@@ -146,7 +142,11 @@
         },
         {
           "date": "2026-10-24",
-          "count": 7
+          "count": 9
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -156,6 +156,14 @@
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-22T03:05:23.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Indian Data Security Incidents Raise Cybersecurity Concerns - The420.in",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazFCZkVBMWVCVnEwSlFsaHp5bDdDeUp5Ny03UGxidDMxMlR4bWtBRGpmbXNhNEg2T3dnM2ZNQzlnUHY5QkVXUlJPX25wNXhQUEJEM01UcURqZWhLMEVxU2wtYXY5YzR1ZHh5bTE3eXM3S0l3Z0VFWER5eFNEZlU0TzlMSmc0LUtWamFGTW1uOGprZUxp?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-24T08:47:39.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
@@ -205,31 +213,19 @@
           "publishedAt": "2026-10-22T18:34:00.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "SBI Confirms Data Breach - 3000+ Customer Records Exposed on Dark Web - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUk4ydEZBOFlMS1JEWEY3WkdxWTNyLVRHaE94WHhOa2VWXzc5aTR3QWhvRFJUZWkxYWliLUc2ekRtV2d1S2dtaVRXeExBTWo2aHRTdmJKdk4tUVdzSWRVYzh1OW9zZ9IBa0FVX3lxTE9zT0ZUQXhkSGZ2TzE0WDBad1lVRXhDYzE0RUpva19oNURhRjJtU1l4SDliUWxlR0JMZ1h0VFJOdXFiS0owMUpPMDVCM1IwV1R1M3VSYzM5RHlhcVNDbDcyMjRubF9tVjlzN0ww?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-22T15:28:10.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 97,
+      "totalArticles": 85,
       "distinctSources": 6,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -18,
-      "reason": "Last 3 days averaged 12.3/day vs 15.0/day before.",
+      "trend": "Falling",
+      "changePercent": -48,
+      "reason": "Last 3 days averaged 8.0/day vs 15.3/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 16
-        },
         {
           "date": "2026-10-19",
           "count": 21
@@ -252,26 +248,14 @@
         },
         {
           "date": "2026-10-24",
-          "count": 8
+          "count": 9
+        },
+        {
+          "date": "2026-10-25",
+          "count": 3
         }
       ],
       "topArticles": [
-        {
-          "title": "Fact check on Johnny Lever’s death rumours: Viral death hoax targeting veteran comedian debunked as daughter Jamie Lever says, ‘Don’t want to pay any attention to this’ - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTE5GQmNWNU9qc3ZPRzdVQnRzS3ZnUlhieWphczFrVVNSVnN1ZXZ1aHd0NnVUZGJUbFRBVktHR2xDVWs1S3hSbHA0NlR0Uld4V2J6aEpESDlUcDgyR043SEFPY0U2T00tNkhhQXE0VVdQanAtaEJHOC1Ca09kVmJydnNaNWlpdWdaNFR1bndFbTFlREZIcGIyNmxweFVJWnZ3TFB5UGtCUkhKRmp4ZUJhUWg5Wkp3TnhXTFR1M2ducVZ0MjQ3SE5LZjdWdnBGMHpkSE9qc0VkWVBQX29uR29vbU1GZEg1MV9rYk9lT21vb2s4S0pNYzJaX1FVZ1pXWi00aXJWODdaaURfZHF5Y05oemJfb3RuMWItRktfU2VvamlQbTNrLU5xRkV2LVpZVDc4NHRBODRNcmMtalZJUkdHOXlpZmtmMDJMRHo3RktwRjVmYXJZVk93M3B4eWxRWEgwdVkwcEpaejFLbDJZOEtlS0dHYl9kUQ?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-18T10:27:00.000Z",
-          "riskScore": 68,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact check on Johnny Lever’s death rumours: Viral death hoax targeting veteran comedian debunked as daugh - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNTE5GQmNWNU9qc3ZPRzdVQnRzS3ZnUlhieWphczFrVVNSVnN1ZXZ1aHd0NnVUZGJUbFRBVktHR2xDVWs1S3hSbHA0NlR0Uld4V2J6aEpESDlUcDgyR043SEFPY0U2T00tNkhhQXE0VVdQanAtaEJHOC1Ca09kVmJydnNaNWlpdWdaNFR1bndFbTFlREZIcGIyNmxweFVJWnZ3TFB5UGtCUkhKRmp4ZUJhUWg5Wkp3TnhXTFR1M2ducVZ0MjQ3SE5LZjdWdnBGMHpkSE9qc0VkWVBQX29uR29vbU1GZEg1MV9rYk9lT21vb2s4S0pNYzJaX1FVZ1pXWi00aXJWODdaaURfZHF5Y05oemJfb3RuMWItRktfU2VvamlQbTNrLU5xRkV2LVpZVDc4NHRBODRNcmMtalZJUkdHOXlpZmtmMDJMRHo3RktwRjVmYXJZVk93M3B4eWxRWEgwdVkwcEpaejFLbDJZOEtlS0dHYl9kUdIB-wJBVV95cUxPaUlXemJyVUo5bXBvUDZpWTU1MEI5WmczcTdMVGdmZ1J2VHlWT2dGWGpFLVZFQzBoeGcwR2xqb0Q2djM5T0J0Y2N4dHFhUUdTLUdRUjZ0bC0xUnF4ZDlnaXdaQndIeWdiQlg3enFlU0Z6OHp5b2RrSXJqNlpxakhHOFd3MWdBak9VOEwyQ2dYaFdIcmJycnhJQUJmd0tuTXdxT00yYjF3LUFMS09IaWVGOGRWS0haeHQwUWJQZXZDMms1aHNGVURNUWdqaU9VeFctYWpJT01JU2lDZ0pxcmwwSjd2eTdHNVc5MUpMa2x3Q1RhTERjdHR1ZWlxYWxJQ2lxZi1rWkxNMlgzdTZnQWtFMnZlZ3NTSTNKNjUzVkNDV3g2RjhkMF9NSXZXclV0cmpnRG1KMXJ3ZDBBT3ZmQl9qRko3TTBLbDNUTUdoRVdrX08yMk0zMjhzdWhQcWdvaWVwLTZhMXBDcmhTbTBRLWxyWHlveVNmZkdhU3VZ?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-18T10:27:00.000Z",
-          "riskScore": 68,
-          "corroboratedBy": 1
-        },
         {
           "title": "Fact Check: Video Of A Farmers' Protest In Bhopal Is Being Shared With The False Claim That It Shows A Protest At Jantar Mantar. - Vishvas News Fact Check Hindi",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdUZlVGlVWGk5SncwaW9WVjJrY3ZTbjFtcGlMZTVJRHNpSkNIZkxiMUo0UUI2T3ZXSkc1Z3loamNaRkdycHd1Wk1oUEQ1QUF6UE1va2lRY2FrTHFubC1CQ214MVFmTHNqdXBlNzMxYmhFc09OOFl6NTZ4XzBPck9LbklBMUNaY2VSY2xjUlMxZW5DYmxGZVh0ZGh1ZW5DVmdHR1ZnU3Eydm9fY2g1cWNBRmVzTGI3VEVCS0xrRDFBamxhR0RQNGxGNXp0RGdwZDhfU0hoWFNEWmlFNjZyMHBjZEFlSjVFUURYZW9Xamx0OVZNM1U2UVpvaFdCMGJzZDZK?oc=5",
@@ -319,23 +303,35 @@
           "publishedAt": "2026-10-21T18:36:06.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
+        },
+        {
+          "title": "‘Fact-checking must for journalists in AI era’ - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnR6Tm4wRUJiS2hkdHV1Y1ctd18yWFhtelRwMVpybmVUZUVaQ2l3eXZBeVhZUlVkLVo5ZjdYNVo4eHBwQWpUOUo0R2I2dXdZMzRWbHVUZWtGdHdpUGtQT1dnUnpWU3NwQ0pydjB3RXB1X29EaFc0cnpaTERmbmRzVUxlWERQWDFQQlpVMHpFU0xySFFtUUdlU2RkZ3ZMRkFWMmJleUpZX2JMUjBvSzREc0k3ZGItWTNTWGxr0gHAAUFVX3lxTE55bVBPSjllVjRQNVdSWndZZ1g4Z3FxUGR0bU5wME8xMDFpaXhYQ0V0cEtETG1HTjlnbDlKUkxfTVpnTm92VFlIa1M0eEdtaVlRQWFVaDhNeWQ1QTlob3BtOGhKZDhORnBfREFrZGJJQ215elRUOTFCTWFrWTl6QjNmeFNwd29Td0UwZXU1a0kxY0NBenl0WTFaQmd6bXdyV3NJVEpDYzh2aWt0NmxMbFVaRExFeU85X3l1Nm9DNEdtQw?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-24T19:40:00.000Z",
+          "riskScore": 59,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Fact-Check: Video of US Senator Calling India a ‘Failed State’ Is AI-Altered - The Quint",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPak1iSi1IWUZ2UVNPamY2UWNuZ2o1MVp3TUtxdnd0MWQ0Y0ZCMmVSb3hQVkplaHlLb3llZEZlY2E1bGl3Nnk0WFZhTFVqQ1Z3WHgwRlBUNnBvZ25YUVZUeHg5NVFMZnFhZ1hGVHI1M2ttN2QzSjlMTG5FMTE0Um4wazNrSzBOanFSZlRxSzdGWVZyS0Q5VmxBcVlBRmJSU04zUGR30gGwAUFVX3lxTE9WWW52Z3k0a1ZRWUN0emVCdW1IVF9ZemhWU2JKenRlWV9TRDZITkRYUEJTai11QS1fVUxCYUZGRGpueXJwbnVJbkpHb0o5NlRZYTZQdXRHeWtCOWw3MUF1Nzd4NXVnT0JZUG5RajA5MnZJcl9DSWtqUXRTX2pDLUR1ZDhYR283QUJ4MkFLdDlSZjVOU05wS0tWQzZqckd3WVdVRTBRakt2eEpGVEp3dHUt?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-24T09:48:06.000Z",
+          "riskScore": 59,
+          "corroboratedBy": 2
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 52,
+      "totalArticles": 53,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 132,
-      "reason": "Last 3 days averaged 11.0/day vs 4.8/day before.",
+      "trend": "Stable",
+      "changePercent": -5,
+      "reason": "Last 3 days averaged 7.3/day vs 7.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 2
-        },
         {
           "date": "2026-10-19",
           "count": 4
@@ -358,7 +354,11 @@
         },
         {
           "date": "2026-10-24",
-          "count": 3
+          "count": 6
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -431,17 +431,13 @@
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 38,
-      "distinctSources": 4,
+      "totalArticles": 40,
+      "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -70,
-      "reason": "Last 3 days averaged 2.3/day vs 7.8/day before.",
+      "changePercent": -67,
+      "reason": "Last 3 days averaged 2.7/day vs 8.0/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 2
-        },
         {
           "date": "2026-10-19",
           "count": 0
@@ -464,10 +460,22 @@
         },
         {
           "date": "2026-10-24",
-          "count": 2
+          "count": 6
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "Kerala Police indict social media influencer Darren for ‘communally divisive hate speech’ on Instagram - The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTkU1WENRYjZiWFp1MGtvWTdlZTNOU1FYWUxGM29IUmFsZ2tJS2pIMU4wTjBrek1KRWs2X1FxMlViLWhndkRRV2hfRGhQN0FkQmRoZkxVVDljQ19NVG9LaXZnVG5Zbnp0VGdwck95UUhhdTFUWnlzQ1NOdndxWS1kUXFobEF4U3ppb3ltandtcU1ackdtUkFDZWxzZ1JVVWJkTmhPSnMyLWJhWHZQYnp1UlZjbThydDBSMkJHN1V0RVVEdS1RYnFzQTVZZk1qYjF1eGxhd3ZxeTU2UC1ZM3FUVmtzR3MtTDFIUFQ2VkpUZkd3ZWNOVjZqeFVB0gGAAkFVX3lxTFBGU2FpU3dmdkRIYVI4V2NlYnNhZXJCZG1rUWlQVk9sakRtWFlFZnY5ZVBOLW1IM2F3Q2lXaWljQVo4aklxbFp0ZU1kaXlzcTdxT3E0aEhudG12ZkpNOHpmUk0wcDc2ZE9KRVVmcFc5R3V5S2hlcHpRTnFzaEs5d25sRHZHWi1UdnBCbFVEeEgyQ29qZTJtZ3ZXOVRUWnBDTFViUzk4Xy0wNUFpUllfQkZIRGxrVjZZSkJYczZQUXNiOWtVR3djOHluUzF6QmJlSWthV21pR3FTTXIzU1dtbmN0WlBaRlpZU3dyQk1zVmptU1REWDRzM2dzU2xGV1o2SnY?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-24T13:05:11.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
         {
           "title": "Australian teen charged with hate crime for racially abusing Indian family, threatening to 'blow up' Bris - The Times of India",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUFFnR0oxbWh3YkxlWFN4N3daaldRdFYtdTZBbTJsM1U5VjB5WXMyYUNjY0twTW9Lc2gzTGZHcmVOZF9GbE5BN1NaVHdobTlZdGhhZkFpd1dDVU5qQnd5TDBSdEl1d1ZfRzFzQVhpS3g4NHBsUnFaNVBZMXlFdGY0OUI2NXJ6SUtLLUtTajY0U3ZGbVQ3RUQ1QVk1OE9CM0RhR29BWk5jZFNoMXRyd2ltNlJLLTV1WDRMUlpQajdSOEJaQ2RZRUN1c093ZDk3a0FlUFFpMmpTT2JGa1BYTGM5YzZGRlUxSVRRTmN3a2dMdWs2aGIwZmlTMW8yR1k3S1pSNldMLVotS1VrSUNMbl8ycEp6TGhMZmM5MXVVemJSTG44dnVfLThrN2l1dFFRRklSTFo4a1BfbWtNV3hRMnBxcTZwY3VTZ9IBywJBVV95cUxQN1VDazUzZWVyaC1LTGRybXhQSGlKd1ZJWEtjR3FFRmU0aDdnVk9OcFllN1lyVVdfV09GMTJMS3JpNmZxMlBXSDdhLTJ3a0tqb3dRTHd6S2x0TmxBaEVXREdsbnM3ZW12eXJaM1dFTUQ0Tk4xUVUyTzkteE0wQXEyY0I4d0syUWgtSkc4Q1FIcEJvb3dza2lNN0dTbGJLUHFhWHJlaWxvN3F4ai1MYVZvZFNNOER5UTdyOFBzUTNRczZTWVpRUXZ3Mm0waGpydjNRa0xWN0pNN1d0alI4RDdTeGh1T0dUT3g2Z284RE1ha3V1aGdMN1M3NV9ZMnJnU2VwUEFiSm1oM0hMNjdzV01QdFIzVi1WRUtwU0s2SXU1T0RwRXVKOUQ5TVZHN2ctelJMNllqbFBCUldsUlVMWXJGWG9Cb0xLRzI2MmZr?oc=5",
@@ -509,26 +517,18 @@
           "corroboratedBy": 2
         },
         {
-          "title": "'Named after Kashi served beef, Jinnah statue': YouTuber booked over communal remarks on Fort Kochi cafe - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObW4zM2prYVZlZl9NNFlnRXc2NHRhbm1OWk5uWDNjNElwY2J2THh4V05EdjJKTjVZMVFxdW10U21LTDI5bGZHNlhlazY1MDJYakV5THNicFRhRy1qZGNNeExEdkR4bXQyZ2JMVEtKTEo5RndUOS1WQzVCMnlzLTN6WXU1RW51ejdHQ1c3THBfOHdKeWIxcU51aktpVGxoN3AzQlFCMGxrZDNGQVJCaDRNaHR1eDA3QWNldHB4WjVFcXR6UDFHVHdqcFJoemtoYTZOY3NKS0tjTVBxQ0lNRGVFNS15aU5IN2piVWYyak5TazJxQmZqRWl0dVY0OUFrREJNVC000gGIAkFVX3lxTE1EOHloSjdESFVaSi05X1RxY29SM1NUNUpUcl95RFB2TWZ1d2h3Ul93Qnl0RXhZaTlEVERMQ3Zpb29pZl9xcGVsT2JVbHJYMXVJWEdaSzZ1dVlYcmR6MVd0dmxqRzJVOFktMmhWanRuMFJOYlFvWVM4Y0xoUTZ4Mi1wanRsd18xblV6WnIxdzlZQXNlWURvbS1wdWFuckhac3owdExOSFc1a0RHQWEzUWRlVVJoeHFnNXRyNWFBTjQ5OXZ1anlIY2stUTFMS2JPNWFXMW9oMkc4MmNiR1NBX3lVYV9rQXFuN3hybGJWLUd6Wkp3V1A2ZUtiRlhLUWRJTTlKb3JYMU1XSg?oc=5",
+          "title": "ഫോര്‍ട്ടുകൊച്ചിയെ കലക്കാൻ | YouTuber Caught Spreading Venomous Communal Hate | Out Of Focus - Media One",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbTUzejE3QzZsbU5FRVJ6OFhDbUxaaVlDaUhNSzA0YUVHWGk2WDZJR2dkc1RqMWxVR1pnR0s0UXZERGc2ZHkxX1lpVVl6V2xBMkp3WmVWN1liNkRRVE5oa3JTWENFdU1lclhpSFZrcG1wd1piX3NCS0dCSTZZSGJNWF9rVzVxTlFLazlpbFpLZ29MRENFekFRRVItblhZQmk5M2pWdDRWTlBHMlVGWFJGVDZhYWVDLXJWbGpsNDhiVl9LaVXSAcMBQVVfeXFMT201M3oxN0M2bG1ORUVSejhYQ21MWmlZQ2lITUswNGFFR1hpNlg2SUdnZHNUajFsVUdaZ0dLNFF2RERnNmR5MV9ZaVVZeldsQTJKd1plVjdZYjZEUVROaGtyU1hDRXVNZXJYaUhWa3BtcHdaYl9zQktHQkk2WUhiTVhfa1c1cU5RS2s5aWxaS2dvTERDRXpBUUVSLW5YWUJpOTNqVnQ0Vk5QRzJVRlhSRlQ2YWFlQy1yVmxqbDQ4YlZfS2lV?oc=5",
           "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-24T15:36:00.000Z",
+          "publishedAt": "2026-10-24T18:25:49.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         },
         {
-          "title": "DCI Arrests Narok Man Over Virulent Online Incitement and Threat to National Security - Uzalendo News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3Fma2tvUEF3cnJrUnRaR3VzMlRQRUcxU2tLZkh1NjQzSlRCYXBGVTFZVzk5UGlGY2ZvUmlERFZnUlN1V1ZCRWdWMHY4ajRYUmg2VWtPMW5kdnVDVl9odDI2SlZySk5HcjUxbTRCSTFFbURlZ2xINmVOSzFRUTN3aW5YNFJELXFxQTg0QU9rOHVxY2N6ZUpOOUY4Y1paMVBObWZnRjVSR3h3N2lFYUN2TTV3?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-10-24T05:33:43.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Australia visa rules 2026: Tougher character checks for crime, hate speech from October 31 - News24Online",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmFQQU5PLU91VE9FWnBockdqaXpWbS1jcV9GYVRVd2RqUWhQMWYwbHFQU1N2bjZWc1l5S05XNGRIVFRQMXhHV2xnOWN5M3FpRERwVTZJdDI2ZnJHTW5jVUlqbjh3b2dmVlNWVWh3YU1tTlRKaWxoQTR0OUNydXJua2NwWGJZUHVJblgySnpCSmtFQzlsdXpzaTU2M25QQW0yMkk3LXdWVmRTa1oydGF0eHBrcW9fcmRSTFFMNTdTQXZ6LXFFM2fSAcoBQVVfeXFMTWo1bjEwb0F5U09KaTVIOV9iTjNCaUVGZlI2MWkxXzdScjZrSm5IaEpZUTk4bFFyRHFHYjZ3NkZNM0cycFpzOVhUQ3cyT0pSazdiVzZSczVRZ0lCa1NQSU9NNmZSSFJSbTlXNzJ2Nmw5RUJKTzU0blRvUmpkSkNlTDl5enBUcGt2dFl1aHAtMERVRGVaWEJEbDZvX3R3UDMwcTQ5WHRBMzZwR3RLeUdOSkZiWHY0Q0M4VlNpM3k0cDBCa1NzbE1lTXFnQQ?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-23T12:28:30.000Z",
+          "title": "Keralam Police book social media influencer Amrit Singh Darren for communal remarks about Fort Kochi - Deccan Herald",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWnExbTdxNW03ZkR0ZVFXWnBvblNELTI0ZDRJUGpXOVI1VVR1TDBUTUhURnh5aVNBbnBBSGN4eFRwdVB1b3BnY0ZPaW5uMHN6ZmJ2dk9JNHdtaXRrS3ZJUVl0cFV3M1E3TVprNkpKanZ6dnZXYlc2OEhpckJKS2F4VmNFR2FGRFdxYWN4NXA5SFU5M0hrdm5NYnR6anZqZ0JjeGVsYmIwYzN4UDNqekdMTFVUaFQ4SXpqbUROSjl3cnlSMnc3UXBtTlJJV0pNa1FWellKaEd1VV9fYVdhdDdpZDFsZGlaWDR5WUFsS2J3VU4xdmctTmFmaw?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-24T17:27:41.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
@@ -540,14 +540,10 @@
       "totalArticles": 24,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 224,
-      "reason": "Last 3 days averaged 5.7/day vs 1.8/day before.",
+      "trend": "Stable",
+      "changePercent": 13,
+      "reason": "Last 3 days averaged 3.7/day vs 3.3/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 0
-        },
         {
           "date": "2026-10-19",
           "count": 4
@@ -571,6 +567,10 @@
         {
           "date": "2026-10-24",
           "count": 4
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -643,17 +643,13 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 24,
+      "totalArticles": 22,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 224,
-      "reason": "Last 3 days averaged 5.7/day vs 1.8/day before.",
+      "changePercent": 33,
+      "reason": "Last 3 days averaged 3.7/day vs 2.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 2
-        },
         {
           "date": "2026-10-19",
           "count": 0
@@ -677,6 +673,10 @@
         {
           "date": "2026-10-24",
           "count": 3
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -749,17 +749,13 @@
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 11,
+      "totalArticles": 10,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -24,
-      "reason": "Last 3 days averaged 1.3/day vs 1.8/day before.",
+      "changePercent": -43,
+      "reason": "Last 3 days averaged 1.0/day vs 1.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 1
-        },
         {
           "date": "2026-10-19",
           "count": 3
@@ -783,6 +779,10 @@
         {
           "date": "2026-10-24",
           "count": 1
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -827,14 +827,6 @@
           "corroboratedBy": 1
         },
         {
-          "title": "India News | YS Jagan Mohan Reddy Alleges Electoral Irregularities, Political Violence in Andhra Pradesh - LatestLY",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnNFWWRyQmZ2V3N2M3VMTEpORFNUbGp2cDVZWi15d0ktcnViR2RqcEJaLUJMUExLc2YwSlFSdzFkSjgyX2ZzQWVld2g5MTZncTVfTU1pQ2J4N3R0RTFsTjNSYzBMRllxaVY4bDJtRkt1U2d6VzZYRzZjcjY0dmcwaUF1N2pFTU1CanlqdWJSQ1pKSmltbnRoNXZXTHg0N2RORllkdk5pSEdqeS1MX2Mxdl9qRzZzMWRJYldqNjQ5OXlHajY2cy1rbHlqYWN5N1JwV3lSN2tabGc3amNNVzZ4RkZSbEpiOTVnS0c00gHrAUFVX3lxTE52c0VZZHJCZnZXc3YzdUxMSk5EU1RsanZwNVlaLXl3SS1ydWJHZGpwQlotQkxQTEtzZjBKUVJ3MWRKODJfZnNBZWV3aDkxNmdxNV9NTWlDYng3dHRFMWxOM1JjMExGWXFpVjhsMm1GS3VTZ3pXNlhHNmNyNjR2ZzBpQXU3akVNTUJqeWp1YlJDWkpKaW1udGg1dldMeDQ3ZE5GWWR2TmlIR2p5LUxfYzF2X2pHNnMxZEliV2o2NDk5eUdqNjZzLWtseWphY3k3UnBXeVI3a1psZzdqY01XNnhGRlJsSmI5NWdLRzQ?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-18T07:36:24.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
           "title": "Clicks That Wound: Southern Africa Races to Close Digital Violence Legal Gaps - AfricaBrief",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DNmFLRldpb25PNlpQOXlxaWNFQU1NVVFSSTE5aWlKWUItWDZsLVhKRjgzb04xMHNpRzlVT3h4Rl9DRkV2Q3RDaDhad2dhbVZ0WUJVb0dIaWhES1AzcU1lYmhnRHBReXE3Z1huMlItbDk2TlF3bXBz?oc=5",
           "source": "Google News • Sexual Exploitation Online",
@@ -849,6 +841,14 @@
           "publishedAt": "2026-10-23T08:06:44.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
+        },
+        {
+          "title": "‘Unacceptable and stupid’: Macron hits back at Trump, Netanyahu for 'exploiting France's riots' - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU01HNlpyeHpyY0JvUXc4Rmo0U3JTM0NZT0dqQk9LVGNZakxrRzYzMUZtZ2kyYXl4V0NwT0VHUlg4LXV2VjBuUk5raHY2eU1ZN1FKa1F1RTh6OHdLRTFGRjdEUzduUG5vc01KLTctN0t0ZTBRX0FQUE00bE1aTUVPVk55TUFiVXJWdDFRaWZGN2tOQ2hyMzQ1bE93R3YtbFlrcEJCdnhwMVVBR3ViU096Q0xZWVd0bDFwdUFMNzl3cktZTGNPR0xGelpCUGZ0enPSAdQBQVVfeXFMTlozSE1JbDJjSUZqdkxJbDUxUHljWmxYeXNrWmg5eVJRUktNejN3bTdHbjNyRWxnYjZnazR3d1VVUDZma09JdWItVGlVUzZVQUJ2SWItUXI1LWFzOFlpa01MTG1GWHRhdWtKYW1RZUprV19GdjdCeVlCcjVEVHphaXJxRUZQTDRMcXRJcFhKRE8tTmotTmZSWXZELXdGM1lTakVYNVd1OXFhWWZ5OGVvVUEtX2hFZVlJX0p3TmhVRFVySkFpNFJodlNTOU9aWl9iVTB1V2U?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-21T18:48:44.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
         }
       ]
     },
@@ -859,13 +859,9 @@
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -62,
-      "reason": "Last 3 days averaged 0.7/day vs 1.8/day before.",
+      "changePercent": -83,
+      "reason": "Last 3 days averaged 0.3/day vs 2.0/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 0
-        },
         {
           "date": "2026-10-19",
           "count": 2
@@ -889,6 +885,10 @@
         {
           "date": "2026-10-24",
           "count": 1
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -961,17 +961,13 @@
     {
       "theme": "harassment-bullying",
       "label": "Harassment & Bullying",
-      "totalArticles": 7,
+      "totalArticles": 8,
       "distinctSources": 5,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 0,
-      "reason": "Last 3 days averaged 1.0/day vs 1.0/day before.",
+      "trend": "Rising",
+      "changePercent": 33,
+      "reason": "Last 3 days averaged 1.3/day vs 1.0/day before.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 0
-        },
         {
           "date": "2026-10-19",
           "count": 2
@@ -994,7 +990,11 @@
         },
         {
           "date": "2026-10-24",
-          "count": 1
+          "count": 2
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -1019,6 +1019,14 @@
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ1FvTThnemRFUzNNNThEd0lRMnZuWS1RYjRyZ192eHJKa3UwOTJmSS1MVi1RMXA1QUlxcm1aS283WEUxTU5DX2FCa2VKNzVOZWVPRThiU3I4LTJzSlEzOHF6cEEzSWoyb2IteGtuUjBKcU9Wd1EySUsweWxxUzR4VzdZOUt0b1RtTVdtZjV4ZVdlXzhGYk9pTHFqNWQ0amt0ZllLZEJHcjBGVlYxamthc01WT3BnNVFXalFHbG5QVHJmcVlxb2Q3cGZMa3Fha29MdEdFdDcxaE1TaktGWklqeVlZbUdJR1hM0gHuAUFVX3lxTFBnaVhycVdBeF9ycmNqWm9QaFhOMHVwUG5YMmtJRVpydE5rMnBZUTllWkN3cldrUVU0emdlTGhjekxuTmJPYVNqbkNYYmVaT0ItUVIzX2EtZTJ0bk5jSDRPdTliOXRLcFVYY2Q5dmQzWkt1SkJpNWZWMW04Vi1fWFI0WlNKZnVFM1h3Vjk3a05BSmVEVko4VFBscWJVcUpKb2tMN255bGY4OXpjWVZDOVVXTnljbS1sRTdFaDlyUjEyTm5XTUVmRThiLUVSdFZUV3RwS1Jua05vZjRPOXlpcmY1enlhcVpjN19ZN096UFE?oc=5",
           "source": "Google News • Online Hate (India)",
           "publishedAt": "2026-10-24T09:12:43.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Sona Mohapatra Reports Online Abuse After Criticizing Rahul Gandhi Over Himachal Pradesh Conditions - INDIA New England News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1NCdHZ5ajJ4Wkw1d2xZV19YRnpRdjVkVE9RcDFhUmhwMi1qMkt0ZzNHejUyTkVQeERaVDVQOVJpRU4xVU1vNklZSF9ESEVNYWZBOHpYU3l2MGpTVFI1ajdLNEdWVmlSVzJlRlNXOU95bG12ZnVoUWR5azdhTUJnejhvSy1pMkRpRWR6cTRVLUpKRE1PVHFsbE9xREZwVWtVMDdFdWUyMGphZi04NkNJNUN4QTMtMDRrOEh5cFdoQjZobXkyRjBZ?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-24T04:48:45.000Z",
           "riskScore": 40,
           "corroboratedBy": 1
         },
@@ -1067,10 +1075,6 @@
       "reason": "Last 3 days averaged 0.3/day vs 1.3/day before.",
       "daily": [
         {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
           "date": "2026-10-19",
           "count": 0
         },
@@ -1092,6 +1096,10 @@
         },
         {
           "date": "2026-10-24",
+          "count": 0
+        },
+        {
+          "date": "2026-10-25",
           "count": 0
         }
       ],
@@ -1149,17 +1157,13 @@
     {
       "theme": "illegal-goods",
       "label": "Illegal Goods",
-      "totalArticles": 4,
-      "distinctSources": 2,
+      "totalArticles": 5,
+      "distinctSources": 3,
       "highRiskArticles": 0,
-      "trend": "Low volume",
+      "trend": "New activity",
       "changePercent": null,
-      "reason": "4 articles in 7 collected days.",
+      "reason": "No articles in the earlier days; 5 recently.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 0
-        },
         {
           "date": "2026-10-19",
           "count": 0
@@ -1182,10 +1186,22 @@
         },
         {
           "date": "2026-10-24",
+          "count": 1
+        },
+        {
+          "date": "2026-10-25",
           "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "NCCIA rescues 13-year-old Karachi girl in probe into suspected dark web network - The Express Tribune",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdjhBbTZSNURpaWV3VFNsVTlWRGd2STdsbmRRRkQzVW04OGJCcURoZjJEbVBQZVpIMlE2dkRfUzh5NGRWRzlVUUdVY1o2YXVOeHZyZ3oyQWtQaGRfcFhDbEVhTzFrRjVCWEFIVGVfSkhnZi1CR2RtYXZJYmpEQUlKNW5VSHNsOHgyM2ZJYlROZi1WdDdLaHhITzBfRktXNXpfWHBkcTZmS0dvT01BUEZ4MGJUQ0dxX0k?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-23T19:11:15.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
         {
           "title": "Dark Web Exploitation in Pakistan: NCCIA Rescues 13-Year-Old Girl in Karachi - PhoneWorld",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWQ3SXI4aVNoZjhtMW1BNldpOEZvaWxoQXlyUnkySW9YYmlqTzJrOHFsRHpPXzZXS2w1N3F1eEZVRjcyc0VHM2FmZ0RzNDBhMFlpbHkxV3JKeE54dWxfdW5tX1BxM1k1UlpEc2dFMTM4MkxmQmJrNndJNDEtUFNOejhwZlBCTFZYMi01V2RTdGZkeG5tTlB5N3RiWVR1UTFqMUV5Mk95Y3ZHdw?oc=5",
@@ -1231,10 +1247,6 @@
       "reason": "3 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
           "date": "2026-10-19",
           "count": 0
         },
@@ -1257,6 +1269,10 @@
         {
           "date": "2026-10-24",
           "count": 1
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -1297,10 +1313,6 @@
       "reason": "3 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
           "date": "2026-10-19",
           "count": 1
         },
@@ -1322,6 +1334,10 @@
         },
         {
           "date": "2026-10-24",
+          "count": 0
+        },
+        {
+          "date": "2026-10-25",
           "count": 0
         }
       ],
@@ -1363,10 +1379,6 @@
       "reason": "2 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
           "date": "2026-10-19",
           "count": 0
         },
@@ -1388,6 +1400,10 @@
         },
         {
           "date": "2026-10-24",
+          "count": 0
+        },
+        {
+          "date": "2026-10-25",
           "count": 0
         }
       ],
@@ -1413,17 +1429,13 @@
     {
       "theme": "suicide-self-harm",
       "label": "Suicide / Self-Harm",
-      "totalArticles": 2,
+      "totalArticles": 1,
       "distinctSources": 1,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "2 articles in 7 collected days.",
+      "reason": "1 article in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 1
-        },
         {
           "date": "2026-10-19",
           "count": 0
@@ -1447,6 +1459,10 @@
         {
           "date": "2026-10-24",
           "count": 0
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -1455,14 +1471,6 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjJlb1VJb1ktM1BtLTlMN3JFenpkc3ZLVkZVanJWM1pnQkhOVFpUWENHd1R0cUhLWWc1OVZIQk9HazMtNDRMTlNjUm94amFrZHptMXBvdEtmYnhaZVFLcXFLbWpfeVhWbU5qQkhfRGs3N1A2dks2UjN1Qmd5cnJSZmtHd0c5bS1nMkI3T25Zd05qa3A4MzNnYndsZFVBUURnWF80QVZOcnJLcE5QUDNGcktjZmM2WXdLMjhOcko5d212bmlqam1ORWJB?oc=5",
           "source": "Google News • Suicide and Self-Harm (India)",
           "publishedAt": "2026-10-23T04:26:17.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Why self-injury and suicidal behaviour should not be confused - Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzh5N1hmcGRMMG50enozSXJxMWZTTjZKWnctSm5wMHRLajB3eWJNMXQ0S3hZd0pzbkdSTGVCVmV2c1lyVHU2S3RVcWZpSXNvSzZqbGRQel9SV25EWVp1WGFBLVFGNlplUGJUNzJhZGU1akR4UnU2Qk1FZWoxR01rRHotZDdjbHN1R0V2YnNYSVhrdmZaNXNsQUxkZ2F0TUp6SHZ2RjBJWUF6c2Fka1BvVzhYUndYRDNMMl91S1NaV2JZZw?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-10-17T20:00:13.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }
@@ -1479,10 +1487,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
           "date": "2026-10-19",
           "count": 0
         },
@@ -1504,6 +1508,10 @@
         },
         {
           "date": "2026-10-24",
+          "count": 0
+        },
+        {
+          "date": "2026-10-25",
           "count": 0
         }
       ],

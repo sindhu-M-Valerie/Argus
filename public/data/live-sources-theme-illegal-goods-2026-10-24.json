@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:08:50.337Z",
+  "generatedAt": "2026-10-24T21:01:39.181Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-24 on illegal-goods.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -37,14 +37,14 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,21 +65,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 73
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "NCCIA rescues 13-year-old Karachi girl in probe into suspected dark web network - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdjhBbTZSNURpaWV3VFNsVTlWRGd2STdsbmRRRkQzVW04OGJCcURoZjJEbVBQZVpIMlE2dkRfUzh5NGRWRzlVUUdVY1o2YXVOeHZyZ3oyQWtQaGRfcFhDbEVhTzFrRjVCWEFIVGVfSkhnZi1CR2RtYXZJYmpEQUlKNW5VSHNsOHgyM2ZJYlROZi1WdDdLaHhITzBfRktXNXpfWHBkcTZmS0dvT01BUEZ4MGJUQ0dxX0k?oc=5",
+      "snippet": "NCCIA rescues 13-year-old Karachi girl in probe into suspected dark web network The Express Tribune",
+      "publishedAt": "2026-10-23T19:11:15.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
