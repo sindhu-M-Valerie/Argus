@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:56:18.878Z",
+  "generatedAt": "2026-10-24T11:26:41.412Z",
   "windowDays": 7,
   "endDate": "2026-10-24",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 124,
+      "totalArticles": 127,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -45,
-      "reason": "Last 3 days averaged 12.0/day vs 22.0/day before.",
+      "changePercent": -41,
+      "reason": "Last 3 days averaged 13.0/day vs 22.0/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -40,7 +40,7 @@
         },
         {
           "date": "2026-10-24",
-          "count": 3
+          "count": 6
         }
       ],
       "topArticles": [
@@ -113,12 +113,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 122,
+      "totalArticles": 125,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 29,
-      "reason": "Last 3 days averaged 20.0/day vs 15.5/day before.",
+      "changePercent": 35,
+      "reason": "Last 3 days averaged 21.0/day vs 15.5/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-10-23",
-          "count": 23
+          "count": 24
         },
         {
           "date": "2026-10-24",
-          "count": 3
+          "count": 5
         }
       ],
       "topArticles": [
@@ -219,12 +219,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 91,
+      "totalArticles": 95,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -31,
-      "reason": "Last 3 days averaged 10.3/day vs 15.0/day before.",
+      "changePercent": -22,
+      "reason": "Last 3 days averaged 11.7/day vs 15.0/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-10-23",
-          "count": 11
+          "count": 12
         },
         {
           "date": "2026-10-24",
-          "count": 3
+          "count": 6
         }
       ],
       "topArticles": [
@@ -325,12 +325,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 51,
+      "totalArticles": 52,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 125,
-      "reason": "Last 3 days averaged 10.7/day vs 4.8/day before.",
+      "changePercent": 132,
+      "reason": "Last 3 days averaged 11.0/day vs 4.8/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -354,7 +354,7 @@
         },
         {
           "date": "2026-10-23",
-          "count": 15
+          "count": 16
         },
         {
           "date": "2026-10-24",
@@ -383,6 +383,14 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjJxMmdLclMzelRTWnN6STktamZreXlYbTBsLTFwU3RTeHJEUF9mN2psb2MzTlJlQTVTdE81S0h0NURsS0k4aFdrM25aWFFOZlBYZGhVLU5nWGgxQU45QkFzVV94SnVGNHRKNzBRUmgxSThULWdwRU9QcHpVNnNJN2ZjYnVtY0phRW1Zc2FrMFZuY0hSbm9sWDI2Sk8yem9ZNU1KVFBfOE50UGg5U3Y5d05IdFZaWHNveUtR?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
           "publishedAt": "2026-10-23T15:13:57.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Over 51,000 child sexual abuse material reports linked to Ghana in 2025 – UNICEF - Adomonline.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmt1ZTJSN3hGdmhuNFNLQXNzS29yQU1rNkRXSUM3WERGajB3NVEwRENlMmJmQjRQY0o4OTVXUjZPdjdVS05ycEZDUEFBbWtJaTliSmdKS19xcGVrSXlUck84WmpfUk54aUVuUl9QZ25CbDNDeWRrdWtrTTJCa3VTNzFJQlUyd3dIYUpWM0lnajdIUWhqRkhzVEtaQnc3ZWZ1dTE5b0RpMkw?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-10-23T12:58:24.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         },
@@ -417,26 +425,18 @@
           "publishedAt": "2026-10-22T20:22:23.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Rockton man charged in AI-generated child sexual abuse material case - MyStateline",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnp2TWdkLS13R3RFQTZ2TzlPLU1qbV8xQUxXR2F6cDJDZ0hraU9EX1VuLXhwdnpScEtZQTM1eFZQN1hOM09zd3YtdzVGLXR1US1sSG81Y1Q4Z3RZczhQV0NSUUdXUThuUVBvYUtwdWVPM19EOTNRd05kUldqSmhfM0FiWHp4d9IBiwFBVV95cUxQNmVGN2Y5VDVMLU1kcEZubllDYm84VDZVaFY2MldReHRkVE9kbmlEdU5icnZyT2piTlphZ1F6T1pwWlBzaE85UFlJSVRhVlVoZEZsR2xDRmNEODBDZEhMaHZ4WlJZZHdQY0F1ZnFSSlEtczVQeFRuNWh4akpmZUxFTXdiVDlQdGlIRHRZ?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-22T16:23:02.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 35,
-      "distinctSources": 3,
+      "totalArticles": 37,
+      "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -83,
-      "reason": "Last 3 days averaged 1.3/day vs 7.8/day before.",
+      "changePercent": -74,
+      "reason": "Last 3 days averaged 2.0/day vs 7.8/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -460,11 +460,11 @@
         },
         {
           "date": "2026-10-23",
-          "count": 1
+          "count": 2
         },
         {
           "date": "2026-10-24",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -509,6 +509,14 @@
           "corroboratedBy": 2
         },
         {
+          "title": "DCI Arrests Narok Man Over Virulent Online Incitement and Threat to National Security - Uzalendo News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3Fma2tvUEF3cnJrUnRaR3VzMlRQRUcxU2tLZkh1NjQzSlRCYXBGVTFZVzk5UGlGY2ZvUmlERFZnUlN1V1ZCRWdWMHY4ajRYUmg2VWtPMW5kdnVDVl9odDI2SlZySk5HcjUxbTRCSTFFbURlZ2xINmVOSzFRUTN3aW5YNFJELXFxQTg0QU9rOHVxY2N6ZUpOOUY4Y1paMVBObWZnRjVSR3h3N2lFYUN2TTV3?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-10-24T05:33:43.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Australia visa rules 2026: Tougher character checks for crime, hate speech from October 31 - News24Online",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmFQQU5PLU91VE9FWnBockdqaXpWbS1jcV9GYVRVd2RqUWhQMWYwbHFQU1N2bjZWc1l5S05XNGRIVFRQMXhHV2xnOWN5M3FpRERwVTZJdDI2ZnJHTW5jVUlqbjh3b2dmVlNWVWh3YU1tTlRKaWxoQTR0OUNydXJua2NwWGJZUHVJblgySnpCSmtFQzlsdXpzaTU2M25QQW0yMkk3LXdWVmRTa1oydGF0eHBrcW9fcmRSTFFMNTdTQXZ6LXFFM2fSAcoBQVVfeXFMTWo1bjEwb0F5U09KaTVIOV9iTjNCaUVGZlI2MWkxXzdScjZrSm5IaEpZUTk4bFFyRHFHYjZ3NkZNM0cycFpzOVhUQ3cyT0pSazdiVzZSczVRZ0lCa1NQSU9NNmZSSFJSbTlXNzJ2Nmw5RUJKTzU0blRvUmpkSkNlTDl5enBUcGt2dFl1aHAtMERVRGVaWEJEbDZvX3R3UDMwcTQ5WHRBMzZwR3RLeUdOSkZiWHY0Q0M4VlNpM3k0cDBCa1NzbE1lTXFnQQ?oc=5",
           "source": "Google News • Online Hate (India)",
@@ -517,18 +525,10 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Australian teen threatens to blow up Indian neighbours, charged with hate crime - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTEdHRndDTFF6bGV2LXhHTWp0SW1jaVRBejkwaFYyaVA0OXRkSUJoM2piTENOSXR6WEpZbFZaZjVLdTRHNm1UakI3LVBydUZKSEVoQVhUTERBOG1GVUpkeXpwYVgyTzh1eFF2TU5XU1NvU1Q4cTdwRS1jUE1jNUFJWGFXSzNvODdVaXQ5WDdoSjNlMTNMX3ZCR1hoeV9xd0JzeWlKcWJwQkRTMHRsTnBuNHpoNzY1dTFaNTA2cWVJVm9zRlRhcVpNS0lodVBuazVEZlJJSGFFNNIB1wFBVV95cUxQTEdHRndDTFF6bGV2LXhHTWp0SW1jaVRBejkwaFYyaVA0OXRkSUJoM2piTENOSXR6WEpZbFZaZjVLdTRHNm1UakI3LVBydUZKSEVoQVhUTERBOG1GVUpkeXpwYVgyTzh1eFF2TU5XU1NvU1Q4cTdwRS1jUE1jNUFJWGFXSzNvODdVaXQ5WDdoSjNlMTNMX3ZCR1hoeV9xd0JzeWlKcWJwQkRTMHRsTnBuNHpoNzY1dTFaNTA2cWVJVm9zRlRhcVpNS0lodVBuazVEZlJJSGFFNA?oc=5",
+          "title": "‘I wanna blow up a synagogue’: Online posts lead to hate crime charge against Utah man - Jewish Telegraphic Agency",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUExrd01xMkJpc0lOMXROdnl2VUNaS3pJMng5YzdjQWVhd3B4eWNfRGNHT0dqMHZyc0FpNjJsMXFEYnpjbHRodzdvZDk1TzBkQWpXTkVSc3luNnVQQTFBRktZSV8tbGVTSVlMWGEwczlvWWZtTWRrb0x0ZTd1SXl1M2RNUVBWSENIeWluSDFoTGltSnpicGVHcXRiSURfMmNjM0UyR2pYTU5oTTk1M3BvSjh6dnRKOFBxdFhRdWlBZENENTFTNENz?oc=5",
           "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-22T06:25:16.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Hindu temple hate crime probe sought by US House India Caucus over Illinois shooting plot - Goodreturns",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXlyY293cTJxWm9WR2pQQllZeDNLVXhpVmZkWXFDNll5NlNoVWM4VFRCazhGUTE3WjFTSzI3dThTb2NyUjkwWmxkQjhmQWNuRVZwWDZZQUtkTXFtX3JFcWl2VVg5R1VxNUpKOTd0Um5wYzZOQW5rRG9CWHRfRjF0RXdoR20tX21oTk1GNExCS25McHdwTUYzRUhaOEJkbmRuVl9Jc2ZUbWs5VWxGNHhWRQ?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-22T05:00:59.000Z",
+          "publishedAt": "2026-10-23T12:27:56.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
@@ -643,12 +643,12 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 20,
+      "totalArticles": 22,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 148,
-      "reason": "Last 3 days averaged 4.3/day vs 1.8/day before.",
+      "changePercent": 186,
+      "reason": "Last 3 days averaged 5.0/day vs 1.8/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -676,7 +676,7 @@
         },
         {
           "date": "2026-10-24",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -713,6 +713,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "India, Uzbekistan Step Up Cooperation Against Terrorism - Dainik Jagran MP CG",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnhvSlF1d0tHQ0szLVhCeFA1ai1NWXdHbjFoRl9kLVZBWDZDd1BGRm0zLVhINHBNV2tSVXJrbDBJOWdDVTMwd3VuRFIydWhKYUhDTXJ4bHY2bkQ4aWtaSzB5YjlzN3VtSTRPdlFzcGtzYUdrdlpCcjAtWnBfVllrb2d3ZmRUSkpObmUwaHVpaDZiNG9vUGF6NXNuVTJJMkNiWUZoSjFNTnRtd1YyQ2ZOcDFqdVl3Zw?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-10-24T06:02:58.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - CTV News",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPODkzNjNBRVQ3SEtLQzFGMFdlem5HLVNTX1ZmazktRFdpNHBnbVY1S0JhdVNIQkEtUzFqajBxZnlQbUYxUDljbGhQME9aeTdmVl9sUmY0b1NLVFJvcDNWc0xrMUl3TkxXalhheVlkTV9fSFh3ZTV1NU5MSjM1Q01QVFlwUS1UVHBNRGNyLU5hc3RJSlFNYVlRUUVLbTZFM08yVUZiRzJKYV8yak9iZmo5YThRYVI2OVAxWEsyN3ZLTG9fY1ozd2JkekdsWmk5clk?oc=5",
           "source": "Google News • Dangerous Criminal Organizations",
@@ -733,14 +741,6 @@
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVm1CdVVvQURudW9ubUJ1bVJlaEV0Qzk4OHVBbTBSLWVMMFNzcG5icnFYdzhxV0F6SGZ2cE9oOEljWVVZZzBWYzBQWFN0NExLUTNCTWhlenNDVXIzV2MxTTV3UGVVd3Nob2s4U3BYbFBScERlUUJMUC1DdkNqb2xfX2xoOTFOMWdYS1p4aVVwUW13YWF5QnNiWC1jYkFMclVjQkNyTTJuc2lpLXl5a29KYUVwaHRQNzJRY0hyM014R01PNGFldjRWUlk1X3l6Ml9aLWtNT1AzSTZENmdsQ0N2WlNGakpGbnNUQVNtYW1KUE10cGRycUlub1FTSzBSSm5MVGZBVHJ4RzNZMm1jWXkxWHk1ekU1d0Zt?oc=5",
           "source": "Google News • Dangerous Criminal Organizations",
           "publishedAt": "2026-10-22T20:43:46.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Argentina follows Trump lead, designates criminal and guerrilla groups as terrorist organizations - Stamford Advocate",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNclI0WnpaSXRNUm1BQkFFUjZ3R1FOVUdEMGtlbXFleW5UUGRNVW9CVTRVQXlyeUtDeTlOaG50NGliN0c2T1pjVXVXSmFpQTdUTnI1SXp1OGE0Ui1haVJWZVMwVGlCMElpQ0VocnVmVkR6NVdDNkMzOTNTbXpxeWZMT3JMYXphYlV5eVQwWFlSRHAxUy04R0UyMTNoZE84VUtydF9ma3F3aERtNVZTejdSTVJMSGE?oc=5",
-          "source": "Google News • Dangerous Criminal Organizations",
-          "publishedAt": "2026-10-22T19:52:46.000Z",
           "riskScore": 56,
           "corroboratedBy": 1
         }
@@ -961,12 +961,12 @@
     {
       "theme": "harassment-bullying",
       "label": "Harassment & Bullying",
-      "totalArticles": 6,
+      "totalArticles": 7,
       "distinctSources": 5,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -33,
-      "reason": "Last 3 days averaged 0.7/day vs 1.0/day before.",
+      "trend": "Stable",
+      "changePercent": 0,
+      "reason": "Last 3 days averaged 1.0/day vs 1.0/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -994,7 +994,7 @@
         },
         {
           "date": "2026-10-24",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -1012,6 +1012,14 @@
           "source": "Google News • Suicide and Self-Harm (India)",
           "publishedAt": "2026-10-20T17:28:00.000Z",
           "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "‘People Who Spoke About Culture And Respect...’: Kriti Sanon Reacts To Trolling Over Raksha Bandhan Outfit - News18",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ1FvTThnemRFUzNNNThEd0lRMnZuWS1RYjRyZ192eHJKa3UwOTJmSS1MVi1RMXA1QUlxcm1aS283WEUxTU5DX2FCa2VKNzVOZWVPRThiU3I4LTJzSlEzOHF6cEEzSWoyb2IteGtuUjBKcU9Wd1EySUsweWxxUzR4VzdZOUt0b1RtTVdtZjV4ZVdlXzhGYk9pTHFqNWQ0amt0ZllLZEJHcjBGVlYxamthc01WT3BnNVFXalFHbG5QVHJmcVlxb2Q3cGZMa3Fha29MdEdFdDcxaE1TaktGWklqeVlZbUdJR1hM0gHuAUFVX3lxTFBnaVhycVdBeF9ycmNqWm9QaFhOMHVwUG5YMmtJRVpydE5rMnBZUTllWkN3cldrUVU0emdlTGhjekxuTmJPYVNqbkNYYmVaT0ItUVIzX2EtZTJ0bk5jSDRPdTliOXRLcFVYY2Q5dmQzWkt1SkJpNWZWMW04Vi1fWFI0WlNKZnVFM1h3Vjk3a05BSmVEVko4VFBscWJVcUpKb2tMN255bGY4OXpjWVZDOVVXTnljbS1sRTdFaDlyUjEyTm5XTUVmRThiLUVSdFZUV3RwS1Jua05vZjRPOXlpcmY1enlhcVpjN19ZN096UFE?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-24T09:12:43.000Z",
+          "riskScore": 40,
           "corroboratedBy": 1
         },
         {

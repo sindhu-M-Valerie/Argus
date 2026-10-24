@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:51:29.130Z",
+  "generatedAt": "2026-10-24T11:21:59.142Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "Fact Check: Yogi Adityanath calls for demolition of Charminar,? No, India Today report is fabricated - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVgwZzRFc0VXM0h5UTRNR1NJaUtEWFd2LVFnYWpJQWdaSzlWejVnSkw5RjJadHM2Tmc3QWhBODJCZ1dKM3doZFB1WmgyUWtaUHNjU1lienczamIxMDJVWW5uWVdISWpjclNGQVRoa1pNN1ZOSW0xejNxUFI3aDFha0F6S21VWTZmckhsTkRsZ0hMS3JhdVVjT2JqbFhfb1JWRGJvNWRJQjE5UHp1MzlMTHU5WUpNekhocjlqYnQxZWQ5Q2Nxc1RqZ2xfSGp0N0dP?oc=5",
+      "snippet": "Fact Check: Yogi Adityanath calls for demolition of Charminar,? No, India Today report is fabricated NewsMeter",
+      "publishedAt": "2026-10-24T08:17:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Are COVID-19 Vaccines ‘Slow Poison’ or Part of a Population Control Strategy? - Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSVotV3d3bl9Sa19iQ0x1WTlGWHItaVc0blVnM0lCMGpVRHNrcmU1N1FOZGRSbkRxSW1OOHpxNWFYOXc5eGpXYV9zckdHZHU5azhZdkxTVEVIamkxTWE4bjB3SFgxYnpQb3llT0pCR1BxSkxBcVVNNjh1NWdGWVRxRXVRdGpuVXY5MkE2U3R5R3R3Qms0QWtyd1N2M3BwRGIzX3F1OW1GMkJtQmFTbjk1TzdhUUd0MEFpWHZMOE9SakkzS0dPVVJKYzFMM19sNm02MWVDTEp3WDJObzlnU2wtUUVBbFdvaHNNdVpnOVFjTkxYeXFORU41X0lMa9IBgAJBVV95cUxOY0N1TjZsZWhGV2EtY1hVSlpYcksxVXY1UURVdTBDd0YzRnFSVkc3QXFkOGdfMFFvZ1NOWUtzMWtJYnJEWFlubk8wRWFJb2UzcllaRm5lenhDeFBQc0hhbnNIUHoxM19xNEo5OWZzMHVaZDk1NS1JQmwzd3BTR2pqdjYzTUwtXzlMUFZubm9BV0ZDSkJ0a3FhYUN2RmFndEZ3UjZqRWh4Tm9CMFZ3azVGeUZxbnlyanFiYzViYnZYU1MzeTMyLXN4a3J1SGhId25yYVJFVzhMc0JMU2ItelNZVnZ3SDZvTGlwMkhROTRXczQ1WXBYOFp6NFJSSXZLVlo1?oc=5",
+      "snippet": "Fact Check: Are COVID-19 Vaccines ‘Slow Poison’ or Part of a Population Control Strategy? Medical Dialogues",
+      "publishedAt": "2026-10-24T06:05:10.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Indian Army crackdown on CJP, 2 dead? No, find the truth about the video here - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVpvWmJjenotWThxSnRiYUhOWXNRYlBLdzlZUjgxeVhlUHU3ZFg4cmNMWkZPYlR5bHY2dWJZcktpemVaandtUExCcWZMcDh4ZHdOZV9MWm0tOXMyT1hyN2pEclV6OUV0NF9ZQ2V1V200MUdKS1BzZVV1WmMzcy1ZSzJqQndLWnE3ZklmSndsMVlnTlpzWmlSX2dHTnlfWm93dUhJUkJ2ZWFNRFRjcUwwNmdPSQ?oc=5",
+      "snippet": "Fact Check: Indian Army crackdown on CJP, 2 dead? No, find the truth about the video here NewsMeter",
+      "publishedAt": "2026-10-24T10:50:13.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "‘CNN & NBC…Both Fake News’: Trump Scolds Reporters Over Musk-Zelensky Starlink Feud | CLASH ON CAM - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZTQ3TDhHdFM5Q283THJLQnE2UGdwNFh0ZkdfTzdBeDVuMFJiSTFLOUZYblBMbmRsQ1BmaWtDQndZeHUyazRvcGlONlNOb0hRWm5SZUFId1BiMXlONHp3ZzRKZW9TNFRtV1RWdElfY2xJYnFNTlQ2QmI2dmlUdG9FbkliQkcwODVKOGhwbTdFMzk2VTk1XzVTc3lWX3RTVFpaVk1RZEpQTDllVldSRGItQmpNUksyZWk3MkdPcHpYRHVxQVVBS2V4MU5SVkxVNHFNQTdNNVhvM1Y3eG9SdkFKMk9VMl95MHlJYzdlNkZIVWQzd29QaGVYVFlfQm1mUDUt0gGGAkFVX3lxTE9Eb3ZUM0FRTFJwXzJpYlA1U1BrQXZlU2ZOX1IwRjBLTUwxb2x4TFd0WjRsdzdPMGRNRDQzV0pHR0dKNmZuTm9RdTkyYnEyeWtYRXFUby16QS1zX2VvUGtSTlFhQ1E5RjViVFA3dzVfZVA4c0dsVXM1dDNJY19JaGRLWHk0WTdNMWNWRmlhYW5RNGpOYVM0NHVoZEdMSG9uNXJGX1FFU3BpRTVXWXozZ0NORnp4NlNacjU1MzVSX0pfZnF5ZktDUEFPdzhpWFg1amhNSWhHcXRiNjQ5T05HRE9Ld1l3dXh4MUtKRVR0SlFEYVl2WHBoY3dwT2gxSFZ2RlAzZUtpYVE?oc=5",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:51:29.130Z",
+  "generatedAt": "2026-10-24T11:21:59.142Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 17
+    "total": 29
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -207,6 +207,81 @@
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India, Uzbekistan Step Up Cooperation Against Terrorism - Dainik Jagran MP CG",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnhvSlF1d0tHQ0szLVhCeFA1ai1NWXdHbjFoRl9kLVZBWDZDd1BGRm0zLVhINHBNV2tSVXJrbDBJOWdDVTMwd3VuRFIydWhKYUhDTXJ4bHY2bkQ4aWtaSzB5YjlzN3VtSTRPdlFzcGtzYUdrdlpCcjAtWnBfVllrb2d3ZmRUSkpObmUwaHVpaDZiNG9vUGF6NXNuVTJJMkNiWUZoSjFNTnRtd1YyQ2ZOcDFqdVl3Zw?oc=5",
+      "snippet": "India, Uzbekistan Step Up Cooperation Against Terrorism Dainik Jagran MP CG",
+      "publishedAt": "2026-10-24T06:02:58.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police Arrest Nine Over $2m Cyber Fraud, Romance Scams Targeting Foreign Victims - BarristerNG.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDAwYTJnM0t1b2RWMW1POTJKeFJyenZWcElQdWxZNmRpVEhBaWFBTkZQcjFGNHhLV1VSLVpDNnFkTDItOFk1TDZUZExFVGpHUjZiX2VWRWcwMHAwQ29FMnVIY3hGQzg5aDJLTXhmRFB2TVIxSGZxZ2tEaG9DT29lRGIyN2tOOTVMMlc4SUk0SnYtakVsTTFTN2lYUVpLQnpoNndxU2hR?oc=5",
+      "snippet": "Police Arrest Nine Over $2m Cyber Fraud, Romance Scams Targeting Foreign Victims BarristerNG.com",
+      "publishedAt": "2026-10-24T10:58:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Yogi Adityanath calls for demolition of Charminar,? No, India Today report is fabricated - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVgwZzRFc0VXM0h5UTRNR1NJaUtEWFd2LVFnYWpJQWdaSzlWejVnSkw5RjJadHM2Tmc3QWhBODJCZ1dKM3doZFB1WmgyUWtaUHNjU1lienczamIxMDJVWW5uWVdISWpjclNGQVRoa1pNN1ZOSW0xejNxUFI3aDFha0F6S21VWTZmckhsTkRsZ0hMS3JhdVVjT2JqbFhfb1JWRGJvNWRJQjE5UHp1MzlMTHU5WUpNekhocjlqYnQxZWQ5Q2Nxc1RqZ2xfSGp0N0dP?oc=5",
+      "snippet": "Fact Check: Yogi Adityanath calls for demolition of Charminar,? No, India Today report is fabricated NewsMeter",
+      "publishedAt": "2026-10-24T08:17:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Are COVID-19 Vaccines ‘Slow Poison’ or Part of a Population Control Strategy? - Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSVotV3d3bl9Sa19iQ0x1WTlGWHItaVc0blVnM0lCMGpVRHNrcmU1N1FOZGRSbkRxSW1OOHpxNWFYOXc5eGpXYV9zckdHZHU5azhZdkxTVEVIamkxTWE4bjB3SFgxYnpQb3llT0pCR1BxSkxBcVVNNjh1NWdGWVRxRXVRdGpuVXY5MkE2U3R5R3R3Qms0QWtyd1N2M3BwRGIzX3F1OW1GMkJtQmFTbjk1TzdhUUd0MEFpWHZMOE9SakkzS0dPVVJKYzFMM19sNm02MWVDTEp3WDJObzlnU2wtUUVBbFdvaHNNdVpnOVFjTkxYeXFORU41X0lMa9IBgAJBVV95cUxOY0N1TjZsZWhGV2EtY1hVSlpYcksxVXY1UURVdTBDd0YzRnFSVkc3QXFkOGdfMFFvZ1NOWUtzMWtJYnJEWFlubk8wRWFJb2UzcllaRm5lenhDeFBQc0hhbnNIUHoxM19xNEo5OWZzMHVaZDk1NS1JQmwzd3BTR2pqdjYzTUwtXzlMUFZubm9BV0ZDSkJ0a3FhYUN2RmFndEZ3UjZqRWh4Tm9CMFZ3azVGeUZxbnlyanFiYzViYnZYU1MzeTMyLXN4a3J1SGhId25yYVJFVzhMc0JMU2ItelNZVnZ3SDZvTGlwMkhROTRXczQ1WXBYOFp6NFJSSXZLVlo1?oc=5",
+      "snippet": "Fact Check: Are COVID-19 Vaccines ‘Slow Poison’ or Part of a Population Control Strategy? Medical Dialogues",
+      "publishedAt": "2026-10-24T06:05:10.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police nab 9 suspects over impersonation, computer related fraud - Nigerian NewsDirect",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXZuR0hCU2ZOZGNKbTZ0eFpKdDJIaUdScVJFNWxDeko0ZmJoMlNOYmJ1TlRNWmpYOGF1b3JwQUlmMUNJYmVmalByRERMRVNuWS1fZDZFbVJZYjkzMHAwdkhydTIyUmxjNjVCem9RNzVOdXcwdzlwSTBPWGkwTlRHNWZPTnRHNEQ4V2hZb3puSlF3Yk9EVnBRTC12bw?oc=5",
+      "snippet": "Police nab 9 suspects over impersonation, computer related fraud Nigerian NewsDirect",
+      "publishedAt": "2026-10-24T05:31:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -287,6 +362,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fact Check: Indian Army crackdown on CJP, 2 dead? No, find the truth about the video here - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVpvWmJjenotWThxSnRiYUhOWXNRYlBLdzlZUjgxeVhlUHU3ZFg4cmNMWkZPYlR5bHY2dWJZcktpemVaandtUExCcWZMcDh4ZHdOZV9MWm0tOXMyT1hyN2pEclV6OUV0NF9ZQ2V1V200MUdKS1BzZVV1WmMzcy1ZSzJqQndLWnE3ZklmSndsMVlnTlpzWmlSX2dHTnlfWm93dUhJUkJ2ZWFNRFRjcUwwNmdPSQ?oc=5",
+      "snippet": "Fact Check: Indian Army crackdown on CJP, 2 dead? No, find the truth about the video here NewsMeter",
+      "publishedAt": "2026-10-24T10:50:13.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rapido rider held in Mumbai over Jaish-e-Mohammed links, ‘spread extremist content online’, probe... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbEFETFlyWUVZdlJQTWNMUzVOMkZwclpRVTl0alFOMWdfR2Q2SU91blZnR0ZjaUVFbVg1Ykl3VDJUb0VCVzNzaGlFR0ZDdk5oeWk0X05Hb19GT1Q0LXdIRHd3LTRIc2VET3Y3TThLTl9fT2VLSVltNkVMYk9zaXZmWW85bUF4TzVKZU9qQ0U4NDllcVQyUG11RnBlXzYwRUFLMHdnODZHeXctZ2NURG5OdlQtaDRGcl9fWmFBeUpoV2dYb1ZDMGUzZHRyTlFSZncyaVZ1cVVYdXpRS2lGRklfYW4yREg4ZnFaRnBINkJ2VEfSAfABQVVfeXFMT2xBRExZcllFWXZSUE1jTFM1TjJGcHJaUVU5dGpRTjFnX0dkNklPdW5WZ0dGY2lFRW1YNWJJd1QyVG9FQlczc2hpRUdGQ3ZOaHlpNF9OR29fRk9UNC13SER3dy00SHNlRE92N004S05fX09lS0lZbTZFTGJPc2l2ZllvOW1BeE81SmVPakNFODQ5ZXFUMlBtdUZwZV82MEVBSzB3Zzg2R3l3LWdjVERuTnZULWg0RnJfX1phQXlKaFdnWG9WQzBlM2R0ck5RUmZ3MmlWdXFVWHV6UUtpRkZJX2FuMkRIOGZxWkZwSDZCdlRH?oc=5",
+      "snippet": "Rapido rider held in Mumbai over Jaish-e-Mohammed links, ‘spread extremist content online’, probe... Moneycontrol.com",
+      "publishedAt": "2026-10-24T04:11:43.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "‘CNN & NBC…Both Fake News’: Trump Scolds Reporters Over Musk-Zelensky Starlink Feud | CLASH ON CAM - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZTQ3TDhHdFM5Q283THJLQnE2UGdwNFh0ZkdfTzdBeDVuMFJiSTFLOUZYblBMbmRsQ1BmaWtDQndZeHUyazRvcGlONlNOb0hRWm5SZUFId1BiMXlONHp3ZzRKZW9TNFRtV1RWdElfY2xJYnFNTlQ2QmI2dmlUdG9FbkliQkcwODVKOGhwbTdFMzk2VTk1XzVTc3lWX3RTVFpaVk1RZEpQTDllVldSRGItQmpNUksyZWk3MkdPcHpYRHVxQVVBS2V4MU5SVkxVNHFNQTdNNVhvM1Y3eG9SdkFKMk9VMl95MHlJYzdlNkZIVWQzd29QaGVYVFlfQm1mUDUt0gGGAkFVX3lxTE9Eb3ZUM0FRTFJwXzJpYlA1U1BrQXZlU2ZOX1IwRjBLTUwxb2x4TFd0WjRsdzdPMGRNRDQzV0pHR0dKNmZuTm9RdTkyYnEyeWtYRXFUby16QS1zX2VvUGtSTlFhQ1E5RjViVFA3dzVfZVA4c0dsVXM1dDNJY19JaGRLWHk0WTdNMWNWRmlhYW5RNGpOYVM0NHVoZEdMSG9uNXJGX1FFU3BpRTVXWXozZ0NORnp4NlNacjU1MzVSX0pfZnF5ZktDUEFPdzhpWFg1amhNSWhHcXRiNjQ5T05HRE9Ld1l3dXh4MUtKRVR0SlFEYVl2WHBoY3dwT2gxSFZ2RlAzZUtpYVE?oc=5",
       "snippet": "‘CNN & NBC…Both Fake News’: Trump Scolds Reporters Over Musk-Zelensky Starlink Feud | CLASH ON CAM The Times of India",
@@ -347,10 +452,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Social engineering drives 39% of PH banking fraud — BPI - Newsbytes.PH",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHJXV1lTWEhSZ0lWcE4xUEZheUt2SHJUd3N5N2NpRnV3WnI3b2VRNGFSVWc5RXFiX2sxOFpKWEE4Q1FzMXNMREMtbnFGNlY0OE03TS1EX2JQUG5mN0g4V2RhekZFYkFqWkt5V0dOMHVSbzNQSTNGZWNGWm5RWGtBZmNSQ0Y0V3g3bWxnMkln?oc=5",
+      "snippet": "Social engineering drives 39% of PH banking fraud — BPI Newsbytes.PH",
+      "publishedAt": "2026-10-24T08:34:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DCI Arrests Narok Man Over Virulent Online Incitement and Threat to National Security - Uzalendo News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3Fma2tvUEF3cnJrUnRaR3VzMlRQRUcxU2tLZkh1NjQzSlRCYXBGVTFZVzk5UGlGY2ZvUmlERFZnUlN1V1ZCRWdWMHY4ajRYUmg2VWtPMW5kdnVDVl9odDI2SlZySk5HcjUxbTRCSTFFbURlZ2xINmVOSzFRUTN3aW5YNFJELXFxQTg0QU9rOHVxY2N6ZUpOOUY4Y1paMVBObWZnRjVSR3h3N2lFYUN2TTV3?oc=5",
+      "snippet": "DCI Arrests Narok Man Over Virulent Online Incitement and Threat to National Security Uzalendo News",
+      "publishedAt": "2026-10-24T05:33:43.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "FBI launches ‘Operation Blackout’ to dismantle global scam compounds — Details - AMBCrypto",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXpYZmxlN1BQcG50dWhOMlR3dHpkWE9tY3FGd196ZnhKSUVickhyb3ZOMEY1MWUzbWZnejhMbmIzU3BiUWxhb0djZzRCZjVZQ2o2MkRYM3dNUWxBa09Tbmo3b3BubVFPaWl4TVZwdHhTSllxZXlqWnFEVnMybVBiUS1YUWZ5M0JLLTd3V1JhTVBJVExLbDJDbk5NYXhNdw?oc=5",
       "snippet": "FBI launches ‘Operation Blackout’ to dismantle global scam compounds — Details AMBCrypto",
-      "publishedAt": "2026-10-24T04:19:57.000Z",
+      "publishedAt": "2026-10-24T04:20:06.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -392,6 +527,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "‘People Who Spoke About Culture And Respect...’: Kriti Sanon Reacts To Trolling Over Raksha Bandhan Outfit - News18",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ1FvTThnemRFUzNNNThEd0lRMnZuWS1RYjRyZ192eHJKa3UwOTJmSS1MVi1RMXA1QUlxcm1aS283WEUxTU5DX2FCa2VKNzVOZWVPRThiU3I4LTJzSlEzOHF6cEEzSWoyb2IteGtuUjBKcU9Wd1EySUsweWxxUzR4VzdZOUt0b1RtTVdtZjV4ZVdlXzhGYk9pTHFqNWQ0amt0ZllLZEJHcjBGVlYxamthc01WT3BnNVFXalFHbG5QVHJmcVlxb2Q3cGZMa3Fha29MdEdFdDcxaE1TaktGWklqeVlZbUdJR1hM0gHuAUFVX3lxTFBnaVhycVdBeF9ycmNqWm9QaFhOMHVwUG5YMmtJRVpydE5rMnBZUTllWkN3cldrUVU0emdlTGhjekxuTmJPYVNqbkNYYmVaT0ItUVIzX2EtZTJ0bk5jSDRPdTliOXRLcFVYY2Q5dmQzWkt1SkJpNWZWMW04Vi1fWFI0WlNKZnVFM1h3Vjk3a05BSmVEVko4VFBscWJVcUpKb2tMN255bGY4OXpjWVZDOVVXTnljbS1sRTdFaDlyUjEyTm5XTUVmRThiLUVSdFZUV3RwS1Jua05vZjRPOXlpcmY1enlhcVpjN19ZN096UFE?oc=5",
+      "snippet": "‘People Who Spoke About Culture And Respect...’: Kriti Sanon Reacts To Trolling Over Raksha Bandhan Outfit News18",
+      "publishedAt": "2026-10-24T09:12:43.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PwC Confirms Cybersecurity Incident as Everest Claims Theft of 590 GB of Company Data - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN0p6ZmtnazZxS1RCOUd2ZXZaY2QxaGpvWjJEbmo2TlRIY0RhOFM5RmlTcHgwWWhqcjJiUTdWRm9WZGtKMjNOTUUtUUY3Xy10RzMyaU5Td01mXy1zMjc4VVotVnpfOG1vVDgtUmNTbVR5M0xrR2VYeGs1UTl3RXpBQThkYWlLZw?oc=5",
+      "snippet": "PwC Confirms Cybersecurity Incident as Everest Claims Theft of 590 GB of Company Data The420.in",
+      "publishedAt": "2026-10-24T06:21:21.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Navigate360 Data Breach: 8M Tips, 7 Months Late [2026] - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkJENmZrT05VZ3NFR2FHUHJjeG45bW00SFJIdDhjdUZWV1V2U1JLVUQ3ZUtPcWt3cXFLenhKZExiWGc2RzZJUGZKVF8tZV9WanB1YS1Bb29fMzBOcHo4TFFneUJHOVRKX2QxazliRlZ4ZTRGY0NNRTFDSlR6a0tKM1dR?oc=5",
       "snippet": "Navigate360 Data Breach: 8M Tips, 7 Months Late [2026] shattered.io",
@@ -407,10 +572,25 @@
       "corroboratedBy": 1
     },
     {
+      "title": "PwC confirms cybersecurity incident involving employee learning records - Euronext Markets: Real-time Stock Market Data | live",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTh1QkMyTnBZSGZXMUpjM0otcWc1M0VsdHcxZnlRZ0VmSUxDX21wY293TWlNUUExMHAxR1BNN1JoZlZ5TFBjelJsQnR4QWlWWVNpcUJ3djBmbnJhTzRDUEViUHNSZjZvaXZpS2FDWlVtRUd6Z3FKbDhkQ1lUcTB1UWg2MFpmRTI1SmVkN2xYeTFXbnVKWXlBRG92QlRrUHViOUVlakdsSEc2Vm9PRThFa3JFMXBwdw?oc=5",
+      "snippet": "PwC confirms cybersecurity incident involving employee learning records Euronext Markets: Real-time Stock Market Data | live",
+      "publishedAt": "2026-10-23T21:44:57.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "'Business account being hacked' - The Express Tribune",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81RVQ0emNjVWlvWEowSUVOQVA5dDFjY1lDOG5jR3JEV2czYWZrQkhJbXdfbXB5Y3dwUkFYUmtyNS02QW5Hb2k0UjRYaEctNHNuYnJiX01ZSGJDRGZUUS05MWhaV2h6M2l6SHdYMHZWT3l5azRF0gF8QVVfeXFMT0I0Q2VxQzJzWGVia1FuQ1VwNGdDN0ZtNjB2ZW9GLWlncFFxd0lUNDhUeWNIRGxJcU51ZHRvQzRvZXBoc25LTElUZ1U2bHV6TV9BT19uUFM5b05la1lhU3JmeE5sY0lWTzh0LVR6RkZKTkJuNmc3c2hJWXBJRQ?oc=5",
       "snippet": "'Business account being hacked' The Express Tribune",
-      "publishedAt": "2026-10-23T21:29:40.000Z",
+      "publishedAt": "2026-10-23T21:43:51.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "cybersecurity",
       "type": "News",

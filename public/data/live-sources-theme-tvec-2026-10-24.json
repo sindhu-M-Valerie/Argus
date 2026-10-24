@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:51:29.130Z",
+  "generatedAt": "2026-10-24T11:21:59.142Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-10-24 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "India, Uzbekistan Step Up Cooperation Against Terrorism - Dainik Jagran MP CG",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnhvSlF1d0tHQ0szLVhCeFA1ai1NWXdHbjFoRl9kLVZBWDZDd1BGRm0zLVhINHBNV2tSVXJrbDBJOWdDVTMwd3VuRFIydWhKYUhDTXJ4bHY2bkQ4aWtaSzB5YjlzN3VtSTRPdlFzcGtzYUdrdlpCcjAtWnBfVllrb2d3ZmRUSkpObmUwaHVpaDZiNG9vUGF6NXNuVTJJMkNiWUZoSjFNTnRtd1YyQ2ZOcDFqdVl3Zw?oc=5",
+      "snippet": "India, Uzbekistan Step Up Cooperation Against Terrorism Dainik Jagran MP CG",
+      "publishedAt": "2026-10-24T06:02:58.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rapido rider held in Mumbai over Jaish-e-Mohammed links, ‘spread extremist content online’, probe... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbEFETFlyWUVZdlJQTWNMUzVOMkZwclpRVTl0alFOMWdfR2Q2SU91blZnR0ZjaUVFbVg1Ykl3VDJUb0VCVzNzaGlFR0ZDdk5oeWk0X05Hb19GT1Q0LXdIRHd3LTRIc2VET3Y3TThLTl9fT2VLSVltNkVMYk9zaXZmWW85bUF4TzVKZU9qQ0U4NDllcVQyUG11RnBlXzYwRUFLMHdnODZHeXctZ2NURG5OdlQtaDRGcl9fWmFBeUpoV2dYb1ZDMGUzZHRyTlFSZncyaVZ1cVVYdXpRS2lGRklfYW4yREg4ZnFaRnBINkJ2VEfSAfABQVVfeXFMT2xBRExZcllFWXZSUE1jTFM1TjJGcHJaUVU5dGpRTjFnX0dkNklPdW5WZ0dGY2lFRW1YNWJJd1QyVG9FQlczc2hpRUdGQ3ZOaHlpNF9OR29fRk9UNC13SER3dy00SHNlRE92N004S05fX09lS0lZbTZFTGJPc2l2ZllvOW1BeE81SmVPakNFODQ5ZXFUMlBtdUZwZV82MEVBSzB3Zzg2R3l3LWdjVERuTnZULWg0RnJfX1phQXlKaFdnWG9WQzBlM2R0ck5RUmZ3MmlWdXFVWHV6UUtpRkZJX2FuMkRIOGZxWkZwSDZCdlRH?oc=5",
+      "snippet": "Rapido rider held in Mumbai over Jaish-e-Mohammed links, ‘spread extremist content online’, probe... Moneycontrol.com",
+      "publishedAt": "2026-10-24T04:11:43.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

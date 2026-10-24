@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:51:29.130Z",
+  "generatedAt": "2026-10-24T11:21:59.142Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -182,10 +182,55 @@
   ],
   "data": [
     {
+      "title": "Police Arrest Nine Over $2m Cyber Fraud, Romance Scams Targeting Foreign Victims - BarristerNG.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDAwYTJnM0t1b2RWMW1POTJKeFJyenZWcElQdWxZNmRpVEhBaWFBTkZQcjFGNHhLV1VSLVpDNnFkTDItOFk1TDZUZExFVGpHUjZiX2VWRWcwMHAwQ29FMnVIY3hGQzg5aDJLTXhmRFB2TVIxSGZxZ2tEaG9DT29lRGIyN2tOOTVMMlc4SUk0SnYtakVsTTFTN2lYUVpLQnpoNndxU2hR?oc=5",
+      "snippet": "Police Arrest Nine Over $2m Cyber Fraud, Romance Scams Targeting Foreign Victims BarristerNG.com",
+      "publishedAt": "2026-10-24T10:58:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police nab 9 suspects over impersonation, computer related fraud - Nigerian NewsDirect",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXZuR0hCU2ZOZGNKbTZ0eFpKdDJIaUdScVJFNWxDeko0ZmJoMlNOYmJ1TlRNWmpYOGF1b3JwQUlmMUNJYmVmalByRERMRVNuWS1fZDZFbVJZYjkzMHAwdkhydTIyUmxjNjVCem9RNzVOdXcwdzlwSTBPWGkwTlRHNWZPTnRHNEQ4V2hZb3puSlF3Yk9EVnBRTC12bw?oc=5",
+      "snippet": "Police nab 9 suspects over impersonation, computer related fraud Nigerian NewsDirect",
+      "publishedAt": "2026-10-24T05:31:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Social engineering drives 39% of PH banking fraud — BPI - Newsbytes.PH",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHJXV1lTWEhSZ0lWcE4xUEZheUt2SHJUd3N5N2NpRnV3WnI3b2VRNGFSVWc5RXFiX2sxOFpKWEE4Q1FzMXNMREMtbnFGNlY0OE03TS1EX2JQUG5mN0g4V2RhekZFYkFqWkt5V0dOMHVSbzNQSTNGZWNGWm5RWGtBZmNSQ0Y0V3g3bWxnMkln?oc=5",
+      "snippet": "Social engineering drives 39% of PH banking fraud — BPI Newsbytes.PH",
+      "publishedAt": "2026-10-24T08:34:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "FBI launches ‘Operation Blackout’ to dismantle global scam compounds — Details - AMBCrypto",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXpYZmxlN1BQcG50dWhOMlR3dHpkWE9tY3FGd196ZnhKSUVickhyb3ZOMEY1MWUzbWZnejhMbmIzU3BiUWxhb0djZzRCZjVZQ2o2MkRYM3dNUWxBa09Tbmo3b3BubVFPaWl4TVZwdHhTSllxZXlqWnFEVnMybVBiUS1YUWZ5M0JLLTd3V1JhTVBJVExLbDJDbk5NYXhNdw?oc=5",
       "snippet": "FBI launches ‘Operation Blackout’ to dismantle global scam compounds — Details AMBCrypto",
-      "publishedAt": "2026-10-24T04:19:57.000Z",
+      "publishedAt": "2026-10-24T04:20:06.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
