@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:38:25.632Z",
+  "generatedAt": "2026-10-24T04:56:18.878Z",
   "windowDays": 7,
   "endDate": "2026-10-24",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 122,
+      "totalArticles": 124,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -48,
-      "reason": "Last 3 days averaged 11.3/day vs 22.0/day before.",
+      "changePercent": -45,
+      "reason": "Last 3 days averaged 12.0/day vs 22.0/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -40,7 +40,7 @@
         },
         {
           "date": "2026-10-24",
-          "count": 1
+          "count": 3
         }
       ],
       "topArticles": [
@@ -113,12 +113,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 114,
+      "totalArticles": 122,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 12,
-      "reason": "Last 3 days averaged 17.3/day vs 15.5/day before.",
+      "trend": "Rising",
+      "changePercent": 29,
+      "reason": "Last 3 days averaged 20.0/day vs 15.5/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-10-23",
-          "count": 18
+          "count": 23
         },
         {
           "date": "2026-10-24",
-          "count": 0
+          "count": 3
         }
       ],
       "topArticles": [
@@ -159,10 +159,26 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Pentagon faces lawsuit over Data Breach affecting 3 million People - Cybersecurity Insiders",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVV3QS00NUc2ZkpOeU5lbFppT0VHQlROQkpSSnFBSXdRVGQtWkZyNjJHMDVDU1RlU2d0MS1US3B5Q2FqcVlhMXRnX1Bic295cjlEV2E0Q3FJYVZDampTdUhUZ21nblVaQndFV2FtRDhGRUYxOVhTQU93M2x2MkxnU3NRLXZuRUhIN2FlVXB6eGRoeU14RHdXVTlvZG4wSXA1aEtEcGw2aVlKZw?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-23T15:36:37.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem - TradingView",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTJ0NGJlNDFMclc0MjQ4eGNQck1WdTNBNTJERUZGdkxuRThoTWZoQUwxYjlHMTNJRndzb3dkMGtwTUk4ZjB1YlF5bWoza24yQTJwSldBS0FiUXlGWnh3N2E3U04ya2tpejl3MlhLT2daeXhsQ3laUk5jYjQ0bFdZT01wd1d6dldCRWpMZ2FhckNyV0FMZkdRRnRObDVnNXBOdDA0Q085ZDRNeEI2YXJIWjVWOERNd0dWazlOU1AyTDNSaTVCZ0piTVpwaXFoWnlvRjhSbGdDUFVkLXRXRGtvMlYwRzBkV2M?oc=5",
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-23T06:29:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Quest Diagnostics Hacked - Attackers Accessed the System to Order Tests and View Results - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oeV9ZckxrdEtxSElpeWFfZG5ENF9ZazhyVzI4al9sMGQwMjJHUTI2RDFpYkJZNUVIbmNNeGFQd3lyc0VmYXU5TFpKejhCRlhlNEdKTFF4aVlXVDdxVktkTGNuYk9vZ9IBa0FVX3lxTE03QWxZR2FmMlcwdlJ5enp4RndqVUoyc0RIS2k1cmh2YU4wajdWeVpZVklOTVJUNWticTNpNlBNQ3ZpZGNpaE1NUmNVeEFzZTEzeV9lNmNBaEZadWxWbnZXaUQ2UHBJa1pMeHlR?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-23T05:45:34.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         },
@@ -197,34 +213,18 @@
           "publishedAt": "2026-10-22T15:28:10.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Hackers Planted Malware on Japanese Cloud Servers, Forcing the Provider to Shut Down Its Service - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WTzZCbmpWbzdjLTlXMDkwSUd3OW1xY3N4S3o5TllGTGpPTm9KdFYyei10b29jM0x5dHNQNTBpYTFrN1lUNGVLTlNsLVNwT3dHWnJZM3ZuU3NmUEN6RHcxZUxmM2bSAWpBVV95cUxQR2w3N2ZlRTBoV204NVJKXzdVOFlEWjR1S01lRlYzdzJXQmZITnlTRHlXTmUyMUhaVE9UQ3ZxVXpzcnNBa3JzT2stekRudFdUTVZNa0JhWEV5ay0zNG5kdGhUMmt6ZGRJZXdR?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-22T14:42:36.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Hackers Are Using Real Dell and Staples Emails to Make Their Scams Look Legitimate - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ka1ZRbk90emJkVEluRTBNQUFOWmxZZjNZNWlXZUR2dmthbTBGekxkNUU5THJHQzZCY3c5R1FmX1hZOEdubFp1VklHWmJITXd6dDdQeHYxazNGWHdEZ1dHek1NSVVwa2FtZ2fSAW9BVV95cUxQbFZ4VllVcnNWU1pySTJscnM3VHRDZ3RwTjk3enVNRTNHbVJicnVNLTY5NmJ3aGNVdEZDX25uR1hJUVhOanZUVVJKOUVCNU9wam5oUFJqdndxdldzTUxVaTRMVWI2TTE2RFhxbWRxc1E?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-22T08:26:15.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 89,
+      "totalArticles": 91,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -36,
-      "reason": "Last 3 days averaged 9.7/day vs 15.0/day before.",
+      "changePercent": -31,
+      "reason": "Last 3 days averaged 10.3/day vs 15.0/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -252,7 +252,7 @@
         },
         {
           "date": "2026-10-24",
-          "count": 1
+          "count": 3
         }
       ],
       "topArticles": [
@@ -325,12 +325,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 50,
+      "totalArticles": 51,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 118,
-      "reason": "Last 3 days averaged 10.3/day vs 4.8/day before.",
+      "changePercent": 125,
+      "reason": "Last 3 days averaged 10.7/day vs 4.8/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -354,7 +354,7 @@
         },
         {
           "date": "2026-10-23",
-          "count": 14
+          "count": 15
         },
         {
           "date": "2026-10-24",
@@ -535,6 +535,112 @@
       ]
     },
     {
+      "theme": "sexual-exploitation",
+      "label": "Sexual Exploitation",
+      "totalArticles": 23,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 205,
+      "reason": "Last 3 days averaged 5.3/day vs 1.8/day before.",
+      "daily": [
+        {
+          "date": "2026-10-18",
+          "count": 0
+        },
+        {
+          "date": "2026-10-19",
+          "count": 4
+        },
+        {
+          "date": "2026-10-20",
+          "count": 2
+        },
+        {
+          "date": "2026-10-21",
+          "count": 1
+        },
+        {
+          "date": "2026-10-22",
+          "count": 6
+        },
+        {
+          "date": "2026-10-23",
+          "count": 7
+        },
+        {
+          "date": "2026-10-24",
+          "count": 3
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Four-member gang involved in child exploitation, online grooming arrested in Islamabad - 24 News HD",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDBkUjhwMTkwdlVyb3RsVEdiR3kxNXZ2djhyQWxjZ2RCdWlJWlJyTUlYR2RqR2pGeVRWb0gzQ2lhZjdlUjdBeUhLbnlFSU1hY2Y4TmZQaU5WN3lFRkk3WHJhRVh5eTg2alltTWQ3SlRGQlBudXhpdkQ5aUF0SFg2WURvM0tXLUtWZjhsT05UaG9adkxCWTE3QnJna3V4YUFJam5QSlg3dzVFT0lTampaVDV5RVVFZw?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-10-23T16:01:40.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Hells Angels Member Sentenced To 136 Months In Federal Prison Following Fontana Child Exploitation Investigation - VVNG",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3J1Slg2cjdoM2FjUVRyb3FOOVkzek92aUVHX3B0QUJhd0pMcjFvanFPZzh3dHRLS1ZaR0tHLVQ2TzRmQ2ZQcjQ3Xy1NcnloeHdUbXhfUTZSSVBhd3A4eU04REMzdGxta0pqemNGS0l3bWVDdHRkS05aMGE1VXJNUWVBaC1SWk9XYWNUZ1UtcVQtclJncnQ2SnNhZmNOSGtJTnBnWHJ0UjJiXzU1OTF5XzFXSWRZRUpwUWpLbmxoLXlkM0trTzdJNThobFM4SUk?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-24T03:51:47.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "CICC, Discord officials discuss child safety measures vs 'online groomers' amid school violence concerns - Manila Bulletin",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmpCVnJNc2duRFNNVE5vWXB0RE5PaVpWWVYyZXp0NU1uelJuNXgwbXBuWWxxYjlXa3hGT0kzbjFBa0xwQ1R0RWpCRTBHMFVEWHFfclB5aDNfR2VrUG8ycklWMWpZYkVBYWhWQ2o4U2plak4wbUZjbWJjbFJSdlJkazJkVlYyX0xEcEFrWmNJU01jZ19kQldsaXdGbm9ZdFF5Ukk0M2pzRG56ejJjc0FlLUE4bzRfdWxIU05sMXdZSHctZFYzQzlYeGV3?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-10-24T02:33:08.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Wichita man gets prison for sharing child sexual abuse files - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNG1DWXlkdW1EZ2NhMWdPZ0FzcnljQVFzWnhaY0twTXl1ZTdaY0VfMi11QnRmbWpMZ3pNQTB0S3FneDZQbWJWWEY4cllDMW11VVhPbHJKaFJNa0F2cEZfeHZ6a2lhNUJ4RTd2bnpfaU9aUkJNWmtIaktkS1Q3Qkc0Mg?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-10-23T23:10:02.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Police charge four men with 57 child exploitation offences - The Cairns Post",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbEJ6eVUwQm9kb2lhcXNMV3lYWVVQMm9XZ0k1WkRDelFzcUVlY3NKOUZjVWFiNFc2Q3YtM181M0pTMHVsODVvWFlYdGxjSnNJZ1VCeUR2QlhNU0hBNEtYb2Njd0tSOERCWjNab1NaOHlJNW53dThRUGQ5Z2dOdjQyQmJmcXowOTEwQlFiYmIxVm5tV043bl9FTTNQRi1wSEdTYVdwV0U0TldISGFyOTJCRjBCZFBuR3pyakpMTkxKam1SZFRrUUdOLTJmb0F5NTZ3Uy1zQzY1TTh1aVNTTDh3S2JjT2hULWg5Z2lNWXZrYUhVdXcxMDBUaXVKSk1KcW1KTTZJRkpBZFRfQm95WWdvWExSUlc0c3FtVl9CUXJfMmhfcnRr?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-23T18:21:38.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Contraband Phone In Florida Prison Cell Leads To New Child Exploitation Charges For Inmate - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTJhVWg5Sk5JMDZOcEZ1QzViN1FXTkZuckY2eVQzcDhydzNTVDduZ1FmYkNKU1RWaHpENlZpbEgzd3RtejJzNGNNajZ5b2pYN2FDVmdkbkhrYWZreGo5b1dnVGNZMlhwekhkNzJBc1hZUWJndW9LU2FNQWtJa0lEX0I2Sk5zWkU?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-23T18:03:21.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "How the fight against child exploitation online is being won on design - Thomson Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3I3ZzBjWmlBb0tlbWN1UDdTOXZ5UUlEZlpzM0I5SW5UYWlJSG5WNkk3Ym10VGJhVU04WHh5MlJLYTU5MUFzOFlhLXBaNnBkTEcwMFotY1puaXF3YTJvdFExME5zdGYtenZ5OUgyM2d6Y2NRZHFWQjE0a25jR0FOZU1YeXlpbk52emtGMkY3OGszTTlJVHhn?oc=5",
+          "source": "Google News • Human Exploitation Abuse",
+          "publishedAt": "2026-10-23T12:44:42.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Philippine authorities investigate Thomas Markle, father of Meghan, after child sexual abuse images claims - Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR1ZJcUJIRW1JR09pSEVKWWJ2MUt0Ymk5VnVwa3dxazVIY1RfbHJ5VFBwLVlHUlhSMmVEdkVLNkJwam9sRjBJTzQ2NFFRUm9IYk50SnFwNUVpVTZidUVjVWtCeGhMRkxLRjRTdTU2NnJ5S2ZXUjIzY2VqTWRVUWNvS2ZXNjlEN1ZoUFliZHlmYzR0YnVpbmd2XzFOd2o4UEZHbG5LSGt2Y0Y3N1RXQXJDZVZEcTVUaEJIT2lCVFN3Rl9LOFY0SEdkenRzOXVSQW1hdWZfMDJTYjBCcXBWcUpVbWNhbUxua3Rkd0ZrUXlFX0h1NGZIZ3Z2Yl9Gc9IB-wFBVV95cUxQR1ZJcUJIRW1JR09pSEVKWWJ2MUt0Ymk5VnVwa3dxazVIY1RfbHJ5VFBwLVlHUlhSMmVEdkVLNkJwam9sRjBJTzQ2NFFRUm9IYk50SnFwNUVpVTZidUVjVWtCeGhMRkxLRjRTdTU2NnJ5S2ZXUjIzY2VqTWRVUWNvS2ZXNjlEN1ZoUFliZHlmYzR0YnVpbmd2XzFOd2o4UEZHbG5LSGt2Y0Y3N1RXQXJDZVZEcTVUaEJIT2lCVFN3Rl9LOFY0SEdkenRzOXVSQW1hdWZfMDJTYjBCcXBWcUpVbWNhbUxua3Rkd0ZrUXlFX0h1NGZIZ3Z2Yl9Gcw?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-10-23T12:29:49.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
       "totalArticles": 20,
@@ -636,112 +742,6 @@
           "source": "Google News • Dangerous Criminal Organizations",
           "publishedAt": "2026-10-22T19:52:46.000Z",
           "riskScore": 56,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "sexual-exploitation",
-      "label": "Sexual Exploitation",
-      "totalArticles": 19,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 129,
-      "reason": "Last 3 days averaged 4.0/day vs 1.8/day before.",
-      "daily": [
-        {
-          "date": "2026-10-18",
-          "count": 0
-        },
-        {
-          "date": "2026-10-19",
-          "count": 4
-        },
-        {
-          "date": "2026-10-20",
-          "count": 2
-        },
-        {
-          "date": "2026-10-21",
-          "count": 1
-        },
-        {
-          "date": "2026-10-22",
-          "count": 6
-        },
-        {
-          "date": "2026-10-23",
-          "count": 6
-        },
-        {
-          "date": "2026-10-24",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Four-member gang involved in child exploitation, online grooming arrested in Islamabad - 24 News HD",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDBkUjhwMTkwdlVyb3RsVEdiR3kxNXZ2djhyQWxjZ2RCdWlJWlJyTUlYR2RqR2pGeVRWb0gzQ2lhZjdlUjdBeUhLbnlFSU1hY2Y4TmZQaU5WN3lFRkk3WHJhRVh5eTg2alltTWQ3SlRGQlBudXhpdkQ5aUF0SFg2WURvM0tXLUtWZjhsT05UaG9adkxCWTE3QnJna3V4YUFJam5QSlg3dzVFT0lTampaVDV5RVVFZw?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-10-23T16:01:40.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Police charge four men with 57 child exploitation offences - The Cairns Post",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbEJ6eVUwQm9kb2lhcXNMV3lYWVVQMm9XZ0k1WkRDelFzcUVlY3NKOUZjVWFiNFc2Q3YtM181M0pTMHVsODVvWFlYdGxjSnNJZ1VCeUR2QlhNU0hBNEtYb2Njd0tSOERCWjNab1NaOHlJNW53dThRUGQ5Z2dOdjQyQmJmcXowOTEwQlFiYmIxVm5tV043bl9FTTNQRi1wSEdTYVdwV0U0TldISGFyOTJCRjBCZFBuR3pyakpMTkxKam1SZFRrUUdOLTJmb0F5NTZ3Uy1zQzY1TTh1aVNTTDh3S2JjT2hULWg5Z2lNWXZrYUhVdXcxMDBUaXVKSk1KcW1KTTZJRkpBZFRfQm95WWdvWExSUlc0c3FtVl9CUXJfMmhfcnRr?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-23T18:21:38.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "How the fight against child exploitation online is being won on design - Thomson Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3I3ZzBjWmlBb0tlbWN1UDdTOXZ5UUlEZlpzM0I5SW5UYWlJSG5WNkk3Ym10VGJhVU04WHh5MlJLYTU5MUFzOFlhLXBaNnBkTEcwMFotY1puaXF3YTJvdFExME5zdGYtenZ5OUgyM2d6Y2NRZHFWQjE0a25jR0FOZU1YeXlpbk52emtGMkY3OGszTTlJVHhn?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-10-23T12:44:42.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Philippine authorities investigate Thomas Markle, father of Meghan, after child sexual abuse images claims - Devdiscourse",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR1ZJcUJIRW1JR09pSEVKWWJ2MUt0Ymk5VnVwa3dxazVIY1RfbHJ5VFBwLVlHUlhSMmVEdkVLNkJwam9sRjBJTzQ2NFFRUm9IYk50SnFwNUVpVTZidUVjVWtCeGhMRkxLRjRTdTU2NnJ5S2ZXUjIzY2VqTWRVUWNvS2ZXNjlEN1ZoUFliZHlmYzR0YnVpbmd2XzFOd2o4UEZHbG5LSGt2Y0Y3N1RXQXJDZVZEcTVUaEJIT2lCVFN3Rl9LOFY0SEdkenRzOXVSQW1hdWZfMDJTYjBCcXBWcUpVbWNhbUxua3Rkd0ZrUXlFX0h1NGZIZ3Z2Yl9Gc9IB-wFBVV95cUxQR1ZJcUJIRW1JR09pSEVKWWJ2MUt0Ymk5VnVwa3dxazVIY1RfbHJ5VFBwLVlHUlhSMmVEdkVLNkJwam9sRjBJTzQ2NFFRUm9IYk50SnFwNUVpVTZidUVjVWtCeGhMRkxLRjRTdTU2NnJ5S2ZXUjIzY2VqTWRVUWNvS2ZXNjlEN1ZoUFliZHlmYzR0YnVpbmd2XzFOd2o4UEZHbG5LSGt2Y0Y3N1RXQXJDZVZEcTVUaEJIT2lCVFN3Rl9LOFY0SEdkenRzOXVSQW1hdWZfMDJTYjBCcXBWcUpVbWNhbUxua3Rkd0ZrUXlFX0h1NGZIZ3Z2Yl9Gcw?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-23T12:29:49.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Pinoy teen arrested for online sexual exploitation of minor Australian ex-girlfriend - Interaksyon",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTjBCUUhhR0kzMHdtSDkwZDU5UzVMaEVTSnlKUXVHQ3piQUxWTThJTGJjdkRZUmJVdnJGbjFtNnhVY3N0d1hJd2RyZnhTTlcyZ3pQeGpoeVdWZ1Z0QjBPY1dnZ0Jab2F5SWROeWpKNC0xY0lvRXZtRTJma0Q2MndfTTNiSTQ1WVFpb0x6SXIxMkhTZW5reGw4MTFGUTZjSkl6NTYzTzc5UnlDOEJNT1ptcU5QSkc4RzlJVWkyemhsUGxRVHVnMDZjTTREa250M0FhbDByVF9ZYmpFQkt6YlE?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-23T10:53:04.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Franklin County man gets 25 years in child exploitation case - KTTN",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2ZFN1pkLTNlUnJxUkphRVNpN1ozYnB3UUdiMlpEbGc0Q3NEOUJyaVBkTGFtRFdyZkpScGNDV1RsUUdIU3F5b2dycjFWY1pCYS1naEd4aUMxUW9MaF9jaEVyTkxXbUx0MUxOQnFHbnVTTnRpWExiUXE3T0w1MFhQT1lXVVJDMkhGSXc?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-23T09:33:36.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "NBI-7 uncovers alleged online grooming tied to planned school shooting - https://mytv.ph/",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1hwWm1KbUE4dy1nS2tLWkxmMFlDWlJjdElON1RvNlhrWGFRdTdaRTVFZF9rbGZGenJsR1JWdnBnWWJldlJGWURfQnpvX1lBSXY5OFhLaDJRRHVudEFKMkZXbXVKMXpsTFNoWmdsbGViVnhkek5kU1FMREFVUktZZ0wzTE5ydXlXVUVvdU9GeUtjR2dpaXpmWU1B?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-22T16:00:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Niagara Falls man charged in internet child exploitation investigation - Niagara-on-the-Lake Local",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRF80NzdGenEzbkk0Q3E5MDJMSVRRTU4wN2dZQlBRVlllT2h0b1B2d3ctekdBWk1GRmZubWxjb3pYV3R6ZHNNYW5RY09hSjlzd1ZqcGFPek4yQ294aDl1aVg0UnM5Rkt3OUlqQk1HYkJWQ0pyMS1CYnR4cWJKWmZPbDhZNW43NUVmMUZyaHYyS0daeUkzUTN6OExDMXM2YTBCQ09aQ0pmeGo4bEN5WGZsczFnelZJR285?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-22T14:32:05.000Z",
-          "riskScore": 52,
           "corroboratedBy": 1
         }
       ]
@@ -855,12 +855,12 @@
     {
       "theme": "dangerous-organizations",
       "label": "Criminal & Dangerous Organizations",
-      "totalArticles": 8,
-      "distinctSources": 3,
+      "totalArticles": 9,
+      "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -81,
-      "reason": "Last 3 days averaged 0.3/day vs 1.8/day before.",
+      "changePercent": -62,
+      "reason": "Last 3 days averaged 0.7/day vs 1.8/day before.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -888,7 +888,7 @@
         },
         {
           "date": "2026-10-24",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -933,6 +933,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Two sent to jail over gang rape - The Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjlZaF9CcE1HVTJQNVJXdEcwdlpNam9lM0Jsa3kwc3ItN3RGMldXOWdXWTdKeTAxdDctanFxSVQ4Ym5vRVFHNlRqTXQ5cFdHc3EzRHN4b0N1b1ZEdmRKUXhsdnBramY4c0tYeWwwTlFXU3BmSWFCOGE3ZXRFRXJLekp1WlB1ZTI1R0F2dWE4UzluLWM?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-10-23T22:41:25.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Implications of Ecuador’s war against organized crime - GIS Reports",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRNmJiMW5UUHo5ejV6QlQ0WE5yUkpFVmtxSFRaNjZ2Wno4U1NiUGtoT29QWUpoUjdkSVZBc3E5MkEtZklWcVV3bmpuckk0NFRXWDVxVjFxODBrenVOYkFMdGxaZjZvN0w4bkdxRHhvemVVc1JKWEViMVNtQQ?oc=5",
           "source": "Google News • Dangerous Criminal Organizations",
@@ -945,14 +953,6 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjM1ZnZqZzdfdncyQVlCSFVtUHc3bWRuNWViVjN3UnBJbDhJLUg1NVJzc2FLY0hjOWQ0aHVnV2NOVGNMZGJUQldWOGluWmV0R0JaNzdaTkxNaEpqSmwtRHZkUWNuUUcwWmhvVjEyRWUyZHczVWF6WWhUcHAyV2dubXU1YUdTTmtZN3dzQldGQmxWc0ViQ2xtOHRJMzhUVUJTWmRLeXZFdGxSQmx1YkxEQnVjS2JqMUFkSkhUclpTNGFBUEFD?oc=5",
           "source": "Google News • Dangerous Criminal Organizations",
           "publishedAt": "2026-10-21T13:37:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Who is Anil Pandit, the gangster in the spotlight after Tiger Shroff’s failed assassination? - Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaTBVSW50WnpNeU9Pb0tXZnc0UkFzbDY4MEx5WV83NDNNUnBqcVk3T2ZkX1psOHAyZElybE5lMHJUXzZwZDZ3MjB0RXVVWkNlNk9CMlYwNVVGVmxGeE12Ym5ubHhSZnhreWZlZkZGVnV3ZmZyRjhqLXE0ajBsUENtQ0JpNlpjbk1SbHpLZi1OM0hOX2pDaUptRkJxZ1lQTE8wdnhEZUtvOURXYWp4bW9jTzR6NmdoQnpiQUdjOTNLeHhrYnRId2F6ZW5XTGg1UHhjNlRuYXIyZmZnbkF20gHcAUFVX3lxTFBpMFVJbnRaek15T09vS1dmdzRSQXNsNjgwTHlZXzc0M01ScGpxWTdPZmRfWmw4cDJkSXJsTmUwclRfNnBkNncyMHRFdVVaQ2U2T0IyVjA1VUZWbEZ4TXZibm5seFJmeGt5ZmVmRkZWdXdmZnJGOGotcTRqMGxQQ21DQmk2WmNuTVJsektmLU4zSE5fakNpSm1GQnFnWVBMTzB2eERlS285RFdhanhtb2NPNHo2Z2hCemJBR2M5M0t4eGtidEh3YXplbldMaDVQeGM2VG5hcjJmZmduQXY?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-19T07:11:03.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }
@@ -1215,12 +1215,12 @@
     {
       "theme": "human-exploitation",
       "label": "Human Exploitation",
-      "totalArticles": 2,
+      "totalArticles": 3,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "2 articles in 7 collected days.",
+      "reason": "3 articles in 7 collected days.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -1248,10 +1248,18 @@
         },
         {
           "date": "2026-10-24",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
+        {
+          "title": "Australian women lured overseas by their husbands on 'family holidays' before being stripped of their passports and abandoned to become 'slaves' for their in-laws: 'He's back in Sydney enjoying life' - Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPY2tCVjVhVVVHVlkzbVRmQzhPSVUzMU9nQlJEMTNWa01NTTNHQ3A1NVBNVWp5U240WGZNY0RsMGhOdm84N1Bwd195MWhvWElQdDIzS0o4SUtFQzR1aVFHLUNfcm5PNVliQnBtdEk5UzUwVmxuM01vaktnZjF1YUUxWUlTLXVVLWRCd29GUkpCVnpYMDRYeDdzRjEzZ096SlFZSlB5MDNjbzVSQ2ZOU2pOT0lDWkZzWGh1VzFnUHA1TVNIaUVxTF9iN0h6SnItZXJhOEExdm9fZFFkZVBTdDJTTUV5TDJtdXVFMkNrY3U1bjhObnoyVE5fdGlPdlR0Ykd0a1lGY3h30gGLAkFVX3lxTE5jN0N2VXZFakMzeUtzZGEzNDFIWm9jY2xOTFFjVFM4ZDFEZDk5eEQzbzZ2SlNQWjJlajJVZ2NvVlJnM2E3ZFRJNHhTZm5yYm5KNlRaaTRXNVc2ZUc4aW9EV0VwSnRUTXpib2VMdkp1Y1NUQUxfX3VDbEtHaXBOU1hXOUpBR3ZjWHFwNHhSNGE2RHlmblhyRnplQTI0aUtBaEo0Z3J0dEZyNDRMaGJsWU9BZW1rU21fTzdkN1hUTGlxTXNLSnNFdTZ1djdUWmptdlg1SFQ2d0l5RHI5ZE8zVmstOUpVdlcxdmlSRkN5aVI1TTlvczVZWjB3NUh4c1MyMVJSak9XRWE1OUE5WQ?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-24T02:53:48.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
         {
           "title": "Southeast Asia's Cybercrime-Cyber Slavery Nexus: Implications for India - orfonline.org",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3dCaUJmeUFrTkozV1JMSGZuRjU5T1NpQmpxS0xiQk5uS1huUmcxQTVVdy1yQndZVEM0cEpYOXpXN1VUSGhteVZDUThnN1FyUVZrcGh1QjlHTEF5M0JOdWJYc2VGR3I4U1FHWkxySHE5MVVOLTFqNXJoSjdfNnNwU0ZxMEwzSGQtS3p3bGJWdmp0dFdjUE9YdGJFanBWWFZhQU9GWkIyYko?oc=5",
@@ -1273,12 +1281,12 @@
     {
       "theme": "malware",
       "label": "Malware",
-      "totalArticles": 2,
+      "totalArticles": 3,
       "distinctSources": 1,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "2 articles in 7 collected days.",
+      "reason": "3 articles in 7 collected days.",
       "daily": [
         {
           "date": "2026-10-18",
@@ -1302,7 +1310,7 @@
         },
         {
           "date": "2026-10-23",
-          "count": 0
+          "count": 1
         },
         {
           "date": "2026-10-24",
@@ -1316,6 +1324,14 @@
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-20T11:04:26.000Z",
           "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "12 Malware Analysis Tools: The 2026 Buyer’s Verdict Guide - GBHackers News",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmWUlxZmpBX2lVVXZZVUE1UjZOR3V5eDJ0U1B0YXJYcUhnX0VTQUZWaW1RdW1VTlhOcVB1dmlBVkU0RWZpVkg0QUIteEZ5dUFNR21yOXJoN0ZXdU9IcC1YNnNzdlBmTXFlb3fSAW9BVV95cUxNX3ZKNk9hcWUtYWpHaUhSWDFQOTE1QndyTm1QcElNX2JCbWR5WTd4RGdlbTBycVAyOWhnc1l2ZUZzT2hwbFc4N1BhQXk3M3EyX3ZTcGhETGFmdGJlZDZyd2JfNklrUFN6am5uLWJZRjg?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-23T08:18:28.000Z",
+          "riskScore": 40,
           "corroboratedBy": 1
         },
         {

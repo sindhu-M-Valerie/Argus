@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:33:38.971Z",
+  "generatedAt": "2026-10-24T04:51:29.130Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,35 +65,35 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 74
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -182,8 +182,38 @@
   ],
   "data": [
     {
+      "title": "‘CNN & NBC…Both Fake News’: Trump Scolds Reporters Over Musk-Zelensky Starlink Feud | CLASH ON CAM - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZTQ3TDhHdFM5Q283THJLQnE2UGdwNFh0ZkdfTzdBeDVuMFJiSTFLOUZYblBMbmRsQ1BmaWtDQndZeHUyazRvcGlONlNOb0hRWm5SZUFId1BiMXlONHp3ZzRKZW9TNFRtV1RWdElfY2xJYnFNTlQ2QmI2dmlUdG9FbkliQkcwODVKOGhwbTdFMzk2VTk1XzVTc3lWX3RTVFpaVk1RZEpQTDllVldSRGItQmpNUksyZWk3MkdPcHpYRHVxQVVBS2V4MU5SVkxVNHFNQTdNNVhvM1Y3eG9SdkFKMk9VMl95MHlJYzdlNkZIVWQzd29QaGVYVFlfQm1mUDUt0gGGAkFVX3lxTE9Eb3ZUM0FRTFJwXzJpYlA1U1BrQXZlU2ZOX1IwRjBLTUwxb2x4TFd0WjRsdzdPMGRNRDQzV0pHR0dKNmZuTm9RdTkyYnEyeWtYRXFUby16QS1zX2VvUGtSTlFhQ1E5RjViVFA3dzVfZVA4c0dsVXM1dDNJY19JaGRLWHk0WTdNMWNWRmlhYW5RNGpOYVM0NHVoZEdMSG9uNXJGX1FFU3BpRTVXWXozZ0NORnp4NlNacjU1MzVSX0pfZnF5ZktDUEFPdzhpWFg1amhNSWhHcXRiNjQ5T05HRE9Ld1l3dXh4MUtKRVR0SlFEYVl2WHBoY3dwT2gxSFZ2RlAzZUtpYVE?oc=5",
+      "snippet": "‘CNN & NBC…Both Fake News’: Trump Scolds Reporters Over Musk-Zelensky Starlink Feud | CLASH ON CAM The Times of India",
+      "publishedAt": "2026-10-24T00:47:25.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "AAP MLAs corner govt over delayed works, allege misinformation in House - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN0xjUWxIM2g4Z215ZjBueVhVcVdjREtmSjYxMmd4UU10VHQtbVNkd3RqZkVSa05nU2hGLU1sNEcwemFHNjJacUJGS3hvUHp5bXdrRVBKMmFQOU9nUjdRdTNsc2s5SnJoWWlBSHR4dWJPTW5ZVGdMNWxoZGoyeU1xdGJPT1RrM09MNE9OeWpYdDY5bmZpcHhHaV8xUXhGa1VFc0lfNzR0UmNiZzRlcDR2TzFlZWJVOEpoQ1lxOU96b0JaVUNBUW1QS25PWGdiR0VvM0lXWnJSV0JFdVNVbnlVMHpn0gHnAUFVX3lxTE1GSmxYNTQ5Y2hfODFpRVJuU0VIY1dzNmplWGRaUVkyNTRsTnZBTUE3bHBUZTdZZzBiQVJ6UjdIY19pelI0cjQ5ZVZGbFF3RHpmcG1sRnhES21kcUNVUVpnT1F4SnlQb0ViVWNVNjF4eEpjQUNTMU9ua25KM1ljWmppbW5naE8xUm9yNnlBN01mdk4xTVNWLWwzenk1clVRMmJGMElLT1UtRkl0YUdTZmhFWTRDTFpzaUIxMHFndEVTQlJXNmwxU1g2YmFiVEZXMzc4dDMzbmNQQkl3Uk01NWdYRkhtSGtOdw?oc=5",
+      "snippet": "AAP MLAs corner govt over delayed works, allege misinformation in House The Times of India",
+      "publishedAt": "2026-10-23T20:31:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AAP MLAs corner govt over delayed works, allege misinformation in House - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRkpsWDU0OWNoXzgxaUVSblNFSGNXczZqZVhkWlFZMjU0bE52QU1BN2xwVGU3WWcwYkFSelI3SGNfaXpSNHI0OWVWRmxRd0R6ZnBtbEZ4REttZHFDVVFaZ09ReEp5UG9FYlVjVTYxeHhKY0FDUzFPbmtuSjNZY1pqaW1uZ2hPMVJvcjZ5QTdNZnZOMU1TVi1sM3p5NXJVUTJiRjBJS09VLUZJdGFHU2ZoRVk0Q0xac2lCMTBxZ3RFU0JSVzZsMVNYNmJhYlRGVzM3OHQzM25jUEJJd1JNNTVnWEZIbUhrTnfSAecBQVVfeXFMTUZKbFg1NDljaF84MWlFUm5TRUhjV3M2amVYZFpRWTI1NGxOdkFNQTdscFRlN1lnMGJBUnpSN0hjX2l6UjRyNDllVkZsUXdEemZwbWxGeERLbWRxQ1VRWmdPUXhKeVBvRWJVY1U2MXh4SmNBQ1MxT25rbkozWWNaamltbmdoTzFSb3I2eUE3TWZ2TjFNU1YtbDN6eTVyVVEyYkYwSUtPVS1GSXRhR1NmaEVZNENMWnNpQjEwcWd0RVNCUlc2bDFTWDZiYWJURlczNzh0MzNuY1BCSXdSTTU1Z1hGSG1Ia053?oc=5",
       "snippet": "AAP MLAs corner govt over delayed works, allege misinformation in House The Times of India",
       "publishedAt": "2026-10-23T20:31:00.000Z",
       "source": "Google News • Misinformation (India)",

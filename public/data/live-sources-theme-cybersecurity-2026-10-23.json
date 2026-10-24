@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:33:38.971Z",
+  "generatedAt": "2026-10-24T04:51:29.130Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 18
+    "total": 23
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,35 +65,35 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 60
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 74
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -182,10 +182,40 @@
   ],
   "data": [
     {
+      "title": "Pentagon faces lawsuit over Data Breach affecting 3 million People - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVV3QS00NUc2ZkpOeU5lbFppT0VHQlROQkpSSnFBSXdRVGQtWkZyNjJHMDVDU1RlU2d0MS1US3B5Q2FqcVlhMXRnX1Bic295cjlEV2E0Q3FJYVZDampTdUhUZ21nblVaQndFV2FtRDhGRUYxOVhTQU93M2x2MkxnU3NRLXZuRUhIN2FlVXB6eGRoeU14RHdXVTlvZG4wSXA1aEtEcGw2aVlKZw?oc=5",
+      "snippet": "Pentagon faces lawsuit over Data Breach affecting 3 million People Cybersecurity Insiders",
+      "publishedAt": "2026-10-23T15:36:37.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTJ0NGJlNDFMclc0MjQ4eGNQck1WdTNBNTJERUZGdkxuRThoTWZoQUwxYjlHMTNJRndzb3dkMGtwTUk4ZjB1YlF5bWoza24yQTJwSldBS0FiUXlGWnh3N2E3U04ya2tpejl3MlhLT2daeXhsQ3laUk5jYjQ0bFdZT01wd1d6dldCRWpMZ2FhckNyV0FMZkdRRnRObDVnNXBOdDA0Q085ZDRNeEI2YXJIWjVWOERNd0dWazlOU1AyTDNSaTVCZ0piTVpwaXFoWnlvRjhSbGdDUFVkLXRXRGtvMlYwRzBkV2M?oc=5",
       "snippet": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem TradingView",
       "publishedAt": "2026-10-23T06:29:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Quest Diagnostics Hacked - Attackers Accessed the System to Order Tests and View Results - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oeV9ZckxrdEtxSElpeWFfZG5ENF9ZazhyVzI4al9sMGQwMjJHUTI2RDFpYkJZNUVIbmNNeGFQd3lyc0VmYXU5TFpKejhCRlhlNEdKTFF4aVlXVDdxVktkTGNuYk9vZ9IBa0FVX3lxTE03QWxZR2FmMlcwdlJ5enp4RndqVUoyc0RIS2k1cmh2YU4wajdWeVpZVklOTVJUNWticTNpNlBNQ3ZpZGNpaE1NUmNVeEFzZTEzeV9lNmNBaEZadWxWbnZXaUQ2UHBJa1pMeHlR?oc=5",
+      "snippet": "Quest Diagnostics Hacked - Attackers Accessed the System to Order Tests and View Results CyberSecurityNews",
+      "publishedAt": "2026-10-23T05:45:34.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -238,6 +268,36 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity Awareness Month 2026: Why It's Time for the Automotive Industry to Check Under the Hood - Baker Donelson",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGF2ZTFIbjVjVF9xZTVBczBOVk9kR2tFN3ZEQzFHZmZ2WktSdjgxNkNrR1JsX0ZqZk9FaVVsRXdKcGFvWXE0SnU2cnkyLXlqeU1ydnA1XzJ4SzlvbnZ5aE9zWFN1RzRfYVRLYmhCTFBfU1NsTEV5dXhVREE3el8wNEFnWEZMbV9ob1p5Yzg5TFFoWEpYSzY1OW54cXRDdzdYSldDT185UTJFZVRjOVpwS2FIUGtwbDBXeUhQaFZQWnllWjRBSmgyOA?oc=5",
+      "snippet": "Cybersecurity Awareness Month 2026: Why It's Time for the Automotive Industry to Check Under the Hood Baker Donelson",
+      "publishedAt": "2026-10-23T17:50:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SBI Data Leak Puts Focus On Banks’ Expanding Cyber Risk - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDBKMlhxV1g4bjE2OFlRdFdFNWswckVYNndCbkNLbWMxa01BN0RBQThHWEhWZlpOcEVHelZhNG8tYURGMjZyVlVmLUdxbE10TVlvQXNJZUtFU2doRkIzaEdaLTZGNGNfS2hKTFByNF9kcGU3cGJDbm1rd09BYWk5UldYYVF1bFgyeUZxRThlU3gyMTZudEZhTDRMVFYzQl9oWHZsckQ3dEJrdllqd0VFLQ?oc=5",
+      "snippet": "SBI Data Leak Puts Focus On Banks’ Expanding Cyber Risk TradingView",
+      "publishedAt": "2026-10-23T15:41:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -336,6 +396,21 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRG5HbHFQR1NSeFpzUF84RFYzdXAtYVVHR0ppNGFaSjFRX08tNUhjeXpQUWM4TGZLd0dXVGFzLUgwVF8zX2NQRFNrVl96Wkl0UU41Q0dCcWVOU1gtdW9GS0ZDWWRVeFRCcGpVeklKU2NVTU54eUtPNnBQZnZ1UU1wVE1xb1dkZlpweFV4WFIwZmJVTUZmNXo3alNPRG5fT3JWdFh6MEpVQTdCZmdpWmw1SlpEeW5tUFFqZ3c0TF9OVFI?oc=5",
       "snippet": "Capcom ID Data Breach Exposes 11.7 Million User Accounts: Incident Analysis and Security Impact Rescana",
       "publishedAt": "2026-10-23T07:13:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Capcom ID hacked, data of 11.7 million accounts exposed - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRFd1SnR0Tk1GRkpFaTdIUW1QVC02bXRxSXhtaHZNejAxQXN2WnJ0TUhWU1ExSzBTbXl0eVVCRHJNLUFQZ1EwU1BQc2xXc1lsbXY4SFc2RS1ocGdIVkNMQ1BOTS1fTDZIcU5DOXMxaG90S044SzJRZWpudDdtaDRNYWpGSUdtMTQ?oc=5",
+      "snippet": "Capcom ID hacked, data of 11.7 million accounts exposed Pasquale Pillitteri",
+      "publishedAt": "2026-10-23T06:45:59.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
