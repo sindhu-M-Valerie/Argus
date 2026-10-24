@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:21:59.142Z",
+  "generatedAt": "2026-10-24T16:08:50.337Z",
   "snapshot": true,
   "date": "2026-10-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 91
+    "total": 93
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -370,6 +370,21 @@
       "theme": "tvec",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Argentina designates 5 Latin American criminal and guerrilla groups as terrorist organizations - Daily Sitka Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGo2Z0JmLVZhUUk5aEpPWF9Rb1NsajFSQ2pIWTRRVThQSG10eWtaN2NKTC04Zi1mWGFRU2x4VWF0SUcxaWtLVWk3VElJQUZhcm4wclFGV2ZZMzNYYjZjVUVKcFhqOElpSHV1LWx5X0NaZVZlZ1BQMW1fNG9mS3pPb1phSlczaU1GNk43blY4bEJfaWZzWjZnWTA1VmFOY283ZWY2bG90MGxWNDh0Ujk4bUVBZ2wwWERINlpoREJUN2pZQllRUDMtNnozSlQxVHQ4MEE?oc=5",
+      "snippet": "Argentina designates 5 Latin American criminal and guerrilla groups as terrorist organizations Daily Sitka Sentinel",
+      "publishedAt": "2026-10-22T19:45:51.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "dangerous-organizations",
       "riskScore": 56,
       "confidence": "Medium",
@@ -1161,6 +1176,21 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWRlQklkaUtRUjBTb2ZjZDZITnU1TlFQTV9lc2FhaG14S1JLdmJTWF92UjJkQ0x6alh4OWt0Qmx1SWE3QXlBYU1adzQzdGp3QldHSGtlMUhDQmoxYko2VXZfRzA1QU52SGFNSHotamVOSGg1aE03aGhLcUNobTY3QVlZczFUelh1cTlkendoNEVLWU04LUhvbC1xVnVpbVdpT21zV0N4QnpmUjBlQW1YSVdja2tZMlA4QkpGYnAzcEFQZG50bEhBZ0JrTdIB0AFBVV95cUxQSzVKeXkwemNaWFJzRjg3SVdUbENmTW9nYlUtN3NobVd0ZnRUU3JpWnFRWDRTa1diUzFWRDFwdlh4Sk9BX1VnbS1HZEw2UGk2c0NhOFJkTDhQTDRzbTd4dmRKU1JwZUo2bDVRTDRmNzh1WnJsVW1WRE91Q05vdXdSTG1jbHYtWXR0Ykd0UWk3b3RyYXZpNlltMGlkSDRraHpSM2s1MGFFeUI0RGtHeV9XbVAwQVBVTXhOREVsQzRTWUNuMFJETE5WRXBWejFRazRR?oc=5",
       "snippet": "1 in every 5 cyber fraud victims in Noida a senior citizen The Times of India",
       "publishedAt": "2026-10-22T19:38:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rhode Island sues Meta over alleged tolerance for scam advertising - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcHZ0b2RBeGVrQl95cVp4RzFyajVKdU5VVTFHcmJIbXV4MmFIeWxueVhpNGM1ZHZfVGxkZnZWeUdsSUdRenM2SThobmtBbGNuRXRZV0tWaEVfWmVUOFFVS3pIS1FuZGhOTHZqcmJkN2VJOUJsLTV1TjUwOGZBRlg1a1lGWkpPVl9IcUxtRU1zaGI4S0xvdy1QY21ja2lRNWIyRno4VXdwM19SN0dacTd3Tk9jbXo5eHAzNnIyZE5TdGRTVU9OdTE0dldWNDhWMVM5M2fSAdcBQVVfeXFMTmxMQ2hNdnpPZm1sUDd6WWJJX2FmMGRXUzVaTmFfTlFyWjlQUHg0bVlaVWFkei1UNWV5bnpvWC1oZzRPU2FicWd2UDNnOEhzR3hrTEdPeDhjSkpJQzlPUENtQi1XYXFKb0NYV2lCcEIxU2h3ZUJTMGhpRTJ3NHQ0UVBlOU5DdG83bUFFTV9NdnhNT2lmRW9Ydm1DNXZXRU1KeGVva1V3UnA1dFRpS3pGM3M2X081VVUtM1VVTTJSSUQwMzFTc0hfNVltYVZmZkhxdmR2NHl0TTg?oc=5",
+      "snippet": "Rhode Island sues Meta over alleged tolerance for scam advertising The Economic Times",
+      "publishedAt": "2026-10-22T19:15:39.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",

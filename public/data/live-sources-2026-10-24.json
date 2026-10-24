@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:21:59.142Z",
+  "generatedAt": "2026-10-24T16:08:50.337Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 29
+    "total": 40
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -212,6 +212,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fact-Check: Video of US Senator Calling India a ‘Failed State’ Is AI-Altered - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPak1iSi1IWUZ2UVNPamY2UWNuZ2o1MVp3TUtxdnd0MWQ0Y0ZCMmVSb3hQVkplaHlLb3llZEZlY2E1bGl3Nnk0WFZhTFVqQ1Z3WHgwRlBUNnBvZ25YUVZUeHg5NVFMZnFhZ1hGVHI1M2ttN2QzSjlMTG5FMTE0Um4wazNrSzBOanFSZlRxSzdGWVZyS0Q5VmxBcVlBRmJSU04zUGR30gGwAUFVX3lxTE9WWW52Z3k0a1ZRWUN0emVCdW1IVF9ZemhWU2JKenRlWV9TRDZITkRYUEJTai11QS1fVUxCYUZGRGpueXJwbnVJbkpHb0o5NlRZYTZQdXRHeWtCOWw3MUF1Nzd4NXVnT0JZUG5RajA5MnZJcl9DSWtqUXRTX2pDLUR1ZDhYR283QUJ4MkFLdDlSZjVOU05wS0tWQzZqckd3WVdVRTBRakt2eEpGVEp3dHUt?oc=5",
+      "snippet": "Fact-Check: Video of US Senator Calling India a ‘Failed State’ Is AI-Altered The Quint",
+      "publishedAt": "2026-10-24T09:48:06.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
       "title": "India, Uzbekistan Step Up Cooperation Against Terrorism - Dainik Jagran MP CG",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnhvSlF1d0tHQ0szLVhCeFA1ai1NWXdHbjFoRl9kLVZBWDZDd1BGRm0zLVhINHBNV2tSVXJrbDBJOWdDVTMwd3VuRFIydWhKYUhDTXJ4bHY2bkQ4aWtaSzB5YjlzN3VtSTRPdlFzcGtzYUdrdlpCcjAtWnBfVllrb2d3ZmRUSkpObmUwaHVpaDZiNG9vUGF6NXNuVTJJMkNiWUZoSjFNTnRtd1YyQ2ZOcDFqdVl3Zw?oc=5",
       "snippet": "India, Uzbekistan Step Up Cooperation Against Terrorism Dainik Jagran MP CG",
@@ -223,6 +238,51 @@
       "feedTheme": "tvec",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact-Check: Video of US Senator Calling India a ‘Failed State’ Is AI-Altered - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlludmd5NGtWUVlDdHplQnVtSFRfWXpoVlNiSnp0ZVlfU0Q2SE5EWFBCU2otdUEtX1VMQmFGRkRqbnlycG51SW5KR29KOTZUWWE2UHV0R3lrQjlsNzFBdTc3eDV1Z09CWVBuUWowOTJ2SXJfQ0lralF0U19qQy1EdWQ4WEdvN0FCeDJBS3Q5UmY1TlNOcEtLVkM2anJHd1lXVUUwUWpLdnhKRlRKd3R1LdIBsAFBVV95cUxPVlludmd5NGtWUVlDdHplQnVtSFRfWXpoVlNiSnp0ZVlfU0Q2SE5EWFBCU2otdUEtX1VMQmFGRkRqbnlycG51SW5KR29KOTZUWWE2UHV0R3lrQjlsNzFBdTc3eDV1Z09CWVBuUWowOTJ2SXJfQ0lralF0U19qQy1EdWQ4WEdvN0FCeDJBS3Q5UmY1TlNOcEtLVkM2anJHd1lXVUUwUWpLdnhKRlRKd3R1LQ?oc=5",
+      "snippet": "Fact-Check: Video of US Senator Calling India a ‘Failed State’ Is AI-Altered The Quint",
+      "publishedAt": "2026-10-24T09:48:06.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 55,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "NPF-NCCC ARRESTS NINE OVER INTERNATIONAL FRAUD, ELON MUSK IMPERSONATION - crimefightersng.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHFjeW84U0pPdVFhREVnc0MzSkpydTNISDJhY1hMaHNSSWxPYm9tRWN1LW5SdTE1LWYxYnBZTktwWDJvOEI0QWdyZ0ZBNzdxNzlWOGJickRycE9ER2EtMHNIOG5kNDd5akNYREk0ZmhTRHJ0alNPOWZYb3UyOW9tMzJtaXJPVS1sLWZOcFd6bVI3R0dERzdWOHJnS1V0d2pJYS13eTBB?oc=5",
+      "snippet": "NPF-NCCC ARRESTS NINE OVER INTERNATIONAL FRAUD, ELON MUSK IMPERSONATION crimefightersng.com",
+      "publishedAt": "2026-10-24T12:02:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Franklin County Man Gets 25 Years for Child Exploitation - STL.News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SE9QUGQyUzRxaFpJSENpY2pVYUx2akJDNUczNU94UHZhNGd5Q3dvQUZWc1J3UEVkNlJ6akJGZS1NRlh0Mlo3X29rd0thR1ktZUVINWFsZUNaZ1FRNHpzN2pXVDQ0UXd4aVB6aFJuTmhBeDQ4eUhqWURmSjQybGM?oc=5",
+      "snippet": "Franklin County Man Gets 25 Years for Child Exploitation STL.News",
+      "publishedAt": "2026-10-24T11:01:19.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -253,6 +313,21 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "​Lulu Group Defrauded of Rs 1.64 Crore in Italian Firm Impersonation Scam - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wamdzaTg0T3VXUzFwU2FENUE0bzZvVDN0VWxnZy1VUlZkNGJVY29WTTVxOUQtN1gxWUtTVTNfc1VSdlZ1WFlYbGg4cDJYS3k2SXlkczJjNGZsNjRxQWoyTF8yZXZheFlJY1NRcXln?oc=5",
+      "snippet": "​Lulu Group Defrauded of Rs 1.64 Crore in Italian Firm Impersonation Scam The420.in",
+      "publishedAt": "2026-10-24T07:16:34.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -362,6 +437,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Why India And Uzbekistan Are Teaming Up Against Cross-border Terror - ИФЗ РАН",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYm1OanMwNGdlOUkxRk5VVUtsRU5HeFNidkVqWmhUalg2YmkyWDYxYkxpNVUwWFNzT29LdWd3dEVtZDBBblVkbWV4VURpZFR5NDdYaWp3TEg0akw5QlhtTUdZUVJPRW5aVHlkc2dUd1NTR3RqWHR0bkxKMDBvM1c3Q3U0UQ?oc=5",
+      "snippet": "Why India And Uzbekistan Are Teaming Up Against Cross-border Terror ИФЗ РАН",
+      "publishedAt": "2026-10-24T11:34:08.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact Check: Indian Army crackdown on CJP, 2 dead? No, find the truth about the video here - NewsMeter",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVpvWmJjenotWThxSnRiYUhOWXNRYlBLdzlZUjgxeVhlUHU3ZFg4cmNMWkZPYlR5bHY2dWJZcktpemVaandtUExCcWZMcDh4ZHdOZV9MWm0tOXMyT1hyN2pEclV6OUV0NF9ZQ2V1V200MUdKS1BzZVV1WmMzcy1ZSzJqQndLWnE3ZklmSndsMVlnTlpzWmlSX2dHTnlfWm93dUhJUkJ2ZWFNRFRjcUwwNmdPSQ?oc=5",
       "snippet": "Fact Check: Indian Army crackdown on CJP, 2 dead? No, find the truth about the video here NewsMeter",
@@ -452,6 +542,51 @@
       "corroboratedBy": 1
     },
     {
+      "title": "'Named after Kashi served beef, Jinnah statue': YouTuber booked over communal remarks on Fort Kochi cafe - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObW4zM2prYVZlZl9NNFlnRXc2NHRhbm1OWk5uWDNjNElwY2J2THh4V05EdjJKTjVZMVFxdW10U21LTDI5bGZHNlhlazY1MDJYakV5THNicFRhRy1qZGNNeExEdkR4bXQyZ2JMVEtKTEo5RndUOS1WQzVCMnlzLTN6WXU1RW51ejdHQ1c3THBfOHdKeWIxcU51aktpVGxoN3AzQlFCMGxrZDNGQVJCaDRNaHR1eDA3QWNldHB4WjVFcXR6UDFHVHdqcFJoemtoYTZOY3NKS0tjTVBxQ0lNRGVFNS15aU5IN2piVWYyak5TazJxQmZqRWl0dVY0OUFrREJNVC000gGIAkFVX3lxTE1EOHloSjdESFVaSi05X1RxY29SM1NUNUpUcl95RFB2TWZ1d2h3Ul93Qnl0RXhZaTlEVERMQ3Zpb29pZl9xcGVsT2JVbHJYMXVJWEdaSzZ1dVlYcmR6MVd0dmxqRzJVOFktMmhWanRuMFJOYlFvWVM4Y0xoUTZ4Mi1wanRsd18xblV6WnIxdzlZQXNlWURvbS1wdWFuckhac3owdExOSFc1a0RHQWEzUWRlVVJoeHFnNXRyNWFBTjQ5OXZ1anlIY2stUTFMS2JPNWFXMW9oMkc4MmNiR1NBX3lVYV9rQXFuN3hybGJWLUd6Wkp3V1A2ZUtiRlhLUWRJTTlKb3JYMU1XSg?oc=5",
+      "snippet": "'Named after Kashi served beef, Jinnah statue': YouTuber booked over communal remarks on Fort Kochi cafe The Times of India",
+      "publishedAt": "2026-10-24T15:36:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Clicks That Wound: Southern Africa Races to Close Digital Violence Legal Gaps - AfricaBrief",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DNmFLRldpb25PNlpQOXlxaWNFQU1NVVFSSTE5aWlKWUItWDZsLVhKRjgzb04xMHNpRzlVT3h4Rl9DRkV2Q3RDaDhad2dhbVZ0WUJVb0dIaWhES1AzcU1lYmhnRHBReXE3Z1huMlItbDk2TlF3bXBz?oc=5",
+      "snippet": "Clicks That Wound: Southern Africa Races to Close Digital Violence Legal Gaps AfricaBrief",
+      "publishedAt": "2026-10-24T15:08:40.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police Bust Money Laundering Networks Involved in $2m fraud, Arrest 8 - NigerianEye",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmxCdmlNWW9KUmxiZ3BGVUlRU2dxbVgxTWlqc24zY1EtdFg3elA3Mi1MQ0FNZkplTmtMYlhoajdFUHN1bVFLZEppSURkbEx5dnA2d1J2M0hnMUpiRjNFbUVwQy1WMzVzMUItNURKa1gzTjI2TUJsUE9KYTZfTW94dFIwWlQ?oc=5",
+      "snippet": "Police Bust Money Laundering Networks Involved in $2m fraud, Arrest 8 NigerianEye",
+      "publishedAt": "2026-10-24T13:41:15.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Social engineering drives 39% of PH banking fraud — BPI - Newsbytes.PH",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHJXV1lTWEhSZ0lWcE4xUEZheUt2SHJUd3N5N2NpRnV3WnI3b2VRNGFSVWc5RXFiX2sxOFpKWEE4Q1FzMXNMREMtbnFGNlY0OE03TS1EX2JQUG5mN0g4V2RhekZFYkFqWkt5V0dOMHVSbzNQSTNGZWNGWm5RWGtBZmNSQ0Y0V3g3bWxnMkln?oc=5",
       "snippet": "Social engineering drives 39% of PH banking fraud — BPI Newsbytes.PH",
@@ -522,6 +657,36 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Belgium Data Breaches: 47 Hit, Jims 150,000 [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjdjWkVySC1va1NtckdBeXFXbVJVc2dUS3FkYmw4OTFGcFpjeFdSSndJMnJCTGVKVDhWRlFsaEp5ZEljWHVLcEtMVUJBdUlnSGVHdXRJaEN4M2RtUU5mNy1MX1JWaXg2bzQ5SVVtYUhzM3hQV0k1eEFBczNrXzJ0YUo3b1Y5dVlDeUxpdFJ3?oc=5",
+      "snippet": "Belgium Data Breaches: 47 Hit, Jims 150,000 [2026] shattered.io",
+      "publishedAt": "2026-10-24T13:07:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Steal 8.3 Million Records From Navigate360 Crime-Tip Platform - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yQXVqWHFLTTE0WkVrUmJPZGZwTUxwbncxVGV0TjlVWFU2Sk9SLUZZek5ON3l0WUhYRzZiZEpFdVZsakoxMUF3LVkwd1hIWkcwRmdEbU9LOEc5VGFYb3ZmbHJBUVZGbDVBa0hzYmJ6NkZwQ2xiWUZzWA?oc=5",
+      "snippet": "Hackers Steal 8.3 Million Records From Navigate360 Crime-Tip Platform The420.in",
+      "publishedAt": "2026-10-24T12:33:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
