@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:52:55.302Z",
+  "generatedAt": "2026-10-25T16:38:52.588Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -207,6 +207,36 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "128 arrested in Barcelona riots as Italy detains activist who praised Hamas' October 7 massacre - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUVNoYTB2cTlJODNELU4tTTdfZC15VUtNUU9NVERwbUVTOVN1UUpqNVB5NFptTVdJcXUtLUdqRzdDY0J5Yld6dHpKZnVDU0VpbFk5V1Nn?oc=5",
+      "snippet": "128 arrested in Barcelona riots as Italy detains activist who praised Hamas' October 7 massacre Ynetnews",
+      "publishedAt": "2026-10-25T15:51:08.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police in the Republic of Moldova are investigating a group suspected of preparing mass violence by mobilizing young people online - Informat.ro",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0g2YXZ2RWhROE4tMmZnVGpNVDk5Y0h5T1dreS1pdGREMHN4WE9JQlc1QlM4ZVJBd0Vfbkw2UnhkMkc1dTAzb1BjT1VtWGs1UlJNX29Ba3VnM3dWMERzSnp3cGlxNlFHdkJqdlZNQlNmTkZTNmladFExc3ZYNjdLVE5meXpHdDJreXJFNEU2OHdxQzZJcm5DY29PV3Nacm9QTE9zY2hHZk16M3l2a2txQw?oc=5",
+      "snippet": "Police in the Republic of Moldova are investigating a group suspected of preparing mass violence by mobilizing young people online Informat.ro",
+      "publishedAt": "2026-10-25T07:25:08.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

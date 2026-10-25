@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:57:41.957Z",
+  "generatedAt": "2026-10-25T16:43:41.085Z",
   "windowDays": 7,
   "endDate": "2026-10-25",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 135,
+      "totalArticles": 140,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -59,
-      "reason": "Last 3 days averaged 10.7/day vs 25.8/day before.",
+      "changePercent": -52,
+      "reason": "Last 3 days averaged 12.3/day vs 25.8/day before.",
       "daily": [
         {
           "date": "2026-10-19",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-10-24",
-          "count": 17
+          "count": 18
         },
         {
           "date": "2026-10-25",
-          "count": 3
+          "count": 7
         }
       ],
       "topArticles": [
@@ -113,12 +113,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 129,
+      "totalArticles": 131,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -44,
-      "reason": "Last 3 days averaged 12.7/day vs 22.8/day before.",
+      "changePercent": -41,
+      "reason": "Last 3 days averaged 13.3/day vs 22.8/day before.",
       "daily": [
         {
           "date": "2026-10-19",
@@ -146,7 +146,7 @@
         },
         {
           "date": "2026-10-25",
-          "count": 1
+          "count": 3
         }
       ],
       "topArticles": [
@@ -156,6 +156,14 @@
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-22T03:05:23.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem - BW Businessworld",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhIOTNtYVpQQ2VZQ0RnRHhKWWxYRHN5YWd1bF9iMWgwN241Z2pGNEFxYWxIRTltUFRtUkpMNEJKcTIyamNCRDFTQ2EwejdaYklVTEFfZmw5TExPYnhZWlRZVE1Wb1dhb2hDLTF6SlVEYjJpdlQ2TnY3TE1SZ3ZpdEp3cVpweThKR2lhdU41dUcyVVpIbjZ1QldwNS1RWEI5ZXdNZnc3YklCaGZTYzlRbHVKVHpaejJQMG9ERWpHYmVoRk9qQ2N1UXBkMjlqanRwQUtxVndR?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-25T13:27:26.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
@@ -205,26 +213,18 @@
           "publishedAt": "2026-10-23T05:45:34.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "PwC Data Breach Claim - Everest Ransomware Group Claims to Have Stolen 590 GB of Data - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82R1JMUC1UZ1R4dV81dUtKb0hQNkttbm93NE1IUlJobWlaaG5DeVlRMjhPNXFsMnYtWmJTVE9TMF9HeWFwVGd3WC1ZODI1S0Fkcl9POWZIWVhMbnlScV9tWDV30gFnQVVfeXFMT05hM3BxWFN6N1FXdDdEN2lELXlFUWVhb2JkRUtMdHY4QjhaTkFUd1pmUEE5bFJLenlsdThNbHJqUk11MU02MU0tc1RZRTNZQzFKTlJGQ1N5anM3NGVRNmpzVWhQRWZJUQ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-23T05:15:50.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 92,
+      "totalArticles": 98,
       "distinctSources": 6,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -32,
-      "reason": "Last 3 days averaged 10.3/day vs 15.3/day before.",
+      "trend": "Stable",
+      "changePercent": -19,
+      "reason": "Last 3 days averaged 12.3/day vs 15.3/day before.",
       "daily": [
         {
           "date": "2026-10-19",
@@ -252,7 +252,7 @@
         },
         {
           "date": "2026-10-25",
-          "count": 8
+          "count": 14
         }
       ],
       "topArticles": [
@@ -325,12 +325,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 55,
+      "totalArticles": 56,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": 3,
-      "reason": "Last 3 days averaged 8.0/day vs 7.8/day before.",
+      "changePercent": 8,
+      "reason": "Last 3 days averaged 8.3/day vs 7.8/day before.",
       "daily": [
         {
           "date": "2026-10-19",
@@ -358,7 +358,7 @@
         },
         {
           "date": "2026-10-25",
-          "count": 2
+          "count": 3
         }
       ],
       "topArticles": [
@@ -537,12 +537,12 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 24,
+      "totalArticles": 25,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": 13,
-      "reason": "Last 3 days averaged 3.7/day vs 3.3/day before.",
+      "changePercent": 23,
+      "reason": "Last 3 days averaged 4.0/day vs 3.3/day before.",
       "daily": [
         {
           "date": "2026-10-19",
@@ -570,7 +570,7 @@
         },
         {
           "date": "2026-10-25",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -580,6 +580,14 @@
           "source": "Google News • Online Exploitation (India)",
           "publishedAt": "2026-10-23T16:01:40.000Z",
           "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "‘First-of-its-kind’ in Pakistan: Father held for making and selling sexual abuse videos of his own children - Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWpOcUJkdnJwY1NUWHVFeS02ZkFLSnFJdkhobVMyUTdFWG9OaEljU0NhU2FkYXFmcXpGY2JHMWdHdDFKNUFPRXVqSjNta3ZlU2QyRC1pMDBUcEM1YTVTVFQyRGxNUVhYc0NrUXpTclBkY2xhZUh6X3VkUDZvaVJSLVRZSWZtdUx2WEZ3U3c1UFNHR0ltTVl5dFlFTk5WZnhFWEFINXgtOFA5M1Q1ZFBBcTJKZ0pZQTFyZUxpQ1pUV0ZlN1FacTFEeHRGdE5LS3pfX3RsZzFzLVdBZUZhREcwWm9teTlHZWNFYXpKZGVn0gGDAkFVX3lxTE5NWWxYWlNiZV9Tc0ZFMnMta2JkU2Jtdm96bENhdDhETnhhZC1sMXFzeTRRSWMzbDVyeWp5TEx5VHBqRzN4TjVqakNRay1oTkpIa0ctWHNMd1l6V0lLZV8tdHNEY0dTdHUzYXpSX194OEVPenI2Z1dfaHRILWlvaVctVWxBdHIydXhsbW94RktPN2U5QUNaeEFiZmI5ZGxPbzM4SktQZW5nWWpYZ0hQLUZoV2NzYldtZHIxOEVFd2RudGFSTWhoT215NkFMMG1SQ3JXYWlFbTV0VFlhbGpLLXVIbjBoVE80NW1Md3RPajdUNnRVU2hJUUg1aHhIT0dJVGRlVU0?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-25T12:41:02.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -627,14 +635,6 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTJhVWg5Sk5JMDZOcEZ1QzViN1FXTkZuckY2eVQzcDhydzNTVDduZ1FmYkNKU1RWaHpENlZpbEgzd3RtejJzNGNNajZ5b2pYN2FDVmdkbkhrYWZreGo5b1dnVGNZMlhwekhkNzJBc1hZUWJndW9LU2FNQWtJa0lEX0I2Sk5zWkU?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
           "publishedAt": "2026-10-23T18:03:21.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "How the fight against child exploitation online is being won on design - Thomson Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3I3ZzBjWmlBb0tlbWN1UDdTOXZ5UUlEZlpzM0I5SW5UYWlJSG5WNkk3Ym10VGJhVU04WHh5MlJLYTU5MUFzOFlhLXBaNnBkTEcwMFotY1puaXF3YTJvdFExME5zdGYtenZ5OUgyM2d6Y2NRZHFWQjE0a25jR0FOZU1YeXlpbk52emtGMkY3OGszTTlJVHhn?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-10-23T12:44:42.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -749,12 +749,12 @@
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 14,
+      "totalArticles": 16,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 33,
-      "reason": "Last 3 days averaged 2.3/day vs 1.8/day before.",
+      "changePercent": 71,
+      "reason": "Last 3 days averaged 3.0/day vs 1.8/day before.",
       "daily": [
         {
           "date": "2026-10-19",
@@ -782,7 +782,7 @@
         },
         {
           "date": "2026-10-25",
-          "count": 4
+          "count": 6
         }
       ],
       "topArticles": [
@@ -843,10 +843,10 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Noida: Police dismiss claims of communal violence, register case over misleading social media post - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUXJLUEo4cjJnTVVobjFCeDhoc3dkVnpzRVI1aF9nNnM4Qk1mTGZnc1RMNnZXRnFOb0sxMktQQWJrTUdjNVZzMkctQ0dlUTl3RnFzOVV5TjY0MGYzaTg3N3hkc2c0NDIxYUZTWmdJRTBFWk1lS0NwNkllRk5PRWgwUkFEWEFDNmkyaWl3UjFaWHlIMzBNdWNrNDZuYkhDaC1xVXd4SHEzZC1ONktSdG9KeFZlSHFKQS16RWRKLUQ4UFNBbFBvWVE4cGlsQlRsQlZTTVBFZGdWSXVfdDU0ck5RZWtpQ2VkbWVPWU10R3h6ZDhFMVFleE1nVXYxMWxQblE?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-10-25T02:22:09.000Z",
+          "title": "128 arrested in Barcelona riots as Italy detains activist who praised Hamas' October 7 massacre - Ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUVNoYTB2cTlJODNELU4tTTdfZC15VUtNUU9NVERwbUVTOVN1UUpqNVB5NFptTVdJcXUtLUdqRzdDY0J5Yld6dHpKZnVDU0VpbFk5V1Nn?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-10-25T15:51:08.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
@@ -855,12 +855,12 @@
     {
       "theme": "dangerous-organizations",
       "label": "Criminal & Dangerous Organizations",
-      "totalArticles": 12,
+      "totalArticles": 13,
       "distinctSources": 5,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -33,
-      "reason": "Last 3 days averaged 1.3/day vs 2.0/day before.",
+      "trend": "Stable",
+      "changePercent": -17,
+      "reason": "Last 3 days averaged 1.7/day vs 2.0/day before.",
       "daily": [
         {
           "date": "2026-10-19",
@@ -884,14 +884,22 @@
         },
         {
           "date": "2026-10-24",
-          "count": 1
+          "count": 0
         },
         {
           "date": "2026-10-25",
-          "count": 3
+          "count": 5
         }
       ],
       "topArticles": [
+        {
+          "title": "India News | Uttar Pradesh: PM Modi Attends 'Wings Over Ganga' at Namo Ghat to Mark 94th Air Force Day - LatestLY",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3lyNjZ5bWJGMXV6TzU5dDg2SUJwZ240SzhrRWwzWG80eHkzc1dNTjQ0Q1BtTDgzeHptTnF2VUlfYktKcWlCeXk5TjZsbUR5eEdrSFg3T09NRFV2S0Jpay1NbkJnV0R2VGhwOEp4bW1tVUY5SzR4M3dnYTltT2RtbTNaeDBDa0NEYWx4azRIQ2ZXY1JtOEpxLU1ic0VpSmU3SDFfNzI5amdFRlAzYXg1dnlxbHNIWV9FNGdqbGxEaEFnMmt6WjUxenFRNnZpNjVGLVluUHZSZ2owbUcxcFBUWkhZckVKUdIB5gFBVV95cUxQV3lyNjZ5bWJGMXV6TzU5dDg2SUJwZ240SzhrRWwzWG80eHkzc1dNTjQ0Q1BtTDgzeHptTnF2VUlfYktKcWlCeXk5TjZsbUR5eEdrSFg3T09NRFV2S0Jpay1NbkJnV0R2VGhwOEp4bW1tVUY5SzR4M3dnYTltT2RtbTNaeDBDa0NEYWx4azRIQ2ZXY1JtOEpxLU1ic0VpSmU3SDFfNzI5amdFRlAzYXg1dnlxbHNIWV9FNGdqbGxEaEFnMmt6WjUxenFRNnZpNjVGLVluUHZSZ2owbUcxcFBUWkhZckVKUQ?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-25T11:00:26.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
         {
           "title": "IAF Wings Over Ganges Air Show In Varanasi, PM Modi Visit And Banarasi Weaving Boost - India Today - India Today",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUVZRbUJVSzNmMGxCZDZ1OGZUVjlhTk1vUVRlNHppRFhCTXBFS3lrNFc5Mi1TVjBEZl9zNGFaUWRGbTZ3cWNNR3pKZmpYRFRkLWxnTWMyUWRIY09EUktQVlFZLXEtZ2RMdEhOYTVCNlJ5NS1LMmtIdm00Xy1mem14LTF2ejZMMmtiQng1cl9vZkNDZ3pQb0dvZkFzWGFVOE9aLXJwRDR3Q1FVWU9wbG8wQy03cWJwSkZzeG1XcUkyT3YwYmpjdjZCdGtsX254SXlhdk5oUUV6WXkyZU5QVlHSAeMBQVVfeXFMUDRNMzFOMDlfaUMwWGd4bXFjM2Z2bHU1VGxJNGRiU2Fpc2VMU09aMm4zc3lORUtYSmhGUFFsTHJwbFpNc1J0WGwxcGlMcnIwS3RRcjRwUlZnMk04aWxlb1RMX2Mwam5JLWFTR3kyeU5xQVZHRERDUTgxTnVrbFItNW5FX19FbmFyUWc5d1g1d19rUkJ4M09oNWhDdVNqUUpnakRtRXk0T3FaNUFIcUxIcEpLVEpSM0Npcl9HWTZ3bnhkWTNzb0cwUmk5SGwxOE82bkRhcWNEMWNncFd3Ujd6dHpjbTA?oc=5",
@@ -943,14 +951,6 @@
         {
           "title": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge - Organized Crime and Corruption Reporting Project | OCCRP",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNakJUVnZxM3Qzc0h3NlNhNzh6UC1MX0d1RTRVUm5rb0pmVmF1OHpNZDdMU2VGc0hoaXhtRW9aMzZHcFdGRkROLWcxZUtSTUVWNHpRR0FOM2VWVzBxYWE2elhXd0FvU1luVHYwamwyMlp1aG85VEhxZk12N1FwRGpBakZFY3BNcllkNEpJY1pqZjV0dw?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-25T04:24:19.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities - Organized Crime and Corruption Reporting Project | OCCRP",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlI0M29RengxM2xRNkdnQXAydWdIR2dhb1lQZldZUHg1Z1hTZnRoeGVyTDFJRHBpNXRQb2J2OTZ6WVByN1ZoZDc2dlRiRGhkN25Sb1NQOUFKM0xpY2xCbXBaNjBzN3RfZ3RuTXIyRlBFU3pwLVVoc2g4QXJKNUhIZE5fbWFNcnZveW5KWGhlUzZrcDBoUjUwag?oc=5",
           "source": "Google News • Human Trafficking (South Asia)",
           "publishedAt": "2026-10-25T04:24:19.000Z",
           "riskScore": 48,
@@ -1429,12 +1429,12 @@
     {
       "theme": "suicide-self-harm",
       "label": "Suicide / Self-Harm",
-      "totalArticles": 1,
+      "totalArticles": 2,
       "distinctSources": 1,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "1 article in 7 collected days.",
+      "reason": "2 articles in 7 collected days.",
       "daily": [
         {
           "date": "2026-10-19",
@@ -1458,7 +1458,7 @@
         },
         {
           "date": "2026-10-24",
-          "count": 0
+          "count": 1
         },
         {
           "date": "2026-10-25",
@@ -1466,6 +1466,14 @@
         }
       ],
       "topArticles": [
+        {
+          "title": "Finnish Influencer Facing Sexual Assault Charges Reportedly Dies After Self-Harming on a Stream - inkl",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWFJQ2QyYVRvZl9ITTZlQnpwdUxHVWlWRU93N2JnQkw2QVUyblFsWHVxRS1aSnNGODdLbnNvYmJhSk1ScU5sS1JsNjZvcl9IQXNZYXZHVG9yTnlqWWk3UE1Zdi05N3lkdldjQW1MQmRHaUFvYk5lcmRLWHFOb29nU1VSX01PS0dtYU5UU3FIeU93OHMyU1VxR3NGeVhRS0ZPeWV2bEs5eWFZZ21DY3czMkJQd3Jkemk3QmVRR2pR?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-10-24T05:30:04.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
         {
           "title": "Pakistan rescues teenage girl coerced into animal cruelty, self-harm by online network ‘764’ - Arab News PK",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbjJlb1VJb1ktM1BtLTlMN3JFenpkc3ZLVkZVanJWM1pnQkhOVFpUWENHd1R0cUhLWWc1OVZIQk9HazMtNDRMTlNjUm94amFrZHptMXBvdEtmYnhaZVFLcXFLbWpfeVhWbU5qQkhfRGs3N1A2dks2UjN1Qmd5cnJSZmtHd0c5bS1nMkI3T25Zd05qa3A4MzNnYndsZFVBUURnWF80QVZOcnJLcE5QUDNGcktjZmM2WXdLMjhOcko5d212bmlqam1ORWJB?oc=5",

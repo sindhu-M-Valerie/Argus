@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:52:55.302Z",
+  "generatedAt": "2026-10-25T16:38:52.588Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-24 on suicide-self-harm.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Finnish Influencer Facing Sexual Assault Charges Reportedly Dies After Self-Harming on a Stream - inkl",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWFJQ2QyYVRvZl9ITTZlQnpwdUxHVWlWRU93N2JnQkw2QVUyblFsWHVxRS1aSnNGODdLbnNvYmJhSk1ScU5sS1JsNjZvcl9IQXNZYXZHVG9yTnlqWWk3UE1Zdi05N3lkdldjQW1MQmRHaUFvYk5lcmRLWHFOb29nU1VSX01PS0dtYU5UU3FIeU93OHMyU1VxR3NGeVhRS0ZPeWV2bEs5eWFZZ21DY3czMkJQd3Jkemk3QmVRR2pR?oc=5",
+      "snippet": "Finnish Influencer Facing Sexual Assault Charges Reportedly Dies After Self-Harming on a Stream inkl",
+      "publishedAt": "2026-10-24T05:30:04.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "suicide-self-harm",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

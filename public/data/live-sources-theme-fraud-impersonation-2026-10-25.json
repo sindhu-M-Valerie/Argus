@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:52:55.302Z",
+  "generatedAt": "2026-10-25T16:38:52.588Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -182,10 +182,10 @@
   ],
   "data": [
     {
-      "title": "Cybercriminals Impersonate cPanel As AI Tools Sharpen Credential Phishing Attacks - www.techbusinessnews.com.au",
+      "title": "Cybercriminals Impersonate cPanel As AI Tools Sharpen Credential Phishing Attacks - Tech Business News",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSC1ZcXBGRDdiX1ZqV2lUR3kybEk1ZGF3TmZFTy1jNjBRcjRNYS1mdXVWS2lrcEY4UnFBaW50VEdkdnlheDZSYzNuakNNVGxaTkZJRl94Vi1RaUh4REljVUVtS0lVOTNMNndndjFwN3BOZF9jc1YwTE90VkprMU5CdE9QSzhRc1VmR3VvdGlyWlJyUkQ2aTZ5NThRajhRRFZPdmVGNkpfVkZpMHpZNEtrN0xPLTV1NzBPNnhBSzN3djM?oc=5",
-      "snippet": "Cybercriminals Impersonate cPanel As AI Tools Sharpen Credential Phishing Attacks www.techbusinessnews.com.au",
-      "publishedAt": "2026-10-25T09:29:36.000Z",
+      "snippet": "Cybercriminals Impersonate cPanel As AI Tools Sharpen Credential Phishing Attacks Tech Business News",
+      "publishedAt": "2026-10-25T09:43:56.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -197,10 +197,55 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Suspicious calendar invite? It’s a trap – how the scam works - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeXJLcGxibFh1NFBHbldERWFEYWJpWFp5LXpIeWFOaVhCTHJadUxocDIzWTA1MDd3WlZXV3dXZkxrSUFHNGRyNm0wS1ZxX2ZXMXBJdnZpS1FEZFdMaEFkY1JzMEE3WFNw?oc=5",
+      "snippet": "Suspicious calendar invite? It’s a trap – how the scam works ZDNET",
+      "publishedAt": "2026-10-25T15:02:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Why Nigeria must strengthen digital payment infrastructure, curb fraud risks - Businessday NG",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRF9PY3d5WEpXY2ZIRTRJencyYzJfcFFvVjJybVJKRXhtTjNFNXBnVzVVM0VIUXV2dlA5VGZ4U25yeGVwTEtDWWkxZm5yQjlMZWZTampkWkFyVzhTUkNJNk1JMDUtODV3bmRnbG5HeGJ6MEI1N2d1UDZnV09QTDNWTWkxakZKd000NmhweUJDYnpVR29TSWZta0JhanU2M0FHM2dpbmVvMWFQbmkwZzl2b05WWl9zUFHSAbcBQVVfeXFMUERfT2N3eVhKV2NmSEU0SXp3MmMyX3BRb1Yycm1SSkV4bU4zRTVwZ1c1VTNFSFF1dnZQOVRmeFNucnhlcExLQ1lpMWZuckI5TGVmU2pqZFpBclc4U1JDSTZNSTA1LTg1d25kZ2xuR3hiejBCNTdndVA2Z1dPUEwzVk1pMWpGSndNNDZocHlCQ2J6VUdvU0lmbWtCYWp1NjNBRzNnaW5lbzFhUG5pMGc5dm9OVlpfc1BR?oc=5",
+      "snippet": "Why Nigeria must strengthen digital payment infrastructure, curb fraud risks Businessday NG",
+      "publishedAt": "2026-10-25T10:46:13.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Police bust cybercrime syndicates over $2m online investment, romance scams - Businessday NG",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWtKMGVZUk5QNGtuWEZXempNR21iVFJYYVRtSlJteTRXSDYxZ1VZOV9jZlZwY3pueWduRjlJRWhwci1KNVBWR1hxam9xX1I3MHBhRy1oLV9DLTJOQVZoR1g2YlV1Q2IzT05ibDhsYUxsRFpHWm5HUmtWeUtnYjZsdDBTVFJVZU4xZ3ZXNDBwVmNERlpYeWFZckdYSkZ5NGc0ZThqbVRBTXNyODVWcm9F0gG0AUFVX3lxTE9YN3hFMlhfdGFBckpYbFRQSG1wS2FoX3JCRWxtNV9veTBVaFRPNUdrMUI1VWE2V24yYWFjeVNJWW1YLW8ySUFWR2VrUjE5TWJiSjIwRkxwSlNqVXpVV0dKNU04YW1uRkxUQTdpS19HcFBTQUo5YkdPc2V3QzBqU0s1aWhWLUg4V0JnY3lFTmdzeUg4UGNhd2ZCRXFtbEFCNGZHNUpzbHg5NTBhQVJlWlllakNvag?oc=5",
       "snippet": "Police bust cybercrime syndicates over $2m online investment, romance scams Businessday NG",
       "publishedAt": "2026-10-25T08:22:03.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi Police Uncovers Major Cyber Fraud Targeting Over 50 Individuals - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmc2MW5fZFRhUzgtaVNrT1B4M0pHc0FINUFhdUloN3RsR0JLMmZKX2t2Tm5ZamdwMjVHRDgwbGRxUEJHQnk0NzcybldyZ0xBQ0hjNHpLOFlPSGdBMXBQNWFpQzJJc3ZPSlpGSTk5ZlAtdnpEc3ZvdE5VZUQ1ekZlSmpKejlyU1NrdXo3WHZ3WVhFblluZFdyWUZpN0FtMlBWR0pTVXBFUDA4QdIBrAFBVV95cUxQQWFvVG5waUJremdUUUtsNlNaNlFDdjdMVEgzWnNwUWh2YWNmcGpWRUZOdGxJQVFuRzdoZUp6OFZHVzVEMVh2NzMwNk1wR2dpTVV1WUZxd2RuamhueXFMb3RxNDQ2VEJSbllnN3A1aDY1dEtwWkJqRjRMQXc2dWdENWNsUmdRb3g2cGpQUHJhcU9BZEczWDVNV2p5eDdndGlFdm5FdzZ6RzBXQlBJ?oc=5",
+      "snippet": "Delhi Police Uncovers Major Cyber Fraud Targeting Over 50 Individuals Rediff",
+      "publishedAt": "2026-10-25T08:21:57.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -221,6 +266,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police Smash $2m Money Laundering Network, Arrest Eight Suspects in Major Fraud Crackdown - Gistmania",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nTTBQRTJKOUFNOXF3REdsekRyd2N1eVlmNzFMekpCSV8xR0o5UWN5NHdyXzdVeTA0QmsxMm1JWkZteTJibXlqcUg5Q2RIbGdudUNwZ0VLY3liTVZVZjJj?oc=5",
+      "snippet": "Police Smash $2m Money Laundering Network, Arrest Eight Suspects in Major Fraud Crackdown Gistmania",
+      "publishedAt": "2026-10-24T20:17:28.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

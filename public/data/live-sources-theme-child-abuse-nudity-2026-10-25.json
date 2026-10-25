@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:52:55.302Z",
+  "generatedAt": "2026-10-25T16:38:52.588Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,21 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PNP probes Thomas Markle over child abuse images - Philstar.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRTVrRkZpRFlxeXBNWnJ0SUhpSlo2TjZ3Y3dMOFFiaGhLMVpxNWJIaXpaQVhrd1M3SDVNdzRqYTRMLXNUc0lxWWJmcktSX1hqZWxwVFBWSEFjMWpsSUQyYXY5V2RJeW5RYnIzQWtDbHR2VDdkMGd0bDZYY282Q1BRQjVBQkpzcl8yWWpfZ2R0c2ZnNVk4c1BWemhQTzVrLUdpWm82UNIBqwFBVV95cUxPOTRBeVJYUFdnSEFsb1lDMk9STEFQR0VXNVBENWd6SVVfWGdROF9pSncxSU95ZjhMODhOWS03ZWhnQUlZUjhRRTNyLU80STVqMGwyZHBxekY1Wnp0eXFoNkRoVlhlUHdjR2x0a1JOLXctc3hmV0ZEYUZsTHBzbWN1UkRHUGpTRFAtY2VsXzdkdWVXRWRXTDd2dk5ianhKa2djYWNqZ2hsZXBFMWM?oc=5",
+      "snippet": "PNP probes Thomas Markle over child abuse images Philstar.com",
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
