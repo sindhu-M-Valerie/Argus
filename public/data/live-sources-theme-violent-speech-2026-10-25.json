@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:01:39.181Z",
+  "generatedAt": "2026-10-25T05:01:29.147Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-10-25 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 28
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Cafe Kashi, Jinnah and beef: Case against YouTuber over alleged communal remarks - India Today",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcEYwRm9vSW13NzdpRjRBa20yc0Z4bC1sdHV1RU5RSnlOc0VPeVB4Y1J0TUVULUplTzhnVEd0eWUzVEVXbnA0Szg0YmR1VFhRdnJic3F4ek9pT2JZcHZkZlhpRjFCa1BiUFZycm9PZDNnLVA0Q0dCLXJ6ekpDXzN2Q1ZRMWxkWHZxcDRMZU9kaGNLSENRZThaak9hTENxbnQ4ZG9qSnNNemlQMDBvMFFULXZySnZCSDhpdTI3WW9PejVWbGZIb1pjM2k3UUtXV03SAdQBQVVfeXFMUDM0NWVpUVpFTnA1Zi0xclA2T2I0bzRSanRKTUJHaHVtckZHSm1xX0xyNmlOc1N3OWVUck01a2lyT1JfV2JISlRjbHNRVzNHT2hZd3daNE1DdmY3OEtaVUVvTmhlT1VwLU9GcXpiUHJxM0JYZ0xnSm5BMm5LWDVzX0NLWDQ1UXZGQkxETlZrdzVJRy04Z3lycE9NVlZxc004N0Vob3BjUWVMU093QmUtOFVJQ1dVa1VvSUlNaGtwaG4xTFJvSVNYWlFFTWdQOUU3TEFSdFo?oc=5",
+      "snippet": "Cafe Kashi, Jinnah and beef: Case against YouTuber over alleged communal remarks India Today",
+      "publishedAt": "2026-10-25T03:23:04.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hindu temple hate crime probe sought by US House India Caucus over Illinois shooting plot - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXlyY293cTJxWm9WR2pQQllZeDNLVXhpVmZkWXFDNll5NlNoVWM4VFRCazhGUTE3WjFTSzI3dThTb2NyUjkwWmxkQjhmQWNuRVZwWDZZQUtkTXFtX3JFcWl2VVg5R1VxNUpKOTd0Um5wYzZOQW5rRG9CWHRfRjF0RXdoR20tX21oTk1GNExCS25McHdwTUYzRUhaOEJkbmRuVl9Jc2ZUbWs5VWxGNHhWRQ?oc=5",
+      "snippet": "Hindu temple hate crime probe sought by US House India Caucus over Illinois shooting plot Goodreturns",
+      "publishedAt": "2026-10-24T21:00:45.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

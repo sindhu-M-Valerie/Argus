@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:01:39.181Z",
+  "generatedAt": "2026-10-25T05:01:29.147Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 58
+    "total": 64
   },
   "message": null,
   "sourceStatus": [
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 28
     },
     {
       "label": "PIB Fact Check",
@@ -260,7 +260,7 @@
       "title": "Fact Check: 300-Day Wait for Slots After Rejection? - M9.news",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHVpYTNfMkIxaGNDcHhSUE1DdnUyZHJMUVZaZFZnTGNBcVBBVTRpTjhkbE1sN3JMR1BsZXY3WlhBYk90ZXJzN3F0Ql9fRnNuRmNwdHNYSGNDNWV5S09vcWlQZG4yUVBFNE1LdlB5dG9UUEkwbGhROHBIb1NZSjNnd3lod1M0d9IBiwFBVV95cUxPdUcteVhkSkhIV3BuMHhfQS12VGwyYUpKYWwycHQwdEYxNmpsa2F4RUYwWVVKd2ZEbkN3eXZBREZYbURYVFNRSlJyeVJPVlhOOHI5TFNzem9NR04wdk1ERFNMR3hCTDMyZk04OHM3ZzRIeDE2WndSNXlGQVJHazNlOUpMdnlIc0RMN0VB?oc=5",
       "snippet": "Fact Check: 300-Day Wait for Slots After Rejection? M9.news",
-      "publishedAt": "2026-10-24T18:07:20.000Z",
+      "publishedAt": "2026-10-24T18:10:34.000Z",
       "source": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -268,6 +268,21 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NPF-NCCC ARRESTS NINE OVER INTERNATIONAL FRAUD, ELON MUSK IMPERSONATION - Crime Fighters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHFjeW84U0pPdVFhREVnc0MzSkpydTNISDJhY1hMaHNSSWxPYm9tRWN1LW5SdTE1LWYxYnBZTktwWDJvOEI0QWdyZ0ZBNzdxNzlWOGJickRycE9ER2EtMHNIOG5kNDd5akNYREk0ZmhTRHJ0alNPOWZYb3UyOW9tMzJtaXJPVS1sLWZOcFd6bVI3R0dERzdWOHJnS1V0d2pJYS13eTBB?oc=5",
+      "snippet": "NPF-NCCC ARRESTS NINE OVER INTERNATIONAL FRAUD, ELON MUSK IMPERSONATION Crime Fighters",
+      "publishedAt": "2026-10-24T17:05:46.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -317,21 +332,6 @@
       "corroboratedBy": 1
     },
     {
-      "title": "NPF-NCCC ARRESTS NINE OVER INTERNATIONAL FRAUD, ELON MUSK IMPERSONATION - crimefightersng.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHFjeW84U0pPdVFhREVnc0MzSkpydTNISDJhY1hMaHNSSWxPYm9tRWN1LW5SdTE1LWYxYnBZTktwWDJvOEI0QWdyZ0ZBNzdxNzlWOGJickRycE9ER2EtMHNIOG5kNDd5akNYREk0ZmhTRHJ0alNPOWZYb3UyOW9tMzJtaXJPVS1sLWZOcFd6bVI3R0dERzdWOHJnS1V0d2pJYS13eTBB?oc=5",
-      "snippet": "NPF-NCCC ARRESTS NINE OVER INTERNATIONAL FRAUD, ELON MUSK IMPERSONATION crimefightersng.com",
-      "publishedAt": "2026-10-24T12:02:52.000Z",
-      "source": "Google News • Fraud and Impersonation",
-      "theme": "fraud-impersonation",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "fraud-impersonation",
-      "riskScore": 52,
-      "confidence": "Medium",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "🔴 Former primary school headteacher downloaded hundreds of child abuse images - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnlDQnd4VTA0X1FDX2Z6TUdiZTdnaHNkQUt1WkpUcG9sOXU1U3NQdkE2ZGFhdHdVTVlxaWdwQWpwZjlHRmVwX3ZvUUtmM21pTlc2ZVdfbmVOaFM5NzY4c0tZR0lkQkQ5R3U4eW1HR0hRbnZ6NE9xWGtiRElJMHdBem1ueEg2ejVDRFhoazV6c0JteE1aNURfekZyVk9IeWZiUEoxMlZwTUZUWjVSX0xnT3Z5X2xoeE93SHd0X0M5eUs1UFlEV0NQMFRReFRyWXhEems2VXV3NERCdTBkaFdXZw?oc=5",
       "snippet": "🔴 Former primary school headteacher downloaded hundreds of child abuse images Facebook",
@@ -373,6 +373,21 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "#FactCheck: Video of Woman Shot by Police in Brazil Falsely Shared as France Protest - CyberPeace Foundation",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORy0wZE5yRlhhekhkUVpHUEVLajhHSC00aHQ4a0ZmVEN3V3RBMzRyRWt3YXBkTXVQTkJvN1U3RUJLb2h3TjFSWmZ1T0Fyc1ZOUE93QmwzYjZUS3QzNDNwZjlhX1ByMFlNckIwUkNYcVpGZ1VoT0JJSHNGNVRVb203Y3Jsa0xFelRfV2FCbDJpajkwMHBiMGlsVTNPZzA0WUhXZFktdlFwb0xiUTdlVGdMRVpuRjNrNjluazlvRmZB?oc=5",
+      "snippet": "#FactCheck: Video of Woman Shot by Police in Brazil Falsely Shared as France Protest CyberPeace Foundation",
+      "publishedAt": "2026-10-24T10:28:57.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -557,6 +572,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Knicks try to clear up 'misinformation' about rings, say employees will get them in 4-6 weeks - inkl",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0pTTUlTeWFTVnRJWkNlQ2VEUmNReGQtN3pycEJzejZEdjlvakw1QTdnTjcza2gzX3pib0ExbS0tVldkUWU3QTVXMWFlV3ZoMk9sU2RTZDdFZzg5YS1zZlVQclBReWRiMGM5TTNpZjNTNlRibFRYZXprWTV0X1RGTk1pd09QZU9YU2M5SmNhTmNCdW1NWUlrZ09aWW51V3NFSm1KbmRGTXZ5YkZINUdKeEVSLVBPeHM?oc=5",
+      "snippet": "Knicks try to clear up 'misinformation' about rings, say employees will get them in 4-6 weeks inkl",
+      "publishedAt": "2026-10-24T17:22:12.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Why India And Uzbekistan Are Teaming Up Against Cross-border Terror - ИФЗ РАН",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYm1OanMwNGdlOUkxRk5VVUtsRU5HeFNidkVqWmhUalg2YmkyWDYxYkxpNVUwWFNzT29LdWd3dEVtZDBBblVkbWV4VURpZFR5NDdYaWp3TEg0akw5QlhtTUdZUVJPRW5aVHlkc2dUd1NTR3RqWHR0bkxKMDBvM1c3Q3U0UQ?oc=5",
       "snippet": "Why India And Uzbekistan Are Teaming Up Against Cross-border Terror ИФЗ РАН",
@@ -598,6 +628,21 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NCERT’s new AI module for Classes 9-12 targets misinformation and data privacy - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMURxdXZrWUdFOEpRdGNVWWUtSy1wVHpkeEJaQVdRMzQzMk1UOXU0c3A1U0J2RDZuSHMyaFZjbGNHY1VWRmZMOWdjZ015RmhYd3hneEU1S3JVeE14dmFLemVjNk1yWmd1OUl3ZmZMZlNoTk5ITE5fZ3NwNHhoWllqd2lHY2drUXJjYlZ2bkFLMEVJZFlyODg2emlvcmZQaXlYMnA4MVY5Q27SAa8BQVVfeXFMT2hibi12cS1XN3R6cXEyZmwxZGNiR1dJaUNiYkx5MnhjVGVfR29EWHZtcHRKZm5JTW9Tb0EtNzZLV0JySWVBWXQ3bTZjS2lRUGRzQmxpUmhzckZKdFY5UTVzbzl2V0N5bkFnel8yck1hVjJuQ1pXSkJ1czlBc2FPbVJoa1M0eE8yTzYzRl9TNTUzX0RzYm1OdTBsRjVnX0ZSQmZ6a2ZKcUo1T3JvTDZYNA?oc=5",
+      "snippet": "NCERT’s new AI module for Classes 9-12 targets misinformation and data privacy The Indian Express",
+      "publishedAt": "2026-10-24T07:05:33.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -692,6 +737,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "62% of Americans Agree: AI Scams Are a Bigger Threat Than Computer Viruses - PCMag Australia",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVRCYkJiSmpJN2VIR3dsU2ptMjgwZWtjRldpM2VCdUlUcUxGUGdaS3c2RkgtNXM1T0VuSms0b0RRZXlkbDF3TlFCb2ljc0R6eVlkOXhnNjR0YlhpWU1xVDBjN0x5TVhNTEhOTTJaQ2hSOFNrMElEOS1EbU9vWlBhcGxBV0xYNDY5VzdUT25PWWhnXzlMYlBLN1dR?oc=5",
+      "snippet": "62% of Americans Agree: AI Scams Are a Bigger Threat Than Computer Viruses PCMag Australia",
+      "publishedAt": "2026-10-24T18:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "WhatsApp safety guide: Features that can help you avoid online fraud - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVENPRURDZkUzUWpnc2RIMzRlczFzSlZvZWVJYVlTbGVoRkp5aHFvVVI4Z0tVNy1fdnhfN29JNHB1UnBaSzBHLW43VDRvVjJKZ01Ha1VMRTh2TDJ2TXh1M1VCQ1I5RnJma2RFMlp6WklDa2VqTTdlZFFVX28tY2N0d2ZZanFsQjVfUzgxZGxoc0tZUnhkZ2xfOHpvX1B2azhNdzUtVlZ5MnUzY0k5dmUzQVFId2N5dkpHY1JfdmlMTTZvN0ZQNkxfckRleU8xVmhZZ3hNSWh2aXhEV2Q1X0VFSWQ2eVPSAeoBQVVfeXFMTjZXckFpRW5odXY2MmR1SS1OQ0hhSGd3Z0FvdEt3a3NWdVczTm5JYjV6bG9aSnB5T3RxUmttMXpaT2lISDlwZDBicmhodVE0a1VhNTl0a2hpb1Bxd0tFNmdBVkVRaTFhbnlGQWh3R09yRU1oQUgzcmZaYWxnY1ItaTlTWWJrOWp0UFA3djlTMHhUbmdINHNPOENEQTgwR2lBU3dPcEdwQVRSeHJ5VGU3U25Uc2hFbHgwQTk2RTMyRmpMQ05ESHdmRlRKUzJyRk1lVlJHMVdfTnYtdVRONDROSnN4cDRhM3ZJTlBn?oc=5",
       "snippet": "WhatsApp safety guide: Features that can help you avoid online fraud The Times of India",
@@ -701,6 +761,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vlogger booked over communal remarks - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWldqLTc5SmtON0ZhTjVBVGF2S05ldmVlUF9BUmFyQU5pbWFpTDFEUzdpYTg3OURSdjAwSERjOXlyV1d1aXQ3Rm5RNEx3SlhabVJpWnAxbEhVNjFBbXBzOE90RFJQc1JPdVVFT1hPNFpDUGFEbkljTU1qWWhjbHVEYmppT2xfSUFwbmZaRHdfV20zRm1paWpMQTBVczlNUEhxMndKZnk0bHd5MEFIT3BjcnBjNNIBswFBVV95cUxPWldqLTc5SmtON0ZhTjVBVGF2S05ldmVlUF9BUmFyQU5pbWFpTDFEUzdpYTg3OURSdjAwSERjOXlyV1d1aXQ3Rm5RNEx3SlhabVJpWnAxbEhVNjFBbXBzOE90RFJQc1JPdVVFT1hPNFpDUGFEbkljTU1qWWhjbHVEYmppT2xfSUFwbmZaRHdfV20zRm1paWpMQTBVczlNUEhxMndKZnk0bHd5MEFIT3BjcnBjNA?oc=5",
+      "snippet": "Vlogger booked over communal remarks The Times of India",
+      "publishedAt": "2026-10-24T17:40:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -836,6 +911,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "FBI Launches Operation Blackout to Dismantle International Scam Compounds - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmRyQXZHQmFrUDM5SmRWZDFIYkVsYk52eGpUMXJndlRJal9HTUJndzc0ZHVvU0wwemU2b1FnUkc1N1dTMkhGN1l0MDBhTWlOLU40LWRoTW43U0RvcklKODBHUk53NENkcEM2cUdwRFROdjBrTWgwMXM2UnY5Vmx4TGFqelJ1S3dOWFRkT2JtSUtVdjdzYjJjSVJzN25XNzQ?oc=5",
+      "snippet": "FBI Launches Operation Blackout to Dismantle International Scam Compounds Head Topics",
+      "publishedAt": "2026-10-24T04:34:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:01:39.181Z",
+  "generatedAt": "2026-10-25T05:01:29.147Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 5
   },
   "message": null,
   "sourceStatus": [
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 28
     },
     {
       "label": "PIB Fact Check",
@@ -210,6 +210,36 @@
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 2
+    },
+    {
+      "title": "Fact check: Social media posts falsely claim Michelle Obama is pregnant, appeared in public with baby bump | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV1YzeVFNUVB0Qk45UGpEU1VuMUFGTnFBUHgySmVPNTdGN3M0NVZwYXItVU84ekQ2NEdZcXhRdUtFLU9fNVZ4MHQzWGgzdHFpb096R2ZTbk1IZnFUeFVuMTFINEVDUTNLQkJoeHRLN1cwNjkyTUlKY3FVWmJlbEpwcjgzcFFVcTFxMzl5a0c0akU2VWdtUUwzODBCa0FGYjJUSHRhTVFQS1ZkNDBrNkNSdzg3WFpTWGxtcEZJazBIYWpIa1J0QWRCS01ycW9HX3UwNHhPMUxaMlVuNGVuYkVTWXRvU3NOWEFJMDVrU3RDenRheTZQZjFmYmhDQjE2MmFOWVJIX19R0gGLAkFVX3lxTE5WRVdvUlJWT1ExTzN5VEFSTkFvYnZMeWYxaGFBRU81UUdGUkdaTzUzdjA2Vi1EY3JnZWdqamJpZ1NsSm9HSXdqcEtBNndsUU0wNWJSby1PU0VvTEZCVzlHVjFIdGx3YnRucnVheFpkSjM0OTE2aWstZGtocU1fNDJhVnlEd0hXVWZwUUdsbjV1OXJGZlhRazd0YXFsNmtpYW5pY1lLZTB3NGdkOFgzOVo5QU9rNjMtVUxjdDBTa084bmhka05SQzEtOGRHeThBMnpVZHpWa3h6cFVucVBwcTZ4XzJQNXBBWFZYcFM5NXFlT0pydUwtTDBDQTBGTzBqNXRJbG0tQUl5bm1nbw?oc=5",
+      "snippet": "Fact check: Social media posts falsely claim Michelle Obama is pregnant, appeared in public with baby bump | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-10-25T00:21:52.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Arunachal govt urges public to shun fake news on Siang project - The Sentinel - of this Land, for its People",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUzlONUYwVE15eXVGU2puRlhCVHc3TXlOMjk4clk5SmZ1UmxlX0JZU0FHeEtPYmJKZVJMSmpKZVJyajMwZnhvVXRReVFleDdyM3J5emlEanE1aUZOQktwRUdxOHlhbUI1STd3bnN6Y2tuU2gzZ1M0NnpqR1BvVkNkRXJCaEtIdEF5SkJ1akJTZWZDcEFKcDlJWmJRQk5hVFlqTHFnRDJhaW1HWlFtMmVtbk1BNURsUm9JZ2pPZldMUUttVnpOalVUctIB1gFBVV95cUxQTDZCazZBNmJ2X1c3NUEtV21sQjFQZTFrSzVFQzdxVWd2OXVQbFZaS1QtMmpaQlNzaUM4a3VOZ3dKQjByN1pBMFlsMjNwRklneFVBX2l0RjJfWFE0SlJsTm1meElEd0hRSkh6Zzhac25Id0YyMmtVUHlrRkZ2VkdNRDhqUUhjVEh2R282NDBwWmhGOGxGMFlIczlXcEdpUVFhQW9kd3hFeTZqVWdvV0xpYjIyQkFXVGR6R21wQm5FemZfSlhGR1FFeEIyWG9wTWttUkNlRWtR?oc=5",
+      "snippet": "Arunachal govt urges public to shun fake news on Siang project The Sentinel - of this Land, for its People",
+      "publishedAt": "2026-10-25T02:36:08.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
     },
     {
       "title": "NCERT flags risks of deepfakes, data misuse - The Tribune",
