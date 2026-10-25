@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:38:52.588Z",
+  "generatedAt": "2026-10-25T21:01:14.615Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -193,6 +193,21 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "18-year-old arrested following child sexual abuse and exploitation material investigation - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQVlOR1pmcnhIRHd5b3ljWkxMMnlIQlZvQmtETWJxTlJKYW5oSU9Nc01fc0h1VUVVX0U2bHBkODBaZWxBLUNfb3lOSlNhOTRoVndaMVllRU1CVGJ1LWZUdlJyOW1SVmVPUWMwRm1KTmd0bEREcjZsREhIazNGVjBEZG5heEFDbXM3bF9zRlpkNkNfbWZZR2Z5WFc1LWlvUEZBRGo4R3FFUkdnWHJqOXZSX1kyako3T3dzNVBWNTRNc3NMTnNmdUVzLVVVZw?oc=5",
+      "snippet": "18-year-old arrested following child sexual abuse and exploitation material investigation CTV News",
+      "publishedAt": "2026-10-25T18:01:52.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
