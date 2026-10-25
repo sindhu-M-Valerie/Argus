@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:01:29.147Z",
+  "generatedAt": "2026-10-25T11:52:55.302Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 9
+    "total": 24
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "13 remanded in NCCIA custody in animated child sexual abuse material cases - Dawn",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rOG14RUg4N2FUUDN6b3JVRUcwWjNSN2kwcTM1RTBqLVdtUTUxNVc1SGpDUkFMQWpMMktkdFhybW14XzhiYTVIdA?oc=5",
+      "snippet": "13 remanded in NCCIA custody in animated child sexual abuse material cases Dawn",
+      "publishedAt": "2026-10-25T01:20:12.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "‘Fact-checking must for journalists in AI era’ - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnR6Tm4wRUJiS2hkdHV1Y1ctd18yWFhtelRwMVpybmVUZUVaQ2l3eXZBeVhZUlVkLVo5ZjdYNVo4eHBwQWpUOUo0R2I2dXdZMzRWbHVUZWtGdHdpUGtQT1dnUnpWU3NwQ0pydjB3RXB1X29EaFc0cnpaTERmbmRzVUxlWERQWDFQQlpVMHpFU0xySFFtUUdlU2RkZ3ZMRkFWMmJleUpZX2JMUjBvSzREc0k3ZGItWTNTWGxr0gHAAUFVX3lxTE55bVBPSjllVjRQNVdSWndZZ1g4Z3FxUGR0bU5wME8xMDFpaXhYQ0V0cEtETG1HTjlnbDlKUkxfTVpnTm92VFlIa1M0eEdtaVlRQWFVaDhNeWQ1QTlob3BtOGhKZDhORnBfREFrZGJJQ215elRUOTFCTWFrWTl6QjNmeFNwd29Td0UwZXU1a0kxY0NBenl0WTFaQmd6bXdyV3NJVEpDYzh2aWt0NmxMbFVaRExFeU85X3l1Nm9DNEdtQw?oc=5",
@@ -212,6 +227,66 @@
       "corroboratedBy": 2
     },
     {
+      "title": "Cybercriminals Impersonate cPanel As AI Tools Sharpen Credential Phishing Attacks - www.techbusinessnews.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSC1ZcXBGRDdiX1ZqV2lUR3kybEk1ZGF3TmZFTy1jNjBRcjRNYS1mdXVWS2lrcEY4UnFBaW50VEdkdnlheDZSYzNuakNNVGxaTkZJRl94Vi1RaUh4REljVUVtS0lVOTNMNndndjFwN3BOZF9jc1YwTE90VkprMU5CdE9QSzhRc1VmR3VvdGlyWlJyUkQ2aTZ5NThRajhRRFZPdmVGNkpfVkZpMHpZNEtrN0xPLTV1NzBPNnhBSzN3djM?oc=5",
+      "snippet": "Cybercriminals Impersonate cPanel As AI Tools Sharpen Credential Phishing Attacks www.techbusinessnews.com.au",
+      "publishedAt": "2026-10-25T09:29:36.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NCCIA busts alleged child pornography ring involving father, young children - Hum News English",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzNYQnhpX1FaZU16WkRnN1RvOHVkWlZNeUhkWnd5YlotZjFSZDFWVERoMEZmLVBGek82TVAtall3NkZ0bFBtTzhtNGFpMUI1djh1MXJ3X2RjTTZfQlBHdkpDTkstdHpXWjFnNURPMThzdnZiV0h0c0RnTEFTUHNXa0RsTHlBVFNNc3Q5d0J4T3E0N2dLOVlnUDlBUk03bzFWelh3dzdob2k?oc=5",
+      "snippet": "NCCIA busts alleged child pornography ring involving father, young children Hum News English",
+      "publishedAt": "2026-10-25T09:13:07.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "IAF Wings Over Ganges Air Show In Varanasi, PM Modi Visit And Banarasi Weaving Boost - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUVZRbUJVSzNmMGxCZDZ1OGZUVjlhTk1vUVRlNHppRFhCTXBFS3lrNFc5Mi1TVjBEZl9zNGFaUWRGbTZ3cWNNR3pKZmpYRFRkLWxnTWMyUWRIY09EUktQVlFZLXEtZ2RMdEhOYTVCNlJ5NS1LMmtIdm00Xy1mem14LTF2ejZMMmtiQng1cl9vZkNDZ3pQb0dvZkFzWGFVOE9aLXJwRDR3Q1FVWU9wbG8wQy03cWJwSkZzeG1XcUkyT3YwYmpjdjZCdGtsX254SXlhdk5oUUV6WXkyZU5QVlHSAeMBQVVfeXFMUDRNMzFOMDlfaUMwWGd4bXFjM2Z2bHU1VGxJNGRiU2Fpc2VMU09aMm4zc3lORUtYSmhGUFFsTHJwbFpNc1J0WGwxcGlMcnIwS3RRcjRwUlZnMk04aWxlb1RMX2Mwam5JLWFTR3kyeU5xQVZHRERDUTgxTnVrbFItNW5FX19FbmFyUWc5d1g1d19rUkJ4M09oNWhDdVNqUUpnakRtRXk0T3FaNUFIcUxIcEpLVEpSM0Npcl9HWTZ3bnhkWTNzb0cwUmk5SGwxOE82bkRhcWNEMWNncFd3Ujd6dHpjbTA?oc=5",
+      "snippet": "IAF Wings Over Ganges Air Show In Varanasi, PM Modi Visit And Banarasi Weaving Boost - India Today India Today",
+      "publishedAt": "2026-10-25T05:13:08.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fort Kochi hate video: North Indian vlogger booked for riot intent, inciting communal disharmony - Onmanorama",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1N3TzFxSlhra0xqSmI4eFUxclFXbU1rTldYX0RxTWdOeXY4MVdjT3BLekkybDBlVnF6UXVabWVWVnN4LWp2b3FUMVlfYjIyeDlDVWZJVGFOeWhKSEJGbHFkREFBbGJ2aEZEQnV4VHg4X2JpeHUzS3JDMFhCUzdyZmhfWkY4TTZxb0c0Wk5yOHBrREFxY19obA?oc=5",
+      "snippet": "Fort Kochi hate video: North Indian vlogger booked for riot intent, inciting communal disharmony Onmanorama",
+      "publishedAt": "2026-10-25T04:19:21.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact check: Social media posts falsely claim Michelle Obama is pregnant, appeared in public with baby bump | Hindustan Times - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV1YzeVFNUVB0Qk45UGpEU1VuMUFGTnFBUHgySmVPNTdGN3M0NVZwYXItVU84ekQ2NEdZcXhRdUtFLU9fNVZ4MHQzWGgzdHFpb096R2ZTbk1IZnFUeFVuMTFINEVDUTNLQkJoeHRLN1cwNjkyTUlKY3FVWmJlbEpwcjgzcFFVcTFxMzl5a0c0akU2VWdtUUwzODBCa0FGYjJUSHRhTVFQS1ZkNDBrNkNSdzg3WFpTWGxtcEZJazBIYWpIa1J0QWRCS01ycW9HX3UwNHhPMUxaMlVuNGVuYkVTWXRvU3NOWEFJMDVrU3RDenRheTZQZjFmYmhDQjE2MmFOWVJIX19R0gGLAkFVX3lxTE5WRVdvUlJWT1ExTzN5VEFSTkFvYnZMeWYxaGFBRU81UUdGUkdaTzUzdjA2Vi1EY3JnZWdqamJpZ1NsSm9HSXdqcEtBNndsUU0wNWJSby1PU0VvTEZCVzlHVjFIdGx3YnRucnVheFpkSjM0OTE2aWstZGtocU1fNDJhVnlEd0hXVWZwUUdsbjV1OXJGZlhRazd0YXFsNmtpYW5pY1lLZTB3NGdkOFgzOVo5QU9rNjMtVUxjdDBTa084bmhka05SQzEtOGRHeThBMnpVZHpWa3h6cFVucVBwcTZ4XzJQNXBBWFZYcFM5NXFlT0pydUwtTDBDQTBGTzBqNXRJbG0tQUl5bm1nbw?oc=5",
       "snippet": "Fact check: Social media posts falsely claim Michelle Obama is pregnant, appeared in public with baby bump | Hindustan Times Hindustan Times",
@@ -222,6 +297,96 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Can a viral diabetes cure do more harm than good? Doctor warns how misleading claims about diets, supplements and natural remedies can prompt patients to stop medication, disrupt blood sugar control and risk serious complications - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQc3hYaVNpWm9wNEQ0ekEzUTBGUU8wclA2MmROcWgyeGZvNU1RMVUzbk1BOXRlQWV2eDFhUzVFRnFYNTU1VzNpdXFKZUk5cmRRajRvdlBXWVZuUThRMDNRZlNVbzVLSUZCeUZSdGZEZUROOFhOZ0p4aXBiWjdSanJQWjNucGNtQXh3dE9OX3UxZEduT2lYWlJrVXh4dkRWVkViWC1OMnB3QXFHeDVudXNITllIb002VEdhQ2YtZ05OTVItX0s4amZ6M1VVTEFRMV95b0I2TE9JLUhkM3ExdzluMDM5bTNxeGtHLTBhcVdyZDJqZU9GLW1tUk1aTmlwMEJGWVVTajFhYWcxbHozR0twNE0zc1UtVExPLVMxdFlaR3lTT0RuOWE0WFo3MFpXZlNjaW91YXNjcG9zbWNucTQwbFB6a1U0b09YRjc5UmJCWDF2Y2tJTDdYU0tKWDV0ZVNVdndoWnZFdlVLRG43Mmt3OHdYTWFoRU9USXRQdkZTWEFDNGZpX1BnNktoRHpYdkV4Nml2bFprNmtWSHFGQjNmaFlvZXM3UQ?oc=5",
+      "snippet": "Can a viral diabetes cure do more harm than good? Doctor warns how misleading claims about diets, supplements and natural remedies can prompt patients to stop medication, disrupt blood sugar control and risk serious complications The Times of India",
+      "publishedAt": "2026-10-25T11:08:00.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Europe Unrest Spreads: France Riots, 2,000 Arrests As Governments Face Cost-of-Living Anger - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFZnV3FGd01QekVFaC1ab3IxMGtGUTVpSTVfbV9qbWNQX0R6ZVdZOHFhRlByWXE1bTllbXo1RUtUT3YzYTFnQmU2cmotQlQzeUdHMmI3UjFLUXNYcEQ4eUZYMXFFTUxVNmE3eHFRcFVwU0VZdFRuNFYtaHc0djNSVFJyZkdpanl1OEFyR1BmWnI5ZmcweHAzYkozTk5PZkM2b2hmMEhrdzAxV3NuTHBuUUJmZ19GVWpzcF81M19lXzZVd9IBxwFBVV95cUxPWFZPTWloZVUyNzlQYXdFc0VUeVhZOEZwZE5WZ2xSZmxMSHBGUUllTU1uOVFzalg2MFh2X3VzNkNBVGdDcjlUd1FGbGJmd0QtanRuUC1KS3ViZFpwX18xSlNXNHJEY2FmM2JYb1A4WGJEZTk3MmU4ZmhvNk1tUElOVUdiN05EYVZ0bVpnbE5DYWQtT25DblF3WXFDakxOOUFWMmtCUTdfZW03dng4VDJwTXlOUHRDcFMteGZsdUNSM2wtUWtJc1Jj?oc=5",
+      "snippet": "Europe Unrest Spreads: France Riots, 2,000 Arrests As Governments Face Cost-of-Living Anger - India Today India Today",
+      "publishedAt": "2026-10-25T11:06:51.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ethical boundaries to detecting deepfakes: NCERT introduces 20-hour AI module for classes 9-12 - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORGdzZ2ota2E2a0FaVE1zOThhWHVyejJqRFNGSFJ5d2pZNTN2bl90YW5ESWNQVkxjTzFMREhnQ1FPSDVIb2xIRng4N3VBTkM2ZlVGVHhrTVZuaWx6U2NyUVNpMFpPUDJFMzlNakdycnRRM2M0WlFYSzFLZkliZWF3QnFWZG0xZXRqNEdna3Z1OTJVTUpHWEpyc0hfbERReWVHVkNidkN5SE1XaFpxWWdKYjNXSTlRaW1LTHNrOXJkbXJsUDl4RXpoWjBaZHVKU0tabzJFX2JPUWVPNTlDSTVYWlR5Qk9wdkpMc2fSAeoBQVVfeXFMTkRnc2dqLWthNmtBWlRNczk4YVh1cnoyakRTRkhSeXdqWTUzdm5fdGFuREljUFZMY08xTERIZ0NRT0g1SG9sSEZ4ODd1QU5DNmZVRlR4a01WbmlselNjclFTaTBaT1AyRTM5TWpHcnJ0UTNjNFpRWEsxS2ZJYmVhd0JxVmRtMWV0ajRHZ2t2dTkyVU1KR1hKcnNIX2xEUXllR1ZDYnZDeUhNV2hacVlnSmIzV0k5UWltS0xzazlyZG1ybFA5eEV6aFowWmR1SlNLWm8yRV9iT1FlTzU5Q0k1WFpUeUJPcHZKTHNn?oc=5",
+      "snippet": "Ethical boundaries to detecting deepfakes: NCERT introduces 20-hour AI module for classes 9-12 The New Indian Express",
+      "publishedAt": "2026-10-25T06:24:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge - Organized Crime and Corruption Reporting Project | OCCRP",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNakJUVnZxM3Qzc0h3NlNhNzh6UC1MX0d1RTRVUm5rb0pmVmF1OHpNZDdMU2VGc0hoaXhtRW9aMzZHcFdGRkROLWcxZUtSTUVWNHpRR0FOM2VWVzBxYWE2elhXd0FvU1luVHYwamwyMlp1aG85VEhxZk12N1FwRGpBakZFY3BNcllkNEpJY1pqZjV0dw?oc=5",
+      "snippet": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge Organized Crime and Corruption Reporting Project | OCCRP",
+      "publishedAt": "2026-10-25T04:24:19.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities - Organized Crime and Corruption Reporting Project | OCCRP",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlI0M29RengxM2xRNkdnQXAydWdIR2dhb1lQZldZUHg1Z1hTZnRoeGVyTDFJRHBpNXRQb2J2OTZ6WVByN1ZoZDc2dlRiRGhkN25Sb1NQOUFKM0xpY2xCbXBaNjBzN3RfZ3RuTXIyRlBFU3pwLVVoc2g4QXJKNUhIZE5fbWFNcnZveW5KWGhlUzZrcDBoUjUwag?oc=5",
+      "snippet": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities Organized Crime and Corruption Reporting Project | OCCRP",
+      "publishedAt": "2026-10-25T04:24:19.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NCERT’s new AI module for Classes 9-12 targets misinformation and data privacy - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMURxdXZrWUdFOEpRdGNVWWUtSy1wVHpkeEJaQVdRMzQzMk1UOXU0c3A1U0J2RDZuSHMyaFZjbGNHY1VWRmZMOWdjZ015RmhYd3hneEU1S3JVeE14dmFLemVjNk1yWmd1OUl3ZmZMZlNoTk5ITE5fZ3NwNHhoWllqd2lHY2drUXJjYlZ2bkFLMEVJZFlyODg2emlvcmZQaXlYMnA4MVY5Q27SAa8BQVVfeXFMT2hibi12cS1XN3R6cXEyZmwxZGNiR1dJaUNiYkx5MnhjVGVfR29EWHZtcHRKZm5JTW9Tb0EtNzZLV0JySWVBWXQ3bTZjS2lRUGRzQmxpUmhzckZKdFY5UTVzbzl2V0N5bkFnel8yck1hVjJuQ1pXSkJ1czlBc2FPbVJoa1M0eE8yTzYzRl9TNTUzX0RzYm1OdTBsRjVnX0ZSQmZ6a2ZKcUo1T3JvTDZYNA?oc=5",
+      "snippet": "NCERT’s new AI module for Classes 9-12 targets misinformation and data privacy The Indian Express",
+      "publishedAt": "2026-10-25T04:14:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -272,12 +437,72 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Police bust cybercrime syndicates over $2m online investment, romance scams - Businessday NG",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWtKMGVZUk5QNGtuWEZXempNR21iVFJYYVRtSlJteTRXSDYxZ1VZOV9jZlZwY3pueWduRjlJRWhwci1KNVBWR1hxam9xX1I3MHBhRy1oLV9DLTJOQVZoR1g2YlV1Q2IzT05ibDhsYUxsRFpHWm5HUmtWeUtnYjZsdDBTVFJVZU4xZ3ZXNDBwVmNERlpYeWFZckdYSkZ5NGc0ZThqbVRBTXNyODVWcm9F0gG0AUFVX3lxTE9YN3hFMlhfdGFBckpYbFRQSG1wS2FoX3JCRWxtNV9veTBVaFRPNUdrMUI1VWE2V24yYWFjeVNJWW1YLW8ySUFWR2VrUjE5TWJiSjIwRkxwSlNqVXpVV0dKNU04YW1uRkxUQTdpS19HcFBTQUo5YkdPc2V3QzBqU0s1aWhWLUg4V0JnY3lFTmdzeUg4UGNhd2ZCRXFtbEFCNGZHNUpzbHg5NTBhQVJlWlllakNvag?oc=5",
+      "snippet": "Police bust cybercrime syndicates over $2m online investment, romance scams Businessday NG",
+      "publishedAt": "2026-10-25T08:22:03.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Youth Meets Media, Delegates Unpack How Online Scam Operations Work and How to Counter Them - Kiripost",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1JIMXM5YkFsMkhIbWFRWUZnQ3RYdkZkN0NJS045UDRHYjdBb3R0ZUVBZGtZaVo3b2ZxMlVDVVNpWHR2eXBZUFBIS3EzdEVtSHdsanp0ZnBMNUJwMVp0YkdVcmFOVGtSX0RoeVBfNXRXR0dKTUVYMzNvN3BuVXdtR1hIdS1NTmRaZ3lxSk8tTGZqeVBkdjdEZFJSUHV2MEVSTF9GS3VVVmdBS0puLUJBUnpyUzZQMkpMSGQ4Yg?oc=5",
+      "snippet": "Youth Meets Media, Delegates Unpack How Online Scam Operations Work and How to Counter Them Kiripost",
+      "publishedAt": "2026-10-25T05:49:54.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vlogger ‘discovers’ Muslims and beef in Fort Kochi, makes communal remarks, gets booked - The News Minute",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0Q1dXVjR3VLSEFnSWd3S3VKZGNVNGljcUw0aHFRVS1jci1qaDVRSkg0WUJMR2luTWZkSlBYSnIwdU1nRElFbGVEUlhxYUU5VHlLcmZVSkpPQkxHWjAtRTdoNkJOWHpuMlRMS1ZBbzRvOTR5cGxXN21PQVVmMTJIck9RalAtbGtFSjk0ODVQQ01FZzVUd0xhbzhqQW1yTDNucmVnLWRhZURISlhPUjN2Qk45ekpWN3UwOVgtQdIBygFBVV95cUxOV0JpdUJtcUdEcElXMmNCRUdtS2ltTHROanlLOVh4REZVdzJZckNwcnN4UUp0TkthMDZJeDg2bmRzSk9HdG9fLVZLNU4tR0xfZXVnNGlpRktRMGhsd1FwOVVMRnFlRkUtVG1SRkhWeHdzX2dzMElNV05ndFpfLXlpSmpqVFFMSE9sVjVIeG1OY2hvU2ZmRjMzRE11OC1aaVFzLS1od3FGNVV5dGVERlNWd283elJzMWdidUFMd1Vnb0F5VDRXSHFaZ3ZB?oc=5",
+      "snippet": "Vlogger ‘discovers’ Muslims and beef in Fort Kochi, makes communal remarks, gets booked The News Minute",
+      "publishedAt": "2026-10-25T04:25:50.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Cafe Kashi, Jinnah and beef: Case against YouTuber over alleged communal remarks - India Today",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcEYwRm9vSW13NzdpRjRBa20yc0Z4bC1sdHV1RU5RSnlOc0VPeVB4Y1J0TUVULUplTzhnVEd0eWUzVEVXbnA0Szg0YmR1VFhRdnJic3F4ek9pT2JZcHZkZlhpRjFCa1BiUFZycm9PZDNnLVA0Q0dCLXJ6ekpDXzN2Q1ZRMWxkWHZxcDRMZU9kaGNLSENRZThaak9hTENxbnQ4ZG9qSnNNemlQMDBvMFFULXZySnZCSDhpdTI3WW9PejVWbGZIb1pjM2k3UUtXV03SAdQBQVVfeXFMUDM0NWVpUVpFTnA1Zi0xclA2T2I0bzRSanRKTUJHaHVtckZHSm1xX0xyNmlOc1N3OWVUck01a2lyT1JfV2JISlRjbHNRVzNHT2hZd3daNE1DdmY3OEtaVUVvTmhlT1VwLU9GcXpiUHJxM0JYZ0xnSm5BMm5LWDVzX0NLWDQ1UXZGQkxETlZrdzVJRy04Z3lycE9NVlZxc004N0Vob3BjUWVMU093QmUtOFVJQ1dVa1VvSUlNaGtwaG4xTFJvSVNYWlFFTWdQOUU3TEFSdFo?oc=5",
       "snippet": "Cafe Kashi, Jinnah and beef: Case against YouTuber over alleged communal remarks India Today",
       "publishedAt": "2026-10-25T03:23:04.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Noida: Police dismiss claims of communal violence, register case over misleading social media post - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUXJLUEo4cjJnTVVobjFCeDhoc3dkVnpzRVI1aF9nNnM4Qk1mTGZnc1RMNnZXRnFOb0sxMktQQWJrTUdjNVZzMkctQ0dlUTl3RnFzOVV5TjY0MGYzaTg3N3hkc2c0NDIxYUZTWmdJRTBFWk1lS0NwNkllRk5PRWgwUkFEWEFDNmkyaWl3UjFaWHlIMzBNdWNrNDZuYkhDaC1xVXd4SHEzZC1ONktSdG9KeFZlSHFKQS16RWRKLUQ4UFNBbFBvWVE4cGlsQlRsQlZTTVBFZGdWSXVfdDU0ck5RZWtpQ2VkbWVPWU10R3h6ZDhFMVFleE1nVXYxMWxQblE?oc=5",
+      "snippet": "Noida: Police dismiss claims of communal violence, register case over misleading social media post The Economic Times",
+      "publishedAt": "2026-10-25T02:22:09.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "violence",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",

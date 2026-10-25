@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:01:29.147Z",
+  "generatedAt": "2026-10-25T11:52:55.302Z",
   "snapshot": true,
   "date": "2026-10-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 9
+    "total": 13
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -186,6 +186,21 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazFCZkVBMWVCVnEwSlFsaHp5bDdDeUp5Ny03UGxidDMxMlR4bWtBRGpmbXNhNEg2T3dnM2ZNQzlnUHY5QkVXUlJPX25wNXhQUEJEM01UcURqZWhLMEVxU2wtYXY5YzR1ZHh5bTE3eXM3S0l3Z0VFWER5eFNEZlU0TzlMSmc0LUtWamFGTW1uOGprZUxp?oc=5",
       "snippet": "Indian Data Security Incidents Raise Cybersecurity Concerns The420.in",
       "publishedAt": "2026-10-24T08:47:39.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
+      "snippet": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-10-24T08:04:59.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -257,10 +272,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Reported cyberattack disrupts Arizona Empowerment Scholarship Account vendors - DysruptionHub",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CN3pEaVR4aVlpSW1RbEN2UklIRUdtMnFrNDRRSzloZVNxR1Z2REQ0aXU1dllkT3NlSi01RkxhNkpWdXNXNjdieEl0aHFjQ1FiZUY1YVZFQjJYSnlrWGtBV1dTbjNFMUNUNlc0X1FDTkR5Yk9QcEM4?oc=5",
+      "snippet": "Reported cyberattack disrupts Arizona Empowerment Scholarship Account vendors DysruptionHub",
+      "publishedAt": "2026-10-23T22:59:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Ottawa police suspending use of Crime Stoppers after report of cybersecurity breach - CTV News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVF5MTNaS2Y4aTc0WlEzbVc4ZkwtbzBsRDFlRWFpSnEwNlJrUXEwbkxXWnotbmQwdk04Yy16ZnJCak1FYXNaa0JncU1GOG5yQlRuWGNlb2hwM0RGdC1ONjE5LUwzTWRZMnZoLUFWTndiTGFBb3ZIYzU5LWpaajhMTHJvSkFlYWgzeElsSVdCdDd0S1N3VlFRdjJ4akJJM3VnQTFySkRtMl80dzUxa3RQX0pLSElURVQySk9YQnNURQ?oc=5",
       "snippet": "Ottawa police suspending use of Crime Stoppers after report of cybersecurity breach CTV News",
       "publishedAt": "2026-10-23T22:55:19.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Capcom Data Breach Exposes 11.7 Million Records: What Gamers Need to Know - eSecurity Planet",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTR1M2dfR1BYSS0tcmx1a0F4elUxb1c1ZTZjUVVQcjlTaVBFQklFNlBjNHNobnZXYWpCc1g1c3BTTUpMTVJ2Tk5UVFByNnhpVkJRdW01b1lqOFRwdUdqNTZxS2lnT2hrRF82aV9BU0R5US1tWks3by1pck84dWNURWRFSHZ5bFAwVnpR?oc=5",
+      "snippet": "Capcom Data Breach Exposes 11.7 Million Records: What Gamers Need to Know eSecurity Planet",
+      "publishedAt": "2026-10-23T22:42:38.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -296,6 +341,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Statement: Crime Stoppers Data Breach - North Bay Police Service",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWtXVEpVaXl4SXU1dHh5X05wZlc2RHRCaTVQck41czJnd2s2aUhUTUt1UUNpRGtEeEVjR2NqRXBzdUpvMllrd01mSjlVMXpueHFScnVVTXAwZm5QVE1SUXZKaENqei1uaDlidVRwSUp1SzZJd01pVDJUM21RNXlEVFRVTGRhaGc?oc=5",
+      "snippet": "Statement: Crime Stoppers Data Breach North Bay Police Service",
+      "publishedAt": "2026-10-23T21:22:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",

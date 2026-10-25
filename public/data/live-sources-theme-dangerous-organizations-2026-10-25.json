@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:01:29.147Z",
+  "generatedAt": "2026-10-25T11:52:55.302Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-10-25 on dangerous-organizations.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "IAF Wings Over Ganges Air Show In Varanasi, PM Modi Visit And Banarasi Weaving Boost - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUVZRbUJVSzNmMGxCZDZ1OGZUVjlhTk1vUVRlNHppRFhCTXBFS3lrNFc5Mi1TVjBEZl9zNGFaUWRGbTZ3cWNNR3pKZmpYRFRkLWxnTWMyUWRIY09EUktQVlFZLXEtZ2RMdEhOYTVCNlJ5NS1LMmtIdm00Xy1mem14LTF2ejZMMmtiQng1cl9vZkNDZ3pQb0dvZkFzWGFVOE9aLXJwRDR3Q1FVWU9wbG8wQy03cWJwSkZzeG1XcUkyT3YwYmpjdjZCdGtsX254SXlhdk5oUUV6WXkyZU5QVlHSAeMBQVVfeXFMUDRNMzFOMDlfaUMwWGd4bXFjM2Z2bHU1VGxJNGRiU2Fpc2VMU09aMm4zc3lORUtYSmhGUFFsTHJwbFpNc1J0WGwxcGlMcnIwS3RRcjRwUlZnMk04aWxlb1RMX2Mwam5JLWFTR3kyeU5xQVZHRERDUTgxTnVrbFItNW5FX19FbmFyUWc5d1g1d19rUkJ4M09oNWhDdVNqUUpnakRtRXk0T3FaNUFIcUxIcEpLVEpSM0Npcl9HWTZ3bnhkWTNzb0cwUmk5SGwxOE82bkRhcWNEMWNncFd3Ujd6dHpjbTA?oc=5",
+      "snippet": "IAF Wings Over Ganges Air Show In Varanasi, PM Modi Visit And Banarasi Weaving Boost - India Today India Today",
+      "publishedAt": "2026-10-25T05:13:08.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge - Organized Crime and Corruption Reporting Project | OCCRP",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNakJUVnZxM3Qzc0h3NlNhNzh6UC1MX0d1RTRVUm5rb0pmVmF1OHpNZDdMU2VGc0hoaXhtRW9aMzZHcFdGRkROLWcxZUtSTUVWNHpRR0FOM2VWVzBxYWE2elhXd0FvU1luVHYwamwyMlp1aG85VEhxZk12N1FwRGpBakZFY3BNcllkNEpJY1pqZjV0dw?oc=5",
+      "snippet": "Sri Lanka Records Zero Prosecutions Amid Online Scam Surge Organized Crime and Corruption Reporting Project | OCCRP",
+      "publishedAt": "2026-10-25T04:24:19.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities - Organized Crime and Corruption Reporting Project | OCCRP",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlI0M29RengxM2xRNkdnQXAydWdIR2dhb1lQZldZUHg1Z1hTZnRoeGVyTDFJRHBpNXRQb2J2OTZ6WVByN1ZoZDc2dlRiRGhkN25Sb1NQOUFKM0xpY2xCbXBaNjBzN3RfZ3RuTXIyRlBFU3pwLVVoc2g4QXJKNUhIZE5fbWFNcnZveW5KWGhlUzZrcDBoUjUwag?oc=5",
+      "snippet": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities Organized Crime and Corruption Reporting Project | OCCRP",
+      "publishedAt": "2026-10-25T04:24:19.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

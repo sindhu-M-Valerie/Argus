@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:01:29.147Z",
+  "generatedAt": "2026-10-25T11:52:55.302Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-10-25 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -58,14 +58,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Cybercriminals Impersonate cPanel As AI Tools Sharpen Credential Phishing Attacks - www.techbusinessnews.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSC1ZcXBGRDdiX1ZqV2lUR3kybEk1ZGF3TmZFTy1jNjBRcjRNYS1mdXVWS2lrcEY4UnFBaW50VEdkdnlheDZSYzNuakNNVGxaTkZJRl94Vi1RaUh4REljVUVtS0lVOTNMNndndjFwN3BOZF9jc1YwTE90VkprMU5CdE9QSzhRc1VmR3VvdGlyWlJyUkQ2aTZ5NThRajhRRFZPdmVGNkpfVkZpMHpZNEtrN0xPLTV1NzBPNnhBSzN3djM?oc=5",
+      "snippet": "Cybercriminals Impersonate cPanel As AI Tools Sharpen Credential Phishing Attacks www.techbusinessnews.com.au",
+      "publishedAt": "2026-10-25T09:29:36.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police bust cybercrime syndicates over $2m online investment, romance scams - Businessday NG",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWtKMGVZUk5QNGtuWEZXempNR21iVFJYYVRtSlJteTRXSDYxZ1VZOV9jZlZwY3pueWduRjlJRWhwci1KNVBWR1hxam9xX1I3MHBhRy1oLV9DLTJOQVZoR1g2YlV1Q2IzT05ibDhsYUxsRFpHWm5HUmtWeUtnYjZsdDBTVFJVZU4xZ3ZXNDBwVmNERlpYeWFZckdYSkZ5NGc0ZThqbVRBTXNyODVWcm9F0gG0AUFVX3lxTE9YN3hFMlhfdGFBckpYbFRQSG1wS2FoX3JCRWxtNV9veTBVaFRPNUdrMUI1VWE2V24yYWFjeVNJWW1YLW8ySUFWR2VrUjE5TWJiSjIwRkxwSlNqVXpVV0dKNU04YW1uRkxUQTdpS19HcFBTQUo5YkdPc2V3QzBqU0s1aWhWLUg4V0JnY3lFTmdzeUg4UGNhd2ZCRXFtbEFCNGZHNUpzbHg5NTBhQVJlWlllakNvag?oc=5",
+      "snippet": "Police bust cybercrime syndicates over $2m online investment, romance scams Businessday NG",
+      "publishedAt": "2026-10-25T08:22:03.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Youth Meets Media, Delegates Unpack How Online Scam Operations Work and How to Counter Them - Kiripost",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1JIMXM5YkFsMkhIbWFRWUZnQ3RYdkZkN0NJS045UDRHYjdBb3R0ZUVBZGtZaVo3b2ZxMlVDVVNpWHR2eXBZUFBIS3EzdEVtSHdsanp0ZnBMNUJwMVp0YkdVcmFOVGtSX0RoeVBfNXRXR0dKTUVYMzNvN3BuVXdtR1hIdS1NTmRaZ3lxSk8tTGZqeVBkdjdEZFJSUHV2MEVSTF9GS3VVVmdBS0puLUJBUnpyUzZQMkpMSGQ4Yg?oc=5",
+      "snippet": "Youth Meets Media, Delegates Unpack How Online Scam Operations Work and How to Counter Them Kiripost",
+      "publishedAt": "2026-10-25T05:49:54.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
