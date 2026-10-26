@@ -1,23 +1,125 @@
 {
-  "generatedAt": "2026-10-26T13:28:00.175Z",
+  "generatedAt": "2026-10-26T22:52:51.210Z",
   "windowDays": 7,
-  "endDate": "2026-10-26",
+  "endDate": "2026-10-27",
   "collectedDays": 7,
   "data": [
     {
+      "theme": "cybersecurity",
+      "label": "Cybersecurity",
+      "totalArticles": 120,
+      "distinctSources": 3,
+      "highRiskArticles": 0,
+      "trend": "Falling",
+      "changePercent": -67,
+      "reason": "Last 3 days averaged 8.0/day vs 24.0/day before.",
+      "daily": [
+        {
+          "date": "2026-10-21",
+          "count": 25
+        },
+        {
+          "date": "2026-10-22",
+          "count": 34
+        },
+        {
+          "date": "2026-10-23",
+          "count": 24
+        },
+        {
+          "date": "2026-10-24",
+          "count": 13
+        },
+        {
+          "date": "2026-10-25",
+          "count": 6
+        },
+        {
+          "date": "2026-10-26",
+          "count": 17
+        },
+        {
+          "date": "2026-10-27",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Railway Security Incident: Hackers May Have Accessed Customer Environment Variables - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FOGRoSnBzZGVicnRUVmNQd2ljRGJhSWwtM1Z3Z1BDQUhxVHRoYVV0QnBnV0hKTlJwdmhoQTBCRWdod2lPS2dZYnU4SGdRd3FFSEtyaVpWX01mWXRuLWZ2R0ZENjgtN0nSAWxBVV95cUxQaGliWXVTdnRTYXdQQ0QtUU13SXM3Y2tBYktnZUlzWkozR0p0N0dJX2JaaTE5R21UdjZOS3gwa2pSbU5ZTm16MVlrd0lvRFN4N19oTkx4NFJLNWl6eWttZ2RiXzhBUDZWZVJ0a1E?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-22T03:05:23.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude - Cybersecurity Insiders",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1I4N3BhVVBhdmdUX1EyMk51bkRySGgyRnR6XzVJOGwyNFJoQnhBUWl1QWhpSjhmTFYwYlQ4NjhDcDhYelduU29UU3NKdURaVjlMbEcyNHIwX09EU3ZLWFBXemJqNmwwVmJYbE4tY2FqRHotSGNJVlM5VnQzanhxV1Qza3Q0QWNyQVBBU3NTMFhVLWtYM2dwSE5QNGtMNkNZaEhfQ21XWHJXc0Y4dTBFc1VQZC1pZzhwZVI3WU1VWVV0ODZ6UmlEWTY3d1c?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-26T15:43:26.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Korean Air and Asiana Airlines Data Breach via Amadeus: Cybersecurity Incident Analysis and Third-Party Risks - Rescana",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVjlBRjNycVZpZlFHVFJIWGp0WDktQXcyY08zVXZzbGhXUTBGOGl1QTdQOW1PMW05WjZnOWViMFdGYTZsNzN1U05ETV9SMDhwcmpXaUlWWm5aRnBRWGx5VXNfaFEzUkdfbms3dWdhQ0JrMkhtNG1ORElPdlVjYlI2emotWEN6Qmo0b21qQXdBN3lqWVpvQVZBbVpaLTFFX0VTSExIQmRhNXV1RFo1RVE1cS1iY1Z4N2t6V3BzYWVEUTlKWmNQdm9pajJHdmNldWhHM0E4?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-26T06:31:32.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "How Sam Altman, ChatGPT and AI-Driven Cyberattacks are influencing the Stock Markets - Cybersecurity Insiders",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXRFWnZOaUtOOGdjaTFJYnM3ZWdxTjh5U3lpQll5dU9pc3c5bHlMZVpEQTlGZjVNb2hmcHU4OWFwdUpuYnJUVmtYVlVsYzNOV0piNnJ1ZmhkVEZ4RVlXTENUdmlCSmxyWndIMjMtUk1iby1MVzMzUjlESHYtSVBOMlBudXN4b1FjR2prQW5aOFpCYWZxZFh4WHh1QTdGLThiLVFDUFhsNW9fTG9jVVFxdXkyTTV1ODF6ZXpPV2ZST2g?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-26T05:32:24.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem - BW Businessworld",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhIOTNtYVpQQ2VZQ0RnRHhKWWxYRHN5YWd1bF9iMWgwN241Z2pGNEFxYWxIRTltUFRtUkpMNEJKcTIyamNCRDFTQ2EwejdaYklVTEFfZmw5TExPYnhZWlRZVE1Wb1dhb2hDLTF6SlVEYjJpdlQ2TnY3TE1SZ3ZpdEp3cVpweThKR2lhdU41dUcyVVpIbjZ1QldwNS1RWEI5ZXdNZnc3YklCaGZTYzlRbHVKVHpaejJQMG9ERWpHYmVoRk9qQ2N1UXBkMjlqanRwQUtxVndR?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-26T02:02:56.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking - The Hacker News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFFXYm02enI1TjBPck84cXZpOEl0WDlkdERoOThDcGRFajFPNjV1SFpSeUxNWXd5ajJuSmctSjVMb2FFeEZIV0VfWkNFVVpITUVQdV9xaVRfX1ZEN0FwSk1jWFh3dWRxTnpTYVRSa2dZRGQ0d2FGNDFaRDBwMmZhWnhGVQ?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-10-25T17:19:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Eversource Data Breach Lawsuit Filed After Hacker Claim - openclassactions.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblU5Vi1tanhZN2xfQ2xuOHVndlFtSGhEcno1N3E2TWFaV2w4dGpOVUZLTnM1LXNnRWl4NU9feFQ4UjVyRFNsd180NHRTUVJjNzYxcWRYaFpLaVE4ZDZFTkxGOE5YNjF3eWhKTm52Vzk3V09qWDNqaU5zVmlfUFFzcUpBWUhNMFJkdWdHdHpnM0lRYVJQcDR3YjlwQTluWTUx?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-25T16:00:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Retail Cybersecurity Statistics 2026 and Data Breach Trends - CloudSEK",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VZlR6RFE2eWxqOE15dnF4dWUwZmpNOHp3dWhQWnhQb3dUQU1lZWlRQlZGS0FjaXlQZDBUUmZkWHVUeGM3TThMQzRiY2JIVUZoSXhKdF85bWY4OGd2dzQ1MGM2MTRfbkk2QkZpbFVSREJzY0pZcEYtakFNcw?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-25T01:28:52.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 134,
+      "totalArticles": 113,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -41,
-      "reason": "Last 3 days averaged 13.7/day vs 23.3/day before.",
+      "changePercent": -56,
+      "reason": "Last 3 days averaged 9.3/day vs 21.3/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 26
-        },
         {
           "date": "2026-10-21",
           "count": 33
@@ -40,7 +142,11 @@
         },
         {
           "date": "2026-10-26",
-          "count": 15
+          "count": 18
+        },
+        {
+          "date": "2026-10-27",
+          "count": 2
         }
       ],
       "topArticles": [
@@ -111,125 +217,15 @@
       ]
     },
     {
-      "theme": "cybersecurity",
-      "label": "Cybersecurity",
-      "totalArticles": 131,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -60,
-      "reason": "Last 3 days averaged 10.0/day vs 25.3/day before.",
-      "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 18
-        },
-        {
-          "date": "2026-10-21",
-          "count": 25
-        },
-        {
-          "date": "2026-10-22",
-          "count": 34
-        },
-        {
-          "date": "2026-10-23",
-          "count": 24
-        },
-        {
-          "date": "2026-10-24",
-          "count": 13
-        },
-        {
-          "date": "2026-10-25",
-          "count": 6
-        },
-        {
-          "date": "2026-10-26",
-          "count": 11
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Railway Security Incident: Hackers May Have Accessed Customer Environment Variables - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FOGRoSnBzZGVicnRUVmNQd2ljRGJhSWwtM1Z3Z1BDQUhxVHRoYVV0QnBnV0hKTlJwdmhoQTBCRWdod2lPS2dZYnU4SGdRd3FFSEtyaVpWX01mWXRuLWZ2R0ZENjgtN0nSAWxBVV95cUxQaGliWXVTdnRTYXdQQ0QtUU13SXM3Y2tBYktnZUlzWkozR0p0N0dJX2JaaTE5R21UdjZOS3gwa2pSbU5ZTm16MVlrd0lvRFN4N19oTkx4NFJLNWl6eWttZ2RiXzhBUDZWZVJ0a1E?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-22T03:05:23.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Korean Air and Asiana Airlines Data Breach via Amadeus: Cybersecurity Incident Analysis and Third-Party Risks - Rescana",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVjlBRjNycVZpZlFHVFJIWGp0WDktQXcyY08zVXZzbGhXUTBGOGl1QTdQOW1PMW05WjZnOWViMFdGYTZsNzN1U05ETV9SMDhwcmpXaUlWWm5aRnBRWGx5VXNfaFEzUkdfbms3dWdhQ0JrMkhtNG1ORElPdlVjYlI2emotWEN6Qmo0b21qQXdBN3lqWVpvQVZBbVpaLTFFX0VTSExIQmRhNXV1RFo1RVE1cS1iY1Z4N2t6V3BzYWVEUTlKWmNQdm9pajJHdmNldWhHM0E4?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-26T06:31:32.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "How Sam Altman, ChatGPT and AI-Driven Cyberattacks are influencing the Stock Markets - Cybersecurity Insiders",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXRFWnZOaUtOOGdjaTFJYnM3ZWdxTjh5U3lpQll5dU9pc3c5bHlMZVpEQTlGZjVNb2hmcHU4OWFwdUpuYnJUVmtYVlVsYzNOV0piNnJ1ZmhkVEZ4RVlXTENUdmlCSmxyWndIMjMtUk1iby1MVzMzUjlESHYtSVBOMlBudXN4b1FjR2prQW5aOFpCYWZxZFh4WHh1QTdGLThiLVFDUFhsNW9fTG9jVVFxdXkyTTV1ODF6ZXpPV2ZST2g?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-26T05:32:24.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem - BW Businessworld",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhIOTNtYVpQQ2VZQ0RnRHhKWWxYRHN5YWd1bF9iMWgwN241Z2pGNEFxYWxIRTltUFRtUkpMNEJKcTIyamNCRDFTQ2EwejdaYklVTEFfZmw5TExPYnhZWlRZVE1Wb1dhb2hDLTF6SlVEYjJpdlQ2TnY3TE1SZ3ZpdEp3cVpweThKR2lhdU41dUcyVVpIbjZ1QldwNS1RWEI5ZXdNZnc3YklCaGZTYzlRbHVKVHpaejJQMG9ERWpHYmVoRk9qQ2N1UXBkMjlqanRwQUtxVndR?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-26T02:02:56.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking - The Hacker News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFFXYm02enI1TjBPck84cXZpOEl0WDlkdERoOThDcGRFajFPNjV1SFpSeUxNWXd5ajJuSmctSjVMb2FFeEZIV0VfWkNFVVpITUVQdV9xaVRfX1ZEN0FwSk1jWFh3dWRxTnpTYVRSa2dZRGQ0d2FGNDFaRDBwMmZhWnhGVQ?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-25T17:19:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Eversource Data Breach Lawsuit Filed After Hacker Claim - openclassactions.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblU5Vi1tanhZN2xfQ2xuOHVndlFtSGhEcno1N3E2TWFaV2w4dGpOVUZLTnM1LXNnRWl4NU9feFQ4UjVyRFNsd180NHRTUVJjNzYxcWRYaFpLaVE4ZDZFTkxGOE5YNjF3eWhKTm52Vzk3V09qWDNqaU5zVmlfUFFzcUpBWUhNMFJkdWdHdHpnM0lRYVJQcDR3YjlwQTluWTUx?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-25T16:00:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Retail Cybersecurity Statistics 2026 and Data Breach Trends - CloudSEK",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VZlR6RFE2eWxqOE15dnF4dWUwZmpNOHp3dWhQWnhQb3dUQU1lZWlRQlZGS0FjaXlQZDBUUmZkWHVUeGM3TThMQzRiY2JIVUZoSXhKdF85bWY4OGd2dzQ1MGM2MTRfbkk2QkZpbFVSREJzY0pZcEYtakFNcw?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-25T01:28:52.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-24T22:39:30.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 115,
-      "distinctSources": 5,
+      "totalArticles": 108,
+      "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 62,
-      "reason": "Last 3 days averaged 21.0/day vs 13.0/day before.",
+      "changePercent": 73,
+      "reason": "Last 3 days averaged 20.3/day vs 11.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 16
-        },
         {
           "date": "2026-10-21",
           "count": 7
@@ -252,7 +248,11 @@
         },
         {
           "date": "2026-10-26",
-          "count": 30
+          "count": 39
+        },
+        {
+          "date": "2026-10-27",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -325,17 +325,13 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 57,
+      "totalArticles": 53,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -57,
-      "reason": "Last 3 days averaged 4.7/day vs 10.8/day before.",
+      "changePercent": -73,
+      "reason": "Last 3 days averaged 3.0/day vs 11.0/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 5
-        },
         {
           "date": "2026-10-21",
           "count": 8
@@ -358,10 +354,22 @@
         },
         {
           "date": "2026-10-26",
-          "count": 4
+          "count": 5
+        },
+        {
+          "date": "2026-10-27",
+          "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "Layton man suspected of downloading, sharing child sexual abuse material through torrenting - ABC4 Utah",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkpoRkg2cWVNUFd0Mm1BamNFRVhZYkhpVFByTWtHSXJzYlpfaEVkVjlUNmZ1Rlp2eWlNR3loTC1rczJrM2FQbXo0NHZMdnRLaXo5TzdkMWR0R0lidlJQblFwWnZzMTV5Vk1xR1NFa1QxOVVmbkZLUlNoQ0RpSWVkUFNGaFJZclJuX2FOT0130gGTAUFVX3lxTE5ubUwwNGw3UjJ6WVJsOHRHZWlkUld5NzdnTm1yUEdOMk9RZFpqSXR5X2pvUXVOd2pncUxkSXlRcDRJU1RMdWt1dzRRYV8wanh2aWlDUi1SRTNKMGhTTmg5cWRTT24xRG4xTXhWRDVnSjgwYmFmYURaMW1ibkNldWE5MTA2Q2ZfR3lieHZCSUpoYmVqVQ?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-26T16:18:49.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "TOP LEGAL DEVELOPMENTS THIS WEEK [19-25 Oct, 2026] | Detecting child abuse material; rape charge against woman; RTI on PM's foreign visits; and more - SCC Online",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajhnNzQxZ3UtMnVrM0lUOGV1X3VYVHc0dnVnNnFzVUM1ek1tdFR6dmNsdXFiS21yUjJMdFBNd1hqV3ZBUEkxQ3JsQVUxRUpmSkFFR3lGQTluM0lRZldULVIwMHNfVFUyS0tUVklPbFRQOGVkeklVbFZSQ2RMUTAta3JFZnpWcWowV0N5LUxWeDAwQzc3RlU1Y01rQ3Nmd0Zo?oc=5",
@@ -417,31 +425,19 @@
           "publishedAt": "2026-10-23T12:58:24.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Over 51,000 child sexual abuse material reports linked to Ghana in 2025 – UNICEF - CitiNewsroom.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjI1U2VtaC1OVHl6UVpESTVab2JVaVE3ZjNReTBvYW5wZXVsblgzTGszZ3VsMXhwaHVfNUVIVU5rUzBVTWdTSUloSk4yTlhGZWhxczh1SHZBWVBNX3RFMlI4VnRmakd3UVhvdnZjYXd3dlNwNlUtZ281SzVYc1BHeDF1SUJIMjlJOTdNaXRReGx3bkNFWkxHVGhicHRuRGF5Ym4xbUNCZzNwblJfd1RfOHBtczRJQQ?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-23T12:11:31.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 48,
-      "distinctSources": 5,
+      "totalArticles": 42,
+      "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -45,
-      "reason": "Last 3 days averaged 4.7/day vs 8.5/day before.",
+      "changePercent": -73,
+      "reason": "Last 3 days averaged 2.3/day vs 8.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 7
-        },
         {
           "date": "2026-10-21",
           "count": 22
@@ -464,6 +460,10 @@
         },
         {
           "date": "2026-10-26",
+          "count": 1
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],
@@ -485,22 +485,6 @@
           "corroboratedBy": 1
         },
         {
-          "title": "'I couldn't stay silent': Miriam Mattova's fight against antisemitism after receiving death threats - www.israelhayom.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWZSQmFCb3o5aUF1OFJESVZEUUpDb1AxenVoUS1NR2p6SzFiSlQyYVhDRDNaLTc2RHhhLXQ4SGxxeHo2X2Y1RHc1Nnl3VUZLZElqc25zZGhFOWxNS21DTHoyR2lDLXNnLW9jdGRiZklQVlFMbnFLT2o1UjJ0LWRodkxqZklSdVVk?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-10-20T10:36:48.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "'I couldn't stay silent': Miriam Mattova's fight against antisemitism after receiving death threats - www.israelhayom.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUm5MQndfeWp4V0N6UTFfNklQeXlaamVqVHNfeW42TU1PTVZPT0w1bVhLS2JWWmNzWm04T2xBREJSYjJvTkNtbWswVHBFa0V5LVBZcThSamJXSE8xS2hxUzc0QXRONjBEd0ZQNXluWk5qRjFYR0NyNnR5QUFHZFZnOGpONVdVNy1m?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-10-20T10:36:48.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
           "title": "105 US Lawmakers Urge FBI Hate Crime Probe Into US Temple Mass Shooting Plot - شبكة تواصل الإخبارية",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUVnFvLURLd3dGVmJlYkhGeWl1S2Z3QThkV0NUbG1fVWwydGZob1pOQTlaanpwb1FQSGd4TzRhd1cwUFBWUWVHYWNmbnZyTFczRDlz?oc=5",
           "source": "Google News • Violent Speech (India)",
@@ -517,6 +501,14 @@
           "corroboratedBy": 2
         },
         {
+          "title": "Durban High Court: Duduzile Zuma-Sambudla Incitement Trial Resumes - Wansom AI",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEVYWnFtNGUwNlR5ak1EeFA2Y2poV0xSbnFGOUJhcXQyT3Q5QkhpZjFKLTVtSVUtX3dPWHNYakZGdVBQRmtRVGQzT3BoYjBMMTk1YTRyTmYxcnRjOGJnRUc4ZGtsRzFMMVB3SFFtamtDX1h2OHBjbFFsMEJGQWFfMDRiM0xIQ2NkOEE3LTNnM3FEVWZpeG44MXhUcFJaSVNxalpaeUZoLUlEc1VNVVlqR2N1a3daR1JwWWdMeHNIMEYyOWE1?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-10-26T09:37:20.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
           "title": "YouTuber’s communal remarks: Kerala BJP chief cautions CM Satheesan over ‘selective secularism’ - Social News XYZ",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdURzY0V1Qm5VQ1JJcThvU1BRMVRVZkh0b09WVEV2Sno5WkRjeVhlekRtaFg4OUtaRU5hSUZQSVdraXpma21pSG1LT1ZsTDVUd3FmZTlSUFFXSTVuS3ZBLXo0dUQzWFBobS0yR3dzSFU1dVlDalFvUG1zenU0SEFyYzlObEl1T1VQU2puMlRGenZxTHJTZXBOTVJ0eXd4MEpzSDF5ZlB5aHgxYVZNSGV3U182TURFZlBYX3ExU0pVVWZwa2t3WW1nWDB30gHKAUFVX3lxTE11RHNjRXVCblVDUklxOG9TUFExVFVmSHRvT1ZURXZKejlaRGN5WGV6RG1oWDg5S1pFTmFJRlBJV2tpemZrbWlIbUtPVmxMNVR3cWZlOVJQUVdJNW5LdkEtejR1RDNYUGhtLTJHd3NIVTV1WUNqUW9QbXN6dTRIQXJjOU5sSXVPVVBTam4yVEZ6dnFMclNlcE5NUnR5d3gwSnNIMXlmUHloeDFhVk1IZXdTXzZNREVmUFhfcTFTSlVVZnBra3dZbWdYMHc?oc=5",
           "source": "Google News • Misinformation (India)",
@@ -531,6 +523,14 @@
           "publishedAt": "2026-10-25T13:38:11.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
+        },
+        {
+          "title": "UP Vlogger Spreads Communal Hate Against Fort Kochi, Keralam, Gets Booked - Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS2R1MmFJNzNJUThkdkQ1VUo4UktjaHYzVWlEbU9fNWpMLUZ6NndHZDRVbXhfS2VwNjF5TThWWmx6b0tnbTFLc1hHdmNBaFBGYU1uTE5oV3ZnN1RnRW1Tb0pPN3FOaDZybTJOd2V5bm5OWXY5SHNiU3JkZkt6YXpWY0NFSVZkc2JTUFY3MlhWeTE2d2RDVFRWdEJ0enRnbng1VFpBc184aGpMNEozZG0tMEFzYm5qd2dRSHY2d0ZIWEd0Mm1rU1R3aHRRa1pfZVXSAdQBQVVfeXFMT0gtVTBzRlpoUTNETmRReWFPdWhSTEpYbGVDXzVqeVhFdGI0eUVXSWNrOGs5QkV6amRQUnkzampBdHdCczI0UlpiSF9wTGo2eEt1OERoR0dEU0JCdmZwWjUwTE5VWkVGMGlZbDNSREpRbzBKM1Y1Y1dPclNiR2xXUHdfcEZYQWx3Q3JYdkVIY1BUTk9xcFRxNlJibGFKUWM5WkZ4TEliWUVELVRZV2dHdzRpczdILUx0Mm80cUM5ZTgyd3JIQ3JTaWRWUkZVLW1qWHp1amM?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-25T07:27:19.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
         }
       ]
     },
@@ -541,13 +541,9 @@
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -72,
-      "reason": "Last 3 days averaged 1.3/day vs 4.8/day before.",
+      "changePercent": -100,
+      "reason": "Last 3 days averaged 0.0/day vs 5.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
         {
           "date": "2026-10-21",
           "count": 5
@@ -570,6 +566,10 @@
         },
         {
           "date": "2026-10-26",
+          "count": 0
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],
@@ -643,17 +643,13 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 22,
+      "totalArticles": 20,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -50,
-      "reason": "Last 3 days averaged 2.0/day vs 4.0/day before.",
+      "changePercent": -85,
+      "reason": "Last 3 days averaged 0.7/day vs 4.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 2
-        },
         {
           "date": "2026-10-21",
           "count": 1
@@ -677,6 +673,10 @@
         {
           "date": "2026-10-26",
           "count": 1
+        },
+        {
+          "date": "2026-10-27",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -749,17 +749,13 @@
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 15,
+      "totalArticles": 17,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 100,
-      "reason": "Last 3 days averaged 3.0/day vs 1.5/day before.",
+      "changePercent": 90,
+      "reason": "Last 3 days averaged 3.3/day vs 1.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
         {
           "date": "2026-10-21",
           "count": 3
@@ -782,6 +778,10 @@
         },
         {
           "date": "2026-10-26",
+          "count": 2
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],
@@ -827,26 +827,26 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Police Warn Commissioned Violence Has Links to Iceland - Iceland Review",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalZyNWpBX3ZYRmhBMHZJZWxMWWpyRkNZUllIdUZVekZMQ1d4cWd2LTZvZ3lsSnhZdWhEanBOSGVmYUdNX2hFTWh5TW95TTlESnRYektHQ2c0WDJWOTIzY2ZTNFFleDFXbEdFYlJkYjV1Z0ZjUTl3d1pzYllrcWdneHNOeG9RQlhKdVdJ?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-10-26T14:00:30.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Italy Arrests Alleged Mastermind of Online Network Behind Milan Riots - newsfire.gr",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHlRZVFhSUdaYnVmUGlpWVFDVUMxamRrd3FoSGh4TjczbXhpWEFHWXNIeEJVUWY3bmk2TldXN0djU2JsLTgxeXhjVGRmYm9zeE1TQ3RaNXZJMDFDYXU1MTRJQWJuTHZ5dGNndURxY3gxTE9LUWVjSzVYXzJ1NEFScHZuZmV3VU9zQV9TNHNjd2cxcjlMVXljWQ?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-10-26T11:08:40.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Breakthrough in Milan violence: \"17 October Movement\" founder detained, suspected links with pro-Russian hackers - www.wltv.it",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEd4OHFfeEJtbDJLT01pWVdMMnQ4WUpjZXFwT3M1XzFWOGlpN1hKU08wN0lBSFc1d1E5alhQNFJOc3oyU2NWcGEwQzUzNDBWYjctTThYUEJyT3ZPbzgxYmNNQ19CeVJiZFFzVzBybFpQQUdvaDNldFllcVpzSm9xYUdZck9TN2w2QjM1dWpwUml0SFlNRXRFY1pRa2c0XzZUUXBSQVg1RU0zbGZhNWs3NlluM1ItcC1mX01DcGt6Vl9SaDBxam9iS1ZnYl8?oc=5",
           "source": "Google News • Violence and Violent Crime",
           "publishedAt": "2026-10-25T16:19:19.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "128 arrested in Barcelona riots as Italy detains activist who praised Hamas' October 7 massacre - Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUVNoYTB2cTlJODNELU4tTTdfZC15VUtNUU9NVERwbUVTOVN1UUpqNVB5NFptTVdJcXUtLUdqRzdDY0J5Yld6dHpKZnVDU0VpbFk5V1Nn?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-10-25T15:51:08.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Arunachal CM pushes for dialogue as Siang dam opposition intensifies after Pasighat violence - India Today NE",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSDlyWG9fVjNCN3pWRHVzcDJnY2FwM1Exd2hGUVFkUWJMYkp4MXlUQmVQcmxEQUlLWUJYaGFScExaSkhaT3RJaVBSVVhZNkRfdlFvNEJ2b0pIVEt4b0FkeGVLczNEX3JSUUZiZThIMm1McnRtMTRLc0hqNlFaX0hBYUp0TkFaN3l6OWVsenRKckRqN2VQbjJnTUJzX21uZDJWYWxMWXFiazQydWU1YzF1VmxHTk5kOU9Zbk10bndFLWVqMFJYYnBsUFhEdnBEM0U2SXhrWnp6dnpxUldmdl9ZT1gtTXUtRGplbENkeUlMY1dLU1FPRzFtVUJWONIB-wFBVV95cUxOSDlyWG9fVjNCN3pWRHVzcDJnY2FwM1Exd2hGUVFkUWJMYkp4MXlUQmVQcmxEQUlLWUJYaGFScExaSkhaT3RJaVBSVVhZNkRfdlFvNEJ2b0pIVEt4b0FkeGVLczNEX3JSUUZiZThIMm1McnRtMTRLc0hqNlFaX0hBYUp0TkFaN3l6OWVsenRKckRqN2VQbjJnTUJzX21uZDJWYWxMWXFiazQydWU1YzF1VmxHTk5kOU9Zbk10bndFLWVqMFJYYnBsUFhEdnBEM0U2SXhrWnp6dnpxUldmdl9ZT1gtTXUtRGplbENkeUlMY1dLU1FPRzFtVUJWOA?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-10-25T15:29:41.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
@@ -855,17 +855,13 @@
     {
       "theme": "dangerous-organizations",
       "label": "Criminal & Dangerous Organizations",
-      "totalArticles": 11,
+      "totalArticles": 9,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 11,
-      "reason": "Last 3 days averaged 1.7/day vs 1.5/day before.",
+      "trend": "Rising",
+      "changePercent": 167,
+      "reason": "Last 3 days averaged 2.0/day vs 0.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 3
-        },
         {
           "date": "2026-10-21",
           "count": 2
@@ -888,6 +884,10 @@
         },
         {
           "date": "2026-10-26",
+          "count": 1
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],
@@ -917,27 +917,11 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Tiger Shroff shooting: How Lawrence Bishnoi gang runs its network from jail - India Today - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGV0bDByMkYzb2tIejJIeEdjVE1qbXFQVUFYZ3NJa3h5aVgwbnJGM0VadmV6VnM0aG1JMkN2MGgyRmtKdFFuUjdWTExGd0dLRnotVFJRcHB0cnhyY3g0OGp6ZnFPWFZ6dUNlQWE5emRWM1VmQVdoLUduVnVDNU5BT1k2ZUFPdjRuN1daVFoxVFVMUldRcGRuLXkwMGFtMV9JVFhvc2pJbU4tVE93NlZhVzR6dGtod1NiNFBjcTFNSlBKTjRXWmliajJGejRDcDFHUjFqdW1JZ19GUXhYeXfSAeMBQVVfeXFMT1RPbG1RYlFOWXhqaG00cFZLSG14N1dUSWlZUmlTa1VaY051V2ZybkFGVDVCNnVET0MwSXgtdnE2UnByTnhBUnhZZXB4eUNkeElNN1NldHgwcVJveWNTRkNpc2JXaG1oQzNpZ0N5TTVOR3hjeVlITTUyZVRWNFpvRFF6bE0wTHpNOXM2NWY3SDFOR0xGSHhCdnRJdGVtcDEtYTJWNjVXLTdmanZDT0p3NXI0ei1KbW5DaUtXRWw2YnRUVkxsblMxUlNkcTZiNG1qZ2d5T3JlelZqU2xyTnBObWhtZTQ?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-20T17:46:31.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Mann Slams Shah Over Kandla Port Drugs, BSF Border Checks and Haryana Gangsters - India Today - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVXRVWTIxSG1SZzhielpXZVhsMW9OMTlpUExnNFNHU1dHVGprcnlydnMtV3lBZmtOcDctMDVjRHd0d05qZHhwbl9iMmtQNTQ0NEx4YUJsdmpaS3BLWnJpUmI1Nl9RUGh5eFZUYTFSUmJycDBield1NFRqUnNLZWY5NzRNbGRTM3FjblJqdVhYYzhySTdscjZVdFJVeGtyZjBvWl81QWZtZUtxQzA4VS1GMHgyamF3NndzVHpLRFo2ckFmQTZJT0x0NncxNHRMTHo2RnFGVmQtY9IB3AFBVV95cUxPa0NKT2pKLVdoLW52WTNsbTgyNkVfYTd1Y05OYmN5OFZpRXdQUjdCQW5rSHZUbE14MU03cXB6UVlXQ3FwTEViRkd3ZERWTkpESWFPZ1RmU0JIRXFZTXRCOWNKX1pqcFNadjV0Zk43TTZSV3hHbzRnbWZiRU9BR0xpVGMtZ19RX05KWU0yMWlDVWRmamJfY2hSSE1Ka1dETzZmeHE5LXV5UWlJN21yNEtDWVE1ZmJ6Nlljank4VkRKdHVZUmprSFZVZ0RTNHRCNENzY0hYSTVISjlDUTlU?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-20T12:09:11.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "India News | Namami Gange Launches Cleanliness Drive at Ramghat on Vijayadashami - LatestLY",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb0JUUzJ3VmtDY05FNzNmd19UcWd0d0x4LVV2d3BJM1hyWHBfNGg2QnF4ZVhDSWdBc1hONWdkUWl2WTN3b0ljMVF0OU13S3hGOW5CN1hFdk1od2wtcTlzQXMwTW5LcHF0c3BUSWhFQk9WR3pOcFN4S0dwWHd6ZjVuS1JiUXREdUJTNklTRk9KbnI2eEprc200OG9QTlpfTnpNdTBQajVkMXdkNTdORTlQNXFkeW9HSXBzOUY3VUZLLTBvWFJwT0lYUkROcm7SAcwBQVVfeXFMTW9CVFMyd1ZrQ2NORTczZndfVHFndHdMeC1VdndwSTNYclhwXzRoNkJxeGVYQ0lnQXNYTjVnZFFpdlkzd29JYzFRdDlNd0t4RjluQjdYRXZNaHdsLXE5c0FzME1uS3BxdHNwVEloRUJPVkd6TnBTeEtHcFh3emY1bktSYlF0RHVCUzZJU0ZPSm5yNnhKa3NtNDhvUE5aX056TXUwUGo1ZDF3ZDU3TkU5UDVxZHlvR0lwczlGN1VGSy0wb1hScE9JWFJETnJu?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-20T07:16:22.000Z",
-          "riskScore": 52,
+          "title": "Two sent to jail over gang rape - The Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjlZaF9CcE1HVTJQNVJXdEcwdlpNam9lM0Jsa3kwc3ItN3RGMldXOWdXWTdKeTAxdDctanFxSVQ4Ym5vRVFHNlRqTXQ5cFdHc3EzRHN4b0N1b1ZEdmRKUXhsdnBramY4c0tYeWwwTlFXU3BmSWFCOGE3ZXRFRXJLekp1WlB1ZTI1R0F2dWE4UzluLWM?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-10-26T15:50:03.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
@@ -955,6 +939,22 @@
           "publishedAt": "2026-10-25T04:24:19.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
+        },
+        {
+          "title": "Chinese Scam Boss Murdered in Sri Lanka Had Multiple Identities - Organized Crime and Corruption Reporting Project | OCCRP",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlI0M29RengxM2xRNkdnQXAydWdIR2dhb1lQZldZUHg1Z1hTZnRoeGVyTDFJRHBpNXRQb2J2OTZ6WVByN1ZoZDc2dlRiRGhkN25Sb1NQOUFKM0xpY2xCbXBaNjBzN3RfZ3RuTXIyRlBFU3pwLVVoc2g4QXJKNUhIZE5fbWFNcnZveW5KWGhlUzZrcDBoUjUwag?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-25T04:24:19.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Implications of Ecuador’s war against organized crime - GIS Reports",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRNmJiMW5UUHo5ejV6QlQ0WE5yUkpFVmtxSFRaNjZ2Wno4U1NiUGtoT29QWUpoUjdkSVZBc3E5MkEtZklWcVV3bmpuckk0NFRXWDVxVjFxODBrenVOYkFMdGxaZjZvN0w4bkdxRHhvemVVc1JKWEViMVNtQQ?oc=5",
+          "source": "Google News • Dangerous Criminal Organizations",
+          "publishedAt": "2026-10-22T06:00:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
         }
       ]
     },
@@ -964,14 +964,10 @@
       "totalArticles": 7,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 0,
-      "reason": "Last 3 days averaged 1.0/day vs 1.0/day before.",
+      "trend": "Falling",
+      "changePercent": -47,
+      "reason": "Last 3 days averaged 0.7/day vs 1.3/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 1
-        },
         {
           "date": "2026-10-21",
           "count": 1
@@ -994,7 +990,11 @@
         },
         {
           "date": "2026-10-26",
-          "count": 1
+          "count": 2
+        },
+        {
+          "date": "2026-10-27",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -1007,11 +1007,11 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Influencer with 1.3 million followers dies by suicide in Chennai; father alleges cyberbullying - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbUNYR3hEMU5YU3JxM1FXSmczbEQ3T0kyYS01cUZyTzl3UVg1Y3hzODdCcl90NnVzXzZ4ZldEelU4V2x4Wm5hWU5DU3VJT1lTemhLLWRpZzg2Vkh2ZnY5UUhMVmZkOWdRbm1iQzFWQlk4UmZmY081NHBLdTdtaHBPMWFCRGVNRkVVMTREMDZjSUhkeTJuOGJpVFF3eVZnTFpncjd0WjMxRjJycGhCcUlVQ3V0aVd6b1QxWVpiR0d6VHBmWWN1Zk9nZ1FoRWJaOXUxN0p4UEZ3YULSAd4BQVVfeXFMT2xwUzVTTXF5X2g1dXpqTkg5dEZfOTlzMXY5Z0FVMlBtU0E0RjlleWlLdUV6X19MVjZYNnlUUWtkR1IwQzdXbzROREZ0c2tNcTBUVzVKV0EzbE1WUnV6QlB1WU9ONWZHMTB4QVJzVnFlWDVMa0hCSlZqQlZHWW9lcWFmWWNReE9yQ1R3YlhZYVFQV2ZUVnZJbmhKMzZoNUwwMzM0Ry1uVi1fTnFjSTQxUWp5U1d2d2p1UU51ME52OFphVVBSemFOOHFSNFR0MndWY255Q3NrOGszUmxEZ25n?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-10-20T17:28:00.000Z",
-          "riskScore": 48,
+          "title": "Vijay Deverakonda, Rashmika Mandanna's team takes legal route over alleged online harassment - India TV News",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVzRJZk5WcHkzV01VMlF4MzFoZnUyNUFNWk45QXRaOHpQb1VESkQzYjNWRjBlQmF1b2YtamxzZy1PWmZZUXdNdEpKMjN2RWw3cXBOZmZ2dXZQVG1NYkNNcHdLQ0FkemV0SGpKZlpZeUVhTGVWT0F6bTBDYlpiQTBjSFZqa2lGV3pFMEVlTmdDRkY3WUtSTUxRUUlQYl9Ob0FyWTBKWWdrUGdKTlN5OUQtQVZxNGxQOU00a3JxY3FRVmlfbmxQYmF0R2lSTnNZWFJ0MDZaUWRjemdKOHlITTF2TXlsV052am5FM0hMXzEyU25weVA4N0FtcmdRLXdhcUUxWmdVSFUtcl9mLTZq0gGMAkFVX3lxTE5XNElmTlZweTNXTVUyUXgzMWhmdTI1QU1aTjlBdFo4elBvVURKRDNiM1ZGMGVCYXVvZi1qbHNnLU9aZllRd010SkoyM3ZFbDdxcE5mZnZ1dlBUbU1iQ01wd0tDQWR6ZXRIakpmWll5RWFMZVZPQXptMENiWmJBMGNIVmpraUZXekUwRWVOZ0NGRjdZS1JNTFFRSVBiX05vQXJZMEpZZ2tQZ0pOU3k5RC1BVnE0bFA5TTRrcnFjcVFWaV9ubFBiYXRHaVJOc1lYUnQwNlpRZGN6Z0o4eUhNMXZNeWxXTnZqbkUzSExfMTJTbnB5UDg3QW1yZ1Etd2FxRTFaZ1VIVS1yX2YtNmo?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-26T14:23:42.000Z",
+          "riskScore": 40,
           "corroboratedBy": 1
         },
         {
@@ -1057,117 +1057,15 @@
       ]
     },
     {
-      "theme": "human-trafficking",
-      "label": "Human Trafficking",
-      "totalArticles": 7,
-      "distinctSources": 3,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -78,
-      "reason": "Last 3 days averaged 0.3/day vs 1.5/day before.",
-      "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 4
-        },
-        {
-          "date": "2026-10-21",
-          "count": 1
-        },
-        {
-          "date": "2026-10-22",
-          "count": 0
-        },
-        {
-          "date": "2026-10-23",
-          "count": 1
-        },
-        {
-          "date": "2026-10-24",
-          "count": 0
-        },
-        {
-          "date": "2026-10-25",
-          "count": 0
-        },
-        {
-          "date": "2026-10-26",
-          "count": 1
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Human trafficking is not just something you see in a film, says survivor - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3MmZhdUJWZ1lNSDV1emFQMnFUVGdkS0tWSVZYTmxycXdFYTRsbE9fTlB3S3JNUV91SGRGYnFYUnNfZGk4THVkOVh4UjhZbkxGU2VrMXYxVDdqX1pOVEE?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-20T17:04:48.000Z",
-          "riskScore": 59,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Human trafficking is not just something you see in a film, says survivor - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MTlFkcmV3V0FPVU5VZEdONzhfaHhjdDRSQTJoMmFqb2dUSDUxUW1NUnlySTlIV044WDBMb3RzRVNYRzdhQnllakV2V1BkaVU3dmwtNFZvdlBpUm8?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-20T16:52:38.000Z",
-          "riskScore": 59,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Govt pursuing zero tolerance against human trafficking, organised crime: Home Minister - The Financial Express",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUk2MVpwcks2SFEtaFpSU1M5UXFZMFdDM2pGNlNWNHdGdFNjV3VvbHhBT25UOFlmUjhmbXBTWXA2NTVncG93RnJpSHNfSWpyQnZZekFHWkhKVl9OMXozMmt2SlliLUdNY0dja2xKUHVzZ0QwT1hBaDlqSDFIVm1meUVlZ3lLMzA4enhKN29jcmFGckkxWVZHdXliWW1mNDhkQkJDV09ickRwRk02amczQVdBRDBpYVB6c0sycGE2TGdHNi1aMFpR?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-26T11:56:08.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Sanctioned Investor in Cambodian Scam Compound Owns California Mansion - Organized Crime and Corruption Reporting Project | OCCRP",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU19JbnpqaWNvend4akNGT2ZLS19FeGkyY2c2UjQzUnJxd0pKVnBnN2hwSmFCb3hRdnlKcjNXMjJVbkFTTURIWExLb3pWSENCVVBWUURkcGZ6UE1nOXJCTkxtVkl2dTJ0U2o4b0Y4YTRidzEtV0JkOHNGVk45RTA0QVZoZHI1dWNDWWRZZXdpY05SOUpic1pUbVBKaUpyQ0xyb3c?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-23T12:21:28.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Kosovo’s Ministry of Internal Affairs reaffirms commitment to preventing and combating human trafficking - KosovaPress",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTM0U0EwQnkzOF9zMlBSbVRfVDZmV0daZDZycVVQdWFmVk9rc3J6eEY4N3J6dFFPcEs3R2VCTlBPeVJ3cWRLV1VCWm56MHBEMjFSN0xzbFREVkw4czRfa2pDRmh5Znp3NDZOdGY1ZWpFWDcwdVFid01ZbVRuQmdJNkg2aE12aUNPR09GM1hiRUdlblVScVJWakpqZlVHZWlTUVhvR1l2c3JuRGRtM2Y4X2tKNzJaMHRDLXZWWnY1NlF3azltVkprb0kxVmJBZ0lGUkZFTQ?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-10-21T13:08:21.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "State Department: Kosovo fails to meet minimum standards in key areas of fight against human trafficking - Kosovo Online",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVZLQldrdEdWT1BIYTdTeEtEUFFjMHRBQk5ZS253M1ZvRjdGbDJIank5dV82S1pNZC1FZkNkUTNHMjVxaF9wSGp6M29ObF90WGc0XzZ0UlQySUxKdXRfQ1VEX0ozY1VQcVBwZDVOZkNUOEFXVGVwT2FYV1pWVHZ5cHVldEk2ZDVIeHk5dE8zbWVsZVBSdVotMElqWVZMTE9lZEdzRzVBRU5BV0t4emt1bXNJcXFqUmF1Y2w4cmVGWUkzbTdZdEk3Vw?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-10-20T17:48:45.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Pimping websites: Human trafficking 'hidden in plain sight' online - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZ0Q0cE9hS3JJTVdOWHpVQTRVTWIzWVlyNzYta29jWkJZNy1hUU85WTAwU1VjemVhSVV2bk1Gb2huYVRJbHltSVZ5N20tWUdwbkFKTXNkTEtaQko4?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-19T23:05:38.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "illegal-goods",
       "label": "Illegal Goods",
       "totalArticles": 5,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -67,
-      "reason": "Last 3 days averaged 0.3/day vs 1.0/day before.",
+      "changePercent": -100,
+      "reason": "Last 3 days averaged 0.0/day vs 1.3/day before.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
         {
           "date": "2026-10-21",
           "count": 0
@@ -1190,6 +1088,10 @@
         },
         {
           "date": "2026-10-26",
+          "count": 0
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],
@@ -1247,10 +1149,6 @@
       "reason": "3 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-20",
-          "count": 0
-        },
-        {
           "date": "2026-10-21",
           "count": 1
         },
@@ -1272,6 +1170,10 @@
         },
         {
           "date": "2026-10-26",
+          "count": 0
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],
@@ -1303,80 +1205,18 @@
       ]
     },
     {
-      "theme": "malware",
-      "label": "Malware",
-      "totalArticles": 2,
-      "distinctSources": 1,
-      "highRiskArticles": 0,
-      "trend": "Low volume",
-      "changePercent": null,
-      "reason": "2 articles in 7 collected days.",
-      "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 1
-        },
-        {
-          "date": "2026-10-21",
-          "count": 0
-        },
-        {
-          "date": "2026-10-22",
-          "count": 0
-        },
-        {
-          "date": "2026-10-23",
-          "count": 1
-        },
-        {
-          "date": "2026-10-24",
-          "count": 0
-        },
-        {
-          "date": "2026-10-25",
-          "count": 0
-        },
-        {
-          "date": "2026-10-26",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Hackers Turn Low-Cost Android Phones Into Hidden Proxy Botnets Through Preinstalled Malware - GBHackers News",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLMWVmR1FxbFc1d3phX3ZZSThPRXB4dmJhUjNPODlycnRtRXlrY1Z6UUJIazZrenhBQkdBeHozR3RmRTZzLVhYWWVjMVJEdlYzdVNmb0hJcTNkdUVNcVHSAWNBVV95cUxOOFZGY2E0dFNGdmo3QVRDSGJSeGhXRi1Ba2VRZGVwOFVhSXVldWg3R3A4S2ZlUWY0amkwVC1hUE1xSjc3dGNRdUZfTklwX3RmRWJEU3JzcWpmRkxDQXVNTWdyNjA?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-20T11:04:26.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "12 Malware Analysis Tools: The 2026 Buyer’s Verdict Guide - GBHackers News",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmWUlxZmpBX2lVVXZZVUE1UjZOR3V5eDJ0U1B0YXJYcUhnX0VTQUZWaW1RdW1VTlhOcVB1dmlBVkU0RWZpVkg0QUIteEZ5dUFNR21yOXJoN0ZXdU9IcC1YNnNzdlBmTXFlb3fSAW9BVV95cUxNX3ZKNk9hcWUtYWpHaUhSWDFQOTE1QndyTm1QcElNX2JCbWR5WTd4RGdlbTBycVAyOWhnc1l2ZUZzT2hwbFc4N1BhQXk3M3EyX3ZTcGhETGFmdGJlZDZyd2JfNklrUFN6am5uLWJZRjg?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-23T08:18:28.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "ncii",
-      "label": "Non-Consensual Intimate Imagery",
-      "totalArticles": 2,
+      "theme": "human-trafficking",
+      "label": "Human Trafficking",
+      "totalArticles": 3,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "2 articles in 7 collected days.",
+      "reason": "3 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-20",
-          "count": 2
-        },
-        {
           "date": "2026-10-21",
-          "count": 0
+          "count": 1
         },
         {
           "date": "2026-10-22",
@@ -1384,7 +1224,7 @@
         },
         {
           "date": "2026-10-23",
-          "count": 0
+          "count": 1
         },
         {
           "date": "2026-10-24",
@@ -1396,23 +1236,35 @@
         },
         {
           "date": "2026-10-26",
+          "count": 1
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],
       "topArticles": [
         {
-          "title": "Huge number of nudify apps in Aussie hands - News.com.au",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOVnFDTE9OdVFueUlBUEZCYk96aFdJTWVKcXltZXBfRE03UGFuSnJYZS10aXJkN1otRXlaYU9ySkNiWmdPM2tzLVBZRVo2d2Jvc3VCNHhjQWh6UnNwNlJfaWtiS3ZCVkowdFF5WlZlOC1EY2FIeHhQbVQ1dnJ5WWFPa3FXUXBSaS1hT3RMcEZGVTQxNEtFaTM2em14SHVleHpPM3JmNjBxTzYyZy1qRlljcU1XYnZjMGxLM2FpX3h6OE83bnBvWWNYT19pT1JfcFVxcnoyU0ZVb1pLS3hOUHFIUXhDOFU5UThiaXJESUY0MWFrWEF4ZUp3czlxSDVCdDl0SjhtaTZ0SkFKU3JiYnBLLTlkaG1RSkhYTmxYeFh5bnFOcEpPYTBiN1Z4WUVOYWRiM19kdG9n0gG7AkFVX3lxTE9xeW5zWGY4WDYwSURreXFHT19uNGxlRXNicVFDM04xX2lxR2FLYnJUbXh6SDBNYnZFMElWaGVMVXcwZHpEck44amdiOTlaYjdycGw4bHhkdjJjOTcyNTg5NDI5LWJERnNCS0pNTGRsNC1FQ0hDYXZIQWlIa29JZC0wOXA5NHRiXzhWbjdLY0gxSEZ1N25oR3ljUHRxVGU4d3d4WENhQm4yQXNmQm1qOWkzY3VvT2ZWT0UtVGFwdGgtWlBTTlN3VUxYUGVhMGd5NWQwTWxzbU4zb1JHcjcyZUg3Y0dMQlYzTk5uNHZ2M3RYZU1SdXFod2dvUHZOemc3TXZ0QklReVdjMXF0elZkVjZia2lpcXgzVzVkd2VpS0ZwMlBSTkFvdDJONGpDQ1k4djFtMUtBY2VYdVllbw?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-20T03:56:59.000Z",
+          "title": "Govt pursuing zero tolerance against human trafficking, organised crime: Home Minister - The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUk2MVpwcks2SFEtaFpSU1M5UXFZMFdDM2pGNlNWNHdGdFNjV3VvbHhBT25UOFlmUjhmbXBTWXA2NTVncG93RnJpSHNfSWpyQnZZekFHWkhKVl9OMXozMmt2SlliLUdNY0dja2xKUHVzZ0QwT1hBaDlqSDFIVm1meUVlZ3lLMzA4enhKN29jcmFGckkxWVZHdXliWW1mNDhkQkJDV09ickRwRk02amczQVdBRDBpYVB6c0sycGE2TGdHNi1aMFpR?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-26T11:56:08.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         },
         {
-          "title": "Huge number of nudify apps in Aussie hands - Yahoo News Australia",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0bURkRG9pZExjU2htWkJyUXdPOHNUNng3dUFDbTl4SlhabTUyaFNISEhqd1hMR0Q0b2tOYjg2T1NVZVNDaEhfMjUwTHZKeXUyZWhzR1B0bTNjTzdfUkNZVklDajN6LWRwWHNabktsZUtMazBVdHM0X09vZw?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-20T02:32:00.000Z",
+          "title": "Sanctioned Investor in Cambodian Scam Compound Owns California Mansion - Organized Crime and Corruption Reporting Project | OCCRP",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU19JbnpqaWNvend4akNGT2ZLS19FeGkyY2c2UjQzUnJxd0pKVnBnN2hwSmFCb3hRdnlKcjNXMjJVbkFTTURIWExLb3pWSENCVVBWUURkcGZ6UE1nOXJCTkxtVkl2dTJ0U2o4b0Y4YTRidzEtV0JkOHNGVk45RTA0QVZoZHI1dWNDWWRZZXdpY05SOUpic1pUbVBKaUpyQ0xyb3c?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-23T12:21:28.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Kosovo’s Ministry of Internal Affairs reaffirms commitment to preventing and combating human trafficking - KosovaPress",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTM0U0EwQnkzOF9zMlBSbVRfVDZmV0daZDZycVVQdWFmVk9rc3J6eEY4N3J6dFFPcEs3R2VCTlBPeVJ3cWRLV1VCWm56MHBEMjFSN0xzbFREVkw4czRfa2pDRmh5Znp3NDZOdGY1ZWpFWDcwdVFid01ZbVRuQmdJNkg2aE12aUNPR09GM1hiRUdlblVScVJWakpqZlVHZWlTUVhvR1l2c3JuRGRtM2Y4X2tKNzJaMHRDLXZWWnY1NlF3azltVkprb0kxVmJBZ0lGUkZFTQ?oc=5",
+          "source": "Google News • Human Exploitation Abuse",
+          "publishedAt": "2026-10-21T13:08:21.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -1429,10 +1281,6 @@
       "reason": "2 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-20",
-          "count": 0
-        },
-        {
           "date": "2026-10-21",
           "count": 0
         },
@@ -1454,6 +1302,10 @@
         },
         {
           "date": "2026-10-26",
+          "count": 0
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],
@@ -1477,8 +1329,58 @@
       ]
     },
     {
-      "theme": "spam-inauthentic",
-      "label": "Spam & Inauthentic Behavior",
+      "theme": "malware",
+      "label": "Malware",
+      "totalArticles": 1,
+      "distinctSources": 1,
+      "highRiskArticles": 0,
+      "trend": "Low volume",
+      "changePercent": null,
+      "reason": "1 article in 7 collected days.",
+      "daily": [
+        {
+          "date": "2026-10-21",
+          "count": 0
+        },
+        {
+          "date": "2026-10-22",
+          "count": 0
+        },
+        {
+          "date": "2026-10-23",
+          "count": 1
+        },
+        {
+          "date": "2026-10-24",
+          "count": 0
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
+        },
+        {
+          "date": "2026-10-26",
+          "count": 0
+        },
+        {
+          "date": "2026-10-27",
+          "count": 0
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "12 Malware Analysis Tools: The 2026 Buyer’s Verdict Guide - GBHackers News",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmWUlxZmpBX2lVVXZZVUE1UjZOR3V5eDJ0U1B0YXJYcUhnX0VTQUZWaW1RdW1VTlhOcVB1dmlBVkU0RWZpVkg0QUIteEZ5dUFNR21yOXJoN0ZXdU9IcC1YNnNzdlBmTXFlb3fSAW9BVV95cUxNX3ZKNk9hcWUtYWpHaUhSWDFQOTE1QndyTm1QcElNX2JCbWR5WTd4RGdlbTBycVAyOWhnc1l2ZUZzT2hwbFc4N1BhQXk3M3EyX3ZTcGhETGFmdGJlZDZyd2JfNklrUFN6am5uLWJZRjg?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-23T08:18:28.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "ncii",
+      "label": "Non-Consensual Intimate Imagery",
       "totalArticles": 0,
       "distinctSources": 0,
       "highRiskArticles": 0,
@@ -1486,10 +1388,6 @@
       "changePercent": null,
       "reason": "0 articles in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-10-20",
-          "count": 0
-        },
         {
           "date": "2026-10-21",
           "count": 0
@@ -1512,6 +1410,51 @@
         },
         {
           "date": "2026-10-26",
+          "count": 0
+        },
+        {
+          "date": "2026-10-27",
+          "count": 0
+        }
+      ],
+      "topArticles": []
+    },
+    {
+      "theme": "spam-inauthentic",
+      "label": "Spam & Inauthentic Behavior",
+      "totalArticles": 0,
+      "distinctSources": 0,
+      "highRiskArticles": 0,
+      "trend": "Low volume",
+      "changePercent": null,
+      "reason": "0 articles in 7 collected days.",
+      "daily": [
+        {
+          "date": "2026-10-21",
+          "count": 0
+        },
+        {
+          "date": "2026-10-22",
+          "count": 0
+        },
+        {
+          "date": "2026-10-23",
+          "count": 0
+        },
+        {
+          "date": "2026-10-24",
+          "count": 0
+        },
+        {
+          "date": "2026-10-25",
+          "count": 0
+        },
+        {
+          "date": "2026-10-26",
+          "count": 0
+        },
+        {
+          "date": "2026-10-27",
           "count": 0
         }
       ],

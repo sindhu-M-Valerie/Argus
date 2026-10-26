@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:23:21.983Z",
+  "generatedAt": "2026-10-26T22:48:28.684Z",
   "snapshot": true,
   "date": "2026-10-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 63
+    "total": 87
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,42 +65,42 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 69
+      "itemCount": 72
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 30
     },
     {
       "label": "PIB Fact Check",
@@ -210,6 +210,21 @@
       "confidence": "High",
       "severity": "Medium",
       "corroboratedBy": 2
+    },
+    {
+      "title": "Layton man suspected of downloading, sharing child sexual abuse material through torrenting - ABC4 Utah",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkpoRkg2cWVNUFd0Mm1BamNFRVhZYkhpVFByTWtHSXJzYlpfaEVkVjlUNmZ1Rlp2eWlNR3loTC1rczJrM2FQbXo0NHZMdnRLaXo5TzdkMWR0R0lidlJQblFwWnZzMTV5Vk1xR1NFa1QxOVVmbkZLUlNoQ0RpSWVkUFNGaFJZclJuX2FOT0130gGTAUFVX3lxTE5ubUwwNGw3UjJ6WVJsOHRHZWlkUld5NzdnTm1yUEdOMk9RZFpqSXR5X2pvUXVOd2pncUxkSXlRcDRJU1RMdWt1dzRRYV8wanh2aWlDUi1SRTNKMGhTTmg5cWRTT24xRG4xTXhWRDVnSjgwYmFmYURaMW1ibkNldWE5MTA2Q2ZfR3lieHZCSUpoYmVqVQ?oc=5",
+      "snippet": "Layton man suspected of downloading, sharing child sexual abuse material through torrenting ABC4 Utah",
+      "publishedAt": "2026-10-26T16:18:49.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
     },
     {
       "title": "Woman Lost More Than $10,000 to Scammer Using AI Videos to Impersonate Jon Bon Jovi - www.techtimes.co.uk",
@@ -390,6 +405,51 @@
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 2
+    },
+    {
+      "title": "Fact Check: Indian soldier captured by Chinese Army during face-off in Arunachal Pradesh? No, video is old - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ29XNkFoZzBYZ3I3bG4zODA4TjFFNkNOR3hlYjhBQ3pVdnNWeDBwZHZaak1DWTVYM0tKYXVzbkFCQ3FRem1vaWVzTkRKNXdMUHRObWZ1ZFd1b2JIRnprbmlIRGRjQnRMV0dVb0dLTmVqWkZCMU9iak9nNFpxUzktSE9WQ3VRZzVjMXZLd2xVLUpMVHhtcXJCbzJpaW11V3lEelkyOVNPZDdLVHB0bmY5MTNOY0UxUzM1N0loTy1IeVFjN1Q3Mm53MGFoTQ?oc=5",
+      "snippet": "Fact Check: Indian soldier captured by Chinese Army during face-off in Arunachal Pradesh? No, video is old NewsMeter",
+      "publishedAt": "2026-10-26T16:43:42.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ACAMB Advises Bank Customers Against Phishing Scams, Urges Protection of Sensitive Information - Nairametrics",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONG5xMWZNdWZINnhVYS1oWl94XzE2ZXZfcm96QlpMeGFhc2hCUlpTOGlJUGllSFktNmh0enVybjQzUm9vWnVJVmoxUWptbE5QUDZfREp0eWk5SFo3R2VUdEVfYms4UThoOTRoQURqMXhLNGVYX1pmS3NiU0ZiNU9BWVlmV3F1RXRsQklNbzNKOHNSX3diakZCNW5JcEtJSF9Sb2F0RENlckZva0hmVjR6XzQ1akxCNTd0MWZMQzNtN1lTeTNPN0pUWnJn?oc=5",
+      "snippet": "ACAMB Advises Bank Customers Against Phishing Scams, Urges Protection of Sensitive Information Nairametrics",
+      "publishedAt": "2026-10-26T13:16:36.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "China took Arunachal areas? Indian Army busts deepfake video targeting border security - India TV News",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWDV6T210R1NmT2VrZ3JrVTZ6Wk11WXJEUkstaG44ZUR3a1ZjcmlvV1FiX0daUFExTFktbkRfOVJ4S2dmdVpxa0JsY3FuME1SeW1fSmttalRSY2ZWSzN6dGtaS0h0Q3hZd2Uxd01EU2ZLN09kYXFZRGg2bjhZNlhFbjRFUTJsb3lQYnJwT3ItbXN4X0RWR0NRcjNFYnZ2VTlqZjA2N2s5RFdkY2FKNEQwT1pQS0R3U2NMWWJUR3hUOHlSVkQtMWwyb2VMNjRMYnFiTlh0d1REbEdVRTDSAeABQVVfeXFMTkY3XzhyblcwQkVHNklTeC1Oa3RwNDhQQllXX2x6bnZUTVRiSU45U2RnbC1rZ3VjS1BpX0MzWGozLS1LZ3NMUVQyQ2VINklxeGwxYlRkSzAxX2RvQ0w2WS1uc2ppMHRWbENRZjZxajJPZE5PdlRPZDZ4MmN6MG9KWHBzM3JEWHFLYVVkeGtfT1Y2NjFjdXVHWjFaVnBKeFlhNFVDeUVYWXBnLUtGZDdFd1JFcWE0elVSTWd3X21ZdXVTV1loNnZHVjNIVlZpTXNZTzRvQTlnSl9ZUTQ1dGcxcnM?oc=5",
+      "snippet": "China took Arunachal areas? Indian Army busts deepfake video targeting border security India TV News",
+      "publishedAt": "2026-10-26T13:12:47.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
     },
     {
       "title": "Fact Check: Lt Gen Girish Kalia said China took control of parts of Arunachal Pradesh? No, video is AI-manipulated - NewsMeter",
@@ -632,6 +692,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Indian Army Flags Viral Video Claiming China Took Control Of Arunachal Pradesh Areas As Misleading - The Daily Jagran",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQjBUMFN2TlRoaVpjdTB1ejVQcmxYXzJkS3pJVkV4RU5zbi0ybmZGY2xVV0x4Q3RaNy1NZXFmOXBzZlkyN3d0SjhOaERYNUJKU0xnWE9OX0Nld2UxYWhqZzJhd3lvb2FYVW5WZkpQcTY3WDBGeXdpMmxubTQ5NWhEeW53T1dzampXN3lNRzBtaWxTbXc1TlFfYzk4aWtUc1NXcUVTQ1pTSGw1a08ySWpmVUVyT2FSWDVKa1NxN09lNEgtV1o5a013THJzZW12bVE5bUFlbkxFRkkwSmlPdGF0ZldQR21nVEhOQjdVb0RlVklLbExicUZuYUh1Zk1fMDlWa212UF9DSkVPZEhGdWfSAZQCQVVfeXFMUFl2MTI0Sk51Wno1TnpManZTRWxQekVPOUV3eHRGVjliNjVRYVpzVE9jaXRiZHR4cWREcDdzLVh0bTlYZHBobGNMLUNIN1h0X1p0cmJkOG5NY21MaXktOGdTc0RoeFY4aDgtSUFHWmNnUWxrRXFBWnVMOVNFazdGUDlIek9hUFZsNWhtRzRwazE5SGhXTi15Tll1NXBHUjBaTG04TE1LWFdmaThpaVZVZ0JlQ2NMMTVWRzFBQ1AtcWN0YnRpc004dzY5cXhXVWRtOVo2amlZMjAzVEZKRXhnaEVDZ3VxT2syUDI4OWVnLUdyMmxia3pBZzYzbWtUT0k3azhuWS1BZmFpUzN6X3V2dldYUjRy?oc=5",
+      "snippet": "Indian Army Flags Viral Video Claiming China Took Control Of Arunachal Pradesh Areas As Misleading The Daily Jagran",
+      "publishedAt": "2026-10-26T06:21:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Khanh Hoa warns of online scams impersonating hospitals. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDBNYUxyS0puS05BdWp2TVdLcHlQaEZtazNNcHRtX0NHQnVzVVJZOGdGaVotbWNSTGlEVUplN3duOU4xS2s0LWtwYnhVQ29sTXRfTEVJVkJfa0pLZkdWMkhBai0xVnJGWVE0ZEhybUYwZ19HVUh1S2Q3WnhoVlZzdFUyaW5PUEdYM2o5Q0Fha2lYdGxZaDRJ?oc=5",
       "snippet": "Khanh Hoa warns of online scams impersonating hospitals. Vietnam.vn",
@@ -722,6 +797,111 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Subodh Uniyal Denies Apologising To Daler Mehndi, Alleges Singer Is Spreading Fake News: Maafi Inko Maangni Ch - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeWZWbThiYy1RUS1qamVLNUE0OGYzWkJ5eGt2dGRYY20zazFFLWFoX09ySmdrVkVPLXNTZDVFNnJ1VzRZRk5Jd08xNEVUNzJuUnUyOHJZUFFfbkN6NVhrdURCTzEwSWh6RXNCUTRyWkFITU1QMnRMUEVfWmpIeUJMZGlqa3MyVGFJbDFkTjJzaFd3dE5fV2N3d0JZU0hNelNWVlhsR1ZxaFlldVRubGJoRjBnY2FLYk5Sbk1yQU9vTFIxM1I5eDNtSTZoVjM0R2o3ZXhuMldBYVZLTTFoZmZQa0xEenNab0xuU1ZuNHVJTnhuVTlWczNUSlBuUldJcXRUTHNuYzdpOHl3bG1SRTFaa2U4V1haVEFG0gGeAkFVX3lxTE4wYUEwRmh0REdfVFVjWTJwWDFoRDJXdjk1ZXVxRjQ0Q29vdDk0TWtjOVp1R1ZYTHVXTFhEUU1nRU9BYk5OSnRlRjFCYkVzVjlKUFF0Q2lDTGNzVGZ5QjJUTUtXRG5HM053Vzk0cjRqUUYzajc0SUtDR3NzbnFIdHdMdEExLTNjWng5T3FocFpIZm90enRwU2d4SFNtWVE3MHhRbVVNOXU4UVBaNWFhaWlfRmlkUXRSTDBnQ09ETFY2TnNMU0NFX2xVSmhOLTFZWnNNcXprMmhDVVp3VUtiMTVSVmdaOEVCWTlmdURQeXo3R1hDckFGR0RBNTVWWXZaX2ljY2VTOXU2U0JaSUllcGJyNnBMa09zRFlkMThocVE?oc=5",
+      "snippet": "Subodh Uniyal Denies Apologising To Daler Mehndi, Alleges Singer Is Spreading Fake News: Maafi Inko Maangni Ch Times Now",
+      "publishedAt": "2026-10-26T16:48:53.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Two sent to jail over gang rape - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjlZaF9CcE1HVTJQNVJXdEcwdlpNam9lM0Jsa3kwc3ItN3RGMldXOWdXWTdKeTAxdDctanFxSVQ4Ym5vRVFHNlRqTXQ5cFdHc3EzRHN4b0N1b1ZEdmRKUXhsdnBramY4c0tYeWwwTlFXU3BmSWFCOGE3ZXRFRXJLekp1WlB1ZTI1R0F2dWE4UzluLWM?oc=5",
+      "snippet": "Two sent to jail over gang rape The Daily Star",
+      "publishedAt": "2026-10-26T15:50:03.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1I4N3BhVVBhdmdUX1EyMk51bkRySGgyRnR6XzVJOGwyNFJoQnhBUWl1QWhpSjhmTFYwYlQ4NjhDcDhYelduU29UU3NKdURaVjlMbEcyNHIwX09EU3ZLWFBXemJqNmwwVmJYbE4tY2FqRHotSGNJVlM5VnQzanhxV1Qza3Q0QWNyQVBBU3NTMFhVLWtYM2dwSE5QNGtMNkNZaEhfQ21XWHJXc0Y4dTBFc1VQZC1pZzhwZVI3WU1VWVV0ODZ6UmlEWTY3d1c?oc=5",
+      "snippet": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude Cybersecurity Insiders",
+      "publishedAt": "2026-10-26T15:43:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Hybrid weapon of war’: Why climate disinformation could be a growing public health threat - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnlzNXRoR09fT21JUWlNU0VTVnJKMWYycGRLbG9HTUdqdDVqRjdTR0pPRnA3aUJ0azJDMTkxcFdOd1RwYlFzVW42V1FNU1VRTkFHQjNtZ0hHSVhSTWJZVDlqTzkxZUV1RW9BZnEtNHUtQ01Eajk4dlVrMHFCYmtydWM0bkY5b21EWHRtX2RCV3NmbnUtbGc0Q19uQWhKdjRqSnZDWkRBUjRrRWhRb0c1U1NKTmxzc0hGUmxvNDliY1M?oc=5",
+      "snippet": "‘Hybrid weapon of war’: Why climate disinformation could be a growing public health threat Euronews.com",
+      "publishedAt": "2026-10-26T15:00:46.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Army Denies Digital Misinformation Claiming Chinese Control in Arunachal Pradesh - SSBCrack",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUltY3pvWmNzS3RQcUlZYzJpRnh2OGRRbGRSSVhXSExSOVBhR1AwWDQzZGQzZkRmVTQtZ2hXcGpxdWRobFp3dGtWckVRMlBTaVVhN0pNcnA5d01May1YSW1Qd0ZEUnpMY0RUZUx3TG1hR0JfNlJYbXpxNXJVNW8xM3VoWVEydlNrdG96YU9tOHR5RnR4SS1ja2cxTTh5blExaEVLUU5RU0daTUpncmJvNjFVN2g?oc=5",
+      "snippet": "Indian Army Denies Digital Misinformation Claiming Chinese Control in Arunachal Pradesh SSBCrack",
+      "publishedAt": "2026-10-26T13:35:11.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Israel Election Chief Urges Voters: Reject Fake News, Participate in Crucial Knesset Polls - Lokmat Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTVKZHpJTTJlVks3RHpoZElfcnZ2Zy1RcGNSdjhHaGM0T3BwNi00R25nV29HeENYUVlwc25HRHJ1cEd1ZU41ZzJQN3dnQ0VkZ3N2QllVNlR2Zm9rb2Ztd1JVbXRqUk5GRlo3TDd1QTI1akRTR1pCLS16M2Nmd3BDSnllTU92UHJZclJQVHVHR29QSVYxNVlGR3k1S1paOWV0bWJOTFRGUnhQV19na3JEdVpmYzJlV0FGNmY5OWNaSXlIaEg2azZDRy1lUEdiUmJrRXhlMDBR0gHcAUFVX3lxTE40Vi1OUjFEQ2IzVmlHZVlyY2tQTlBqeGFwcXBnNGw4NzkxUzJnVy12Z1BrcVBVX0hDSGZ5NG02MTlWeTM2ZUo2VDg3aGFnN3FYLVVrLWVCVDhnSWdtTkdndDY1cEs2S0xTSUthRndxVmk1TDRTdUxDeUllMFNJaEZ5cTBIVHFBWktQUlBRWFZVcVFxRTlCSFhiaWxsMjlRSUxTSzZ1cEM4MTZPdTYtdUVPY0xBNVZjOGF0bGFtc1VQQzktWjV4TG41VDhuNDNmRWVpQy1aUnBmOFY1ajE?oc=5",
+      "snippet": "Israel Election Chief Urges Voters: Reject Fake News, Participate in Crucial Knesset Polls Lokmat Times",
+      "publishedAt": "2026-10-26T13:20:53.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Army Rejects 'Intrusion' Claims After Viral Video Shows Chinese Vehicles Near Sikkim Border | Watch - The Daily Jagran",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc1Q2MUdNa3pBTGhJbGM5NDVoVC0zalR2eUh2V0pSei1SZnZKcGdrSnZhVG5XNDVkYkdWMlREb0tXTWJ3MnBIeTBDLWhzZHdrZEViYUFmNHRLeU1pcHpwREFtQmhiTk5rZWNPTjdib1luajYwTklTd1JSUURoZU42MFpEOW51NXNaZ1UtQWtieE1BSERadUVzTTFVYThDbW5lZ0FVWHo3dVh4dnNtN19NVncyVGFxMjhyeFoycmtBTm5TeldmMUVPV3czQWZDaDRFTWlHLTlQSjZtMTBieDd3Y01TRDUyNWcy0gHvAUFVX3lxTE5LT21BamVPSlNKRkJHSkRPeVk4RENJa3JtVklGUDlFM2pvYlhlMVN5NHc0T3JxQjhldE5DbWlVT0JsZFZoMHNLWmxKb0NCVXJJYWZWb3k1MjFJYldaLUg5UzBCNmZ5R2hsdVBOY0QyQUtBeEE3N25peWRQSVpOQlhscUdGZkRYWVFvRzFYVzNIZEl6bXhtWFJpSlUxUnRoX3Vzc2FBUFZ4VDhtVnlLQjJWQWI3VkppMFNnWVhnVDJRU3ZQbE5jQ3Iwb0dtbjFUVXJSWGhpYTNtUDhGZUpWeFoyeUdGU3h1N3g4XzhHNXlB?oc=5",
+      "snippet": "Indian Army Rejects 'Intrusion' Claims After Viral Video Shows Chinese Vehicles Near Sikkim Border | Watch The Daily Jagran",
+      "publishedAt": "2026-10-26T13:17:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "‘More they do it, stronger PDA gets’: Akhilesh Yadav alleges 'misinformation campaign' against SP-Congres - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTXc3cUJCOENZcnBoWUx2NE01bEtyTl81RjNzWHFtbm45NFI1T2tMMzhpY00tQlFEc1FaUDFreTVhc0xrZmtqMTYycExfdnprZUROSk9wUEZzOV9FZHlJMnN6YnNlUmZ0SVI4bGJNc1gxMDlXVGhZNFU3SU01Wm9SQWFjZVBVWExRd1RLSDl6NlNMeDhyelVkQUNkcEFBSWV4UVZRa1hWX0VQemd3bWQ3THVGSW0yRWxZZVZDVm5LN0dFZHJsSmxGbEhSaHJBT0pDQmkzOUJZOGFjY19oWjZCdkdSeEpndXctNF9KUjIwSXpEM19vcnpXNjNPNFNWLWNGUTdIMktkTkbSAY4CQVVfeXFMTVJyb1dEQWdma1RmclpYc2htNWZGQzFkUHRZWG8tNy1aQ3BrRXJiQ2N5azFsSU5HNHpvblJnTDl2SkZnMl9TZ1pMYXFQdGE3RVVsMy1UMjdOdThCb21JYWN5QUktUDBZZmdCajdMWXZLN2hZVXRUbVlVcGhSa3RXaDdIWXFLQW9vRlFZanZYNzJmQVNkbXUtZ3B4OXBnUTFfWDZsSEQyU1Rab0ZwXzJweFdJeWFWYWtkdko3NFpVcUJYejVOR19xeVlVU2ZmQW9JbUJIbDMxa0xFeG1nZThPYTFONlNyem9sOVdITWk0NGszYkt3QzN4MFI5VXFnTnNmeHhOQ3VXcUF2d1h5aGx3?oc=5",
       "snippet": "‘More they do it, stronger PDA gets’: Akhilesh Yadav alleges 'misinformation campaign' against SP-Congres The Times of India",
@@ -743,6 +923,36 @@
       "publishedAt": "2026-10-26T12:37:23.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Israel election chief Dean Livne calls for high voter turnout, warns against fake news ahead of Knesset polls - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZzNOSWNMajc0R1FoRFJYUjlPdi02NmQ1S1lGbmtqdUJnY2NVRG9FbG9DSkIwNkZvS3dlT2p6SmhRTTR4RmVMYUoybDdrdHhJc3E2M2NxQ1hnSU13MVM3eWtOSG5lbm1zTERQd3RnRlZuU092V1hOYTcwZ21YRXYxWDFvWHF2WWRqc1RkUVhTUGk1RHRQSUx2WHFrbDZZMzFhR2JuajdVb3FEdnZ3UG52cHk5YnVxeF95Yk5NQWppdmdDcTRkSmFyLXJHRFFKaHZGSWFJQlRVenJTbVk0WDVfTWtvZGlHbXPSAecBQVVfeXFMTmczTkljTGo3NEdRaERSWFI5T3YtNjZkNUtZRm5ranVCZ2NjVURvRWxvQ0pCMDZGb0t3ZU9qekpoUU00eEZlTGFKMmw3a3R4SXNxNjNjcUNYZ0lNdzFTN3lrTkhuZW5tc0xEUHd0Z0ZWblNPdldYTmE3MGdtWEV2MVgxb1hxdllkanNUZFFYU1BpNUR0UElMdlhxa2w2WTMxYUdibmo3VW9xRHZ2d1BudnB5OWJ1cXhfeWJOTUFqaXZnQ3E0ZEphci1yR0RRSmh2RklhSUJUVXpyU21ZNFg1X01rb2RpR21z?oc=5",
+      "snippet": "Israel election chief Dean Livne calls for high voter turnout, warns against fake news ahead of Knesset polls The Tribune",
+      "publishedAt": "2026-10-26T12:37:23.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Lula da Silva Wins Historic Fourth Term In Brazil; Rival Flavio Bolsonaro Alleges Fraud - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUE5QbFJGWF9Ib3JiWDA4RkNJWHNnTTZmRGo1N0ZEbEx1N01TUzlzZlQxSmwydTZuZloxaVFmSHBYeDloRExVY0JITEhHZUxHNS1iSDhCdnJGX0IzaElhRElJSzhhZG4xWWRRdkVBb2dEQl9qQXRnZXNsWU51UU4tRml4QVBGMy02LXlUc3FVS3NyRFZVeHJMU2RDX1R0b3pGamV5Sk5Lc1dNSTNtaVVzSUwyQXNZQlZwY1A5WTBZaE01WkZyR25PclI3dDVTZGExN2V0S0l0aFo0UTc5ZDBTSm1B0gHnAUFVX3lxTE9VZDJDWXZDaGwzdVE0UUJRWFRWZzVrYndaa0JVOWlaUnhIdG52am5mUnEyclNEVjl5ckU1WWRsUEplN2p5TGs1QU1RNUFIUkpzckp5Vy1NWkJ4ZURVVERvbnplc2I2WWdEOF9mTlVFU3Z5eDN6V3cySU9MTkZ1V3liTElpT0pESk9QTnVEOW5kTnlpZFlJRk15eGxYb3MzOEItdnlUREVPeURQZmVtNDkzcDBkX2RkWVRpNmE5MmVVbTVWbnpUQW1kM1RaamthZzcxMnpkTk4wRTU2aXk1WHBfQVJYTlV5VQ?oc=5",
+      "snippet": "Lula da Silva Wins Historic Fourth Term In Brazil; Rival Flavio Bolsonaro Alleges Fraud - India Today India Today",
+      "publishedAt": "2026-10-26T11:42:57.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
@@ -857,6 +1067,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Rhode Island Sues Meta Over Fraudulent Ads 10/27/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3NMelBCdUplS3RZNDhlSGdteC1md1lzVk1vRldTQ1EzcmlfckpXNG9MZkpyaTd6cDlLblNia2ctd0N5Nm5ZOWwxZEowMXBwVW5LNTE5WGpDNkdQZHAxZ1FraDdfSm5CSlE3WGtfUEEwZWF1SWlEekZRenlHcXJQUHE2cHhTcUQ4bi1UVHNvT1dma1VOX2c5OVBKWVRfd20yVXNv?oc=5",
+      "snippet": "Rhode Island Sues Meta Over Fraudulent Ads 10/27/2026 MediaPost",
+      "publishedAt": "2026-10-26T17:07:25.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police Warn Commissioned Violence Has Links to Iceland - Iceland Review",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalZyNWpBX3ZYRmhBMHZJZWxMWWpyRkNZUllIdUZVekZMQ1d4cWd2LTZvZ3lsSnhZdWhEanBOSGVmYUdNX2hFTWh5TW95TTlESnRYektHQ2c0WDJWOTIzY2ZTNFFleDFXbEdFYlJkYjV1Z0ZjUTl3d1pzYllrcWdneHNOeG9RQlhKdVdJ?oc=5",
+      "snippet": "Police Warn Commissioned Violence Has Links to Iceland Iceland Review",
+      "publishedAt": "2026-10-26T14:00:30.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "EU opens Booking.com fraud investigation - Short Term Rentalz",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3U052SXJlblJjdWN1cjBCV3I5MkNUNUsyMmJOU1RvVTR4UERXZXJ5RlVURS1zMDJXajA0X1FVT3ByX29OT2xlQXpna2xZcGIxWW9uQzhFSkE0cDRaQS1CdVRzU2ZkTkVpbi1rYkdaUWsxT3lQb1RiQg?oc=5",
       "snippet": "EU opens Booking.com fraud investigation Short Term Rentalz",
@@ -887,15 +1127,15 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Suspicious calendar invite? It’s a trap – how the scam works - ZDNET",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JeXJLcGxibFh1NFBHbldERWFEYWJpWFp5LXpIeWFOaVhCTHJadUxocDIzWTA1MDd3WlZXV3dXZkxrSUFHNGRyNm0wS1ZxX2ZXMXBJdnZpS1FEZFdMaEFkY1JzMEE3WFNw?oc=5",
-      "snippet": "Suspicious calendar invite? It’s a trap – how the scam works ZDNET",
-      "publishedAt": "2026-10-26T10:32:12.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "fraud-impersonation",
+      "title": "Italy Arrests Alleged Mastermind of Online Network Behind Milan Riots - newsfire.gr",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHlRZVFhSUdaYnVmUGlpWVFDVUMxamRrd3FoSGh4TjczbXhpWEFHWXNIeEJVUWY3bmk2TldXN0djU2JsLTgxeXhjVGRmYm9zeE1TQ3RaNXZJMDFDYXU1MTRJQWJuTHZ5dGNndURxY3gxTE9LUWVjSzVYXzJ1NEFScHZuZmV3VU9zQV9TNHNjd2cxcjlMVXljWQ?oc=5",
+      "snippet": "Italy Arrests Alleged Mastermind of Online Network Behind Milan Riots newsfire.gr",
+      "publishedAt": "2026-10-26T11:08:40.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
       "type": "News",
       "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
+      "feedTheme": "violence",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -917,15 +1157,30 @@
       "corroboratedBy": 1
     },
     {
-      "title": "BPI reinforces commitment to digital security as online banking scams evolve - www.speed.ph",
+      "title": "BPI reinforces commitment to digital security as online banking scams evolve - Speed",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yTWtPcVp5d0Fia3VQVjRidDFGZ2NYV001b3R4Yk9FOUtQaVhuYkdVcVItNXRMaXJ2cHo4SHZ0TlR6ZE5BTl9OVkktLTNZUC1iV3d0RVA4eGJYMFpSYzhOdHFrZHdMdGl3NG1DTzlTSm93QXJKaWc?oc=5",
-      "snippet": "BPI reinforces commitment to digital security as online banking scams evolve www.speed.ph",
-      "publishedAt": "2026-10-26T09:31:31.000Z",
+      "snippet": "BPI reinforces commitment to digital security as online banking scams evolve Speed",
+      "publishedAt": "2026-10-26T10:20:58.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Durban High Court: Duduzile Zuma-Sambudla Incitement Trial Resumes - Wansom AI",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEVYWnFtNGUwNlR5ak1EeFA2Y2poV0xSbnFGOUJhcXQyT3Q5QkhpZjFKLTVtSVUtX3dPWHNYakZGdVBQRmtRVGQzT3BoYjBMMTk1YTRyTmYxcnRjOGJnRUc4ZGtsRzFMMVB3SFFtamtDX1h2OHBjbFFsMEJGQWFfMDRiM0xIQ2NkOEE3LTNnM3FEVWZpeG44MXhUcFJaSVNxalpaeUZoLUlEc1VNVVlqR2N1a3daR1JwWWdMeHNIMEYyOWE1?oc=5",
+      "snippet": "Durban High Court: Duduzile Zuma-Sambudla Incitement Trial Resumes Wansom AI",
+      "publishedAt": "2026-10-26T09:37:20.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -977,6 +1232,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "FBI Reports Americans Lost $11.4B to Crypto Scams in 2025 - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcU0wOXRuNkJfWi1DRWJGWjFEUmkxMzN2bGJVNTJCR3ZadDR5WlRkQUtMcGtrcE03aEp5NGh0VUEtY2dxcjJHXzFSb1RRbVVIZl83eUt0ajhhaTI1Q3ViY3ZjUV8tVWlYaVplSTR0MzcxaktpWGFrcUlEOG5aT2JuQlRjeFlkTUpWSFVQUEpfMnhBTWd4RDAyV25XS2VQUTV1RENoQVVR?oc=5",
+      "snippet": "FBI Reports Americans Lost $11.4B to Crypto Scams in 2025 CoinMarketCap",
+      "publishedAt": "2026-10-26T02:33:02.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "3.7m Social Media Accounts Removed As Meta Targets Scam Networks - LEADERSHIP Newspapers",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2Z2TTY0cXBsOU5ydWZPS3daWGVtbGlzZXRveXp3Yk9xamxvbmxJSVhRSU5qMk15bU41Z2o1SU9lT0JSbEs1dlMxX3I2N09EbUN3MGdhQmhVem05aTNXTkRSWHk1NjNxZERFUjE2RXBqN1BWRnBQbXBlLTJqTkVpSjdBZ21GNzVSY1VNSVVLZ2s?oc=5",
       "snippet": "3.7m Social Media Accounts Removed As Meta Targets Scam Networks LEADERSHIP Newspapers",
@@ -987,6 +1257,96 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Securing Global Law Enforcement Networks Against Cyberattacks - Communications of the ACM",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHh1NFY3eUc0YktFeXV5SkEwbFZmNzUxX01maWJBSjF2TUFWaW9pZGk5eXNvSnZVOXFMSzYzLTlhcjFZOTBNYWdpQVo0U1BvMmozSnh4d1VZWkptamlCaFl4eDFtWTlabnlOOEhqcEJkSzI0MkNGTndieEQ1T3hFR05qSm5IVl9mbGpPY0FiZXdWdw?oc=5",
+      "snippet": "Securing Global Law Enforcement Networks Against Cyberattacks Communications of the ACM",
+      "publishedAt": "2026-10-26T15:19:25.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Analysis of Cybersecurity Analytics Market Segmentation Highlights Significant Growth Opportunities Through 2030 - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXZ3TmhhUVo4X1lPR25oZEtad1lENHdyQU1ZeFZfcFpyN0dtbkgwak5jZFNGWnV1ejYyZlJiT1R1TzRVVi1HQld3emVCWmVlZmJUNUlPcEczbDJwVGl4dXNMOXNaNURmbndzNVMzWFNQb0Q5ZnZBRVNsQldzOHpVTzFjV2liV1dMaTdtMGRvQ01KQ3phaWNMLWszRTE2TXUyQjVvR3B3bDYwUEFnSVlTaG1xXzd1dw?oc=5",
+      "snippet": "Analysis of Cybersecurity Analytics Market Segmentation Highlights Significant Growth Opportunities Through 2030 The National Law Review",
+      "publishedAt": "2026-10-26T14:54:52.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "One click from crisis: How to fortify your business against cyberattacks - Investec",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWdscERwdUltMzUwR21jbG5KeFFIVTZGbmgyWklkREJjMUJkVHZqbDBtcUlNUHhVR1ZhWHFKYlFkZjdlR0QtMmVkWHkzZXR3MzBpcUY4TzJpSnBYLW1BWjh6aTNHa0Q3bkszTGR3STZTVHhQSDNJXzd0d21mczdIOWtmV2dWb2JwSWZrcUhsWC1kVThCSU9qM3k4N3NHYXhPM2k2NUZ1LXA?oc=5",
+      "snippet": "One click from crisis: How to fortify your business against cyberattacks Investec",
+      "publishedAt": "2026-10-26T14:49:53.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "mEDGE.io: Building an integrated cybersecurity platform to strengthen digital trust - Express Computer",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDZNak5mQVBKQXRxVUxETk5nRG0zQW9TOWttY2ppdzhNcnE0WlFfbHVBblJSREEzdm83RVFNSU1BMmpRcmVkTzBtM0RDWDd0NE9NNGhXZ2dOT2MtT3p3dkJpekhwSG5JU3E2ZS1JT2VnanRZNVctMGd5VE1nLWdGZW9GSnRnczNnWXduUVZXN0VVRlA2cFJTMS1JUkt2WEQzaE8yRVZlWHc0YzlFOXJyd1c1U1c2ZkhjMVB5a25IdFpwLV9JOEFpTmtB?oc=5",
+      "snippet": "mEDGE.io: Building an integrated cybersecurity platform to strengthen digital trust Express Computer",
+      "publishedAt": "2026-10-26T14:42:25.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vijay Deverakonda, Rashmika Mandanna's team takes legal route over alleged online harassment - India TV News",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVzRJZk5WcHkzV01VMlF4MzFoZnUyNUFNWk45QXRaOHpQb1VESkQzYjNWRjBlQmF1b2YtamxzZy1PWmZZUXdNdEpKMjN2RWw3cXBOZmZ2dXZQVG1NYkNNcHdLQ0FkemV0SGpKZlpZeUVhTGVWT0F6bTBDYlpiQTBjSFZqa2lGV3pFMEVlTmdDRkY3WUtSTUxRUUlQYl9Ob0FyWTBKWWdrUGdKTlN5OUQtQVZxNGxQOU00a3JxY3FRVmlfbmxQYmF0R2lSTnNZWFJ0MDZaUWRjemdKOHlITTF2TXlsV052am5FM0hMXzEyU25weVA4N0FtcmdRLXdhcUUxWmdVSFUtcl9mLTZq0gGMAkFVX3lxTE5XNElmTlZweTNXTVUyUXgzMWhmdTI1QU1aTjlBdFo4elBvVURKRDNiM1ZGMGVCYXVvZi1qbHNnLU9aZllRd010SkoyM3ZFbDdxcE5mZnZ1dlBUbU1iQ01wd0tDQWR6ZXRIakpmWll5RWFMZVZPQXptMENiWmJBMGNIVmpraUZXekUwRWVOZ0NGRjdZS1JNTFFRSVBiX05vQXJZMEpZZ2tQZ0pOU3k5RC1BVnE0bFA5TTRrcnFjcVFWaV9ubFBiYXRHaVJOc1lYUnQwNlpRZGN6Z0o4eUhNMXZNeWxXTnZqbkUzSExfMTJTbnB5UDg3QW1yZ1Etd2FxRTFaZ1VIVS1yX2YtNmo?oc=5",
+      "snippet": "Vijay Deverakonda, Rashmika Mandanna's team takes legal route over alleged online harassment India TV News",
+      "publishedAt": "2026-10-26T14:23:42.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Charities urged to act after PHP cybersecurity flaws found - Civil Society Media",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzVWTXlDQm8tQW56SGhEVUtoWjFFcGdqaG1uVkJhSnlaOUR1Rzg2cjVSM3pQOFVMZHZUaWVJMjhabmVfUEdOZV9qd2w3QlVHU3FvUTlKcTU1em1kS1puNXFUSFdRLU9hamh1THU1bmtsSWZNNzBvNmJhbjUydzdrbHFLYWpsWUt6SVAtNy1YU3pnbDZ0TmZob2Fhdkkxb2ot?oc=5",
+      "snippet": "Charities urged to act after PHP cybersecurity flaws found Civil Society Media",
+      "publishedAt": "2026-10-26T12:55:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

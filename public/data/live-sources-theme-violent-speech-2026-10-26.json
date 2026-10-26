@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:23:21.983Z",
+  "generatedAt": "2026-10-26T22:48:28.684Z",
   "snapshot": true,
   "date": "2026-10-26",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-26 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,42 +65,42 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 69
+      "itemCount": 72
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 30
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Durban High Court: Duduzile Zuma-Sambudla Incitement Trial Resumes - Wansom AI",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEVYWnFtNGUwNlR5ak1EeFA2Y2poV0xSbnFGOUJhcXQyT3Q5QkhpZjFKLTVtSVUtX3dPWHNYakZGdVBQRmtRVGQzT3BoYjBMMTk1YTRyTmYxcnRjOGJnRUc4ZGtsRzFMMVB3SFFtamtDX1h2OHBjbFFsMEJGQWFfMDRiM0xIQ2NkOEE3LTNnM3FEVWZpeG44MXhUcFJaSVNxalpaeUZoLUlEc1VNVVlqR2N1a3daR1JwWWdMeHNIMEYyOWE1?oc=5",
+      "snippet": "Durban High Court: Duduzile Zuma-Sambudla Incitement Trial Resumes Wansom AI",
+      "publishedAt": "2026-10-26T09:37:20.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

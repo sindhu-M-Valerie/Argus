@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:23:21.983Z",
+  "generatedAt": "2026-10-26T22:48:28.684Z",
   "snapshot": true,
   "date": "2026-10-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 11
+    "total": 17
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,42 +65,42 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 69
+      "itemCount": 72
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 30
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1I4N3BhVVBhdmdUX1EyMk51bkRySGgyRnR6XzVJOGwyNFJoQnhBUWl1QWhpSjhmTFYwYlQ4NjhDcDhYelduU29UU3NKdURaVjlMbEcyNHIwX09EU3ZLWFBXemJqNmwwVmJYbE4tY2FqRHotSGNJVlM5VnQzanhxV1Qza3Q0QWNyQVBBU3NTMFhVLWtYM2dwSE5QNGtMNkNZaEhfQ21XWHJXc0Y4dTBFc1VQZC1pZzhwZVI3WU1VWVV0ODZ6UmlEWTY3d1c?oc=5",
+      "snippet": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude Cybersecurity Insiders",
+      "publishedAt": "2026-10-26T15:43:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Korean Air and Asiana Airlines Data Breach via Amadeus: Cybersecurity Incident Analysis and Third-Party Risks - Rescana",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVjlBRjNycVZpZlFHVFJIWGp0WDktQXcyY08zVXZzbGhXUTBGOGl1QTdQOW1PMW05WjZnOWViMFdGYTZsNzN1U05ETV9SMDhwcmpXaUlWWm5aRnBRWGx5VXNfaFEzUkdfbms3dWdhQ0JrMkhtNG1ORElPdlVjYlI2emotWEN6Qmo0b21qQXdBN3lqWVpvQVZBbVpaLTFFX0VTSExIQmRhNXV1RFo1RVE1cS1iY1Z4N2t6V3BzYWVEUTlKWmNQdm9pajJHdmNldWhHM0E4?oc=5",
@@ -223,6 +238,81 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Securing Global Law Enforcement Networks Against Cyberattacks - Communications of the ACM",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHh1NFY3eUc0YktFeXV5SkEwbFZmNzUxX01maWJBSjF2TUFWaW9pZGk5eXNvSnZVOXFMSzYzLTlhcjFZOTBNYWdpQVo0U1BvMmozSnh4d1VZWkptamlCaFl4eDFtWTlabnlOOEhqcEJkSzI0MkNGTndieEQ1T3hFR05qSm5IVl9mbGpPY0FiZXdWdw?oc=5",
+      "snippet": "Securing Global Law Enforcement Networks Against Cyberattacks Communications of the ACM",
+      "publishedAt": "2026-10-26T15:19:25.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Analysis of Cybersecurity Analytics Market Segmentation Highlights Significant Growth Opportunities Through 2030 - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXZ3TmhhUVo4X1lPR25oZEtad1lENHdyQU1ZeFZfcFpyN0dtbkgwak5jZFNGWnV1ejYyZlJiT1R1TzRVVi1HQld3emVCWmVlZmJUNUlPcEczbDJwVGl4dXNMOXNaNURmbndzNVMzWFNQb0Q5ZnZBRVNsQldzOHpVTzFjV2liV1dMaTdtMGRvQ01KQ3phaWNMLWszRTE2TXUyQjVvR3B3bDYwUEFnSVlTaG1xXzd1dw?oc=5",
+      "snippet": "Analysis of Cybersecurity Analytics Market Segmentation Highlights Significant Growth Opportunities Through 2030 The National Law Review",
+      "publishedAt": "2026-10-26T14:54:52.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "One click from crisis: How to fortify your business against cyberattacks - Investec",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWdscERwdUltMzUwR21jbG5KeFFIVTZGbmgyWklkREJjMUJkVHZqbDBtcUlNUHhVR1ZhWHFKYlFkZjdlR0QtMmVkWHkzZXR3MzBpcUY4TzJpSnBYLW1BWjh6aTNHa0Q3bkszTGR3STZTVHhQSDNJXzd0d21mczdIOWtmV2dWb2JwSWZrcUhsWC1kVThCSU9qM3k4N3NHYXhPM2k2NUZ1LXA?oc=5",
+      "snippet": "One click from crisis: How to fortify your business against cyberattacks Investec",
+      "publishedAt": "2026-10-26T14:49:53.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "mEDGE.io: Building an integrated cybersecurity platform to strengthen digital trust - Express Computer",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDZNak5mQVBKQXRxVUxETk5nRG0zQW9TOWttY2ppdzhNcnE0WlFfbHVBblJSREEzdm83RVFNSU1BMmpRcmVkTzBtM0RDWDd0NE9NNGhXZ2dOT2MtT3p3dkJpekhwSG5JU3E2ZS1JT2VnanRZNVctMGd5VE1nLWdGZW9GSnRnczNnWXduUVZXN0VVRlA2cFJTMS1JUkt2WEQzaE8yRVZlWHc0YzlFOXJyd1c1U1c2ZkhjMVB5a25IdFpwLV9JOEFpTmtB?oc=5",
+      "snippet": "mEDGE.io: Building an integrated cybersecurity platform to strengthen digital trust Express Computer",
+      "publishedAt": "2026-10-26T14:42:25.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Charities urged to act after PHP cybersecurity flaws found - Civil Society Media",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzVWTXlDQm8tQW56SGhEVUtoWjFFcGdqaG1uVkJhSnlaOUR1Rzg2cjVSM3pQOFVMZHZUaWVJMjhabmVfUEdOZV9qd2w3QlVHU3FvUTlKcTU1em1kS1puNXFUSFdRLU9hamh1THU1bmtsSWZNNzBvNmJhbjUydzdrbHFLYWpsWUt6SVAtNy1YU3pnbDZ0TmZob2Fhdkkxb2ot?oc=5",
+      "snippet": "Charities urged to act after PHP cybersecurity flaws found Civil Society Media",
+      "publishedAt": "2026-10-26T12:55:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
