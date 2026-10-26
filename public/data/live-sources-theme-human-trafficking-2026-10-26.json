@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:05:03.968Z",
+  "generatedAt": "2026-10-26T13:23:21.983Z",
   "snapshot": true,
   "date": "2026-10-26",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-26 on human-trafficking.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 57
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 69
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Govt pursuing zero tolerance against human trafficking, organised crime: Home Minister - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUk2MVpwcks2SFEtaFpSU1M5UXFZMFdDM2pGNlNWNHdGdFNjV3VvbHhBT25UOFlmUjhmbXBTWXA2NTVncG93RnJpSHNfSWpyQnZZekFHWkhKVl9OMXozMmt2SlliLUdNY0dja2xKUHVzZ0QwT1hBaDlqSDFIVm1meUVlZ3lLMzA4enhKN29jcmFGckkxWVZHdXliWW1mNDhkQkJDV09ickRwRk02amczQVdBRDBpYVB6c0sycGE2TGdHNi1aMFpR?oc=5",
+      "snippet": "Govt pursuing zero tolerance against human trafficking, organised crime: Home Minister The Financial Express",
+      "publishedAt": "2026-10-26T11:56:08.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

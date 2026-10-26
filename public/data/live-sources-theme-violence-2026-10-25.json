@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:05:03.968Z",
+  "generatedAt": "2026-10-26T13:23:21.983Z",
   "snapshot": true,
   "date": "2026-10-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 7
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 57
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 69
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -207,6 +207,21 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Breakthrough in Milan violence: \"17 October Movement\" founder detained, suspected links with pro-Russian hackers - www.wltv.it",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEd4OHFfeEJtbDJLT01pWVdMMnQ4WUpjZXFwT3M1XzFWOGlpN1hKU08wN0lBSFc1d1E5alhQNFJOc3oyU2NWcGEwQzUzNDBWYjctTThYUEJyT3ZPbzgxYmNNQ19CeVJiZFFzVzBybFpQQUdvaDNldFllcVpzSm9xYUdZck9TN2w2QjM1dWpwUml0SFlNRXRFY1pRa2c0XzZUUXBSQVg1RU0zbGZhNWs3NlluM1ItcC1mX01DcGt6Vl9SaDBxam9iS1ZnYl8?oc=5",
+      "snippet": "Breakthrough in Milan violence: \"17 October Movement\" founder detained, suspected links with pro-Russian hackers www.wltv.it",
+      "publishedAt": "2026-10-25T16:19:19.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
