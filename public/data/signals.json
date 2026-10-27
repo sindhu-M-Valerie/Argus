@@ -1,18 +1,124 @@
 {
-  "generatedAt": "2026-10-27T12:35:47.549Z",
+  "generatedAt": "2026-10-27T18:15:24.235Z",
   "windowDays": 7,
   "endDate": "2026-10-27",
   "collectedDays": 7,
   "data": [
     {
+      "theme": "dangerous-misinformation",
+      "label": "Dangerous Misinformation",
+      "totalArticles": 143,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 172,
+      "reason": "Last 3 days averaged 32.0/day vs 11.8/day before.",
+      "daily": [
+        {
+          "date": "2026-10-21",
+          "count": 7
+        },
+        {
+          "date": "2026-10-22",
+          "count": 17
+        },
+        {
+          "date": "2026-10-23",
+          "count": 12
+        },
+        {
+          "date": "2026-10-24",
+          "count": 11
+        },
+        {
+          "date": "2026-10-25",
+          "count": 22
+        },
+        {
+          "date": "2026-10-26",
+          "count": 45
+        },
+        {
+          "date": "2026-10-27",
+          "count": 29
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "PIB Fact Check debunks viral claims of new Rs 1,000 note, says RBI has made no announcement - The Hans India",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmp1UlVGczV6OWtZRUFtdUR3SThiN2ZMampUcElWWE9aV0kwS1ZFbDYzZTdxVGN3YWJ1M0c3ZnNBMHlXd2xHTDhabWp4QnBLLTZVclRpaU5DYkJIU0xmOVM3ZUZxSnpVQVZQc0VvZjRadkd2VXg5LXJPVjJxM2FBUzI0SXdqZEJMMDNwbTBCQ1FnWXg1RzlkOUI0aDdOMm8ta1pJcjZqVVlJM2NiSFp5b1Vpc2tCbTdHRzQ1MEY5eDRwZThzN19qblc5S3FLY3NB?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-27T09:57:14.000Z",
+          "riskScore": 67,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Indian Army Debunks Deepfake Video Targeting Lt Gen Girish Kalia - Asianet Newsable",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTWtYUHJGVTZ5ZWYxNkhVcl9yOEY2ZlQ4MUtmcUJ6Sjg5dlFjaEUtMDc3dGxXXzhPSjA2OWtCRDFFekFOZFpJVE1lZVpiWDBKS2h0WGg0aTlMcUFoQi1JVFNhXzZnMmdvM1ZVYVF1N1NscmxmNk85UTZyci1yWkk4elVJVkd4RlI3ekQ1NjNtdU1LeW1IWEdYSjRZOTBPM2p3WVNUd1pjMnhFUUFDdlE1LVZicG5zNHdueUROZ1BMRVYxbGxadWfSAcYBQVVfeXFMT01rWFByRlU2eWVmMTZIVXJfcjhGNmZUODFLZnFCeko4OXZRY2hFLTA3N3RsV184T0owNjlrQkQxRXpBTmRaSVRNZWVaYlgwSktodFhoNGk5THFBaEItSVRTYV82ZzJnbzNWVWFRdTdTbHJsZjZPOVE2cnItclpJOHpVSVZHeEZSN3pENTYzbXVNS3ltSFhHWEo0WTkwTzNqd1lTVHdaYzJ4RVFBQ3ZRNS1WYnBuczR3bnlETmdQTEVWMWxsWnVn?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-26T07:01:08.000Z",
+          "riskScore": 67,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "PIB Fact Check debunks viral claims of new Rs 1,000 note, says RBI has made no announcement - The Hawk",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanI2dk1DS1g3QTJJREptaGUtYnlnejYtRng4Y21KaE1DYXgwa3hVNERDWUtqTlhjZllEb0pxSUc4LXM1anRkZ0hISDVQZUkySGJxZWxyYkNnZkJNM2Y1SV9mbTc2eVNTaWptbTBZNjhxY3lza28tYmRPOVF3OHdGNU1KUE14d2hDcllfaVNvNzNtZTlna3dsUExnS0R2alFlelVHMHJHbDlORW1mM0JkUTdZTHFCdEdBQUJjdUMtUk5kTGRyS3Zjc2ZUcEtvc1NIeThkZQ?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-27T09:51:25.000Z",
+          "riskScore": 63,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Indian Army Debunks Deepfake Video Targeting Lt Gen Girish Kalia - Asianet Newsable",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUpTR05CYzBiWW9FYmVBdEpxMktRTDR3MVV3RzU5alFnV1VXUkdyNVdRUzdqWDFpd2lMQkQ2YWZtZDNjTGVPbWhrU1pqRkJmN3RoRi01UDdhQnNnWXFrX3NVVGJ1R2xqbVlnZllhUldMaTU2NFpNeGhhOXNvSWYzVmNWRlVSZnpjRWZhRlVKVmtIZjg2TE5RY21DTEFlS1J0ZVg5dWM1WEdxbVptbXo3R3B1eVdrSWpNNm1UeGpQMnHSAcYBQVVfeXFMT01rWFByRlU2eWVmMTZIVXJfcjhGNmZUODFLZnFCeko4OXZRY2hFLTA3N3RsV184T0owNjlrQkQxRXpBTmRaSVRNZWVaYlgwSktodFhoNGk5THFBaEItSVRTYV82ZzJnbzNWVWFRdTdTbHJsZjZPOVE2cnItclpJOHpVSVZHeEZSN3pENTYzbXVNS3ltSFhHWEo0WTkwTzNqd1lTVHdaYzJ4RVFBQ3ZRNS1WYnBuczR3bnlETmdQTEVWMWxsWnVn?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-26T07:01:08.000Z",
+          "riskScore": 63,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Fact Check: Cyclone Arnab impact? No, viral video is old - NewsMeter",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajVZaVBmOS1FR0hwWjV5cXE5ZUxjZXFSRGEzQ09fdXhEY2pnZ2hhRGZUVkc5dDgzU1dra3BFV3hxcXl1VVYxbnR6STFfWjkwZzI0Rno0Z1h5QkRkM255ZHFsTDZPZks0Z0dlZEx0TnM1aUM5N1E1dFpHbW43UDRzd1lXdXpZTEl3?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-27T14:48:23.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Deepfakes, Unrelated Visuals Linked To Recent India-China Clashes In Arunachal | BOOM - BOOM Fact Check",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDBfMlpqdi13Q1owNEZzckhtSnhmU0NEdFV4blZQdFB4WDd3M0R3WVdvMzlJR1I4MHREaHg1bzNEdy15XzNWXzg1MFNxU3BWUkpOWGotOG05ZS1jUVFia2wyd2tnbzJpNGd2QnpzT2JwOHJDNDlENm1wVnVJNF9wV3ZGNDRCdFN6RHE2cm1vSVYzbEt6d3otVHJGM2hsZUZkUVFsZWNMRHZfTDNrbW1VX3ZB0gG3AUFVX3lxTE1QenNIYXE5VDN5OTZCR1pFWTZkV3pvNTRIeXo0bEV2SVVtUnh3U0ZtcFhhUlFQWUxKZmNHV040X2N6bC11N2FpalB4TEdzZkFPbjVsY2JxdG95TktkX3dNWUVqWEE1ZDhIQTlHdnpMYnhDUzdSbHU0NlhXcFB6TDRzVHRlUlRiMEdSN2NLSUJ1M2NqWW54ZHZKV0xOYUhJYnBPV05aU1EwR05QRHBuOElldkxIOG5yQQ?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-27T12:29:59.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "PIB fact check debunks viral claims of new Rs 1,000 note in India - Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMlFFNDBFN0I4cHhlSnNZbEdYNzdlQlJScXAtQWJXRS1sZWxxaThXY0pSZWMxYjl0TGVVR3hTNjRxQ05PakpyM3RqUEw4ME9Gcl9fRWkzTzFYTTgwU0NrX1FFMWV4LU56V28yczRvWmRiVXhIS0hpZF8tcmJSb2t2bzFGN1ZKY3dxdUN1SFdsY3hENzF4YnNsVm85YkhsRURXMkcyUVlRaUtXU1RkeGNXUnVKTUMyZWt5?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-27T12:17:03.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "New yellow-coloured Rs 1,000 note in India? PIB Fact Check debunks widespread viral rumors - India.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTTRWTWZnMktILTVsSGtsSlVYYTg1WVlDSXBueFQ5OHFueFo2dXV5ZERST1Ztc0VhOVpZZTAzUkJ3NTRJdDNEMFVBQUdiQWdWOWdkai1EV01NRnNkRTVIdmZCWFRPUHRDcHZsX2FHeEVYZ25JMmsweHQ2UFRxem1Qazd1WjRFWGJiS3U4Vmd4UmpidUJzU0d5WmhJdkwzNHR4MG9NV1hFSm80Um1xcDRSZ1dJbi1OQlZfZ3VwSXZKUkVZOXEtM2ZFXzB1QTDSAcwBQVVfeXFMTU00Vk1mZzJLSC01bEhrbEpVWGE4NVlZQ0lwbnhUOThxbnhaNnV1eWREUk9WbXNFYTlaWWUwM1JCdzU0SXQzRDBVQUFHYkFnVjlnZGotRFdNTUZzZEU1SHZmQlhUT1B0Q3B2bF9hR3hFWGduSTJrMHh0NlBUcXptUGs3dVo0RVhiYkt1OFZneFJqYnVCc1NHeVpoSXZMMzR0eDBvTVdYRUpvNFJtcXA0UmdXSW4tTkJWX2d1cEl2SlJFWTlxLTNmRV8wdUEw?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-27T10:32:31.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 128,
-      "distinctSources": 3,
+      "totalArticles": 138,
+      "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -56,
-      "reason": "Last 3 days averaged 10.7/day vs 24.0/day before.",
+      "changePercent": -42,
+      "reason": "Last 3 days averaged 14.0/day vs 24.0/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -36,11 +142,11 @@
         },
         {
           "date": "2026-10-26",
-          "count": 20
+          "count": 22
         },
         {
           "date": "2026-10-27",
-          "count": 6
+          "count": 14
         }
       ],
       "topArticles": [
@@ -56,7 +162,7 @@
           "title": "University of Copenhagen Data Breach Exposes 525,000 People’s Personal Data, Including Phone Numbers - CyberSecurityNews",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMXpmOFF3emkxNzFZbGt0WTZXMldYckM0Q0FPWDJhUmdFdkhqaWZXZURSc3Boa0tYVTVLTXhNZHZhTnlqT1VLWW9KUnR6WGZ4eGpKYUxaUW9qWDU2d0xSbWJGM2xYb0JQZG5iT1E5elk5cXlxSFHSAXtBVV95cUxNeUZLQ09tNFhtMm1fOHNpOEhDN29ubHhZYk5sR1FCS0lwVXpJdWEza1pxbHBMN183UlhVdFRORDQwZ21GLXV0M0FrNnR3Y2lubFJQYVJBV19SYzBsV285a0FXamNkRXhhM2VON0ZNelFmSjJLQ2RfOFJYWUE?oc=5",
           "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-27T10:43:55.000Z",
+          "publishedAt": "2026-10-27T12:09:57.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         },
@@ -111,120 +217,14 @@
       ]
     },
     {
-      "theme": "dangerous-misinformation",
-      "label": "Dangerous Misinformation",
-      "totalArticles": 128,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 130,
-      "reason": "Last 3 days averaged 27.0/day vs 11.8/day before.",
-      "daily": [
-        {
-          "date": "2026-10-21",
-          "count": 7
-        },
-        {
-          "date": "2026-10-22",
-          "count": 17
-        },
-        {
-          "date": "2026-10-23",
-          "count": 12
-        },
-        {
-          "date": "2026-10-24",
-          "count": 11
-        },
-        {
-          "date": "2026-10-25",
-          "count": 22
-        },
-        {
-          "date": "2026-10-26",
-          "count": 43
-        },
-        {
-          "date": "2026-10-27",
-          "count": 16
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "PIB Fact Check debunks viral claims of new Rs 1,000 note, says RBI has made no announcement - The Hans India",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmp1UlVGczV6OWtZRUFtdUR3SThiN2ZMampUcElWWE9aV0kwS1ZFbDYzZTdxVGN3YWJ1M0c3ZnNBMHlXd2xHTDhabWp4QnBLLTZVclRpaU5DYkJIU0xmOVM3ZUZxSnpVQVZQc0VvZjRadkd2VXg5LXJPVjJxM2FBUzI0SXdqZEJMMDNwbTBCQ1FnWXg1RzlkOUI0aDdOMm8ta1pJcjZqVVlJM2NiSFp5b1Vpc2tCbTdHRzQ1MEY5eDRwZThzN19qblc5S3FLY3NB?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-27T09:57:14.000Z",
-          "riskScore": 67,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Indian Army Debunks Deepfake Video Targeting Lt Gen Girish Kalia - Asianet Newsable",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTWtYUHJGVTZ5ZWYxNkhVcl9yOEY2ZlQ4MUtmcUJ6Sjg5dlFjaEUtMDc3dGxXXzhPSjA2OWtCRDFFekFOZFpJVE1lZVpiWDBKS2h0WGg0aTlMcUFoQi1JVFNhXzZnMmdvM1ZVYVF1N1NscmxmNk85UTZyci1yWkk4elVJVkd4RlI3ekQ1NjNtdU1LeW1IWEdYSjRZOTBPM2p3WVNUd1pjMnhFUUFDdlE1LVZicG5zNHdueUROZ1BMRVYxbGxadWfSAcYBQVVfeXFMT01rWFByRlU2eWVmMTZIVXJfcjhGNmZUODFLZnFCeko4OXZRY2hFLTA3N3RsV184T0owNjlrQkQxRXpBTmRaSVRNZWVaYlgwSktodFhoNGk5THFBaEItSVRTYV82ZzJnbzNWVWFRdTdTbHJsZjZPOVE2cnItclpJOHpVSVZHeEZSN3pENTYzbXVNS3ltSFhHWEo0WTkwTzNqd1lTVHdaYzJ4RVFBQ3ZRNS1WYnBuczR3bnlETmdQTEVWMWxsWnVn?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-26T07:01:08.000Z",
-          "riskScore": 67,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "PIB Fact Check debunks viral claims of new Rs 1,000 note, says RBI has made no announcement - The Hawk",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanI2dk1DS1g3QTJJREptaGUtYnlnejYtRng4Y21KaE1DYXgwa3hVNERDWUtqTlhjZllEb0pxSUc4LXM1anRkZ0hISDVQZUkySGJxZWxyYkNnZkJNM2Y1SV9mbTc2eVNTaWptbTBZNjhxY3lza28tYmRPOVF3OHdGNU1KUE14d2hDcllfaVNvNzNtZTlna3dsUExnS0R2alFlelVHMHJHbDlORW1mM0JkUTdZTHFCdEdBQUJjdUMtUk5kTGRyS3Zjc2ZUcEtvc1NIeThkZQ?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-10-27T09:51:25.000Z",
-          "riskScore": 63,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Indian Army Debunks Deepfake Video Targeting Lt Gen Girish Kalia - Asianet Newsable",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUpTR05CYzBiWW9FYmVBdEpxMktRTDR3MVV3RzU5alFnV1VXUkdyNVdRUzdqWDFpd2lMQkQ2YWZtZDNjTGVPbWhrU1pqRkJmN3RoRi01UDdhQnNnWXFrX3NVVGJ1R2xqbVlnZllhUldMaTU2NFpNeGhhOXNvSWYzVmNWRlVSZnpjRWZhRlVKVmtIZjg2TE5RY21DTEFlS1J0ZVg5dWM1WEdxbVptbXo3R3B1eVdrSWpNNm1UeGpQMnHSAcYBQVVfeXFMT01rWFByRlU2eWVmMTZIVXJfcjhGNmZUODFLZnFCeko4OXZRY2hFLTA3N3RsV184T0owNjlrQkQxRXpBTmRaSVRNZWVaYlgwSktodFhoNGk5THFBaEItSVRTYV82ZzJnbzNWVWFRdTdTbHJsZjZPOVE2cnItclpJOHpVSVZHeEZSN3pENTYzbXVNS3ltSFhHWEo0WTkwTzNqd1lTVHdaYzJ4RVFBQ3ZRNS1WYnBuczR3bnlETmdQTEVWMWxsWnVn?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-10-26T07:01:08.000Z",
-          "riskScore": 63,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "PIB fact check debunks viral claims of new Rs 1,000 note in India - Financial Express",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMlFFNDBFN0I4cHhlSnNZbEdYNzdlQlJScXAtQWJXRS1sZWxxaThXY0pSZWMxYjl0TGVVR3hTNjRxQ05PakpyM3RqUEw4ME9Gcl9fRWkzTzFYTTgwU0NrX1FFMWV4LU56V28yczRvWmRiVXhIS0hpZF8tcmJSb2t2bzFGN1ZKY3dxdUN1SFdsY3hENzF4YnNsVm85YkhsRURXMkcyUVlRaUtXU1RkeGNXUnVKTUMyZWt5?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-27T12:17:03.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "New yellow-coloured Rs 1,000 note in India? PIB Fact Check debunks widespread viral rumors - India.com",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTTRWTWZnMktILTVsSGtsSlVYYTg1WVlDSXBueFQ5OHFueFo2dXV5ZERST1Ztc0VhOVpZZTAzUkJ3NTRJdDNEMFVBQUdiQWdWOWdkai1EV01NRnNkRTVIdmZCWFRPUHRDcHZsX2FHeEVYZ25JMmsweHQ2UFRxem1Qazd1WjRFWGJiS3U4Vmd4UmpidUJzU0d5WmhJdkwzNHR4MG9NV1hFSm80Um1xcDRSZ1dJbi1OQlZfZ3VwSXZKUkVZOXEtM2ZFXzB1QTDSAcwBQVVfeXFMTU00Vk1mZzJLSC01bEhrbEpVWGE4NVlZQ0lwbnhUOThxbnhaNnV1eWREUk9WbXNFYTlaWWUwM1JCdzU0SXQzRDBVQUFHYkFnVjlnZGotRFdNTUZzZEU1SHZmQlhUT1B0Q3B2bF9hR3hFWGduSTJrMHh0NlBUcXptUGs3dVo0RVhiYkt1OFZneFJqYnVCc1NHeVpoSXZMMzR0eDBvTVdYRUpvNFJtcXA0UmdXSW4tTkJWX2d1cEl2SlJFWTlxLTNmRV8wdUEw?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-27T10:32:31.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "New Rs 1,000 note with temple design? PIB Fact Check debunks viral claim - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUXFqb0c0cm45UzdrV2wxT1l4N1I0STFVVnNSMEJfSW5PbHo1RnBnLWNkMzZMM0J6Tm1FMnAtNzgzeHRSZGxKSWs4MFdoOUJjRjlpc0tOUzg1U0VSOUNIZWdHUS1lRy1NTmNJNDJfLU9nZElKN1lCMmpBR2R3TlB6VUNnSl9YYnVTM21TenZUQk9feHBFa3pQVWFzRlFWVktvUTQ4OS1VRV9QRDl5Z3JNcWtaUFBSUGlOMm1nbUh0ejVhS3RWMGxEbUVkbmRBdkxMbmJoaNIB2gFBVV95cUxQR0d4YmpFdURkMmo2OFBsMy1pc3VpX19pRWk3NVRrUUhjbkxBeFZQVFhmMV91MzI4S09QOVdhY2Vkbkt2a05aYWJnNnYyNXdyRVVuNmhsdFl1UGZUczVfZ3B6bHZseDdWbG5SSWZNbU91cTR3ZWxWU0tFbFpEMnZKMzdtYkJ0ampYbzNUSkstdzJNUy1SSncyYTdDX0JoZTJDakd5YjBDdkp2UE9XSmZlVVBPcnRTbkRER2VieTNYdkVzNnJ6YlhUYmxzWEl0c3NxZmtVNUZ4YW9iUQ?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-27T10:27:00.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "New ₹1,000 note with temple image? PIB Fact Check debunks viral claim - CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeUp4QWc2NW9JQ0oyS3hyZFg2QjR6cjdVeVRWMGh3M09nZzE1dXVxTFBrb09mdjJTcG03Y2VRNGVuLUU2YnJ6WDlRQTBzUjhTSmdqVDVVMW0xQWNISGw4ZG9YQjlQNDRYUE1UYWZlanJwSTF1VmNBeTVkdHl0TjMzTFhSX2thUWpaY2pvaTIyRVFTRXFZbHZ2RUNLNFV0ZTllWFZPeV9MMkJibmw1N0xBbXBTTXk3dGdaRHJpU0JDenRhZ9IBxwFBVV95cUxPaVRzU0Q0VlhDczNIZ3Q3eHBKZW5mOGV5STYyZC1pQkkwNHFCVzkzVTI5QnNLSzY4Wmwwa2s5VWl3aV9NWXRYUzVoWmhSYm1HdDB0VFdVcG96bnNEUWQySjd1Yzl1LXJHbGw2eFZpVFJPY0poSk9mUVNwUHJGeG9VSUJYQXBKUHNMWnlnSzRJZ2cyYVlUSDNaWFRXYjFvdjFTZGZKSFdXRGxwQUxxMTZDRms2NGZCMi1STmhIVU8wdTJtMW5HQkhn?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-27T07:50:04.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 122,
+      "totalArticles": 133,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -42,
-      "reason": "Last 3 days averaged 12.3/day vs 21.3/day before.",
+      "changePercent": -25,
+      "reason": "Last 3 days averaged 16.0/day vs 21.3/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -248,14 +248,22 @@
         },
         {
           "date": "2026-10-26",
-          "count": 19
+          "count": 21
         },
         {
           "date": "2026-10-27",
-          "count": 10
+          "count": 19
         }
       ],
       "topArticles": [
+        {
+          "title": "Finance Complaint List Issues Urgent Alert on AI Deepfake Impersonation Scams, Outlines Steps to Protect Funds and Report Fraud - Big News Network.com",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYkpjQUgyMG90VDNobTlkMjc5NkVZeF9mVEZrbHJTZ0t3SlFtYmkyd3ZNcl8tb3oxOFFKdzIzQXZmQU9PYUM5UXFTdUM1NTJ2MmhsQk01VWxlRDJFOXhfZUtUZ2N4MXlKWmZZLWtSRHlrYUdTSEpPWC1USkFkZV9nRTFBR2Q1bDBHOVVsemZ2MnBSVU56V3JZSWVkZTJua1o5ZkhaM3dlVURES1FiV2RuV2NSd0o5M21YeEkxdDBibG9RT250RGpSLWNWaFNCeXd4Y2pGbGl3Z1dscFo4MG91Ui1kcW5yRHFBMzh6LWtsMmhJUlRubDAtWkxRUTdUMjhmeGc?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-27T10:16:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "Finance Complaint List Issues Urgent Alert on AI Deepfake Impersonation Scams, Outlines Steps to Protect Funds and Report Fraud - TechBullion",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFJZVEdsZV96WjZkX0R2VVRuX0hCM00xZEtBeHhBQlBBTkVzMS03REdCQnIxVFltOHBiaWtzX1RKYXdielFQYk5XR3V3TERobHVqcVNpMlo0cFRJYUZVZVhUay14czJDeXl5VGlFTDQzbXhiMGlyOFJDaUxoUTBidnhzaVFfNW5mME81aEswQ0RRWEV6aUxYU1lxRzltYkNyWS1vQXY2N1czb3hfTUZkeHhLNXVJMjdqSEE5VUNKOXQ5R181MGNyOXRvUGdoT05vRWRjTjNzUFNKc2pDTkpERlROb3Nidw?oc=5",
@@ -311,26 +319,18 @@
           "publishedAt": "2026-10-22T06:00:23.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Idaho Statesman",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VaVVEUVFCTGd2NmRQay1DUjFHLVNKNVVGWmhHTS1wYm82ZjRHSzFxVEQ2Y3czSXVTN1hlQ2EyV1k2MlBrZXY3R2RGRmFFVnNmNi1aSGI5b1Y3OVgyVFEtV2FwYjhqREt2VWNTYnI2Y2tkeWdh?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-21T21:01:08.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 57,
+      "totalArticles": 59,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -61,
-      "reason": "Last 3 days averaged 4.3/day vs 11.0/day before.",
+      "changePercent": -55,
+      "reason": "Last 3 days averaged 5.0/day vs 11.0/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -358,7 +358,7 @@
         },
         {
           "date": "2026-10-27",
-          "count": 2
+          "count": 4
         }
       ],
       "topArticles": [
@@ -431,12 +431,12 @@
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 42,
+      "totalArticles": 43,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -73,
-      "reason": "Last 3 days averaged 2.3/day vs 8.8/day before.",
+      "changePercent": -70,
+      "reason": "Last 3 days averaged 2.7/day vs 8.8/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -464,7 +464,7 @@
         },
         {
           "date": "2026-10-27",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -501,6 +501,14 @@
           "corroboratedBy": 2
         },
         {
+          "title": "PSD Warns Of Legal Action Over Online Hate Speech - Menafn",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW45MDNSeW1mNXFFR3l5MUVzU0hpS0V6TXUxNGlYUkMxZUtmT1ExOElEdVIwLVlFZlVnTl9CNXA1a2xmbDQ3blpTeGFOb3BVMG03d0h6WUJ5SGZoM0VwRHZXOUxfMFY0VkNSdW4zWkgxdF82alBoeHlqNGF5UWNlNm1xdnk2QQ?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-27T12:04:40.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Durban High Court: Duduzile Zuma-Sambudla Incitement Trial Resumes - Wansom AI",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEVYWnFtNGUwNlR5ak1EeFA2Y2poV0xSbnFGOUJhcXQyT3Q5QkhpZjFKLTVtSVUtX3dPWHNYakZGdVBQRmtRVGQzT3BoYjBMMTk1YTRyTmYxcnRjOGJnRUc4ZGtsRzFMMVB3SFFtamtDX1h2OHBjbFFsMEJGQWFfMDRiM0xIQ2NkOEE3LTNnM3FEVWZpeG44MXhUcFJaSVNxalpaeUZoLUlEc1VNVVlqR2N1a3daR1JwWWdMeHNIMEYyOWE1?oc=5",
           "source": "Google News • Violence and Violent Crime",
@@ -523,13 +531,111 @@
           "publishedAt": "2026-10-25T13:38:11.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "sexual-exploitation",
+      "label": "Sexual Exploitation",
+      "totalArticles": 23,
+      "distinctSources": 5,
+      "highRiskArticles": 0,
+      "trend": "Falling",
+      "changePercent": -63,
+      "reason": "Last 3 days averaged 1.7/day vs 4.5/day before.",
+      "daily": [
+        {
+          "date": "2026-10-21",
+          "count": 1
         },
         {
-          "title": "UP Vlogger Spreads Communal Hate Against Fort Kochi, Keralam, Gets Booked - Deccan Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS2R1MmFJNzNJUThkdkQ1VUo4UktjaHYzVWlEbU9fNWpMLUZ6NndHZDRVbXhfS2VwNjF5TThWWmx6b0tnbTFLc1hHdmNBaFBGYU1uTE5oV3ZnN1RnRW1Tb0pPN3FOaDZybTJOd2V5bm5OWXY5SHNiU3JkZkt6YXpWY0NFSVZkc2JTUFY3MlhWeTE2d2RDVFRWdEJ0enRnbng1VFpBc184aGpMNEozZG0tMEFzYm5qd2dRSHY2d0ZIWEd0Mm1rU1R3aHRRa1pfZVXSAdQBQVVfeXFMT0gtVTBzRlpoUTNETmRReWFPdWhSTEpYbGVDXzVqeVhFdGI0eUVXSWNrOGs5QkV6amRQUnkzampBdHdCczI0UlpiSF9wTGo2eEt1OERoR0dEU0JCdmZwWjUwTE5VWkVGMGlZbDNSREpRbzBKM1Y1Y1dPclNiR2xXUHdfcEZYQWx3Q3JYdkVIY1BUTk9xcFRxNlJibGFKUWM5WkZ4TEliWUVELVRZV2dHdzRpczdILUx0Mm80cUM5ZTgyd3JIQ3JTaWRWUkZVLW1qWHp1amM?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-25T07:27:19.000Z",
-          "riskScore": 44,
+          "date": "2026-10-22",
+          "count": 6
+        },
+        {
+          "date": "2026-10-23",
+          "count": 7
+        },
+        {
+          "date": "2026-10-24",
+          "count": 4
+        },
+        {
+          "date": "2026-10-25",
+          "count": 1
+        },
+        {
+          "date": "2026-10-26",
+          "count": 1
+        },
+        {
+          "date": "2026-10-27",
+          "count": 3
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Four-member gang involved in child exploitation, online grooming arrested in Islamabad - 24 News HD",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDBkUjhwMTkwdlVyb3RsVEdiR3kxNXZ2djhyQWxjZ2RCdWlJWlJyTUlYR2RqR2pGeVRWb0gzQ2lhZjdlUjdBeUhLbnlFSU1hY2Y4TmZQaU5WN3lFRkk3WHJhRVh5eTg2alltTWQ3SlRGQlBudXhpdkQ5aUF0SFg2WURvM0tXLUtWZjhsT05UaG9adkxCWTE3QnJna3V4YUFJam5QSlg3dzVFT0lTampaVDV5RVVFZw?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-10-23T16:01:40.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "‘Cult’ chat group grooming minors - The Manila Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNXB5OWpFdjJtYXEzNHVqTVFnOFVqR1FNQ1JsSzhLaWk4N2JWWDVSVC0zZ0lKZTBKZEtZcDZ6U3RKamlIQzB2V3hRTThmbGxVVEcyNHgxdFdqeGZVQ25yWElOTHNXX1ZGdmdHSVpBUjZLRHhQcVM4QnBBczY2anhQdldidjJGS3FKYkQ2am5rUdIBlAFBVV95cUxOVm5zMFlIcWJRX0N1cElhVktLVko3bTVQVmg5UnJndnVNMlQtYzdSYlBER1kwSEltWnJUVDZQaFlIeGZjWFV2T0diOXR0YldVVWhxRnlxYzNkV0F1NGJlMHFfN0NyTUxmZXRONU8wM0U0MDhTS2VEaDBIZWdsTkZqZGVGTlNZLVhaRmRzOE1TeFZEdzR2?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-27T16:12:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Nigeria’s Child Exploitation Crisis Exposes Gap Between Policy, Practice - The Whistler Newspaper",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFhjTkJpWUdhM0MyQzRRc0lUY0ZmM29HV1ZqV29iOTZ3Z3Q4MjBqZ3JSSXMyc0tTb3Z4VHJfTkJMWUtTa0Z6SVlJYndfV0VNb3h3S3oyYVNvSHdmN05adGRrb3hZVlBURUlYcUhaNHEzSFBHVG9qX2liYmpCVVVqNnVObTVzS19VNW1QWUUtZDQtTEhIS0xrNkRB?oc=5",
+          "source": "Google News • Human Exploitation Abuse",
+          "publishedAt": "2026-10-27T11:18:06.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Safety expert: online predator networks are widespread as Germany probe continues - WPTA | 21Alive | Fort Wayne, IN",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTl9KU3N1eUpkdFpvNTVfc0lndEtFckVqUGdtY3R0WFdhQTFIc1dwTHNFSDQxUk5jRE13aUt2N20zZm1iXzhpWWZDNVJiZFN4VjdxZEd3TzI1S243NG1rOFc3bnBWTm9JQ01YRUY2bjBHaURtaFJCd0FMLVVGUG92ZjQ4cHVtWU9pTE5JRE9Xd3JvdWxtTzZJbXRfenZQMUMxaVZsX3NlMG0xaVhoeF9fbjF3bUpkdnV6?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-10-26T22:37:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "NCCIA Busts Alleged International Child Exploitation Network - 247news.com.pk",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EdGk0ZDBHcGpzNXlUWnRmeWtPd2ZINndSVUZSRzFKWnFzdE14U29rcHNRMEFTS3oyV0lXbnBYQnZwdmxCa3c?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-26T04:55:49.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "‘First-of-its-kind’ in Pakistan: Father held for making and selling sexual abuse videos of his own children - Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWpOcUJkdnJwY1NUWHVFeS02ZkFLSnFJdkhobVMyUTdFWG9OaEljU0NhU2FkYXFmcXpGY2JHMWdHdDFKNUFPRXVqSjNta3ZlU2QyRC1pMDBUcEM1YTVTVFQyRGxNUVhYc0NrUXpTclBkY2xhZUh6X3VkUDZvaVJSLVRZSWZtdUx2WEZ3U3c1UFNHR0ltTVl5dFlFTk5WZnhFWEFINXgtOFA5M1Q1ZFBBcTJKZ0pZQTFyZUxpQ1pUV0ZlN1FacTFEeHRGdE5LS3pfX3RsZzFzLVdBZUZhREcwWm9teTlHZWNFYXpKZGVn0gGDAkFVX3lxTE5NWWxYWlNiZV9Tc0ZFMnMta2JkU2Jtdm96bENhdDhETnhhZC1sMXFzeTRRSWMzbDVyeWp5TEx5VHBqRzN4TjVqakNRay1oTkpIa0ctWHNMd1l6V0lLZV8tdHNEY0dTdHUzYXpSX194OEVPenI2Z1dfaHRILWlvaVctVWxBdHIydXhsbW94RktPN2U5QUNaeEFiZmI5ZGxPbzM4SktQZW5nWWpYZ0hQLUZoV2NzYldtZHIxOEVFd2RudGFSTWhoT215NkFMMG1SQ3JXYWlFbTV0VFlhbGpLLXVIbjBoVE80NW1Md3RPajdUNnRVU2hJUUg1aHhIT0dJVGRlVU0?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-25T12:41:02.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Franklin County Man Gets 25 Years for Child Exploitation - STL.News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SE9QUGQyUzRxaFpJSENpY2pVYUx2akJDNUczNU94UHZhNGd5Q3dvQUZWc1J3UEVkNlJ6akJGZS1NRlh0Mlo3X29rd0thR1ktZUVINWFsZUNaZ1FRNHpzN2pXVDQ0UXd4aVB6aFJuTmhBeDQ4eUhqWURmSjQybGM?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-24T11:01:19.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Hells Angels Member Sentenced To 136 Months In Federal Prison Following Fontana Child Exploitation Investigation - VVNG",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3J1Slg2cjdoM2FjUVRyb3FOOVkzek92aUVHX3B0QUJhd0pMcjFvanFPZzh3dHRLS1ZaR0tHLVQ2TzRmQ2ZQcjQ3Xy1NcnloeHdUbXhfUTZSSVBhd3A4eU04REMzdGxta0pqemNGS0l3bWVDdHRkS05aMGE1VXJNUWVBaC1SWk9XYWNUZ1UtcVQtclJncnQ2SnNhZmNOSGtJTnBnWHJ0UjJiXzU1OTF5XzFXSWRZRUpwUWpLbmxoLXlkM0trTzdJNThobFM4SUk?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-24T03:51:47.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         }
       ]
@@ -636,112 +742,6 @@
           "source": "Google News • Dangerous Criminal Organizations",
           "publishedAt": "2026-10-22T23:38:47.000Z",
           "riskScore": 56,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "sexual-exploitation",
-      "label": "Sexual Exploitation",
-      "totalArticles": 22,
-      "distinctSources": 5,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -70,
-      "reason": "Last 3 days averaged 1.3/day vs 4.5/day before.",
-      "daily": [
-        {
-          "date": "2026-10-21",
-          "count": 1
-        },
-        {
-          "date": "2026-10-22",
-          "count": 6
-        },
-        {
-          "date": "2026-10-23",
-          "count": 7
-        },
-        {
-          "date": "2026-10-24",
-          "count": 4
-        },
-        {
-          "date": "2026-10-25",
-          "count": 1
-        },
-        {
-          "date": "2026-10-26",
-          "count": 1
-        },
-        {
-          "date": "2026-10-27",
-          "count": 2
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Four-member gang involved in child exploitation, online grooming arrested in Islamabad - 24 News HD",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDBkUjhwMTkwdlVyb3RsVEdiR3kxNXZ2djhyQWxjZ2RCdWlJWlJyTUlYR2RqR2pGeVRWb0gzQ2lhZjdlUjdBeUhLbnlFSU1hY2Y4TmZQaU5WN3lFRkk3WHJhRVh5eTg2alltTWQ3SlRGQlBudXhpdkQ5aUF0SFg2WURvM0tXLUtWZjhsT05UaG9adkxCWTE3QnJna3V4YUFJam5QSlg3dzVFT0lTampaVDV5RVVFZw?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-10-23T16:01:40.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Nigeria’s Child Exploitation Crisis Exposes Gap Between Policy, Practice - The Whistler Newspaper",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFhjTkJpWUdhM0MyQzRRc0lUY0ZmM29HV1ZqV29iOTZ3Z3Q4MjBqZ3JSSXMyc0tTb3Z4VHJfTkJMWUtTa0Z6SVlJYndfV0VNb3h3S3oyYVNvSHdmN05adGRrb3hZVlBURUlYcUhaNHEzSFBHVG9qX2liYmpCVVVqNnVObTVzS19VNW1QWUUtZDQtTEhIS0xrNkRB?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-10-27T11:18:06.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Safety expert: online predator networks are widespread as Germany probe continues - WPTA | 21Alive | Fort Wayne, IN",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTl9KU3N1eUpkdFpvNTVfc0lndEtFckVqUGdtY3R0WFdhQTFIc1dwTHNFSDQxUk5jRE13aUt2N20zZm1iXzhpWWZDNVJiZFN4VjdxZEd3TzI1S243NG1rOFc3bnBWTm9JQ01YRUY2bjBHaURtaFJCd0FMLVVGUG92ZjQ4cHVtWU9pTE5JRE9Xd3JvdWxtTzZJbXRfenZQMUMxaVZsX3NlMG0xaVhoeF9fbjF3bUpkdnV6?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-10-26T22:37:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "NCCIA Busts Alleged International Child Exploitation Network - 247news.com.pk",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EdGk0ZDBHcGpzNXlUWnRmeWtPd2ZINndSVUZSRzFKWnFzdE14U29rcHNRMEFTS3oyV0lXbnBYQnZwdmxCa3c?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-26T04:55:49.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "‘First-of-its-kind’ in Pakistan: Father held for making and selling sexual abuse videos of his own children - Gulf News",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWpOcUJkdnJwY1NUWHVFeS02ZkFLSnFJdkhobVMyUTdFWG9OaEljU0NhU2FkYXFmcXpGY2JHMWdHdDFKNUFPRXVqSjNta3ZlU2QyRC1pMDBUcEM1YTVTVFQyRGxNUVhYc0NrUXpTclBkY2xhZUh6X3VkUDZvaVJSLVRZSWZtdUx2WEZ3U3c1UFNHR0ltTVl5dFlFTk5WZnhFWEFINXgtOFA5M1Q1ZFBBcTJKZ0pZQTFyZUxpQ1pUV0ZlN1FacTFEeHRGdE5LS3pfX3RsZzFzLVdBZUZhREcwWm9teTlHZWNFYXpKZGVn0gGDAkFVX3lxTE5NWWxYWlNiZV9Tc0ZFMnMta2JkU2Jtdm96bENhdDhETnhhZC1sMXFzeTRRSWMzbDVyeWp5TEx5VHBqRzN4TjVqakNRay1oTkpIa0ctWHNMd1l6V0lLZV8tdHNEY0dTdHUzYXpSX194OEVPenI2Z1dfaHRILWlvaVctVWxBdHIydXhsbW94RktPN2U5QUNaeEFiZmI5ZGxPbzM4SktQZW5nWWpYZ0hQLUZoV2NzYldtZHIxOEVFd2RudGFSTWhoT215NkFMMG1SQ3JXYWlFbTV0VFlhbGpLLXVIbjBoVE80NW1Md3RPajdUNnRVU2hJUUg1aHhIT0dJVGRlVU0?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-25T12:41:02.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Franklin County Man Gets 25 Years for Child Exploitation - STL.News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SE9QUGQyUzRxaFpJSENpY2pVYUx2akJDNUczNU94UHZhNGd5Q3dvQUZWc1J3UEVkNlJ6akJGZS1NRlh0Mlo3X29rd0thR1ktZUVINWFsZUNaZ1FRNHpzN2pXVDQ0UXd4aVB6aFJuTmhBeDQ4eUhqWURmSjQybGM?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-24T11:01:19.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Hells Angels Member Sentenced To 136 Months In Federal Prison Following Fontana Child Exploitation Investigation - VVNG",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3J1Slg2cjdoM2FjUVRyb3FOOVkzek92aUVHX3B0QUJhd0pMcjFvanFPZzh3dHRLS1ZaR0tHLVQ2TzRmQ2ZQcjQ3Xy1NcnloeHdUbXhfUTZSSVBhd3A4eU04REMzdGxta0pqemNGS0l3bWVDdHRkS05aMGE1VXJNUWVBaC1SWk9XYWNUZ1UtcVQtclJncnQ2SnNhZmNOSGtJTnBnWHJ0UjJiXzU1OTF5XzFXSWRZRUpwUWpLbmxoLXlkM0trTzdJNThobFM4SUk?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-24T03:51:47.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "CICC, Discord officials discuss child safety measures vs 'online groomers' amid school violence concerns - Manila Bulletin",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmpCVnJNc2duRFNNVE5vWXB0RE5PaVpWWVYyZXp0NU1uelJuNXgwbXBuWWxxYjlXa3hGT0kzbjFBa0xwQ1R0RWpCRTBHMFVEWHFfclB5aDNfR2VrUG8ycklWMWpZYkVBYWhWQ2o4U2plak4wbUZjbWJjbFJSdlJkazJkVlYyX0xEcEFrWmNJU01jZ19kQldsaXdGbm9ZdFF5Ukk0M2pzRG56ejJjc0FlLUE4bzRfdWxIU05sMXdZSHctZFYzQzlYeGV3?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-24T02:33:08.000Z",
-          "riskScore": 52,
           "corroboratedBy": 1
         }
       ]

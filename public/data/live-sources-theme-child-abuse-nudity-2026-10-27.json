@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:30:59.217Z",
+  "generatedAt": "2026-10-27T18:10:53.066Z",
   "snapshot": true,
   "date": "2026-10-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,63 +37,63 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 74
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 56
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 72
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 30
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -193,6 +193,36 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Transgender Pedophile Previously Caught With Videos of 5-Year-Olds Being Raped Sentenced To 25 Years in Prison on New Child Sexual Abuse Charges - Reduxx",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQXzd6c3RBX2dpRTNxeFM3UERLai1odlF0X0tFSmI3VmVzek10ZDhIZFVoaG1yYXpzNjJxN0pveWdPZllTTmtMMHdjWVNpZWlKdGtBb3ljeXNRQzl0SWlQY1A3aGIxZVpfRXZiY1MwdU54WHJBSzhYR1QxRWpfWHhpc1hSUHdfRVNNdzhXdF84emVRN3Awekx1dkFCUkhXSExEZ005Q3YyZFN0TFpLemVENDdMZENPM1kwRmJYdzJacWlYalZ2b0U4QS0wb3RxbU0xd3JDelRSWVphcjhXYXFBblI0c1NCVmtXTi03aHl6T3h4QU1GUDR0dA?oc=5",
+      "snippet": "Transgender Pedophile Previously Caught With Videos of 5-Year-Olds Being Raped Sentenced To 25 Years in Prison on New Child Sexual Abuse Charges Reduxx",
+      "publishedAt": "2026-10-27T17:34:15.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl - AboutLawsuits.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWtINlprbmh3bG12MnRqM044RTQ1NkVqTjVSbVhneHAyR0dXaWROYjBpWFA0bG5JOUxiUTA5a0c2NDhITHU1YjZPcUNiWmVPbDFlMFZFU1NGaFc5bTBmQWxHbVBvako3Ry1ta1FYa3otZVhsZFNpdnZUUWFMekJDMWdCVGNEVWdTbS1yN3RBWXVBSnBJdkh5MkZxd1hMUmpXZ25jX1BQTlRoZjBZSzVBY3JfeGM0Zw?oc=5",
+      "snippet": "Snapchat Child Sexual Abuse Lawsuit Alleges Predator Targeted 9-Year-Old Girl AboutLawsuits.com",
+      "publishedAt": "2026-10-27T14:00:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
