@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:20:48.736Z",
+  "generatedAt": "2026-10-27T12:30:59.217Z",
   "snapshot": true,
   "date": "2026-10-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,35 +58,35 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 9
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 71
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "University of Copenhagen Data Breach Exposes 525,000 People’s Personal Data, Including Phone Numbers - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMXpmOFF3emkxNzFZbGt0WTZXMldYckM0Q0FPWDJhUmdFdkhqaWZXZURSc3Boa0tYVTVLTXhNZHZhTnlqT1VLWW9KUnR6WGZ4eGpKYUxaUW9qWDU2d0xSbWJGM2xYb0JQZG5iT1E5elk5cXlxSFHSAXtBVV95cUxNeUZLQ09tNFhtMm1fOHNpOEhDN29ubHhZYk5sR1FCS0lwVXpJdWEza1pxbHBMN183UlhVdFRORDQwZ21GLXV0M0FrNnR3Y2lubFJQYVJBV19SYzBsV285a0FXamNkRXhhM2VON0ZNelFmSjJLQ2RfOFJYWUE?oc=5",
+      "snippet": "University of Copenhagen Data Breach Exposes 525,000 People’s Personal Data, Including Phone Numbers CyberSecurityNews",
+      "publishedAt": "2026-10-27T10:43:55.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity incidents hit over 50% of schools and districts in past year - K-12 Dive",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXpxc2g4Yk5Rb0g1MVNNY2ZfN1lVbXJ4S2dnODM5Z1cyV1hYZy1lSy1oVFV6VVBqa0Q0emtjWVNrR3d2cjdMM3VZd3U0bmIwSGFsN2Y2Z2ZBT0FXZzZSWVZiaVFsREVkcWN1c1hUQjFlb0cxb1dNcUFQRmQtMjBKZmg5a3NRMjRnXzFnX1h5VGF0U2lteWVaVzI5WlhVOXJiZW5saWxwNFBmakZ2N3A4?oc=5",
+      "snippet": "Cybersecurity incidents hit over 50% of schools and districts in past year K-12 Dive",
+      "publishedAt": "2026-10-27T10:45:52.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Tech Tuesday: The complete guide to next-gen cybersecurity for small businesses in 2026 - Dynamic Business",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYzhGVWxDd29oeHlVRHBhd0hjOFIwTklocVZRc0hxd1ZvRm9oQ3VxaHhrMlFxSkNzMjhMVXF6ZUNIZThSVnZSM3RCX3JZcmRVUmZPcno5NmhTR3RHQWYtYkI2SFdZTHRDNWFxcXp5bFFPeGZBVGY3VWtDQ1FuODgxdGU3SnlkTEFvZjdNVjlTcEF2a1BobWZXMVRkbEtqQjJaSkRtaGVUTmx2c205S185cHR5aTBBSUFicmxwMFF6eXlIQ0ItUkJGWVRoMmFjRHFaNzQ3c2VzWlc?oc=5",

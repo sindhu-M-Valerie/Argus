@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:20:48.736Z",
+  "generatedAt": "2026-10-27T12:30:59.217Z",
   "snapshot": true,
   "date": "2026-10-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 95
+    "total": 99
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,35 +58,35 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 9
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 71
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -493,6 +493,21 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "28 arrested in scam crackdown as Binance flags Sh1.36 trillion in potential fraud - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3lDNnI1TFdNbnNvWDFIVkh5a3JBT0g0bzIxM0VydW92alBjMHc0bnNhQTIwUmVYTG5XUFlHb2RIdnZsWTRPUDZsdmFGOFUwNXcyeTF4SDh5RVR0T0FCcmNqYTFZMHN1QUNUQ0Zncm51U2dHS1JTZ3dLX2RiZzBnQVFFeFJQZHdFU0c4clVRbUhPeGdLY3BLUXVkdUJZTVRtWTFpQ2s5WTVDYm0wZmZKRUFPMFVrVUJfTXhUSHJn?oc=5",
+      "snippet": "28 arrested in scam crackdown as Binance flags Sh1.36 trillion in potential fraud Citizen Digital",
+      "publishedAt": "2026-10-26T13:06:04.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -917,6 +932,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "WHO Pressed to Classify Climate Disinformation as Public Health Threat - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3daaTFuODNlUHBIQVlBV3loVEpwd1l4U21BQ3p6Y1I3SWRFYmt2OXpWQ1ZwSjB3Ylc3OXdueW56dzlTbmZjaHNkZ0U2V0pUcUhEQXJfTkkyeUNyMHJJUjBoNkMtYlpkcHF0Vy13R2MxTkdMY1Z5aDFKc19qN0JGdmFOSzZVaXRIQXpBOFZCcHUtd1RHZkdjVE9RR08xdw?oc=5",
+      "snippet": "WHO Pressed to Classify Climate Disinformation as Public Health Threat - News and Statistics IndexBox",
+      "publishedAt": "2026-10-26T15:40:59.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "‘Hybrid weapon of war’: Why climate disinformation could be a growing public health threat - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnlzNXRoR09fT21JUWlNU0VTVnJKMWYycGRLbG9HTUdqdDVqRjdTR0pPRnA3aUJ0azJDMTkxcFdOd1RwYlFzVW42V1FNU1VRTkFHQjNtZ0hHSVhSTWJZVDlqTzkxZUV1RW9BZnEtNHUtQ01Eajk4dlVrMHFCYmtydWM0bkY5b21EWHRtX2RCV3NmbnUtbGc0Q19uQWhKdjRqSnZDWkRBUjRrRWhRb0c1U1NKTmxzc0hGUmxvNDliY1M?oc=5",
       "snippet": "‘Hybrid weapon of war’: Why climate disinformation could be a growing public health threat Euronews.com",
@@ -1172,6 +1202,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "How to Detect and Stop Account Takeover on Consumer Platforms - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SbnVVbkE1VGo1c285TG1hQlFUczZXYUgyd0V5VzhCVnd4RW9jbjZZVW9zN01xNFlWOTV0Tm1WSWNLaHhFckF6QUs2Z2VFZUF3OVZxVEtBUTJ1eVo5OVN5RDdqOEZfdGFGRjc0U2xwTTJ5bDVkWmdR?oc=5",
+      "snippet": "How to Detect and Stop Account Takeover on Consumer Platforms CyberSecurityNews",
+      "publishedAt": "2026-10-25T18:42:35.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Rhode Island Sues Meta Over Fraudulent Ads 10/27/2026 - MediaPost",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3NMelBCdUplS3RZNDhlSGdteC1md1lzVk1vRldTQ1EzcmlfckpXNG9MZkpyaTd6cDlLblNia2ctd0N5Nm5ZOWwxZEowMXBwVW5LNTE5WGpDNkdQZHAxZ1FraDdfSm5CSlE3WGtfUEEwZWF1SWlEekZRenlHcXJQUHE2cHhTcUQ4bi1UVHNvT1dma1VOX2c5OVBKWVRfd20yVXNv?oc=5",
       "snippet": "Rhode Island Sues Meta Over Fraudulent Ads 10/27/2026 MediaPost",
@@ -1362,6 +1407,21 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NSU, UNODC launch second certificate course on trafficking, migrant smuggling laws - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFV0cTlkMHVoRVdLUkFfZkkyTUlGMnV4T3RXM3dpdzVfYy1iVTVSN3VBVmZsbElRTkREc016YWNkdFlqd0ZWN0w4TDNGcVJTMjhOTVVGR25VcWplMXZ2aWcwbTY1WGVwbEtoZktIWEhtQ2lXSU9fdHI0MWdHU2RVY0pyaTNNYlpuWVJXVjhQSGFRaUV4YVBxMTVXcW9JUVlrdW1RRnBPSENSSVNxRDBBcVlIN0Q0ZThoMmpRUA?oc=5",
+      "snippet": "NSU, UNODC launch second certificate course on trafficking, migrant smuggling laws The Business Standard",
+      "publishedAt": "2026-10-26T16:15:49.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

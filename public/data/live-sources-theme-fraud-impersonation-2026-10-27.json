@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:20:48.736Z",
+  "generatedAt": "2026-10-27T12:30:59.217Z",
   "snapshot": true,
   "date": "2026-10-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 10
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,35 +58,35 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 9
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 71
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,66 @@
   ],
   "data": [
     {
+      "title": "Finance Complaint List Issues Urgent Alert on AI Deepfake Impersonation Scams, Outlines Steps to Protect Funds and Report Fraud - TechBullion",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVFJZVEdsZV96WjZkX0R2VVRuX0hCM00xZEtBeHhBQlBBTkVzMS03REdCQnIxVFltOHBiaWtzX1RKYXdielFQYk5XR3V3TERobHVqcVNpMlo0cFRJYUZVZVhUay14czJDeXl5VGlFTDQzbXhiMGlyOFJDaUxoUTBidnhzaVFfNW5mME81aEswQ0RRWEV6aUxYU1lxRzltYkNyWS1vQXY2N1czb3hfTUZkeHhLNXVJMjdqSEE5VUNKOXQ5R181MGNyOXRvUGdoT05vRWRjTjNzUFNKc2pDTkpERlROb3Nidw?oc=5",
+      "snippet": "Finance Complaint List Issues Urgent Alert on AI Deepfake Impersonation Scams, Outlines Steps to Protect Funds and Report Fraud TechBullion",
+      "publishedAt": "2026-10-27T09:26:42.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Be vigilant against phishing scams, cyber fraud, Bank customers advised - Daily Trust",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1kzalg2Tm9kYi1PRlRtamlISTlSQkI0ZURjc0JGV0FfVExPSjVCdWtIclVOem1TVVJXRkVncWtYejlnSXo0enh0cjNtVmJVT05CQU90Z0dIaktTaWRxOVVfbjhUTlZNalZLbkZRU001bGl5OHZzSEVINHp6bHNQcVVTLWFvclhFRHVlZm5tWHQ4azNNTnlvbA?oc=5",
+      "snippet": "Be vigilant against phishing scams, cyber fraud, Bank customers advised Daily Trust",
+      "publishedAt": "2026-10-27T05:28:22.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Microsoft Teams to Use AI to Catch Phishing Scams Hidden in Conversations - The420.in",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMV9EZTRCX2daQllxeHhOWjd3WFFFNnU5bGRzbEhmcVd1T3VkbDMzLUtoTmVtTi1WekpZZFZ5MWpwM2VTcTk3NDdLdjM2YW5feGU4OFNxZlNZSDNIbmUxVGJhTlpUTzVsQUhLaEpsZUlsTEVyQ1hmOVg5UkQwMko4YjlGRDk?oc=5",
+      "snippet": "Microsoft Teams to Use AI to Catch Phishing Scams Hidden in Conversations The420.in",
+      "publishedAt": "2026-10-27T05:59:49.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Scammers target major holiday parks across Australia in cybersecurity breach - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRQdEZPcnpIZ21kaVR2amFPVFUwcFdIbHBBc2xILWE0azR5RVRWcUVkSUNhWXM4bTJTcDIybUJFcmlmM281bzFDbUk1TlNhQXBnMDYyLVoyU05vVnlwZzZPWktWVXRtZktZWTF5UFhmV1RhLTg4bUxzRWVuVkxzbHdTR1lUc1J0bWpqLQ?oc=5",
+      "snippet": "Scammers target major holiday parks across Australia in cybersecurity breach ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-10-27T05:24:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "ACAMB advises bank customers against phishing scams, urges protection of sensitive information - Businessday NG",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFlpc1hpR0lGU1dIUHl3aHF3cEVRMXZPSnBtSlE2SHBPVTFZZU1Ray05WHprWW1MdE13RHRlZHllZ3NGNnMxaFZkT2RjSE9ZeDhLaVhqcmhpMVFzMi02UHZCTkY1bnBSeFcwd25vby1EREo5UVMwVjJMam11bHhnOFZjRXcxVkRwQWZQbE9wdE00YWx3SlZydVZiT3BNYmltbDhWN2l3Ul9xR2Z5QWNUd2NlV01XSlJBSFZ3Vy1GWkRwUzNjMkVfcnBuUlc3QTB0MkNodW130gHWAUFVX3lxTE5oWWlzWGlHSUZTV0hQeXdocXdwRVExdk9KcG1KUTZIcE9VMVllTVFrLTlYemtZbUx0TXdEdGVkeWVnc0Y2czFoVmRPZGNIT1l4OEtpWGpyaGkxUXMyLTZQdkJORjVucFJ4VzB3bm9vLURESjlRUzBWMkxqbXVseGc4VmNFdzFWRHBBZlBsT3B0TTRhbHdKVnJ1VmJPcE1iaW1sOFY3aXdSX3FHZnlBY1R3Y2VXTVdKUkFIVndXLUZaRHBTM2MyRV9ycG5SVzdBMHQyQ2h1bXc?oc=5",
       "snippet": "ACAMB advises bank customers against phishing scams, urges protection of sensitive information Businessday NG",
@@ -193,6 +253,51 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Festive Online Scams! | Fitbit Air Vs Watch Ultra 4 & iPhone Duo Reactions | Tech Today - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSkozV0ppMUp5YVVFUzBvaU1WMFFqaGlHbnNfSEdJSEtaYkhvSHhFSzNseC1pVHhkQzI0b2ZQS0pMVWNGZVU4RHFGQmcyY0h2SncyN1JQa2JpWklwOF9zV2V0eXpybXhiZTBRZUFPODFNQmo4TW15ZVZwZTdycVUyR1E4TFJVc1dELWxPaHprNHlCeHVEZVFwQlFZSG1PM29xVnVnbTVwdFdHQVdWaHVGb09kT2tWSEVqalphWjdjY0JxRWpoRU1lNXo0dUlDUndBZXptcWVQRkYwb19aX2pEaW130gHiAUFVX3lxTE1KSjNXSmkxSnlhVUVTMG9pTVYwUWpoaUduc19IR0lIS1piSG9IeEVLM2x4LWlUeGRDMjRvZlBLSkxVY0ZlVThEcUZCZzJjSHZKdzI3UlBrYmlaSXA4X3NXZXR5enJteGJlMFFlQU84MU1CajhNbXllVnBlN3JxVTJHUThMUlVzV0QtbE9oems0eUJ4dURlUXBCUVlIbU8zb3FWdWdtNXB0V0dBV1ZodUZvT2RPa1ZIRWpqWmFaN2NjQnFFamhFTWU1ejR1SUNSd0Flem1xZVBGRjBvX1pfakRpbXc?oc=5",
+      "snippet": "Festive Online Scams! | Fitbit Air Vs Watch Ultra 4 & iPhone Duo Reactions | Tech Today Business Today",
+      "publishedAt": "2026-10-27T07:55:59.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Microsoft Teams to use AI to proactively detect Phishing Attacks - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVVNSWVqSmhOTUVBOVJMcnNIRUZnUjFDT203RDZsb1hicU9NQy1RNEJhdFkxeGhaSU5WU1lUVXMzZUl4U1RDbXdVSTIzZzZiTy1HdHB0OGlyaXJSV2lDUU1XR3U5QlN6Y1ZpaDF4X0J3SVpKUFp3UUN5QjhzdlNiSnloTkwyYkNfaXJudXhmcUZ6dkN1WXlMWG9fVUZHMnR4dmZjRVZHYw?oc=5",
+      "snippet": "Microsoft Teams to use AI to proactively detect Phishing Attacks Cybersecurity Insiders",
+      "publishedAt": "2026-10-27T06:01:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australian tourist parks warn of phishing after RMS Cloud incident - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOW5OYTYxeUhrSXZvT3lrM2pSazBlZi1iTl94UDdIUWRLb1FlcE9OQm4tWGdIeWRtdTNKaDItaW9xbVpQNjFsbjd4OUIwWVNzd0tCQ3IxMkgtcWE1Nm9xMGVHSVc3MVFyMnFyTkRVNmtSS0R1VnBHU1I3LWRHUGVDTkd4cHl5bEFTUTlyMzJUc2xzTGNRX0ZnVEZocHlyRmlkNGJzM24yd1IwYTNqNEhudFNvT1d6b0pyckhCUXB1NHVlU3lmbGNYMHJ3dVM?oc=5",
+      "snippet": "Australian tourist parks warn of phishing after RMS Cloud incident UA.NEWS",
+      "publishedAt": "2026-10-27T05:44:59.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

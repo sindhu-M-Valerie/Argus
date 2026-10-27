@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:20:48.736Z",
+  "generatedAt": "2026-10-27T12:30:59.217Z",
   "snapshot": true,
   "date": "2026-10-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 16
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 64
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,35 +58,35 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 9
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 71
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,141 @@
   ],
   "data": [
     {
+      "title": "PIB Fact Check debunks viral claims of new Rs 1,000 note, says RBI has made no announcement - The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmp1UlVGczV6OWtZRUFtdUR3SThiN2ZMampUcElWWE9aV0kwS1ZFbDYzZTdxVGN3YWJ1M0c3ZnNBMHlXd2xHTDhabWp4QnBLLTZVclRpaU5DYkJIU0xmOVM3ZUZxSnpVQVZQc0VvZjRadkd2VXg5LXJPVjJxM2FBUzI0SXdqZEJMMDNwbTBCQ1FnWXg1RzlkOUI0aDdOMm8ta1pJcjZqVVlJM2NiSFp5b1Vpc2tCbTdHRzQ1MEY5eDRwZThzN19qblc5S3FLY3NB?oc=5",
+      "snippet": "PIB Fact Check debunks viral claims of new Rs 1,000 note, says RBI has made no announcement The Hans India",
+      "publishedAt": "2026-10-27T09:57:14.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 67,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "PIB Fact Check debunks viral claims of new Rs 1,000 note, says RBI has made no announcement - The Hawk",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanI2dk1DS1g3QTJJREptaGUtYnlnejYtRng4Y21KaE1DYXgwa3hVNERDWUtqTlhjZllEb0pxSUc4LXM1anRkZ0hISDVQZUkySGJxZWxyYkNnZkJNM2Y1SV9mbTc2eVNTaWptbTBZNjhxY3lza28tYmRPOVF3OHdGNU1KUE14d2hDcllfaVNvNzNtZTlna3dsUExnS0R2alFlelVHMHJHbDlORW1mM0JkUTdZTHFCdEdBQUJjdUMtUk5kTGRyS3Zjc2ZUcEtvc1NIeThkZQ?oc=5",
+      "snippet": "PIB Fact Check debunks viral claims of new Rs 1,000 note, says RBI has made no announcement The Hawk",
+      "publishedAt": "2026-10-27T09:51:25.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 63,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "PIB fact check debunks viral claims of new Rs 1,000 note in India - Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMlFFNDBFN0I4cHhlSnNZbEdYNzdlQlJScXAtQWJXRS1sZWxxaThXY0pSZWMxYjl0TGVVR3hTNjRxQ05PakpyM3RqUEw4ME9Gcl9fRWkzTzFYTTgwU0NrX1FFMWV4LU56V28yczRvWmRiVXhIS0hpZF8tcmJSb2t2bzFGN1ZKY3dxdUN1SFdsY3hENzF4YnNsVm85YkhsRURXMkcyUVlRaUtXU1RkeGNXUnVKTUMyZWt5?oc=5",
+      "snippet": "PIB fact check debunks viral claims of new Rs 1,000 note in India Financial Express",
+      "publishedAt": "2026-10-27T12:17:03.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New yellow-coloured Rs 1,000 note in India? PIB Fact Check debunks widespread viral rumors - India.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTTRWTWZnMktILTVsSGtsSlVYYTg1WVlDSXBueFQ5OHFueFo2dXV5ZERST1Ztc0VhOVpZZTAzUkJ3NTRJdDNEMFVBQUdiQWdWOWdkai1EV01NRnNkRTVIdmZCWFRPUHRDcHZsX2FHeEVYZ25JMmsweHQ2UFRxem1Qazd1WjRFWGJiS3U4Vmd4UmpidUJzU0d5WmhJdkwzNHR4MG9NV1hFSm80Um1xcDRSZ1dJbi1OQlZfZ3VwSXZKUkVZOXEtM2ZFXzB1QTDSAcwBQVVfeXFMTU00Vk1mZzJLSC01bEhrbEpVWGE4NVlZQ0lwbnhUOThxbnhaNnV1eWREUk9WbXNFYTlaWWUwM1JCdzU0SXQzRDBVQUFHYkFnVjlnZGotRFdNTUZzZEU1SHZmQlhUT1B0Q3B2bF9hR3hFWGduSTJrMHh0NlBUcXptUGs3dVo0RVhiYkt1OFZneFJqYnVCc1NHeVpoSXZMMzR0eDBvTVdYRUpvNFJtcXA0UmdXSW4tTkJWX2d1cEl2SlJFWTlxLTNmRV8wdUEw?oc=5",
+      "snippet": "New yellow-coloured Rs 1,000 note in India? PIB Fact Check debunks widespread viral rumors India.com",
+      "publishedAt": "2026-10-27T10:32:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New Rs 1,000 note with temple design? PIB Fact Check debunks viral claim - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUXFqb0c0cm45UzdrV2wxT1l4N1I0STFVVnNSMEJfSW5PbHo1RnBnLWNkMzZMM0J6Tm1FMnAtNzgzeHRSZGxKSWs4MFdoOUJjRjlpc0tOUzg1U0VSOUNIZWdHUS1lRy1NTmNJNDJfLU9nZElKN1lCMmpBR2R3TlB6VUNnSl9YYnVTM21TenZUQk9feHBFa3pQVWFzRlFWVktvUTQ4OS1VRV9QRDl5Z3JNcWtaUFBSUGlOMm1nbUh0ejVhS3RWMGxEbUVkbmRBdkxMbmJoaNIB2gFBVV95cUxQR0d4YmpFdURkMmo2OFBsMy1pc3VpX19pRWk3NVRrUUhjbkxBeFZQVFhmMV91MzI4S09QOVdhY2Vkbkt2a05aYWJnNnYyNXdyRVVuNmhsdFl1UGZUczVfZ3B6bHZseDdWbG5SSWZNbU91cTR3ZWxWU0tFbFpEMnZKMzdtYkJ0ampYbzNUSkstdzJNUy1SSncyYTdDX0JoZTJDakd5YjBDdkp2UE9XSmZlVVBPcnRTbkRER2VieTNYdkVzNnJ6YlhUYmxzWEl0c3NxZmtVNUZ4YW9iUQ?oc=5",
+      "snippet": "New Rs 1,000 note with temple design? PIB Fact Check debunks viral claim The Times of India",
+      "publishedAt": "2026-10-27T10:27:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New ₹1,000 note with temple image? PIB Fact Check debunks viral claim - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeUp4QWc2NW9JQ0oyS3hyZFg2QjR6cjdVeVRWMGh3M09nZzE1dXVxTFBrb09mdjJTcG03Y2VRNGVuLUU2YnJ6WDlRQTBzUjhTSmdqVDVVMW0xQWNISGw4ZG9YQjlQNDRYUE1UYWZlanJwSTF1VmNBeTVkdHl0TjMzTFhSX2thUWpaY2pvaTIyRVFTRXFZbHZ2RUNLNFV0ZTllWFZPeV9MMkJibmw1N0xBbXBTTXk3dGdaRHJpU0JDenRhZ9IBxwFBVV95cUxPaVRzU0Q0VlhDczNIZ3Q3eHBKZW5mOGV5STYyZC1pQkkwNHFCVzkzVTI5QnNLSzY4Wmwwa2s5VWl3aV9NWXRYUzVoWmhSYm1HdDB0VFdVcG96bnNEUWQySjd1Yzl1LXJHbGw2eFZpVFJPY0poSk9mUVNwUHJGeG9VSUJYQXBKUHNMWnlnSzRJZ2cyYVlUSDNaWFRXYjFvdjFTZGZKSFdXRGxwQUxxMTZDRms2NGZCMi1STmhIVU8wdTJtMW5HQkhn?oc=5",
+      "snippet": "New ₹1,000 note with temple image? PIB Fact Check debunks viral claim CNBC TV18",
+      "publishedAt": "2026-10-27T07:50:04.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New ₹1,000 currency note with temple design? Government fact-checks - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0sySzRMLXk0YnhXOTFPLVRwT19vZEhTZElqNmJSdmk4ODJkdDViWnRKY1RWbWd1a1JQMkJReWp1LW80YXNZWklZRGlLbHc4aGd0am5FcVJ2NTVFblI3NTVLOHJrT2hkdVVZR1ZtbGQ0YlI5Y29sOFYyUVFGQkFCN0ROTW5CZHl6?oc=5",
+      "snippet": "New ₹1,000 currency note with temple design? Government fact-checks NewsBytes",
+      "publishedAt": "2026-10-27T11:25:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "₹1,000 note returns? PIB Fact Check dismisses viral social media claim - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVnZsQVVqZWFQazRzVjBabkNwZUxmc3dTWWUzbF9yTG9QTnd3cW9sb0JMdmxYcXl3X3UxbV84ZGZ5ZkJQVk4xc3VSUnloaFV2cjdva1FMOUZKMzNNYWJ4MDZHbHBrM0dEY1VXSmp6cVVDSUVxMVpWbF94b0JqblJjWE1rbGp0NjdDSEJ0MkhCSlpwbnlMVkI0RWlLWTg0RTlXRHJ5Y0RlNnJJMjN4SExLUXB0RmktNTRtZ29oQ3kwdXZGWFFnWmJr0gHMAUFVX3lxTFBaRlNBYXZoem43WEZrMFdaVTRseE5jRHk1YUM4VXdxSXpSc3AzZ0owTUluQlFTNFdJYy1YZ3BmRE15cVBrSEt2eGszSkhET0dNX1FPSENGNzNiaEtiN3NnLTlESEtLQlpQejdEMmlMWlk5MUtMdVJpalBocGZndWhYaVZOY184azkwRlY5bm5iTXgwd2FLZ3czaXlHX1gzWU9ubUZoSlJHUG1kNFRidHA2SzdsY2VRTlg4R29vMm9OdWNnQmN2UElsbUhGeQ?oc=5",
+      "snippet": "₹1,000 note returns? PIB Fact Check dismisses viral social media claim Business Today",
+      "publishedAt": "2026-10-27T09:55:51.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Congress Says 'Gyanesh Kumar Impeachment' Setup Blocked At Ramlila Maidan, Delhi Police Fact-Checks Claim - News18",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVW1MMHJqbDlOenVOMFhhMWdjVXhoUkZza1ZicUFONFFJWHdvT3NQUGJKaHdTU3ZhSmJjZTdlQTE3a3VLaG5GNTh3bWJPWi1ZUm5DMmxhX19nNWxEWEdoc0h0bklNemt5eWdLdEFrWDQzTzM2X0xITlBOUlJBRXAyOV9YUmgtV09xZEFESnZRUHdYdDBDZVh6d04xNlVYSWZPbEgzTUJJWjJma3N3cE0waWVYZnk1M3NlMXJqbTduOFFQY1Nhd29qYlFkaG1JSWhEUmtOMERsTUF1WU1Ja0hVeXFVRzTSAeoBQVVfeXFMTnBVTHR4NGZ3VGlDYTdsMlVvb3VSYVdqS3VQb21nQ3pNQmwweW9pWDc4UmFOMi1uMXJvellEN3dOcWFKZkVuclFjemRvcHhNZUlXZTFXUFBkSnFVSEVCSmdTZGVFS3cyM1NpajBaTzJ6STdyaFJVdlg2RU5FbHNzNTFJODB0VERxWnRUQ1c4LWpVN3gwXzJpc1d5cU1NcGZFUUd1VVowYkcwMHJ6WFJGSTQxM0NHVzMxRkNDaTNIdmZtUk5oY215cTNoSjN4UUIxUExiOS1fU0J2T1hiZVYySkt4eTE0ZXpMdld3?oc=5",
+      "snippet": "Congress Says 'Gyanesh Kumar Impeachment' Setup Blocked At Ramlila Maidan, Delhi Police Fact-Checks Claim News18",
+      "publishedAt": "2026-10-27T08:35:51.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact Check: Old 2021 India-China border clash video falsely shared as fresh 2026 footage from Arunachal Pradesh - Organiser",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUzR3YzhaRzNnUU0zZXdfQUVfZEMtUTZKSFlTczRQV1RMTk9pVVpja3Z4OGNxb3kzbDNpYnNhajhwT2JrMEZXeGI3d2tPSDRTNFA4dE1MTWlXTGNJVUNTSWpOdUM3WkFMeXlLLXphM0Z4WHVUQThXajRWdlYydmZ3bWNqN0Q4QU9qYklONFdoTDNROUZTQmlkZWd2d1ZGakhYYXllOXVKLVRxVUlnQl93R0VFdmxsVDBGNWFKSXZSQ3lJa29lTUd6UXJJei1BSXRjZGc5YjVONkRxTWtHSGQtakQxZ1Z3UldjUUV4YktIVdIB9AFBVV95cUxPbndzZThLeElhazBXU0dlcmhrakxJeHhnRXZMcjRsZkY5R1ZndE5WeUNFSjBISEF5RzdHSkQtRExpdm9BbXROa0VWbXRDSHRFbVFaWkRIdjlDU3lYWGFZZ0h5NnplaUdsWnZEMFBiVjhDQ1pDbXhtaGl2MjV3RDFiN3A2bmRicGgxaGYxWUtOdjMtLUNNTWJhUHR6MWhqbUFOekQxTTNRNTZLd0lERTRLNko1ZEhOVENfY1NvT21Lck1Md0ZJOWlWQ3RjWnBuY0xja3NxVFlSdWs1ZUg4NHZmeGZnQ1I5VjNNeVJrblUwbEd1Wjd5?oc=5",
       "snippet": "Fact Check: Old 2021 India-China border clash video falsely shared as fresh 2026 footage from Arunachal Pradesh Organiser",
@@ -192,6 +327,51 @@
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Apologise to the Nation': Kiren Rijiju Demands Apology From Congress After Indian Army Debunks Fake China Intrusion Videos - Republic World",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeVk0d2RISEJyYVFoVkJheFdrYzhyVWVINmhVR1YzT0xMRmVoNHBFRnc4M05PaEdlaVFOaEotek5oNmFWTUduQnhEREl6UmRhMzNvSUd6NFJvd0FHczBOYjV4czZzMlFWbVNQbE9ScFlLcGNKd2RZcWJJWnJzeUdja0FYMDRTSzI3QzBsUnhoZGxWeWhiaF9mSk4yYkhnLV8tSTMya2xEUjY3aUNocGRaU2ZTZmJUMXdKT3ZkUnhMNDNNRE5tYUs4Y09kckt1dGxXNlBZNEk5NNIB3AFBVV95cUxNUFZmbW1jTU1KT1FLNGRQVC1vTUstZUl4TnZMOVQycWh2cmlUNHdwTkpDUXJtbmEtbTFlM241UUFxMHlsWlFPYUZmRTg0Sl92M2RaMVlhaFR6a1lndGtsVHpaMjloX3BHVzNzMG1NRTFMYnpuYlZVQm1yT2ZacXZURElRUkdEN09XSHlDT0ozdnlFQ0Z6Zk05ekJUS3hib2pSNjBaVWVYNXlTVWxiVDBRQkhKVXdiaDN4Yk12M2hEXzVzWXlOb0dSUzZjVU05dnBaSTgzYmxTVllEUF9V?oc=5",
+      "snippet": "'Apologise to the Nation': Kiren Rijiju Demands Apology From Congress After Indian Army Debunks Fake China Intrusion Videos Republic World",
+      "publishedAt": "2026-10-27T11:16:41.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Is it AI? Teen fact-checks fishy information | story | Kids News - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVZPZjEwcERxM2RJbkxHd3M3RDJoelZlbks5WExuTEVVTnlYVUVBa0pFTjlCbUxReWhBZkYwaHExVHVadmFNME9qQWRjSjhMQUNzLXRoUGp2YWdsUVRPMzdKZ25FREdmaGJUYl9pVUFQR09ySFBTN1gwMTZaM3hvQ3hn?oc=5",
+      "snippet": "Is it AI? Teen fact-checks fishy information | story | Kids News CBC",
+      "publishedAt": "2026-10-27T10:59:27.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Regional divide in health misinformation impacts and skills, UK survey suggests - The London School of Hygiene & Tropical Medicine",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGZleEx3Q0RzMFNoUUk0RURPR0l1M09kT0NGckJSWnVEMDR4YnlDanB0OTE3UkxnQUg3LTIybjd2ZV94QWFaMkFPb2NRS2s4MEc2ZUhGZ0pTWUFkVW1KNjIyS01rclhSbVNsRTdjODNJT1U5U3RoSWdCaEZKbjlNY0pzOFNaTVFqZjYzWTRwcVlSelROWC1VRERFTElmcnpnY0NjVFRJNmdlTWdGZVlFZmlwamxrMHlYT0xydw?oc=5",
+      "snippet": "Regional divide in health misinformation impacts and skills, UK survey suggests The London School of Hygiene & Tropical Medicine",
+      "publishedAt": "2026-10-27T09:21:09.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -220,6 +400,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "#FactCheck: 2020 Video of Bridge Collapse in Uttarakhand Falsely Shared as Recent Incident in Pithoragarh - CyberPeace",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlF2eEIyc0xMSU5mUjFuekVIcXotX3RPUVJHTm16T3EwNE04NHlROTFsUWJmS19Tb2VVVDNEeWJsem5JbzJsQWFxVlE3RmE5TzQtOHZDU1lKUUhNUUZVcG1kV1E1SXNWcWcwaFhvOVpGTElNQ1lkT1o4SWZQZ0hSTGZoTENwdjV4NDFnSHZqVDFiMTRsSW9RVnoybHZ6NGFxeE50d1I0dGJVa3RrcXVxUXFRUTZUbHJEb19iZjBfeDExMjhEUy03VVRnSkZDOGttQU53SDNlcjJzUQ?oc=5",
+      "snippet": "#FactCheck: 2020 Video of Bridge Collapse in Uttarakhand Falsely Shared as Recent Incident in Pithoragarh CyberPeace",
+      "publishedAt": "2026-10-26T19:08:05.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
       "confidence": "Low",
