@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:48:28.684Z",
+  "generatedAt": "2026-10-27T05:20:48.736Z",
   "snapshot": true,
   "date": "2026-10-27",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-10-27 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Fact Check: Old 2021 India-China border clash video falsely shared as fresh 2026 footage from Arunachal Pradesh - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUzR3YzhaRzNnUU0zZXdfQUVfZEMtUTZKSFlTczRQV1RMTk9pVVpja3Z4OGNxb3kzbDNpYnNhajhwT2JrMEZXeGI3d2tPSDRTNFA4dE1MTWlXTGNJVUNTSWpOdUM3WkFMeXlLLXphM0Z4WHVUQThXajRWdlYydmZ3bWNqN0Q4QU9qYklONFdoTDNROUZTQmlkZWd2d1ZGakhYYXllOXVKLVRxVUlnQl93R0VFdmxsVDBGNWFKSXZSQ3lJa29lTUd6UXJJei1BSXRjZGc5YjVONkRxTWtHSGQtakQxZ1Z3UldjUUV4YktIVdIB9AFBVV95cUxPbndzZThLeElhazBXU0dlcmhrakxJeHhnRXZMcjRsZkY5R1ZndE5WeUNFSjBISEF5RzdHSkQtRExpdm9BbXROa0VWbXRDSHRFbVFaWkRIdjlDU3lYWGFZZ0h5NnplaUdsWnZEMFBiVjhDQ1pDbXhtaGl2MjV3RDFiN3A2bmRicGgxaGYxWUtOdjMtLUNNTWJhUHR6MWhqbUFOekQxTTNRNTZLd0lERTRLNko1ZEhOVENfY1NvT21Lck1Md0ZJOWlWQ3RjWnBuY0xja3NxVFlSdWs1ZUg4NHZmeGZnQ1I5VjNNeVJrblUwbEd1Wjd5?oc=5",
+      "snippet": "Fact Check: Old 2021 India-China border clash video falsely shared as fresh 2026 footage from Arunachal Pradesh Organiser",
+      "publishedAt": "2026-10-27T04:30:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Namburi accuses Congress of spreading misinformation on SIR - The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3IteEZDNGcyZmxHNDlzc0x1OFVUWjdBQmQ0MVJQeHNMTmVtcjMtbjdEaE9PbTg4UU5VYUhhZDFJV045a0NYSGprclRiZ2hub2J6THo0bzJSVUR3YlRIU0xUazBaS3BGdXZZSW85bTBNTUVFTDFQWXpXaHdpdnRDY0Fhcjlwbk51S3p5bW02eUpBbDh1NWNHOE9iNl9WajktU3dXOVVKWG13SkdJX2VCME81SXlaSzA?oc=5",
+      "snippet": "Namburi accuses Congress of spreading misinformation on SIR The Hans India",
+      "publishedAt": "2026-10-27T05:12:57.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chinese, Pakistani psyop against Indians? Spurt in fake news amid Arunachal face-off reports - India Today",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZzdEb25mdHdLc3VBYkp0N1ZjdUsxWG1pcThObkJsSWVpZVlMbm5pWGM3bHNyQUw4Ql91elJmdjFGbVZtZHFyNURGd3VaSWVuOFBQY0E1bU9YVVlkMVBGUEkzSXRSY0JYTTRVY1pVaVBPLUxENlRrZ0UtUlUtcy1xcGNQaGlwbnB4eWVLOERodjM0aUx1VnlEWGVrd1diYVgtMG11QjF0TFlveWJlMEZoSkw5VC1feUNwNG53SXpjbnZuaFl5NE9wR3MyYzdGYmFNd2xFUEMwMjBEVVJBNkpQTUYyamxNV2diMTdlUHZsNzBGSklLdFF5NGRnak5JVGcycmfSAYcCQVVfeXFMT2FXTExOT2xWWFZNLU5sbVRBUXBWdzctZ0cwVThtb0NMYjVOWjdoVjBzeVZHdTdYZHE2bzNnWkNDUFd4NHQzSXZTLUJ4SVhXUDNYd0NvNDdtMDhsQ3BoVTFEQ3VrM3NvdnhJVjctSmUxT2taRzJCbElhZVlJVjYzSXNqdHNwTEUwOUpndzZWbndMMVFZQzVmWXFlZXBNbzd0bVg1b3NUMXRsSWNmSE9NT3RBb09ybWFjZ2MtMEhrSkNBWlZjN3ZCMVlpU3dEd19SaDdYck15cHZMbFpNenJhbHRvM2dOME9zRG5uMVE4aG5EelJSUkVXWFZGbk5UTzgxV2ZfSlZrVkE?oc=5",
+      "snippet": "Chinese, Pakistani psyop against Indians? Spurt in fake news amid Arunachal face-off reports India Today",
+      "publishedAt": "2026-10-27T01:00:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

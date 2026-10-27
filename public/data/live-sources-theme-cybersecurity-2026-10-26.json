@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:48:28.684Z",
+  "generatedAt": "2026-10-27T05:20:48.736Z",
   "snapshot": true,
   "date": "2026-10-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 17
+    "total": 19
   },
   "message": null,
   "sourceStatus": [
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -186,6 +186,21 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1I4N3BhVVBhdmdUX1EyMk51bkRySGgyRnR6XzVJOGwyNFJoQnhBUWl1QWhpSjhmTFYwYlQ4NjhDcDhYelduU29UU3NKdURaVjlMbEcyNHIwX09EU3ZLWFBXemJqNmwwVmJYbE4tY2FqRHotSGNJVlM5VnQzanhxV1Qza3Q0QWNyQVBBU3NTMFhVLWtYM2dwSE5QNGtMNkNZaEhfQ21XWHJXc0Y4dTBFc1VQZC1pZzhwZVI3WU1VWVV0ODZ6UmlEWTY3d1c?oc=5",
       "snippet": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude Cybersecurity Insiders",
       "publishedAt": "2026-10-26T15:43:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ANDST-HD 2026 Data Breach Analysis: Cyberattack Exposes 2.5 Million Customer Records and Business Partner Data - Rescana",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeGVISk40Z1gtR2VtalZnQ0V4TWY0TTF3bEdJV2tLM0ZIQWdKbFNrOURLVzhxaF9jazJqeVNJc3JWRkJ6Y3hEc1YzanV5YWUzYkdINjJtTkllNDJaSTlUOGg2M2c2aHlweW13QzIydU5sSUFHcll2cVBsRkFHZEFKTWtWQWJKQV8wa0x6V1djNl9oczJEazBfQ2lqaG9pbGFxaXNyZlI2SWRYWl9qZ0VaQUN2SjNRdm94NElMRkxwU0tGcWFRdnpFQndNSWVBZGZxZVV2bQ?oc=5",
+      "snippet": "ANDST-HD 2026 Data Breach Analysis: Cyberattack Exposes 2.5 Million Customer Records and Business Partner Data Rescana",
+      "publishedAt": "2026-10-26T07:14:52.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -231,6 +246,21 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhIOTNtYVpQQ2VZQ0RnRHhKWWxYRHN5YWd1bF9iMWgwN241Z2pGNEFxYWxIRTltUFRtUkpMNEJKcTIyamNCRDFTQ2EwejdaYklVTEFfZmw5TExPYnhZWlRZVE1Wb1dhb2hDLTF6SlVEYjJpdlQ2TnY3TE1SZ3ZpdEp3cVpweThKR2lhdU41dUcyVVpIbjZ1QldwNS1RWEI5ZXdNZnc3YklCaGZTYzlRbHVKVHpaejJQMG9ERWpHYmVoRk9qQ2N1UXBkMjlqanRwQUtxVndR?oc=5",
       "snippet": "Cybersecurity Flashpoints This Week: Data Leaks, Key Theft, Software Backdoors Rock Tech Ecosystem BW Businessworld",
       "publishedAt": "2026-10-26T02:02:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWM?oc=5",
+      "snippet": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-10-26T00:08:30.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

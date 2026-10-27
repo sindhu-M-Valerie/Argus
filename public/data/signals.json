@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:52:51.210Z",
+  "generatedAt": "2026-10-27T05:25:11.460Z",
   "windowDays": 7,
   "endDate": "2026-10-27",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 120,
+      "totalArticles": 125,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -67,
-      "reason": "Last 3 days averaged 8.0/day vs 24.0/day before.",
+      "changePercent": -60,
+      "reason": "Last 3 days averaged 9.7/day vs 24.0/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-10-26",
-          "count": 17
+          "count": 19
         },
         {
           "date": "2026-10-27",
-          "count": 1
+          "count": 4
         }
       ],
       "topArticles": [
@@ -57,6 +57,14 @@
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1I4N3BhVVBhdmdUX1EyMk51bkRySGgyRnR6XzVJOGwyNFJoQnhBUWl1QWhpSjhmTFYwYlQ4NjhDcDhYelduU29UU3NKdURaVjlMbEcyNHIwX09EU3ZLWFBXemJqNmwwVmJYbE4tY2FqRHotSGNJVlM5VnQzanhxV1Qza3Q0QWNyQVBBU3NTMFhVLWtYM2dwSE5QNGtMNkNZaEhfQ21XWHJXc0Y4dTBFc1VQZC1pZzhwZVI3WU1VWVV0ODZ6UmlEWTY3d1c?oc=5",
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-26T15:43:26.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "ANDST-HD 2026 Data Breach Analysis: Cyberattack Exposes 2.5 Million Customer Records and Business Partner Data - Rescana",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeGVISk40Z1gtR2VtalZnQ0V4TWY0TTF3bEdJV2tLM0ZIQWdKbFNrOURLVzhxaF9jazJqeVNJc3JWRkJ6Y3hEc1YzanV5YWUzYkdINjJtTkllNDJaSTlUOGg2M2c2aHlweW13QzIydU5sSUFHcll2cVBsRkFHZEFKTWtWQWJKQV8wa0x6V1djNl9oczJEazBfQ2lqaG9pbGFxaXNyZlI2SWRYWl9qZ0VaQUN2SjNRdm94NElMRkxwU0tGcWFRdnpFQndNSWVBZGZxZVV2bQ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-26T07:14:52.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         },
@@ -85,133 +93,19 @@
           "corroboratedBy": 1
         },
         {
+          "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWM?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-26T00:08:30.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
           "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking - The Hacker News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFFXYm02enI1TjBPck84cXZpOEl0WDlkdERoOThDcGRFajFPNjV1SFpSeUxNWXd5ajJuSmctSjVMb2FFeEZIV0VfWkNFVVpITUVQdV9xaVRfX1ZEN0FwSk1jWFh3dWRxTnpTYVRSa2dZRGQ0d2FGNDFaRDBwMmZhWnhGVQ?oc=5",
           "source": "Google News • Sexual Exploitation Online",
           "publishedAt": "2026-10-25T17:19:00.000Z",
           "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Eversource Data Breach Lawsuit Filed After Hacker Claim - openclassactions.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblU5Vi1tanhZN2xfQ2xuOHVndlFtSGhEcno1N3E2TWFaV2w4dGpOVUZLTnM1LXNnRWl4NU9feFQ4UjVyRFNsd180NHRTUVJjNzYxcWRYaFpLaVE4ZDZFTkxGOE5YNjF3eWhKTm52Vzk3V09qWDNqaU5zVmlfUFFzcUpBWUhNMFJkdWdHdHpnM0lRYVJQcDR3YjlwQTluWTUx?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-25T16:00:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Retail Cybersecurity Statistics 2026 and Data Breach Trends - CloudSEK",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VZlR6RFE2eWxqOE15dnF4dWUwZmpNOHp3dWhQWnhQb3dUQU1lZWlRQlZGS0FjaXlQZDBUUmZkWHVUeGM3TThMQzRiY2JIVUZoSXhKdF85bWY4OGd2dzQ1MGM2MTRfbkk2QkZpbFVSREJzY0pZcEYtakFNcw?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-25T01:28:52.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "fraud-impersonation",
-      "label": "Fraud & Impersonation",
-      "totalArticles": 113,
-      "distinctSources": 6,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -56,
-      "reason": "Last 3 days averaged 9.3/day vs 21.3/day before.",
-      "daily": [
-        {
-          "date": "2026-10-21",
-          "count": 33
-        },
-        {
-          "date": "2026-10-22",
-          "count": 22
-        },
-        {
-          "date": "2026-10-23",
-          "count": 12
-        },
-        {
-          "date": "2026-10-24",
-          "count": 18
-        },
-        {
-          "date": "2026-10-25",
-          "count": 8
-        },
-        {
-          "date": "2026-10-26",
-          "count": 18
-        },
-        {
-          "date": "2026-10-27",
-          "count": 2
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Woman Lost More Than $10,000 to Scammer Using AI Videos to Impersonate Jon Bon Jovi - www.techtimes.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXRKR2RXYWk1cnJXbm9OZWluZnlnOEE0ek5IdGNiWElQYURMaWNMRmRkQVlKNHN0UDNLbmZTMzNyZVlVZnotUDBBbTd3WHN2VUNPTlJxWDFvVDRTcUpMZXhyZnpCWUd2b0hLWDJnVW5fOWlwS2NzRGdab1RMdTdhS3k2bF91RUU?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-26T11:59:32.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection - GBHackers News",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fQzVsLU9SaHJtdWJKTUNXMW5FbzJtQ3BJZ2E2WmVieFRJclQwMnphVkp4aXZjMjJVSDRIZXlzNmFEQUo0ZlZrYnYxUVc3VTVXd1Y5dGxrUklDVmVSQVdVTkpLT1dEN2fSAWxBVV95cUxNQ01ydkdRbUNqTTZsSThFZk9rWHZYdTkwYjduYmhtMGRhT0VlNVFQQXFRdjEtdXJqZnBkb0NHdE5YcHQySG43TTRaSEZ2d29ySjZJOEFBeVpsVnVOTVRjT1I0N0NWQUpTNnNEXzM?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-22T14:15:57.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud - Analytics Insight",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV21SQnQzUmJDZHZuZ21vU0tGY3U5YXdmdmxNd1dOcDViaDNoeEJXRGJmZzBRLUJRTW00akFjUWtYUEszS2gweTFqaEtsVWhSdGtsaTZXdDNvck5MTTEzd1RxYk1jNzFXaTlNaGc5ZzRXOTFXMGpOckxtaHcxX3VqMFg4VlJxRW8ydEk2QW9WWW1YN1MydjcxSTZIUm1sUHJ5aktTQnNac2RRMmFrRG5MbWMxQVEtMTEzWU5QVjItLTlEcGVLUUU4cEJFVmpWeVJkVFdMSGYySkxLd0xF0gHcAUFVX3lxTFBXbVJCdDNSYkNkdm5nbW9TS0ZjdTlhd2Z2bE13V05wNWJoM2h4QldEYmZnMFEtQlFNbTRqQWNRa1hQSzNLaDB5MWpoS2xVaFJ0a2xpNld0M29yTkxNMTN3VHFiTWM3MVdpOU1oZzlnNFc5MVcwak5yTG1odzFfdWowWDhWUnFFbzJ0STZBb1ZZbVg3UzJ2NzFJNkhSbWxQcnlqS1NCc1pzZFEyYWtEbkxtYzFBUS0xMTNZTlBWMi0tOURwZUtRRThwQkVWalZ5UmRUV0xIZjJKTEt3TEU?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-22T10:28:02.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud - Analytics Insight",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWNRZEFvSmlZYTZObzBsZFJXSVdzaTVfN0ZIemJvY2FEV3I4MUZORVljenlRcDBMd2V3UHpGTXlUbkRveFd2QjNrdnU3X1p0OWFJRENMdTFlX3VwQ3pMNlpyMkpvcUVzenRleGZDZlNLRU9XeVRWUjdqd3hyNV9raVRoVHNQc3NnNFR3cC1HVGlNbW5IMG41cmQ4LU03NmFueUlPOUxianRaNnJiSTZzR3lMMUthTV81VnhwSlg3STlqQzQzZThYeUtGckNMRk3SAdwBQVVfeXFMUFdtUkJ0M1JiQ2R2bmdtb1NLRmN1OWF3ZnZsTXdXTnA1YmgzaHhCV0RiZmcwUS1CUU1tNGpBY1FrWFBLM0toMHkxamhLbFVoUnRrbGk2V3Qzb3JOTE0xM3dUcWJNYzcxV2k5TWhnOWc0VzkxVzBqTnJMbWh3MV91ajBYOFZScUVvMnRJNkFvVlltWDdTMnY3MUk2SFJtbFByeWpLU0JzWnNkUTJha0RuTG1jMUFRLTExM1lOUFYyLS05RHBlS1FFOHBCRVZqVnlSZFRXTEhmMkpMS3dMRQ?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-22T09:00:00.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Booking.com Faces EU Fraud Probe After Phishing Hackers Breached Hotel Accounts in 900% Scam Surge - Tech Times",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZFBCeHViVUpETkptT3l6R21TUjBDV1NhbWlNX21BemtudkMxMnBEMVR3UndFSDVSeWpIOXlmSWZhZnBDVjEycXBBeENiRHVERTdlMDJvaXVBVUNMOUwzZldmdG8ydGJXWDlTajJvQm9HWmxzOGo5STJsNzFXc0d6c3pOZlRXbW1DazRQNDN0WUs1TloxQ2RUOHJ4c1d0Z09zY1MzdGd0WTJrOE9tcm5jdko3QU1NMGxoM2Zwb1JXX0dJdC1sZXd1NWFGNWpTTHR5ZzdTdXNtTmpqaFhlT3FSdDJn?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-22T06:00:23.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Idaho Statesman",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VaVVEUVFCTGd2NmRQay1DUjFHLVNKNVVGWmhHTS1wYm82ZjRHSzFxVEQ2Y3czSXVTN1hlQ2EyV1k2MlBrZXY3R2RGRmFFVnNmNi1aSGI5b1Y3OVgyVFEtV2FwYjhqREt2VWNTYnI2Y2tkeWdh?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-21T21:01:08.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pd3hVc01aZUsxWEhPSE1ubWdtU2s2S0V1eElLdXJvSmFHVWFYZnVKNHp3cU1HckJlS1FzSUxScEd4QmxxS0JjM2t5aTNRbFdfczBGS0tB0gFWQVVfeXFMTWl3eFVzTVplSzFYSE9ITW5tZ21TazZLRXV4SUt1cm9KYUdVYVhmdUo0endxTUdyQmVLUXNJTFJwR3hCbHFLQmMza3lpM1FsV19zMEZLS0E?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-21T20:53:12.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamphRWhWVUdJYVYtQk9aMFZNNXQ4Ukw0bnlDbUxING53X25MN3UtbHg4YkdKRkd6NHJMbFNFaXBpNERkX3dVNWxXTUktdm9vMGZPRW93OEFqN2NlY0R3Sm44bG85cy1qdklhZzFGUWdmTF81bTA5SkU2MFNpZFNwSklWYUx6Q1QzczFxNlZYZmgtUHdjT1hwOHBmMUpVa1FidU42dUxwd0RGMTZHbFFjWGJDZlFPenYzOVFF0gFWQVVfeXFMTWl3eFVzTVplSzFYSE9ITW5tZ21TazZLRXV4SUt1cm9KYUdVYVhmdUo0endxTUdyQmVLUXNJTFJwR3hCbHFLQmMza3lpM1FsV19zMEZLS0E?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-21T20:53:12.000Z",
-          "riskScore": 60,
           "corroboratedBy": 1
         }
       ]
@@ -219,12 +113,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 108,
+      "totalArticles": 114,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 73,
-      "reason": "Last 3 days averaged 20.3/day vs 11.8/day before.",
+      "changePercent": 90,
+      "reason": "Last 3 days averaged 22.3/day vs 11.8/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -248,11 +142,11 @@
         },
         {
           "date": "2026-10-26",
-          "count": 39
+          "count": 42
         },
         {
           "date": "2026-10-27",
-          "count": 0
+          "count": 3
         }
       ],
       "topArticles": [
@@ -323,14 +217,120 @@
       ]
     },
     {
+      "theme": "fraud-impersonation",
+      "label": "Fraud & Impersonation",
+      "totalArticles": 114,
+      "distinctSources": 6,
+      "highRiskArticles": 0,
+      "trend": "Falling",
+      "changePercent": -55,
+      "reason": "Last 3 days averaged 9.7/day vs 21.3/day before.",
+      "daily": [
+        {
+          "date": "2026-10-21",
+          "count": 33
+        },
+        {
+          "date": "2026-10-22",
+          "count": 22
+        },
+        {
+          "date": "2026-10-23",
+          "count": 12
+        },
+        {
+          "date": "2026-10-24",
+          "count": 18
+        },
+        {
+          "date": "2026-10-25",
+          "count": 8
+        },
+        {
+          "date": "2026-10-26",
+          "count": 18
+        },
+        {
+          "date": "2026-10-27",
+          "count": 3
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Woman Lost More Than $10,000 to Scammer Using AI Videos to Impersonate Jon Bon Jovi - www.techtimes.co.uk",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXRKR2RXYWk1cnJXbm9OZWluZnlnOEE0ek5IdGNiWElQYURMaWNMRmRkQVlKNHN0UDNLbmZTMzNyZVlVZnotUDBBbTd3WHN2VUNPTlJxWDFvVDRTcUpMZXhyZnpCWUd2b0hLWDJnVW5fOWlwS2NzRGdab1RMdTdhS3k2bF91RUU?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-26T11:59:32.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Scammers Exploit Dell and Staples Order Emails to Bypass Traditional Phishing Detection - GBHackers News",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fQzVsLU9SaHJtdWJKTUNXMW5FbzJtQ3BJZ2E2WmVieFRJclQwMnphVkp4aXZjMjJVSDRIZXlzNmFEQUo0ZlZrYnYxUVc3VTVXd1Y5dGxrUklDVmVSQVdVTkpLT1dEN2fSAWxBVV95cUxNQ01ydkdRbUNqTTZsSThFZk9rWHZYdTkwYjduYmhtMGRhT0VlNVFQQXFRdjEtdXJqZnBkb0NHdE5YcHQySG43TTRaSEZ2d29ySjZJOEFBeVpsVnVOTVRjT1I0N0NWQUpTNnNEXzM?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-22T14:15:57.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud - Analytics Insight",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV21SQnQzUmJDZHZuZ21vU0tGY3U5YXdmdmxNd1dOcDViaDNoeEJXRGJmZzBRLUJRTW00akFjUWtYUEszS2gweTFqaEtsVWhSdGtsaTZXdDNvck5MTTEzd1RxYk1jNzFXaTlNaGc5ZzRXOTFXMGpOckxtaHcxX3VqMFg4VlJxRW8ydEk2QW9WWW1YN1MydjcxSTZIUm1sUHJ5aktTQnNac2RRMmFrRG5MbWMxQVEtMTEzWU5QVjItLTlEcGVLUUU4cEJFVmpWeVJkVFdMSGYySkxLd0xF0gHcAUFVX3lxTFBXbVJCdDNSYkNkdm5nbW9TS0ZjdTlhd2Z2bE13V05wNWJoM2h4QldEYmZnMFEtQlFNbTRqQWNRa1hQSzNLaDB5MWpoS2xVaFJ0a2xpNld0M29yTkxNMTN3VHFiTWM3MVdpOU1oZzlnNFc5MVcwak5yTG1odzFfdWowWDhWUnFFbzJ0STZBb1ZZbVg3UzJ2NzFJNkhSbWxQcnlqS1NCc1pzZFEyYWtEbkxtYzFBUS0xMTNZTlBWMi0tOURwZUtRRThwQkVWalZ5UmRUV0xIZjJKTEt3TEU?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-22T10:28:02.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "How to Recognize Cryptocurrency Scams and Online Impersonation Fraud - Analytics Insight",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWNRZEFvSmlZYTZObzBsZFJXSVdzaTVfN0ZIemJvY2FEV3I4MUZORVljenlRcDBMd2V3UHpGTXlUbkRveFd2QjNrdnU3X1p0OWFJRENMdTFlX3VwQ3pMNlpyMkpvcUVzenRleGZDZlNLRU9XeVRWUjdqd3hyNV9raVRoVHNQc3NnNFR3cC1HVGlNbW5IMG41cmQ4LU03NmFueUlPOUxianRaNnJiSTZzR3lMMUthTV81VnhwSlg3STlqQzQzZThYeUtGckNMRk3SAdwBQVVfeXFMUFdtUkJ0M1JiQ2R2bmdtb1NLRmN1OWF3ZnZsTXdXTnA1YmgzaHhCV0RiZmcwUS1CUU1tNGpBY1FrWFBLM0toMHkxamhLbFVoUnRrbGk2V3Qzb3JOTE0xM3dUcWJNYzcxV2k5TWhnOWc0VzkxVzBqTnJMbWh3MV91ajBYOFZScUVvMnRJNkFvVlltWDdTMnY3MUk2SFJtbFByeWpLU0JzWnNkUTJha0RuTG1jMUFRLTExM1lOUFYyLS05RHBlS1FFOHBCRVZqVnlSZFRXTEhmMkpMS3dMRQ?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-22T09:00:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Booking.com Faces EU Fraud Probe After Phishing Hackers Breached Hotel Accounts in 900% Scam Surge - Tech Times",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZFBCeHViVUpETkptT3l6R21TUjBDV1NhbWlNX21BemtudkMxMnBEMVR3UndFSDVSeWpIOXlmSWZhZnBDVjEycXBBeENiRHVERTdlMDJvaXVBVUNMOUwzZldmdG8ydGJXWDlTajJvQm9HWmxzOGo5STJsNzFXc0d6c3pOZlRXbW1DazRQNDN0WUs1TloxQ2RUOHJ4c1d0Z09zY1MzdGd0WTJrOE9tcm5jdko3QU1NMGxoM2Zwb1JXX0dJdC1sZXd1NWFGNWpTTHR5ZzdTdXNtTmpqaFhlT3FSdDJn?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-22T06:00:23.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Idaho Statesman",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VaVVEUVFCTGd2NmRQay1DUjFHLVNKNVVGWmhHTS1wYm82ZjRHSzFxVEQ2Y3czSXVTN1hlQ2EyV1k2MlBrZXY3R2RGRmFFVnNmNi1aSGI5b1Y3OVgyVFEtV2FwYjhqREt2VWNTYnI2Y2tkeWdh?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-21T21:01:08.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Business Recorder",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pd3hVc01aZUsxWEhPSE1ubWdtU2s2S0V1eElLdXJvSmFHVWFYZnVKNHp3cU1HckJlS1FzSUxScEd4QmxxS0JjM2t5aTNRbFdfczBGS0tB0gFWQVVfeXFMTWl3eFVzTVplSzFYSE9ITW5tZ21TazZLRXV4SUt1cm9KYUdVYVhmdUo0endxTUdyQmVLUXNJTFJwR3hCbHFLQmMza3lpM1FsV19zMEZLS0E?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-21T20:53:12.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings - Business Recorder",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamphRWhWVUdJYVYtQk9aMFZNNXQ4Ukw0bnlDbUxING53X25MN3UtbHg4YkdKRkd6NHJMbFNFaXBpNERkX3dVNWxXTUktdm9vMGZPRW93OEFqN2NlY0R3Sm44bG85cy1qdklhZzFGUWdmTF81bTA5SkU2MFNpZFNwSklWYUx6Q1QzczFxNlZYZmgtUHdjT1hwOHBmMUpVa1FidU42dUxwd0RGMTZHbFFjWGJDZlFPenYzOVFF0gFWQVVfeXFMTWl3eFVzTVplSzFYSE9ITW5tZ21TazZLRXV4SUt1cm9KYUdVYVhmdUo0endxTUdyQmVLUXNJTFJwR3hCbHFLQmMza3lpM1FsV19zMEZLS0E?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-10-21T20:53:12.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 53,
+      "totalArticles": 56,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -73,
-      "reason": "Last 3 days averaged 3.0/day vs 11.0/day before.",
+      "changePercent": -64,
+      "reason": "Last 3 days averaged 4.0/day vs 11.0/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -354,11 +354,11 @@
         },
         {
           "date": "2026-10-26",
-          "count": 5
+          "count": 7
         },
         {
           "date": "2026-10-27",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -643,12 +643,12 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 20,
-      "distinctSources": 4,
+      "totalArticles": 21,
+      "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -85,
-      "reason": "Last 3 days averaged 0.7/day vs 4.5/day before.",
+      "changePercent": -78,
+      "reason": "Last 3 days averaged 1.0/day vs 4.5/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -676,7 +676,7 @@
         },
         {
           "date": "2026-10-27",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -686,6 +686,14 @@
           "source": "Google News • Online Exploitation (India)",
           "publishedAt": "2026-10-23T16:01:40.000Z",
           "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Safety expert: online predator networks are widespread as Germany probe continues - WPTA | 21Alive | Fort Wayne, IN",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTl9KU3N1eUpkdFpvNTVfc0lndEtFckVqUGdtY3R0WFdhQTFIc1dwTHNFSDQxUk5jRE13aUt2N20zZm1iXzhpWWZDNVJiZFN4VjdxZEd3TzI1S243NG1rOFc3bnBWTm9JQ01YRUY2bjBHaURtaFJCd0FMLVVGUG92ZjQ4cHVtWU9pTE5JRE9Xd3JvdWxtTzZJbXRfenZQMUMxaVZsX3NlMG0xaVhoeF9fbjF3bUpkdnV6?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-10-26T22:37:00.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -733,14 +741,6 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNG1DWXlkdW1EZ2NhMWdPZ0FzcnljQVFzWnhaY0twTXl1ZTdaY0VfMi11QnRmbWpMZ3pNQTB0S3FneDZQbWJWWEY4cllDMW11VVhPbHJKaFJNa0F2cEZfeHZ6a2lhNUJ4RTd2bnpfaU9aUkJNWmtIaktkS1Q3Qkc0Mg?oc=5",
           "source": "Google News • Sexual Exploitation Online",
           "publishedAt": "2026-10-23T23:10:02.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Police charge four men with 57 child exploitation offences - The Cairns Post",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbEJ6eVUwQm9kb2lhcXNMV3lYWVVQMm9XZ0k1WkRDelFzcUVlY3NKOUZjVWFiNFc2Q3YtM181M0pTMHVsODVvWFlYdGxjSnNJZ1VCeUR2QlhNU0hBNEtYb2Njd0tSOERCWjNab1NaOHlJNW53dThRUGQ5Z2dOdjQyQmJmcXowOTEwQlFiYmIxVm5tV043bl9FTTNQRi1wSEdTYVdwV0U0TldISGFyOTJCRjBCZFBuR3pyakpMTkxKam1SZFRrUUdOLTJmb0F5NTZ3Uy1zQzY1TTh1aVNTTDh3S2JjT2hULWg5Z2lNWXZrYUhVdXcxMDBUaXVKSk1KcW1KTTZJRkpBZFRfQm95WWdvWExSUlc0c3FtVl9CUXJfMmhfcnRr?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-23T18:21:38.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -961,12 +961,12 @@
     {
       "theme": "harassment-bullying",
       "label": "Harassment & Bullying",
-      "totalArticles": 7,
+      "totalArticles": 9,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -47,
-      "reason": "Last 3 days averaged 0.7/day vs 1.3/day before.",
+      "trend": "Stable",
+      "changePercent": 7,
+      "reason": "Last 3 days averaged 1.3/day vs 1.3/day before.",
       "daily": [
         {
           "date": "2026-10-21",
@@ -990,11 +990,11 @@
         },
         {
           "date": "2026-10-26",
-          "count": 2
+          "count": 3
         },
         {
           "date": "2026-10-27",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -1007,8 +1007,24 @@
           "corroboratedBy": 1
         },
         {
+          "title": "IHC orders implementation of laws against online harassment and blackmailing - Daily Times",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamN0R0cyWHdEeTZ6M0x5a2lzaGFtMlpmQWVyN3ZuMUE5ZHhET1RxQ0pSZTYwU2gtVUl4M0E5VU92cXNCMDhJY0Rqam9yMHJfV1lnaHFBWGNWbFNqdW9HeXlLaDhiZjQwYTFzT1BtYU4zbnUxZFdRT1plQmlITjVpcnJsYjNzby1uYURVS3FFMW5YZUdidnpnTDRXeGxZVzNoTHNsc3VncFpuSkJtMWVYdQ?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-10-27T05:01:23.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Vijay Deverakonda, Rashmika Mandanna's team takes legal route over alleged online harassment - India TV News",
           "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVzRJZk5WcHkzV01VMlF4MzFoZnUyNUFNWk45QXRaOHpQb1VESkQzYjNWRjBlQmF1b2YtamxzZy1PWmZZUXdNdEpKMjN2RWw3cXBOZmZ2dXZQVG1NYkNNcHdLQ0FkemV0SGpKZlpZeUVhTGVWT0F6bTBDYlpiQTBjSFZqa2lGV3pFMEVlTmdDRkY3WUtSTUxRUUlQYl9Ob0FyWTBKWWdrUGdKTlN5OUQtQVZxNGxQOU00a3JxY3FRVmlfbmxQYmF0R2lSTnNZWFJ0MDZaUWRjemdKOHlITTF2TXlsV052am5FM0hMXzEyU25weVA4N0FtcmdRLXdhcUUxWmdVSFUtcl9mLTZq0gGMAkFVX3lxTE5XNElmTlZweTNXTVUyUXgzMWhmdTI1QU1aTjlBdFo4elBvVURKRDNiM1ZGMGVCYXVvZi1qbHNnLU9aZllRd010SkoyM3ZFbDdxcE5mZnZ1dlBUbU1iQ01wd0tDQWR6ZXRIakpmWll5RWFMZVZPQXptMENiWmJBMGNIVmpraUZXekUwRWVOZ0NGRjdZS1JNTFFRSVBiX05vQXJZMEpZZ2tQZ0pOU3k5RC1BVnE0bFA5TTRrcnFjcVFWaV9ubFBiYXRHaVJOc1lYUnQwNlpRZGN6Z0o4eUhNMXZNeWxXTnZqbkUzSExfMTJTbnB5UDg3QW1yZ1Etd2FxRTFaZ1VIVS1yX2YtNmo?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-26T14:23:42.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Vijay Deverakonda, Rashmika Mandanna's team takes legal route over alleged online harassment - India TV News",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUEdXLUlnNl9sOFQyLU16ZVR1OGZWUzljN1MybzVZRkZMbGJ0RWxRVi1xaU91ekU1dHpWT2JselpfTldLdXFOb0hBWE1iazB1NEdfd0F2aU8xSTh2cXRQOHNwNEZjNExQWF9DWFBJMGVEWS1WTE53VjN1VjdwVmE0bllNT01TRXlqMXYxeDBqWHhkVWRWMUNlcUs5QkZXLXFUU2ZDczRQMVhmQ1ZYSU1HOGxBaHBMZWF3bGttVDJmUEFUOGFTOEVEaXVwSXNkS1NJbm96dnpPaEJKVy1SVHFkcjlFTDgwM0ZJYlluM1l2ei04Rmx6ZTFKVlppVl9jQ1FyV0RhR21aSdIBjAJBVV95cUxOVzRJZk5WcHkzV01VMlF4MzFoZnUyNUFNWk45QXRaOHpQb1VESkQzYjNWRjBlQmF1b2YtamxzZy1PWmZZUXdNdEpKMjN2RWw3cXBOZmZ2dXZQVG1NYkNNcHdLQ0FkemV0SGpKZlpZeUVhTGVWT0F6bTBDYlpiQTBjSFZqa2lGV3pFMEVlTmdDRkY3WUtSTUxRUUlQYl9Ob0FyWTBKWWdrUGdKTlN5OUQtQVZxNGxQOU00a3JxY3FRVmlfbmxQYmF0R2lSTnNZWFJ0MDZaUWRjemdKOHlITTF2TXlsV052am5FM0hMXzEyU25weVA4N0FtcmdRLXdhcUUxWmdVSFUtcl9mLTZq?oc=5",
           "source": "Google News • Misinformation (India)",
           "publishedAt": "2026-10-26T14:23:42.000Z",
           "riskScore": 40,
@@ -1043,14 +1059,6 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXV5Q09iaVdFbnNLVF9pc0ZuRXQyOGtnWkw2U1o1NlVOMktCWjg3ZEdFUUFwMUxFVEpUYlRxUmp1T2JydDhNdGZsbllvc185WHN1SU1BVlNPakdrT3J0OU01dWNxeU11RXFRaS0yN0hldnNTXzdvRUJEdjFKUGJIbklPNmRJbzJmWUU1MHNTTWYtcWdnSGNEU1pjSjRjWTJRTFBIQlhBMm1RYWsxak9UeNIBtgFBVV95cUxPNWV0TkdaM3RmTUhEdjFaeGowVG52S0g0dzRyUmdCNGZmMVBCVUhzejBLY1hMVE9wTU82N0I3SHh5SHZEWkFSa3RPWXpUMEdBay1QZ2gwUnBCeExUd0FXbEpmM2xIZDRHZ19JQm12RmZwTll6djJoZ2p6QlR3bXh2VkRKcG5oMzMycXpadTI0RlF4WWZ4Z2FCZzlhQkloMFNUdDUzeXl0dm1fdzMxS21UaElReGdTZw?oc=5",
           "source": "Google News • Misinformation (India)",
           "publishedAt": "2026-10-23T05:03:11.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Foreign agency’s alert helps Pakistan rescue girl from international online abuse network - Arab News PK",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzJuTkFkY3lycVRfOHFWVWQ0NmVzeXBXbG90ekkwWFVaaER6NWJSdkxpMmhodXBqeGREY0ZWWHRyaEUyb0RjRl9CSFRHU1pKV0VaeDc0SnRHX0JiSkJZQUhqZ0o3VS15S01ZZFZ3eXNlc3haMVZheS1DQUdSZDBDd0d2Nl93NnpzQ0ZPVHFVWUVuT2V4MzRTOW5FMGh5VEJvR2o4WGZkbmtGc3owNG51a3Y1M1hQRmpEMEhJTXU3Zy1HM3h0dHZJdA?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-23T04:26:17.000Z",
           "riskScore": 40,
           "corroboratedBy": 1
         }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:48:28.684Z",
+  "generatedAt": "2026-10-27T05:20:48.736Z",
   "snapshot": true,
   "date": "2026-10-27",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-27 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 71
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "IHC orders implementation of laws against online harassment and blackmailing - Daily Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamN0R0cyWHdEeTZ6M0x5a2lzaGFtMlpmQWVyN3ZuMUE5ZHhET1RxQ0pSZTYwU2gtVUl4M0E5VU92cXNCMDhJY0Rqam9yMHJfV1lnaHFBWGNWbFNqdW9HeXlLaDhiZjQwYTFzT1BtYU4zbnUxZFdRT1plQmlITjVpcnJsYjNzby1uYURVS3FFMW5YZUdidnpnTDRXeGxZVzNoTHNsc3VncFpuSkJtMWVYdQ?oc=5",
+      "snippet": "IHC orders implementation of laws against online harassment and blackmailing Daily Times",
+      "publishedAt": "2026-10-27T05:01:23.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
