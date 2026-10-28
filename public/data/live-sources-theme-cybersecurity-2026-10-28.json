@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T13:18:40.320Z",
+  "generatedAt": "2026-10-28T22:44:19.237Z",
   "snapshot": true,
   "date": "2026-10-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -65,42 +65,42 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 62
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 77
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 47
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Coinbase Customer Data Exposed Via Analytics Vendor Amplitude Security Incident - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IQ3YzOXRLNTNYbHVDcHRSQ3JhT3dYUGRGamhNTE1fZlItczdpWUxHVHk3TUd2RmRJSnhMX3hSMlNXdUZGaFRFTU1fTGRqMHdXLXpMMUpabWpib1JBQjFoc2NYbWFhZjFUTmdmRmxB0gFzQVVfeXFMUGJncXVyYlFPWlh6cGszaHZXUTBDaGg2WlVqdVRWNkZaMVFWV0ZLOWRTeVVENTE2S1JrNDhNSTVZYnF0THVGQTlBelRJeUtxeEpNSFRNQjFteVhwaTRkeE16YWxOc2N2aFB3SFMyWUZ4OXRBVQ?oc=5",
+      "snippet": "Coinbase Customer Data Exposed Via Analytics Vendor Amplitude Security Incident CyberSecurityNews",
+      "publishedAt": "2026-10-28T12:32:39.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "'Your phone could be hacked without a single click': Inside the mind of a hacker - Mathrubhumi English",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZi1HdUJKTy1Qc2p0ZHNoM0MwN21BQ1dvYllieFVWdm9MUFVLb2R3eXpVRU1UT1h5dGV4VHh6Y3dXbjNYbVRxbGpCUllmTklFcXFod3psMlU0S1NQYTRnT1owdUJKT1dxbjZEZ0NWUndxTjB0aC0wUGdHdVhnbmt0cldnZGFsM2xsZDgxSUpOZ05sQkU1b1I1NVlxUXZjb3Z6NzU0RklTZHdiU0k5Z3JNQldEaGxwaURVNlRKZTJQUTgxU0tWbXfSAcsBQVVfeXFMUE9zcExHX0gybUhBY3pwTWRzRUR1N1g1Qy1DM0VhbERYTE56dWhtNGctN0xxYlVwWDlnWF9zY2s5b09ZeTAtMEh1UlZoVjlLTGpnbGxvX25OdzlweFRBazZja1pMaUVHLUZTTW1sc0tPTUx2TGppQUZWdG5uMlhuZTNUM0lLd0ZJYTR2eU1KaUpKQjhJb1pvMWZJa1d5YWd0VjFKSmJ3MVpjY3ZuNUFDUXgyMVhMSDZnZXJwRXk2M3pXTHVsYWJUN3ZCRzA?oc=5",
@@ -212,17 +227,62 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Coinbase Customer Data Exposed Via Analytics Vendor Amplitude Security Incident - CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IQ3YzOXRLNTNYbHVDcHRSQ3JhT3dYUGRGamhNTE1fZlItczdpWUxHVHk3TUd2RmRJSnhMX3hSMlNXdUZGaFRFTU1fTGRqMHdXLXpMMUpabWpib1JBQjFoc2NYbWFhZjFUTmdmRmxB0gFzQVVfeXFMUGJncXVyYlFPWlh6cGszaHZXUTBDaGg2WlVqdVRWNkZaMVFWV0ZLOWRTeVVENTE2S1JrNDhNSTVZYnF0THVGQTlBelRJeUtxeEpNSFRNQjFteVhwaTRkeE16YWxOc2N2aFB3SFMyWUZ4OXRBVQ?oc=5",
-      "snippet": "Coinbase Customer Data Exposed Via Analytics Vendor Amplitude Security Incident CyberSecurityNews",
-      "publishedAt": "2026-10-28T09:32:54.000Z",
+      "title": "PropellerAds: Why Modern Malware Delivery Starts Before the Payload - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeEpKRFZWbnpFeW9uWjVEUGY0UTVUdzgyVDJMRGJiVlgzV3R1emUyTVFuUlVWR1haMUJnYmlHLUd3LTlIRm9PR213VUk0WDF2ajN4emVaRExOS2tBQXlzTk0yS3pHa2g5bHZuZEJjN09pMEM4X2YtZ2oxMmZIcjhPLW42clpiajA2MTZFQ19DOTBuNGRrdC0wZEdxWG9tZ9IBowFBVV95cUxQT0liX0lOdzFEQlc1cDU2OXFmOGo0Z1czVlktMlo2MjRkYkNjN0pfSnJHQW4xQWZBU3NNR3pwNHJTbF9QMDNtbzd6clg4X3VyR1FmeWs5Sy1Sa3kwYVd1YVlObXNyNHlBYzBEYTVsT2JQT01fajhyS0lDUWlac1R4YlF0dFhmU28yak5lSWpBWk51T0szT1l5eUtIRzZ4ZENVU2ZV?oc=5",
+      "snippet": "PropellerAds: Why Modern Malware Delivery Starts Before the Payload CyberSecurityNews",
+      "publishedAt": "2026-10-28T16:02:45.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
-      "riskScore": 48,
-      "confidence": "Medium",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kingdom Come: Deliverance studio hit with cyberattack - Bitdefender",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnJhRWJYUzBaZy1yTTZvY3RXZ0NQR0NQVGRpUXBtUlBONkM1MkRIM3Y0aWZJbDJpajFBT3E1VzVZOFBkbDJXV3c4OFZpVXZwTk9PSUNDa1VzY29Uckp2S00tUk9aSUtaaHVxVkxTM0x5aE1xNVdhakVSbVFXbDBwOHN3OXMyd2M2X2lwVUlmQXhHOGNx?oc=5",
+      "snippet": "Kingdom Come: Deliverance studio hit with cyberattack Bitdefender",
+      "publishedAt": "2026-10-28T14:52:51.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bithumb Security Breach Raises Concerns Over Customer Data Leak - TronWeekly",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VMWNpUVh3OEtobWVkNzBGU0cxa21DYldKX3BOVFVLNkplMjJaUG45elRnUmlRdzQyWDZ4Mk1rRkdweUxnNnl6UlhrdHAwaF9SZ1ljTEdzYllacmcxbTVNVDVERUo1c2U4TjRqclJhS0xaQzljRmVZdmlsSF8?oc=5",
+      "snippet": "Bithumb Security Breach Raises Concerns Over Customer Data Leak TronWeekly",
+      "publishedAt": "2026-10-28T14:26:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Voter data safe: CEC assures State Register of Voters was not compromised after cyberattack - Moldova 1",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOW50MFdRY1pMNzdVbzVLb05DbjI0anN6Z0MtWGxYbnZ3ZE5BNlMxMl9NMTlIcXpyLUlBbzFrczB2d3RXTkZib21qYWNpdDUyR0V5OG9JRWdNa3ZRSFh4THdUSDE2RU13YkZ5NkNhTTVUaDByVmh6QWtpdXhoUmxsWUE5UFJ5WVlGM3VoOWlabDBPR014RWFsUXZBN0dCeDBsc1NGQndqQlVLZmxUcTl4S0tJXzVNLW1lRHc?oc=5",
+      "snippet": "Voter data safe: CEC assures State Register of Voters was not compromised after cyberattack Moldova 1",
+      "publishedAt": "2026-10-28T11:39:43.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -231,6 +291,36 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkwzSmZxWklxWFFwUXlRcWFKR0R5QUllekJxZGRvRTVCY01lQmdNMUhOZVZaTjBpU0pzSWN6d2pnWHJvMDJ2YlBTejQ4VF90cWFjWTJmZko4NjI0V24yd0hVOUtoaVRDdHNoaDZMSFBCUXR0NWxIMlRuYWZMNk5DRVZlN2lGNXZUUC1HSUZmMmFZU1oyX0E?oc=5",
       "snippet": "Coinbase Data Breach Shows Why Crypto Security Goes Beyond Self-Custody Yahoo Tech",
       "publishedAt": "2026-10-28T11:12:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bithumb Data Breach: 38,490 Daishin Customers Hit [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTBieEZ3WTd5QVNPaGZlTGJVVEtuay1GMmFoNU1WS2R1YjdLMG9VTkdPZVdWQUtBMTNjbmcxbm1PMWd2NTc0aWV1MjJvNUF2T2pOQVV3R2ljS2xodGNWRzdjZTI5QWp0a0RFbE1kUmhLWk5DNTd1OVlNM0Q3NXJ6MXdoTXJQbnZzNTF4Nw?oc=5",
+      "snippet": "Bithumb Data Breach: 38,490 Daishin Customers Hit [2026] shattered.io",
+      "publishedAt": "2026-10-28T05:35:35.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rakuten Travel Hacked: 3.4 Million Records Leaked, 36,000 Credit Card Data Exposed - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTNk80ZEZWQ1dkSWZOTWRmSWhrTDRZczZ6SmZkZ0E3cUtWQ2REaHlmWS14V2x4MmxRdXIyS0Zma0Y0alAzTi1nMG00RVFGaXZVZFFfVnp2TjdwLWpGODlnM2oxclRkaEtJc0R6ZUtsdmtEc2ZoU0E?oc=5",
+      "snippet": "Rakuten Travel Hacked: 3.4 Million Records Leaked, 36,000 Credit Card Data Exposed BigGo Finance",
+      "publishedAt": "2026-10-28T03:25:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
