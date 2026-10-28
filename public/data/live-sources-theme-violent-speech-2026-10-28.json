@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:27:35.612Z",
+  "generatedAt": "2026-10-28T05:59:29.822Z",
   "snapshot": true,
   "date": "2026-10-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,56 +44,56 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 57
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 72
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "DCI arrest suspect in Nairobi for posting incitement remarks on Facebook - TV47 Digital",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWJwZTBoUEw0M0pzbXJCdWxwazhGNzVkRlBGaGhfRlo1SzZqdkRaRHcxVFY3dHhqNHIzQnJkSVBiXzlBMGFHTWNfVFRGVWRGUGt5cGJnTElCZXY0MkFvVXJ0UVoxOHlHUmdjOTZFOGZNZm83WWJ4dWdIcGJPNzhYNWNLOUM1TFRxNjNWa1ZPdHMwRm5kRldaM3RwOWNqbzhqSGVoWjgxcUw?oc=5",
+      "snippet": "DCI arrest suspect in Nairobi for posting incitement remarks on Facebook TV47 Digital",
+      "publishedAt": "2026-10-28T05:21:22.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DCI Arrests Facebook User Over Alleged Online Incitement, Ethnic Hostility - Capital FM Africa",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlZ4QmExcjk4dk5Xa1ZJSWNaV0w2QmNyaWtUYU1ZR014cEtsdWxfTTdrOEhuczBYR2dYUHRnZDZVcXpSMDVfVU80S1J3aEJFb1YtMEtGM1RSY1R2LUx4NTcyR2dyQ2MzVngzS1RtR1g1VUxyOXU1QVN6YnJsS3hWSjZ6V29kN3pVZ0xvS0JSM2dDMTNJSmFBRFVFeEFDd2Fx?oc=5",
+      "snippet": "DCI Arrests Facebook User Over Alleged Online Incitement, Ethnic Hostility Capital FM Africa",
+      "publishedAt": "2026-10-28T04:48:48.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "DCI arrests Facebook user over ethnic incitement - People Daily",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdW5aZUhCR080TU5qaWo5YUpxUGhMY3haUU9OcHZMMVZZOElkN3FrZzhhclNMUEJWckd2Ri1udmRublBod0ZKVGluVFc3MnI0YmpmSGw2UHpBcWhTTlQ5M1RTSmVPVWhVY2V3Uno3TVZSS2JmSFFYcEM1N3pfX3hpNWFNcUtXZ3hR?oc=5",

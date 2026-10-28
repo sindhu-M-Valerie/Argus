@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:27:35.612Z",
+  "generatedAt": "2026-10-28T05:59:29.822Z",
   "snapshot": true,
   "date": "2026-10-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,56 +44,56 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 57
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 72
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -182,10 +182,25 @@
   ],
   "data": [
     {
+      "title": "ACAMB Warns Bank Customers against Phishing Scams - THISDAYLIVE",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUstM3NxbGY2ZzJyWlp3ekpGdWxYSkhYZTZkT2FWNG9MYTR1Q0pkN0xUN21VMGRoby1xMFR1NV8xUGFzcDY1TTJ4YTRwTkJHRUo1dGs4eTJnYV9VYVNYOGswSnQzWnFSTnRERjNXV1RldW5tbW9jY2o5TkxBSmxRTmdodnI0djdSdzhVaUItcjVsaHM?oc=5",
+      "snippet": "ACAMB Warns Bank Customers against Phishing Scams THISDAYLIVE",
+      "publishedAt": "2026-10-27T23:48:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Special Report: Cyber Scam Operations in Southeast Asia - Genocide Watch",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM01PZElhZDdpcDVsQkhYM1dkVm5rbnc1czdOZkdIV1JyUmo1ODQ0NHVZN0VFX21tVmpEeXg1R1dhUEZXaTVqNURqWnB4S3RKWlhJY3ZmMERmR05WSkY4ZGltWDltRkZqanVuTmE5OE93d3Z3Vld1d25UNkx0ZzB3bl9nMVRXTXdESEhIS21RWFRLelE4YW91TXZBcmI?oc=5",
       "snippet": "Special Report: Cyber Scam Operations in Southeast Asia Genocide Watch",
-      "publishedAt": "2026-10-27T21:08:11.000Z",
+      "publishedAt": "2026-10-27T21:11:14.000Z",
       "source": "Google News • Human Trafficking (South Asia)",
       "theme": "fraud-impersonation",
       "type": "News",

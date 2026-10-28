@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:27:35.612Z",
+  "generatedAt": "2026-10-28T05:59:29.822Z",
   "snapshot": true,
   "date": "2026-10-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 85
+    "total": 90
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,56 +44,56 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 57
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 72
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -250,6 +250,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PIB fact check debunks viral claims of new Rs 1,000 note in India - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMlFFNDBFN0I4cHhlSnNZbEdYNzdlQlJScXAtQWJXRS1sZWxxaThXY0pSZWMxYjl0TGVVR3hTNjRxQ05PakpyM3RqUEw4ME9Gcl9fRWkzTzFYTTgwU0NrX1FFMWV4LU56V28yczRvWmRiVXhIS0hpZF8tcmJSb2t2bzFGN1ZKY3dxdUN1SFdsY3hENzF4YnNsVm85YkhsRURXMkcyUVlRaUtXU1RkeGNXUnVKTUMyZWt50gG_AUFVX3lxTE42TTNjZXNYMjhyaGVHblBVOFRmTmNLUkgzb0ZNY2p0TVVJYmQ3NXBiMFM4b2xxeTcwbHc2VTE4Zk9hTVFxaXR6cUp3Y2xnLUJiV2tXTktGZGVGRGZwMm5waVpOUDZHWm9jZjBocTlaQ3ZLemFIS1NobldkQV90OGMzazhTV1FVZy1Ta3BrRS1GeUVIMnI0YThwRHNtT0FjZGVfbm5pVEtjYTRVU2lrSGpONHpqZl80RVVwYzFXSHRN?oc=5",
+      "snippet": "PIB fact check debunks viral claims of new Rs 1,000 note in India The Financial Express",
+      "publishedAt": "2026-10-27T12:17:03.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 60,
       "confidence": "Medium",
@@ -379,6 +394,21 @@
     {
       "title": "New ₹1,000 Note Claim Goes Viral; PIB Fact Check Says RBI Has Made No Announcement - www.nationpathindia.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUpwM280SWp2UEdfYS1MNTlBelBvcmV1WVBQUFhkbEQ0UE9lWGZrTEM0Y2p3RHc5ejFYMXFmRTN1bDJnMGh0dTJSdkRtZVpXNUtoTjUxM2tSdmYxMjNER3NjcEh4bmE5MmlXWUtlaGtxeVhBMXBuTVJnLUJSQTQybGpuaVVSdnU3Q1doTWV6eUJmQ3JtVWNPR0ZB?oc=5",
+      "snippet": "New ₹1,000 Note Claim Goes Viral; PIB Fact Check Says RBI Has Made No Announcement www.nationpathindia.com",
+      "publishedAt": "2026-10-27T18:18:53.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New ₹1,000 Note Claim Goes Viral; PIB Fact Check Says RBI Has Made No Announcement - www.nationpathindia.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFpGeVBNcHRPNHB1SVlGZWZwNGhNdzVUQ3UtdU1TSHZBcFp6Q0FKdHRDc3A2R2c5VkhXUnlmSTA1b1g0dGxzYURVTGMzUDUzR0NPTzFCQzlkajdhQzdscVd2N3YtSlRENktjWWdSR3JVM0hscnhmUkpBWFlXMG9kcy1LdXluMnhkRFgzUm9xRGdVd00y?oc=5",
       "snippet": "New ₹1,000 Note Claim Goes Viral; PIB Fact Check Says RBI Has Made No Announcement www.nationpathindia.com",
       "publishedAt": "2026-10-27T18:18:53.000Z",
       "source": "Google News • Fact Check (India)",
@@ -722,6 +752,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Supreme Court’s National Hash Database: POCSO & IT Act Explained - Legal Service India",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDlrd2w3cG9FaE11SjQwcEZBQ3Z0cTBLRUFJcUhSMnU1czlBRkQzQ2JoblBOelBGbV9IczNYdzI4elZSaWRxUGpHOXgxbFg4T01pR0YtNEdaYlYzM1pDa3JxMnk5MVRlTERLS1M0OTRRNnphT0gxbTZVTk1qZ0p0MnlpYzlRSUR6U2dzbVEwS0k4RDg?oc=5",
+      "snippet": "Supreme Court’s National Hash Database: POCSO & IT Act Explained Legal Service India",
+      "publishedAt": "2026-10-27T05:51:13.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact Check: Old 2021 India-China border clash video falsely shared as fresh 2026 footage from Arunachal Pradesh - Organiser",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUzR3YzhaRzNnUU0zZXdfQUVfZEMtUTZKSFlTczRQV1RMTk9pVVpja3Z4OGNxb3kzbDNpYnNhajhwT2JrMEZXeGI3d2tPSDRTNFA4dE1MTWlXTGNJVUNTSWpOdUM3WkFMeXlLLXphM0Z4WHVUQThXajRWdlYydmZ3bWNqN0Q4QU9qYklONFdoTDNROUZTQmlkZWd2d1ZGakhYYXllOXVKLVRxVUlnQl93R0VFdmxsVDBGNWFKSXZSQ3lJa29lTUd6UXJJei1BSXRjZGc5YjVONkRxTWtHSGQtakQxZ1Z3UldjUUV4YktIVdIB9AFBVV95cUxPbndzZThLeElhazBXU0dlcmhrakxJeHhnRXZMcjRsZkY5R1ZndE5WeUNFSjBISEF5RzdHSkQtRExpdm9BbXROa0VWbXRDSHRFbVFaWkRIdjlDU3lYWGFZZ0h5NnplaUdsWnZEMFBiVjhDQ1pDbXhtaGl2MjV3RDFiN3A2bmRicGgxaGYxWUtOdjMtLUNNTWJhUHR6MWhqbUFOekQxTTNRNTZLd0lERTRLNko1ZEhOVENfY1NvT21Lck1Md0ZJOWlWQ3RjWnBuY0xja3NxVFlSdWs1ZUg4NHZmeGZnQ1I5VjNNeVJrblUwbEd1Wjd5?oc=5",
       "snippet": "Fact Check: Old 2021 India-China border clash video falsely shared as fresh 2026 footage from Arunachal Pradesh Organiser",
@@ -803,6 +848,21 @@
       "publishedAt": "2026-10-27T16:55:00.000Z",
       "source": "Google News • Sexual Exploitation Online",
       "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Jess Asato sues xAI over Grok deepfakes and consent violations - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84YmVNU2ZKbEpRLU91cjdVRkw4Qy1Vc2tkUVZfenJCNlBoVmRFLWxNZnZudEFJbDJwYmRJdm5QVVhRWTdTbWV5b1FsYUNKbzVTSV9jeUEzOS1fN28xdWw0SkZtTGt6MS1kblFpbkNrZw?oc=5",
+      "snippet": "Jess Asato sues xAI over Grok deepfakes and consent violations Crypto Briefing",
+      "publishedAt": "2026-10-27T13:53:01.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
@@ -1007,6 +1067,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "#FactCheck: 2020 Video of Bridge Collapse in Uttarakhand Falsely Shared as Recent Incident in Pithoragarh - CyberPeace",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdTJJWkU3RVBNMHdEX0NlODctVjFDLUsyV2hEemdMelBZVmdvQUV3VEIzUDlRUDlpaWFwRlp5YkhCaTBoLXh1UFBuUUE1SEE5ckswMUJ6N3BJYS16Snl3MkpvcnNKdjdheTJKUEx4WmVST05ycVVRanZ4UV9qbEc3SGtLZm5Felg1UUdyeUdPUGdRZ3daUGl4UDdLQkRRWlF5bG1SNkNFZERBVXdtTm1WWkg0ZXYxako2dXZSTmZkSWJ4YlBhVnFURVZNR3RLenVWQXcxRzhpM1hCaWRZQVA4?oc=5",
+      "snippet": "#FactCheck: 2020 Video of Bridge Collapse in Uttarakhand Falsely Shared as Recent Incident in Pithoragarh CyberPeace",
+      "publishedAt": "2026-10-26T19:08:05.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Deepfake Investment Scam: How Fake Celebrity and Expert Videos Are Used to Steal Money - The420.in",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44anB3UkYzRXAzTVppREJHLUlBeVJGdjNEcjQ3R242c3N4Mlg3YURXLVE4dEhwR0tkTjhqVXhkSFRPM3dkR1BweDRwbWVTMzZ2QWhrTU9uZkZkdy1vSG1IcDRYMGtIVUJsWXl0WGhRZnBaTVE?oc=5",
       "snippet": "Deepfake Investment Scam: How Fake Celebrity and Expert Videos Are Used to Steal Money The420.in",
@@ -1187,6 +1262,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "NGO urges parents to support, protect children against online abuse - Peoples Gazette Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM3dpcTFCVENuY0pJYUlnY2VkZWhENDhjZTNlbjBSYWRfam1CY1VISkdNUGtwc3A2OFJrSnJ4cTAwMlQ5WGRLR3gwSG9BOHlpSUJFdEVuTnp0MXNheWQtV2JRbzFLR282b3Q4TDlxRDRiUUNaSmVlU0x0Nmp1aVM4NXM5SVNROUstYnNqVktXbElha0M1?oc=5",
+      "snippet": "NGO urges parents to support, protect children against online abuse Peoples Gazette Nigeria",
+      "publishedAt": "2026-10-27T18:21:58.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Australia warns AI-powered cyberattacks are accelerating as incidents rise - Beinsure",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXg5M0g3NWtjNWEtRzNWandCaElCZ2h1RzNvWTNVSHJNSFR6V2l0eWptS1U4em5QTWtRejJVWlBiZnpGWkx0a08xNVpXN2ZlRjd0OFpUQ2lkNnJrcDRheVFRbG1OZjFJbjZCb3c1VTJkcGRNUTQ3bzM3LURPNlR0aDJHdWs5U2Nrd1N3?oc=5",
       "snippet": "Australia warns AI-powered cyberattacks are accelerating as incidents rise Beinsure",
@@ -1301,21 +1391,6 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Sona Mohapatra Reports Online Abuse After Criticizing Rahul Gandhi Over Himachal Pradesh Conditions - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1NCdHZ5ajJ4Wkw1d2xZV19YRnpRdjVkVE9RcDFhUmhwMi1qMkt0ZzNHejUyTkVQeERaVDVQOVJpRU4xVU1vNklZSF9ESEVNYWZBOHpYU3l2MGpTVFI1ajdLNEdWVmlSVzJlRlNXOU95bG12ZnVoUWR5azdhTUJnejhvSy1pMkRpRWR6cTRVLUpKRE1PVHFsbE9xREZwVWtVMDdFdWUyMGphZi04NkNJNUN4QTMtMDRrOEh5cFdoQjZobXkyRjBZ?oc=5",
-      "snippet": "Sona Mohapatra Reports Online Abuse After Criticizing Rahul Gandhi Over Himachal Pradesh Conditions INDIA New England News",
-      "publishedAt": "2026-10-27T07:47:35.000Z",
-      "source": "Google News • Online Hate (India)",
-      "theme": "harassment-bullying",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "violent-speech",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
