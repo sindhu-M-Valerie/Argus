@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:59:29.822Z",
+  "generatedAt": "2026-10-28T13:18:40.320Z",
   "snapshot": true,
   "date": "2026-10-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,14 +37,14 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,35 +58,35 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 28
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 43
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 75
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,66 @@
     }
   ],
   "data": [
+    {
+      "title": "'Your phone could be hacked without a single click': Inside the mind of a hacker - Mathrubhumi English",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZi1HdUJKTy1Qc2p0ZHNoM0MwN21BQ1dvYllieFVWdm9MUFVLb2R3eXpVRU1UT1h5dGV4VHh6Y3dXbjNYbVRxbGpCUllmTklFcXFod3psMlU0S1NQYTRnT1owdUJKT1dxbjZEZ0NWUndxTjB0aC0wUGdHdVhnbmt0cldnZGFsM2xsZDgxSUpOZ05sQkU1b1I1NVlxUXZjb3Z6NzU0RklTZHdiU0k5Z3JNQldEaGxwaURVNlRKZTJQUTgxU0tWbXfSAcsBQVVfeXFMUE9zcExHX0gybUhBY3pwTWRzRUR1N1g1Qy1DM0VhbERYTE56dWhtNGctN0xxYlVwWDlnWF9zY2s5b09ZeTAtMEh1UlZoVjlLTGpnbGxvX25OdzlweFRBazZja1pMaUVHLUZTTW1sc0tPTUx2TGppQUZWdG5uMlhuZTNUM0lLd0ZJYTR2eU1KaUpKQjhJb1pvMWZJa1d5YWd0VjFKSmJ3MVpjY3ZuNUFDUXgyMVhMSDZnZXJwRXk2M3pXTHVsYWJUN3ZCRzA?oc=5",
+      "snippet": "'Your phone could be hacked without a single click': Inside the mind of a hacker Mathrubhumi English",
+      "publishedAt": "2026-10-28T09:55:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Use CyberStrikeAI Agents to Automate Network Scanning, Exploitation, and Data Theft - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKck0wcnEyQTRCei1ZMFlCR2lNUF8zNzIyR0pZc0VWOFY0SEh5T3R1Q1VFN3AwSDJXOVNBZ1lzWXFkdWNxVUJYZ3lCMVBhODdnM1VDcG5qOGZmYkJJNFVPdDBwdndoMnF3UGFoMEJpNnnSAXZBVV95cUxNS0MxN2k3NXpFbkVCNnd6aVhuYXMwUGtHLURQOTRiNks3ZFFEdy1hQ3B5ZGgyZ1FieUZmclZuYmlkQXJtdmlFYjNmSHk5aWdRSi1pc1lZZ1FqZV9pN3NxbWxGSUhxQ0kzd2FJblpYbzBQX2ppSGJ3?oc=5",
+      "snippet": "Hackers Use CyberStrikeAI Agents to Automate Network Scanning, Exploitation, and Data Theft CyberSecurityNews",
+      "publishedAt": "2026-10-28T09:49:06.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coinbase Customer Data Exposed Via Analytics Vendor Amplitude Security Incident - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IQ3YzOXRLNTNYbHVDcHRSQ3JhT3dYUGRGamhNTE1fZlItczdpWUxHVHk3TUd2RmRJSnhMX3hSMlNXdUZGaFRFTU1fTGRqMHdXLXpMMUpabWpib1JBQjFoc2NYbWFhZjFUTmdmRmxB0gFzQVVfeXFMUGJncXVyYlFPWlh6cGszaHZXUTBDaGg2WlVqdVRWNkZaMVFWV0ZLOWRTeVVENTE2S1JrNDhNSTVZYnF0THVGQTlBelRJeUtxeEpNSFRNQjFteVhwaTRkeE16YWxOc2N2aFB3SFMyWUZ4OXRBVQ?oc=5",
+      "snippet": "Coinbase Customer Data Exposed Via Analytics Vendor Amplitude Security Incident CyberSecurityNews",
+      "publishedAt": "2026-10-28T09:32:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coinbase Data Breach Shows Why Crypto Security Goes Beyond Self-Custody - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkwzSmZxWklxWFFwUXlRcWFKR0R5QUllekJxZGRvRTVCY01lQmdNMUhOZVZaTjBpU0pzSWN6d2pnWHJvMDJ2YlBTejQ4VF90cWFjWTJmZko4NjI0V24yd0hVOUtoaVRDdHNoaDZMSFBCUXR0NWxIMlRuYWZMNk5DRVZlN2lGNXZUUC1HSUZmMmFZU1oyX0E?oc=5",
+      "snippet": "Coinbase Data Breach Shows Why Crypto Security Goes Beyond Self-Custody Yahoo Tech",
+      "publishedAt": "2026-10-28T11:12:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Privacy commissioner opens investigation into Crime Stoppers data breach - CityNews Toronto",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcUlQYjF4Tjl5bGxNVGlFY1VONDdHaDFoUEp1cWpDd1g3NU5VdldYRmFBdjF0RFBOZlZyXzNfYlZSNXJzYW9zSTRER0dIUmFmMEVFNzl4di04RTZVRlJJVTlkWUZ2NGI0TzFCanFlY3hfdlNrZGJUUlZ3N3UtZlpFaHRhUjJmbHJoQ21vQkY3OWQ4N1huVEl0QmN1TDVDaEF1QnhLZUVSRlBJcmNQczctTjBR?oc=5",

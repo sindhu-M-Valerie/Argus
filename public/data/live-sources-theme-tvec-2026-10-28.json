@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:59:29.822Z",
+  "generatedAt": "2026-10-28T13:18:40.320Z",
   "snapshot": true,
   "date": "2026-10-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,14 +37,14 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,35 +58,35 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 28
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 74
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 43
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 75
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Pakistan says low social media compliance hampers fight against online extremism - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXEyaHh1M1lodk56dDBDcnF0UUtTUGg0OTFWRmh0WVpQQmNmalNNOFpaYWJxSW1HUTN0ejBJNkR0S1JOSjNXNDY3TXN5dVlBUjZuREZYNVlFMVpRMm8xSFozNEZ3WUE2Nk5ZeVFUSzFVUTdHVk5SRV9pWXVsTVlkdlZKV25MdEZBcTZRVFc3Y2NtZE1oZmxhbm01ZlR5WXIwRVlnQUFLZHlBcTlXVy0yVFEzcUw4TnN2Ri01ejhn?oc=5",
+      "snippet": "Pakistan says low social media compliance hampers fight against online extremism Arab News PK",
+      "publishedAt": "2026-10-28T12:43:09.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Nihilist violent extremism and sadistic online exploitation: the Association’s Observatory publishes its first practical guide - e-Enfance",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXFWbW9uODE5ZVE1RjI1TWt1WHNLQ0NBcW91T3R0cl93VUI0SXRDZDJ3akNSd3pDWE9PNUdMX3J4ZDlOcDZncEt5NElEcXFfY1pKNlQ2UlpCVG1zQWJCSTFMN1ZwUGdZZTF3Sjc4ZGkwQWhlT005ck1NUEtuS0JaeUtVenRMbjJ6b05yYWxOTUJaT2dHckltekZB?oc=5",
