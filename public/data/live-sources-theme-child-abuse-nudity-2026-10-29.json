@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:44:19.237Z",
+  "generatedAt": "2026-10-29T06:06:56.609Z",
   "snapshot": true,
   "date": "2026-10-29",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 5
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 95
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Columbia man arrested for possessing child sexual abuse material - KJLU 88.9 FM",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdkFNNjltRExfM1JJMDI1V3RjeGMwYTVfNEl1aFNiYko3T2lxYy1RZVFfSHIxdnRnaXBzSFJxVTVwY2R2elJ2VjJiZkR4dXVwb2tDQVN2TG1xMmFOT3JsRFg2YjFZQWpuRDV5RUZzZGpWTU1HLUpNLWFuQ3gzUkptWkJrX3lSZ1Z1azVtTHdFcF9sQ2JTNWsta1E0TEtmY0I5VlMwZURmYnBJUVhsdE5TY0RCY1RBWk51WktCcEVSYjU1TnF1NlBGY3ZUbE5JNEI3TXFId29hbG5CdGFwaGxjR18tMA?oc=5",
+      "snippet": "Columbia man arrested for possessing child sexual abuse material KJLU 88.9 FM",
+      "publishedAt": "2026-10-28T23:27:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Burlington Township Man Indicted On Child Sexual Abuse Material Charges - News12 | New Jersey",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmZ1Mzl6NFVSSjZoZ1FlT2RnaFEwYVJjTTJXLUFIS0tVX3ZZLTkxaFNOcm1iellZcTR0MXZKZ0NoNUJ1LW5qQ1dDbVpELWE0MFhlVkFFNFpiSlVpenRKTWNQQXdsdExXWEpOanZadWYteTRWODROZzI3OGl2dVI1VmJoNEp0ck9xOFpqSEFzS3hhRTFaRGJIdVdHQTBjaGZadmc?oc=5",
       "snippet": "Burlington Township Man Indicted On Child Sexual Abuse Material Charges News12 | New Jersey",
@@ -193,6 +208,51 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mooresville woman accused of possessing child sexual abuse material - Queen City News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTjZMeTFEYm11X1BOWGZMZXRDTGJPcEhsM2szWm9uS3ZxTTVla0ZNSk43SzVoSm5vUVdiT3YxVU9aZFRyR3pDRDBhZTFTdVdsTHFvWFZGMzZXUUlHN1dpLWh3OWJBTDR1azk2cGVmQXB2UkRSUGZJaUQzTGZxZGwybWZSWXpBbUhabTA0d2p1ZWFoSUk0NThvNEhXSHVzQkFXdEF4Q3hmcU9MV2xfNF9RZU15amZfSm1Mcm5BSi1qQXJuOXplTXF0TXdBYTdzc0ZWaEV0dUNGM2Jadw?oc=5",
+      "snippet": "Mooresville woman accused of possessing child sexual abuse material Queen City News",
+      "publishedAt": "2026-10-28T20:29:06.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How Context Labels support child sexual abuse investigations - Thorn",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFI0TnZKV2pFRnRhZmhJOEpheXJ5YWZvVHF0ZEM4ekZva0lVU1d3RlJLbWlCb2JNRzljOV85dVNKcmY0Rk9uanZBdnlOWW56UERBNVRSdHFHWW5oS1NMa05NaFc3Q01MUWJPWFl0NmNSLWhlTFpWMHNiaWtfTmNuSkZ0STROMVVEZG5jUWl3eVlXQQ?oc=5",
+      "snippet": "How Context Labels support child sexual abuse investigations Thorn",
+      "publishedAt": "2026-10-29T00:49:47.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AG Uthmeier announces 100 felony counts against Kissimmee man, lawsuit against AI company over child abuse images - Florida’s Voice",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUHlveEczWjlMWGVXSkJ3NWIxdFk2dmx1dXQtNE9UdjdRSzBIOU1waVZmX0N3cWFXRC1xVnlKVjd1UkYtRU1nWVpvamZRaEFwTlkxV25rbEhJbWpyNVN4V1l1QmpsckpMTG1sdUd0Q3RFcEZEdDEzc1RqX3ZQWUFZQ2dVRjlVamIwemJzVEV5ZENwSVNIa2Mza28wYlBRZlFGd2hzOV8zR2E5N3l3c1FRTmRaQzg1OW5GamlGWVl4Y0xPdU5IamtBbWNFVEx0OHB1Zkx3?oc=5",
+      "snippet": "AG Uthmeier announces 100 felony counts against Kissimmee man, lawsuit against AI company over child abuse images Florida’s Voice",
+      "publishedAt": "2026-10-28T19:05:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

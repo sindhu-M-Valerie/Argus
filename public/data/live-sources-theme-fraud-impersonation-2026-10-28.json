@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:44:19.237Z",
+  "generatedAt": "2026-10-29T06:06:56.609Z",
   "snapshot": true,
   "date": "2026-10-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 11
+    "total": 13
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 95
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -280,6 +280,36 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Whoscall, GASA and Mastercard Release the 2026 Asia Scam Report: Hong Kong - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOczF5T1ROUldzVTFUOWlfbTAyVGtaclpjaWhoc3FaZWtCakhfVC1KQk1BUWpMUGhRTzdjM2Z4UmdGeVhETS0ybmRBVmt4cU9FS0N0RkZ2U3lRYWRyTEprck8wWWpJbHY1MVJzUVlxa1hMdDlXVTZHcEt4aFFxdHVpdmlmd3dXS0FHRU1mUFU3ZnJPZ080U21oSC0tcmJoUGg4QVFhdkozcFhQanR2eTJWaTBvWHA1SGVSVUlZUmM0NG4xakw0VDhBNmZ5eFk0WW5ZVEowSlh6VVd2TENU0gHiAUFVX3lxTFB6eVBlWUVyclhLYnZpRjN1Y21HSHVSOFNSd3cyU0FraWk2SjRsa0d4Z3ZmYTVQMWFrOFRkSm9jZE52bW5nUFMyLW9pVXl4d3hWcWZzRFVvanRudjVPSEtibzlvUnNmRFg5elBjbFYyMkg0dlF0Uy1WWTNjOV9aTnpTbUt5cEZkZjRtbVhKT0tVclpsdDZTRFp3RmVfNW53dHlGMlNiYy0wb0FoMGNnZUV3d29aTjlaVjRzNk1vMEpJUVY3cHZpNkczaEJ2bkZ4bGs3MWM1R2ROcm16cUhJU29zZnc?oc=5",
+      "snippet": "Whoscall, GASA and Mastercard Release the 2026 Asia Scam Report: Hong Kong The Manila Times",
+      "publishedAt": "2026-10-28T08:26:05.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Whoscall, GASA and Mastercard Release the 2026 Asia Scam Report: Hong Kong - Kosmo Online",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHdnZjZjQVlZUEtjcW1uUEZLMUtlWFR0Q283ZTI3OFFHUUJWRDVvWG9RLU0yVXhWT1d3MlhhSkFVWGdBOGdoSVZIQjV2OEttX1o0enhXSmpSdmlERWNJOGpzTEpid191SEo1ektUNzlnalNrZDU0SVZPS1lBY1lLRDZSWUlmamlYTXVjTFYtNUlnLWJJZEd4ZDZrZjM0ZWxFT2lQRWhmWDZhcndZZmc?oc=5",
+      "snippet": "Whoscall, GASA and Mastercard Release the 2026 Asia Scam Report: Hong Kong Kosmo Online",
+      "publishedAt": "2026-10-28T07:30:01.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",

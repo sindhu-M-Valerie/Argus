@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:44:19.237Z",
+  "generatedAt": "2026-10-29T06:06:56.609Z",
   "snapshot": true,
   "date": "2026-10-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 71
+    "total": 78
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 95
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -266,6 +266,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Pakistan Grapples with Deepening Crisis of Online Child Sexual Exploitation - Lokmat Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVRseF9BX2x0eDdTZ0k3TWU5TzkyVC1wUDJtbUhvcHpqZUxDLUMwbVpTWm5iU0pSYkV3cUFPbTI3Z2VFUnlhV3kwT1BDNUxuc3FtWmtQdWVqVW9VQzZjT0kyVUFTTEcxNkh6V0huSnlGc1JFeEM3R21hTVV4TzEwVWRTVWI5Q3hHb0kwQXRjMHBsWlkzUW4xMWw1c3JIc1RoS002M1hyZEVSZi1nc2pmOWRKQUdVajJJbmdQRXRaeUtEM2F6WDg3TjNsd9IBywFBVV95cUxPTVRseF9BX2x0eDdTZ0k3TWU5TzkyVC1wUDJtbUhvcHpqZUxDLUMwbVpTWm5iU0pSYkV3cUFPbTI3Z2VFUnlhV3kwT1BDNUxuc3FtWmtQdWVqVW9VQzZjT0kyVUFTTEcxNkh6V0huSnlGc1JFeEM3R21hTVV4TzEwVWRTVWI5Q3hHb0kwQXRjMHBsWlkzUW4xMWw1c3JIc1RoS002M1hyZEVSZi1nc2pmOWRKQUdVajJJbmdQRXRaeUtEM2F6WDg3TjNsdw?oc=5",
+      "snippet": "Pakistan Grapples with Deepening Crisis of Online Child Sexual Exploitation Lokmat Times",
+      "publishedAt": "2026-10-28T10:16:20.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
       "riskScore": 59,
       "confidence": "Medium",
       "severity": "Medium",
@@ -572,6 +587,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Independence man sentenced for distributing child pornography - KCTV",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1NKcEYxbERRSVplbWFNTlh4WjRlbWJnWHpzQXhldFVTeW5wMGVSRFdzakRZbGxmd2ZRUGVuVmUtY1o4YVJ2dnd2ZkE2Um9HWUUxay11Yk5LX1BubWRKM3d5elg4R1p3endjM0pOSkhoSS1IVFlNaVZ5NHk0V0VGZUctYnFoUTJFek1MNXZIUGZ0TF9EV3RyZklqVmFFZm5tdUctX1dPSjZZQdIBqgFBVV95cUxOS1NKcEYxbERRSVplbWFNTlh4WjRlbWJnWHpzQXhldFVTeW5wMGVSRFdzakRZbGxmd2ZRUGVuVmUtY1o4YVJ2dnd2ZkE2Um9HWUUxay11Yk5LX1BubWRKM3d5elg4R1p3endjM0pOSkhoSS1IVFlNaVZ5NHk0V0VGZUctYnFoUTJFek1MNXZIUGZ0TF9EV3RyZklqVmFFZm5tdUctX1dPSjZZQQ?oc=5",
+      "snippet": "Independence man sentenced for distributing child pornography KCTV",
+      "publishedAt": "2026-10-28T00:45:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Cecil County Man, 48, Asked 26-Year-Old Online Lover To Produce Child Abuse Images: Feds - DailyVoice.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYllWaUQ5dnRfWDBRZzBjbF9YOXdqQVlzTUJGa3VLVzFQQ21WWHdQam1UamRNSWk3OVRhYUhoSDA2ZnI0VGZXRkZXVGY4ZkoycGxrSE1oM3pDb0NJVElMaFVzdWwzYjBmVGZuaHpiSllVQ0dNSnFLa0ZiWFJCN1Bmb3dVTkdmOWhPS2F6TXRvMGhwZw?oc=5",
       "snippet": "Cecil County Man, 48, Asked 26-Year-Old Online Lover To Produce Child Abuse Images: Feds DailyVoice.com",
@@ -679,6 +709,21 @@
     {
       "title": "'Your phone could be hacked without a single click': Inside the mind of a hacker - Mathrubhumi English",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZi1HdUJKTy1Qc2p0ZHNoM0MwN21BQ1dvYllieFVWdm9MUFVLb2R3eXpVRU1UT1h5dGV4VHh6Y3dXbjNYbVRxbGpCUllmTklFcXFod3psMlU0S1NQYTRnT1owdUJKT1dxbjZEZ0NWUndxTjB0aC0wUGdHdVhnbmt0cldnZGFsM2xsZDgxSUpOZ05sQkU1b1I1NVlxUXZjb3Z6NzU0RklTZHdiU0k5Z3JNQldEaGxwaURVNlRKZTJQUTgxU0tWbXfSAcsBQVVfeXFMUE9zcExHX0gybUhBY3pwTWRzRUR1N1g1Qy1DM0VhbERYTE56dWhtNGctN0xxYlVwWDlnWF9zY2s5b09ZeTAtMEh1UlZoVjlLTGpnbGxvX25OdzlweFRBazZja1pMaUVHLUZTTW1sc0tPTUx2TGppQUZWdG5uMlhuZTNUM0lLd0ZJYTR2eU1KaUpKQjhJb1pvMWZJa1d5YWd0VjFKSmJ3MVpjY3ZuNUFDUXgyMVhMSDZnZXJwRXk2M3pXTHVsYWJUN3ZCRzA?oc=5",
+      "snippet": "'Your phone could be hacked without a single click': Inside the mind of a hacker Mathrubhumi English",
+      "publishedAt": "2026-10-28T09:55:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Your phone could be hacked without a single click': Inside the mind of a hacker - Mathrubhumi English",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZi1HdUJKTy1Qc2p0ZHNoM0MwN21BQ1dvYllieFVWdm9MUFVLb2R3eXpVRU1UT1h5dGV4VHh6Y3dXbjNYbVRxbGpCUllmTklFcXFod3psMlU0S1NQYTRnT1owdUJKT1dxbjZEZ0NWUndxTjB0aC0wUGdHdVhnbmt0cldnZGFsM2xsZDgxSUpOZ05sQkU1b1I1NVlxUXZjb3Z6NzU0RklTZHdiU0k5Z3JNQldEaGxwaURVNlRKZTJQUTgxU0tWbXc?oc=5",
       "snippet": "'Your phone could be hacked without a single click': Inside the mind of a hacker Mathrubhumi English",
       "publishedAt": "2026-10-28T09:55:45.000Z",
       "source": "Google News • Fraud and Impersonation",
@@ -902,8 +947,53 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Whoscall, GASA and Mastercard Release the 2026 Asia Scam Report: Hong Kong - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOczF5T1ROUldzVTFUOWlfbTAyVGtaclpjaWhoc3FaZWtCakhfVC1KQk1BUWpMUGhRTzdjM2Z4UmdGeVhETS0ybmRBVmt4cU9FS0N0RkZ2U3lRYWRyTEprck8wWWpJbHY1MVJzUVlxa1hMdDlXVTZHcEt4aFFxdHVpdmlmd3dXS0FHRU1mUFU3ZnJPZ080U21oSC0tcmJoUGg4QVFhdkozcFhQanR2eTJWaTBvWHA1SGVSVUlZUmM0NG4xakw0VDhBNmZ5eFk0WW5ZVEowSlh6VVd2TENU0gHiAUFVX3lxTFB6eVBlWUVyclhLYnZpRjN1Y21HSHVSOFNSd3cyU0FraWk2SjRsa0d4Z3ZmYTVQMWFrOFRkSm9jZE52bW5nUFMyLW9pVXl4d3hWcWZzRFVvanRudjVPSEtibzlvUnNmRFg5elBjbFYyMkg0dlF0Uy1WWTNjOV9aTnpTbUt5cEZkZjRtbVhKT0tVclpsdDZTRFp3RmVfNW53dHlGMlNiYy0wb0FoMGNnZUV3d29aTjlaVjRzNk1vMEpJUVY3cHZpNkczaEJ2bkZ4bGs3MWM1R2ROcm16cUhJU29zZnc?oc=5",
+      "snippet": "Whoscall, GASA and Mastercard Release the 2026 Asia Scam Report: Hong Kong The Manila Times",
+      "publishedAt": "2026-10-28T08:26:05.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Whoscall, GASA and Mastercard Release the 2026 Asia Scam Report: Hong Kong - Kosmo Online",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHdnZjZjQVlZUEtjcW1uUEZLMUtlWFR0Q283ZTI3OFFHUUJWRDVvWG9RLU0yVXhWT1d3MlhhSkFVWGdBOGdoSVZIQjV2OEttX1o0enhXSmpSdmlERWNJOGpzTEpid191SEo1ektUNzlnalNrZDU0SVZPS1lBY1lLRDZSWUlmamlYTXVjTFYtNUlnLWJJZEd4ZDZrZjM0ZWxFT2lQRWhmWDZhcndZZmc?oc=5",
+      "snippet": "Whoscall, GASA and Mastercard Release the 2026 Asia Scam Report: Hong Kong Kosmo Online",
+      "publishedAt": "2026-10-28T07:30:01.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Man arrested over alleged ethnic incitement - Citizen Digital",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VMaTQ1S1o2bDdpWDhMbHZJVV9BSGZzN0I2ZTJDaXZBcWJfczBEbktzWXRuR0hnS0JOZWJQRTMtS2NjYW9YMDBHZ1dHUXBTTkxyN3JnMDFUUkI3bUVwLWpXSDBMal9DQm53VVZTc1pDTFNsWFl1b2Y1ZkxiSlJjMTh3RnBUSWs5XzA0?oc=5",
+      "snippet": "Man arrested over alleged ethnic incitement Citizen Digital",
+      "publishedAt": "2026-10-28T07:21:22.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Man arrested over alleged ethnic incitement - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUJKNkJYZlJmS1E1ZFhCUThsNmREbV9CWS1QRUNsX3pScVRXWjRfRFlNdjd6bk01QzUtSnBPUmtJYW05ZERHU21YZTU2MEhmNjhXb2RqSFRWdmZGWl9peTBpekFBT1RrM0I4Z1Z3SVRjQXFjTThIRThJVkxkbGR4Mms3N3pSRHZSU2ZKakwxdFQ?oc=5",
       "snippet": "Man arrested over alleged ethnic incitement Citizen Digital",
       "publishedAt": "2026-10-28T07:21:22.000Z",
       "source": "Google News • Violence and Violent Crime",
@@ -1071,6 +1161,21 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VMWNpUVh3OEtobWVkNzBGU0cxa21DYldKX3BOVFVLNkplMjJaUG45elRnUmlRdzQyWDZ4Mk1rRkdweUxnNnl6UlhrdHAwaF9SZ1ljTEdzYllacmcxbTVNVDVERUo1c2U4TjRqclJhS0xaQzljRmVZdmlsSF8?oc=5",
       "snippet": "Bithumb Security Breach Raises Concerns Over Customer Data Leak TronWeekly",
       "publishedAt": "2026-10-28T14:26:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ENGIE discloses data breach affecting French customers - TechGig",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlpSTW44VWN2dHFmNXRjSlFtRGNxTDNlNzRzYkFxTExnVEdZS0JNTXFtMkNKc0k1TVpfc1JSMG13YmIxWU1tQWJsbHFtNmlGakZDc25lU1RHSzJyTzhHVFh0ZzYwdWRQWlJvYUw2NmpXcWRhcjVud25vb3BaSmdYUnk3SDB4QjVEbmdnTDdzdUFoNWZhVXRMSWt6TjFmUDI1ZzZ0RTJn0gGrAUFVX3lxTE1HUUROMElCaFBTRWZWOE1qeWdaRURDM1RnYVNVaVVDYV9DVFFCWVJmOFlkME8ySXpZQ0kyUm5jSVA5VWtnbTZGSFRSbS05aDR4N3lWUVpYUGhnSDh4NnJNTkVnODJQMU9NNWxtQ2ZCN0xQNkZlLVN5WHhpcGg5LWV2ZHZqQW5McU55ZzdSblNWTk0zVGIwYlJVOHFBRjNoZG15U2R1eHBnbnFLTQ?oc=5",
+      "snippet": "ENGIE discloses data breach affecting French customers TechGig",
+      "publishedAt": "2026-10-28T11:59:36.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

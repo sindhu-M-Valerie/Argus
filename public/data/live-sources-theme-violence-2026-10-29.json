@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:44:19.237Z",
+  "generatedAt": "2026-10-29T06:06:56.609Z",
   "snapshot": true,
   "date": "2026-10-29",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 95
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "The Anatomy of Mobocracy: Dissecting State Patronage and the Normalization of Violence in Contemporary India - The Milli Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWlVyVTBRY2R2aXVvWDh4YlJoNDBLRVdHdTVxaHlicW12eG5YR3ZtdE56eXFKODRySWtoaEprTzgwNzNRR3JpcUt2UHRsX2lWOVV4RUQwbl9vYkhZT0N2bEh1Y2x2UWc1Ym0yMDRiOGpqR1NiMmdRMEo3d1kybXlRU1dvQ0lWcGJEZWxTUks5V0RSUWZjLXhGMGVQc0pRRGV6REotTWpReWlYWGc3VWZFekNCc3EzR2pqemZDLU9OdjZnaW53QmNOczhQWTZNT09RbjVFcTV1NkpWUG1McGszaFZYLUt0OW5fSWNFa0ktX3k?oc=5",
+      "snippet": "The Anatomy of Mobocracy: Dissecting State Patronage and the Normalization of Violence in Contemporary India The Milli Gazette",
+      "publishedAt": "2026-10-28T22:21:32.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Online identities linked to violent attacks revealed - https://aapnews.aap.com.au/",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkNoT0xHNlp1QVVQYnVWUGVldnMxN2lyNHdLaHJHc1dvYk1QVUwwR1hnb2xkTTNhNWxTV0MtNWZ6TlpmUXJpc01iUG5tVGdDSkRVbXJFNmpuVUs0eFJ5aldNdnoxWnBsdnZpMUVIdW5kZGFyZ29vWHMwMW5rQUJhZGNFV0d4S2JabTJ5LQ?oc=5",
       "snippet": "Online identities linked to violent attacks revealed https://aapnews.aap.com.au/",
@@ -197,15 +212,15 @@
       "corroboratedBy": 1
     },
     {
-      "title": "The Anatomy of Mobocracy: Dissecting State Patronage and the Normalization of Violence in Contemporary India - The Milli Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWlVyVTBRY2R2aXVvWDh4YlJoNDBLRVdHdTVxaHlicW12eG5YR3ZtdE56eXFKODRySWtoaEprTzgwNzNRR3JpcUt2UHRsX2lWOVV4RUQwbl9vYkhZT0N2bEh1Y2x2UWc1Ym0yMDRiOGpqR1NiMmdRMEo3d1kybXlRU1dvQ0lWcGJEZWxTUks5V0RSUWZjLXhGMGVQc0pRRGV6REotTWpReWlYWGc3VWZFekNCc3EzR2pqemZDLU9OdjZnaW53QmNOczhQWTZNT09RbjVFcTV1NkpWUG1McGszaFZYLUt0OW5fSWNFa0ktX3k?oc=5",
-      "snippet": "The Anatomy of Mobocracy: Dissecting State Patronage and the Normalization of Violence in Contemporary India The Milli Gazette",
-      "publishedAt": "2026-10-28T19:58:55.000Z",
-      "source": "Google News • Online Hate (India)",
+      "title": "Online identities linked to violent attacks revealed - Yahoo News Australia",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUwxTzh2SXQya3I1enY2TG4xbS1obUdvSFJVZEpSckVOSF96X1BUMzRvNmxSdnNOZWhiR2NaM0d3VzVLV1dSbW1NZDJZZzVfenVCR2VIWjlnN0kyTFJ3RXc5bjlGOHg0ZkdnUlFlTjhnNV9sTFJkcnJ4a3ZYOGlRcWNCcHJFdTg0?oc=5",
+      "snippet": "Online identities linked to violent attacks revealed Yahoo News Australia",
+      "publishedAt": "2026-10-28T21:00:20.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
       "theme": "violence",
       "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "violent-speech",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

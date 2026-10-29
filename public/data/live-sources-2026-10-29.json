@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:44:19.237Z",
+  "generatedAt": "2026-10-29T06:06:56.609Z",
   "snapshot": true,
   "date": "2026-10-29",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 7
+    "total": 21
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 95
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Columbia man arrested for possessing child sexual abuse material - KJLU 88.9 FM",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdkFNNjltRExfM1JJMDI1V3RjeGMwYTVfNEl1aFNiYko3T2lxYy1RZVFfSHIxdnRnaXBzSFJxVTVwY2R2elJ2VjJiZkR4dXVwb2tDQVN2TG1xMmFOT3JsRFg2YjFZQWpuRDV5RUZzZGpWTU1HLUpNLWFuQ3gzUkptWkJrX3lSZ1Z1azVtTHdFcF9sQ2JTNWsta1E0TEtmY0I5VlMwZURmYnBJUVhsdE5TY0RCY1RBWk51WktCcEVSYjU1TnF1NlBGY3ZUbE5JNEI3TXFId29hbG5CdGFwaGxjR18tMA?oc=5",
+      "snippet": "Columbia man arrested for possessing child sexual abuse material KJLU 88.9 FM",
+      "publishedAt": "2026-10-28T23:27:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Burlington Township Man Indicted On Child Sexual Abuse Material Charges - News12 | New Jersey",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmZ1Mzl6NFVSSjZoZ1FlT2RnaFEwYVJjTTJXLUFIS0tVX3ZZLTkxaFNOcm1iellZcTR0MXZKZ0NoNUJ1LW5qQ1dDbVpELWE0MFhlVkFFNFpiSlVpenRKTWNQQXdsdExXWEpOanZadWYteTRWODROZzI3OGl2dVI1VmJoNEp0ck9xOFpqSEFzS3hhRTFaRGJIdVdHQTBjaGZadmc?oc=5",
       "snippet": "Burlington Township Man Indicted On Child Sexual Abuse Material Charges News12 | New Jersey",
@@ -193,6 +208,111 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mooresville woman accused of possessing child sexual abuse material - Queen City News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTjZMeTFEYm11X1BOWGZMZXRDTGJPcEhsM2szWm9uS3ZxTTVla0ZNSk43SzVoSm5vUVdiT3YxVU9aZFRyR3pDRDBhZTFTdVdsTHFvWFZGMzZXUUlHN1dpLWh3OWJBTDR1azk2cGVmQXB2UkRSUGZJaUQzTGZxZGwybWZSWXpBbUhabTA0d2p1ZWFoSUk0NThvNEhXSHVzQkFXdEF4Q3hmcU9MV2xfNF9RZU15amZfSm1Mcm5BSi1qQXJuOXplTXF0TXdBYTdzc0ZWaEV0dUNGM2Jadw?oc=5",
+      "snippet": "Mooresville woman accused of possessing child sexual abuse material Queen City News",
+      "publishedAt": "2026-10-28T20:29:06.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "2,410 terrorists killed in last nine months - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVE3Q1RDUnlfakVET2NJNmV5ME9lOUMzLWhvOWlmYm1kNXJzWENGZFdwdGhuN010TzdTbW9oNlBSX2E4MFJOWWpOX0JZLXFpWmRKUjV2b2JlVVNSZU45QlotLVM5aldjY3I0LXd1QWxKVThXUTdpMXp1R25YTmFNZVRadXhfZ9IBjgFBVV95cUxONld0dlNlemhVWDdvXzJOSGEzWlg1TFRRYndUc2dUMTQ1Z3BSUzAyWXlRNnFxbHBhSlZDcng4WF9SSGVZVFBHSU9ZV1FxSW43aVVFRzNDQ3hjN2g5SU95S2RyQUdJVWJCMmNVckRkTnNFTkdER2plVFlFSC1fVnJfN2VuUGFlSFVEY1I2eWFB?oc=5",
+      "snippet": "2,410 terrorists killed in last nine months The Express Tribune",
+      "publishedAt": "2026-10-29T03:28:58.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Teenage boy charged with terrorism offences - inkl",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYQS1EdndpR0NVSWdTM20wVjJzSC1PTzhscDc2Y0tKSk9YSGFWbHFjdjFhb25Gc21ZNTZtRVNaZlFENnkxYWJiT3BJWmdkVm9fb05iTjlqNkRCX0Q0SjZ6ZEk4YkN4cUpTUGZNd2hVTmFGOFFtS21INA?oc=5",
+      "snippet": "Teenage boy charged with terrorism offences inkl",
+      "publishedAt": "2026-10-29T00:16:05.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmpGYUZFbS1XLTB4aWhxUG9LZjFxT3ptWkNTaEFxVW5sSkpqejg1N1p2SVF0bTZWZFVISGNtWEhWTnBKM3F2c0F6cGFHVmZvcW1tLVZHalNpcU10dkM5dGc1bkNWTmNmSzFiWjd5c3RkWEVTaS1JQWtyUGl1QWN0aVdSdGp0QjZ0YlQtOUlsNGRNdG5XSTVOMEp4clMwS3ZX?oc=5",
+      "snippet": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges The Guardian",
+      "publishedAt": "2026-10-29T06:00:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kazakhstan military drill falsely linked to India-China border tensions - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PQXRxSnVDSzlweDA1dmU2TGpqak95UVNwOFByeHMyNzFTZDBVSVlBOTg2TTdpMWlBVHc5Mm1ESHNHNjdSVWtpcFltREhDb1c2Y2dnM3pMR3M?oc=5",
+      "snippet": "Kazakhstan military drill falsely linked to India-China border tensions AFP Fact Check",
+      "publishedAt": "2026-10-29T05:22:19.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How Context Labels support child sexual abuse investigations - Thorn",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFI0TnZKV2pFRnRhZmhJOEpheXJ5YWZvVHF0ZEM4ekZva0lVU1d3RlJLbWlCb2JNRzljOV85dVNKcmY0Rk9uanZBdnlOWW56UERBNVRSdHFHWW5oS1NMa05NaFc3Q01MUWJPWFl0NmNSLWhlTFpWMHNiaWtfTmNuSkZ0STROMVVEZG5jUWl3eVlXQQ?oc=5",
+      "snippet": "How Context Labels support child sexual abuse investigations Thorn",
+      "publishedAt": "2026-10-29T00:49:47.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzk5elppSEJ3czMzcHdESXBNVmFCUXlqYktFSlZvNDNaa2ozMjU1R1N2bXlVSWZwYzR0Q2Y2QWhCZVBsdGhOaU85cHJ0Z3haLTMtU2ttd0FybXUwMjRBb205dnFRRmVvQXd5OVV2RXRVUkx2Y202Vk00cmNJcEhIS2M4QWQ2djBVdy0zM2hJcFlaVl9WRjhUQ3kzRW1YcTdhZ3ZjM2NBdG5ZaE5kM3ZybnVPUVJ5enI1TkhrbnJCRDhtQlU3d0E?oc=5",
+      "snippet": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid Reuters",
+      "publishedAt": "2026-10-28T22:23:42.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -212,17 +332,32 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzk5elppSEJ3czMzcHdESXBNVmFCUXlqYktFSlZvNDNaa2ozMjU1R1N2bXlVSWZwYzR0Q2Y2QWhCZVBsdGhOaU85cHJ0Z3haLTMtU2ttd0FybXUwMjRBb205dnFRRmVvQXd5OVV2RXRVUkx2Y202Vk00cmNJcEhIS2M4QWQ2djBVdy0zM2hJcFlaVl9WRjhUQ3kzRW1YcTdhZ3ZjM2NBdG5ZaE5kM3ZybnVPUVJ5enI1TkhrbnJCRDhtQlU3d0E?oc=5",
-      "snippet": "Roblox, Discord users alleging childhood sexual abuse fight arbitration bid Reuters",
-      "publishedAt": "2026-10-28T20:45:44.000Z",
+      "title": "AG Uthmeier announces 100 felony counts against Kissimmee man, lawsuit against AI company over child abuse images - Florida’s Voice",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUHlveEczWjlMWGVXSkJ3NWIxdFk2dmx1dXQtNE9UdjdRSzBIOU1waVZmX0N3cWFXRC1xVnlKVjd1UkYtRU1nWVpvamZRaEFwTlkxV25rbEhJbWpyNVN4V1l1QmpsckpMTG1sdUd0Q3RFcEZEdDEzc1RqX3ZQWUFZQ2dVRjlVamIwemJzVEV5ZENwSVNIa2Mza28wYlBRZlFGd2hzOV8zR2E5N3l3c1FRTmRaQzg1OW5GamlGWVl4Y0xPdU5IamtBbWNFVEx0OHB1Zkx3?oc=5",
+      "snippet": "AG Uthmeier announces 100 felony counts against Kissimmee man, lawsuit against AI company over child abuse images Florida’s Voice",
+      "publishedAt": "2026-10-28T19:05:00.000Z",
       "source": "Google News • Sexual Exploitation Online",
-      "theme": "sexual-exploitation",
+      "theme": "child-abuse-nudity",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
       "riskScore": 52,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fiji launches Cyber Security Incident Reporting Portal and two other initiatives - Fijivillage",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNEJENXhuVjM1amZSSFFOWlpISFdQYU14MnhNSWczWHRhXzVFVm9IMzhVX3Zva3luOWpLWHByQWxpcGVoMS1hN0s3bkdqYldIM1RHV1ZzY01MZnJ1WG9qcmctN0VGd3lkVzJSM0h4R2pyTFlfbmpLM1lRN0ZWNlItbldxRnlETjdyUnV1V3BwRi1mSGFpeFdjUm16SG4ycDhvWVVUMmdfVUZUQktXM2RfR3hVbWNpanV5elZmLTJR?oc=5",
+      "snippet": "Fiji launches Cyber Security Incident Reporting Portal and two other initiatives Fijivillage",
+      "publishedAt": "2026-10-28T21:21:16.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -242,6 +377,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Beware of new scams when shopping online during the year-end season. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlFpbWlmMUZ5RjREcGxYb2hmdnZ4TV9VQXo4WWl2QUdiaE1LZ1VpVEpKNnBQNW5nSnlXWEdlZFFRWjRXVGdMa3B4WTZWczBzVHZ2MkV2VGRYRGlMRTg2Z0RBcmUzT1k3M2dGZ3o2NW5nV1dUZklGMU1ERVBQMi10VUhWdE1xdUNwUmRYLUt4ZzNBa0VlTHE3Zjl2dnFZZG96T05J?oc=5",
+      "snippet": "Beware of new scams when shopping online during the year-end season. Vietnam.vn",
+      "publishedAt": "2026-10-29T02:25:21.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Anatomy of Mobocracy: Dissecting State Patronage and the Normalization of Violence in Contemporary India - The Milli Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWlVyVTBRY2R2aXVvWDh4YlJoNDBLRVdHdTVxaHlicW12eG5YR3ZtdE56eXFKODRySWtoaEprTzgwNzNRR3JpcUt2UHRsX2lWOVV4RUQwbl9vYkhZT0N2bEh1Y2x2UWc1Ym0yMDRiOGpqR1NiMmdRMEo3d1kybXlRU1dvQ0lWcGJEZWxTUks5V0RSUWZjLXhGMGVQc0pRRGV6REotTWpReWlYWGc3VWZFekNCc3EzR2pqemZDLU9OdjZnaW53QmNOczhQWTZNT09RbjVFcTV1NkpWUG1McGszaFZYLUt0OW5fSWNFa0ktX3k?oc=5",
+      "snippet": "The Anatomy of Mobocracy: Dissecting State Patronage and the Normalization of Violence in Contemporary India The Milli Gazette",
+      "publishedAt": "2026-10-28T22:21:32.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Online identities linked to violent attacks revealed - https://aapnews.aap.com.au/",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkNoT0xHNlp1QVVQYnVWUGVldnMxN2lyNHdLaHJHc1dvYk1QVUwwR1hnb2xkTTNhNWxTV0MtNWZ6TlpmUXJpc01iUG5tVGdDSkRVbXJFNmpuVUs0eFJ5aldNdnoxWnBsdnZpMUVIdW5kZGFyZ29vWHMwMW5rQUJhZGNFV0d4S2JabTJ5LQ?oc=5",
       "snippet": "Online identities linked to violent attacks revealed https://aapnews.aap.com.au/",
@@ -257,15 +422,15 @@
       "corroboratedBy": 1
     },
     {
-      "title": "The Anatomy of Mobocracy: Dissecting State Patronage and the Normalization of Violence in Contemporary India - The Milli Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWlVyVTBRY2R2aXVvWDh4YlJoNDBLRVdHdTVxaHlicW12eG5YR3ZtdE56eXFKODRySWtoaEprTzgwNzNRR3JpcUt2UHRsX2lWOVV4RUQwbl9vYkhZT0N2bEh1Y2x2UWc1Ym0yMDRiOGpqR1NiMmdRMEo3d1kybXlRU1dvQ0lWcGJEZWxTUks5V0RSUWZjLXhGMGVQc0pRRGV6REotTWpReWlYWGc3VWZFekNCc3EzR2pqemZDLU9OdjZnaW53QmNOczhQWTZNT09RbjVFcTV1NkpWUG1McGszaFZYLUt0OW5fSWNFa0ktX3k?oc=5",
-      "snippet": "The Anatomy of Mobocracy: Dissecting State Patronage and the Normalization of Violence in Contemporary India The Milli Gazette",
-      "publishedAt": "2026-10-28T19:58:55.000Z",
-      "source": "Google News • Online Hate (India)",
+      "title": "Online identities linked to violent attacks revealed - Yahoo News Australia",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUwxTzh2SXQya3I1enY2TG4xbS1obUdvSFJVZEpSckVOSF96X1BUMzRvNmxSdnNOZWhiR2NaM0d3VzVLV1dSbW1NZDJZZzVfenVCR2VIWjlnN0kyTFJ3RXc5bjlGOHg0ZkdnUlFlTjhnNV9sTFJkcnJ4a3ZYOGlRcWNCcHJFdTg0?oc=5",
+      "snippet": "Online identities linked to violent attacks revealed Yahoo News Australia",
+      "publishedAt": "2026-10-28T21:00:20.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
       "theme": "violence",
       "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "violent-speech",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -282,6 +447,51 @@
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Frontline Education Data Breach: 45,000 at Killeen [2026] - tech-insider.org",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnJQNG9Xa0NyeEJsSDNMMVlNT0pzSk5JbklDT1lvY1Zmd0VmVFBaRWVBdGV5V1YzbzRLZ1pCZS1vTFpQWmxpSlFZWTdwTFVGbkU4bjNwQXoza0FsWEVNOG96SnVtTFVyM3k5d3BnVDk5ZUt6NldYOHFkbWFVSlBpR2RIclpKTmVfeFE?oc=5",
+      "snippet": "Frontline Education Data Breach: 45,000 at Killeen [2026] tech-insider.org",
+      "publishedAt": "2026-10-29T05:16:07.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-powered cyberattacks siphon ₹300 crore from small NBFCs in two months - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcHpPbDBjVXJUTUF3YjBxOEtvQzBkTFE3UjhoaEk5aEoxOE13TGpsUlBFaWJ5WTU4VmpVZ2szbnV3d0NTLVZRLUd5RWFlVUdvY2lnUk9PX0hiSXdQa0dhMVhvbVBiM2xodHNkOV9wUDlUZ0dpTnV2NzlJLWhNU1dLb1pGMlRYXzhYcmxZVGRPa1EzTjB2dnRHNG5Zc0d3LTIwdnNWRVhrMUNlZVh4RmdXTzRZdGpyeml1NTFPaUY1eUNZRnAwdUxCem5mWTEwY2dXNHU3ZW1POUQ5dXBUVzBwQzBJa1nSAeoBQVVfeXFMTzJKQUQycm5JZ3Z1U3FUSGE3eWxEVmg3SnRobTNnQlVmT0k0VVVWeE92MVVQQUhaaVFQbWlyVzhzakRjWG9JSWMzeWc2Q2tldG5lYUhadmxfX19tQzFHMkhpRS1Sd3ItZjFnU0RWLTFlZTlNYVB1M3RJa293ZmhRdG1HVXdmV1gzNVhTak5BNExlRmlQc3dmV0lYOXhOSVFSaFc3M2JjeHpHckhYdE1vTjFIVWN5TV9yWjM0SHJ3Ym1udHVxT2J0a29xakZtazFSTWd2NGZrOVJPOVlxeGVUQXlYS2RIanNHb29R?oc=5",
+      "snippet": "AI-powered cyberattacks siphon ₹300 crore from small NBFCs in two months The Economic Times",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DHS Data Leak Hits 40,000+ Staff, ICE and CBP [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTU9CNjkyNWcyMlhwRzNSZlVZekZWa1JRc281S1VrLXNqSkxPOXhSR0NRVG1ndzBKZ3Y4c3dHTXpPS0lVTlNEcDZ6WG5IazFJYTdBcnRsMzMxVm5aLUwzWWVjM3UzYUtsc2x0dFBzazVTSzNObnc0TFlBOURoZy0zdDhTWlNiaXdfYVE?oc=5",
+      "snippet": "DHS Data Leak Hits 40,000+ Staff, ICE and CBP [2026] shattered.io",
+      "publishedAt": "2026-10-28T23:25:35.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
