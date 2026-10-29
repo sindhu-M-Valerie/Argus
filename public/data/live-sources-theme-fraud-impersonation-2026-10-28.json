@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:06:56.609Z",
+  "generatedAt": "2026-10-29T13:27:08.469Z",
   "snapshot": true,
   "date": "2026-10-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 13
+    "total": 18
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 31
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 51
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 66
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,28 +79,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 95
+      "itemCount": 49
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,21 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rhode Island Sues Meta Over Fraudulent Ads 10/27/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3NMelBCdUplS3RZNDhlSGdteC1md1lzVk1vRldTQ1EzcmlfckpXNG9MZkpyaTd6cDlLblNia2ctd0N5Nm5ZOWwxZEowMXBwVW5LNTE5WGpDNkdQZHAxZ1FraDdfSm5CSlE3WGtfUEEwZWF1SWlEekZRenlHcXJQUHE2cHhTcUQ4bi1UVHNvT1dma1VOX2c5OVBKWVRfd20yVXNv?oc=5",
+      "snippet": "Rhode Island Sues Meta Over Fraudulent Ads 10/27/2026 MediaPost",
+      "publishedAt": "2026-10-28T17:57:58.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -246,6 +261,36 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFo1ZFlRS1ZORXNWMG01Q1BUdlZiczVaMUNCbkh1MjFELUFjaGRSZHY5Q3gwUTNZanI2VG9zMG1UR3ZkcUd3aTZKSDgzcHNkNzkyV3plYUZpcXNycDJiUF90OXFBbG1mdHZld1h0V21pVUNCZGluRldrcFFZUnh3WUlhUjY0RjBUNUVUdVZBN3FXOEFOSVNQMTNFQXRBaEXSAaMBQVVfeXFMUE5hSUJEbjMybFRRWTVKOHppWmkzNHZTSWYwNVZOcnFRUFIwUlAwMFIzZDloMFVmdnhlNk53SXlxdFN6MlpSdmUtMHZrcU1BeWxoNjliV3lhaG81bDVvQ0RZeE9ZREJ3dTBQc1dZM3ctYmMzNXdISWxPcjdCaWJORVRBd3dPd2ZzWVd0MkNDQ1FhQUo5X3ZkR2NYZnhNN2JWNk9lVQ?oc=5",
       "snippet": "Phishing, social engineering campaigns may rise this festive season Daily Excelsior",
       "publishedAt": "2026-10-28T10:35:42.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Phishing, social engineering campaigns may rise this festive season - Daily Excelsior",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmFJQkRuMzJsVFFZNUo4emlaaTM0dlNJZjA1Vk5ycVFQUjBSUDAwUjNkOWgwVWZ2eGU2TndJeXF0U3oyWlJ2ZS0wdmtxTUF5bGg2OWJXeWFobzVsNW9DRFl4T1lEQnd1MFBzV1kzdy1iYzM1d0hJbE9yN0JpYk5FVEF3d093ZnNZV3QyQ0NDUWFBSjlfdmRHY1hmeE03YlY2T2VV0gGjAUFVX3lxTFBOYUlCRG4zMmxUUVk1Sjh6aVppMzR2U0lmMDVWTnJxUVBSMFJQMDBSM2Q5aDBVZnZ4ZTZOd0l5cXRTejJaUnZlLTB2a3FNQXlsaDY5Yld5YWhvNWw1b0NEWXhPWURCd3UwUHNXWTN3LWJjMzV3SElsT3I3QmliTkVUQXd3T3dmc1lXdDJDQ0NRYUFKOV92ZEdjWGZ4TTdiVjZPZVU?oc=5",
+      "snippet": "Phishing, social engineering campaigns may rise this festive season Daily Excelsior",
+      "publishedAt": "2026-10-28T10:35:42.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "What Keeps People Using Fintech Despite Fraud Risks? - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2k5b1RvOGNVMFo2ZGlPUUlwaVk4Y0xLb2NyaUVvNkdfTWtCb00wR3JwdUtFd185WXh6M3pNMmpnVTlybkQ0WkZGOVVuV0R4RzFwaXhTVDN4WmM1TlNUeGdEQlF5NUY0TU1YOFVCZ2pyLU82dmlrSmxoX1RmTEhjcFVSQ08xQnl4VHYxczlwSkhOa2ZGUVJKMkhEQzc0b1JOVlI2b3MyVE85VWvSAbABQVVfeXFMTjFKV0wyMm9wcGZMRGFPMktoeTFETFVudGFqNE5HV19qSXR0STVzSTcyWGR3SEF4bWRpTG1mYk5ITkkxZ09NZk95UTFYX3htTE9nRHdaUmhkb0ZKQVpGQTNxQllZSHdvb0xnVFE1ODF3RHE3aVZ3aXNRVHJFcFZaN242U2I1RmhDME1fNUpaVFJEeHcwdXE4TGhrcThHNFR4UWlwdEVtWFdzM2tlRFdKZFY?oc=5",
+      "snippet": "What Keeps People Using Fintech Despite Fraud Risks? Devdiscourse",
+      "publishedAt": "2026-10-28T10:33:10.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -311,6 +356,36 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Aussie holiday park group hit by cyber scam - Toowoomba Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMER1MFNjNk9hQXNiblNJUHZCdE5WVk03RzByQWRwT3l0cXlfWGJWa0tZR3VwZ3hfLUJmMVE0b1YySmVWQzBITnJZX3JfcWs1bXgzVUtiQ3o3NkxON2F4aHltbDExdF9uUF9VaVpiSl9nOFdrLVJNV2FacVRLNmlGNGZuM1lTN0txb3dPZlZtWkREaVhjWVhVNFFPM0RmU1Y2dUp2SnJXWXFyRTVSM3VLbWptVU9xM21FTEJlcjhqaTVxcnZ2dElTVEJZX2tkX2FsUmFEbFYzSFpzS1NuSy11bWZLMm9tRjJzYXVmMXNScUZSZ3R0cEM2akVOeXYySG9seC1WWEtoeXJzRXo4TkFEa0tjcmM0bllrXzgtMA?oc=5",
+      "snippet": "Aussie holiday park group hit by cyber scam Toowoomba Chronicle",
+      "publishedAt": "2026-10-28T06:34:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cisco Talos Uncovers 1,400 Scam Emails Sent Through Staples and Dell Order Notification Systems - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Ukx2dW45T0ZET3Z1dlBsNzVGaGFJQ1NlN0doQmxFemVRcW1mTlBHM3g4ZUtqd0dFSUhybGo2TWJfaWJfcUlxWF9vNGcxa29vb1NPT1prT0p6Q0hqaFE40gFfQVVfeXFMUDVSTHZ1bjlPRkRPdnV2UGw3NUZoYUlDU2U3R2hCbEV6ZVFxbWZOUEczeDhlS2p3R0VJSHJsajZNYl9pYl9xSXFYX280ZzFrb29vU09PWmtPSnpDSGpoUTg?oc=5",
+      "snippet": "Cisco Talos Uncovers 1,400 Scam Emails Sent Through Staples and Dell Order Notification Systems GBHackers News",
+      "publishedAt": "2026-10-28T04:39:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

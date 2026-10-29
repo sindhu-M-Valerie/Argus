@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:06:56.609Z",
+  "generatedAt": "2026-10-29T13:27:08.469Z",
   "snapshot": true,
   "date": "2026-10-29",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 31
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 51
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 66
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,28 +79,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 95
+      "itemCount": 49
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "Hackers Claim Wagyu Crypto Platform Breach as Researchers Find Thousands of Monero Transaction Records - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RW93RkVUanBpT0Z3ZjVxNzFWVWZDRnJrXzBYRTVMdV9ncWNwZXdGSDBOY2UyblEwbjA2QjBWckxDdVZYSEgxTTNMb01SNnczTGlzaEZWMVFvUlRrbEZXX0Z2dHVnRy1DSW4w0gFwQVVfeXFMUFZ2bTNycEZDakk5Qld0T01SeUFScV9SbmlpSjc4N0MyVE5VaUlCWDRmb2tOMnVQa2ZqOXZqNjllQzBNLTdaZXFQRDdpYzdGTVVaZnpJTDAwNWQ5dTEtVDUwaWVhMVhtSWZBLTdmRFE4bA?oc=5",
+      "snippet": "Hackers Claim Wagyu Crypto Platform Breach as Researchers Find Thousands of Monero Transaction Records CyberSecurityNews",
+      "publishedAt": "2026-10-29T12:39:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "What the Kering data breach of 7.4 million customers reveals about cybersecurity in the luxury industry - Luxury Lifestyle Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZy10RkRCTWdXYUVRWUYxVzFwWDRTRFlwdzhVbHh1alRQTUpMU3FVMjFJY2c1b19sSzAxVXZYaTd4Nm9PVUpMc2pMcnVuZXRmRjcxSjgxRTlqUGlDc01yUnZNWDB1UXluYVBlX040aUstYlVIRDI5QXM4ZndCUjRsRnk1OFpBQWR2M3BabWlsZHNaMFBPaEVxaDc1T0NOeGtXdXFrT2p6ZUtMOWJMdm1LYi1JY3VYODVXVUdOUXowOFhCMUhEY1dBQjRzN3dmbU93akQ2VEpMZmVSajV0blQwU19lVQ?oc=5",
+      "snippet": "What the Kering data breach of 7.4 million customers reveals about cybersecurity in the luxury industry Luxury Lifestyle Magazine",
+      "publishedAt": "2026-10-29T10:19:43.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Infect 17,960 Android Phones With Banking Trojans, Steal 7.6 Million SMS Messages - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XOC1TYXJVWEtYRlRzaWVxREtxM08yNllNM21FRHNURlpUaUdjOFF4WDhneUM5RnZNNGFZbXBYX25VcEUxMGhkeDQyM2RGeHBmOWFGM09VMm9JZXZkd1pOa0RqLWRybngxQjUwZWNOTnIxT2NWRk0zWDFB0gF6QVVfeXFMTlc4LVNhclVYS1hGVHNpZXFES3EzTzI2WU0zbUVEc1RGWlRpR2M4UXhYOGd5QzlGdk00YVltcFhfblVwRTEwaGR4NDIzZEZ4cGY5YUYzT1Uyb0lldmR3Wk5rRGotZHJueDFCNTBlY05OcjFPY1ZGTTNYMUE?oc=5",
+      "snippet": "Hackers Infect 17,960 Android Phones With Banking Trojans, Steal 7.6 Million SMS Messages CyberSecurityNews",
+      "publishedAt": "2026-10-29T08:52:18.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Fiji launches Cyber Security Incident Reporting Portal and two other initiatives - Fijivillage",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNEJENXhuVjM1amZSSFFOWlpISFdQYU14MnhNSWczWHRhXzVFVm9IMzhVX3Zva3luOWpLWHByQWxpcGVoMS1hN0s3bkdqYldIM1RHV1ZzY01MZnJ1WG9qcmctN0VGd3lkVzJSM0h4R2pyTFlfbmpLM1lRN0ZWNlItbldxRnlETjdyUnV1V3BwRi1mSGFpeFdjUm16SG4ycDhvWVVUMmdfVUZUQktXM2RfR3hVbWNpanV5elZmLTJR?oc=5",
@@ -208,6 +253,66 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How Phishing Attacks Turn Into School District Data Breaches - Security Boulevard",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeFV4QkpybXAxTGIyNjdlMmFBNVJFYXQzSFFXSk9aODMtNEFpdTBqeVJqT2VteVZIN0dtSExZWF9tc1JPa055clU1b3IwRHg3TTJqMzdTVHAzQ1BEcE5ub0VMU29HWjRuWFItVUlMWWtGYW1RMWlITi1jU2VyX1BocmVXbHl3ZE52ZVRrWW9tdHBWcW50R3ZhNFVPWjc2bjlM?oc=5",
+      "snippet": "How Phishing Attacks Turn Into School District Data Breaches Security Boulevard",
+      "publishedAt": "2026-10-29T12:37:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DHS Data Breach Exposes Information on 41,000 Employees, Including ICE and CBP Staff - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2o3bG1RVm1USlg5M05Sd1hmd09zbDdNVXR5TmRKTTE1VTVhUS12QUJhNEdTeEJxOWZ0OWJyMTZDQWwxb0F0d21HT0lBRnRLeVRBckhjRXFSajFJakRETkFwM3l0ZndFZGFQazlkNTJtaW9wdk42N3ZWVi1maURzMW5aRHl3UkYweDdPZDdKTFlJV0gtekZBc3gwQV9fMWhrMkpDcTRJdnBOdWlYbmh5bUh3Z2FNTC0xWkswR3hibG95LWtNaE53QlZB?oc=5",
+      "snippet": "DHS Data Breach Exposes Information on 41,000 Employees, Including ICE and CBP Staff Tech Times",
+      "publishedAt": "2026-10-29T12:16:01.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bithumb Confirms Data Breach Affecting 844 Customers - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZElBQ3ZaaUp4SVQ4ODVqbU51eVN1dEJRSVFxd1JWU01DVGJaR053d1FsUk9YYTVtTWx3TkExdG5oSGNVM2RNZWIxVlRwLVlhaTZCN29IUEJwek1teFNqdjBuRWx0NldFeTBNT3pJQ2VKQzhUUF8wSTEybXpua1AzWXFn?oc=5",
+      "snippet": "Bithumb Confirms Data Breach Affecting 844 Customers ForkLog",
+      "publishedAt": "2026-10-29T10:49:13.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Karix Mobile denies any association with SBI data breach - ET Telecom",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHFUWFJ5S3B5YUNud2NsaF8zZVc3SkJhMXhXRGVBQ0JlMnJXdFdSeElPakUxcFM3S1JYZHZoWGlhVUE1clNYb1pMQk9wd1JkZ0tJSGM4cVNzTGJDWG1iTTNxLUFKLUlSM1UwZm9wMHZYN3NWQU9zbkdTdm1yMmJNS2lDcWdjTm51UDhvRms3ZC1uc2l3Yi1WbFRMc2VyTHhMTkdXQmpVYS0wUzQxQ2NHQ0NKLTJRQUYxZFdCX3hUOXpqb2PSAcgBQVVfeXFMUDhoZU9RWU04SlpYSGo3cFRQVERFSkRETmFpUUI2SjFLWFAxdGdWQjR1VENhVTBzVEZhdm9MTWZSOEZtdWFEazNuUU1IbVdubjlwemhyZkJyQTJScWJJdU5jXzhnOUdfckQtb18zcU9VX3AtYUZhVlROVGNxN0lyZzFqNC1RNEwtd0lYUEl1amlzd3QyRE83UDY0cWtrTVZxNGtUY2NHRDdYRUxSWEllMmJ1N1hHaXEtM2k3LVdzTlJfdk1jYVVjTFQ?oc=5",
+      "snippet": "Karix Mobile denies any association with SBI data breach ET Telecom",
+      "publishedAt": "2026-10-29T10:39:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

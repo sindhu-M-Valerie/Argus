@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:06:56.609Z",
+  "generatedAt": "2026-10-29T13:27:08.469Z",
   "snapshot": true,
   "date": "2026-10-29",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 31
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 63
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 51
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 66
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,28 +79,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 74
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 95
+      "itemCount": 49
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 48
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,96 @@
   ],
   "data": [
     {
+      "title": "Online Scam Volumes Double to Overtake Phishing - Infosecurity Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51dkRNUzFHdUVJNVZBYi1FV2FjeUR3RUhNVVlNVURhLUpNZU81MDlkZXk3ZVFXdmV2VnpOVHBLWDlRci1fbS1XT1UwckxCVWlQRkEzdVJLNVM3bldXOG5Zdko4VU1qTmJuZFFTb1M3YTNSOENtaGVmQWl3?oc=5",
+      "snippet": "Online Scam Volumes Double to Overtake Phishing Infosecurity Magazine",
+      "publishedAt": "2026-10-29T11:15:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Online Scams Surpass Phishing for the First Time, Akamai Report Finds - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFBYZkRxelY2UmN6SFp4MVB2MUlCRE51ZTB5YTJlbUU0MzI2eEZwQ243QVZZdnVoS0Ytc1JQb25qOHFUekhoYnh5aWJrb1hFcjdtZ2dtbkk1ZnlzYWdpVWtXNWVaWWlMckwwam5IWXpZVmNHYUZzR2JmUFFydEF0T09UWHRIYzdmZGRwa1dFa3ZDX0IybUlXZ2FYYTJvSDJHRW1nRGxiQkptamxqTWpFRmxGdGpOeXdaSU1yaGpHaXJHZw?oc=5",
+      "snippet": "Online Scams Surpass Phishing for the First Time, Akamai Report Finds PR Newswire",
+      "publishedAt": "2026-10-29T11:07:28.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Thailand targets over USD1B from accused scam money launderers - Borneo Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakJWNmVOZ0gtYVVjQWc2dGY0ZlJFTy1qQVBZaWhPczM2T1Q2V3dPZ1lMTFR6N1ZxX05adXRGUVBqbkMwYlc2WFMtMkRFdUtrcUhGU0ZWWlhydGNqdTFIMmFDMWRISEoxTWU5TUk4TU93dUdFTW5yTmZpWm54UDlOZjAyQzQ3RzAwd0ZjQzFqS1pmR1N5dWIwWQ?oc=5",
+      "snippet": "Thailand targets over USD1B from accused scam money launderers Borneo Bulletin",
+      "publishedAt": "2026-10-29T11:00:32.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Phishing attacks averaged 22 days in Q2 2026, versus 48 in Q4 2025. - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjFEdlVlWlBDU1N6M0dUWkpLcVZIcjNlTzk5bUVybmJaTFB1WVh3WEUwbmxRTl9WVzJVckFKQl9rbVRXc3JaNzJYcmVENldqRGZFdFpZbjBkLUtHbkhaVmp3SUEza1pqRXBObHdWSWNLbC1YN21WLU1KRk1hUk81T2d6RHdLMk5UenFGT1MtZHNsbkUtdmstRTJRR3RmT2s2elU4M3VWaEU1eU0wNTRqNVVBWTFyRDZndVdBUHpR?oc=5",
+      "snippet": "Phishing attacks averaged 22 days in Q2 2026, versus 48 in Q4 2025. Stock Titan",
+      "publishedAt": "2026-10-29T10:28:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Equentis Wealth Advisory Services leads investor awareness drive against equity market fraud - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLTdncmM3eXh5UldLUllkTDZiUTd0RnhvRV9icmZtMzVsekh4SFp1V01yOWRjS3c4blh4R3FNOWdsU0o1cVNKVzM3V045V0kxai1pM2tuWHFCTmsxOTlIN3REc2xQUGExbG1OWXNLN01MbU5NZTFNX2dxRmFMUmlmYjZpQnE1bURPRFVPd2llNHEzNjdGeERjeTVQdFFNamxQVnRlQVc5a2NMWUE1VzFlS1pYbWhlM0RQa1c4VWh0SmFkaTBfOEU1c2w0cWFLSUZIUnJOalpuOVhtNHVEdVJSR3NxOHJidmdTb0N1dWpCZ0hNMDRn0gH6AUFVX3lxTE53dlZmV0JlRGRfcWRUNlZRUXBpeDYxM1FONmU5N0lPYXpWQ3ZtZlVac2ZHSlZfNURUZm9NX1hfNUtvRjNxSVUxNXlUdzBKeFdRb2dNNFdmYkVrMWtLUTlNTjA1eWhiYW1oNi04bVFtTWxrU2VNUExlak9qNkFxMjdqMmZhTi04SW55Y21RTnU4X1RuUGxhTUJMWGdxSy1ZU01yS1NLeVFwNVBlTm1LcWZqLUdRbjhSUmc4SWJOWWNWWGJ3ZXZVck1HQVMzVFBsSGdFaU9qNUZpeDhGTXZTZkJTejhULUs1alVEMWlYc1FCM1lPeVprcGFhd0E?oc=5",
+      "snippet": "Equentis Wealth Advisory Services leads investor awareness drive against equity market fraud The Economic Times",
+      "publishedAt": "2026-10-29T09:58:10.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "$9 Million Romance Scam: How Twin Brothers Fooled Victims - Baller Alert",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40Vk9OTHJka2ZZNHhyRTE0Qkw2MmhlZi03bkRkQ2tacHNKQmlKZXRLOFlPanRYTjVINVdrVmJtWS15MGdmcTM1YlNfTWcwOHQ1ZTVFWjY2Z3liY0ZTbk5hRE45S2dBMENmYlNpdDFR?oc=5",
+      "snippet": "$9 Million Romance Scam: How Twin Brothers Fooled Victims Baller Alert",
+      "publishedAt": "2026-10-29T06:14:55.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Beware of new scams when shopping online during the year-end season. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlFpbWlmMUZ5RjREcGxYb2hmdnZ4TV9VQXo4WWl2QUdiaE1LZ1VpVEpKNnBQNW5nSnlXWEdlZFFRWjRXVGdMa3B4WTZWczBzVHZ2MkV2VGRYRGlMRTg2Z0RBcmUzT1k3M2dGZ3o2NW5nV1dUZklGMU1ERVBQMi10VUhWdE1xdUNwUmRYLUt4ZzNBa0VlTHE3Zjl2dnFZZG96T05J?oc=5",
       "snippet": "Beware of new scams when shopping online during the year-end season. Vietnam.vn",
@@ -190,6 +280,21 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEBI Warns Against WhatsApp Stock Scams - VARIndia",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KZF84Y1AxNEY5ajdaRXFXU1BHM1RNTlNmUERRX3JkZmNfVkY1blI5NTd3VWxaZzlfMXZWNkx3Q24yMVc2ak9pV1RCWXpoSzJDdkNibzlzVHJlUHdTc08zMU1oOTFNR1dhNHlNTGJ4b3R5Njc1NGhSRw?oc=5",
+      "snippet": "SEBI Warns Against WhatsApp Stock Scams VARIndia",
+      "publishedAt": "2026-10-29T02:19:20.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
