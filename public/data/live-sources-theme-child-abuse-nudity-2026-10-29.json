@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T13:27:08.469Z",
+  "generatedAt": "2026-10-29T22:53:28.730Z",
   "snapshot": true,
   "date": "2026-10-29",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 8
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 60
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,56 +44,56 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 51
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 24
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 73
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 28
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 74
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -205,6 +205,21 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Over 14,700 pornographic, child abuse materials removed from online platforms since 2022 - The Sun Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0ZGZnVOMzRwc0dEN2tsXzhsMk5haC1HbmQ3dHJGc1VYVGk2SUEwS0Z6WmpoYUluZ3ZEOGw2WnhiVlBoR2JfdFE2Q1VGRmxXWXhiOVJHY3lQR19BV0kzaV9tbEhBcTJXSWZTM0xaOFR1QUFuQ0xqMWp5aVVITWR3Wk9OSQ?oc=5",
+      "snippet": "Over 14,700 pornographic, child abuse materials removed from online platforms since 2022 The Sun Malaysia",
+      "publishedAt": "2026-10-29T06:44:09.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
@@ -268,6 +283,51 @@
       "feedTheme": "sexual-exploitation",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Former bus driver from Barbour County sentenced to 20 years for child pornography - WDTV 5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnBXaUZFNm9jYTBZR2V6a2cwWmU3VkFFeWtyVEd1UjlrZXJBS0Y5UjZvbHlnMVg5NGhLQ1VDdmE3cTRFVlNiNmtfVTB3UkNwU2hTdTQ0MlJ2OHlfalFvRjlEWWNNZnFPRmpuLTFpY2h5b0xsZHRHUU41Q0pCcGprWmlWSG5Uc1hrTWdtSFl5RlllNXNscE5FWEZocTRQUUhadmxma2I5ODM3QzhiNEQ4ZUZwYnpja2pM0gG4AUFVX3lxTE82cFdpRkU2b2NhMFlHZXprZzBaZTdWQUV5a3JUR3VSOWtlckFLRjlSNm9seWcxWDk0aEtDVUN2YTdxNEVWU2I2a19VMHdSQ3BTaFN1NDQyUnY4eV9qUW9GOURZY01mcU9Gam4tMWljaHlvTGxkdEdRTjVDSkJwamtaaVZIblRzWGtNZ21IWXlGWWU1c2xwTkVYRmhxNFBRSFp2bGZrYjk4MzdDOGI0RDhlRnBiemNrakw?oc=5",
+      "snippet": "Former bus driver from Barbour County sentenced to 20 years for child pornography WDTV 5",
+      "publishedAt": "2026-10-29T11:58:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Former West Virginia bus driver guilty of transporting child sexual abuse videos, photos, sentenced for crimes - WTRF",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdmtEVVdnTkV1ZWxVd2gtN1pVWkRwalFQZjM0NHZOVHhKMmtfaXhLVTBBTUxHeXR2eVJfLWxQb25vZ3JyWWFodkhDb2RuZlZHeWtzVTkwazNqdTNIQzBlN0hTRUU5M1NkSXFOXzh4cmpkOGtNS00xUXVvVE1icG5XUmxpMjM1MF9KWHZZelhvV1JiVklHUmxkUFp4QWhQU0pkOUxDTXFnck1kTGdmbkhpeFBVbHA5ZzUxYXFQeVBDWTZ2LTVodGEtLWU0Umo1Zkd0QUlYS2luRTlmNjdwaUNB0gHfAUFVX3lxTE12a0RVV2dORXVlbFV3aC03WlVaRHBqUVBmMzQ0dk5UeEoya19peEtVMEFNTEd5dHZ5Ul8tbFBvbm9ncnJZYWh2SENvZG5mVkd5a3NVOTBrM2p1M0hDMGU3SFNFRTkzU2RJcU5fOHhyamQ4a01LTTFRdW9UTWJwbldSbGkyMzUwX0pYdll6WG9XUmJWSUdSbGRQWnhBaFBTSmQ5TENNcWdyTWRMZ2ZuSGl4UFVscDlnNTFhcVB5UENZNnYtNWh0YS0tZTRSajVmR3RBSVhLaW5FOWY2N3BpQ0E?oc=5",
+      "snippet": "Former West Virginia bus driver guilty of transporting child sexual abuse videos, photos, sentenced for crimes WTRF",
+      "publishedAt": "2026-10-29T10:36:51.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Barbour County bus driver sentenced to 20 years for CSAM - WBOY.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMml2LWd1VGRaRlVsa1lyUEViQTFfYWkwc0ZvcDhrUjJNYmVQMVYxaW00eVB1MWxlLWg4dnp6ekVfQzhGYVNZNlEwU0VYbHkwNVBFUGZ3ZWluREtaVmg1SUhJQV8ySkhOTkZwZ2FCeE9XdkctZFhVR2pFQTB0VFhZNklaRVk0a2tzZ2huSWZWakRSLXZRaVhfRdIBmAFBVV95cUxNMml2LWd1VGRaRlVsa1lyUEViQTFfYWkwc0ZvcDhrUjJNYmVQMVYxaW00eVB1MWxlLWg4dnp6ekVfQzhGYVNZNlEwU0VYbHkwNVBFUGZ3ZWluREtaVmg1SUhJQV8ySkhOTkZwZ2FCeE9XdkctZFhVR2pFQTB0VFhZNklaRVk0a2tzZ2huSWZWakRSLXZRaVhfRQ?oc=5",
+      "snippet": "Barbour County bus driver sentenced to 20 years for CSAM WBOY.com",
+      "publishedAt": "2026-10-29T08:58:07.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
