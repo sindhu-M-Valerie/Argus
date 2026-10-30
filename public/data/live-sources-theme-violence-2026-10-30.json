@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:16:21.808Z",
+  "generatedAt": "2026-10-30T22:31:56.130Z",
   "snapshot": true,
   "date": "2026-10-30",
   "filters": {
@@ -7,23 +7,23 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-30 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -51,35 +51,35 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 61
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 52
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 75
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXNjdlRHazJWd0VOMEp4ZGoyNHRyTUZvQmxaU0x4cm9hRkUyU25aYkRDMDJNTVJEbDZRbE1vaGVOaGZkNGEza01tb1Zidk1PWjJJVG5NNGZ3VjNEZjVmX3NNTEZwUTZWM2dzMWc1aVR0c0hYN0FGdnUyZTN0c0NITmc2ZzVOVUUzcGkyaWFMRkowNXkxejVfRy1uZXpPaDUtMTZ4V2VOZ1NuRmZWZ0ptalF2RFRfUjdnVnk5SmFPZjNHYkREMFl5LTdmRXJaaWROWTZfQ1lUYWprYkVEMEl2czJjQmtkcjV4eDN6dkhrTkF2V3ZFQ21JWGF5LTIyOTZp0gGAAkFVX3lxTE9tc2N2VEdrMlZ3RU4wSnhkajI0dHJNRm9CbFpTTHhyb2FGRTJTblpiREMwMk1NUkRsNlFsTW9oZU5oZmQ0YTNrTW1vVmJ2TU9aMklUbk00ZndWM0RmNWZfc01MRnBRNlYzZ3MxZzVpVHRzSFg3QUZ2dTJlM3RzQ0hOZzZnNU5VRTNwaTJpYUxGSjA1eTF6NV9HLW5lek9oNS0xNnhXZU5nU25GZlZnSm1qUXZEVF9SN2dWeTlKYU9mM0diREQwWXktN2ZFclppZE5ZNl9DWVRhamtiRUQwSXZzMmNCa2RyNXh4M3p2SGtOQXZXdkVDbUlYYXktMjI5Nmk?oc=5",
+      "snippet": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push The Economic Times",
+      "publishedAt": "2026-10-30T18:08:00.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

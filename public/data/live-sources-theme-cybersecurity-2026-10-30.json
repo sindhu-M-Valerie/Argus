@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:16:21.808Z",
+  "generatedAt": "2026-10-30T22:31:56.130Z",
   "snapshot": true,
   "date": "2026-10-30",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 12
+    "total": 19
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -51,35 +51,35 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 61
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 52
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 75
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -197,8 +197,68 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Phishing Attack leads to $1.6 Billion Cryptocurrency Loss at Binance - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE5TNnVHV2NaUDE4R0pLNHAteGVnVGRocWtNMDE1VldHcmFHUFRjMHRUUGFEbUIzZVQzamtCUjh3Q0tJYU1tS0FGOERkYlZNQndPTThaeXhza1Y4UnVxRTBvOEFhbDVnQ0VWeE93TWR1WHVHODR3ZFpoUG9rQ3hzcnpWcVRwbmtmc2UwRjRsRV9KZzhrNUZnZ0p2a1hfLXlaaTA5OHFCNDkxaWc?oc=5",
+      "snippet": "Phishing Attack leads to $1.6 Billion Cryptocurrency Loss at Binance Cybersecurity Insiders",
+      "publishedAt": "2026-10-30T15:19:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Florida Warns of Student Aid Data Breach: Steps Applicants Can Take - CubaHeadlines",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrR1NzVjU0QVpSamp2ZHllTnNmZzBYbWVVR3pCajRYOHR0UGVkcDlxQm5TaHFUYWtMaEtQNU4tOW4xZFZBMi1OYXp1NURGZXBOek8yOVYtdzE?oc=5",
+      "snippet": "Florida Warns of Student Aid Data Breach: Steps Applicants Can Take CubaHeadlines",
+      "publishedAt": "2026-10-30T15:03:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-powered cyberattacks fuel ‘Black October’ fears - 930 WFMD Free Talk",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGV1dnhjT0FlQk11S2k4eDk0eWRwRFRDWFgzZEZRRm5oRkVnRFpxcXRUcGV5NmF2T2prSVpOOG5kbUdXSlJlbERscFFIcm12RVpNa2pwUE9FSXFlMU5ld29IZU1Bdy01MnVTOEVqVTBmSlpKaWl6OHFUaGhJbEJ0ZEhJaDE4VDhP?oc=5",
+      "snippet": "AI-powered cyberattacks fuel ‘Black October’ fears 930 WFMD Free Talk",
+      "publishedAt": "2026-10-30T14:39:29.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected - LatestLY",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR2JPbEJyRG43ZHQwQ1RKeDZWYlk5UTdsNEpkRzkyX2xxSFh3OWhlcWFHNlZPbWYtSzFlUld5WmFQaFNyN1hLb2ZSdnYwbTRHdjVISVczV3BVMjExWlNwZFZMM19LZ0Q3Qk5SUkdCUUNfUnl3cmZJa3NaUHNNOWQ5VFUwUEtzWm9mQ3dfRlJwRy1qRWFsN3dUZDNmMGU4UUFMV01VcVpSSk1hWURwX1IxekRRaEZVTm9VUHlnUFNuQWxnanJCanZCR20wNDFwRVRwY2xlc2NzQnExZF85Ym9ueHJyWk02bmxK?oc=5",
+      "snippet": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected LatestLY",
+      "publishedAt": "2026-10-30T12:06:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR2JPbEJyRG43ZHQwQ1RKeDZWYlk5UTdsNEpkRzkyX2xxSFh3OWhlcWFHNlZPbWYtSzFlUld5WmFQaFNyN1hLb2ZSdnYwbTRHdjVISVczV3BVMjExWlNwZFZMM19LZ0Q3Qk5SUkdCUUNfUnl3cmZJa3NaUHNNOWQ5VFUwUEtzWm9mQ3dfRlJwRy1qRWFsN3dUZDNmMGU4UUFMV01VcVpSSk1hWURwX1IxekRRaEZVTm9VUHlnUFNuQWxnanJCanZCR20wNDFwRVRwY2xlc2NzQnExZF85Ym9ueHJyWk02bmxK0gHuAUFVX3lxTFBNZnowbV9oT0hkU0t2dlUzUzhydE91MVBjZE5HMHRlNXJPU2F1OHpNblBKdmQ0VFJkNThTaTJOMUVpYnQ0R01JdGswUW9BeFJYTzduMmZqb05hZG4zcF9GTDlQUFZlYWdJZlBfTFdQelhxN3A5OUdXcmlkMGJwSnpsT0ZYaTFRM0h1eDdzVDl6aTRpM21jSHRpWVE1YnpSU1R3YmxnSkthTHhsR3F3a3RqOEtaaUNHSGRLUGNrSERIbFJkT2FFOV9qOERrSkFUY24zcU01MWRJU0gzb3VRbVdMc2NVV0lEMDY1Um5kOHc?oc=5",
       "snippet": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected LatestLY",
       "publishedAt": "2026-10-30T12:06:24.000Z",
       "source": "Google News • Cybersecurity Incidents",
@@ -236,6 +296,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Is AI a Threat to the Evolution of Cryptocurrency? A Cybersecurity Deep Dive - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzdmQlhyY2pHYkFtUVVDZXI5VHBicDJyMTVQOERqNVFpbU8zTTI1aVNsSlJObkEwMEkzbU5Zb1pQbGNwU3hGMUVmb2JrVXROX2FjcnlGM19uUjBFUzFCaUxCSkdjUWhDbVFwQkttblVmaWw3TEVFQ3hsRVUzNXBVM0d3b2wzRGRncUpDUVFSS19FMmlOdFMwX1hERHVhd1lQdWhhZ2pLeGd2Zw?oc=5",
+      "snippet": "Is AI a Threat to the Evolution of Cryptocurrency? A Cybersecurity Deep Dive CyberSecurityNews",
+      "publishedAt": "2026-10-30T09:29:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
@@ -351,6 +426,36 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zTEQ1azFJYzNDTXNnWURyT21aX3lnR1dDLS0zVXU4MDVUUmZzNGhuQzN0M2dVOVdXaElsYzVGZ29sNi1qYVRWbEtMUlJuNFVtdjJGNHFXYmhDa2Z6b1BPUEo1a3hIVmN1M0JDXzUyZThwU19JTHc?oc=5",
       "snippet": "Billions Dollars Stolen in Historic Cryptocurrency Cyberattack teleSUR English",
       "publishedAt": "2026-10-30T01:31:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLUV1aHdGYVNnTVUxXy1OQkJNbkpqeDNBY0JyaGZrd0lxc2ZhWGRlVXJyTjNncVdSc1hpczMwVHg0NkEwQmVnbGUtS3dpWlpWX1cxNE1PbGQ3QTQ4RXQ4eWhaT2ZZOElENXJDdE1GenFYSjNrOURmREtHNkZETm90QXRZdzd1MTJ4MEVJb1lrRGdrWHhzTUlGZllMaDluVnlsb1dr?oc=5",
+      "snippet": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach WSJ",
+      "publishedAt": "2026-10-29T22:18:53.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Corporate law firms McCarthy Tétrault and Davies hit by data breaches - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmp1am0wZGxVcVZwRW11RC02UThUaXN4YTlLbWFoMEd0TnpocURMeEJnT2hmTlgzUTVaNFJMM0ptX05Qa2hNVFkwY2tXU3BhLVY3LU9Sb19KTTQwYzVhcWFBSnAxRGt4bmdzNUtkUEJ3TURWNXN0cHVMV1duSjBNLV9QeUhNRUthdFpfNmszTXY4N1NnN09QQW9yY3FGMGpjMmR1QnA3WWpkMVNNX2V2Sw?oc=5",
+      "snippet": "Corporate law firms McCarthy Tétrault and Davies hit by data breaches The Globe and Mail",
+      "publishedAt": "2026-10-29T18:59:05.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

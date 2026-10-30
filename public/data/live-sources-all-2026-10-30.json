@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:16:21.808Z",
+  "generatedAt": "2026-10-30T22:31:56.130Z",
   "snapshot": true,
   "date": "2026-10-30",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 46
+    "total": 80
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -51,35 +51,35 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 61
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 52
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 75
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "G20 Ministerial: Global South Impact, Seafarer Safety And Terrorism Flagged - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGxKREthMno1Z1lERVVqWUdGQjhtX09xcnJ2N1Q5N0JnMkhvbG1tbGR1VEEyd0tLVWk3dHdUZkhLQlpZb1VJNHRDQTFWN19jdXJZekl2SFZtMS1sRlNaTTk2NXB6N0FmWFdYbF9TSUtYQnMtTmpIRUFXQ1MxRmtlQnRJUkcxTXo5bThBd1I3V0lBa2F2M3ZobDVvZm03WDczbEdmQVlOSXpCQ1JFbGliRnJRVmExdzRBMUlHdUtIdDNtcml3Wm1SdFdPaVlyU2hB0gHWAUFVX3lxTFBGb3l2b2lGMWJSV1hYbWpVTEpEYnotbE14N2dhZ1pPNXdkY21ZYnlwbnJDNWJDVnZKLXE4UGlUYzZnYkFIU0x0a0NKNWk2YXBQTTFFRXdnVlRDRWtrb2ZLRXNjYVNxQ1VrWTJVYnpDSnZ3emttbG04RklTYjZDNS10Nm03eGowNjdDekpMRmFkVlYwUUlBZ0dDSno1akNtMU5jR0R1NjFJWlYyckdYSHY4aFdoTC1mWm9pTkc1RXFzVnFzOENxY0J2ZGRsalByblRLUUJKT3c?oc=5",
+      "snippet": "G20 Ministerial: Global South Impact, Seafarer Safety And Terrorism Flagged - India Today India Today",
+      "publishedAt": "2026-10-30T18:04:27.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Richmond man charged with 9 counts of distributing child sexual abuse material - WTVR.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjg0a1dybGZIMmJFSVNCSVk4YlhmeXloeUFBWmg0NGdRUE5MbzlJQnNad3hiZGdKNVphM1EyRTZ4SE8tMlNKZ1BlZ2w2WXUyc0cyLUROQkVsOGV2b09CcHJheVlKdUNpcVAtV0NLQTlEZWV2OXNxNFNyZzZHek5rODdmX1ZRR2dzUG5YdEhCcjJGQlNfMmhRYzNwelItMjdXTlJpbkU4eV9sWV91a1RKUlRjaFFhdw?oc=5",
+      "snippet": "Richmond man charged with 9 counts of distributing child sexual abuse material WTVR.com",
+      "publishedAt": "2026-10-30T16:30:41.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check - Did Kangana Ranaut perform Karwa Chauth puja for PM Narendra Modi? Truth behind viral video... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYW5XNThiSmM0VkxTWXRiNDVYOVdqYWE3aXl6M0NwM2NteEdybWkxSlRqckFjckRHUV8yWWJia1lMcGtDc0h4dDZtQzJVX21nTlVOczFxZnBiQ3dOQWJ6Zk9ZdFJJb2NfV1lBZmNoT2E1Y1hFQ05XV3NFeS1kOXI0Zk42M1hMekU5VTlHVHgzSm1SUGplQnBPaUQzNm5pa0hfS3k3NTAtcmtnRkI5dTFTdUZmMEZwRktSVjA3YkFCcWItYXJ2ak5lLVZPQXVzcU14TUNEalMyMU9WVmJWeG1xTjRrT09KMDFDanhwMGVydWpnLUJud2NKYUFtZV81ZVpIdG1ab1RB0gGLAkFVX3lxTE1Qb2RFRGNONlJoVlJVUzlmQXJ2MjBxQ3dqNlU0M1BEdTFzeGZEajJMMGcwYkVCY2EteUZLcVM2LUJQSXlQdHVTZkgzR2FOYWY3cFVZUzVvZVFYQ2lFdGZmNkVCUnNrUWpvMzBFRjdqVHNGbkM4OXFpd2Ytb2U1Xy1vWFhtMlhDck1EbGlNam0tZl9mTldwT1MzS1IxbFZoV1c5dnc3MVBMSl9zSDVBNzBNbGJCVkw2SWFWNzJfMjNPOWwyaVhCeFM1NG5YbkNKLWU5LUQ0VzFPNjl2dHlzdEFEc1J5OTBCYzBtLW9QT0o5Y3dzaGJrV1M1RWJGMVROaUV5LWJOS1haZzFNSQ?oc=5",
+      "snippet": "Fact Check - Did Kangana Ranaut perform Karwa Chauth puja for PM Narendra Modi? Truth behind viral video... Moneycontrol.com",
+      "publishedAt": "2026-10-30T08:58:11.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "NCCIA arrests two suspects for selling child sexual abuse material - | Associated Press Of Pakistan",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmEwT3BDSkRQeFduNG1Oam5xaTlnc2I0MnFfWDdid2VZNEZYVEt2cnF2QnA5N09WbDlFQzVlc1JadUExWHJ5aUplNEtEYmFfUHdSVUw1ZVhrTDRMX283a1FXQmVuamIzZm5WUXVPT0h0bG00Rk1ZRlhyZ1g0TFA2dUJOODJlT0ZQVWZCaHBTQ2l1c1JsZWk2MmNlMlg1YUJE?oc=5",
@@ -257,6 +302,96 @@
       "corroboratedBy": 2
     },
     {
+      "title": "Ministers vow online safety action after teen sextortion victim took own life - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tLUgtamdZRG9iX05LalJmYXRYR2FDQnFDNkJ0T01nZlRlVk9TLTFqNGpWRnJwVS1adG5NUjVCdG5VeDlTTVZUcThLY0NyOEtHclBURE82MTM2NEE?oc=5",
+      "snippet": "Ministers vow online safety action after teen sextortion victim took own life BBC",
+      "publishedAt": "2026-10-30T18:08:48.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "I was a victim of child abuse and called Childline, NSPCC boss says - The Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFdPNlhtOHN2cGxqb3hpMjhZTjd6SUhOTHl0cV9DdG8wZEdJclkxdnNRU1dWMXpUS255elFrTm93QlFZQTYwRjhZWlpCdGFJV2c2QlZVT0xVQmNvTkhVWWtlZW5CVEJ5bjhvM1o2Zm11b0M3eVF5S2YyYUNkeGtVcUhVdExwazhxM2g2aFN1NA?oc=5",
+      "snippet": "I was a victim of child abuse and called Childline, NSPCC boss says The Times",
+      "publishedAt": "2026-10-30T16:15:12.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Boone County CSAM Arrest - KXEO",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ubXhiTVEwX1JGV2VUT1FvTHRrbGdBLUdDQzNLME5iOW9lYk0wdFNHNnFweHBHVDc5QWVzMWV3bGpWZGJwMDEtRmNmZnZUVmUwdUlKVVgwTDR6bUxmVFJmOHZuWdIBaEFVX3lxTE5RekRUbGxVakdXc1U3NGxKUUFaNTF3R2s4OERXakFHMHJjWjJZdTdGd3VsalIzMjZFTnptQU9hUDZHZTBiYk5wT2pTVllvdmtLUWJQUEUwbnpRN3VYNkdUUWVSOXhRbUFy?oc=5",
+      "snippet": "Boone County CSAM Arrest KXEO",
+      "publishedAt": "2026-10-30T13:45:14.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Army Officer Confronted During Overseas Trip For Harassing Minor? Here’s The Truth Behind Viral Video - Newschecker",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0dmUldGdXFzRVZ2VXZYQUFVRjE1Z016TmhiODJuQWx5aEZFblU2Z2JoWHgyQVYyM2RkLWt4YzExbVdYMERqVEhqUVVZSDhzS2dBV0xzdjh4dzdxUlZBZUVPUnJ1UWgzWU9TZUt2djQydXgwM1NmQ1dub2VBWkdoZXBNR3l6bFdGNDVhVjd5S2F5SzF0dnR1TF9MNlFnUmJVelVvMVJsZFFSRGxnSTR6Vy1HUTBITEh1d05ER1hua2J0dWFDSHN1ZnUzTFhxbm9IbU41anpHaw?oc=5",
+      "snippet": "Indian Army Officer Confronted During Overseas Trip For Harassing Minor? Here’s The Truth Behind Viral Video Newschecker",
+      "publishedAt": "2026-10-30T13:41:03.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Indian military equipment is outdated compared to China, says Lt Gen Shukla? No, video is AI-manipulated - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS0VJdlotQlljVWxaSHlmTzhIU0xhSXd1TU5JYlJoYUJoV1hnVnF0dllxak94WndEVjdtMF9rTXJuV3Nrd0Rqa0plZWRmbzRRLWhFTVpqMWo0eDIwN0MzQXBNSldhZTBJMk41SEFmZ1VtU0tLdWRtYkNPRUxySzY0ekRtWXI1cVRtTDhubjFrdlhoWS01dmJGVjBIN3I0RFZEN21ocmhlNk5jN1dXWnpfZjZCUkUzZUdZd3EtZ0E2Uk9Dcks4T1hkZTU2ZFU3Q3ZELXhabG5B?oc=5",
+      "snippet": "Fact Check: Indian military equipment is outdated compared to China, says Lt Gen Shukla? No, video is AI-manipulated NewsMeter",
+      "publishedAt": "2026-10-30T13:19:46.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Province proposes wider protections against online child exploitation - StrathmoreNow",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb1Ewam9VeFcyUGdGTHZmTXJFaUVTQ1NpN2VuZjBPTG9RXy1FQ2steVhVYkd6WGhTeVNYRjhuODVBNWphRUNJaVZ1MEVvc01NWV8tbkhtMVFzMW9ib3JlY3g4U2ppalJJQ0M1QUs5SnBNUW5zZ3Q5Vzk2cGdlT2NzZko4aHZfR1JjQ2M4NGRSejEyTEN4Y2pfSUdtZVlNVkVsek9JRnRpaw?oc=5",
+      "snippet": "Province proposes wider protections against online child exploitation StrathmoreNow",
+      "publishedAt": "2026-10-30T13:05:59.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Province proposes wider protections against online child exploitation - CochraneNow",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGJZVWthVzFROWw0elFhbXU3RzdOX0dzU0lmSzV0clU0Y2huSmdVQzREb3FmU0Z1QldtSnlDd0xhdnk3Y3RrYTcteVVGYkJKb3JfQ2xVLVVTaE5jNlNCb29GZnowaGFYSkJRVi1OdHZnTVIySnEzc0JQajFzYVdGNEUxUGFpWkxHX0xiYWlDMGxoVGRaUVY1VGxFUFdMZ3hwaS12cw?oc=5",
       "snippet": "Province proposes wider protections against online child exploitation CochraneNow",
@@ -298,6 +433,21 @@
       "feedTheme": "human-trafficking",
       "riskScore": 52,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Your digital life at risk? Dubai Police expose the tricks scammers use to steal your money - Gulf Business",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmEwQjRNMW14RHpjUm1XWGRSR29UOF9PeXExRHhpcUQ2VDk1YmQySkRzSmdEZHYxZkFzX25udjhpM0dTcWM4bG1jZkhCN21PQUhWbldfR2NCcmZiQ3FuaWpFWDVBUUppUjg2RW8tOTdoa1hSakNfSnlPakNjUHJ4Zy1JYXRuVjZUR1BkT1A0Unc5dW9FWkFEVlJ6bHQ2aTFPRkR5SEo1ZFNaR09xY3B1cC1KOUQxRnctSjZPREVqdHlwa1VPM05Udg?oc=5",
+      "snippet": "Your digital life at risk? Dubai Police expose the tricks scammers use to steal your money Gulf Business",
+      "publishedAt": "2026-10-30T12:13:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 52,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -467,6 +617,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "NCCIA arrests two for alleged child sexual exploitation - The News Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVml4WXRVcWNlZUdMajdlV1pJeWhWVmFia2N6MnAwS3RwY0dldXdwc2REZlIwclBIMjZWdVRlLWQ4U2UwaHd0UGxRaDFoNlhyeXdDNzNYTm9XWC1fVTVlV2k4WUFsOEs4OEpRb29zMVNRb01yVTVTTDhsN2dzQjdpUktERlZ3MTBPTWZQQXE4X01PcnZINnVv?oc=5",
+      "snippet": "NCCIA arrests two for alleged child sexual exploitation The News Pakistan",
+      "publishedAt": "2026-10-29T19:00:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Online child exploitation reports rise as AFOSI works to protect military families - osi.af.mil",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU283ZmdEay0xbzlXZFhJWkV5ZE5pU2dSR2VNc05JMWNvUFFMY1JaaUR5b0lveHFTeW1vY3NpVGJha0F6NE9WWTFOQzctR0FQYU1URmp3R2M2ZGJzd0JsaVhXVWtUcjJGVlZSU0s3UHNVVmdZYjZFSy1wQ2tnLW9hWU91RkhmaFBFc0xfZUdOUk1qQURmWUh5bUxOdGFrU3NhWVdMWkpTVDNEem1HNGNaQzg4MFN3d1JtNXRWUGtoQjZ2Y3VJWmtmdHk0a1JydEt3VVZPZzdlVmw?oc=5",
       "snippet": "Online child exploitation reports rise as AFOSI works to protect military families osi.af.mil",
@@ -477,6 +642,51 @@
       "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Israel Vote Fraud Row, US Midterms Impact on India & G20 Atlanta Meet - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWlPSldJejdYYzM0NFM4T3RHRjdpbmtIOURaSTVJV3hVazJEcFVxTWhIajl4aWVZcXFNbmY4dE5SUFdVNHVPSUZDVXBLUW9FZlJ1cnAxZW1XaHZ1b09lRGtMMXZDV2lmTjVUVlYyenJEbUJtQlFISFQ4VHlYZEVTYnFENEhwTkp6TE1SNzc4Z2RGMGR6cXpCd1h5RzNsTE95SFVPaWlLSWF6M2pLSWNrWW9pYXd1eXI5WkswVGN3UlRwelFqWGxF0gHMAUFVX3lxTFBOUjg4SEJHLWdMcnFyR3Vkd3lES0xKR3g0VVpNLTAtdm1lTmwya1ljUUFwNHZQc3ozU3U1VGUtZVh1RWFSWEx0ZnB6Qkp6QVlLYlVMaDhjRzRFclh4SGRxbWtxU1F6QTZRa1BmQVFKemc3bmRaQmJvN3FHdE8wb0kzZ2J1Y3cybWdVVTEzZFhCMGM4Q0FTZXdlaHNaaWVrcnMtMmpGRmlHMEE4ZnY5MTdNNHdoaHQ2Njl6VVpxQ3FsVTUwbnJLMTFyMXNsVA?oc=5",
+      "snippet": "Israel Vote Fraud Row, US Midterms Impact on India & G20 Atlanta Meet - India Today India Today",
+      "publishedAt": "2026-10-30T17:58:09.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Drowning out the AI noise — Dispelling harmful trends, hacks, and misinformation to build trust - Oral Health Group",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVWpFY0RmTXZmNWkwTlVQTm9SX1VzaVRUY0dJM1NqVnhMenRBZ1dYanB2MnN3OVoxeUdUNy1jTDBEWmswWTRBRzZSSEVYLTZmUEpVME9CX3g4cGw2bG1YSmQxNV9lb3FnZ1BuQ3NmbF9YRVhiUUMxZWlKOHF5X3lJVzZMYWlyLXJ0ZXdxSTc1RmMwdnl1LTlsdElpR1hldEg3OE5lVFFsN19fS0dsN2JtOUpSNEJWbUFscjI1dEY4N3NNUDJQSW5aaGRn?oc=5",
+      "snippet": "Drowning out the AI noise — Dispelling harmful trends, hacks, and misinformation to build trust Oral Health Group",
+      "publishedAt": "2026-10-30T16:24:35.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sanchar Saathi: How to Verify SIM Cards, Block Phones and Report Scams - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdEdTTTE5XzdrVHFIeFdtUnBZcUpBU0h6dVplWGNoMGttS1BxOUJFZ0NnUmVVOFQtckFmMm1DXzBqblJOWFY4V3BSOGpycU9PSTU4WWdoWmlEaTZLc3p1RWxuMlBPekFXRnp0dGpoeVREY2lQeDBpTXNFOEVTbXhWVDJR?oc=5",
+      "snippet": "Sanchar Saathi: How to Verify SIM Cards, Block Phones and Report Scams The 420.in",
+      "publishedAt": "2026-10-30T15:57:37.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -493,6 +703,21 @@
       "feedTheme": "suicide-self-harm",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sri Ganganagar admin uses tech to plug misinformation, drive water supply updates on real-time basis - ET Government",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZnU5dmxLMGx2ZlI0MmVPc2JpekNFTTdaR0NfbDJXTV9reXFXWmZ0N3pROG9sOWxEdUdUVTg0clYtLWtiU1N0TWR0SDV5WllSZUJQLWJDYTVBaVI4TDAyT1pEU28wdDJZT2pmc2l0RlhBcURteWZoSUp5aFpBa1QwWTVlTU9DcEhtN2d2LWJaVmo4Mk42cmJzb2ZjNnpiY3JTNmp6NlpPYkt3NFZLVEZVazJnOXhFa0Z5TGJSQmdPOG5CSkpnUWVHeHYtWmI2UjVyY0lSTFZ5VWd2ekV2S3dPa2luM0pZNENuUXZXWHBjS2tiOV9pR0d4c2VCR2wxdWxRTG5tbkdUMXBVSjNvTUIw0gGKAkFVX3lxTE5FWWVsRFU1U3N3V0dhLXQ2c3VlTDhRSjIzWVkyY1FIZW9sYVVjLTNGbl9NZjFEVkE2S29kTFB3SFZiWElJWXNLaDNDSkxDalVsSGtldmNMT2c3MWRBUjlyX29xemZSM1FqRjh4RXVJaE1Hem1HWU5Od0JXWDI3WTVJb3Y1NFlOdENlTlNQYXozczd4QjU3SHJzOGN4OVEtQmFlYkxBM0lGb0EzaGk2WXRISFVBNTlrMHJlRXJoOHFwRGxxb1p6Q0Y3VUJnMzdiVURMMm5FTWdRTzNkM1pLekpxN3Z1Ty1QR0t2ZDRlRWkxeWxOa0hmOUpFLUlsWllYU0MydmMxNEcyUU93?oc=5",
+      "snippet": "Sri Ganganagar admin uses tech to plug misinformation, drive water supply updates on real-time basis ET Government",
+      "publishedAt": "2026-10-30T07:41:40.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -587,6 +812,141 @@
       "corroboratedBy": 1
     },
     {
+      "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbXNjdlRHazJWd0VOMEp4ZGoyNHRyTUZvQmxaU0x4cm9hRkUyU25aYkRDMDJNTVJEbDZRbE1vaGVOaGZkNGEza01tb1Zidk1PWjJJVG5NNGZ3VjNEZjVmX3NNTEZwUTZWM2dzMWc1aVR0c0hYN0FGdnUyZTN0c0NITmc2ZzVOVUUzcGkyaWFMRkowNXkxejVfRy1uZXpPaDUtMTZ4V2VOZ1NuRmZWZ0ptalF2RFRfUjdnVnk5SmFPZjNHYkREMFl5LTdmRXJaaWROWTZfQ1lUYWprYkVEMEl2czJjQmtkcjV4eDN6dkhrTkF2V3ZFQ21JWGF5LTIyOTZp0gGAAkFVX3lxTE9tc2N2VEdrMlZ3RU4wSnhkajI0dHJNRm9CbFpTTHhyb2FGRTJTblpiREMwMk1NUkRsNlFsTW9oZU5oZmQ0YTNrTW1vVmJ2TU9aMklUbk00ZndWM0RmNWZfc01MRnBRNlYzZ3MxZzVpVHRzSFg3QUZ2dTJlM3RzQ0hOZzZnNU5VRTNwaTJpYUxGSjA1eTF6NV9HLW5lek9oNS0xNnhXZU5nU25GZlZnSm1qUXZEVF9SN2dWeTlKYU9mM0diREQwWXktN2ZFclppZE5ZNl9DWVRhamtiRUQwSXZzMmNCa2RyNXh4M3p2SGtOQXZXdkVDbUlYYXktMjI5Nmk?oc=5",
+      "snippet": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push The Economic Times",
+      "publishedAt": "2026-10-30T18:08:00.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Urgent warning issued over emerging scam trend involving criminals 'posing as Amazon' - LADbible",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakt4TXp4U2g1eGk1RGxHdzVMeVdzQ0pBQVYzNlVfU2VxQU1RanJLdnF3V1VJTDdZd29MS0pkT05QYUpmUk5OZUl0cUtBQTA0eFFjX0FVY0hySzVsU29CTWhOazlYTHl2YS1sN1lua0FDZmJmaWRScjk4MVFudEljXzN4LUQ1MHdrWWN5X1laS2UyT3pE?oc=5",
+      "snippet": "Urgent warning issued over emerging scam trend involving criminals 'posing as Amazon' LADbible",
+      "publishedAt": "2026-10-30T17:53:25.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NordVPN Issues Urgent Warning Over Fake 'Safe Wallet' Scams Following Binance Breach - FF News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3FQdVZXdzE4YWtFY21CblpxZ0N1QTVvNG9OZTFscmNSZ0VScnV2NDZDQUo0YXNMLU9YemFyajVaWUVfeWkxU3M0b05uUjBIOE5BR0dlelRjV3VUcXBGd1haTmJiRGI0Z1l6TG4tTXFXR0hFZ1hlZXVkaHRMQ216czVmZHg4aEJRZTFpWkFaRnV3Zy0yUDJ4NE5IWWYwUk9MbzE0aUVvdw?oc=5",
+      "snippet": "NordVPN Issues Urgent Warning Over Fake 'Safe Wallet' Scams Following Binance Breach FF News",
+      "publishedAt": "2026-10-30T17:11:20.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ahmedabad Investment Scam: Four Arrested in Rs 50 Crore Probe - Urban Acres",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbThYYnBfWFQwc2JLZk5Kb0h4YWpaYl9KbjVjalBUVm90OUgtdTUwdG5adXdEdkZlQ2YxR3Fya2p6d093UjFuRFdQZmdrMXBIMks2UEFTdjgybzJjR21DdVM3R1RtS3R5MFB4VlFPczJCX0NQZlMyQ2l5MDBIU2lzMWhmdkY5X0U?oc=5",
+      "snippet": "Ahmedabad Investment Scam: Four Arrested in Rs 50 Crore Probe Urban Acres",
+      "publishedAt": "2026-10-30T16:25:53.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT3VxVE5fVEswcW5QUEtMblFBNEtET25IcUZPQWZIeWlLUnUxLUdQZzNIUVEyUkZTdm5TM2hta0tTalBWM0dVNTF5Q0I1RU5ZNVlpYXBEU0hpRWZpTDJIOEMyYk5DZWdvQjZZTmtVM1NhUnREeDFiN3lQNFAzMlRSSzI3ZnZ4QUU4d2xZeVY5am1fNlZSWkIzV2tjQUg3bVhGOWRHZ2k1dHF6bVVjT3Awempjei14Qjh6MHZSMUtqeUdlbDdvVl9tVEZoREt3V2JaZnJFcU1TaUF6VG13OUJJMUtsV3hULTJfM1RHQUF0R1RKZVk?oc=5",
+      "snippet": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora INDIA New England News",
+      "publishedAt": "2026-10-30T16:24:07.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Google Sues To Halt Impersonation Ads 10/30/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVBTZjV4WmphMjZNM2xvMkZxalg5dVhxcUc4eWRmTkUwMHo3LWRqYU9NVUp6V29vbjVlb1pCSUNoMHZoaWduVnRyTGdtcmZHZnY2UXhETVNJbVpQNWVBWXJONXEwYzZyQkdmb2hFMEtSREpxVFU4OTd4aTF5aWIwQVcyRUhHZ3BDTTlIQjhhQjIzdzYzWFdVS25reHA?oc=5",
+      "snippet": "Google Sues To Halt Impersonation Ads 10/30/2026 MediaPost",
+      "publishedAt": "2026-10-30T15:37:30.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "“We will unmask them using AI”: FIA have had enough after 13,000 death threats against Formula 1 star Pierre Gasly - Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZzFVZEZCa3hvSnluYW5EX0x4Q09vRTgzZVdCbklvUWZFV2g1RFlBN1MyMGZfa2QtMW5PR3BreFlqczRYakhOeGlEUjJLQ0ZaNTczVFd4MngtZHVadUtXUklKd25aR1dNX3VkNXlDXzY1dEtoTW9FZzZqbkRnZE10bzdGeG55YjVvbHVQdHNTWE5lR3FyYWZyMHYzT0c1UVlGbG1BV1VtQ0NXOE1UaVZ6MEViZ0thTFZkaTB6MHcyTkVqbXV1azN4TFBzdHZnTXR0cERVcFhXUFNyRF9qTjFIWmlpVzRhbTVxbTB2WGQ1dFJVOHc2U1E?oc=5",
+      "snippet": "“We will unmask them using AI”: FIA have had enough after 13,000 death threats against Formula 1 star Pierre Gasly Goal.com",
+      "publishedAt": "2026-10-30T14:04:09.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Citizens’ Alertness Can Help Prevent Digital Fraud: Pune Police Officer - Punekar News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmJxdl82N09oSEFKWWR6OWR6MWtOQTVzZUFXa3FZZzhGRVJyYTBzcU5tRnJIWUhaTm1qOF9GWmNoYWc2dGpoSkJDSmVCc3dIMU5XbnVwVzJiN3h2MXdiZzFQd08tNDhMd21fam5aYndBOUNza0JXUnR2T3RNYUlnTFAxUkpYeVRCS3ZfelRmQUp1d2NySDAwb29EdEwxdw?oc=5",
+      "snippet": "Citizens’ Alertness Can Help Prevent Digital Fraud: Pune Police Officer Punekar News",
+      "publishedAt": "2026-10-30T13:46:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The EU Is Investigating How Booking.com Fights Scams. Here’s What It Means for Managers. - RSU by PriceLabs",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wRkFXZTdsSU1OeGJsMk1kU3BkY0pzREZZcGlqSVZRUzluZ0N1aTZnNmZialZOOTM5djNDN1ZPT2pCY09qX1VZOVRuLTUyMmdtNFJKLVN4LV9PeHg5aFYwbUdCY1FqckNQQ3djOW1VeU0?oc=5",
+      "snippet": "The EU Is Investigating How Booking.com Fights Scams. Here’s What It Means for Managers. RSU by PriceLabs",
+      "publishedAt": "2026-10-30T13:36:22.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "How UP police women powerline 1090 tackles harassment through FFR technique - India Today - India Today",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNUNWVFlqVEZVbUVURXdxZGtlR1JnanJMdm9iQU4xUzllQl80YWR1SFRrMVN2X0tUbjdYTFBfb1RUNGVSckxUUHJLMWgtc2RtMkNQMUgzSUJKbzJqdXRVMzRBMG1wanNVWHl5SVVnMjZSMmY3WUEtOGpaQ090VmpvekM3aW1VNGUyRE5mWERNMkozSlVIbEJyc3R5d2NsVHdiMGNHWEM3UFB6SmFIMU5QLTlQMVFGMnMwSHpiSHNETEhLOXhmQVlDSTlqZnpfck52c1NycThjZ9IB3AFBVV95cUxNMFkyNm00QWhzaU1wN1g4amVOT3ZqMXJDTTZ1UXdnV2tOR2tzeUt3OENjQldQbUFSejFyT0o0NVB3ZzluVzFOZV9WS3JBcU9UTWE0T3NNUWZBNlppcGtsc1JtUWtNSkM5LUQwbG9MajhPN0JTWExjZ3VCWjYtMV9wU2dRMnE5c2M0M2ZXSHZMR3VzRTRZZXk3bldLWGNKektXYmNyNmtFaWc2SkNWV0taeDVvbjNucXVyLXlzdTlBMUdjbVE3Y1F4MjkwS0ZzbUd1UTVTY0ozaTFvaE5S?oc=5",
       "snippet": "How UP police women powerline 1090 tackles harassment through FFR technique - India Today India Today",
@@ -602,6 +962,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Which social media platforms have the most scams? 2026 data - Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDVBZ2pVbXE5VmxmbjhEamRsYnQzeUMwQzIycFpJVXV0UjB3WllGWnhwa3Nkdm10bXFCREsya3BUYWJxQUxCei1iWHJjZlBjQ1BINHdzUHlmaHp0X2FOM3hTZEtpM3NjQUhwUWlvTmVFVHdvck1KX0U1c0FGWlhQWmJTbHpXaEtDM0pxOU04THB2a2JoVl8yWEd3c3k?oc=5",
+      "snippet": "Which social media platforms have the most scams? 2026 data Cybernews",
+      "publishedAt": "2026-10-30T11:36:29.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "GCash warns of online scams ahead Undas - Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xT0VvS1R5Z3hqdEdvTk5pUWliM1EtWDJIZ3JrUW5vWTRaTmZ3VjJWUElTanExQ3BFbkNjcEgybk5EYlB3WXVDMUgtYU9Yb0E0c3huOF9TdmVkbFB2YW5DRDd0UC1PRjVQZURNZWhxUXdCODVud0x2MmlEbkhtQQ?oc=5",
+      "snippet": "GCash warns of online scams ahead Undas Daily Tribune",
+      "publishedAt": "2026-10-30T09:22:38.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "FTC shuts down 19 imposter websites, secures more than $80 million for consumers in scam crackdown - WRNJ Radio",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnk4VllYaUZqYVpEeE9fMFZJNjY0NkdiZmlrcE1Pb1kyYV92WEwxY01TdEdHOGFMcGRRU1dsbnd5M1lwVjlROEh2T0ZmMHZ3X1NVb2xhdFRMZTY0NGhvbDJkTDBXeTZSVkNtVUlzTXd1YzlMMDJ4N1o5dWZwUGZVZDg3dlNVTDdzYXRGRFhoekVpcjYySjVVNndxYUlMN1czVEVkblU2U0x3Vl9kem94cWdCOXg4UUZpUEYw?oc=5",
       "snippet": "FTC shuts down 19 imposter websites, secures more than $80 million for consumers in scam crackdown WRNJ Radio",
@@ -610,6 +1000,21 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hyderabad Doctor Loses ₹1.21 Crore in Forex Scam Using Fake Union Minister Video - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9adl9pakV5eGR0Wm83RDloXzZjWXh5UWdyM21wcnM4T3ZIc3huaUpfbk5jdUg0WUpJZ0ZYRVFzZ2xrM0ZDY2hmZ2FDNWVwV1VnbVdSUGtEdmx0dkdBU3NmdDFEdllrenlxTjVCRU96Y3pFMExK?oc=5",
+      "snippet": "Hyderabad Doctor Loses ₹1.21 Crore in Forex Scam Using Fake Union Minister Video The 420.in",
+      "publishedAt": "2026-10-30T07:45:49.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
@@ -692,8 +1097,68 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Phishing Attack leads to $1.6 Billion Cryptocurrency Loss at Binance - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE5TNnVHV2NaUDE4R0pLNHAteGVnVGRocWtNMDE1VldHcmFHUFRjMHRUUGFEbUIzZVQzamtCUjh3Q0tJYU1tS0FGOERkYlZNQndPTThaeXhza1Y4UnVxRTBvOEFhbDVnQ0VWeE93TWR1WHVHODR3ZFpoUG9rQ3hzcnpWcVRwbmtmc2UwRjRsRV9KZzhrNUZnZ0p2a1hfLXlaaTA5OHFCNDkxaWc?oc=5",
+      "snippet": "Phishing Attack leads to $1.6 Billion Cryptocurrency Loss at Binance Cybersecurity Insiders",
+      "publishedAt": "2026-10-30T15:19:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Florida Warns of Student Aid Data Breach: Steps Applicants Can Take - CubaHeadlines",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrR1NzVjU0QVpSamp2ZHllTnNmZzBYbWVVR3pCajRYOHR0UGVkcDlxQm5TaHFUYWtMaEtQNU4tOW4xZFZBMi1OYXp1NURGZXBOek8yOVYtdzE?oc=5",
+      "snippet": "Florida Warns of Student Aid Data Breach: Steps Applicants Can Take CubaHeadlines",
+      "publishedAt": "2026-10-30T15:03:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-powered cyberattacks fuel ‘Black October’ fears - 930 WFMD Free Talk",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGV1dnhjT0FlQk11S2k4eDk0eWRwRFRDWFgzZEZRRm5oRkVnRFpxcXRUcGV5NmF2T2prSVpOOG5kbUdXSlJlbERscFFIcm12RVpNa2pwUE9FSXFlMU5ld29IZU1Bdy01MnVTOEVqVTBmSlpKaWl6OHFUaGhJbEJ0ZEhJaDE4VDhP?oc=5",
+      "snippet": "AI-powered cyberattacks fuel ‘Black October’ fears 930 WFMD Free Talk",
+      "publishedAt": "2026-10-30T14:39:29.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected - LatestLY",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR2JPbEJyRG43ZHQwQ1RKeDZWYlk5UTdsNEpkRzkyX2xxSFh3OWhlcWFHNlZPbWYtSzFlUld5WmFQaFNyN1hLb2ZSdnYwbTRHdjVISVczV3BVMjExWlNwZFZMM19LZ0Q3Qk5SUkdCUUNfUnl3cmZJa3NaUHNNOWQ5VFUwUEtzWm9mQ3dfRlJwRy1qRWFsN3dUZDNmMGU4UUFMV01VcVpSSk1hWURwX1IxekRRaEZVTm9VUHlnUFNuQWxnanJCanZCR20wNDFwRVRwY2xlc2NzQnExZF85Ym9ueHJyWk02bmxK?oc=5",
+      "snippet": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected LatestLY",
+      "publishedAt": "2026-10-30T12:06:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR2JPbEJyRG43ZHQwQ1RKeDZWYlk5UTdsNEpkRzkyX2xxSFh3OWhlcWFHNlZPbWYtSzFlUld5WmFQaFNyN1hLb2ZSdnYwbTRHdjVISVczV3BVMjExWlNwZFZMM19LZ0Q3Qk5SUkdCUUNfUnl3cmZJa3NaUHNNOWQ5VFUwUEtzWm9mQ3dfRlJwRy1qRWFsN3dUZDNmMGU4UUFMV01VcVpSSk1hWURwX1IxekRRaEZVTm9VUHlnUFNuQWxnanJCanZCR20wNDFwRVRwY2xlc2NzQnExZF85Ym9ueHJyWk02bmxK0gHuAUFVX3lxTFBNZnowbV9oT0hkU0t2dlUzUzhydE91MVBjZE5HMHRlNXJPU2F1OHpNblBKdmQ0VFJkNThTaTJOMUVpYnQ0R01JdGswUW9BeFJYTzduMmZqb05hZG4zcF9GTDlQUFZlYWdJZlBfTFdQelhxN3A5OUdXcmlkMGJwSnpsT0ZYaTFRM0h1eDdzVDl6aTRpM21jSHRpWVE1YnpSU1R3YmxnSkthTHhsR3F3a3RqOEtaaUNHSGRLUGNrSERIbFJkT2FFOV9qOERrSkFUY24zcU01MWRJU0gzb3VRbVdMc2NVV0lEMDY1Um5kOHc?oc=5",
       "snippet": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected LatestLY",
       "publishedAt": "2026-10-30T12:06:24.000Z",
       "source": "Google News • Cybersecurity Incidents",
@@ -731,6 +1196,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Is AI a Threat to the Evolution of Cryptocurrency? A Cybersecurity Deep Dive - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzdmQlhyY2pHYkFtUVVDZXI5VHBicDJyMTVQOERqNVFpbU8zTTI1aVNsSlJObkEwMEkzbU5Zb1pQbGNwU3hGMUVmb2JrVXROX2FjcnlGM19uUjBFUzFCaUxCSkdjUWhDbVFwQkttblVmaWw3TEVFQ3hsRVUzNXBVM0d3b2wzRGRncUpDUVFSS19FMmlOdFMwX1hERHVhd1lQdWhhZ2pLeGd2Zw?oc=5",
+      "snippet": "Is AI a Threat to the Evolution of Cryptocurrency? A Cybersecurity Deep Dive CyberSecurityNews",
+      "publishedAt": "2026-10-30T09:29:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
@@ -861,6 +1341,36 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zTEQ1azFJYzNDTXNnWURyT21aX3lnR1dDLS0zVXU4MDVUUmZzNGhuQzN0M2dVOVdXaElsYzVGZ29sNi1qYVRWbEtMUlJuNFVtdjJGNHFXYmhDa2Z6b1BPUEo1a3hIVmN1M0JDXzUyZThwU19JTHc?oc=5",
       "snippet": "Billions Dollars Stolen in Historic Cryptocurrency Cyberattack teleSUR English",
       "publishedAt": "2026-10-30T01:31:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLUV1aHdGYVNnTVUxXy1OQkJNbkpqeDNBY0JyaGZrd0lxc2ZhWGRlVXJyTjNncVdSc1hpczMwVHg0NkEwQmVnbGUtS3dpWlpWX1cxNE1PbGQ3QTQ4RXQ4eWhaT2ZZOElENXJDdE1GenFYSjNrOURmREtHNkZETm90QXRZdzd1MTJ4MEVJb1lrRGdrWHhzTUlGZllMaDluVnlsb1dr?oc=5",
+      "snippet": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach WSJ",
+      "publishedAt": "2026-10-29T22:18:53.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Corporate law firms McCarthy Tétrault and Davies hit by data breaches - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmp1am0wZGxVcVZwRW11RC02UThUaXN4YTlLbWFoMEd0TnpocURMeEJnT2hmTlgzUTVaNFJMM0ptX05Qa2hNVFkwY2tXU3BhLVY3LU9Sb19KTTQwYzVhcWFBSnAxRGt4bmdzNUtkUEJ3TURWNXN0cHVMV1duSjBNLV9QeUhNRUthdFpfNmszTXY4N1NnN09QQW9yY3FGMGpjMmR1QnA3WWpkMVNNX2V2Sw?oc=5",
+      "snippet": "Corporate law firms McCarthy Tétrault and Davies hit by data breaches The Globe and Mail",
+      "publishedAt": "2026-10-29T18:59:05.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
