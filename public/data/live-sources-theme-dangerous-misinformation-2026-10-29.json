@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:53:28.730Z",
+  "generatedAt": "2026-10-30T06:07:55.561Z",
   "snapshot": true,
   "date": "2026-10-29",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 16
+    "total": 17
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 61
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 67
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 75
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 49
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -412,6 +412,21 @@
       "snippet": "False Claims of Attack on Netanyahu Spread from Old Video X",
       "publishedAt": "2026-10-29T06:04:54.000Z",
       "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Medical misinformation can make treatment difficult: Dr Reena Jain - The Healthy Indian Project (THIP)",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDUtaEd5XzN3MTdheGN6ZFF2aEswR2xiRjRCcnhxS0NwdVNPVVJjcEwwa1ZCYkJhOTdBRlNCbk01aUNXTzZjek5sZWdHYjdqTzJNVmxTSGxpSG9Oa2pxczFWWjFjVVZVR1dJS2NvaUJfVnFXWlFackg3RXgtcGliZkxvQTg1WnZ6Z2xESUtYUk5ZcnU2Q0F1ZWJBQXFHVjJFRlFucUtlaGhTRXNLQjI3T0huSUdSSmRSazlr?oc=5",
+      "snippet": "Medical misinformation can make treatment difficult: Dr Reena Jain The Healthy Indian Project (THIP)",
+      "publishedAt": "2026-10-29T05:10:52.000Z",
+      "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "historical-archive",
