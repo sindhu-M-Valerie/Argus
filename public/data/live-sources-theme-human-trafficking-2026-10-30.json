@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:07:55.561Z",
+  "generatedAt": "2026-10-30T13:16:21.808Z",
   "snapshot": true,
   "date": "2026-10-30",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 36
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 61
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 100
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 9
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Cambodian scam compound guards had military, police help: Amnesty - ucanews.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHJIdGFDSEhrODlmT2pBWWE3V2JnRDdlMWJrbzVFUGJOMGpBckNvaGUxcjlrYklpY0F1R2VFeVExODNubFowZ1p6R1pCRU5JUkN2QVluLXp4UW5TaWVLVmFueXhZOUJ1Y3dpck5Edkx0SEZ0TEp0Qk1FLXZIZXFQbmN0LTA0bFJoMEZJQ3MyWEhERWdOTzhYa3ZSOFo2a03SAZ8BQVVfeXFMT0hySHRhQ0hIazg5Zk9qQVlhN1diZ0Q3ZTFia281RVBiTjBqQXJDb2hlMXI5a2JJaWNBdUdlRXlRMTgzbmxaMGdaekdaQkVOSVJDdkFZbi16eFFuU2llS1Zhbnl4WTlCdWN3aXJORHZMdEhGdExKdEJNRS12SGVxUG5jdC0wNGxSaDBGSUNzMlhIREVnTk84WGt2UjhaNmtN?oc=5",
+      "snippet": "Cambodian scam compound guards had military, police help: Amnesty ucanews.com",
+      "publishedAt": "2026-10-30T12:31:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Congress is investigating whether Starlink powered Myanmar's scam compounds - Startup Fortune",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFFHc0JZLUhCR1dsQWZxaTV0Vmtvc2c5dWF4Z2hveEowWUlZX0E5ejROdFhoRE1XVkpIandZQ0VJanV3TVlrRlJaOUlaeS10UDVfSnBtVTNEOVNZb0lnbzNiLW9wSXZ4aHdxUmlvV25FSE4tMVlFVklIVGVLN21YQmlQS3VkU2lCZWZvTkF0eS1FWERIY1dzaHN4Rm5hQ3Y0Sl84SA?oc=5",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:07:55.561Z",
+  "generatedAt": "2026-10-30T13:16:21.808Z",
   "snapshot": true,
   "date": "2026-10-29",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 18
+    "total": 20
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 36
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 61
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 100
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 9
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -396,6 +396,36 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOGhlT1FZTThKWlhIajdwVFBUREVKREROYWlRQjZKMUtYUDF0Z1ZCNHVUQ2FVMHNURmF2b0xNZlI4Rm11YURrM25RTUhtV25uOXB6aHJmQnJBMlJxYkl1TmNfOGc5R19yRC1vXzNxT1VfcC1hRmFWVE5UY3E3SXJnMWo0LVE0TC13SVhQSXVqaXN3dDJETzdQNjRxa2tNVnE0a1RjY0dEN1hFTFJYSWUyYnU3WEdpcS0zaTctV3NOUl92TWNhVWNMVNIByAFBVV95cUxQOGhlT1FZTThKWlhIajdwVFBUREVKREROYWlRQjZKMUtYUDF0Z1ZCNHVUQ2FVMHNURmF2b0xNZlI4Rm11YURrM25RTUhtV25uOXB6aHJmQnJBMlJxYkl1TmNfOGc5R19yRC1vXzNxT1VfcC1hRmFWVE5UY3E3SXJnMWo0LVE0TC13SVhQSXVqaXN3dDJETzdQNjRxa2tNVnE0a1RjY0dEN1hFTFJYSWUyYnU3WEdpcS0zaTctV3NOUl92TWNhVWNMVA?oc=5",
       "snippet": "Karix Mobile denies any association with SBI data breach ET Telecom",
       "publishedAt": "2026-10-29T10:39:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sony: Millions of customers' data leaked - SecNews.gr",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lWTZPNVNGcTNpQlN3Vi0ySVBKaDB2Z2J5U3hJZmVVMlBGUW9lOWVDdFBsMWtIa2FkMWx2aVNGcHNHV2hFeFdXeWUxVDRwaWpmZ3cxV3JpQmJFaEo2TGFLRGt5NjUzVkpPeXQ5U29xMVJYTkVFT2JreVR3?oc=5",
+      "snippet": "Sony: Millions of customers' data leaked SecNews.gr",
+      "publishedAt": "2026-10-29T08:42:28.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DHS Data Breach: 41,000 ICE and CBP employee records leaked - SecNews.gr",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WZEk4aFotVVBnOXdKSzRPOG12WjY4OFBndktMOTRSMk1MamR3TkMyRC02N19DTDlyVjV6b2N5ZTJsMTFTVHZ4eXZEWFduSlVqdDF1c1luX3FXOWRSXzNMUFZ2RGNNYXJOWERfY1hobUo0NnpWUnFFU1p3?oc=5",
+      "snippet": "DHS Data Breach: 41,000 ICE and CBP employee records leaked SecNews.gr",
+      "publishedAt": "2026-10-29T08:11:14.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

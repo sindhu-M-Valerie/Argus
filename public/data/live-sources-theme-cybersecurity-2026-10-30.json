@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:07:55.561Z",
+  "generatedAt": "2026-10-30T13:16:21.808Z",
   "snapshot": true,
   "date": "2026-10-30",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 36
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 61
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 100
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 9
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -182,10 +182,115 @@
   ],
   "data": [
     {
-      "title": "How Cybersecurity Firms Can Support Singapore’s Growing Digital Economy - businessnewsthisweek.com",
+      "title": "Polymarket Hacked - Users Reported Funds Stolen From Their Wallets - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYdm1yQnlJaC02eDRfLUc3OThyQkU4b1dqUHBBZTh6Y0VZUUV1VkMyR1NmWGRMemdoUHZ0TWdQY0VSRXkyOTl6bUExWjZTOGUzVDc3Ml81X0xfa2JqNmV1MU1n0gFiQVVfeXFMUFh2bXJCeUloLTZ4NF8tRzc5OHJCRThvV2pQcEFlOHpjRVlRRXVWQzJHU2ZYZEx6Z2hQdnRNZ1BjRVJFeTI5OXptQTFaNlM4ZTNUNzcyXzVfTF9rYmo2ZXUxTWc?oc=5",
+      "snippet": "Polymarket Hacked - Users Reported Funds Stolen From Their Wallets CyberSecurityNews",
+      "publishedAt": "2026-10-30T03:39:35.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected - LatestLY",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR2JPbEJyRG43ZHQwQ1RKeDZWYlk5UTdsNEpkRzkyX2xxSFh3OWhlcWFHNlZPbWYtSzFlUld5WmFQaFNyN1hLb2ZSdnYwbTRHdjVISVczV3BVMjExWlNwZFZMM19LZ0Q3Qk5SUkdCUUNfUnl3cmZJa3NaUHNNOWQ5VFUwUEtzWm9mQ3dfRlJwRy1qRWFsN3dUZDNmMGU4UUFMV01VcVpSSk1hWURwX1IxekRRaEZVTm9VUHlnUFNuQWxnanJCanZCR20wNDFwRVRwY2xlc2NzQnExZF85Ym9ueHJyWk02bmxK?oc=5",
+      "snippet": "Business News | AU Small Finance Bank Probes Potential Customer Data Leak, Says Banking Systems Unaffected LatestLY",
+      "publishedAt": "2026-10-30T12:06:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Global cybersecurity crisis deepens as major platforms suffer severe breaches - The Standard (HK)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTVdzZlQ3OERlTkhCT25ZWHZ6QlBMaVBlZmsxcm81ZnZTczdHMFBMSE9ZYVRQOTdfUDdXV2JJQ0x5cGU4S1FwYmhqVGdMNUtzX0NwSlZRejBsNHdHU2dNSDloWDRXYUZBS0tYLXNKa1RaaXRMc1F4QWdCQnQ2eHZjZ1JkVG5tc0NyNjRiWk54eF9mZllMbHJpY3BheURrNDNEcFplUE5HbXU3eUV5TDgtRlc1VU5hZjNsSzA4ZGF1M0x6MExrWlUzdw?oc=5",
+      "snippet": "Global cybersecurity crisis deepens as major platforms suffer severe breaches The Standard (HK)",
+      "publishedAt": "2026-10-30T11:06:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Binance Faces Largest Crypto Heist - $6.36 Billion Reportedly Stolen by North Korean Group - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYdnAwRjhnOHBocXJ6TUZRd0I0bk1KUGNWRXBVM1d0ckJsZ0hWR044VlF0OFNlcWQ4dF80Vlo4d2VYODQ2QmlRMUNpMndDMDRxUjJ0ZzBsX2pFbzFrZGlBUW16ZzA0UdIBa0FVX3lxTE5RMV8yN0h6NDBIQ1J5VS1ZQ21sVXVlZEEwaEo3LVNfdU01RmhSWTRPdC1tMWhEZE1NMXdfbEJsVXpVX1I3d0tpUnFmSkY4VUdaTkZNRVFZcENObGhEOV9qMUFhaDVYdHJmY3lz?oc=5",
+      "snippet": "Binance Faces Largest Crypto Heist - $6.36 Billion Reportedly Stolen by North Korean Group CyberSecurityNews",
+      "publishedAt": "2026-10-30T09:45:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Breach Roundup: Apparently Chinese Hackers Deploy PHP2Shell - BankInfoSecurity",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTVFUelVIVHlLdXNuekVmWDdMTy1MOXM4Z2RJalVUaElucnltYW14NFpPaFYyVUx2RXFvNDJBbVpGX3k3OU9YTkFoLUlNNlRHV0N3WXltMGNtcWhoMUpQV3liLUNSYWVwQmlyZ0R2UDNzMDl1d2VRckFBYVFvV2hvWU00NDE2X1pCSThTN3drTk54ZDI4X2dOWmx1eEtwbXZv?oc=5",
+      "snippet": "Breach Roundup: Apparently Chinese Hackers Deploy PHP2Shell BankInfoSecurity",
+      "publishedAt": "2026-10-30T09:29:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents - Bitdefender",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcVBPUVcxMzN0U0dzbEdyQWtaR1lzekxDRTJLUkhBaXVScGJMNkJERVBENjVZT0VDdERNbzZVMWJPNEtsbGFiWEJhREVhMDFsQ3VHdXBiaUFTS0p3UFRuQ0pkVDlMSmNQcFdfNS15VHd4MEU5TGJRcmtuMjNaNXBRdnY4MmNaWUpvMXFwQnhpSTd3UQ?oc=5",
+      "snippet": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents Bitdefender",
+      "publishedAt": "2026-10-30T07:34:16.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How Cybersecurity Firms Can Support Singapore’s Growing Digital Economy - Business News This Week",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVpNLUxxLVFqNmRYSjB1RnFjdy1sc0lNaFBGM3lXd3ZFOFRFVHRyVDRSSmZXcnpnNW83UlROZHFFRndDNC1LY2FFR2lwYXc1RGpkbFBVMU5DVFB3UTlvd0xFaEd1dmc3VG9aUHVodmtIZnFfNTk0QzJ0Zko4VDFMaEdvN3V0VW5SS19VcWpFS0dYTWxIdUI1aEQ4MFFTOFoxT0F5RmlxRUd5TTZ1elV1U0M0QQ?oc=5",
-      "snippet": "How Cybersecurity Firms Can Support Singapore’s Growing Digital Economy businessnewsthisweek.com",
-      "publishedAt": "2026-10-30T05:58:32.000Z",
+      "snippet": "How Cybersecurity Firms Can Support Singapore’s Growing Digital Economy Business News This Week",
+      "publishedAt": "2026-10-30T06:13:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SL: Protecting The Next Generation of Cybercrime Targets - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1JlaUlqWWVsc0ZsRFc3UHlHXzlVMVNIVGJSZ2FiRDRmRl9EODkya2Q0TkRqcThLNEc4X1B3Q3hYUVh2a1ViQ0kwSmVrRFV5OUJ1dFVyeDJsaUpHaHA5UEt0d2lPeS0zRGdGU3FOWTJsSkY2c3JWYVBZU1lod1Noc2hPbTE2cmVQdTZJaC1jTm9WTzNhUmVKNnhaWQ?oc=5",
+      "snippet": "SL: Protecting The Next Generation of Cybercrime Targets Cybersecurity Insiders",
+      "publishedAt": "2026-10-30T06:06:17.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -227,10 +332,10 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Billions Dollars Stolen in Historic Cryptocurrency Cyberattack - teleSUR English",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zTEQ1azFJYzNDTXNnWURyT21aX3lnR1dDLS0zVXU4MDVUUmZzNGhuQzN0M2dVOVdXaElsYzVGZ29sNi1qYVRWbEtMUlJuNFVtdjJGNHFXYmhDa2Z6b1BPUEo1a3hIVmN1M0JDXzUyZThwU19JTHc?oc=5",
-      "snippet": "Billions Dollars Stolen in Historic Cryptocurrency Cyberattack teleSUR English",
-      "publishedAt": "2026-10-30T01:31:56.000Z",
+      "title": "Worry over cyberattacks on financial institutions - Daily Trust",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBreHBybFZXSDVubGlsMXRRM3lsLTlMOXB6c3JRVDl1TkQycTM4dEpBbExNSmZZdzNwN1ZiaWtJMjE4SDlHNVdmM0ZoZXB4QVloa21MVjhuTzFDUnM4OG9yblFUOG5YTDhxZE9CYnhLekZ2ZURpUFA5UVZNNGRJUQ?oc=5",
+      "snippet": "Worry over cyberattacks on financial institutions Daily Trust",
+      "publishedAt": "2026-10-30T02:13:31.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -242,10 +347,10 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Breach Roundup: Apparently Chinese Hackers Deploy PHP2Shell - BankInfoSecurity",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTVFUelVIVHlLdXNuekVmWDdMTy1MOXM4Z2RJalVUaElucnltYW14NFpPaFYyVUx2RXFvNDJBbVpGX3k3OU9YTkFoLUlNNlRHV0N3WXltMGNtcWhoMUpQV3liLUNSYWVwQmlyZ0R2UDNzMDl1d2VRckFBYVFvV2hvWU00NDE2X1pCSThTN3drTk54ZDI4X2dOWmx1eEtwbXZv?oc=5",
-      "snippet": "Breach Roundup: Apparently Chinese Hackers Deploy PHP2Shell BankInfoSecurity",
-      "publishedAt": "2026-10-29T21:37:55.000Z",
+      "title": "Billions Dollars Stolen in Historic Cryptocurrency Cyberattack - teleSUR English",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zTEQ1azFJYzNDTXNnWURyT21aX3lnR1dDLS0zVXU4MDVUUmZzNGhuQzN0M2dVOVdXaElsYzVGZ29sNi1qYVRWbEtMUlJuNFVtdjJGNHFXYmhDa2Z6b1BPUEo1a3hIVmN1M0JDXzUyZThwU19JTHc?oc=5",
+      "snippet": "Billions Dollars Stolen in Historic Cryptocurrency Cyberattack teleSUR English",
+      "publishedAt": "2026-10-30T01:31:56.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
