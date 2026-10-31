@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:53:33.603Z",
+  "generatedAt": "2026-10-31T21:46:40.803Z",
   "snapshot": true,
   "date": "2026-10-31",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 10
+    "total": 15
   },
   "message": null,
   "sourceStatus": [
@@ -16,70 +16,70 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 61
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 58
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 88
+      "itemCount": 44
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -197,10 +197,70 @@
       "corroboratedBy": 1
     },
     {
+      "title": "STP Nuclear Data Breach Hits 1,173 Texans [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenRUMzlUX0YzM19rRXh1ZExzWTJwajhLNFhjV0wxM3Q2NzZhWWdKOE85cGZpZlFQZFhKVW44RTZTTlJJWDczSVNnWHhxLWdOcGN6NzRxdHdyQ29IY1BDOUxBLWtRUnJpdkthdFBsam16dGp4RGhGMnJaUXJoLUdnZDhwd2tadEE?oc=5",
+      "snippet": "STP Nuclear Data Breach Hits 1,173 Texans [2026] shattered.io",
+      "publishedAt": "2026-10-31T18:19:37.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chainalysis Exposes Customer Names and Emails in Cybersecurity Incident - Bitcoin Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHJRckk3N1pHOWIwMmE4eHN0c05Pa2l4dVh5Zk9pWE5tR0RHdjlsVTA3UVIwcmozeVY5Zl9uQURldE1rSkJRNU1OM1UtaTNmSlNZS3pGdG9lcVJEY09rbHo4c2taR05zM2Z2YjB4VkRXRmpuUTJYR3E5OWNYVlJEajhRN3lsS2JnT2VudnRNaXU5dktPSG9KSGo1aUtPY1duTUZPazJKQUJZeDNnY3ljdkxmX2I2RFl4?oc=5",
+      "snippet": "Chainalysis Exposes Customer Names and Emails in Cybersecurity Incident Bitcoin Foundation",
+      "publishedAt": "2026-10-31T16:52:20.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\" - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2JvV3B0VmZISVpqWjlQYUhEdWdVUlRTbVluZHluZjlIaUhnQzhqVHFFSXZKR1FCYUczVTBMcWdnb0VZUTdYaG9JRy11cTRIZHM3aHV2U21ENnlDSXVLa3MyOHZuenVoWjE1QzJJS083WTBLcW1Rejh6N3MtVUJWT1NFVl9IRWdRWVlobER6cnhmSTlXSmlyWnlxMFc0TEVDeEJER0dqWFA1TkVpWmdGeEl1OGRGeEpnclJz0gG7AUFVX3lxTE43Ym9XcHRWZkhJWmpaOVBhSER1Z1VSVFNtWW5keW5mOUhpSGdDOGpUcUVJdkpHUUJhRzNVMExxZ2dvRVlRN1hob0lHLXVxNEhkczdodXZTbUQ2eUNJdUtrczI4dm56dWhaMTVDMklLTzdZMEtxbVF6OHo3cy1VQlZPU0VWX0hFZ1FZWWhsRHpyeGZJOVdKaXJaeXEwVzRMRUN4QkRHR2pYUDVORWlaZ0Z4SXU4ZEZ4SmdyUnM?oc=5",
+      "snippet": "Chainalysis discloses data breach from \"offensive agentic techniques\" BleepingComputer",
+      "publishedAt": "2026-10-31T12:50:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Binance Faces Largest Crypto Heist - $6.36 Billion Reportedly Stolen by North Korean Group - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYdnAwRjhnOHBocXJ6TUZRd0I0bk1KUGNWRXBVM1d0ckJsZ0hWR044VlF0OFNlcWQ4dF80Vlo4d2VYODQ2QmlRMUNpMndDMDRxUjJ0ZzBsX2pFbzFrZGlBUW16ZzA0UdIBa0FVX3lxTE5RMV8yN0h6NDBIQ1J5VS1ZQ21sVXVlZEEwaEo3LVNfdU01RmhSWTRPdC1tMWhEZE1NMXdfbEJsVXpVX1I3d0tpUnFmSkY4VUdaTkZNRVFZcENObGhEOV9qMUFhaDVYdHJmY3lz?oc=5",
       "snippet": "Binance Faces Largest Crypto Heist - $6.36 Billion Reportedly Stolen by North Korean Group CyberSecurityNews",
       "publishedAt": "2026-10-31T10:13:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Aadhaar, PAN Data at Risk: AU Bank Faces Cybersecurity Questions - varindia",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHA0Q1hOMWx6WF9rWkxmaHVGZDNNN3R4X1RfWGoxcGV2c2VpeHViUlZzbTh1dU5UZDhsRnNUVnZFS0w4TDk1aEVsdzRwRmVkaUZncEk0akdfVDlFNzFOdGNMaTFtLWVHMGNuSVVjVVNFaDlTY2FyLWlBaTBLQ3BNdXdvUTNxaHBrRFVYRk5BakVBRzJKMzk4?oc=5",
+      "snippet": "Aadhaar, PAN Data at Risk: AU Bank Faces Cybersecurity Questions varindia",
+      "publishedAt": "2026-10-31T06:11:59.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -261,6 +321,21 @@
       "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE4yY0pBMjlDQUVlZDhMVEd2QndrZUdKdmt1SFFyWXlQX3BEVEZsb1FJNG9vS21MU0RrWkFZ?oc=5",
       "snippet": "Cybersecurity Threat Landscape Intensifies: Anthropic Intrusion Dispute, UEFI Vulnerabilities, Cloudflare AI Data Exposure and Underground Breach Claims + Video Howl.Link",
       "publishedAt": "2026-10-31T00:17:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How hackers broke into four of Canada’s top law firms, stole client files and caused chaos - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGZ0UmlxaTBzMG0wQmg3ejF6UTc1OGJZRnpvR2dxQlYtN3U2WXJ6QVJMY0pzZG4waTYtNWZjMnlZNXpDb1I1anVtUUNmeGpsT0Y2WUhUem5qa0VVQlB2cTB5OGl3cHRkR2F2eTA1djMyWThZelQ4NVhaQWxLZnlFbFc5dmdSNWg3dkptajRUZ1RuM012ZkdYNkJGSlJnODkzQ3A2OEF4dTFMQ3o2Qm9DN2xlZw?oc=5",
+      "snippet": "How hackers broke into four of Canada’s top law firms, stole client files and caused chaos The Globe and Mail",
+      "publishedAt": "2026-10-31T00:05:17.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

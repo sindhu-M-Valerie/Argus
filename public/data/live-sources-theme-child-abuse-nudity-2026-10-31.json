@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:53:33.603Z",
+  "generatedAt": "2026-10-31T21:46:40.803Z",
   "snapshot": true,
   "date": "2026-10-31",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,70 +16,70 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 30
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 61
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 58
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 88
+      "itemCount": 44
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 78
     },
     {
       "label": "PIB Fact Check",
@@ -191,6 +191,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Technician who admitted trafficking newborns to face fresh child abuse charges - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNMWdJQWZEa1NsYXIyaUU2NmhmTXdwVXFUZGtkdVVoUjVpMV9HekhqUjViNFNYa3hqLW5xTW9xQjlETElDcWVnSkx3WVk0UHl4dDdDQm4wUkp2bU4tUGJVZ1Y4cmpIVFF0TTFjaTRHSHNrdFFkZHBVZkszSE9FYjZ3Q2Fxd0RwODJiS181cDdGcGItTV9sN1BrdWJiM1BhcGFxWTlGbktjVUpnSk9XSG1xeGI4R2ptQUQ2czl6c2M4aldFYkRJMlgzaDZMdkUtQ1RGcTBHM0ZpSDJpU0RMY2JpMWYxY25VRTdpc1g3VG92cUJnMVpjVjA5MzZnSTVZZHlwUjFPaXR6T0l3YzNzZXp3RXFhWFFEWUlwNFJTNUZYMHdtZ0JjaEwxcy1Oa3lrbGIwTEJTYk92UG1McWlPeVFLbUtnaDYzVTI1d0lkOEFWdm0zNTFwRTNHTzJUY29VUnoyTWhFdFUtdE5KUlFGN1ZpOWoxazJ0d0pWN3dHdDZsY3pmaF9iLS1FUzJB0gG_AUFVX3lxTE1zZGVqakxQcTRrQkozWXhmYXoySk1RS1BCdExIT0l2dFpLWURzZ0xxRDRGbjlBZE9yXzRMc3hLR2lEU2s3MFBXZEc0d1ZhTzNLcHBkcTdzNDQwV1l5aVV2NFctOFBkSlVfS09Cb0dNTkttTmt5SmpELVEwcVd4VWdUdEZLUloxeTlibllaa1MtT29SY3lmTjJ3REFvbHd2c1lkZGtfT182dU8xNFpsaU5MYU4zMERSX2h1TnFPbksw?oc=5",
+      "snippet": "Technician who admitted trafficking newborns to face fresh child abuse charges NST Online",
+      "publishedAt": "2026-10-30T22:09:15.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
