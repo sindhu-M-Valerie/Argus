@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:31:56.130Z",
+  "generatedAt": "2026-10-31T06:02:10.860Z",
   "snapshot": true,
   "date": "2026-10-30",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 12
+    "total": 13
   },
   "message": null,
   "sourceStatus": [
@@ -23,63 +23,63 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 21
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 77
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -192,6 +192,21 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Government debunks misinformation on ethanol-blended petrol, says E20 fuel is safe and scientifically validated - DD News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlNTQWt0X1JRdnBpdzhOM24zYU1GTHo1UERkUFhWNTI0eFhlLXJZTVVZU3RJdXI1TjZUdDVTZ2VBOW5XeHJGb2NTNVlrY3JKMHRScVFfWXMyWVBzMmVfTVF2c0VHdWdlNmF3N3QxQnVLRGh2RkVReVNUTUwyamV3WkRuM0s3WDFkM1hfaU51Z1c1YmF1OVdoY3draXl2WDBhQmEzSjlzbzRYNWpCNkpVdThFZVJscDM3MlhmVDZEclNrUjVUeHUzYUlncXVkZERZbUE?oc=5",
+      "snippet": "Government debunks misinformation on ethanol-blended petrol, says E20 fuel is safe and scientifically validated DD News",
+      "publishedAt": "2026-10-29T19:21:27.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
