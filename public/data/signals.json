@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T06:37:27.412Z",
+  "generatedAt": "2026-11-01T18:05:06.465Z",
   "windowDays": 7,
   "endDate": "2026-11-01",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 152,
+      "totalArticles": 160,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -57,
-      "reason": "Last 3 days averaged 12.3/day vs 28.8/day before.",
+      "changePercent": -48,
+      "reason": "Last 3 days averaged 15.0/day vs 28.8/day before.",
       "daily": [
         {
           "date": "2026-10-26",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-10-31",
-          "count": 22
+          "count": 25
         },
         {
           "date": "2026-11-01",
-          "count": 1
+          "count": 6
         }
       ],
       "topArticles": [
@@ -77,6 +77,22 @@
           "corroboratedBy": 2
         },
         {
+          "title": "Fact Check: Fake newspaper clipping, old video, other false posts about 'Chalo Dilli' rally - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeGx4SFZTQzJJSGYydlZER2Y3aC1Oc0ViaFhEUkpnWHhscllZSzNHeG9TczU0ZnFWY1BRRVhBR2FiS05TVE1UUDJ6dU91OGtxVjJNb2Z0Yk9TeEhCR2dzbGpEOWpzZ2xLRGpBbzJQZXRJbW5Jb0xKMUVqZUg3eUdMalktVXpMdFI2N0JTUXhFdmRnZnRJVHlDMHJfd21uS3RPRzFfTC1mS2g1TWtoMDA0YjByNERKZUxWb3ZiU3lUTktIY1FVWXFWUEFvaUE1R0FUVkJ0aUVSV2s0OGtvYzd3Wk9n0gHnAUFVX3lxTE41aDU5RFBTV3ZYT1YtbEVqLURZTnY4NzZ6UWI0MGdxbHcxRGdYTmh4NkVxSGU5OUNRZGZPR2RRLVU0ZU5rZ0F0ZUJqUlJIRnhZaW5DNDduR3piLUJTM2hCRWpIaWdoLXVBSDAxOGtDbmhGNW12cllXVUhWV0RNYzUtVGpnUGxWak5sN2d2WDJmc2Q1TDU3Q0haTV90SzUxMXdhWG1ZUy1FdV9BM054NWVqZ0dfTjZSQldSVmZlY1I0aHBuUUZnRUdMUnppcGJEX0RLNjNES2VuYTVFUml6eHVtRTlYVjJYNA?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-01T15:05:56.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Fact Check: Six fake allegations against CEC Gyanesh Kumar debunked - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWo0aDBqSmpOUTR3WmhxMVlqR2g2X0c1ZjRvZTltV1ctdVpDbFhOdjlleGZNYTdnSmZKdjIwZ3dfRVdPOUJBMVdrbC1BX1BkXzZXekdzSnMzRVVzbEpOX3d6SEY3dXYxVGVBRFFSMllqYmFYT3k1RFU4cFQzTUdkelF6Y1lTTnJUWmxITk90LW9RdkZIMV83NkQ4Sng4djVYM0pXVm1icl9VVk1qVnhGQmlJbknSAboBQVVfeXFMTkxYaFBuV1dqTEVJTnBHN245bHIweDhoeHNvaDh3Q1l6SFBycHVhU3JETWJNT1k5cU9fVThremJMUTk2OG95ZmFMVjlBRGVfRFJlY3JhaDlhb1M4N0o2bTVmTU1ZMzM4eFM3dW1LT2NoZGRjeFp0M1VQN3JsTmdqQkNETDEtdVFTaEZzRXV2cTVkWlI2X0RTTjVBaEZ3S3dqRVFGeC1lc1VyaUFvd09oTW1rNGpuUVpfaHJB?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-01T09:03:28.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Fact Check - Did Kangana Ranaut perform Karwa Chauth puja for PM Narendra Modi? Truth behind viral video... - Moneycontrol.com",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYW5XNThiSmM0VkxTWXRiNDVYOVdqYWE3aXl6M0NwM2NteEdybWkxSlRqckFjckRHUV8yWWJia1lMcGtDc0h4dDZtQzJVX21nTlVOczFxZnBiQ3dOQWJ6Zk9ZdFJJb2NfV1lBZmNoT2E1Y1hFQ05XV3NFeS1kOXI0Zk42M1hMekU5VTlHVHgzSm1SUGplQnBPaUQzNm5pa0hfS3k3NTAtcmtnRkI5dTFTdUZmMEZwRktSVjA3YkFCcWItYXJ2ak5lLVZPQXVzcU14TUNEalMyMU9WVmJWeG1xTjRrT09KMDFDanhwMGVydWpnLUJud2NKYUFtZV81ZVpIdG1ab1RB0gGLAkFVX3lxTE1Qb2RFRGNONlJoVlJVUzlmQXJ2MjBxQ3dqNlU0M1BEdTFzeGZEajJMMGcwYkVCY2EteUZLcVM2LUJQSXlQdHVTZkgzR2FOYWY3cFVZUzVvZVFYQ2lFdGZmNkVCUnNrUWpvMzBFRjdqVHNGbkM4OXFpd2Ytb2U1Xy1vWFhtMlhDck1EbGlNam0tZl9mTldwT1MzS1IxbFZoV1c5dnc3MVBMSl9zSDVBNzBNbGJCVkw2SWFWNzJfMjNPOWwyaVhCeFM1NG5YbkNKLWU5LUQ0VzFPNjl2dHlzdEFEc1J5OTBCYzBtLW9QT0o5Y3dzaGJrV1M1RWJGMVROaUV5LWJOS1haZzFNSQ?oc=5",
           "source": "Google News • Fact Check (India)",
@@ -91,34 +107,18 @@
           "publishedAt": "2026-10-29T11:34:38.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Fact check: Video featuring Lt Gen Girish Kalia accepting China's control over parts of Arunachal Pradesh is deepfake - Lighthouse Journalism",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNXdvY09xeG9XNVZDMm9QaEFEY1pWc09RVUVNbHV4dUtHQ016OVJtRUlZUHFRTkt0cE9ubHB1M0ZsYUhBaVVCNDUwWDJacV9VRWI1czdiS19WTmNvbWJxMmMtYmkxc3E3LU9wZl9qbGVtenhhNjM0ZWNCdjhzU1ZYa0hIdlFLNzU1azFhcnhWWWhmWkZlVnZmQjdZX1dCdjlmcTZqZ2hqNmpnTEdEckdPUE5FRi1hUkpLVXk1WEFwNU12V2xMd3AzMkRMVm5IeV9yckFmTU1XNGpQOTZMMUpnS08wQmEwSkxlNHFJVW80SlRSdHBJRm9v?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-29T08:36:45.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact check: Parody account’s viral post falsely claims singer R Kelly has passed away, Grok debunks rumor | Hindustan Times - Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcjRvOE9RZVZBamQtQ1lFSTQtZUV4TGxnY0JoY2hEMHFYbHQwdU5DR1J3OHhsV2pLb0JhNFdvWlNtYUJTSThHaUpOUXpESkZEMnRVMGFRNlJOX3pxVlduUTdDajdfcEtlbHUxSXBONXhwU3dZS1JlQ0VpRjZPLVhjSENNdjZhVlVJc3pOVXBYU1ZNTXVPNUtTWjZ6YVVfeGpXbzhWLXFpSVhRRkhYM0E2aGlBVE5JOU9ueUF3aFRSbDJGT1N0V1AwYWozcTVQb1lfTk5ucmx6Tm1NN1RkandGRGxaSU1OLXI3T25YOUVSQkpvTTR0YXUtUUJ3bl9WTEh20gGAAkFVX3lxTFByNG84T1FlVkFqZC1DWUVJNC1lRXhMbGdjQmhjaEQwcVhsdDB1TkNHUnc4eGxXaktvQmE0V29aU21hQlNJOEdpSk5RekRKRkQydFUwYVE2Uk5fenFWV25RN0NqN19wS2VsdTFJcE41eHBTd1lLUmVDRWlGNk8tWGNIQ012NmFWVUlzek5VcFhTVk1NdU81S1NaNnphVV94aldvOFYtcWlJWFFGSFgzQTZoaUFUTkk5T255QXdoVFJsMkZPU3RXUDBhajNxNVBvWV9OTm5ybHpObU03VGRqd0ZEbFpJTU4tcjdPblg5RVJCSm9NNHRhdS1RQnduX1ZMSHY?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-29T03:28:35.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 120,
+      "totalArticles": 126,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -33,
-      "reason": "Last 3 days averaged 13.3/day vs 20.0/day before.",
+      "changePercent": -23,
+      "reason": "Last 3 days averaged 15.3/day vs 20.0/day before.",
       "daily": [
         {
           "date": "2026-10-26",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-10-31",
-          "count": 11
+          "count": 12
         },
         {
           "date": "2026-11-01",
-          "count": 6
+          "count": 11
         }
       ],
       "topArticles": [
@@ -219,12 +219,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 117,
+      "totalArticles": 122,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -38,
-      "reason": "Last 3 days averaged 12.3/day vs 20.0/day before.",
+      "changePercent": -30,
+      "reason": "Last 3 days averaged 14.0/day vs 20.0/day before.",
       "daily": [
         {
           "date": "2026-10-26",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-10-31",
-          "count": 16
+          "count": 17
         },
         {
           "date": "2026-11-01",
-          "count": 1
+          "count": 5
         }
       ],
       "topArticles": [
@@ -279,6 +279,14 @@
           "publishedAt": "2026-10-28T09:55:45.000Z",
           "riskScore": 55,
           "corroboratedBy": 2
+        },
+        {
+          "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-10-31T14:42:45.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
         },
         {
           "title": "Chainalysis Confirms Cyberattack Using Agentic Techniques That Exposed Customer Data - CyberSecurityNews",
@@ -309,14 +317,6 @@
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RW93RkVUanBpT0Z3ZjVxNzFWVWZDRnJrXzBYRTVMdV9ncWNwZXdGSDBOY2UyblEwbjA2QjBWckxDdVZYSEgxTTNMb01SNnczTGlzaEZWMVFvUlRrbEZXX0Z2dHVnRy1DSW4w0gFwQVVfeXFMUFZ2bTNycEZDakk5Qld0T01SeUFScV9SbmlpSjc4N0MyVE5VaUlCWDRmb2tOMnVQa2ZqOXZqNjllQzBNLTdaZXFQRDdpYzdGTVVaZnpJTDAwNWQ5dTEtVDUwaWVhMVhtSWZBLTdmRFE4bA?oc=5",
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-10-29T12:39:45.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "What the Kering data breach of 7.4 million customers reveals about cybersecurity in the luxury industry - Luxury Lifestyle Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZy10RkRCTWdXYUVRWUYxVzFwWDRTRFlwdzhVbHh1alRQTUpMU3FVMjFJY2c1b19sSzAxVXZYaTd4Nm9PVUpMc2pMcnVuZXRmRjcxSjgxRTlqUGlDc01yUnZNWDB1UXluYVBlX040aUstYlVIRDI5QXM4ZndCUjRsRnk1OFpBQWR2M3BabWlsZHNaMFBPaEVxaDc1T0NOeGtXdXFrT2p6ZUtMOWJMdm1LYi1JY3VYODVXVUdOUXowOFhCMUhEY1dBQjRzN3dmbU93akQ2VEpMZmVSajV0blQwU19lVQ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-29T10:19:43.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }

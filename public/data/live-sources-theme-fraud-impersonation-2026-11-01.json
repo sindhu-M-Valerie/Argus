@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T06:32:42.231Z",
+  "generatedAt": "2026-11-01T18:00:27.271Z",
   "snapshot": true,
   "date": "2026-11-01",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 11
   },
   "message": null,
   "sourceStatus": [
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 48
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 57
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,42 +65,42 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 59
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 78
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -212,6 +212,51 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Police calls will soon come from a new 6000-0999 number to fight impersonation scams - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYTdwRE1DSlozWlQwemNwMFl6RE9jbjJiS3ZibjdXZ2JFLS1WZFpJZ2NYLVBNVDlUWmpUS1F3bnNBS2lyeXFlNjdVbVVRTnppU3ZzREcyS3prMEFXQmxqZy05SE12bmdvTjRwRkVjVXZZdTR6bGRHMG11WTZxRTJGOWtHWjc2VklJelUwWWE3dXNRNy1uUHlvd1dSUEdScGhqdDdyV0ZzVFhYZkxmdU1SYlNJdnZDV2F0SXZHTlRrQWdJVmpVV2NYWQ?oc=5",
+      "snippet": "Police calls will soon come from a new 6000-0999 number to fight impersonation scams The Straits Times",
+      "publishedAt": "2026-11-01T02:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How to Recover Money Lost in Cyber Fraud in India - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90RzFhdXVUYlNfamkxME9RdjgxTjdsM09CTWhKTVRDdHR0bW14bHVHWTV3MzlWQ2hGS2c3WTJqZDN3M09fNjFDSXEwU0V6WllrUURLN2hST1ExWnM?oc=5",
+      "snippet": "How to Recover Money Lost in Cyber Fraud in India The 420.in",
+      "publishedAt": "2026-11-01T13:31:33.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How to Recover Money Lost in Cyber Fraud in India - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zX1VyWW1EbEZ3T0hTbnNGbDFuTUZFb1ZBZnRQZWxpYXViLVNGWkdUZ2RZRzN5dzV0OFhEaUJ5WWVldHRGWEhPRC04SWRBdUxqbFNPRkgzRmptR1NvMGNTcF9PRFJfQQ?oc=5",
+      "snippet": "How to Recover Money Lost in Cyber Fraud in India The 420.in",
+      "publishedAt": "2026-11-01T11:57:14.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Indians in US Drawn Into Free Money Scam Involving Transfers to India - The 420.in",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PdFNZTUk1cllnSkFDaHhoSVFZRGVVekk2MVIwV0w3WlBqbXR3MW9wX01WREVUakdEREp6WFFzR3o0Z0FSMzlTTjhQRTBvcTdocHQ2OTZucUxaM3J1ekRBXzB2LTZ4WXY3MkljNTlzYTBXYzNsc2VJWUdB?oc=5",
       "snippet": "Indians in US Drawn Into Free Money Scam Involving Transfers to India The 420.in",
@@ -222,6 +267,36 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indians in US Drawn Into Free Money Scam Involving Transfers to India - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UUGFWYS1QZmxNMDFhVUwtZFE4eVdvR0VvUDVyM0hqUHljQlRUZG9PR1htdndWYlNPWTR6TlBwckNzOFNGNGRWXzl6elo5MEFPM01mQmxLZkNIYWdaWTNza290Y0w5dw?oc=5",
+      "snippet": "Indians in US Drawn Into Free Money Scam Involving Transfers to India The 420.in",
+      "publishedAt": "2026-11-01T05:52:01.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Scams in Maldives: The Spike in Numbers - Edition.mv",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41Y0ROWEEzckt1MzEzaHVXb3k2NUNpWkVEbkx5UkJwdXJvYkYyeUNIb1JBdnhkX080MUMtdjlGazJaalphSnJsTzduYXRfX19rMlFab2NCLTQ?oc=5",
+      "snippet": "Scams in Maldives: The Spike in Numbers Edition.mv",
+      "publishedAt": "2026-11-01T11:49:53.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
