@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:46:40.803Z",
+  "generatedAt": "2026-11-01T06:32:42.231Z",
   "snapshot": true,
   "date": "2026-10-31",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-10-31 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 36
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 25
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,49 +51,49 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Moscow’s Tsaritysyno Museum on terror radar? US warns Russia of possible attack - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRVoweWVSQlZfNElreFhnY0pXVnpnVXZzVml6N0twMlNqSkhfRWJlUHRnRnk0X3NBTGhkYmdmS1pvRjh6LTZNbUVfbE9WRHNMWFlEWUtOd2R6SWtmcVJQQ2M4aW1UVUsyUm9MOFZTeUU4UUI1ZGFuWUNaQ1lkTW9faUJBN0FQS2lkRzhHVTQ5YnduSjBjV213R0VncVVPN0VaYkctdGJBRGhMVWxlejFXaUE0RWlZZnM4dE01VVAwdlJVV0c3UVFPZE9IeEtCR0VmdXJTMkdLVHpuLTNWRUszck1DS1V6c3PSAewBQVVfeXFMTUVzYTFLQnVLMUF2eExBMjRqVGNxMUZfbGZxY3NVaW9wQ0xBLTdIZ19FTzBzaVJ3alNHNXZhRmtZUmZOR2s5dldxNTREUTZmY2JsdDh2ZDV0RlZENU9YVE40eVVScGlPSDh4QWFOMloxeHB5V1BackJ2QmhVcUlfSVNCd2xGQjd1QzBjcW9yVkY5ZkdQY21tVXoxa21WVldWZjFLcGF4Uk80VnZQcU40MC1jNWVJMkpSUVpVbGY1R3dwa2gzX21id0ZzT1lNelc5N0lDdU43ZFAwRER0eEJrWGJCS1FrLUVwZ0wtT0Y?oc=5",
+      "snippet": "Moscow’s Tsaritysyno Museum on terror radar? US warns Russia of possible attack The Times of India",
+      "publishedAt": "2026-10-31T15:32:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

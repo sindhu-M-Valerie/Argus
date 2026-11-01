@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:46:40.803Z",
+  "generatedAt": "2026-11-01T06:32:42.231Z",
   "snapshot": true,
   "date": "2026-10-31",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 15
+    "total": 16
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 36
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 25
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,49 +51,49 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -231,6 +231,21 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON2JvV3B0VmZISVpqWjlQYUhEdWdVUlRTbVluZHluZjlIaUhnQzhqVHFFSXZKR1FCYUczVTBMcWdnb0VZUTdYaG9JRy11cTRIZHM3aHV2U21ENnlDSXVLa3MyOHZuenVoWjE1QzJJS083WTBLcW1Rejh6N3MtVUJWT1NFVl9IRWdRWVlobER6cnhmSTlXSmlyWnlxMFc0TEVDeEJER0dqWFA1TkVpWmdGeEl1OGRGeEpnclJz0gG7AUFVX3lxTE43Ym9XcHRWZkhJWmpaOVBhSER1Z1VSVFNtWW5keW5mOUhpSGdDOGpUcUVJdkpHUUJhRzNVMExxZ2dvRVlRN1hob0lHLXVxNEhkczdodXZTbUQ2eUNJdUtrczI4dm56dWhaMTVDMklLTzdZMEtxbVF6OHo3cy1VQlZPU0VWX0hFZ1FZWWhsRHpyeGZJOVdKaXJaeXEwVzRMRUN4QkRHR2pYUDVORWlaZ0Z4SXU4ZEZ4SmdyUnM?oc=5",
       "snippet": "Chainalysis discloses data breach from \"offensive agentic techniques\" BleepingComputer",
       "publishedAt": "2026-10-31T12:50:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CHAINALYSIS GOT HACKED! THE CRYPTO TRACKING GIANT FACES A SECURITY BREACH - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qUUlWVW04ZnNYcm1UTVJzUGFMbTV0X0JxSUVHUzRITHBVZGNtaTM3S3BsNG9DN05TM1RfYTc5dzhDUmRORzVPWm9QdmtoU3lxNmduMHBfaGRKRHJ0OF9oNXRoWXE?oc=5",
+      "snippet": "CHAINALYSIS GOT HACKED! THE CRYPTO TRACKING GIANT FACES A SECURITY BREACH Binance",
+      "publishedAt": "2026-10-31T12:28:22.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

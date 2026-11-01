@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T21:46:40.803Z",
+  "generatedAt": "2026-11-01T06:32:42.231Z",
   "snapshot": true,
   "date": "2026-11-01",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-01 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 36
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 25
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,49 +51,49 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 77
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 76
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "BJP Targets INDIA Bloc Over 1984 Anti-Sikh Riots Ahead of Delhi Protests - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWXQ2NXdoS1NHdnpkZG1kb3ZCUXY0Skt4ZFdQRVZSSV9paW00dks1d1l1YmJvTmthYkdDbXZ0VEJYb05tNm91SHBldVp2S3F2bzB1Wk9wa05IV0gyWUhRZHBGUGtqbGplNlpWTTd4cDV2S21YeWphRFV5RklmWW5HSUdSaFN2blFRcl9TWkQ1VlQyeUpOS3ZzX0JOMDNWd1J6eTdpdjJyWktjbzNIdGFtLUxxRExrNkpvS3BSWENTTlBCRElUMlZGMXpEQkpuMXPSAdQBQVVfeXFMTUtpNlBUYXE3blZ6dmUzc1JWTmRDQW1RZGRLZTNLTmpiNWhubjR2Sko1dkZ1cVFjRmptc1ZvbjdpM0JRWkxteUNoLTRGTFlfNUpqV2VYZjVIUzRqYlRyN0twZ2w4S1U3OGZCblUzeWhsUzYyamZSUm1rSDRHRlJlWXVET3Y0VkdxMzd5OFB3Yy16aTVpOFlIQmdfN0pMS1lxWDdFREVKOWhFa0k5Q1lPSF9hWjNEakVaczZiaGloc3dSLWhPOW81VzNvWXY4MFRIN1lrRWU?oc=5",
+      "snippet": "BJP Targets INDIA Bloc Over 1984 Anti-Sikh Riots Ahead of Delhi Protests - India Today India Today",
+      "publishedAt": "2026-11-01T05:05:06.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
