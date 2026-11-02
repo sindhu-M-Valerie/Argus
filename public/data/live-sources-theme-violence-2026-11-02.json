@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:33:21.856Z",
+  "generatedAt": "2026-11-02T21:50:30.448Z",
   "snapshot": true,
   "date": "2026-11-02",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 59
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -65,35 +65,35 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 64
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "PIB Fact Check",
@@ -192,6 +192,21 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Allahabad HC seeks contempt action, FIR against lawyers over courtroom violence - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWVFKVWQ4T3dMbDBCWUt0d1I3dkJWb3ZLRnRmZU94akl4am5pbk1kcFN2QnpDbmhCakhURzByV2tNd1VzNXhFbk5NNDJ1UzNBNUNlcGw2NkRmZEMxMS1EeWVtcFhTWW10UXVydThRVWJKYXdSWUZtQlhsZ3VhUlQ2c3g1dEhBWjdNU2g5RWdQYXByV0JyZEh3YThYNXkwWlJ3RHpPM1JYUHFsMGlkdEFlTkJsNVZaeDZWQzNaa0tJNXo5NndwYVo2NW1sZ0xXQzR4NzdSOVQ5OA?oc=5",
+      "snippet": "Allahabad HC seeks contempt action, FIR against lawyers over courtroom violence India Today",
+      "publishedAt": "2026-11-02T17:14:38.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

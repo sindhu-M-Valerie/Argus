@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:33:21.856Z",
+  "generatedAt": "2026-11-02T21:50:30.448Z",
   "snapshot": true,
   "date": "2026-11-02",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 59
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -65,35 +65,35 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 64
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 74
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 79
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,126 @@
     }
   ],
   "data": [
+    {
+      "title": "Cybersecurity News: DHS data leak, Northflank suffers breach, Russian Poryadok cyberattack - CISO Series",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybUhLUng2dHlTbklFTzdsRE9xWnAwOXVfX1FPYnAtWFY5Y3k1UV9ZQ2RaRzJOZFp3VWprSVl4eE9IU2h1alV6cUVPVTZtVEpJRk9Qbm5JcWtkRmZiX3dqU3VNTmpoNVo5RWc?oc=5",
+      "snippet": "Cybersecurity News: DHS data leak, Northflank suffers breach, Russian Poryadok cyberattack CISO Series",
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chainalysis Confirms Cyberattack as Hackers Exploit Vulnerabilities to Access Internal Tools - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rZ2pPYzgzcENCdXU4VlhvbUtuSlBHbkxTTXkxNVdyVVEydWlsSHZvT3NtNWZWeFB2LTVRdGRyUC0tbXkxVWVTei1GWmhKWFZlTUFKRlMzT2pzTnNBRkI3SFNpVXp2eXEtWU440gFrQVVfeXFMTmtnak9jODNwQ0J1dThWWG9tS25KUEduTFNNeTE1V3JVUTJ1aWxIdm9Pc201ZlZ4UHYtNVF0ZHJQLS1teTFVZVN6LUZaaEpYVmVNQUpGUzNPanNOc0FGQjdIU2lVenZ5cS1ZTjg?oc=5",
+      "snippet": "Chainalysis Confirms Cyberattack as Hackers Exploit Vulnerabilities to Access Internal Tools GBHackers News",
+      "publishedAt": "2026-11-02T10:23:53.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Breach WS Audiology IT Systems, Disrupting Widex and Signia Hearing Aid Services - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Jc19wSlZPRXY1V0VZRFdYWll1OFZ5Tm5SWHkwQWlOVlBWVUJBZ183UFU5czQ3ckpkOWxRN1Vua0ZHd2dTUFNHNHRZVE1PYlBHRU11QmVSdjh0RmtxWGZoTk1sT3jSAWpBVV95cUxQVUJkWDlMVlIxOG1PRUJZNTNwc3pHU1FtbjltV1NscklOZjN4alFiczFUVzNtZ1RqX3VmZHFJMXp1YzdpTGN0NHpkeGlnbkxkQW9UN0w5VDUzODhSU1otQ1Nud01qdEV6VTdR?oc=5",
+      "snippet": "Hackers Breach WS Audiology IT Systems, Disrupting Widex and Signia Hearing Aid Services CyberSecurityNews",
+      "publishedAt": "2026-11-02T09:54:35.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Claim to Have Stolen 30GB of Data From Frooti Maker Parle Agro - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91S2daZTRUaEt3RVo1VWFrVmNjYmtveXV4ZHRHSmNpMlZPRDVlNVBLaGcwak1UTzRJeHc1bWdwSHE1UC0tbmVkcUdaNW5OaDNGeDVmMFN6Vlk0M28wbGRHSDE0QUxZd19kaW5mTnF1UXVQX1IzT3Z3TEZqQ2NNd9IBgwFBVV95cUxObnhnX1RZT0c5S1NpdjFNUFBVNGlqcTNGSHZNZXVKMUNXd3RjTmlEbXJKVlMtQzFXVjlVV2NDeS01WmM5QjJUWU1xQlVsSERLd2x0SUdiM2tzc0xPU1lQSEd3dWhWUXJMNnNTRmZFcUo1NFBCOFJCUHVLcFpUNVpNWDVKVQ?oc=5",
+      "snippet": "Hackers Claim to Have Stolen 30GB of Data From Frooti Maker Parle Agro CyberSecurityNews",
+      "publishedAt": "2026-11-02T08:30:13.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Northflank Security Breach Leads to Unauthorized AI API Key Usage, Customers Urged to Rotate Secrets - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lbHdzUFY1dFVtR2JDZ2x2cFVvbGlEcUpVdnFKSmR5M3dodjJvZVcxT1h3Sy1iS2dwOFpTQmFHR0pBYjVmdlF1ek9ETWtPX2RDbDdNQnpVZE5EUFpkTTc4ZGtja1FRaTNn0gFuQVVfeXFMT2VBcUl4NDNnTm9rN1hkVnJoTF9aSzlEVjN2cnpvSnF5UV9GazV3bVpNbG05SGI1QjFGbUNoNTBMVWFJekFwMlhHNTRGa0pMQnlxYUo5V3NacXVWdGRkRkJtNmhWVF9uUkR6RTJObXc?oc=5",
+      "snippet": "Northflank Security Breach Leads to Unauthorized AI API Key Usage, Customers Urged to Rotate Secrets CyberSecurityNews",
+      "publishedAt": "2026-11-02T12:48:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "TIMELINE - AI at center of October cyberattack wave targeting tech giants, developer platforms - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTVjYk02SDR1LXNfM2tvUnRnZHV4MmRldTQ5ekhxUUdrY0JSYk1fdXhUUHpKT1dlNmhXZGRZQTQybkl3NnZLdzd0QmItOW41T05uOFFoN1B4cG8zZ1ZOeHItNHoxczMtTkt1QkluUjF1VjB3YVJodW9kaTFBNU5WU01oOU1qSm1UZmQ5ZXhoaFVILTBORmtYd09Nc2dhVzJvNnJ0dHNpdk5HdkZ4N3RTSkVUYmtKRF9aVXU5VHpyQ25RZENBZ09fQzNR?oc=5",
+      "snippet": "TIMELINE - AI at center of October cyberattack wave targeting tech giants, developer platforms Anadolu Ajansı",
+      "publishedAt": "2026-11-02T12:33:37.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "5 Cybersecurity Companies Helping Asian Businesses Stay Ahead of AI-Powered Cyber Threats - Newspatrolling.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWh4SmNJN0ptUnBCM2xMWG5VdlBSQTJJX3lnenBXRGFXT0NndUdMNnBNemVRYkY2dHByejJOTDE1eGo3dUd1SlJzTVJ1RVBWQzJsOXVHYmFqQUY0cEhLLVBpNV9jYlNzWjl2ZFloSE93MWhKTGlFREZxU2kzRmZwT2JCYXNLYnpyeVhiTmtnU0tmc3Vic0EwVlp6b2dmc2xZRW9uT1hhVk1JZWFTa2ZmR3EyUmtnSFpJ?oc=5",
+      "snippet": "5 Cybersecurity Companies Helping Asian Businesses Stay Ahead of AI-Powered Cyber Threats Newspatrolling.com",
+      "publishedAt": "2026-11-02T07:00:53.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-Driven Cyberattacks: How Agentic AI Is Reshaping the Threat Landscape - BusinessToday Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY180Qy1qcWhsZDNyYnUyY0ZmOTRlcDdSYnFCTFotWmdubVVMWTlDMVM1QUk3YmNqYzhCb21VY1l2U0twNjZaaFZZUDk3X1pjQms3enBtVUZJQTZTSnZyTmhhaVliYnVrWHlEdE12YUlzZ01yZlV3c1lkZEJ2R2FZSVM4N0VoVjA5dFlFUXozMGlWamsyQ3QzSDMxbFFDNmpXd3Z0X1VkMXV1T3p0VTZ1dVBYazdxR2M?oc=5",
+      "snippet": "AI-Driven Cyberattacks: How Agentic AI Is Reshaping the Threat Landscape BusinessToday Malaysia",
+      "publishedAt": "2026-11-02T06:40:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Nigeria’s Digital Infrastructure Exposed As Cyberattacks Hit 4,361 Weekly - LEADERSHIP Newspapers",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkZSSzgyT0d5ZWpld0EtdC0yTk44eEZXLUFrb0NCY0ZVUnBneXZURHNvWTJYb1JicTVjSFRoMzJWQVRONDNQMHVSSktKRFkyU0ZyQzlDNmhGdVlKalFmcXJjcTBvVVlRZVlYR21OSWxvS0tFWHRZZjNZLVQyTHBxXzdQYXFvR2V0WGNkbzhBRVJ4UUdtb3QyUFBR?oc=5",
