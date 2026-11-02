@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T22:14:33.941Z",
+  "generatedAt": "2026-11-02T06:33:21.856Z",
   "snapshot": true,
   "date": "2026-11-02",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-02 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,21 +72,21 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 30
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 31
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 49
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 75
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Chalo Dilli Rally Fact Check: Fake newspaper cuttings, old videos of Congress and AI images flooded internet - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcVQtWGt0Rk9CRVU2RXZXU1AwUHNSMkFkUzBOQl9JTkk4bVcxcjQyQXRwM3MxblYxNnNjbEpnNW1yVGFvaU9GemNselF5bnlYYldyNTJXWlJiVnhNdXBYaEJCMFd6MXZ1M3lWdF9CUmMtbnVwY2plZjBHS0U4OWVWYzNSMjRKTnd5bjN2QlQtSkF3WFMxdk5HSXpiMEplekdwTWlhQ0JNMEszNmJDcEc5VHNJQklxbHh6eUJ4WjNvcXlxQTI4WUxCcnB4dURaRlpUMnZ5eHo1eUpQbzEwa1ZmQjRSTnYxUUhqNFHSAe8BQVVfeXFMTTFCdko1SUhGdmw0TDV4Ul9LM2ItVXkzdXJOaEpCOVVpZGxVbFhKMk9iYUZaSlBTUkdXRWdGN3psWHd6clh2Y3dRVnhHMGdTaEV5Y1dfc2VoTWJ1RzFUSEpsVmVZNTFmNTJMZV9LMkEzeXNEeXVxX09jeUtyY3VWalloWl9xdzhETVFjUVN6ZHFFd2ROLWFKNm5LdjYydjVMci10c3M3eUh3RDBJWUZ1ajU4STRjblFNSERMbmJwbnNPYkp2dFBuc3RzMWFXUDVqcEJnSkRuVy05TWdWS2gzMVZDSjlISmU2TW5tUzk0M2c?oc=5",
+      "snippet": "Chalo Dilli Rally Fact Check: Fake newspaper cuttings, old videos of Congress and AI images flooded internet Organiser",
+      "publishedAt": "2026-11-02T03:03:33.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

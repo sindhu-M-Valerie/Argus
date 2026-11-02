@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T22:19:14.710Z",
+  "generatedAt": "2026-11-02T06:38:00.458Z",
   "windowDays": 7,
   "endDate": "2026-11-02",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 117,
+      "totalArticles": 118,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -48,
-      "reason": "Last 3 days averaged 11.0/day vs 21.0/day before.",
+      "changePercent": -46,
+      "reason": "Last 3 days averaged 11.3/day vs 21.0/day before.",
       "daily": [
         {
           "date": "2026-10-27",
@@ -40,7 +40,7 @@
         },
         {
           "date": "2026-11-02",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -59,6 +59,14 @@
           "publishedAt": "2026-10-27T09:51:25.000Z",
           "riskScore": 63,
           "corroboratedBy": 2
+        },
+        {
+          "title": "Chalo Dilli Rally Fact Check: Fake newspaper cuttings, old videos of Congress and AI images flooded internet - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcVQtWGt0Rk9CRVU2RXZXU1AwUHNSMkFkUzBOQl9JTkk4bVcxcjQyQXRwM3MxblYxNnNjbEpnNW1yVGFvaU9GemNselF5bnlYYldyNTJXWlJiVnhNdXBYaEJCMFd6MXZ1M3lWdF9CUmMtbnVwY2plZjBHS0U4OWVWYzNSMjRKTnd5bjN2QlQtSkF3WFMxdk5HSXpiMEplekdwTWlhQ0JNMEszNmJDcEc5VHNJQklxbHh6eUJ4WjNvcXlxQTI4WUxCcnB4dURaRlpUMnZ5eHo1eUpQbzEwa1ZmQjRSTnYxUUhqNFHSAe8BQVVfeXFMTTFCdko1SUhGdmw0TDV4Ul9LM2ItVXkzdXJOaEpCOVVpZGxVbFhKMk9iYUZaSlBTUkdXRWdGN3psWHd6clh2Y3dRVnhHMGdTaEV5Y1dfc2VoTWJ1RzFUSEpsVmVZNTFmNTJMZV9LMkEzeXNEeXVxX09jeUtyY3VWalloWl9xdzhETVFjUVN6ZHFFd2ROLWFKNm5LdjYydjVMci10c3M3eUh3RDBJWUZ1ajU4STRjblFNSERMbmJwbnNPYkp2dFBuc3RzMWFXUDVqcEJnSkRuVy05TWdWS2gzMVZDSjlISmU2TW5tUzk0M2c?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-02T03:03:33.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
         },
         {
           "title": "Fact Check: Fake newspaper clipping, old video, other false posts about 'Chalo Dilli' rally - India Today",
@@ -99,26 +107,18 @@
           "publishedAt": "2026-10-29T08:36:45.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Fact check: Parody account’s viral post falsely claims singer R Kelly has passed away, Grok debunks rumor | Hindustan Times - Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcjRvOE9RZVZBamQtQ1lFSTQtZUV4TGxnY0JoY2hEMHFYbHQwdU5DR1J3OHhsV2pLb0JhNFdvWlNtYUJTSThHaUpOUXpESkZEMnRVMGFRNlJOX3pxVlduUTdDajdfcEtlbHUxSXBONXhwU3dZS1JlQ0VpRjZPLVhjSENNdjZhVlVJc3pOVXBYU1ZNTXVPNUtTWjZ6YVVfeGpXbzhWLXFpSVhRRkhYM0E2aGlBVE5JOU9ueUF3aFRSbDJGT1N0V1AwYWozcTVQb1lfTk5ucmx6Tm1NN1RkandGRGxaSU1OLXI3T25YOUVSQkpvTTR0YXUtUUJ3bl9WTEh20gGAAkFVX3lxTFByNG84T1FlVkFqZC1DWUVJNC1lRXhMbGdjQmhjaEQwcVhsdDB1TkNHUnc4eGxXaktvQmE0V29aU21hQlNJOEdpSk5RekRKRkQydFUwYVE2Uk5fenFWV25RN0NqN19wS2VsdTFJcE41eHBTd1lLUmVDRWlGNk8tWGNIQ012NmFWVUlzek5VcFhTVk1NdU81S1NaNnphVV94aldvOFYtcWlJWFFGSFgzQTZoaUFUTkk5T255QXdoVFJsMkZPU3RXUDBhajNxNVBvWV9OTm5ybHpObU03VGRqd0ZEbFpJTU4tcjdPblg5RVJCSm9NNHRhdS1RQnduX1ZMSHY?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-29T03:28:35.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 108,
+      "totalArticles": 111,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -58,
-      "reason": "Last 3 days averaged 8.7/day vs 20.5/day before.",
+      "changePercent": -53,
+      "reason": "Last 3 days averaged 9.7/day vs 20.5/day before.",
       "daily": [
         {
           "date": "2026-10-27",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-11-01",
-          "count": 14
+          "count": 15
         },
         {
           "date": "2026-11-02",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -191,6 +191,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Crypto scams cause highest fraud losses, ACSC says - Bangkok Post",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb21NcVRMMWN2MG4zYmVFQUJPX2lISTB6dTdUOVhfbjczZmgxZ2ZVUUdwbmxjREM3cVdVam9La3JqdmdGSzNBNDFNVlpOR0Vmd2E3bE8wZllZYTJUcldBWGtwNzBNN00wOG9oQkI3MldKNHhNNVBMQWlKcEVSQm1UU3NadndTVHdyY1pDYWhoN2NzOTg3NWNhbjZ2RVJMdGc1YkFYUA?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-01T21:42:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Scammers posing as police drain $7000 from civil servant - Fiji Sun",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlVS2N5bS1BMG1nNHNFZGZYd3ZHMDJUcHZDQ3p5c3dGTmV3NHoycXQyNzdSUDVUcTdDLXowYThQYmpqeUZsWXdMNTVZOG9QWjJzSnVycVhLTDQ1UWlzSVJ2V2k3Qkl1WXdzWVdTOUc3WmJ4Q3I4dzhtYnhXUXpVNF9lWDRvam11eVhyYThOU2pGcmQw?oc=5",
           "source": "Google News • Fraud and Impersonation",
@@ -205,26 +213,18 @@
           "publishedAt": "2026-11-01T02:00:00.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Police calls will soon come from a new 6000-0999 number to fight impersonation scams - The Straits Times",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYTdwRE1DSlozWlQwemNwMFl6RE9jbjJiS3ZibjdXZ2JFLS1WZFpJZ2NYLVBNVDlUWmpUS1F3bnNBS2lyeXFlNjdVbVVRTnppU3ZzREcyS3prMEFXQmxqZy05SE12bmdvTjRwRkVjVXZZdTR6bGRHMG11WTZxRTJGOWtHWjc2VklJelUwWWE3dXNRNy1uUHlvd1dSUEdScGhqdDdyV0ZzVFhYZkxmdU1SYlNJdnZDV2F0SXZHTlRrQWdJVmpVV2NYWQ?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-01T02:00:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 102,
+      "totalArticles": 103,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -59,
-      "reason": "Last 3 days averaged 8.0/day vs 19.5/day before.",
+      "changePercent": -57,
+      "reason": "Last 3 days averaged 8.3/day vs 19.5/day before.",
       "daily": [
         {
           "date": "2026-10-27",
@@ -248,7 +248,7 @@
         },
         {
           "date": "2026-11-01",
-          "count": 6
+          "count": 7
         },
         {
           "date": "2026-11-02",
@@ -749,12 +749,12 @@
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 11,
+      "totalArticles": 12,
       "distinctSources": 7,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -50,
-      "reason": "Last 3 days averaged 1.0/day vs 2.0/day before.",
+      "changePercent": -33,
+      "reason": "Last 3 days averaged 1.3/day vs 2.0/day before.",
       "daily": [
         {
           "date": "2026-10-27",
@@ -782,10 +782,18 @@
         },
         {
           "date": "2026-11-02",
-          "count": 1
+          "count": 2
         }
       ],
       "topArticles": [
+        {
+          "title": "India Today Crew Attacked in Pulivendula; TDP and YSRCP Clash Over Poll Violence - India Today - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdEphV2xUaFprYklmU19RYUJwQUNBWWY1bTB6ekJaTUJxMGZmeDFtMnVhTzRwTVcxTzFGS2VCcElpX0Q1UXFSbmsySUxybFdXVG8yZGZBRmR3UWhEd2N4T0lTdmdqaEVTdGlXOWdESkNsTEdKczF0eTRFZFBRbmN2dkhzVV9Qd3B2NFdPX1hMVkNlUXBTNUdsMDBNaXZid1VQUnN5RjdmdnUtbFlCOWx6YjhrMFVDRS01X1N4UjNRcUN6YkxFZndsN3FvX1dULXdOZFEzbkl3NDTSAd4BQVVfeXFMT19NY2VZZnp4THhYX0JwaFFVMlBjMWJVSGV1VHo5NVZieVBwYXQ0TTNqZUVIMkN1MVRwWU1WUjBpN0k0am9YZ2NnazkxdWpyN3JQd2o1NVFnVDQxU1J0X0pBQXF4dDBteDhZbE1XZVJSdl9GdFlrRXB6Q2lJV2g0RHQwdTVHeG5qcFZlenBqOEFBVW1OOXNYNzJ4UzBkaDVObW9QSWI0eTlTVnNieWI0UVRXV280c2FPU1RlcW5YbGVLWWVEbG9tcmNaSnJxU2hIbFBvb0VQWGUxTzdWSDZn?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-02T03:28:08.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
         {
           "title": "BJP Rebuts INDIA Bloc Ramlila Rally, Cites 1984 Anti-Sikh Riots And Defeats In States - India Today - India Today",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWW9oOFd1MTNwakVXX2otUmVGdk1MczFPUkxXUG02SGV5MzBWaXdIN3d1cEQxYU5mZUY1SHB6QnhLZzRDQ3ZnMlJITnBjUGk0RlRwcy1WMGZObHVoVzAyMGpBUk5fbFM0VmRIUXZQVzhqc21zb0R2WlBydnhseDFWRUJoMVZzeE1renRGYkZPaGdiaDFhckl1RlFHa0ljMDVURWdzc2twbExhWWZmV0hndUFJbVBWbmdYLXY1dW9tYTEzZzdMc1otb2Z2RFhWUmt6THRSZDlDcGU3VUpvVTk40gHkAUFVX3lxTE5ZbnlIYjVDRGhnMVVHY0libVp3eXNNYlBpLWxzcUYtRFUwZDVGelQtMkMtTWRBUkhldDBrXzFwRE5DY0h3RGJLUkFLMnRaVGNOT3d6RU9KSGpYYnFBal9EaldCMlpXN0I4Z1lSMy1rUFE3aWF4cXVDMkxVcUM4eXgwZGpPVlVucDBmZDB3TUdHOTI5d3R4NU1CSklrUWxubk5LTDYwOEFjMHpUS1dVYjQ0WlRDVHdpOGI3cHNZR0hOMzA3LXBNNzZORW1ESnFoTTV0UkJnOXdIRzFyLU4zMEU5dTZWNA?oc=5",
@@ -839,14 +847,6 @@
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWlVyVTBRY2R2aXVvWDh4YlJoNDBLRVdHdTVxaHlicW12eG5YR3ZtdE56eXFKODRySWtoaEprTzgwNzNRR3JpcUt2UHRsX2lWOVV4RUQwbl9vYkhZT0N2bEh1Y2x2UWc1Ym0yMDRiOGpqR1NiMmdRMEo3d1kybXlRU1dvQ0lWcGJEZWxTUks5V0RSUWZjLXhGMGVQc0pRRGV6REotTWpReWlYWGc3VWZFekNCc3EzR2pqemZDLU9OdjZnaW53QmNOczhQWTZNT09RbjVFcTV1NkpWUG1McGszaFZYLUt0OW5fSWNFa0ktX3k?oc=5",
           "source": "Google News • Online Hate (India)",
           "publishedAt": "2026-10-28T22:21:32.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Online identities linked to violent attacks revealed - https://aapnews.aap.com.au/",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkNoT0xHNlp1QVVQYnVWUGVldnMxN2lyNHdLaHJHc1dvYk1QVUwwR1hnb2xkTTNhNWxTV0MtNWZ6TlpmUXJpc01iUG5tVGdDSkRVbXJFNmpuVUs0eFJ5aldNdnoxWnBsdnZpMUVIdW5kZGFyZ29vWHMwMW5rQUJhZGNFV0d4S2JabTJ5LQ?oc=5",
-          "source": "Google News • Dangerous Criminal Organizations",
-          "publishedAt": "2026-10-28T21:00:20.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
