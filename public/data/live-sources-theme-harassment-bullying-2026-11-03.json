@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:50:30.448Z",
+  "generatedAt": "2026-11-03T07:04:04.285Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-03 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 84
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "The Silent Predator In Our Homes: How Cyberbullying Arms Online Groomers To Target India’s Children, And The Urgent Legal Offensive To Stop It. - TRIPURA STAR NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMks2dEk1ZzY1YS02OWJRcG15LVV1VHFnSWFaOThYa1ZKUGxZaGdRbm1WdlJGbW9sMThTX0dBYjZlT1NqQTlIVDFTS3c0bkNnbjk1Si1Gem5aa2dsWXFtb1NHNnRkS1ZINjNMaDd2YkViMmNmbVJ6MEtQRm9tMW93Z0Z3OUlBOHEwaDYxMnV6ZDVrdHlybkVPZzcwMHJqMVk5ZUNiazlucVV6Mkx3N2wtbnh6eFUweHJ0V2wzZkcwTkFXcE5aaHdob2tBTmZDbG1yV1FzUmRESW1KVkdRNFctNjNFS0RrYUZZdGw2ZlNOOFRzMllJaTZ5ZGF4YnZNbHY3V3c?oc=5",
+      "snippet": "The Silent Predator In Our Homes: How Cyberbullying Arms Online Groomers To Target India’s Children, And The Urgent Legal Offensive To Stop It. TRIPURA STAR NEWS",
+      "publishedAt": "2026-11-03T01:34:06.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

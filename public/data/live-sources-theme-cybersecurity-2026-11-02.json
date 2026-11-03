@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:50:30.448Z",
+  "generatedAt": "2026-11-03T07:04:04.285Z",
   "snapshot": true,
   "date": "2026-11-02",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 9
+    "total": 10
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 84
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -296,6 +296,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity in Singapore: Preparing Businesses for AI-Driven Threats - Content Media Solution",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFdnbFpJME90aXEycENqYWFpNkpydXozOE5XQTVpWU5Ob3l1MFZTeElHcHJjNm9NcVp1RWZsRU11RGpaNzZ3TVZBaXRaZWRZZVlmNThSUU95MUhFSWVFb3ZqRUNwS2hpeGJGSXd1NXZ5UWdSMjRIZE9TOS1GbmVGa2hFbXgxRjUyMTZ2RWdLRnNudkhTY0M0Zk04NTUtUVc0czZfRWhzMUlpc2xhTGhqeEJ30gGyAUFVX3lxTE5QV2dsWkkwT3RpcTJwQ2phYWk2SnJ1ejM4TldBNWlZTk5veXUwVlN4SUdwcmM2b01xWnVFZmxFTXVEalo3NndNVkFpdFplZFllWWY1OFJRT3kxSEVJZUVvdmpFQ3BLaGl4YkZJd3U1dnlRZ1IyNEhkT1M5LUZuZUZraEVteDFGNTIxNnZFZ0tGc252SFNjQzRmTTg1NS1RVzRzNl9FaHMxSWlzbGFMaGp4Qnc?oc=5",
+      "snippet": "Cybersecurity in Singapore: Preparing Businesses for AI-Driven Threats Content Media Solution",
+      "publishedAt": "2026-11-02T06:32:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:50:30.448Z",
+  "generatedAt": "2026-11-03T07:04:04.285Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-03 on child-abuse-nudity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 84
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Why Keeping the STOP CSAM Act in Defense Bill Matters - Movieguide",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHFlRVhuS2ZNcDZ6aGgzWFVSd2ZiR1QzNG1RTEt4dF9iVU1udzVaZWdyRWlkMHgzVkY2VXpFQUlvVjFBc0ZoT1FEYzJ4SnpSeGkzck5vQl9VeHlHbkVfR003dVJId0ZmQ3pLc3VSRHM0Z0l0YmJpM0VIUVJwWE5kSjNZUlJGUFdCbWVfbFdEWHM4c3FhdVBvRmpOTVBkaUc3M3doTnozNA?oc=5",
+      "snippet": "Why Keeping the STOP CSAM Act in Defense Bill Matters Movieguide",
+      "publishedAt": "2026-11-03T03:56:15.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ABC13 Investigates: AI-generated child sexual abuse images pose growing threat to children - WSET",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkpWUzRuVGZPN0lUU2hlSVNJQmhYNDRQcW45M3lDU2JBcHJzc2pPbHJXVzVMcGhPVTVGNG8wX2hJN3oxdTcyMERyc1JCQXVpbW11RHZON2lvMW9Gd2U3MHB2VXRoc2l5RzhSbTQzRVc4bVVxdmJDZ0lMZU15bkx5OENDdmR4d280VXBLc2dHVUxicDRDX3ZPMmpiZDZHVzZZdzUxVlVWN0JvUFlNMEVCSnF0X0dsUHdHTXkxSkh5ZldveTRKN2M0ZkI4aw?oc=5",
+      "snippet": "ABC13 Investigates: AI-generated child sexual abuse images pose growing threat to children WSET",
+      "publishedAt": "2026-11-02T23:31:35.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

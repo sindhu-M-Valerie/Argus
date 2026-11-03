@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:50:30.448Z",
+  "generatedAt": "2026-11-03T07:04:04.285Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-03 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 84
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "RBI new Rs 10, Rs 20, Rs 50 notes shortage ahead of Diwali? PIB Fact Check debunks viral claim - Zee Business",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHdpNHpoVHZ4NHpmOExKWlMzaFF5dzZXdDl3bm91WlJaamtaR2pvTF9oMWZ3OVFQLUlVU2luN1QyRE9JajhPdGNqWGtEZXlBY2RibDNwOE9GaVp4dF9jdjdmWC1CTkk5SGFxeW5fbzJzNzA2OU8wdUFvd1VXb21zYW9uVGlWYmNjWUVYeG1qdGk5YVY3ZFFwZzBPOWpRWUtaS0J2TmRielYxNlFyc3ZQMkdtS0RYWHR5bEpIU2NYRkRLNGM3djlIZGg3UzZRaTJY?oc=5",
+      "snippet": "RBI new Rs 10, Rs 20, Rs 50 notes shortage ahead of Diwali? PIB Fact Check debunks viral claim Zee Business",
+      "publishedAt": "2026-11-03T05:29:23.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rahul Gandhi a ‘kaamchor’, spreading misinformation: Sudhanshu Trivedi - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQm8yeWtyTEI1VVdpcjBSdTcyMlBpcFhQd1dTY2xBcTE2Z1RQLVBrRUFTcG5MQ1BnNElIZHhhdFZpUFNxN3FNbVRZWndkRVhTQzI0R25ieTlOMDd5SlZkaVpYT1hOMEk3UzFqWEtIYnZPd3UzTURsY1BOVDRHcFQ3S3d2elhYU3FnQVltLWJObkNFazNUbHBhWl91UW4xY2pzLTJyWWJfRDRZTjNNTlYwbnhwUHlfem5CMnhMV1psSFBpY1HSAdABQVVfeXFMT3lYaTNWNVB4aHYwZS1XbmZVTTl6enJwWXJEOEdLVXFqZWpYLW1jUW5LOTNrVmFSVmI2M3JNTjFOYmQ0d3A1VTBXRklPOWhVeTk5N0lVYWlzZ2NoaC1Na0VzT0NOQmo1WmJoRmpTNXJuZHdyTTdHUFA2REVES1k4VnhfRVl6b2pFWUhCcFZPS1ZoZVVTd3RlZlRGSU4xS3VnY3pwelllODJoQUpnaWVINUxPa2FGX25JaXp1bGl4ZW9iOG1qMHVhRTk5MC1OYWcxdw?oc=5",
+      "snippet": "Rahul Gandhi a ‘kaamchor’, spreading misinformation: Sudhanshu Trivedi The New Indian Express",
+      "publishedAt": "2026-11-03T04:24:49.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Misinformation, hesitancy & lack of awareness’: Troubling reality of HPV vaccination drive in Punjab - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQy04QmJHcFBIaXMwWWVSYXFsT29kSUZkUWZ4U081QmNRMmlaQ1V5Q0tNMmY0NHN5ZjRXZlNHcjdVSXBRbEJyaExqNG1fby1zTmItSE43MzYzU2RQSmVXeXpiWWRIS1pGRXY5ZjZVSGE1NWRhbkRmYnVBOVJvWkR5a2tmaHhqN2xsQ2JWOU1GM3N0QjlCazllYjFwX0tuY3Zfd0pndlEtX1RKdTRpWDRnV1p0M1pLT2FjMlUyTW9OTnNkWWN1Nzd2TnQ2TFhNM2VkMXZzd010NXRBa1hw0gHgAUFVX3lxTE13b2c3UlFEaWFNTlFoZkpVNGZIS05qWEpCaXFCTHZvaC1XZWZIbkg0cXIzaUJkSHRlSnVhdGxlTW8wdGZteXRnanpsRDFIdnZBYUNnRmE0bDVjR1ZzNERZZnBTbzdPbFBrQ1VzSWdOOV94OVhrLVBiUzBRdVo4eF9WdjJOdTVjdDRjMFNHbEtrUmpGTm91bDZyMUtGTE5ITUhKakszdmJJU2JBUUM1Sy1CbjhNN1VOLVZmdDd3RjdKYlg5VHQzVFd5dk13VmZsT0NjQlUyeFlpMHozS29CWnlB?oc=5",
+      "snippet": "‘Misinformation, hesitancy & lack of awareness’: Troubling reality of HPV vaccination drive in Punjab The Tribune",
+      "publishedAt": "2026-11-02T22:15:03.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

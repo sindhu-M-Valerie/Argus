@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:50:30.448Z",
+  "generatedAt": "2026-11-03T07:04:04.285Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 5
   },
-  "message": "No verified news was found for 2026-11-03 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 84
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,81 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "ACAMB advises bank customers against phishing scams - Punch Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUkV2LTN2VnUwR2tndVhCc3o2c0R0bTU1cXRPVkpHR2dHV3lsNWVEcjJjNG5XR0FUM1JHeldRLVhIeW5aLXpKMkpwY2RsLW1zSDI2LUEyUWVjdlotMGNrdkRSZElFX0FNT2FsQVZZRkthWjdyc0JxcGgxc0E?oc=5",
+      "snippet": "ACAMB advises bank customers against phishing scams Punch Newspapers",
+      "publishedAt": "2026-11-03T00:21:38.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Paju City Launches Service to Prevent Public Official Impersonation Scams... \"City Hall Employee Verification Service\" - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WMWZkZW9ZNWlMZlpzSFc2QmJvTjBFVC1FQTY3dy1uVl9vNXJHVDZEZ2QzZWc0N2RvSElaV3MwMEhNVXZkSG4yUi1EVkVBeGkyZ0pUQWw3a2V3OTZUUjlDYVZqUmQ?oc=5",
+      "snippet": "Paju City Launches Service to Prevent Public Official Impersonation Scams... \"City Hall Employee Verification Service\" 아시아경제",
+      "publishedAt": "2026-11-02T23:23:49.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "mFilterIt Uncovers 2.4 Lakh Festive Fraud Cases - Passionate In Marketing",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVlhd2FYTWd5ZURvajRLWkFPbmc1OFR2VTBDXzVsNHJNWlJURXZ1ZGh2MG5KdEMzc0V0RmVEZUhCekhlbnRUdnkwN3NuQmdEa3hkZEFmc1N2aTB0WFE3R0E3MzJ1Qm1Zak5DZHZ4bzRYU0E2SG9qcGhOZWNwTkxuckg4MDRmYlRybS1WMWJ6VGtsWGpVS05rdGpvVktDWU5NZ1Jkc1F2cEpJT0pSSlpYWDFheVpPTkFnMmVDNGMzOTVRY2JiRFVTa213?oc=5",
+      "snippet": "mFilterIt Uncovers 2.4 Lakh Festive Fraud Cases Passionate In Marketing",
+      "publishedAt": "2026-11-03T06:58:42.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Festive season shopping: How to spot online scams and keep your money safe - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORnVNU0p3c1ItY2JIWEJ1LVQtVWFhaDFsdHZCWU5QTkJUeGlCVVlqZ25YdEo2WjNSQUJ0RjJPaDc2Y3BITzh2R2hic0xhMFJDNlZTVVB4eWhweFZ3dmNCdjB4SmwxTDBNalJHbExyTm5fLW41TXo3WkVmLWxFSGpuQVQyeVM5WTRTbElMZHFKbFliRjdqMUsxZFhhQkJGWXRkYlBMTGk5S2QzcjJ5SlhOaEtDUHY4Z1JBOWN0QkZsTVcySHhv0gHKAUFVX3lxTFBWV29DeExPNEhFWEpZd2syVUVVSU1MOHFwdVNnSEx3cEtsQ080ak04YmxwMXA2b1JURDd0NjNHOUI2VGZ3cEh0cTFJclhHMkYta2g3UDZubmJ6XzN3ZUs0RUZQXzJPMHEzWkxXTEVkdm9VTGZKTXRjYmo3M2lENW1HVlFoX2QyUW43TXJvamNLSEphMzNoVGRyLVJOdVBKY19YMVdOZW9xdzdMaEFuZXA2WnV2Q2FBN2ZpMUpoZkJMaUNXdllCLUxpNVE?oc=5",
+      "snippet": "Festive season shopping: How to spot online scams and keep your money safe CNBC TV18",
+      "publishedAt": "2026-11-03T05:36:39.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Working collaboratively to fight scams in Asia Pacific - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2N1aVAtckF4WEMyRkg1bTFSREZsSHBPNHJZajlUUWhDMUdZb0tRWm9RSVlmeTZqRHFhOTU3b1R2Qjg1bDM4eFRfZXd3bDdZVUxTRzZwY1prUER3Yzh5Q2R6TEk1cEI2anpvblktQ2xIdHdlUVU0WUdneGhCZ3J1eHY0M3I0bUZxaHplLXFQdGZwZUp1M2FudWFNd2g1QVVxQ2JB?oc=5",
+      "snippet": "Working collaboratively to fight scams in Asia Pacific blog.google",
+      "publishedAt": "2026-11-03T04:37:21.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

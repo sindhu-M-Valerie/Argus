@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:50:30.448Z",
+  "generatedAt": "2026-11-03T07:04:04.285Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 16
   },
-  "message": "No verified news was found for 2026-11-03 on the selected topic.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 28
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 34
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 84
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 50
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,246 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "RBI new Rs 10, Rs 20, Rs 50 notes shortage ahead of Diwali? PIB Fact Check debunks viral claim - Zee Business",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHdpNHpoVHZ4NHpmOExKWlMzaFF5dzZXdDl3bm91WlJaamtaR2pvTF9oMWZ3OVFQLUlVU2luN1QyRE9JajhPdGNqWGtEZXlBY2RibDNwOE9GaVp4dF9jdjdmWC1CTkk5SGFxeW5fbzJzNzA2OU8wdUFvd1VXb21zYW9uVGlWYmNjWUVYeG1qdGk5YVY3ZFFwZzBPOWpRWUtaS0J2TmRielYxNlFyc3ZQMkdtS0RYWHR5bEpIU2NYRkRLNGM3djlIZGg3UzZRaTJY?oc=5",
+      "snippet": "RBI new Rs 10, Rs 20, Rs 50 notes shortage ahead of Diwali? PIB Fact Check debunks viral claim Zee Business",
+      "publishedAt": "2026-11-03T05:29:23.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Election runner-up defends online post criticized for potentially inciting violence against council - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejhsN0J2WHdwVDByUjlrcWdWeXF5SUdzclVsdllCTUpRRjJwdUo1eGdZcEdKSnlsS3dVVWlhMF94cjdrVjByQkNaY2lTOXhpNVBudjJKbU9UekJBX2R4X0ZxR1cwVEpwRy05VzVrODRHQ19iNXVtOWhCRGNIbjY0TXBlRzlNMUprSXpCc0VVZ2Jyd3ZuVWg0ZElCQmFPendpejBmUFk1TTljYU5jdnV4WHFWV1U0R05ZVnpPRXBSS2tIS3JRazByMDU2ZkEwcHVsMkt4Rl9VMWFZcWtuV2c?oc=5",
+      "snippet": "Election runner-up defends online post criticized for potentially inciting violence against council CTV News",
+      "publishedAt": "2026-11-03T02:05:00.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Why Keeping the STOP CSAM Act in Defense Bill Matters - Movieguide",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHFlRVhuS2ZNcDZ6aGgzWFVSd2ZiR1QzNG1RTEt4dF9iVU1udzVaZWdyRWlkMHgzVkY2VXpFQUlvVjFBc0ZoT1FEYzJ4SnpSeGkzck5vQl9VeHlHbkVfR003dVJId0ZmQ3pLc3VSRHM0Z0l0YmJpM0VIUVJwWE5kSjNZUlJGUFdCbWVfbFdEWHM4c3FhdVBvRmpOTVBkaUc3M3doTnozNA?oc=5",
+      "snippet": "Why Keeping the STOP CSAM Act in Defense Bill Matters Movieguide",
+      "publishedAt": "2026-11-03T03:56:15.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ACAMB advises bank customers against phishing scams - Punch Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUkV2LTN2VnUwR2tndVhCc3o2c0R0bTU1cXRPVkpHR2dHV3lsNWVEcjJjNG5XR0FUM1JHeldRLVhIeW5aLXpKMkpwY2RsLW1zSDI2LUEyUWVjdlotMGNrdkRSZElFX0FNT2FsQVZZRkthWjdyc0JxcGgxc0E?oc=5",
+      "snippet": "ACAMB advises bank customers against phishing scams Punch Newspapers",
+      "publishedAt": "2026-11-03T00:21:38.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ABC13 Investigates: AI-generated child sexual abuse images pose growing threat to children - WSET",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkpWUzRuVGZPN0lUU2hlSVNJQmhYNDRQcW45M3lDU2JBcHJzc2pPbHJXVzVMcGhPVTVGNG8wX2hJN3oxdTcyMERyc1JCQXVpbW11RHZON2lvMW9Gd2U3MHB2VXRoc2l5RzhSbTQzRVc4bVVxdmJDZ0lMZU15bkx5OENDdmR4d280VXBLc2dHVUxicDRDX3ZPMmpiZDZHVzZZdzUxVlVWN0JvUFlNMEVCSnF0X0dsUHdHTXkxSkh5ZldveTRKN2M0ZkI4aw?oc=5",
+      "snippet": "ABC13 Investigates: AI-generated child sexual abuse images pose growing threat to children WSET",
+      "publishedAt": "2026-11-02T23:31:35.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Paju City Launches Service to Prevent Public Official Impersonation Scams... \"City Hall Employee Verification Service\" - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WMWZkZW9ZNWlMZlpzSFc2QmJvTjBFVC1FQTY3dy1uVl9vNXJHVDZEZ2QzZWc0N2RvSElaV3MwMEhNVXZkSG4yUi1EVkVBeGkyZ0pUQWw3a2V3OTZUUjlDYVZqUmQ?oc=5",
+      "snippet": "Paju City Launches Service to Prevent Public Official Impersonation Scams... \"City Hall Employee Verification Service\" 아시아경제",
+      "publishedAt": "2026-11-02T23:23:49.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hundreds of Kent children at risk from grooming gangs and radicalisation, says new Kent County Council report - Kent Online",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTGotZWNMQlk5Wk5fZzBmeXhYRm40TUI4U01tOFZkSzhISTdOSGRXSk5zTGZyT1VQODRxRWg1cFF4TGtaMzlMTjBOSXRxYWQ1bWEzNHl3T2hYUEtpd2lmdXkxMzRSdUF3VkQ0NlFGQ3NLVXp5WF93bExGLTZnMDNXYXg0bVJZS2FTY2ZCajFXWXBVUWF2bTBlSVk4SEFPb0pqWmFDVnd3RlFFM1IzRXBCcUdR?oc=5",
+      "snippet": "Hundreds of Kent children at risk from grooming gangs and radicalisation, says new Kent County Council report Kent Online",
+      "publishedAt": "2026-11-03T05:00:00.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "dangerous-organizations",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rahul Gandhi a ‘kaamchor’, spreading misinformation: Sudhanshu Trivedi - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQm8yeWtyTEI1VVdpcjBSdTcyMlBpcFhQd1dTY2xBcTE2Z1RQLVBrRUFTcG5MQ1BnNElIZHhhdFZpUFNxN3FNbVRZWndkRVhTQzI0R25ieTlOMDd5SlZkaVpYT1hOMEk3UzFqWEtIYnZPd3UzTURsY1BOVDRHcFQ3S3d2elhYU3FnQVltLWJObkNFazNUbHBhWl91UW4xY2pzLTJyWWJfRDRZTjNNTlYwbnhwUHlfem5CMnhMV1psSFBpY1HSAdABQVVfeXFMT3lYaTNWNVB4aHYwZS1XbmZVTTl6enJwWXJEOEdLVXFqZWpYLW1jUW5LOTNrVmFSVmI2M3JNTjFOYmQ0d3A1VTBXRklPOWhVeTk5N0lVYWlzZ2NoaC1Na0VzT0NOQmo1WmJoRmpTNXJuZHdyTTdHUFA2REVES1k4VnhfRVl6b2pFWUhCcFZPS1ZoZVVTd3RlZlRGSU4xS3VnY3pwelllODJoQUpnaWVINUxPa2FGX25JaXp1bGl4ZW9iOG1qMHVhRTk5MC1OYWcxdw?oc=5",
+      "snippet": "Rahul Gandhi a ‘kaamchor’, spreading misinformation: Sudhanshu Trivedi The New Indian Express",
+      "publishedAt": "2026-11-03T04:24:49.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Silent Predator In Our Homes: How Cyberbullying Arms Online Groomers To Target India’s Children, And The Urgent Legal Offensive To Stop It. - TRIPURA STAR NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMks2dEk1ZzY1YS02OWJRcG15LVV1VHFnSWFaOThYa1ZKUGxZaGdRbm1WdlJGbW9sMThTX0dBYjZlT1NqQTlIVDFTS3c0bkNnbjk1Si1Gem5aa2dsWXFtb1NHNnRkS1ZINjNMaDd2YkViMmNmbVJ6MEtQRm9tMW93Z0Z3OUlBOHEwaDYxMnV6ZDVrdHlybkVPZzcwMHJqMVk5ZUNiazlucVV6Mkx3N2wtbnh6eFUweHJ0V2wzZkcwTkFXcE5aaHdob2tBTmZDbG1yV1FzUmRESW1KVkdRNFctNjNFS0RrYUZZdGw2ZlNOOFRzMllJaTZ5ZGF4YnZNbHY3V3c?oc=5",
+      "snippet": "The Silent Predator In Our Homes: How Cyberbullying Arms Online Groomers To Target India’s Children, And The Urgent Legal Offensive To Stop It. TRIPURA STAR NEWS",
+      "publishedAt": "2026-11-03T01:34:06.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India offers Asean counterterrorism lessons, but will one size fit all? - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc2k5R1lVNm9mOHZMRW1jUmJJZ09lNDVPVWp6MVAwMDRIeFlPNlFWSGZNVGVtNGM4LVRMQ195U0ZPc2h6QmhDdmFMSDFHREVkQVY2T0lhV0wwRFRMcEZGV3lDVVhoZ0ZQZE1LdEJaeEFYM184RFdQSG9WWkgxNzhKNlJlOVhzR0NoOEh3QXRieGNjd0JrYTBnWXBvR0V4bVo2cWZWMEpqNmFuY093WXZBYXpIdWgwMVptekVnVnZ2QmRaeXVzYlpIY09keEt0RknSAc8BQVVfeXFMT0ZUSzJFTjZRSGJsRDc0UEFuY0Z2SFRnRnEyODRBZ0JfbU1ZWlhuYm1kVS1CZTJpOXRNOWRQT3BfcDZzSXllVXdEdjhUck9UMVI1RjNrbGhyS2pqczVHYnFBSUVtRnFnYTQ1UEVCT0RKaHNlUks5X3RmUUpqTWNWZUlfdUN4SGZWNTRkVHFkSTJFZXRQN1RwUnk4WGk4TGRUQ2NZQXRoZ3psR1d3WUpfM2docEhHUzRMYkVnbWZjb2N0M0Z5TmR0ODZYTWRCUldN?oc=5",
+      "snippet": "India offers Asean counterterrorism lessons, but will one size fit all? South China Morning Post",
+      "publishedAt": "2026-11-03T00:21:43.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Misinformation, hesitancy & lack of awareness’: Troubling reality of HPV vaccination drive in Punjab - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQy04QmJHcFBIaXMwWWVSYXFsT29kSUZkUWZ4U081QmNRMmlaQ1V5Q0tNMmY0NHN5ZjRXZlNHcjdVSXBRbEJyaExqNG1fby1zTmItSE43MzYzU2RQSmVXeXpiWWRIS1pGRXY5ZjZVSGE1NWRhbkRmYnVBOVJvWkR5a2tmaHhqN2xsQ2JWOU1GM3N0QjlCazllYjFwX0tuY3Zfd0pndlEtX1RKdTRpWDRnV1p0M1pLT2FjMlUyTW9OTnNkWWN1Nzd2TnQ2TFhNM2VkMXZzd010NXRBa1hw0gHgAUFVX3lxTE13b2c3UlFEaWFNTlFoZkpVNGZIS05qWEpCaXFCTHZvaC1XZWZIbkg0cXIzaUJkSHRlSnVhdGxlTW8wdGZteXRnanpsRDFIdnZBYUNnRmE0bDVjR1ZzNERZZnBTbzdPbFBrQ1VzSWdOOV94OVhrLVBiUzBRdVo4eF9WdjJOdTVjdDRjMFNHbEtrUmpGTm91bDZyMUtGTE5ITUhKakszdmJJU2JBUUM1Sy1CbjhNN1VOLVZmdDd3RjdKYlg5VHQzVFd5dk13VmZsT0NjQlUyeFlpMHozS29CWnlB?oc=5",
+      "snippet": "‘Misinformation, hesitancy & lack of awareness’: Troubling reality of HPV vaccination drive in Punjab The Tribune",
+      "publishedAt": "2026-11-02T22:15:03.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "mFilterIt Uncovers 2.4 Lakh Festive Fraud Cases - Passionate In Marketing",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVlhd2FYTWd5ZURvajRLWkFPbmc1OFR2VTBDXzVsNHJNWlJURXZ1ZGh2MG5KdEMzc0V0RmVEZUhCekhlbnRUdnkwN3NuQmdEa3hkZEFmc1N2aTB0WFE3R0E3MzJ1Qm1Zak5DZHZ4bzRYU0E2SG9qcGhOZWNwTkxuckg4MDRmYlRybS1WMWJ6VGtsWGpVS05rdGpvVktDWU5NZ1Jkc1F2cEpJT0pSSlpYWDFheVpPTkFnMmVDNGMzOTVRY2JiRFVTa213?oc=5",
+      "snippet": "mFilterIt Uncovers 2.4 Lakh Festive Fraud Cases Passionate In Marketing",
+      "publishedAt": "2026-11-03T06:58:42.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Festive season shopping: How to spot online scams and keep your money safe - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORnVNU0p3c1ItY2JIWEJ1LVQtVWFhaDFsdHZCWU5QTkJUeGlCVVlqZ25YdEo2WjNSQUJ0RjJPaDc2Y3BITzh2R2hic0xhMFJDNlZTVVB4eWhweFZ3dmNCdjB4SmwxTDBNalJHbExyTm5fLW41TXo3WkVmLWxFSGpuQVQyeVM5WTRTbElMZHFKbFliRjdqMUsxZFhhQkJGWXRkYlBMTGk5S2QzcjJ5SlhOaEtDUHY4Z1JBOWN0QkZsTVcySHhv0gHKAUFVX3lxTFBWV29DeExPNEhFWEpZd2syVUVVSU1MOHFwdVNnSEx3cEtsQ080ak04YmxwMXA2b1JURDd0NjNHOUI2VGZ3cEh0cTFJclhHMkYta2g3UDZubmJ6XzN3ZUs0RUZQXzJPMHEzWkxXTEVkdm9VTGZKTXRjYmo3M2lENW1HVlFoX2QyUW43TXJvamNLSEphMzNoVGRyLVJOdVBKY19YMVdOZW9xdzdMaEFuZXA2WnV2Q2FBN2ZpMUpoZkJMaUNXdllCLUxpNVE?oc=5",
+      "snippet": "Festive season shopping: How to spot online scams and keep your money safe CNBC TV18",
+      "publishedAt": "2026-11-03T05:36:39.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Working collaboratively to fight scams in Asia Pacific - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2N1aVAtckF4WEMyRkg1bTFSREZsSHBPNHJZajlUUWhDMUdZb0tRWm9RSVlmeTZqRHFhOTU3b1R2Qjg1bDM4eFRfZXd3bDdZVUxTRzZwY1prUER3Yzh5Q2R6TEk1cEI2anpvblktQ2xIdHdlUVU0WUdneGhCZ3J1eHY0M3I0bUZxaHplLXFQdGZwZUp1M2FudWFNd2g1QVVxQ2JB?oc=5",
+      "snippet": "Working collaboratively to fight scams in Asia Pacific blog.google",
+      "publishedAt": "2026-11-03T04:37:21.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity now everyone's responsibility – SIIMT Rector advises at maiden CGIC - Business & Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXRWbDl3dGxMQkxNdDNscUpva0liS3k5NHNROGp1THpzWjFEZURGdEJIVVFTeDUxMVdzTEFSMEFINHRiODYzeGtyRC1FNXItUnU5eWg5UW9KTEZfNEJGbW9lTnVZMWZDT2ItZVlsV0x6UTNMLUNzc3NacG5jVTFOaVNQNVNYMXE0MzBNc0ZjbmRiY3RkOFNWaG1McnYxMHlFY2xoS09vTmZ5alIzVlVLbDVR?oc=5",
+      "snippet": "Cybersecurity now everyone's responsibility – SIIMT Rector advises at maiden CGIC Business & Financial Times",
+      "publishedAt": "2026-11-03T04:29:33.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform - The Record from Recorded Future News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UOEwxYldKekxybzEwVHRMNXJHdkk4c0hNemd3NGV6NWlxOTZYMWNsY1pPUFhDWXUtLUlreVN0LXRaQlhOaVhUNlV4b0I0NkNFelhISkhtTDJpeG1wc010Z2tIRUxTSHF1OURFbm1pQ1JzWWRaV0E?oc=5",
+      "snippet": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform The Record from Recorded Future News",
+      "publishedAt": "2026-11-02T21:54:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
