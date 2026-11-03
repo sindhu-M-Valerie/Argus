@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:04:04.285Z",
+  "generatedAt": "2026-11-03T19:41:04.962Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 26
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 58
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 73
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 84
+      "itemCount": 27
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 78
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,36 @@
       "feedTheme": "violence",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Election runner-up defends online post criticized for potentially inciting violence against council - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFgzLTNRbmhrcmRLNTJIYzBuQXNja0RoaUs2VXRKOUtTSTQ1NHR0LXk5N3paWS1obFk3c0djT040OFBPbWlZV1BPV3JaZ1dUeFNZQnJJUmVPLVY2WlRVaEJuNlNaMVl3UENIQ3BjTnRkOVJWaXVmU3RNYVc3NnJFYXBqNWlZOUZyNDVQMnlMbGZfVjJ2REFZRk1FSldvTHlrVTBPWnY4VndqVFJHZV9qckJ3SHkxY2NubGFsZjUzZnNlREV3QjFpNmV1ZDdnWWdqRlRJWA?oc=5",
+      "snippet": "Election runner-up defends online post criticized for potentially inciting violence against council CTV News",
+      "publishedAt": "2026-11-03T02:05:00.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violence",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "KNBS survey: 26% of Kenyan women experience technology-facilitated gender-based violence - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlhLbTN4cHJVUURreldIM3pxWXpua0RocUpicU4tSDkxdlpUdlBQa3FIeGJBSmUtekRKbnBETTBSQjV3TTJsZ1ZpbUk1WHphczUtdmlTeUVFUHNDdWgwZlA0LXpjc2lWSVVqbVpUMlJFOXZSQnhtX1pQdzREMWhyVjNaZ05SM1RHandPOTR5bzBkbi0tWnpWWVhvNGxkZy1yTDFOTkRncV8zWlk2MnZ6Ym9lbWMyd1ZDOHJV?oc=5",
+      "snippet": "KNBS survey: 26% of Kenyan women experience technology-facilitated gender-based violence People Daily",
+      "publishedAt": "2026-11-03T14:07:47.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

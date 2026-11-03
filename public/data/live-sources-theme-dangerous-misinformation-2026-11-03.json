@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:04:04.285Z",
+  "generatedAt": "2026-11-03T19:41:04.962Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 21
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 26
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 58
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 73
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 84
+      "itemCount": 27
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 78
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,51 @@
   ],
   "data": [
     {
+      "title": "Deepfakes Of Jaishankar, Lavrov Fuel False Claims Of India-Russia Rift | BOOM - BOOM Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXJYcXhqb0xaWEY2NTJmZ0ttWndoRGZ1UDN6WWxVZDZaa0pfYzZqb2FPejBmLVdHRko2LTlDSmYxTmtpZHBDaDZUeUh0eldwZTQ0VFBXNEdIRnBXZHBaSU9wX0Qtal9KNVNzYnZnS1prczNPQ3lSY0x3U3g0WnhGY0tpMWNqcEJRdjhEaGloWVdEQkdVeDA0TWV1ekpzOHZRSXRhR0VsRlhKeksxWUZkZ2dlWUzSAbQBQVVfeXFMTVVyWHF4am9MWlhGNjUyZmdLbVp3aERmdVAzellsVWQ2WmtKX2M2am9hT3owZi1XR0ZKNi05Q0pmMU5raWRwQ2g2VHlIdHpXcGU0NFRQVzRHSEZwV2RwWklPcF9ELWpfSjVTc2J2Z0taa3MzT0N5UmNMd1N4NFp4RmNLaTFjanBCUXY4RGhpaFlXREJHVXgwNE1ldXpKczh2UUl0YUdFbEZYSnpLMVlGZGdnZVlM?oc=5",
+      "snippet": "Deepfakes Of Jaishankar, Lavrov Fuel False Claims Of India-Russia Rift | BOOM BOOM Fact Check",
+      "publishedAt": "2026-11-03T10:33:13.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 68,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "MEA Fact-Checks Deepfake Clip Shared by Prashant Bhushan on Russian Foreign Minister - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOemNOR3c5cm9CVl85OGhUT2NNMlE2MGhHWmplbHFLV1dUbVVBRERZS0h3UG5Db3Buc3lUVjFzbFFrcEVMWFZYTERnWHJMWEo3b2xFREJ0UFNORDBSbjI4WHAyNmJMLTNkekl5U2ZMOE9GVThsckhrSmNmNVQzMW9MY2w1ODc2eGl0SHNqbzhTRldocjFQa3dNMWtXdzk1anhVb3Axb2Zad21uX0tudE9BaExkcFNnWk1Ja2x4WVBhZGthU2h5YnBRMzlMQ3VRdWFueTJIT1BZekVMRDRURENN0gHkAUFVX3lxTE54eENWS2JFSzZBWHJjc3J5SU5nVFhDVlMtVmNtU2RqRm8wSGpNVVoxSi1OQ2tvM0VseTM4TExLYk5yQUtuMHdhNko5bHBKY3V1RTcyYWo3THp5N3k0MjFKcGRzZ2tBWEE5N05mcTRyemxXd2RGMS1qME5pVFNESVJlLUowTGtCbHY3eFlvUjdBeWZCSldITDRDN3FzRElzVW12cWpmYUVPSzVfVDdpWERoRlM5Yk1nRktybzVuNm9nSEFBdkdBTHNpQzRraGozMFVhM2VsMTJab3ZMUkxwMXcxcGZrUA?oc=5",
+      "snippet": "MEA Fact-Checks Deepfake Clip Shared by Prashant Bhushan on Russian Foreign Minister - India Today India Today",
+      "publishedAt": "2026-11-03T11:47:59.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 67,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "MEA Fact-Checks Deepfake Clip Shared by Prashant Bhushan on Russian Foreign Minister - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHhDVktiRUs2QVhyY3NyeUlOZ1RYQ1ZTLVZjbVNkakZvMEhqTVVaMUotTkNrbzNFbHkzOExMS2JOckFLbjB3YTZKOWxwSmN1dUU3MmFqN0x6eTd5NDIxSnBkc2drQVhBOTdOZnE0cnpsV3dkRjEtajBOaVRTRElSZS1KMExrQmx2N3hZb1I3QXlmQkpXSEw0Qzdxc0RJc1VtdnFqZmFFT0s1X1Q3aVhEaEZTOWJNZ0ZLcm81bjZvZ0hBQXZHQUxzaUM0a2hqMzBVYTNlbDEyWm92TFJMcDF3MXBma1DSAeQBQVVfeXFMTnh4Q1ZLYkVLNkFYcmNzcnlJTmdUWENWUy1WY21TZGpGbzBIak1VWjFKLU5Da28zRWx5MzhMTEtiTnJBS24wd2E2SjlscEpjdXVFNzJhajdMenk3eTQyMUpwZHNna0FYQTk3TmZxNHJ6bFd3ZEYxLWowTmlUU0RJUmUtSjBMa0Jsdjd4WW9SN0F5ZkJKV0hMNEM3cXNESXNVbXZxamZhRU9LNV9UN2lYRGhGUzliTWdGS3JvNW42b2dIQUF2R0FMc2lDNGtoajMwVWEzZWwxMlpvdkxSTHAxdzFwZmtQ?oc=5",
+      "snippet": "MEA Fact-Checks Deepfake Clip Shared by Prashant Bhushan on Russian Foreign Minister - India Today India Today",
+      "publishedAt": "2026-11-03T11:47:59.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 63,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
       "title": "RBI new Rs 10, Rs 20, Rs 50 notes shortage ahead of Diwali? PIB Fact Check debunks viral claim - Zee Business",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHdpNHpoVHZ4NHpmOExKWlMzaFF5dzZXdDl3bm91WlJaamtaR2pvTF9oMWZ3OVFQLUlVU2luN1QyRE9JajhPdGNqWGtEZXlBY2RibDNwOE9GaVp4dF9jdjdmWC1CTkk5SGFxeW5fbzJzNzA2OU8wdUFvd1VXb21zYW9uVGlWYmNjWUVYeG1qdGk5YVY3ZFFwZzBPOWpRWUtaS0J2TmRielYxNlFyc3ZQMkdtS0RYWHR5bEpIU2NYRkRLNGM3djlIZGg3UzZRaTJY?oc=5",
       "snippet": "RBI new Rs 10, Rs 20, Rs 50 notes shortage ahead of Diwali? PIB Fact Check debunks viral claim Zee Business",
@@ -193,6 +238,231 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "MEA fact-checks Prashant Bhushan after he shares fake video of Russia's Sergey Lavrov criticising India - OpIndia",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTU50d1NNRHVhby1mR1VRd3I1MlhLYnVjaEt5RzJuSFNzNDVMZjJoazBzNDFYMkpPWmE1aHFyVmhXamhrTnFDVVloTzZSWUJuOWRjcWFpTlo5LUNJbXlXVXdpRkxUZ2R2c2loUVMwdndKanhTQUQtdVR4X3ZiQllvSTFsbEdPcmtFMWtqSU5KOGtsMGRvVV9CRWNKaUJkNUZfOWs5QXZPX01tYWgyVGl1TE55aWh5eV9iR2F0c1dRUS1FYmhHQi10OFpaSnpKdDZqRlZlemZOdw?oc=5",
+      "snippet": "MEA fact-checks Prashant Bhushan after he shares fake video of Russia's Sergey Lavrov criticising India OpIndia",
+      "publishedAt": "2026-11-03T15:22:25.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: AI-Generated Image And Varanasi Air Show Photos Falsely Linked To Delhi's 'Vote Bachao, Desh Bachao' Rally - Vishvas News Fact Check Hindi",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM3BEa0dON2FWOU50OHRtZ3AzZEFpN2JNNHB1ZlNRajF4ZWVEVzZNcWwxYVgyRURjdm0wd2lMUWo1TnRQWWsyaVZHU1ZidFFTNWQ5SGpjTFZnck14M3RKUlFIZk9jcUJVSEd5Y3AwTzhkNndxMTFTX2RYb3pJYnZoSmYzVjlnR2k0NTdDQldyTk5kaEhCbTNNcUZfVmVyekhodHhON0tlYTdaWDBwQlRKeFIzUjNBbG9zbXZETjI3RUJEeDFiRlNyVTBlSndSRmJEYTlvSVRIWkhOSGh3SUxOZ0hDRnA0WU9lc3NlZFAzRlc?oc=5",
+      "snippet": "Fact Check: AI-Generated Image And Varanasi Air Show Photos Falsely Linked To Delhi's 'Vote Bachao, Desh Bachao' Rally Vishvas News Fact Check Hindi",
+      "publishedAt": "2026-11-03T12:36:21.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "#FactCheck: AI-Generated Image Falsely Shared as Photo of INDIA Bloc Rally at Delhi’s Ramlila Maidan - CyberPeace Foundation",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3hQMDQwWnY0R0o5VXBBOERjV3VJRi0wWWVhWWhNcVJVNGp5Z0hubXFlY0ZYR3VidzZ6RkJZZXlnamJXQlVockxMbEhJODh1QWswWVJjdm1pSDcxa0FHbnllRDdvVTJ2NmtrZWlxTHotM1NIeHFzRkNaeTRnTFpYTC1xOXQ1TFR3OTJXU3J6Z2ZIYjhEMVpXR3pGS295UmJDbXpob1ZCTS0xdnk4bU4zZXdpNlQtcHRETnlHdC1RN0FZcWpzV3FNbXBXRkhOcGNpMXc?oc=5",
+      "snippet": "#FactCheck: AI-Generated Image Falsely Shared as Photo of INDIA Bloc Rally at Delhi’s Ramlila Maidan CyberPeace Foundation",
+      "publishedAt": "2026-11-03T12:13:58.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Bangladesh Videos Passed Off As Protesters Attacking Delhi Police - Telugu Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdU5fZG9MVU5ad21oTk5nbzl0aDNXSWprQW9BR0ZheTdmUlNZRlBOZnJ2UUlGMjBvWE5ULXljYkFfZXo4RTVjMXdUWVIwTXkyME1YNC1FS0R1ZGdZTjVGOXBRb3NKSDlEZ25SZVBpSU5QY0k3N1g1MG0xcHJQOEd1aDdDVTE4MUd1Mi1JWnR1Nk5UNUI3TEk4MlYyVDNEUFJHaUdhaG5kVWh1SmdtZ0pORtIBtgFBVV95cUxNbnBnRXF4ZU9USVN0TFFKSmhCQkVBRUsxV1Z6bXo1VEp3aGUzSnRnM1lZRnJPS2VudDI3cXZtb3BYREJVaHVMTXgybHNSNjNYYXNneFppU0NESW9VaXh6OHhYajY1SnVicTdTRTBueDhhZlJOLURXX21jVmtFRko2bkFjd0QtWnZadUY0dWppMFBSaWNXZS01eHlsdHVyUERoc3ZqMUNOYllUMFRNampBRXZINjhFQQ?oc=5",
+      "snippet": "Fact Check: Bangladesh Videos Passed Off As Protesters Attacking Delhi Police Telugu Post",
+      "publishedAt": "2026-11-03T10:50:14.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "RBI Fact-Checks Fake Claims: But What If There Is A Shortage Of ₹10, ₹20 And ₹50 Notes In India? List Of Things That Could Happen - Jagran Josh",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUWo2cjVIMjFwVjNJa1NwbzVKMDJjQ19ZYVp2UXVCNFJIemR0SmtZYVU1UVA4RnRiLVlQY1pnQmJ4V1ZzLWR1MHdFZ0V6cFhFTjhlMk9hWTh1dV9JTFY0YTdlTlNHQmxJazFtM1JFOFE3QTlaRlpBTE1xQ0xlbFVHYkRTX3NEMEtIN3RSRnkzRDJoVmVOWVA0RGJtbkpyWTZVbUFmTTNMd29JMVhYa3RDNkp4ZjljWkdXd3VBNXc3RXBjSTBoYlNERGJqTVBmcmNMMDgxNlhYTG1WWlA4MWxwSVZKT0JEeHR6YjFkb1g4T2QxMjRMdzVPbXZmXzdFMUpQUVlyWkhIdzZ0VV9GZF84YnR5VFozUQ?oc=5",
+      "snippet": "RBI Fact-Checks Fake Claims: But What If There Is A Shortage Of ₹10, ₹20 And ₹50 Notes In India? List Of Things That Could Happen Jagran Josh",
+      "publishedAt": "2026-11-03T09:50:48.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Did S Jaishankar Say Russian Minister Mocked Him Over India-China Conflict? No, Viral Video Is Altered - Newschecker",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdy1oMjVza3h6N0VpSXVvWDdpSlF3dzNlaEc2elFZSnF3d3dTbzNkVDZnb3dNNllhZHZaV1RTUC1vc0U4SlF3MHRiZHE2V0t2RUMyQk96VDBDZHlpSF9aWUtfVC02OWdFYmlyTV9rOEFTYktXWFNPcTVBV3lMVzZSMXVOb3V0TVVyWlVKRC14ckRqU3otMkQ4S2JxaWJWX0NWSmhxamNsbFFmR2cwQ2FPTU10M1AwT0xhZW5GTFBsTDZkWVBYMXEyYkp1TXk0Yms?oc=5",
+      "snippet": "Did S Jaishankar Say Russian Minister Mocked Him Over India-China Conflict? No, Viral Video Is Altered Newschecker",
+      "publishedAt": "2026-11-03T09:37:50.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Did S Jaishankar Say Russian Minister Mocked Him Over India-China Conflict? No, Viral Video Is Altered - Newschecker",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGZSbnhuZ2xiWXJocS1xbGx2LWtLZEdSVHlCdFRJTDJfNVJidEJILWxxdWhaQ250NHBZZnNhZ3BaZGxobUNoTVRtSnR5WTdGOENMU0JHSlNCSHZHMEw4eUZaTWwzeExqV1p2SHhnNmY0S0RFOXB5akRTMEdzOVdCQnFWX2pvZ2hQa0xMekFPZkd5RUdyX1ZVZmExUmZnYnBncGx5ZXhTREJCWjh6NU9MR0JMZ2s2RmpYdW5kc0xQLW1sQmY0WGhfemxCR2tsTlhlR2JMWHEta2UwdXlRelE?oc=5",
+      "snippet": "Did S Jaishankar Say Russian Minister Mocked Him Over India-China Conflict? No, Viral Video Is Altered Newschecker",
+      "publishedAt": "2026-11-03T09:37:50.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Viral WhatsApp claim about shortage of Rs 10, Rs 20 and Rs 50 notes ahead of Deepawali is fake - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRFcwYVFEd1NYdVZGcDRhcXg0aUdVQ1ViTW51c2huZGc0OXhCdlJmU050b1pvV3RZQzF2Wkl4bHdrMl9ZLUI1Z2xQUExBZE5mVXF2R3J2OENvdXQyY3lxdXM4Q245VXBTc0VxQURkaUdLS24zRG0xcmxJV1ZGNTF5Mmw4S1B2QVUtQnRBOGNweUYzUUhlcXdBUkRydVZGT015MXNwa0lZN1NRVENKR3MtUXJGcndzX1JPWnpIaUpFY2h3S0tCOUhkMnJhd1A5bjBwVXJWOU44eThhM2paM2Z2c3R6bUZ3TVnSAewBQVVfeXFMT0otVTZPVzNIcXBCNXZTWUdqN0toYnAta1I1cmtDdDJkLXZ0c19lZDd0ZVRaMHFlOUZzc05STGJXLXBIcFNMWEZCMDhtYkRXcFhDY183R2dQTGJ6OTVaY3pzUXFrQXNfb3p4NHZDZmlDdWstV25maFJtakc1UFZMc19XVDFhMkdfZWI2S1BVVUhXSEhMdFRvbWlyaVQ5LXJSNzFFQnFWS1A2RldkY2k1VlZuMk5meUcwNXdNdEQ1dW5vV056S3RHenUwMEg1ZHQxVUZ4U3d5SHJLZ25hX2daZUpaT0t4YWJCR2JBeFU?oc=5",
+      "snippet": "Fact Check: Viral WhatsApp claim about shortage of Rs 10, Rs 20 and Rs 50 notes ahead of Deepawali is fake Organiser",
+      "publishedAt": "2026-11-03T09:14:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact-Check: Did Rajnath Singh Criticise the Army Over Conflict With China? No! - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0JrY01wdGNCNDExZkIwbjVKV0N2MC1hdDA4dmtWNVFGZ3R3WVRpRjN6RXNGdWRMempQTHRFRk5HUllPRWFhM1dYQkNqMHNWSDhHNkNrQTBWNlRUbkk0SnJkUWlfdmt5OS1oUjVSaFZCaXNjNFFTU1puTWw0TXJaa0d4clZGc1RXNUpzSUxGb3A3SEZuTl81QldkWTZJeFBJbDh4NndfMVBnaHI4R0NTcHZMMnp5YTc5ZHA4RGpB0gHLAUFVX3lxTE5ZNFlLNkwxSlRCQkc5eDc1Y0Y1ZGFpZEFqMG1kTHJXVklWMldoZFhIU1lwV05ReXUyRlRQVzJtX1ZYZWRYMmtWWXlpQmthNmJJNXVpUGtmejNLQV9iSm9rYm52VmhJcjN0MXF6czcwem1IbGE5UDRzUUV6Rnh4c3Z0RDk1bHFhUnBZd29zNEpqNExmYlI4THdwMkpUVS1lX1BTTmc3UnpSejB4cEc2TDgtV2VTZ2lnQVFXRUdONkQyb3N6MVZudVRpN3RV?oc=5",
+      "snippet": "Fact-Check: Did Rajnath Singh Criticise the Army Over Conflict With China? No! The Quint",
+      "publishedAt": "2026-11-03T09:13:43.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact-Check: Did Rajnath Singh Criticise the Army Over Conflict With China? No! - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWTRZSzZMMUpUQkJHOXg3NWNGNWRhaWRBajBtZExyV1ZJVjJXaGRYSFNZcFdOUXl1MkZUUFcybV9WWGVkWDJrVll5aUJrYTZiSTV1aVBrZnozS0FfYkpva2JudlZoSXIzdDFxenM3MHptSGxhOVA0c1FFekZ4eHN2dEQ5NWxxYVJwWXdvczRKajRMZmJSOEx3cDJKVFUtZV9QU05nN1J6UnoweHBHNkw4LVdlU2dpZ0FRV0VHTjZEMm9zejFWbnVUaTd0VdIBywFBVV95cUxOWTRZSzZMMUpUQkJHOXg3NWNGNWRhaWRBajBtZExyV1ZJVjJXaGRYSFNZcFdOUXl1MkZUUFcybV9WWGVkWDJrVll5aUJrYTZiSTV1aVBrZnozS0FfYkpva2JudlZoSXIzdDFxenM3MHptSGxhOVA0c1FFekZ4eHN2dEQ5NWxxYVJwWXdvczRKajRMZmJSOEx3cDJKVFUtZV9QU05nN1J6UnoweHBHNkw4LVdlU2dpZ0FRV0VHTjZEMm9zejFWbnVUaTd0VQ?oc=5",
+      "snippet": "Fact-Check: Did Rajnath Singh Criticise the Army Over Conflict With China? No! The Quint",
+      "publishedAt": "2026-11-03T09:13:43.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New ₹1,000 Note With Temple Image? Fact Check Exposes Viral Claim - PUNE PULSE",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMU1PSXEtbXNYSzBoTTlyZUp6RHVPUnhuQzM2VGhwQ0d3U1VpNmZXOV9qMGgxNV9lNU9Ic2Nwd1EzbDlyUEVGR0lNWm1XREhqWWRZRFRLX3N3Y3c2YkoyajZ2Y0l0QzV4bE1FWkt1TjUwRmc0dWI4NnZ1LTBuV2YyV2NMMWZXZXk1WnpSNC04c3g5LUJZOUFBSzNPZGsxOV93RXc?oc=5",
+      "snippet": "New ₹1,000 Note With Temple Image? Fact Check Exposes Viral Claim PUNE PULSE",
+      "publishedAt": "2026-11-03T07:26:03.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pakistani handlers suspected behind deepfakes attempting to spoil India-Russia dynamics ahead of SCO meet - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORjdLTnhJUExKTS1NejZQMzhBYWljNG9JWDNQSFJwUW1SUTJ1eVk0djdMZHVIUlZqUTl2RWoyRWFOQUM0QV9hYmNpMEJLa1pxM3FQcVZlUVdtQ2pfa3dDSVlmbjVHRDBsZ1BidzBMWWQwZ2lOUmVBQUtUbGlpZENtR0daTGR0emE4VUJtbDA0Q3dMTXJnVnNtRHJEeUZHNkl1N1Jmb1ZpY3JXWDVneExlcXdBdDZ4TUhWc0hVWFZyRUkxTlhfWUlNTzZzNVVEYkFwNkRQcnN6UkVhOFRwOEhfTzdRQWxfakwyUDRJbGtjMGhFRWh1eXZTbTdqci0tY0ZNeVBZZi01d2JWNWdzME1XVWV4MTNuU0tQ0gGeAkFVX3lxTFBxTHFJR3JjQmVqbE5ud1FRMTNORzR1OWlDSGRsT2JMNno2OFdiMWZWNHVqRmZpVi1DRy1scFBuSlNlWjRCRkVfaXJITmluMzM1V25jSEZNWWFyNlE4aWctaXRJb2sxX3NuYi1LUVZUWW4xNXdMa21HeXdKOVFRR1dwNG5NaWhIaTY2SzBjRXcyVUFRMHdkMFo4QmpoM3E4bnVod0pzUGtxS1NfbTZVOFFsYmFTMHlRcTY2NXBGeE5naXZSODRtUk42NERJaEd3TkhfblEtSjZiWWNhU01kRU9RSjNPbGVvTlBoSG1UQ3duVnYwejVlWUNCZVEzNGVhR2NKU1RDRFBOOV9iYkRYbm9MWHBEQ2p6MHZBVmtjUmc?oc=5",
+      "snippet": "Pakistani handlers suspected behind deepfakes attempting to spoil India-Russia dynamics ahead of SCO meet The Economic Times",
+      "publishedAt": "2026-11-03T13:55:26.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "People will give befitting reply to Congress’ SIR ‘misinformation’ campaign: Jitendra Singh - The Hawk",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXVINjZaQXRVQVpIQVNfb2pjQWJRckNaTGZwcEpDS0Jjc3pvel9QZ1pDcmhVY1BwZlJ4dFdsSWtJaV9Zc3REX2lFaEIyRDR5blZoN1Z2SmIwWW4xWjhBRlE0UkZmMmQzS1AwMUJxN0RVbGFQejd5NGFiLTQySnk1aThxS1JseHNYWmlxQXNOVlgwUjdLTVQwek5SYW5VY0dXRjlwV3YwMFduUnlZNUY4NFRrdUZoZnM4UjR3SDJ3?oc=5",
+      "snippet": "People will give befitting reply to Congress’ SIR ‘misinformation’ campaign: Jitendra Singh The Hawk",
+      "publishedAt": "2026-11-03T11:54:55.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Amit Shah led foot march to expose Congress ‘misinformation’, says BJP Telangana chief - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQemUtZlJxNWt5Mzg4YTN4TVFIeWxNRXIteHl0dzJtX3BtWjdjVm5DQXViby1zRmxDbGhoWjdac2RrekNKZEpncG4xT1pZN3N0cXdua3NaR0tyR2x3TnZVNVBHUFFHXzlVb290ZGdZalRoRERCX2JrQ195NTF4Y3ZtUWVLTUlwTTVYcVJuOC1oWm90X1Q1RXl1ZUZubnhfZERPYlQzNkF1bUJ6Mjd0TVFjMHpzZm90aUVjRTA3N3V6cFlrUkZXMlBBYnpIdjBlYzVGdjJGbW5OcHNTcHN1SGhWaE1JdEswR1IySXdwYmlB0gHuAUFVX3lxTFB6ZS1mUnE1a3kzODhhM3hNUUh5bE1Fci14eXR3Mm1fcG1aN2NWbkNBdWJvLXNGbENsaGhaN1pzZGt6Q0pkSmdwbjFPWlk3c3Rxd25rc1pHS3JHbHdOdlU1UEdQUUdfOVVvb3RkZ1lqVGhEREJfYmtDX3k1MXhjdm1RZUtNSXBNNVhxUm44LWhab3RfVDVFeXVlRm5ueF9kRE9iVDM2QXVtQnoyN3RNUWMwenNmb3RpRWNFMDc3dXpwWWtSRlcyUEFiekh2MGVjNUZ2MkZtbk5wc1Nwc3VIaFZoTUl0SzBHUjJJd3BiaUE?oc=5",
+      "snippet": "Amit Shah led foot march to expose Congress ‘misinformation’, says BJP Telangana chief The Hindu",
+      "publishedAt": "2026-11-03T09:32:52.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Amit Shah-led foot march aimed to expose Congress ‘misinformation’, says BJP Telangana chief - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWFZsZU4wRk4zZUJHRUxjUFM3MUYwemNiMEZjMWlzR24yS0hjZW92NzFRelI0ZVoxRE1fZzNjdlVoTzR3ZzBsa1BkeHlDSmk2Uy1VNUk4YXJlanRWemRlcjE3N05jMndMTGdyYzNUMW92NXU3V0tpNXZXSkJzNmFnZUFXMzJ5ZmdMS25WTjRjRkpLem8wcE9wUTlmcFhFUzU0MmoxdlpIX2QyMVZNTkxuVFlvN216aEJRMFMtaG54NXRYOEZ4SDZWWU5zT0Nrb1JzSTdnVUlaY0lqcXE3T2x1UzltSkdOZWvSAe4BQVVfeXFMUHplLWZScTVreTM4OGEzeE1RSHlsTUVyLXh5dHcybV9wbVo3Y1ZuQ0F1Ym8tc0ZsQ2xoaFo3WnNka3pDSmRKZ3BuMU9aWTdzdHF3bmtzWkdLckdsd052VTVQR1BRR185VW9vdGRnWWpUaEREQl9ia0NfeTUxeGN2bVFlS01JcE01WHFSbjgtaFpvdF9UNUV5dWVGbm54X2RET2JUMzZBdW1CejI3dE1RYzB6c2ZvdGlFY0UwNzd1enBZa1JGVzJQQWJ6SHYwZWM1RnYyRm1uTnBzU3BzdUhoVmhNSXRLMEdSMkl3cGJpQQ?oc=5",
+      "snippet": "Amit Shah-led foot march aimed to expose Congress ‘misinformation’, says BJP Telangana chief The Hindu",
+      "publishedAt": "2026-11-03T09:32:52.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

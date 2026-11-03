@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:04:04.285Z",
+  "generatedAt": "2026-11-03T19:41:04.962Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 5
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 26
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 58
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 73
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 84
+      "itemCount": 27
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 78
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,66 @@
     }
   ],
   "data": [
+    {
+      "title": "School Attacks and Nihilistic Violent Extremism (NVE) - International Centre for Counter-Terrorism - ICCT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTFIMExLcG9ua1FfN0V1LUpYSWdzTzhYMFJZV3NQdms2bnZoX2syeW16YkRDdVBkbXVZWGJjM1huaFczR2Y5dXZCcEV5WWNrUlcwd01EYzJoZ0Uxa09YMUwzd1A3cmJ5XzJGZ0Zhdnd6WW5HVUtmejRNblBmZGo4Sg?oc=5",
+      "snippet": "School Attacks and Nihilistic Violent Extremism (NVE) International Centre for Counter-Terrorism - ICCT",
+      "publishedAt": "2026-11-03T15:55:06.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nigeria Records 2,512 Terrorism Convictions, Targets Financiers and Collaborators - Freedom Online",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXZZLUdUTm9QYXpiWFNWS3pwVHg2aUdld3ltRks0QXZORDNQcVFkS3h2Ukl5bWVlV3dQb1N1Q2lTNjF0MlRCeVBTS3RkNC11SkpPV1pFcklrY2xwY09Hc1VJZXBMT0laYk5LdXNTUnEtMmd6cUkzRUFIS2RMZ01mSnVYeklPblRvZnY1NW8zbWxNcDBYYVJxWEt6MFNHVXlFeS11S1dualVGdzQ4NVE?oc=5",
+      "snippet": "Nigeria Records 2,512 Terrorism Convictions, Targets Financiers and Collaborators Freedom Online",
+      "publishedAt": "2026-11-03T18:22:30.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Not a game: Europol and partners target terrorist role-playing online - Europol",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnBjTTlxMi05MkFNTVFoR0F4Mkk5emMtdV9UWmJ2SnVwb1d3R0VkdHZMS0t6TjIxNGhHNjhhemVsYjFoaE01MUdkTGhSY0dqZENadUdhV1p1Rm1mTkpXUVFiT1NaNU41cU8zRU1Ua0l6UjNFUG5XLU9mQk9hUE8xVktkOHBMV1pMN1U3RHJfeDFOTkJ5bnlyc3hSUHRvN2xpR3NhblF2OE9hNDhKRElLa3ZMaDRiVGdmYjU0aXdmMA?oc=5",
+      "snippet": "Not a game: Europol and partners target terrorist role-playing online Europol",
+      "publishedAt": "2026-11-03T09:31:45.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "2026 European Union and UNODC Launch New Initiative to Counter Terrorist and Criminal Exploitation of Technology in South Asia - United Nations Office on Drugs and Crime",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPd3NSNU5zeUVuNnhRS25ialE0RE1CcXFVZERvczd1UVQ0dHpLX2thRElOcDhwN2F5QnhlOGxCV1Z3Rld2R29Ma2h5VHBZRS1IZ0VCaktNVlZNUnIyR1ZNTTE4c1pwNDlISmNuYXlMY3JoaUJMZlFvUzR4MGdVNklmWXF2WFdkelBKUlNYODlkdU01Z1ZaXzJSaXNWeUQ5c0x4SUd1VVpzbUNqUE9YWjFIVjh4OGxmYnNuSjluWW1iR1RmWFJ0V3RHeWJDdG9YWW9NX0M4QzlrYzZGYUstdThWTnBKb3d1Z2VzZUZyRzg4T1poR0QtRG1VbEFGSDhKV2M4UlNPREFmR3hjNkFPay0tbHd3?oc=5",
+      "snippet": "2026 European Union and UNODC Launch New Initiative to Counter Terrorist and Criminal Exploitation of Technology in South Asia United Nations Office on Drugs and Crime",
+      "publishedAt": "2026-11-03T09:27:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "India offers Asean counterterrorism lessons, but will one size fit all? - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc2k5R1lVNm9mOHZMRW1jUmJJZ09lNDVPVWp6MVAwMDRIeFlPNlFWSGZNVGVtNGM4LVRMQ195U0ZPc2h6QmhDdmFMSDFHREVkQVY2T0lhV0wwRFRMcEZGV3lDVVhoZ0ZQZE1LdEJaeEFYM184RFdQSG9WWkgxNzhKNlJlOVhzR0NoOEh3QXRieGNjd0JrYTBnWXBvR0V4bVo2cWZWMEpqNmFuY093WXZBYXpIdWgwMVptekVnVnZ2QmRaeXVzYlpIY09keEt0RknSAc8BQVVfeXFMT0ZUSzJFTjZRSGJsRDc0UEFuY0Z2SFRnRnEyODRBZ0JfbU1ZWlhuYm1kVS1CZTJpOXRNOWRQT3BfcDZzSXllVXdEdjhUck9UMVI1RjNrbGhyS2pqczVHYnFBSUVtRnFnYTQ1UEVCT0RKaHNlUks5X3RmUUpqTWNWZUlfdUN4SGZWNTRkVHFkSTJFZXRQN1RwUnk4WGk4TGRUQ2NZQXRoZ3psR1d3WUpfM2docEhHUzRMYkVnbWZjb2N0M0Z5TmR0ODZYTWRCUldN?oc=5",

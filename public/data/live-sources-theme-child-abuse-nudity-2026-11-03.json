@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:04:04.285Z",
+  "generatedAt": "2026-11-03T19:41:04.962Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 26
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 58
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 73
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,28 +65,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 61
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 75
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 84
+      "itemCount": 27
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 78
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 77
     },
     {
       "label": "PIB Fact Check",
@@ -182,10 +182,40 @@
   ],
   "data": [
     {
+      "title": "BERKELEY TOWNSHIP WOMAN PLEADS GUILTY TO DISTRIBUTION OF CHILD SEXUAL ABUSE MATERIAL Ocean County Prosecutor Bradley D. Billhimer announced that on November 2, 2026, Julianna Goldstein, 21, of Berkeley Township, pled guilty to - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHl4X2d4eXhLTHQxMzctcnNzekNQbHg1eERNaWo3SDRZVmR2RFlNNTRSaTc5d05PZVM5T1VHTU5iaHBpdUc4Qy0wSkFUS18tZ040UDBlZ3dGd2ZLa2VvOV9vOVd0SnZvazdFWjJVTEFFbFlVRmx6WXh1bVljS0hyR2JaTDlvMXlHT2sxU0UwTFhMS1JUajMtYXRrdi1GQXVVcUF5aGNVdVU3dVhld2YtRXBpRTVFVmExcDFEYVpOb21NUEtfMkZVU3RFOXgzcVhTemc?oc=5",
+      "snippet": "BERKELEY TOWNSHIP WOMAN PLEADS GUILTY TO DISTRIBUTION OF CHILD SEXUAL ABUSE MATERIAL Ocean County Prosecutor Bradley D. Billhimer announced that on November 2, 2026, Julianna Goldstein, 21, of Berkeley Township, pled guilty to Facebook",
+      "publishedAt": "2026-11-03T15:40:58.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CBI Court Sentences UP Irrigation Department Junior Engineer to RI for 3 Years in Child Sexual Abuse Material Case - StudyCafe",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRlJQNVE3LWtRbXNpb3VmSEdITWl2TlVLWnlicER2ZnBlbFpZYnprYTlSQloySHRwLUZLVXZTZDh6XzBlM014Wmtzb1ROaHBwdmpkV1Z5c2lZV0thR3NrZjNpNTUwUWVISjgxU3hSbEVZSkJhajc3N2dCNEN0Y0FqRnVhOTNfR2xEZWtvcTBMd3hlamdlMnYyRG1iem9FbTFnQU9PUTI0bUNKQjljYnBwSUdRWnlBYUZJaVdxWGhCb0dOS0JERldoWEQ1MTdWV0dVVHlDQ2c3VnV3ZW1ORkJyaQ?oc=5",
+      "snippet": "CBI Court Sentences UP Irrigation Department Junior Engineer to RI for 3 Years in Child Sexual Abuse Material Case StudyCafe",
+      "publishedAt": "2026-11-03T09:38:16.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Why Keeping the STOP CSAM Act in Defense Bill Matters - Movieguide",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHFlRVhuS2ZNcDZ6aGgzWFVSd2ZiR1QzNG1RTEt4dF9iVU1udzVaZWdyRWlkMHgzVkY2VXpFQUlvVjFBc0ZoT1FEYzJ4SnpSeGkzck5vQl9VeHlHbkVfR003dVJId0ZmQ3pLc3VSRHM0Z0l0YmJpM0VIUVJwWE5kSjNZUlJGUFdCbWVfbFdEWHM4c3FhdVBvRmpOTVBkaUc3M3doTnozNA?oc=5",
       "snippet": "Why Keeping the STOP CSAM Act in Defense Bill Matters Movieguide",
-      "publishedAt": "2026-11-03T03:56:15.000Z",
+      "publishedAt": "2026-11-03T03:58:32.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
