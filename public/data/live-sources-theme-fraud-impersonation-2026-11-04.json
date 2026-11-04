@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T06:47:19.568Z",
+  "generatedAt": "2026-11-04T19:56:32.587Z",
   "snapshot": true,
   "date": "2026-11-04",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 10
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 32
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,70 +37,70 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 48
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 75
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 12
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 28
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 19
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 29
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 46
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 13
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "CEO impersonation scam prompts PhilHealth public warning - Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1QwdnJWcFBpenluREktWE1FNU5TdExzaU0zcEpWWVFkRDJMQktnMDVoX1RSUHNteHVLRjRZX2NCbE1GWkJNdGVEem9uTE00d3JEQ2FQeXR1eU1DSUVoUkUwWHlDei1mekhoZExoUXZ1SHpabkh6MG1QNlNlNHlxZmxMVzd5SW5jb0ZiamdOdnlaNDJCd2NJRFp4RC1IX2xlS0V5SjJYY2swYXM0R2NuVFlrdXVFYXhOMzY3UlhB?oc=5",
+      "snippet": "CEO impersonation scam prompts PhilHealth public warning Insurance Business",
+      "publishedAt": "2026-11-04T11:34:39.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "FTC Recovers $80 Million in Impersonation Scam Cases - MyChesCo",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjJwb0VWU0JaWUZzZlJCd2tBMWRHSURPVWdwbFpEM2dUOW5Scy0weUlNZy1nX0xHTTRBS1g3c1dPblhvXzVaRHBBTTJJNnExbmYzd2RVdHhxcDRaeW1FWExGWFhQZnE0VzJBdGhNblBMTDQyLVY4cWoybTFieG4xSmVoRTZwLWRNNktHWE9fV3RDTkZVMU1fag?oc=5",
       "snippet": "FTC Recovers $80 Million in Impersonation Scam Cases MyChesCo",
@@ -193,6 +208,51 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Facebook Is the Biggest Source of Purchase Scams, With Customers Losing £2.6 Million as Christmas Nears - www.techtimes.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXZiX1ljbFp6Q01XQV95TkxRNTRUdXhaTHZkY0tJTTlrbVZYc2ZpQjFpVEtmTjZOVFRBRUc0Qk5uQWdxeHZ2TjFxMHFnN3pQQ05XUzFrbE9vZHBMNHNTcXdqME1DVGo2bkE1cXljLTVlMzR1cFh0eUt1U0cwUkR1T2hpUGwyNWlqXzZnZFFWVmg5ODhv?oc=5",
+      "snippet": "Facebook Is the Biggest Source of Purchase Scams, With Customers Losing £2.6 Million as Christmas Nears www.techtimes.co.uk",
+      "publishedAt": "2026-11-04T16:11:36.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nearly 2 lakh fake offers, cloned sites and phishing links surfaced during festive season, finds report - Storyboard18",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWG1ncGZfMFBCTFZ2UmhVc0FpX1ljQWdUa2xicWJyM2tnU0hPTDVaQ0psR1JYSC1Kb0JyMkJ3a1BOY0xlNDljTWdLWnNScEdyb09iRWdqQURmNzFndms3MFJkZ1pOSkktS3M1VnVNVXk5Rm1zd05OYzQ5cEoxWDRrYlJwRWRzb2xBTWhKalhqa1V0dFNaUHAtS05OcWw3d1ZiYUU5ZkExQTNkcGxYNk9McDRCM3I2MDDSAbcBQVVfeXFMTVhtZ3BmXzBQQkxWdlJoVXNBaV9ZY0FnVGtsYnFicjNrZ1NIT0w1WkNKbEdSWEgtSm9CcjJCd2tQTmNMZTQ5Y01nS1pzUnBHcm9PYkVnakFEZjcxZ3ZrNzBSZGdaTkpJLUtzNVZ1TVV5OUZtc3dOTmM0OXBKMVg0a2JScEVkc29sQU1oSmpYamtVdHRTWlBwLUtOTnFsN3dWYmFFOWZBMUEzZHBsWDZPTHA0QjNyNjAw?oc=5",
+      "snippet": "Nearly 2 lakh fake offers, cloned sites and phishing links surfaced during festive season, finds report Storyboard18",
+      "publishedAt": "2026-11-04T07:43:23.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Festive shopping scams take a new turn as 2.4 lakh fake assets target one indian bank - PCQuest",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU19NMmdUNEJIWnB2TFZnVHEtRFlwUzJzQ2J1U0dBMHVNYnRTVFZXd00yeFI3QzIyWlMwUlJGQkpQd2h5NXVOWHB4NlV0QVNrN2F3YlMxWGNIRERCdUVRV3ZxbVd6MDh3VTc4azNuY181eURETFNzbWd3aDZiY3JVR29rbE9yMFhNMkxZQnlDLTl0QXQ5MG8wZnd4VWJ3TVhqNVNF0gGoAUFVX3lxTFBFdWZlTnJWcnN0eGVnZmtvTlUteFFVSEVQWU5DVUJTS3E0TVU2c19HNmZZR2NBc1hQZlNfLXdEZ1dOWUdrZlFPUzVMaUpNTnR0eGNmbHQ3RkRmeXNpbllQZUhMUG0yWlBQY2pWcDA5T1JTbkJ4WGNpbWVPUVJrUk9iSnNxU25lRmpNS0hzMHdRSVNENE5hZjVoV19qYUktNWltVjRyRU5NNA?oc=5",
+      "snippet": "Festive shopping scams take a new turn as 2.4 lakh fake assets target one indian bank PCQuest",
+      "publishedAt": "2026-11-04T07:20:33.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

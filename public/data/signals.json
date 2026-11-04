@@ -1,23 +1,19 @@
 {
-  "generatedAt": "2026-11-04T06:51:58.340Z",
+  "generatedAt": "2026-11-04T20:01:00.729Z",
   "windowDays": 7,
-  "endDate": "2026-11-04",
+  "endDate": "2026-11-05",
   "collectedDays": 7,
   "data": [
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 118,
+      "totalArticles": 103,
       "distinctSources": 6,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -5,
-      "reason": "Last 3 days averaged 16.3/day vs 17.3/day before.",
+      "trend": "Falling",
+      "changePercent": -40,
+      "reason": "Last 3 days averaged 10.7/day vs 17.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 19
-        },
         {
           "date": "2026-10-30",
           "count": 23
@@ -40,7 +36,11 @@
         },
         {
           "date": "2026-11-04",
-          "count": 6
+          "count": 10
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -61,19 +61,11 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Scammers are impersonating real charities to trick victims, here’s how to spot the schemes - AL.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3dMN1JVSTJwZ2lMWnpTTUlIdDhKbmF4c0VIN19ndnp3VDk4ZVVCWVBMQ0VBeVNDRTR2TVVwd1k4VlNCbE1yQlVOcDliNnN5OWZGRk5NQ2ppa3NrY1YxNGhYMXBmNG85QzRoNWF1Z1hnSHVQYVNFcEpvZHN3UnJCNXpXTW82T05nQ1JlSWk1OUN6aHBHZWtPVllXS2FMc0huRnFHWnFHcFRPREx5V0JUV05icklaOFNjMFhsM1hDalhwZWvSAdcBQVVfeXFMUDE5RnliZXlwSnN4S3hFbXJaTkNfQjNQZXlfb0FBQWVuYXNlcHJLZUZiUkNEV3lwWTBJNzEyM2Z4TS16MUlPOG1udmlhbng0RnBmN0t4MXZKcTNxNTZEanFKNzBWNTRwMmFIOEVXQXFFYzFhRjh5LXpOSUFSVlVtUGQwekVZQklMQmExMjNoZnJhRTlXeUV1cHVWNFdua3RyNWZBa3hWNGhhVldYNzNMbU5oZzFQaDNDblppQldOeUJpT05LWng1ZTVvMm1KbEYwT1lBREo3bGc?oc=5",
+          "title": "CEO impersonation scam prompts PhilHealth public warning - Insurance Business",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1QwdnJWcFBpenluREktWE1FNU5TdExzaU0zcEpWWVFkRDJMQktnMDVoX1RSUHNteHVLRjRZX2NCbE1GWkJNdGVEem9uTE00d3JEQ2FQeXR1eU1DSUVoUkUwWHlDei1mekhoZExoUXZ1SHpabkh6MG1QNlNlNHlxZmxMVzd5SW5jb0ZiamdOdnlaNDJCd2NJRFp4RC1IX2xlS0V5SjJYY2swYXM0R2NuVFlrdXVFYXhOMzY3UlhB?oc=5",
           "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-29T16:01:00.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "She Lost $49,000 to Scammers — Now AI Fraudsters Are Using Her Face To Lure More Victims Into a Trap - www.techtimes.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2IwamtwUUtldnBKS21YZ1VpWXVQbmRpdFEwbS16XzNMYXM5Yi0xR0lseHNxNU1ldk9vSzJERC1veGMydmtWQkpuQlRZYVRhek1XWmJqQTNFT0x6TTBNYW5QQmJlbm9Fcko5U2M3R3ZFWENFTDhlNHhWcGE0aGRlRWxZRG93bmV6UlpZ?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-10-29T13:50:33.000Z",
-          "riskScore": 60,
+          "publishedAt": "2026-11-04T11:34:39.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -107,23 +99,27 @@
           "publishedAt": "2026-11-03T02:00:00.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
+        },
+        {
+          "title": "ACAMB advises bank customers against phishing scams - Punch Newspapers",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUkV2LTN2VnUwR2tndVhCc3o2c0R0bTU1cXRPVkpHR2dHV3lsNWVEcjJjNG5XR0FUM1JHeldRLVhIeW5aLXpKMkpwY2RsLW1zSDI2LUEyUWVjdlotMGNrdkRSZElFX0FNT2FsQVZZRkthWjdyc0JxcGgxc0E?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-03T00:21:38.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 111,
+      "totalArticles": 100,
       "distinctSources": 5,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -16,
-      "reason": "Last 3 days averaged 14.3/day vs 17.0/day before.",
+      "trend": "Falling",
+      "changePercent": -22,
+      "reason": "Last 3 days averaged 12.3/day vs 15.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 21
-        },
         {
           "date": "2026-10-30",
           "count": 14
@@ -146,7 +142,11 @@
         },
         {
           "date": "2026-11-04",
-          "count": 6
+          "count": 16
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -175,8 +175,24 @@
           "corroboratedBy": 2
         },
         {
+          "title": "Fact-Check: Deepfakes of Indian and Russian Foreign Affairs Ministers Go Viral - The Quint",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXBzVi1MZDJfejVOWFBrWmNyanUxUzlQVjAzc2o1YXFCc29MUzkwVDBQNnUyMFo2NVV3RVJhekVJdEJaN21OLXB2S19YenpYZ1J0WDhZTHZxYThzZVFsNmFSd3JfcW9KbUhqaFhvZWlSZ2U0YzZlOE95YWl4cW9CU0xiYkVsNVhDaklpWGRQVTlDNmM2ck11OUI0amVxclFJTGJqVk5XNldxcEl6aWRjdDBoQjNNd9IBwwFBVV95cUxPWmxIbDhGYk9IZHN0Smoza0FkWkt6UXdqQkhkUDNvb0ZrMkwyOHpmblFTMVB1b0xxQkFZb3lvNWRjRjljbzRacmFEWXFOTXNOMDBmVVQtZ0RpdUk4TzNYcnA1WFZBNklrSnFOblQ1YmY4cEVJZENraVhuUkNINlhvYkU2REwzSWZpdUdPUW80Mjh5ajdVY0xvSFJtZ2NReTlyRDM0ZXkxYWRWaDRpMjNFcFp3SzFUaDFEZUFnUUF2bmhoVFU?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-04T12:36:09.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Diwali cash crunch? PIB Fact Check debunks claim of shortage of Rs 10, Rs 20, Rs 50 notes - The Financial Express",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONW5WVG5RekFnNUhscVA4WjU4NmFreGNuMzdQNVlRU1NMZWlESXhnMmlkb016SVBhNEZ1QzVRR2Y0Um1Sd3FVeVpCaXowdjEwQ1dKcE1pWU5XMV90OHpfQ2xUOG9wc1UzWVdPM3Eyc0g4R2RlWDhGMGs0bHpPb19tQTFpcTlTakEtTW8tT3hNRy1IWHFhX21MRGVRazNHNndTUTB5YWliVTEweU5NZ2pEbjc1Ny1kLTduVGt6ZGlfMjZLZFpRaDE2eEdSMTBES1llaGNxbjRnRHBXemQ20gHcAUFVX3lxTE41blZUblF6QWc1SGxxUDhaNTg2YWt4Y24zN1A1WVFTU0xlaURJeGcyaWRvTXpJUGE0RnVDNVFHZjRSbVJ3cVV5WkJpejB2MTBDV0pwTWlZTlcxX3Q4el9DbFQ4b3BzVTNZV08zcTJzSDhHZGVYOEYwazRsek9vX21BMWlxOVNqQS1Nby1PeE1HLUhYcWFfbUxEZVFrM0c2d1NRMHlhaWJVMTB5Tk1nakRuNzU3LWQtN25Ua3pkaV8yNktkWlFoMTZ4R1IxMERLWWVoY3FuNGdEcFd6ZDY?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-04T04:06:08.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Diwali cash crunch? PIB Fact Check debunks claim of shortage of Rs 10, Rs 20, Rs 50 notes - The Financial Express",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObjdVRGtzbW41cmh3TDRqUzBHcTFUeXpiNTNieXFaeDRVUVFOWC1jdGM3bTZvQUlCRU9QcTh5Z3VUYkdzTzRBRVVReWdONzNPb1lseDkyQ3U3RmtwV1FKOElXcWJ0Z0RLa1dJcDVFMll0OWpybEk3czZlMTJRYVBxWDhaR3ppQzNQbi1TaVBxUjk3UG1hVVZhbXJnUWowWmpNUXM4MkZFUHNVTllhYTdoZzRYYXJyaTJfcG1VTHJobE5iTEVfbFE4Z2lPY2VoemlScl9pdVFR0gHcAUFVX3lxTE41blZUblF6QWc1SGxxUDhaNTg2YWt4Y24zN1A1WVFTU0xlaURJeGcyaWRvTXpJUGE0RnVDNVFHZjRSbVJ3cVV5WkJpejB2MTBDV0pwTWlZTlcxX3Q4el9DbFQ4b3BzVTNZV08zcTJzSDhHZGVYOEYwazRsek9vX21BMWlxOVNqQS1Nby1PeE1HLUhYcWFfbUxEZVFrM0c2d1NRMHlhaWJVMTB5Tk1nakRuNzU3LWQtN25Ua3pkaV8yNktkWlFoMTZ4R1IxMERLWWVoY3FuNGdEcFd6ZDY?oc=5",
           "source": "Google News • Fact Check (India)",
           "publishedAt": "2026-11-04T04:06:08.000Z",
           "riskScore": 60,
@@ -197,39 +213,19 @@
           "publishedAt": "2026-11-02T18:11:44.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Fact Check: INDIA bloc’s Nov 1 Delhi rally–Massive crowd captured in viral video, photo? No, both are old - NewsMeter",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQandrZUFlTDFsQ2dFNUJDVmlHWTRUQkNKdXcxVVZpRWR3SVgwemN0RHk3QUlyTWNBclVRVmdUcHhxSzZzR0FrUjFHbU9CbHJaYThPRUtoY2xBaEI3Um10SG1qMnR6ejJ0a2liR3dCbzFpUjFFQ09aOEpSYUtKb00tamRxOTluMEZLbGc0cjIzTjJzanFJbE53ajVTMjM2SEFnbkRnS3dzWklUUng3ZU15WTFucXpMODRvTExqQjM4QnowNXhKVWc?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-02T14:35:46.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact Check: Did Shivam Dube Join Indian Military? Truth Behind Viral Video - Sportsdunia",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORW41S25HQjUwdi1YNmU2SXRSRTI4WXEwNlFSYi1famhOdllIZDNYUGZGTV9UYzE3NGhxckNNeGo0OE5ndUctcUJTeHpTaTlwb3BKMHY2ZU5GN1VfbjB3SVExcmZ6MkY5Z2ZZVi1QMHZLd0JHeG9wSmduMHgtSDJUcVZOUTFNYm43VlpnM1RPU2l6MEJsNjh3TTBFX1RyOTNNMFE?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-02T12:27:28.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 102,
+      "totalArticles": 86,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Falling",
       "changePercent": -21,
-      "reason": "Last 3 days averaged 12.7/day vs 16.0/day before.",
+      "reason": "Last 3 days averaged 10.7/day vs 13.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 20
-        },
         {
           "date": "2026-10-30",
           "count": 20
@@ -252,7 +248,11 @@
         },
         {
           "date": "2026-11-04",
-          "count": 4
+          "count": 8
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -262,6 +262,22 @@
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-11-02T11:00:00.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "French Bank Crédit Mutuel Arkéa Confirms Cyberattack Amid Reports of $133 Million Theft - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbmFITFhZMGJLTmI4WDlpNHBJU2xkU3pfUXlwZ2EwUjVNNm5nd2pWaUdKUW9SZGhxYXc2TUEtNm53RGt4SzF0NVFPOUhiTGV1SUxicVZPakVxVF9YeEdkWGRKYjlvSHp5aU1GZTIyUTFLVGpBRTh2ME9ISdIBgAFBVV95cUxPZHY5QmlOMWthT21PZF9VaGRzZkR0RVpFN1RRT3BMb2hXelEyUXdGVW9aaV9Nb0kzdmI0UzY1bEZMc3NBNG0tcFE4cUQwSTZNSnpYOFVoZjgyRXRNVjlJdXVpYWVqVExtVHBvZ0tkR1BDQTVadW56elpDWm4wZTJCMg?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-04T14:10:31.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-04T07:42:01.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
@@ -303,39 +319,19 @@
           "publishedAt": "2026-11-02T09:54:35.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Hackers Claim to Have Stolen 30GB of Data From Frooti Maker Parle Agro - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91S2daZTRUaEt3RVo1VWFrVmNjYmtveXV4ZHRHSmNpMlZPRDVlNVBLaGcwak1UTzRJeHc1bWdwSHE1UC0tbmVkcUdaNW5OaDNGeDVmMFN6Vlk0M28wbGRHSDE0QUxZd19kaW5mTnF1UXVQX1IzT3Z3TEZqQ2NNd9IBgwFBVV95cUxObnhnX1RZT0c5S1NpdjFNUFBVNGlqcTNGSHZNZXVKMUNXd3RjTmlEbXJKVlMtQzFXVjlVV2NDeS01WmM5QjJUWU1xQlVsSERLd2x0SUdiM2tzc0xPU1lQSEd3dWhWUXJMNnNTRmZFcUo1NFBCOFJCUHVLcFpUNVpNWDVKVQ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-02T08:30:13.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-10-31T14:42:45.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 32,
+      "totalArticles": 18,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -56,
-      "reason": "Last 3 days averaged 2.7/day vs 6.0/day before.",
+      "changePercent": -49,
+      "reason": "Last 3 days averaged 1.7/day vs 3.3/day before.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 14
-        },
         {
           "date": "2026-10-30",
           "count": 8
@@ -359,6 +355,10 @@
         {
           "date": "2026-11-04",
           "count": 1
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -431,17 +431,13 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 21,
-      "distinctSources": 4,
+      "totalArticles": 17,
+      "distinctSources": 3,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -18,
-      "reason": "Last 3 days averaged 2.7/day vs 3.3/day before.",
+      "trend": "Falling",
+      "changePercent": -27,
+      "reason": "Last 3 days averaged 2.0/day vs 2.8/day before.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 5
-        },
         {
           "date": "2026-10-30",
           "count": 8
@@ -464,7 +460,11 @@
         },
         {
           "date": "2026-11-04",
-          "count": 1
+          "count": 2
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -483,6 +483,14 @@
           "publishedAt": "2026-10-29T20:11:00.000Z",
           "riskScore": 59,
           "corroboratedBy": 2
+        },
+        {
+          "title": "Experiencing child sexual abuse: a survivor's lessons for social workers - Communitycare.co.uk",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenc1OXRIZ3o3TXRueDZjYk9mLW1ubWctOVFFT3FfU1JxWVp1Um8xdmN5bUlBNXRyam1OTXl0aFZmS3BWLWVSTEVVT2VNcEJDWlBDeXhrWnpCc0t0NDFEQUl6QmYtS2QyYUVpZnlsZXlrelh0UjdtU21QTFBpckY5SHVQMjFxUkQxcDRSX3YyYXlvaG1aalRubGhMSFRhdTNqRU9lbWNLSlRjbnRWVG1NLWRMU3dldw?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-04T15:08:19.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
         },
         {
           "title": "Police say Little Chute child exploitation case was investigated, charges sent to district attorney - WBAY",
@@ -523,13 +531,111 @@
           "publishedAt": "2026-11-03T04:37:17.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "harassment-bullying",
+      "label": "Harassment & Bullying",
+      "totalArticles": 11,
+      "distinctSources": 7,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 60,
+      "reason": "Last 3 days averaged 2.0/day vs 1.3/day before.",
+      "daily": [
+        {
+          "date": "2026-10-30",
+          "count": 3
         },
         {
-          "title": "CBI Court Convicts UP Junior Engineer, Private Person in Online Child Exploitation Case - Dynamite News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3dJaUlTUFFuRFNObjFhVjBldjZYZUdhNHo4WlNjQmFsdHh2NXBNVnVHMmNfWU9EeUc3TXk1QVh1R2drWUJZM0NnajhnRGRCSDFSUDdHSkR1RUJZa0xfZGJkcEF2MFgxTWROYzhuWlhTcEhLYU5QTTRvbmltVEdmZE9sQ2pWTDhJN0dvZzM3b2NMM1N4bldlOW91dkpISXhXSUZGdHhOcnRxRFFTOGZLd2paMkJQRWpWN2d4S0ZFbHJ5Z9IBxwFBVV95cUxOejhMOGs0YzVZdUdlUzEySjA4eG1JcXdMQzBiODZCN1dObExaa0ZBS0d6bERKMkZDTENydGU0aVYzV0R5Ti16dVhZWjFJa2RzZGs5R3BrYkhMQnpSRWhoWm9JZ3NvbWZOM0E3bGlSTXJaSjVCSGRfUTFOM1picVp6MUd6WTBQRDRmVTJFR1NmandkRUNVbUxwSzRVR2xEa0VmU2lrczhoT3dGWFlYb0F3ejRabnF0R2IzVWNaTFdXa2x3SGt5U0xJ?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-02T14:10:16.000Z",
-          "riskScore": 52,
+          "date": "2026-10-31",
+          "count": 1
+        },
+        {
+          "date": "2026-11-01",
+          "count": 0
+        },
+        {
+          "date": "2026-11-02",
+          "count": 1
+        },
+        {
+          "date": "2026-11-03",
+          "count": 2
+        },
+        {
+          "date": "2026-11-04",
+          "count": 4
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "The Silent Predator In Our Homes: How Cyberbullying Arms Online Groomers To Target India’s Children, And The Urgent Legal Offensive To Stop It. - TRIPURA STAR NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMks2dEk1ZzY1YS02OWJRcG15LVV1VHFnSWFaOThYa1ZKUGxZaGdRbm1WdlJGbW9sMThTX0dBYjZlT1NqQTlIVDFTS3c0bkNnbjk1Si1Gem5aa2dsWXFtb1NHNnRkS1ZINjNMaDd2YkViMmNmbVJ6MEtQRm9tMW93Z0Z3OUlBOHEwaDYxMnV6ZDVrdHlybkVPZzcwMHJqMVk5ZUNiazlucVV6Mkx3N2wtbnh6eFUweHJ0V2wzZkcwTkFXcE5aaHdob2tBTmZDbG1yV1FzUmRESW1KVkdRNFctNjNFS0RrYUZZdGw2ZlNOOFRzMllJaTZ5ZGF4YnZNbHY3V3c?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-03T01:38:08.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Cyberbullying Case: Kerala High Court Seeks State Response On Specialised Investigation Mechanism - Indian Masterminds",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGJUdjUycmZaUmhKQTR6V05IbzIwZVNOWlhBTVNWRkhiLTVkOGk2ZUFPblBQc2pPbDlFb3N4dzdVbFNLWHI0QmRqV190U3lwbXdOSnZnWGdOREZuWWlIRG1aQXhMWkhON2xaSUVwZXIzeDNLWWFKSW9MODBvSUZ6MG5nZmlpaHlwZVM5QVZ3NUtoWTlyamhZb0p4NFVVMW8?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-10-30T08:42:06.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "How UP police women powerline 1090 tackles harassment through FFR technique - India Today - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNUNWVFlqVEZVbUVURXdxZGtlR1JnanJMdm9iQU4xUzllQl80YWR1SFRrMVN2X0tUbjdYTFBfb1RUNGVSckxUUHJLMWgtc2RtMkNQMUgzSUJKbzJqdXRVMzRBMG1wanNVWHl5SVVnMjZSMmY3WUEtOGpaQ090VmpvekM3aW1VNGUyRE5mWERNMkozSlVIbEJyc3R5d2NsVHdiMGNHWEM3UFB6SmFIMU5QLTlQMVFGMnMwSHpiSHNETEhLOXhmQVlDSTlqZnpfck52c1NycThjZ9IB3AFBVV95cUxNMFkyNm00QWhzaU1wN1g4amVOT3ZqMXJDTTZ1UXdnV2tOR2tzeUt3OENjQldQbUFSejFyT0o0NVB3ZzluVzFOZV9WS3JBcU9UTWE0T3NNUWZBNlppcGtsc1JtUWtNSkM5LUQwbG9MajhPN0JTWExjZ3VCWjYtMV9wU2dRMnE5c2M0M2ZXSHZMR3VzRTRZZXk3bldLWGNKektXYmNyNmtFaWc2SkNWV0taeDVvbjNucXVyLXlzdTlBMUdjbVE3Y1F4MjkwS0ZzbUd1UTVTY0ozaTFvaE5S?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-10-30T12:46:17.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Social media abuse, stalking and death threats: Why it's never just about performance for our sportswomen - Sky Sports",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ1JBbFRGTzdTc0Q0WFUwMjJ3ajI3b0tGQVFkTlVsSnBvU1hiaUV3T3laMDNMQmtvbU5iOHQtamVENmtRMWlNQmtXM056empMQ2NoclNWQWsxbDZnbi1rR0R1T2tvUENNMDRZYVV5NWpiWnBSMWtmdDFtRkwtTmtBNFhtS1RidmppbU5QWHduUDBPTm5uM2ZGdXA5ZmRUNjQ5cWdrOEI3RTRNb1I3cTBNMXo4RlUycmR4MFAxaEFUYUFycDlENVhQandTM1h5dEljVjdtN1RNMmRzUU9EYjduLU5NZE54QzNselE?oc=5",
+          "source": "Google News • Harassment and Bullying",
+          "publishedAt": "2026-11-04T17:26:21.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Sexual harassment: NRM moves to remove barrier to women’s participation in politics - Vanguard News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDRKWDlRcHdqVzRnRG4tNWpnSDhGVEhBQkE2Z0pOeVlYTnoxSTkzLXczN1JwNy02WEh0QWlMWU1jTlBkLXdvdGR3Y3Y1ek5XUmozcWpsdGRoWXFNWHhmRFdHdlBMZ1p1aHZYRmFBa2tHcXJYcW1vQ0tRbFNzRUtPVFJnM25tUWxKc1hpbjl5LWJKLVFOZ18tZ0hEWDhnbGd5XzVId2NFdTV2TU9weEVWRlBQU2V5dmNLUmfSAb8BQVVfeXFMUHdfUFhEZGYySVVlcEZrUldmVXVydjJYVjVmc1Q2eXc5MEE0TGYtM1dmdTBETkN3MGxzeWZ2Z1BUaGZubnRyck9YX283YXlKTDlBZ1NNM2M4M3N5b1dScUh2dE0ybEswM2hQR3gtTV8wTFUxNGx4QTJpYl81c1NEZjg1LWM1QVZhQU9vcXRIdllCQ1JHLXk0WS1qeTZndXYyWElWZVRqMWRUSWVhOC1CbFdWak9MT2k5VExfQms1NHc?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-04T08:05:28.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Online abuse against journalists doubled in 2025, new research finds - InPublishing",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlZ2ajd3R0Vpazk0cDNkMjZNSlF6ZTNUMVdDbnh5ZDBvZ1plQkZyeHpzN3hQVlFOT2FhdHVZYWtHMjZGNzl0cGRBWVAzTkFkQVNQNThFNU5KbzVEWFZLTF9LWWRLaWIxT0lNdWhyWklheUNtN0JOREpLa19xejFQRU5vNURzT1B3LU5PVjFaSXZxamVxRGg2eXkyTE5ZbXN1RW9MaEtvSnZ3bGVnNFAtMzh5Yw?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-04T08:05:02.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Meta responds as women in politics demand action against online abuse - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS191MUQ4MzJkYnlQalhSVXhBYXMwSDNPcWZaWDFSeFFLdFI3QURtbmY5M1YtZ3A5bDJKbTBTR1hfeC1idnRCQ2VGQlhlcllLUFU1LVhBZ1RFcGZyQkpjZFh3SXVra3lHNjZja2JiZmw0ZUlYaXdMdERDa1hpWFB0bkRxOUJ5bmdvRkhLVEFXTUhQU0VNanRtRkdDaW1VRk9rRzJqUUFuVGY?oc=5",
+          "source": "Google News • Harassment and Bullying",
+          "publishedAt": "2026-11-03T22:12:00.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Nearly One In Two Women Journalists Resort To Self-Censorship Due To Online Abuse: Study - TimelineDaily",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUJ2VzZTU1dIcjlfSXU1bzduU0l5OW9BemczWWk4dFpOWXlsNEJ1QXVTUnFYbGtxa2lzMmpkYzFvdUJsdGgwQVVWX0pfS0FySTJJT3VNeWVYSmEzZWdxN0RhSjN4QnZUV0ZTX29Ba05xUWc3THFPLTlGLURaQ19va0tLeWdFZGd6NVZETHZ5ZkFFMkNaM3VxczZPcm14VndTR3F5NWdjMHRJbC05clh3aXpiOEcxdFFzZ29Z?oc=5",
+          "source": "Google News • Harassment and Bullying",
+          "publishedAt": "2026-11-03T10:47:38.000Z",
+          "riskScore": 40,
           "corroboratedBy": 1
         }
       ]
@@ -537,17 +643,13 @@
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 15,
-      "distinctSources": 8,
+      "totalArticles": 9,
+      "distinctSources": 5,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -11,
-      "reason": "Last 3 days averaged 2.0/day vs 2.3/day before.",
+      "trend": "Falling",
+      "changePercent": -33,
+      "reason": "Last 3 days averaged 1.0/day vs 1.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 6
-        },
         {
           "date": "2026-10-30",
           "count": 1
@@ -570,6 +672,10 @@
         },
         {
           "date": "2026-11-04",
+          "count": 0
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
@@ -641,125 +747,15 @@
       ]
     },
     {
-      "theme": "harassment-bullying",
-      "label": "Harassment & Bullying",
-      "totalArticles": 11,
-      "distinctSources": 6,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -50,
-      "reason": "Last 3 days averaged 1.0/day vs 2.0/day before.",
-      "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 4
-        },
-        {
-          "date": "2026-10-30",
-          "count": 3
-        },
-        {
-          "date": "2026-10-31",
-          "count": 1
-        },
-        {
-          "date": "2026-11-01",
-          "count": 0
-        },
-        {
-          "date": "2026-11-02",
-          "count": 1
-        },
-        {
-          "date": "2026-11-03",
-          "count": 2
-        },
-        {
-          "date": "2026-11-04",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "The Silent Predator In Our Homes: How Cyberbullying Arms Online Groomers To Target India’s Children, And The Urgent Legal Offensive To Stop It. - TRIPURA STAR NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMks2dEk1ZzY1YS02OWJRcG15LVV1VHFnSWFaOThYa1ZKUGxZaGdRbm1WdlJGbW9sMThTX0dBYjZlT1NqQTlIVDFTS3c0bkNnbjk1Si1Gem5aa2dsWXFtb1NHNnRkS1ZINjNMaDd2YkViMmNmbVJ6MEtQRm9tMW93Z0Z3OUlBOHEwaDYxMnV6ZDVrdHlybkVPZzcwMHJqMVk5ZUNiazlucVV6Mkx3N2wtbnh6eFUweHJ0V2wzZkcwTkFXcE5aaHdob2tBTmZDbG1yV1FzUmRESW1KVkdRNFctNjNFS0RrYUZZdGw2ZlNOOFRzMllJaTZ5ZGF4YnZNbHY3V3c?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-03T01:38:08.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Cyberbullying Case: Kerala High Court Seeks State Response On Specialised Investigation Mechanism - Indian Masterminds",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGJUdjUycmZaUmhKQTR6V05IbzIwZVNOWlhBTVNWRkhiLTVkOGk2ZUFPblBQc2pPbDlFb3N4dzdVbFNLWHI0QmRqV190U3lwbXdOSnZnWGdOREZuWWlIRG1aQXhMWkhON2xaSUVwZXIzeDNLWWFKSW9MODBvSUZ6MG5nZmlpaHlwZVM5QVZ3NUtoWTlyamhZb0p4NFVVMW8?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-10-30T08:42:06.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Plea for specialised mechanism to prevent cyberbullying: Kerala HC seeks govt’s views - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZTBJZ0dkM0p5RHNjZjVqV3MzYzFZaUxtQ1pmdDRnYU83UjlCNzBKS3l4YjFsajdUTHM2cFp6eU9PRHdKUF8telNpbHkxMTRDbVlQUElrcHZUeE95ZW9RTVBhUlVtdFQxMUhpSXRqMEVwcnVjTERFZWxFLWNmSmh4MHNaT3U3c0t1UXRHb2FiWXFfSGhzeEJ3WGhZdGN4UWxYQkFJZllwYkMyTlExd2R6U3RQYmtlbVZqNmNDT0ozMGZENjFmUms3VFFZOUFTRkRaSmM3QlZRVkVkWUozeFM4anBtX1l2d3FfakFBbNIB8gFBVV95cUxPT1R5QTkzY1BfLVM2N05ibV9uZVVxR2dDY2JuRVpLU3Z1bWhRdUM5SEhraEhjT191UVc5d0xQMWZQeFMxVXoyU2NjZWFwMnlsY3A2R3FNREpjQzlJT3BHZGlLenRGeE4ydmNhbEdLNVhJOW9WQlhPbG1JbXkxY3dPOGw5c3lQVktveHRua0ZiRmFESURrVXRpMnhFX1ltcDg4aXZDd1RKWEY0NGhUUTIzRzlQM2VWWjhuYXpqalFoZGtNeHo5X0UweU4yaERnMFNlLTJTVnZzUmVwOXVZUEJ4UE9hSGthdklNUUNqbTU1eFlVUQ?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-10-29T15:41:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Kerala High Court Seeks State's Response To PIL Seeking Specialised Mechanism To Tackle Cyberbullying,... - Live Law",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaHdmdkJ2bmZtd3lHcTd1NGE4c0lMVlBMVTQ3bzR2ZDR4RWh5azVLd00wTlhLRFZIU3VuZnRUdHV3THNVN0V3V0dmTi1kR0pwalluaTQyRnd3cllRaGR4SkFTcy1IYWhWby04UzFRdkR0ODFNVENERmFaLVc3T0ZRSVRFbmU4LXhKX3ZwejV3dXVuVHY5ZHNXa2hoS2tkaWtUc3E4OHhGTDljb2VwWlRKR09VVHFCb2w1OXFzdW5TWFZFMFZjSllRSlJ6dnRBU0ozVnQtQ0ZmaFFvb056VUg0dm1lWTgxaU4tTk1Oak4tLVJ6Z9IB8gFBVV95cUxPaHdmdkJ2bmZtd3lHcTd1NGE4c0lMVlBMVTQ3bzR2ZDR4RWh5azVLd00wTlhLRFZIU3VuZnRUdHV3THNVN0V3V0dmTi1kR0pwalluaTQyRnd3cllRaGR4SkFTcy1IYWhWby04UzFRdkR0ODFNVENERmFaLVc3T0ZRSVRFbmU4LXhKX3ZwejV3dXVuVHY5ZHNXa2hoS2tkaWtUc3E4OHhGTDljb2VwWlRKR09VVHFCb2w1OXFzdW5TWFZFMFZjSllRSlJ6dnRBU0ozVnQtQ0ZmaFFvb056VUg0dm1lWTgxaU4tTk1Oak4tLVJ6Zw?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-10-29T13:50:53.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Kerala High Court Seeks State's Response To PIL Seeking Specialised Mechanism To Tackle Cyberbullying,... - Live Law",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWWxrbGd0cnVMVWlpZlEwNG5wNWZic1JYVjdOZXp6bU5iVGtkR2JkcjBvUndYTXBuWlNiaHFZdEZtaVQyQ082eVZZTldIYTF0Qm9WNk5WYm84cUVhcGFZVG03dTItMGNqT2RmRDJ3eUZqYUdHREdBb2lJclh4V0JNY2ZvYkJvWjZVQ3N1aXRPVjVMQVl1SGJTdS1FNWJ2M1NKS3RXLXZERHNmS2FaTTY2R1Fpc210SEhsYlRrajQ1eTQ1NUU3RU1Ncmk3RjNRcDk1Z01jYV9rdVY1SmxwbkVzLUtjM2VIOE1uSWItcNIB8gFBVV95cUxPaHdmdkJ2bmZtd3lHcTd1NGE4c0lMVlBMVTQ3bzR2ZDR4RWh5azVLd00wTlhLRFZIU3VuZnRUdHV3THNVN0V3V0dmTi1kR0pwalluaTQyRnd3cllRaGR4SkFTcy1IYWhWby04UzFRdkR0ODFNVENERmFaLVc3T0ZRSVRFbmU4LXhKX3ZwejV3dXVuVHY5ZHNXa2hoS2tkaWtUc3E4OHhGTDljb2VwWlRKR09VVHFCb2w1OXFzdW5TWFZFMFZjSllRSlJ6dnRBU0ozVnQtQ0ZmaFFvb056VUg0dm1lWTgxaU4tTk1Oak4tLVJ6Zw?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-10-29T13:50:53.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "How UP police women powerline 1090 tackles harassment through FFR technique - India Today - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNUNWVFlqVEZVbUVURXdxZGtlR1JnanJMdm9iQU4xUzllQl80YWR1SFRrMVN2X0tUbjdYTFBfb1RUNGVSckxUUHJLMWgtc2RtMkNQMUgzSUJKbzJqdXRVMzRBMG1wanNVWHl5SVVnMjZSMmY3WUEtOGpaQ090VmpvekM3aW1VNGUyRE5mWERNMkozSlVIbEJyc3R5d2NsVHdiMGNHWEM3UFB6SmFIMU5QLTlQMVFGMnMwSHpiSHNETEhLOXhmQVlDSTlqZnpfck52c1NycThjZ9IB3AFBVV95cUxNMFkyNm00QWhzaU1wN1g4amVOT3ZqMXJDTTZ1UXdnV2tOR2tzeUt3OENjQldQbUFSejFyT0o0NVB3ZzluVzFOZV9WS3JBcU9UTWE0T3NNUWZBNlppcGtsc1JtUWtNSkM5LUQwbG9MajhPN0JTWExjZ3VCWjYtMV9wU2dRMnE5c2M0M2ZXSHZMR3VzRTRZZXk3bldLWGNKektXYmNyNmtFaWc2SkNWV0taeDVvbjNucXVyLXlzdTlBMUdjbVE3Y1F4MjkwS0ZzbUd1UTVTY0ozaTFvaE5S?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-10-30T12:46:17.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Nearly One In Two Women Journalists Resort To Self-Censorship Due To Online Abuse: Study - TimelineDaily",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUJ2VzZTU1dIcjlfSXU1bzduU0l5OW9BemczWWk4dFpOWXlsNEJ1QXVTUnFYbGtxa2lzMmpkYzFvdUJsdGgwQVVWX0pfS0FySTJJT3VNeWVYSmEzZWdxN0RhSjN4QnZUV0ZTX29Ba05xUWc3THFPLTlGLURaQ19va0tLeWdFZGd6NVZETHZ5ZkFFMkNaM3VxczZPcm14VndTR3F5NWdjMHRJbC05clh3aXpiOEcxdFFzZ29Z?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-11-03T10:47:38.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "I've been called a traitor: Space startup Pixxel's founder breaks silence amid trolling - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3RSTHFBazAta0piZ0hQblFxSHZxQ1plOHJvMy1IRXpHOVdiTjI1WVZUNG03cDljNDFxVmhCOGxTR0dGdWktLVF1ZjJZWmd0RTdLQ3FhMkt5OGpNVERucVpESFAtWFZuMVotdzVDU0UwT2tKTk9DWGFPeW1JNW9hbFJaWGFEYVdFXzZqWmhYX2hacmJfNmlnYlpPVVVXY0IwNkZ1M2o2cWw2NFRlbkRPbFVHRmNjZzl2b3haTm4zS3RLNjA0VG10S3REdmIzd0U2UHItaEtQdWNNdHfSAeABQVVfeXFMT1g3N1hTUzFoQmNiM1l3U285d0txNkZxVkFGYWRTODY1ZnJrb2RiZ2huelZxNjZZaDFXdFhrVkhiay1zMl9VT0lsdlNfb0RBY2kxcFV6MF8xb2o3d2R6ZDFQbm9makFlN0dzS3RxdmpsNkNKQUhhTHNhV0d1cXVkUG9XWnVycWNKZ1ZTRW0xUEdzeTc3ZnZvN2Z4Tk90c2QzcTRQRGRVX081TFctZktuaXg4azR6QjNxNkZXbW4tSnVpRWE1c0xvSDEyVEQ2R0NSQmJ3eU1lSGZ0eFVybWZucVU?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-11-02T12:30:20.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 10,
+      "totalArticles": 7,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 33,
-      "reason": "Last 3 days averaged 1.7/day vs 1.3/day before.",
+      "changePercent": 233,
+      "reason": "Last 3 days averaged 1.7/day vs 0.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 3
-        },
         {
           "date": "2026-10-30",
           "count": 1
@@ -782,6 +778,10 @@
         },
         {
           "date": "2026-11-04",
+          "count": 0
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
@@ -827,117 +827,19 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Terrorist killed in intelligence-based operation in Balochistan's Kech district: state media - The Express Tribune",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUFyQWtTdXktbnk0ZmdpY2ZsN1FfRnI4eXlLZUZnRlhVdkhtaHk4aVRIZ0hYZjl2QTE4YTdsUEI2Yk8yRDRxQ0RYVWtreTJPVUtVT1d6YUdZcjhFTkVoN3ZFQ0dXYnN6RTNXLXNxWFJxbVkxaHNtVzY5RG9lZzI3Q0M2eEo3NkpIN3g3bzAxY0ZEV0xQT0NOZy00N0NoVE1fVk5MYTBmRWxfQWNuZWdmUG1Zb0YwMXRhbG95REdHUUhORTN0RHc?oc=5",
+          "title": "India offers Asean counterterrorism lessons, but will one size fit all? - South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc2k5R1lVNm9mOHZMRW1jUmJJZ09lNDVPVWp6MVAwMDRIeFlPNlFWSGZNVGVtNGM4LVRMQ195U0ZPc2h6QmhDdmFMSDFHREVkQVY2T0lhV0wwRFRMcEZGV3lDVVhoZ0ZQZE1LdEJaeEFYM184RFdQSG9WWkgxNzhKNlJlOVhzR0NoOEh3QXRieGNjd0JrYTBnWXBvR0V4bVo2cWZWMEpqNmFuY093WXZBYXpIdWgwMVptekVnVnZ2QmRaeXVzYlpIY09keEt0RknSAc8BQVVfeXFMT0ZUSzJFTjZRSGJsRDc0UEFuY0Z2SFRnRnEyODRBZ0JfbU1ZWlhuYm1kVS1CZTJpOXRNOWRQT3BfcDZzSXllVXdEdjhUck9UMVI1RjNrbGhyS2pqczVHYnFBSUVtRnFnYTQ1UEVCT0RKaHNlUks5X3RmUUpqTWNWZUlfdUN4SGZWNTRkVHFkSTJFZXRQN1RwUnk4WGk4TGRUQ2NZQXRoZ3psR1d3WUpfM2docEhHUzRMYkVnbWZjb2N0M0Z5TmR0ODZYTWRCUldN?oc=5",
           "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-29T07:17:36.000Z",
-          "riskScore": 56,
+          "publishedAt": "2026-11-03T00:21:43.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
-          "title": "2,410 terrorists killed in last nine months - The Express Tribune",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVE3Q1RDUnlfakVET2NJNmV5ME9lOUMzLWhvOWlmYm1kNXJzWENGZFdwdGhuN010TzdTbW9oNlBSX2E4MFJOWWpOX0JZLXFpWmRKUjV2b2JlVVNSZU45QlotLVM5aldjY3I0LXd1QWxKVThXUTdpMXp1R25YTmFNZVRadXhfZ9IBjgFBVV95cUxONld0dlNlemhVWDdvXzJOSGEzWlg1TFRRYndUc2dUMTQ1Z3BSUzAyWXlRNnFxbHBhSlZDcng4WF9SSGVZVFBHSU9ZV1FxSW43aVVFRzNDQ3hjN2g5SU95S2RyQUdJVWJCMmNVckRkTnNFTkdER2plVFlFSC1fVnJfN2VuUGFlSFVEY1I2eWFB?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-29T03:28:58.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Teenage boy charged with terrorism offences - inkl",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYQS1EdndpR0NVSWdTM20wVjJzSC1PTzhscDc2Y0tKSk9YSGFWbHFjdjFhb25Gc21ZNTZtRVNaZlFENnkxYWJiT3BJWmdkVm9fb05iTjlqNkRCX0Q0SjZ6ZEk4YkN4cUpTUGZNd2hVTmFGOFFtS21INA?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-10-29T00:16:05.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "human-trafficking",
-      "label": "Human Trafficking",
-      "totalArticles": 6,
-      "distinctSources": 2,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -100,
-      "reason": "Last 3 days averaged 0.0/day vs 1.5/day before.",
-      "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 2
-        },
-        {
-          "date": "2026-10-30",
-          "count": 2
-        },
-        {
-          "date": "2026-10-31",
-          "count": 2
-        },
-        {
-          "date": "2026-11-01",
-          "count": 0
-        },
-        {
-          "date": "2026-11-02",
-          "count": 0
-        },
-        {
-          "date": "2026-11-03",
-          "count": 0
-        },
-        {
-          "date": "2026-11-04",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "DOJ warns of evolving human trafficking schemes - Daily Tribune",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVItVTdEQzdfLVcydXF0ZlZQcGEwZnJ3SjRTNVItWmNUNG85MkMtWXVua3dkbmNyV21WSm9ZQ2FvWlJFWFduRGtqdm51NTFXM1Q5TWRlRjVwbnRJcjhxVHVTTVl3N1ZmckNrM3hJQlYzZllPelJfZS0zTkktVG0wempERnZ4b2hm?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-31T10:41:25.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Trapped Behind the Scam: The digital face of human trafficking - DD News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVFRX2pybm1OZjNRbEpvVVhiOG9DS3hONmU0dFhBU1JUeFl4LVNoZ2o1YTVtQjIxVVZrSXhYXzF0RzRnTXVsMlF4OEZpOW43WGRKb3Jsdjg1WXpZS0NjdEhhbnVaQVBqem1vZV80Wlg1NkxXWUNveURLVWRHWUlIV0g4QW1CT2s1UVhGaTAxeTM?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-31T08:51:24.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Cambodian scam compound guards had military, police help: Amnesty - ucanews.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHJIdGFDSEhrODlmT2pBWWE3V2JnRDdlMWJrbzVFUGJOMGpBckNvaGUxcjlrYklpY0F1R2VFeVExODNubFowZ1p6R1pCRU5JUkN2QVluLXp4UW5TaWVLVmFueXhZOUJ1Y3dpck5Edkx0SEZ0TEp0Qk1FLXZIZXFQbmN0LTA0bFJoMEZJQ3MyWEhERWdOTzhYa3ZSOFo2a03SAZ8BQVVfeXFMT0hySHRhQ0hIazg5Zk9qQVlhN1diZ0Q3ZTFia281RVBiTjBqQXJDb2hlMXI5a2JJaWNBdUdlRXlRMTgzbmxaMGdaekdaQkVOSVJDdkFZbi16eFFuU2llS1Zhbnl4WTlCdWN3aXJORHZMdEhGdExKdEJNRS12SGVxUG5jdC0wNGxSaDBGSUNzMlhIREVnTk84WGt2UjhaNmtN?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-30T12:31:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Congress is investigating whether Starlink powered Myanmar's scam compounds - Startup Fortune",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFFHc0JZLUhCR1dsQWZxaTV0Vmtvc2c5dWF4Z2hveEowWUlZX0E5ejROdFhoRE1XVkpIandZQ0VJanV3TVlrRlJaOUlaeS10UDVfSnBtVTNEOVNZb0lnbzNiLW9wSXZ4aHdxUmlvV25FSE4tMVlFVklIVGVLN21YQmlQS3VkU2lCZWZvTkF0eS1FWERIY1dzaHN4Rm5hQ3Y0Sl84SA?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-29T22:08:27.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Trapped Behind the Scam: The digital face of human trafficking - DD News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVFRX2pybm1OZjNRbEpvVVhiOG9DS3hONmU0dFhBU1JUeFl4LVNoZ2o1YTVtQjIxVVZrSXhYXzF0RzRnTXVsMlF4OEZpOW43WGRKb3Jsdjg1WXpZS0NjdEhhbnVaQVBqem1vZV80Wlg1NkxXWUNveURLVWRHWUlIV0g4QW1CT2s1UVhGaTAxeTM?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-29T09:43:57.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmpGYUZFbS1XLTB4aWhxUG9LZjFxT3ptWkNTaEFxVW5sSkpqejg1N1p2SVF0bTZWZFVISGNtWEhWTnBKM3F2c0F6cGFHVmZvcW1tLVZHalNpcU10dkM5dGc1bkNWTmNmSzFiWjd5c3RkWEVTaS1JQWtyUGl1QWN0aVdSdGp0QjZ0YlQtOUlsNGRNdG5XSTVOMEp4clMwS3ZX?oc=5",
-          "source": "Google News • Human Trafficking (South Asia)",
-          "publishedAt": "2026-10-29T06:02:00.000Z",
-          "riskScore": 52,
+          "title": "Moscow’s Tsaritysyno Museum on terror radar? US warns Russia of possible attack - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRVoweWVSQlZfNElreFhnY0pXVnpnVXZzVml6N0twMlNqSkhfRWJlUHRnRnk0X3NBTGhkYmdmS1pvRjh6LTZNbUVfbE9WRHNMWFlEWUtOd2R6SWtmcVJQQ2M4aW1UVUsyUm9MOFZTeUU4UUI1ZGFuWUNaQ1lkTW9faUJBN0FQS2lkRzhHVTQ5YnduSjBjV213R0VncVVPN0VaYkctdGJBRGhMVWxlejFXaUE0RWlZZnM4dE01VVAwdlJVV0c3UVFPZE9IeEtCR0VmdXJTMkdLVHpuLTNWRUszck1DS1V6c3PSAewBQVVfeXFMTUVzYTFLQnVLMUF2eExBMjRqVGNxMUZfbGZxY3NVaW9wQ0xBLTdIZ19FTzBzaVJ3alNHNXZhRmtZUmZOR2s5dldxNTREUTZmY2JsdDh2ZDV0RlZENU9YVE40eVVScGlPSDh4QWFOMloxeHB5V1BackJ2QmhVcUlfSVNCd2xGQjd1QzBjcW9yVkY5ZkdQY21tVXoxa21WVldWZjFLcGF4Uk80VnZQcU40MC1jNWVJMkpSUVpVbGY1R3dwa2gzX21id0ZzT1lNelc5N0lDdU43ZFAwRER0eEJrWGJCS1FrLUVwZ0wtT0Y?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-10-31T15:32:00.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         }
       ]
@@ -945,17 +847,13 @@
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 6,
-      "distinctSources": 2,
+      "totalArticles": 7,
+      "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -73,
-      "reason": "Last 3 days averaged 0.3/day vs 1.3/day before.",
+      "changePercent": -78,
+      "reason": "Last 3 days averaged 0.3/day vs 1.5/day before.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 0
-        },
         {
           "date": "2026-10-30",
           "count": 2
@@ -978,10 +876,22 @@
         },
         {
           "date": "2026-11-04",
+          "count": 1
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "British No. 15 Jodie Burrage reveals horrific social media death threats after losing to India's Vaishnav - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX2hVQnpIR0k0dHlZUVpoUmZicVdISFNGX0xDbXhuSDlOdVc0ZVVBTDVYemt3ZFZ5N3FtbFk4elNYdUlKcmdCQnBWNG1xNHNDT0hQS3o0TDloQ2ZDeHdxMTdxLVF5a1RoMUhyQllndG5HZUo4bDk0bmlfbExFTzBnTnFPUnRlN0ZwZ2VSR090eTBYMzVabFRfZlIzYUhuVkdoQVFnQUk3aUYxNnlCQU40Y2ozSFBTc1lCU1NwcE1VcUhhc0M1enVSLWRTUVJPUDRyaHpFcVZ2YjZZWVFkTy0wOWw5cDNHTjFiUHBDclN1aXJBQk1OcW12QXp1UVVfTVVidERrMHhWQVg4Q2E2MUFtX3U3a0lZc3pJVXQwbmg4RnBOSVFGUTMwdFRMSEV5R1ZJXzlMNl9DcUQ3MktPaHREdFp5UdIByAJBVV95cUxPSUhnU3JBRzBHNVJDTHl2QjFya2RhejN0MEZoX25rSWZGR1ZpaXpjWUNIY3ZvWTg1bTVSTm55cWlpWVVwZEF5cndCOGUxMGdZZXA4aEE4UC13cUJpVmZxdDVCZ1JSSmJZNFVTRWJLM1pSZDEzdV9sblBhVTJWQ3psY2JONzgyZW5sRU53eVRoVGlFMzlzcDlJVEZvakp4VzV1cVl4bUd3ak0yZUpxZ3NOSU5BS1B4YXdURjVLLWdDWXh1MDdmMXphREVBODZPdklrU0dPYW5LdlVLNXMtQU85NTUxOVJrN0VIM3U1b2R2bGVVckVlOHBid2JvTDRzOElGZmlqSmkxNzZweVFhR3FtRzdidTlpOVc0RTlkblViUWtQWldycUJyOUk3VHdVbHA4R2hnREYyb2tIN2JpWTNFYTNWT2VhM05J?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-11-04T10:09:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
         {
           "title": "TikTok Creator Arrested for Alleged Incitement Against KZN Police Commissioner - Joburg ETC",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnh3ZnZ2S210aUlzdXU2cUtBNGJUN0YwRGNldElLNjFGcGREVFBTUWduaUVSSDVmMWt5VEhhV0l2WTA5bkVWbGwwTnZVdG9BczI2NkkyemE3NFZmQXBCbjd2YTlINy10ajJOZ3FlMndZYmh3RnI2RWFydlJoc0thSU81OFRVTzh3MGI4UXNHRUNhRzFtWTAwLQ?oc=5",
@@ -1043,10 +953,6 @@
       "reason": "Last 3 days averaged 0.3/day vs 1.0/day before.",
       "daily": [
         {
-          "date": "2026-10-29",
-          "count": 0
-        },
-        {
           "date": "2026-10-30",
           "count": 3
         },
@@ -1068,6 +974,10 @@
         },
         {
           "date": "2026-11-04",
+          "count": 0
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
@@ -1115,6 +1025,80 @@
       ]
     },
     {
+      "theme": "human-trafficking",
+      "label": "Human Trafficking",
+      "totalArticles": 4,
+      "distinctSources": 2,
+      "highRiskArticles": 0,
+      "trend": "Low volume",
+      "changePercent": null,
+      "reason": "4 articles in 7 collected days.",
+      "daily": [
+        {
+          "date": "2026-10-30",
+          "count": 2
+        },
+        {
+          "date": "2026-10-31",
+          "count": 2
+        },
+        {
+          "date": "2026-11-01",
+          "count": 0
+        },
+        {
+          "date": "2026-11-02",
+          "count": 0
+        },
+        {
+          "date": "2026-11-03",
+          "count": 0
+        },
+        {
+          "date": "2026-11-04",
+          "count": 0
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "DOJ warns of evolving human trafficking schemes - Daily Tribune",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVItVTdEQzdfLVcydXF0ZlZQcGEwZnJ3SjRTNVItWmNUNG85MkMtWXVua3dkbmNyV21WSm9ZQ2FvWlJFWFduRGtqdm51NTFXM1Q5TWRlRjVwbnRJcjhxVHVTTVl3N1ZmckNrM3hJQlYzZllPelJfZS0zTkktVG0wempERnZ4b2hm?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-10-31T10:41:25.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Trapped Behind the Scam: The digital face of human trafficking - DD News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVFRX2pybm1OZjNRbEpvVVhiOG9DS3hONmU0dFhBU1JUeFl4LVNoZ2o1YTVtQjIxVVZrSXhYXzF0RzRnTXVsMlF4OEZpOW43WGRKb3Jsdjg1WXpZS0NjdEhhbnVaQVBqem1vZV80Wlg1NkxXWUNveURLVWRHWUlIV0g4QW1CT2s1UVhGaTAxeTM?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-31T08:51:24.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Cambodian scam compound guards had military, police help: Amnesty - ucanews.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHJIdGFDSEhrODlmT2pBWWE3V2JnRDdlMWJrbzVFUGJOMGpBckNvaGUxcjlrYklpY0F1R2VFeVExODNubFowZ1p6R1pCRU5JUkN2QVluLXp4UW5TaWVLVmFueXhZOUJ1Y3dpck5Edkx0SEZ0TEp0Qk1FLXZIZXFQbmN0LTA0bFJoMEZJQ3MyWEhERWdOTzhYa3ZSOFo2a03SAZ8BQVVfeXFMT0hySHRhQ0hIazg5Zk9qQVlhN1diZ0Q3ZTFia281RVBiTjBqQXJDb2hlMXI5a2JJaWNBdUdlRXlRMTgzbmxaMGdaekdaQkVOSVJDdkFZbi16eFFuU2llS1Zhbnl4WTlCdWN3aXJORHZMdEhGdExKdEJNRS12SGVxUG5jdC0wNGxSaDBGSUNzMlhIREVnTk84WGt2UjhaNmtN?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-30T12:31:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Congress is investigating whether Starlink powered Myanmar's scam compounds - Startup Fortune",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFFHc0JZLUhCR1dsQWZxaTV0Vmtvc2c5dWF4Z2hveEowWUlZX0E5ejROdFhoRE1XVkpIandZQ0VJanV3TVlrRlJaOUlaeS10UDVfSnBtVTNEOVNZb0lnbzNiLW9wSXZ4aHdxUmlvV25FSE4tMVlFVklIVGVLN21YQmlQS3VkU2lCZWZvTkF0eS1FWERIY1dzaHN4Rm5hQ3Y0Sl84SA?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-10-29T22:08:27.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "illegal-goods",
       "label": "Illegal Goods",
       "totalArticles": 3,
@@ -1124,10 +1108,6 @@
       "changePercent": null,
       "reason": "3 articles in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 0
-        },
         {
           "date": "2026-10-30",
           "count": 0
@@ -1151,6 +1131,10 @@
         {
           "date": "2026-11-04",
           "count": 1
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -1183,17 +1167,13 @@
     {
       "theme": "suicide-self-harm",
       "label": "Suicide / Self-Harm",
-      "totalArticles": 2,
-      "distinctSources": 1,
+      "totalArticles": 3,
+      "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Low volume",
       "changePercent": null,
-      "reason": "2 articles in 7 collected days.",
+      "reason": "3 articles in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-10-29",
-          "count": 0
-        },
         {
           "date": "2026-10-30",
           "count": 1
@@ -1216,10 +1196,22 @@
         },
         {
           "date": "2026-11-04",
+          "count": 1
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "Woman, Who Shared University Milestone With Dying Grandfather, Bullied Over Pink Hair Before Her Suicide - Fashion Times UK",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFp1Mzd6UU1wRWFseXQwc09SMnJDOEt2QjJDdV9MaF81WGN0VklCdDBPczFQbVQxOGh3Z1lmdVJWbEp0ODlvZ3lhSjg4YWhrdlhKSzhFcXJhaTBIbS1RbzBKbjRUMFdkQ1A5bHdUbjRPSkRoWXNUTzhUbm1nSUpkbw?oc=5",
+          "source": "Google News • Harassment and Bullying",
+          "publishedAt": "2026-11-04T15:25:36.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
         {
           "title": "When Friends Die By Suicide, Young Lives Are Shaken Too - Outlook India",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWduQU03bm1Felk0c0RZME1YQVJMV0ExRTJHZ1F2OWlpMm03SjlIMDdVcy1ULWtBOEd3WmtVU0xjWUlWYTdZUW9BdFBfZ3dZbVFQLW9ObU5sLWpDTUE4b05Bd2dEMUtGTUhpaHFjMG5FeDkzNU1UN1NrV0JlR0RrT2V6bmtNZ2dTR0M4VmR4SGN1b3V1b20wdkw4eVgzNGRUMHJkM0FSOA?oc=5",
@@ -1249,10 +1241,6 @@
       "reason": "1 article in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-29",
-          "count": 0
-        },
-        {
           "date": "2026-10-30",
           "count": 0
         },
@@ -1274,6 +1262,10 @@
         },
         {
           "date": "2026-11-04",
+          "count": 0
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
@@ -1299,10 +1291,6 @@
       "reason": "1 article in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-29",
-          "count": 0
-        },
-        {
           "date": "2026-10-30",
           "count": 0
         },
@@ -1324,6 +1312,10 @@
         },
         {
           "date": "2026-11-04",
+          "count": 0
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
@@ -1349,10 +1341,6 @@
       "reason": "1 article in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-29",
-          "count": 0
-        },
-        {
           "date": "2026-10-30",
           "count": 0
         },
@@ -1374,6 +1362,10 @@
         },
         {
           "date": "2026-11-04",
+          "count": 0
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
@@ -1399,10 +1391,6 @@
       "reason": "1 article in 7 collected days.",
       "daily": [
         {
-          "date": "2026-10-29",
-          "count": 0
-        },
-        {
           "date": "2026-10-30",
           "count": 1
         },
@@ -1424,6 +1412,10 @@
         },
         {
           "date": "2026-11-04",
+          "count": 0
+        },
+        {
+          "date": "2026-11-05",
           "count": 0
         }
       ],
