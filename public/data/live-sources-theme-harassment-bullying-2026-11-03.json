@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:41:04.962Z",
+  "generatedAt": "2026-11-04T06:47:19.568Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 44
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,21 @@
       "feedTheme": "sexual-exploitation",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nearly One In Two Women Journalists Resort To Self-Censorship Due To Online Abuse: Study - TimelineDaily",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUJ2VzZTU1dIcjlfSXU1bzduU0l5OW9BemczWWk4dFpOWXlsNEJ1QXVTUnFYbGtxa2lzMmpkYzFvdUJsdGgwQVVWX0pfS0FySTJJT3VNeWVYSmEzZWdxN0RhSjN4QnZUV0ZTX29Ba05xUWc3THFPLTlGLURaQ19va0tLeWdFZGd6NVZETHZ5ZkFFMkNaM3VxczZPcm14VndTR3F5NWdjMHRJbC05clh3aXpiOEcxdFFzZ29Z?oc=5",
+      "snippet": "Nearly One In Two Women Journalists Resort To Self-Censorship Due To Online Abuse: Study TimelineDaily",
+      "publishedAt": "2026-11-03T10:47:38.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

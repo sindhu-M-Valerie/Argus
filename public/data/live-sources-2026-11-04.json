@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:41:04.962Z",
+  "generatedAt": "2026-11-04T06:47:19.568Z",
   "snapshot": true,
   "date": "2026-11-04",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 19
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 44
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,111 @@
   ],
   "data": [
     {
+      "title": "Diwali cash crunch? PIB Fact Check debunks claim of shortage of Rs 10, Rs 20, Rs 50 notes - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONW5WVG5RekFnNUhscVA4WjU4NmFreGNuMzdQNVlRU1NMZWlESXhnMmlkb016SVBhNEZ1QzVRR2Y0Um1Sd3FVeVpCaXowdjEwQ1dKcE1pWU5XMV90OHpfQ2xUOG9wc1UzWVdPM3Eyc0g4R2RlWDhGMGs0bHpPb19tQTFpcTlTakEtTW8tT3hNRy1IWHFhX21MRGVRazNHNndTUTB5YWliVTEweU5NZ2pEbjc1Ny1kLTduVGt6ZGlfMjZLZFpRaDE2eEdSMTBES1llaGNxbjRnRHBXemQ20gHcAUFVX3lxTE41blZUblF6QWc1SGxxUDhaNTg2YWt4Y24zN1A1WVFTU0xlaURJeGcyaWRvTXpJUGE0RnVDNVFHZjRSbVJ3cVV5WkJpejB2MTBDV0pwTWlZTlcxX3Q4el9DbFQ4b3BzVTNZV08zcTJzSDhHZGVYOEYwazRsek9vX21BMWlxOVNqQS1Nby1PeE1HLUhYcWFfbUxEZVFrM0c2d1NRMHlhaWJVMTB5Tk1nakRuNzU3LWQtN25Ua3pkaV8yNktkWlFoMTZ4R1IxMERLWWVoY3FuNGdEcFd6ZDY?oc=5",
+      "snippet": "Diwali cash crunch? PIB Fact Check debunks claim of shortage of Rs 10, Rs 20, Rs 50 notes The Financial Express",
+      "publishedAt": "2026-11-04T04:06:08.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "INDIA Bloc Rally: Police Firing Kills 4 Cong Workers? No, Unrelated Videos Viral With False Claim - Newschecker",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFJVdlBmQjZ0ckpkTm9aZUhTQWVpWTB2VU1mTzJSZmJPWGp2SHA1T19wLTBXYndYWkkwOGlLM2JGVFJ4YWo3T0p2WjRBMWwzRnJYUmJnSkpLb1ZrTGl0emFSbFBUaEdSOG9iQVpUY1VvUi1uX2E1UDZZTUotYTRONkRuX3lJODFYUlJNV3NsS1FzM19odDQyQTh1Q1RYY0p6Z18zVnZHVDhKVnZ6Ukh5MURDYmlxLWRBMktCbWZKYlVTa09fV2lvQU05RTRkeWc?oc=5",
+      "snippet": "INDIA Bloc Rally: Police Firing Kills 4 Cong Workers? No, Unrelated Videos Viral With False Claim Newschecker",
+      "publishedAt": "2026-11-04T05:39:20.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Russian Foreign Minister says India is neither an ally nor a superpower? No, AI-manipulated video goes viral - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSkNORnM4dTI1WGNZZE9PZFM0X1pmbW9aelVpNElSeEJVQ3czMFBRdC15b3VnUk9lbjJHNmVscHNjWmRWX3JNNzZnTHpRaG9LRXktQTRBZzFuY1AyM3dKZE5PX1RwOEF3OFVrTUpMN0JfbjFtc0lyUFFtOVg5MmRnOGRkUWhySnRnTWkzdERzTFFnZXVsQmd4RWhneXRjZE5nNFdjd2xva2pYajZpLThRbjJNWDN3SmNUSG9JcV8xX2Npb2FQYXF0LWJ3R05YdFZtVjJFQmJ5RC1fRUtuckFLUDZHV1Z4VF9vTGpURzNUVE5uRXVQZUFpRmFoX3U1UTFPVEtUUGtNMnNDVXBXVFdxY0c4OA?oc=5",
+      "snippet": "Fact Check: Russian Foreign Minister says India is neither an ally nor a superpower? No, AI-manipulated video goes viral NewsMeter",
+      "publishedAt": "2026-11-04T04:54:51.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi Police Registers FIR Over Fake Lavrov Video Shared By Prashant Bhushan After MEA Fact-Check - News18",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTBtallib1hKSTBHWHNMR3JjNFpXbG1YNERDaDh0NktSNWRKX3hWbkE0TVVNWEtwa3d4Y2NOUEh2Y3U1dGNWeURpdUFQVFhBTDJUcjJva1FERW1kMThqdjl4STM0cnZ5SFZyS1dCZzNZOXhyUWpSRGJyVUgzOTZIbmJWaXhfOVRSdHZJOFNyUC00NFNFeHVxU2sybEdnZTVUY2gyZ28tbjFYdmRqeklqZGVJb3RSS0stRHBIZTlNTzVkY1NZRk1UWS1qREphNWhGaVQ4VHMxMmZycS1RLXfSAeMBQVVfeXFMTzFNZ0YwaElrcWdQQnh3OHk5Y3lELXZ1S1NBUi1sWjZZVmdVSGw1a0dpVXVFd20zbEVqTHVacDZzWWt4aGNRb1l1WGt4c2ZjNlpXS0thUC14Tnd4YUtmSXRhb2NEZkhSdUlDdVR5VVRTSzNPcW03WGhMOHhVcHp4STRhMTNyc0ZCdWFhS25mSE1GSHNDdTRTOGpEZDB3NURHVTZUM0NaT0JaZDBTNUFlQ3h1d1YwZWUzV19CZWI1VTk5ejlMamlfVVdGRDhLRkNXNldaSVBIN2NFREdMLUhzT0ZGanc?oc=5",
+      "snippet": "Delhi Police Registers FIR Over Fake Lavrov Video Shared By Prashant Bhushan After MEA Fact-Check News18",
+      "publishedAt": "2026-11-04T03:28:04.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Prashant Bhushan gets fact checked by MEA for sharing fake video of Russian Foreign Minister criticising India - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeHVKa1hHV0JsS0tMUGxMTkZUQmZlNG50dlZKQUhfNG9wdjNmWWhaWFA3VllUQTNWbXZKTGdyd1JkN0oyeUVYZ204ak9JdTJiVnFyNjdwYVZvX2FOU0NlVzg2NzI5LWMxdjNPQk82MFBfamVWUnA2V2dWcWRtdWlwbWVDTTJ3ZWJiVTB1OGVuRm0xSVVsWVcxMkNibThsU3hhZWRNcmtZbk1Yb2FDZm5DNzZaQm52V29LRlNveThyOVZZVGNkUlAzWnJmWEFpbVl3RWF3enpKRDFtY19EcEQwaTdsYlJvYU9nOHRuU0luUdIB9AFBVV95cUxOajBtUS00OEI3cGlJTFhrSW9pVE1PWVlKYXVjOVA0MHMxdnVoaDlDS1NVcGo3LURvcUFVUzZlR1hBRGZocnIzdWpkMDNiODlDZEZaWEFBejRhNUdSU0VvRlptbmpudFoyRG9BTWtzelBiYjRhX0VGVnFQSFRURldWVXl6WGlSQlREQjdXaW5RYTIybGxlUXhIMUpxQmswa0JnbUxxN3RrekhEcXcxcUVqUWNuM2p5cFpfS2IxMm5OaDl3N0ZUZzBfcWZHYzZ2ZHNKMGJsYndsejl3Q1NCZ2FTYUFyMlNfMnN6Vm9rRmVldFAxYXdC?oc=5",
+      "snippet": "Prashant Bhushan gets fact checked by MEA for sharing fake video of Russian Foreign Minister criticising India Organiser",
+      "publishedAt": "2026-11-04T03:13:26.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "FTC Recovers $80 Million in Impersonation Scam Cases - MyChesCo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjJwb0VWU0JaWUZzZlJCd2tBMWRHSURPVWdwbFpEM2dUOW5Scy0weUlNZy1nX0xHTTRBS1g3c1dPblhvXzVaRHBBTTJJNnExbmYzd2RVdHhxcDRaeW1FWExGWFhQZnE0VzJBdGhNblBMTDQyLVY4cWoybTFieG4xSmVoRTZwLWRNNktHWE9fV3RDTkZVMU1fag?oc=5",
+      "snippet": "FTC Recovers $80 Million in Impersonation Scam Cases MyChesCo",
+      "publishedAt": "2026-11-03T22:17:15.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police say Little Chute child exploitation case was investigated, charges sent to district attorney - WBAY",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjZ4WEdxTVV3M3lGZmp3MDU2ajJ0aHRHQnpfTFRpd1g0X2hSODdMSG03SWp2dFYzWHplaU1lQzlDODl2VzljYWxUMVB4MzkwNlAwcDdxSWJXYV9aNjIyUkFSZ0lqaTFIU3VsNXB0OVc2T0U2WXB0REx0ZkFoT216UzFqOGxzU2pucDJnbGVlZExzdUQ5TUZKaUxyUkRFWjZSdGxWWGhyMHhOSEx3N3hoUWh0bUZsdkRiZl9ZYWRmaXpJd1V2cWNn?oc=5",
+      "snippet": "Police say Little Chute child exploitation case was investigated, charges sent to district attorney WBAY",
+      "publishedAt": "2026-11-03T21:16:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Quincy man arraigned on felony child pornography charges - WGEM",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSktJMnNBclEyVk9KaWtSank1WmMzdDJ2SGNoUkFFaUUwVGpQODJRWWNTN0pMRXZaa2E4ck8zVFR4SVNnOU1hazhTd2xDOVhmLTB3dFN5aEVsM3NlZXNCek8yYU1YcFJ4MUd3Wjd4bm5HMnlQT20xNE5VVUdSczltMU5rV1hOVG1UV3gwS3JWRQ?oc=5",
       "snippet": "Quincy man arraigned on felony child pornography charges WGEM",
@@ -192,6 +297,66 @@
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Illegal Gambling, AI Deepfakes, Gender-Based Abuse & National Security: Meta Reports 5.4 Million+ unlawful Content blocking in India - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTW1LeHVtSk80VmlpZ3BJUEhjcmJ2c2NNblNVWDZjLWpwMm42TWlZRnBXUW9FSURSNjQ0Zm9KenR2M1BxVkRBVFVVRXhOUE11Rm50VFUwR19VbGxaN3FGWE9vXy1fYUloN3EwYkYyUV9UYzVmRjA2Y21RcHpjWDQyZEYxLWc4Q1RsSGowWDI3cXpNUQ?oc=5",
+      "snippet": "Illegal Gambling, AI Deepfakes, Gender-Based Abuse & National Security: Meta Reports 5.4 Million+ unlawful Content blocking in India The 420.in",
+      "publishedAt": "2026-11-04T05:20:44.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Stockal Investors Allege ₹100 Crore Fraud After Their US Blue-chip Stocks Are Sold Without Consent: Report - Moneylife",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNDdlQk1WTGlxNEY5bjFUaml6cWJNRk55Y0xNUi1xM3FYVVMwdFdRbnhIY1dUbzIzeGZzSHJZOHBtRk16T1VTZ1FZR3kzX0J3LWhtMld1UWtGblNOYlJJeDNQMHRUbWxRVDk3b0VFRThPRE44MzZmVm9iWGctSmdDcnp1Qy0ta0FBNHVHdHc2MlF5NFhvWTl5N05EaEhNWnlhZTRZMC0zMlV3YTQyeVJqLVAyLXBFUlpqU1E5Y0pzVXlWZjZ1LXlnXzN6N2ZXQ0VKdXpXamw3ZzUyRXlONFpHMw?oc=5",
+      "snippet": "Stockal Investors Allege ₹100 Crore Fraud After Their US Blue-chip Stocks Are Sold Without Consent: Report Moneylife",
+      "publishedAt": "2026-11-04T06:30:28.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kedah police bust seven online scam syndicates, arrest 87 - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckVTMkp1VTFHZGVJbTJxM2VWem8tV3NtcHNXT3FuX0VNeE8wMF8tRnJYVVhES29sMDI5cWpCOVdNREljb3lKVmZGdUxNT2RrRVlpLTFhZEJBM0J5dVpaamE5Q1hfRlJQZ01PMGhoaF9hWDk3NWJCejVRNnY3VmxWTEZOMnNhLUsxS3AySzBsWEctVXlKdC1QUkhmUXpaTWxOanhxTEh2b0FUV3FTQWtGaFFtONIBswFBVV95cUxQckVTMkp1VTFHZGVJbTJxM2VWem8tV3NtcHNXT3FuX0VNeE8wMF8tRnJYVVhES29sMDI5cWpCOVdNREljb3lKVmZGdUxNT2RrRVlpLTFhZEJBM0J5dVpaamE5Q1hfRlJQZ01PMGhoaF9hWDk3NWJCejVRNnY3VmxWTEZOMnNhLUsxS3AySzBsWEctVXlKdC1QUkhmUXpaTWxOanhxTEh2b0FUV3FTQWtGaFFtOA?oc=5",
+      "snippet": "Kedah police bust seven online scam syndicates, arrest 87 NST Online",
+      "publishedAt": "2026-11-04T03:40:28.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The ubiquitous crime: fraud, explained - United Nations Office on Drugs and Crime",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3BHUF9nM3VJZExKR0QxT2dWdy1WalFtVG5rcktkXzRwdjdZZHJ3ZDBYbl91eGZQcDA1WVpHNTVoUkNIdmJWMzVFMG9iU1lWSXBoRFFuWjQzYV9VcTloVkx5V1YwaURyWWJmRGlKR3hvdkoyRjYwcXJFMFhVc3hSZURPYk5SYmI4ekcwUmJoVDJpeERwV0hndFJuMA?oc=5",
+      "snippet": "The ubiquitous crime: fraud, explained United Nations Office on Drugs and Crime",
+      "publishedAt": "2026-11-04T00:52:09.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -215,13 +380,88 @@
       "title": "Fraud case numbers drop, but losses rise: police - The Macau Post Daily",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZN1p3TUNucW1lVWt3NWVmaTZEOVpKVkRjb2dnSUJybWxMTU85QTZzam9wMzg3UHBnTUdWcEFPRk9kOUdlTWlDTzJxRmpPeTdsc3hZ?oc=5",
       "snippet": "Fraud case numbers drop, but losses rise: police The Macau Post Daily",
-      "publishedAt": "2026-11-03T18:50:56.000Z",
+      "publishedAt": "2026-11-03T19:01:57.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity in Digital Banking: Building Consumer Trust in a Digital Economy - businessnewsthisweek.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkswUE1uUGVGNkxQSTdHaUlMQ25vTi1nM1hlUTZVem9RcjJIQ2tWNHNOUkcwVHZHTXFIQnVEQlBSUFpGQ0hsbkxWZmJoMkFPd0JHX3ZMdUpBRjlDLS1ibmZRY2YyTXdmWlU3YUNxd0RGNzRtcG9lS0Z3WUxXWHZVUFZjdkZ6MFZhTzdfeTZfbjk4cWp0Y2FKZ1d2RllveGFpS2FYS0M4ZjhwRC1XeTFla0FSclJXYUY0bHNfeXpUbmtsWXF4ZWdDTg?oc=5",
+      "snippet": "Cybersecurity in Digital Banking: Building Consumer Trust in a Digital Economy businessnewsthisweek.com",
+      "publishedAt": "2026-11-04T05:42:38.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI agents drive new cybersecurity investment strategies - PEI Private Equity",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdEJubjdCMFJaaFJXdm5COVZtUjRLQVhJZjc3REpKZVlzMzFmcDAwVEpIU0d3MnBxTXVDZDVqbUpoVUtQWVdGMUIwdTdsbFFvTnJfc3ZyUVQ2THRwem1XaTZJYWNkc0dDVldEeGsxMVVqcGZkSmtabENRNkllVEl6RlVpcXFpR3dyUE13RGVTUDhwbVREUnZOR1d5RGcxdGJG?oc=5",
+      "snippet": "AI agents drive new cybersecurity investment strategies PEI Private Equity",
+      "publishedAt": "2026-11-04T05:02:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Folsom Police participates in regional drug trafficking initiative that nets 146 arrests, $7.4M in drugs - Folsom Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2k1aXlXRzZhMzJ2NS1zanBPUWhNLUxzNnFKa1lLNlJSSEpUUjYxSGVYc1VoSmJ1RDc1NFVYN2doWDlEX0ZibWpBUmpyZHRHbWRSb0R6UGRjSFlTVDhuM2pHU2VaenRCcF9waFNRT3R2ZGFsRHdSc3EyZlZOYm9rZzRzXzdwWXJBS1JuakJLOEw4LWo3MExkR3Y4eUgwbEpXMWsydFFQQlQ1YVNYTGdWZ043MkZJWm9FQjRFM2YzSXJId19ZaEZITFlodw?oc=5",
+      "snippet": "Folsom Police participates in regional drug trafficking initiative that nets 146 arrests, $7.4M in drugs Folsom Times",
+      "publishedAt": "2026-11-03T23:58:57.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "illegal-goods",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Central Okanagan students, staff targeted in cybersecurity breach - CBC",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnVsUTFTa0NzZTdoZnR1VllDYUZfMHllRl9fNnJkcFloWHk2NlduTXlEbDllZmh1SFBET3dZWUFTNEdFX2dndW5nZzNtWUlDeC1YLVZlSG1CalIyQUhuc2FibS1ad2dyWmRXTnVkdHVCZ28wUjNzRHN5OW9BeldEMDFCWGplUkxXWXN3bk9CblZJb3FaRG5qeXkxZHNvQlZRdFRfeV9qOEo0ZGQydmM3RWpR?oc=5",
+      "snippet": "Central Okanagan students, staff targeted in cybersecurity breach CBC",
+      "publishedAt": "2026-11-03T23:10:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Central Okanagan students, staff targeted in cybersecurity breach - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWJLUExCNlh5bm9nM19UYWNOM3VXc0JpYWtkakRNamNDZm5rUVRGdkl1YVFxcjZUbl9TaVVXTWtKcG9TN2tkWVEtYWNIWjN3eEJMTzVXLVQ4d19BQ2NNV1lpWkRUbGM0Y0ZvZzAzS3JyTUNQVDUxckptVXBEOHZ1cW5INHh4Q2lM?oc=5",
+      "snippet": "Central Okanagan students, staff targeted in cybersecurity breach Yahoo News Canada",
+      "publishedAt": "2026-11-03T23:10:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

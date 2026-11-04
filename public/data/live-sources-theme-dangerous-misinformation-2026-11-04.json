@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:41:04.962Z",
+  "generatedAt": "2026-11-04T06:47:19.568Z",
   "snapshot": true,
   "date": "2026-11-04",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 6
   },
-  "message": "No verified news was found for 2026-11-04 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 44
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,96 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Diwali cash crunch? PIB Fact Check debunks claim of shortage of Rs 10, Rs 20, Rs 50 notes - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONW5WVG5RekFnNUhscVA4WjU4NmFreGNuMzdQNVlRU1NMZWlESXhnMmlkb016SVBhNEZ1QzVRR2Y0Um1Sd3FVeVpCaXowdjEwQ1dKcE1pWU5XMV90OHpfQ2xUOG9wc1UzWVdPM3Eyc0g4R2RlWDhGMGs0bHpPb19tQTFpcTlTakEtTW8tT3hNRy1IWHFhX21MRGVRazNHNndTUTB5YWliVTEweU5NZ2pEbjc1Ny1kLTduVGt6ZGlfMjZLZFpRaDE2eEdSMTBES1llaGNxbjRnRHBXemQ20gHcAUFVX3lxTE41blZUblF6QWc1SGxxUDhaNTg2YWt4Y24zN1A1WVFTU0xlaURJeGcyaWRvTXpJUGE0RnVDNVFHZjRSbVJ3cVV5WkJpejB2MTBDV0pwTWlZTlcxX3Q4el9DbFQ4b3BzVTNZV08zcTJzSDhHZGVYOEYwazRsek9vX21BMWlxOVNqQS1Nby1PeE1HLUhYcWFfbUxEZVFrM0c2d1NRMHlhaWJVMTB5Tk1nakRuNzU3LWQtN25Ua3pkaV8yNktkWlFoMTZ4R1IxMERLWWVoY3FuNGdEcFd6ZDY?oc=5",
+      "snippet": "Diwali cash crunch? PIB Fact Check debunks claim of shortage of Rs 10, Rs 20, Rs 50 notes The Financial Express",
+      "publishedAt": "2026-11-04T04:06:08.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "INDIA Bloc Rally: Police Firing Kills 4 Cong Workers? No, Unrelated Videos Viral With False Claim - Newschecker",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFJVdlBmQjZ0ckpkTm9aZUhTQWVpWTB2VU1mTzJSZmJPWGp2SHA1T19wLTBXYndYWkkwOGlLM2JGVFJ4YWo3T0p2WjRBMWwzRnJYUmJnSkpLb1ZrTGl0emFSbFBUaEdSOG9iQVpUY1VvUi1uX2E1UDZZTUotYTRONkRuX3lJODFYUlJNV3NsS1FzM19odDQyQTh1Q1RYY0p6Z18zVnZHVDhKVnZ6Ukh5MURDYmlxLWRBMktCbWZKYlVTa09fV2lvQU05RTRkeWc?oc=5",
+      "snippet": "INDIA Bloc Rally: Police Firing Kills 4 Cong Workers? No, Unrelated Videos Viral With False Claim Newschecker",
+      "publishedAt": "2026-11-04T05:39:20.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Russian Foreign Minister says India is neither an ally nor a superpower? No, AI-manipulated video goes viral - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSkNORnM4dTI1WGNZZE9PZFM0X1pmbW9aelVpNElSeEJVQ3czMFBRdC15b3VnUk9lbjJHNmVscHNjWmRWX3JNNzZnTHpRaG9LRXktQTRBZzFuY1AyM3dKZE5PX1RwOEF3OFVrTUpMN0JfbjFtc0lyUFFtOVg5MmRnOGRkUWhySnRnTWkzdERzTFFnZXVsQmd4RWhneXRjZE5nNFdjd2xva2pYajZpLThRbjJNWDN3SmNUSG9JcV8xX2Npb2FQYXF0LWJ3R05YdFZtVjJFQmJ5RC1fRUtuckFLUDZHV1Z4VF9vTGpURzNUVE5uRXVQZUFpRmFoX3U1UTFPVEtUUGtNMnNDVXBXVFdxY0c4OA?oc=5",
+      "snippet": "Fact Check: Russian Foreign Minister says India is neither an ally nor a superpower? No, AI-manipulated video goes viral NewsMeter",
+      "publishedAt": "2026-11-04T04:54:51.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi Police Registers FIR Over Fake Lavrov Video Shared By Prashant Bhushan After MEA Fact-Check - News18",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTBtallib1hKSTBHWHNMR3JjNFpXbG1YNERDaDh0NktSNWRKX3hWbkE0TVVNWEtwa3d4Y2NOUEh2Y3U1dGNWeURpdUFQVFhBTDJUcjJva1FERW1kMThqdjl4STM0cnZ5SFZyS1dCZzNZOXhyUWpSRGJyVUgzOTZIbmJWaXhfOVRSdHZJOFNyUC00NFNFeHVxU2sybEdnZTVUY2gyZ28tbjFYdmRqeklqZGVJb3RSS0stRHBIZTlNTzVkY1NZRk1UWS1qREphNWhGaVQ4VHMxMmZycS1RLXfSAeMBQVVfeXFMTzFNZ0YwaElrcWdQQnh3OHk5Y3lELXZ1S1NBUi1sWjZZVmdVSGw1a0dpVXVFd20zbEVqTHVacDZzWWt4aGNRb1l1WGt4c2ZjNlpXS0thUC14Tnd4YUtmSXRhb2NEZkhSdUlDdVR5VVRTSzNPcW03WGhMOHhVcHp4STRhMTNyc0ZCdWFhS25mSE1GSHNDdTRTOGpEZDB3NURHVTZUM0NaT0JaZDBTNUFlQ3h1d1YwZWUzV19CZWI1VTk5ejlMamlfVVdGRDhLRkNXNldaSVBIN2NFREdMLUhzT0ZGanc?oc=5",
+      "snippet": "Delhi Police Registers FIR Over Fake Lavrov Video Shared By Prashant Bhushan After MEA Fact-Check News18",
+      "publishedAt": "2026-11-04T03:28:04.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Prashant Bhushan gets fact checked by MEA for sharing fake video of Russian Foreign Minister criticising India - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeHVKa1hHV0JsS0tMUGxMTkZUQmZlNG50dlZKQUhfNG9wdjNmWWhaWFA3VllUQTNWbXZKTGdyd1JkN0oyeUVYZ204ak9JdTJiVnFyNjdwYVZvX2FOU0NlVzg2NzI5LWMxdjNPQk82MFBfamVWUnA2V2dWcWRtdWlwbWVDTTJ3ZWJiVTB1OGVuRm0xSVVsWVcxMkNibThsU3hhZWRNcmtZbk1Yb2FDZm5DNzZaQm52V29LRlNveThyOVZZVGNkUlAzWnJmWEFpbVl3RWF3enpKRDFtY19EcEQwaTdsYlJvYU9nOHRuU0luUdIB9AFBVV95cUxOajBtUS00OEI3cGlJTFhrSW9pVE1PWVlKYXVjOVA0MHMxdnVoaDlDS1NVcGo3LURvcUFVUzZlR1hBRGZocnIzdWpkMDNiODlDZEZaWEFBejRhNUdSU0VvRlptbmpudFoyRG9BTWtzelBiYjRhX0VGVnFQSFRURldWVXl6WGlSQlREQjdXaW5RYTIybGxlUXhIMUpxQmswa0JnbUxxN3RrekhEcXcxcUVqUWNuM2p5cFpfS2IxMm5OaDl3N0ZUZzBfcWZHYzZ2ZHNKMGJsYndsejl3Q1NCZ2FTYUFyMlNfMnN6Vm9rRmVldFAxYXdC?oc=5",
+      "snippet": "Prashant Bhushan gets fact checked by MEA for sharing fake video of Russian Foreign Minister criticising India Organiser",
+      "publishedAt": "2026-11-04T03:13:26.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Illegal Gambling, AI Deepfakes, Gender-Based Abuse & National Security: Meta Reports 5.4 Million+ unlawful Content blocking in India - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTW1LeHVtSk80VmlpZ3BJUEhjcmJ2c2NNblNVWDZjLWpwMm42TWlZRnBXUW9FSURSNjQ0Zm9KenR2M1BxVkRBVFVVRXhOUE11Rm50VFUwR19VbGxaN3FGWE9vXy1fYUloN3EwYkYyUV9UYzVmRjA2Y21RcHpjWDQyZEYxLWc4Q1RsSGowWDI3cXpNUQ?oc=5",
+      "snippet": "Illegal Gambling, AI Deepfakes, Gender-Based Abuse & National Security: Meta Reports 5.4 Million+ unlawful Content blocking in India The 420.in",
+      "publishedAt": "2026-11-04T05:20:44.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

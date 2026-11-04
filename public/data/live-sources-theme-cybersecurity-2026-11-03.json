@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:41:04.962Z",
+  "generatedAt": "2026-11-04T06:47:19.568Z",
   "snapshot": true,
   "date": "2026-11-03",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 21
+    "total": 24
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 44
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -227,6 +227,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ1lHcUs3Zm1uSkJTNXAtSjY3UEpmejBOX0loYjF6ZUxhY1g4OVYyWUl0NjFZbWZMRlpBRkR4ODhjYUNRS201OHVMZjRta09LYVVzTUlqc1hKdUl2N1lPeWZxZFJjaUU4eVlhM3RKRk9zUTRYX3NPUVNnM0Nlb0Ixd29R?oc=5",
+      "snippet": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes The Hacker News",
+      "publishedAt": "2026-11-03T18:16:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckdTM0hkTnJTWEZCQjZ3TElZZlRxc3EtMi0wM3c4Rmd2QjJDWm9Pcml3cFl1ckFYWlBNMmc4R3RNdDFIUW5EaU15NHVrMUhfWGgwQVVfcDkxSGtSZzJOMmY2ZURBdXdHMURFZTF2RXliNmM3amJ5RGM5emtsQVVFRHZPdlA?oc=5",
+      "snippet": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft The Hacker News",
+      "publishedAt": "2026-11-03T16:55:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "CZ Urges Crypto Users to Tighten Security After South Korean Data Breaches - citybuzz -",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGtXNFVaWW9SVWx4eWJkTXJnal9QakFNaGNRY3otYmFIWFAtYTg2cldiOHBqMWRSbGR2YmZ2RkRDOHdKMEZtSjYzQ1o0LTBwVmFPdW1LRi1VR3p3YzFwYVF6N3dQbEFfUnBwS0tFRG95NGRNMVA3UUdKcEpDd1lCUjV0c21rd2d4YTM4aThqZ2NXbzFwZ2haVE9PaVJ2MFlRWkowNVVvOUx0OW9Kc0o4?oc=5",
       "snippet": "CZ Urges Crypto Users to Tighten Security After South Korean Data Breaches citybuzz -",
@@ -276,6 +306,21 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVBhUXJ5aGNXaE9ZSVNwcnE4MkVVWWRSbVRjOXZYZXBrZ0pab2hRTjZhaTdyaS1IWFMzUWVUYzVLRjBRTkVHZGFCU0JkRTRUbHFwUXBrRzA3eHd6VnZJdHREOHJvMXdnTU5yX2J0QnpFaUNoUGRxY0phTEl5UTA4eWlVSXc3ZndzWlhHak16SVdWRHBEZ3NWMW85M2RqMFVqWmYxQzVVYkw2eWsxcjI1WQ?oc=5",
       "snippet": "Cybersecurity Workforce Training & Simulation Platforms Market [2034] Fortune Business Insights",
       "publishedAt": "2026-11-03T14:51:29.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Canvas Data Breach and its Impact on Student Records: Steps to Take to Protect Against Future Attacks - School Construction News",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSmVBTjlEQkhabnhhQUZKdWx2MmlWWVd6SWN5MnZIZmFvR2gzN2xpTGMtcDVXa2tOdGFxYjJURGlMVkRlSEQ5ZXhONUNGQ0kzbE0xVkNPNVN4d1V1X2J5dkxZNzJhbHd1QlRDSEdWbjBOenBXSlYxcjd1NnVPdFlmZkROLUpIZ2FlSWF2Z05oei1KVHhZemk3UktsRkx1WS1jU1ZpaUdEdHQ1d2h4X0tiR3RHZ2IzNk04d0x3UjVDeDQxV04wQUdfLWRzR1o1M3FKbkMxcWN1TjNnUlVpc2lqSmFUZV93Zw?oc=5",
+      "snippet": "The Canvas Data Breach and its Impact on Student Records: Steps to Take to Protect Against Future Attacks School Construction News",
+      "publishedAt": "2026-11-03T14:00:54.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

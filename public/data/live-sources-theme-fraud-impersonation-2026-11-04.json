@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:41:04.962Z",
+  "generatedAt": "2026-11-04T06:47:19.568Z",
   "snapshot": true,
   "date": "2026-11-04",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 44
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 75
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,66 @@
   ],
   "data": [
     {
+      "title": "FTC Recovers $80 Million in Impersonation Scam Cases - MyChesCo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjJwb0VWU0JaWUZzZlJCd2tBMWRHSURPVWdwbFpEM2dUOW5Scy0weUlNZy1nX0xHTTRBS1g3c1dPblhvXzVaRHBBTTJJNnExbmYzd2RVdHhxcDRaeW1FWExGWFhQZnE0VzJBdGhNblBMTDQyLVY4cWoybTFieG4xSmVoRTZwLWRNNktHWE9fV3RDTkZVMU1fag?oc=5",
+      "snippet": "FTC Recovers $80 Million in Impersonation Scam Cases MyChesCo",
+      "publishedAt": "2026-11-03T22:17:15.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Stockal Investors Allege ₹100 Crore Fraud After Their US Blue-chip Stocks Are Sold Without Consent: Report - Moneylife",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNDdlQk1WTGlxNEY5bjFUaml6cWJNRk55Y0xNUi1xM3FYVVMwdFdRbnhIY1dUbzIzeGZzSHJZOHBtRk16T1VTZ1FZR3kzX0J3LWhtMld1UWtGblNOYlJJeDNQMHRUbWxRVDk3b0VFRThPRE44MzZmVm9iWGctSmdDcnp1Qy0ta0FBNHVHdHc2MlF5NFhvWTl5N05EaEhNWnlhZTRZMC0zMlV3YTQyeVJqLVAyLXBFUlpqU1E5Y0pzVXlWZjZ1LXlnXzN6N2ZXQ0VKdXpXamw3ZzUyRXlONFpHMw?oc=5",
+      "snippet": "Stockal Investors Allege ₹100 Crore Fraud After Their US Blue-chip Stocks Are Sold Without Consent: Report Moneylife",
+      "publishedAt": "2026-11-04T06:30:28.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kedah police bust seven online scam syndicates, arrest 87 - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckVTMkp1VTFHZGVJbTJxM2VWem8tV3NtcHNXT3FuX0VNeE8wMF8tRnJYVVhES29sMDI5cWpCOVdNREljb3lKVmZGdUxNT2RrRVlpLTFhZEJBM0J5dVpaamE5Q1hfRlJQZ01PMGhoaF9hWDk3NWJCejVRNnY3VmxWTEZOMnNhLUsxS3AySzBsWEctVXlKdC1QUkhmUXpaTWxOanhxTEh2b0FUV3FTQWtGaFFtONIBswFBVV95cUxQckVTMkp1VTFHZGVJbTJxM2VWem8tV3NtcHNXT3FuX0VNeE8wMF8tRnJYVVhES29sMDI5cWpCOVdNREljb3lKVmZGdUxNT2RrRVlpLTFhZEJBM0J5dVpaamE5Q1hfRlJQZ01PMGhoaF9hWDk3NWJCejVRNnY3VmxWTEZOMnNhLUsxS3AySzBsWEctVXlKdC1QUkhmUXpaTWxOanhxTEh2b0FUV3FTQWtGaFFtOA?oc=5",
+      "snippet": "Kedah police bust seven online scam syndicates, arrest 87 NST Online",
+      "publishedAt": "2026-11-04T03:40:28.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The ubiquitous crime: fraud, explained - United Nations Office on Drugs and Crime",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3BHUF9nM3VJZExKR0QxT2dWdy1WalFtVG5rcktkXzRwdjdZZHJ3ZDBYbl91eGZQcDA1WVpHNTVoUkNIdmJWMzVFMG9iU1lWSXBoRFFuWjQzYV9VcTloVkx5V1YwaURyWWJmRGlKR3hvdkoyRjYwcXJFMFhVc3hSZURPYk5SYmI4ekcwUmJoVDJpeERwV0hndFJuMA?oc=5",
+      "snippet": "The ubiquitous crime: fraud, explained United Nations Office on Drugs and Crime",
+      "publishedAt": "2026-11-04T00:52:09.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Meta launches Saudi campaign to help users spot online scams - Arab News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmRubHVnZ1JpZTVDT0RVbmVWNmZOYjQwWUIzTG4xRlVJQjU0ckpDT1FqMG5aQlhNSUNsVzhXMjFianJMVnpULWlIOUlsSFhkRm0tbGNZMDJpYjVtdV9uNjB0R0NtR3hGSVdORDN1Wk5TaEpDSXduRDYtQlh4eWItZWxEZVR2T29MVHM4OXRzdFk4N0VQWHFBUjZBSTJPd2J3?oc=5",
       "snippet": "Meta launches Saudi campaign to help users spot online scams Arab News",
@@ -200,7 +260,7 @@
       "title": "Fraud case numbers drop, but losses rise: police - The Macau Post Daily",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZN1p3TUNucW1lVWt3NWVmaTZEOVpKVkRjb2dnSUJybWxMTU85QTZzam9wMzg3UHBnTUdWcEFPRk9kOUdlTWlDTzJxRmpPeTdsc3hZ?oc=5",
       "snippet": "Fraud case numbers drop, but losses rise: police The Macau Post Daily",
-      "publishedAt": "2026-11-03T18:50:56.000Z",
+      "publishedAt": "2026-11-03T19:01:57.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
