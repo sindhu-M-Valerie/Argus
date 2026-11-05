@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T20:01:00.729Z",
+  "generatedAt": "2026-11-05T07:12:28.234Z",
   "windowDays": 7,
   "endDate": "2026-11-05",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 103,
+      "totalArticles": 105,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -40,
-      "reason": "Last 3 days averaged 10.7/day vs 17.8/day before.",
+      "changePercent": -36,
+      "reason": "Last 3 days averaged 11.3/day vs 17.8/day before.",
       "daily": [
         {
           "date": "2026-10-30",
@@ -40,7 +40,7 @@
         },
         {
           "date": "2026-11-05",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -113,12 +113,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 100,
+      "totalArticles": 102,
       "distinctSources": 5,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -22,
-      "reason": "Last 3 days averaged 12.3/day vs 15.8/day before.",
+      "trend": "Stable",
+      "changePercent": -17,
+      "reason": "Last 3 days averaged 13.0/day vs 15.8/day before.",
       "daily": [
         {
           "date": "2026-10-30",
@@ -146,7 +146,7 @@
         },
         {
           "date": "2026-11-05",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -173,6 +173,14 @@
           "publishedAt": "2026-11-03T11:47:59.000Z",
           "riskScore": 63,
           "corroboratedBy": 2
+        },
+        {
+          "title": "Fact Check: Did S Jaishankar say Russian Minister mocked him over India-China border dispute? No, viral video is fake - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNenFMVmJFcWEycmRVRXpEbUhzYmJ2UTZsb3RnVFNHWE13UmhLc1lRelduT0FuamNNWjVQMGZ0d3BiYWlmbTliTHIwd19fX2kxTHlyNmNreGhpZUpBN0s5NWM3UU53UTI1VUJGa0ZRUTctLWcyMVgxTnFkVEp6ank3QmJvVXdrOFBDV0pFMlFObEVxMTJjQVNHRm9HbF9fclh3aG9TcllFTER3RGVmeGdaZndFNUY5VFg3eWZOVGRGVDl0a1BEQ3lnOGItSDNaWnZmYjlrSnNiS0hNbnFHRjhKLTI1dnU1a1VDcjdIekFHWUgtaXhw0gH6AUFVX3lxTE9oNDFlYWRQbkF0WHFoVmdyNWJTY3o4VGJRT3RkVFRhSlhSRVFoLVYxUGNyeFFIOUFMTVNrdnk2OG02VEM3NDlnVzZxSnBNdWRJU0VPNHNKY2tMNnJMUnpKRG9JeTloRkh6YWhKRm5OZjRWaTV6ZHJ5LU84VHVrb0NsUEFQa0FfbkxnZDJOM1pYbnZtb0VGY3VrWVRRb1pxSVRKWXo5TktrSlBRR2FFRVZORHVpMkEtbWxLY0ZVUXVJbVBFUDBtdlBKOFktTHRId3FvQ2FObVR6RldOS1JQQU5VVkxSNjdBSDMxOHEyUjVHbl83QUtReDYzNVE?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-05T07:03:31.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
         },
         {
           "title": "Fact-Check: Deepfakes of Indian and Russian Foreign Affairs Ministers Go Viral - The Quint",
@@ -205,26 +213,18 @@
           "publishedAt": "2026-11-03T05:29:23.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "New Rs 10, Rs 20 & Rs 50 notes to run short before Diwali? PIB Fact Check debunks viral RBI circular - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGd5dmFKNDgwdUlTemJ4SkFDemdPNnVoT0FUZUN2NDNvZ3dPc2VDczBCN0ttZS1jaEpoLUI4cEZjdHdZM0NaNDdmZE5nazZBdElYNzBYWWFNM211Qjl0UnNqdUdvT2NaMVhoQVhVREprX0xOdkNvbFhFa2tISWliR1l0R3E3eUpncU9aU0cyOE02SHJOTnF6VFJLbjd5TU5YSUlUZUJ1QmJEQUswU0N6RlNVTi1LeDhyS3d6R3BjVFZzaHdiS0pGXzdub01oRlVTZzlnemhaTHhOVDdqVGdqNDFTQTZoS01MNjVlNTFPVmY1SXVCRW55VTJyTXprR0Vy0gGGAkFVX3lxTFBOX0VuRU1WekVuWktJWnRFRXVhWmI5Zk9PVV9YV21Zb3c3ZWptS3NDSHYtdWh0d1c2aGYzQTY1UTFWSTNlcUlpRjJVRUx4Q3JMa3AtNHE4R2dYWGJMZS05dkhnc2cxcFpway10RWszMU9PRDZreGRwWkZuR044ak83WWdfVGpoTGFFU0YzWS1OUWhxNWxQaEE4NXhTWXJadE9pUmExdGVMRkdpMlZYZWlGUTYxem9mZDdZcXR3X3pnOS1PUjY5TkpmaEFpUnVjWVpKZC1uMEdMSnBfTmlRbHFfOU80YlBPN25RY3NidG8yZ29MTnhmWGhZdXZnNHJzMmswa085WkE?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-02T18:11:44.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 86,
+      "totalArticles": 92,
       "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -21,
-      "reason": "Last 3 days averaged 10.7/day vs 13.5/day before.",
+      "trend": "Stable",
+      "changePercent": -6,
+      "reason": "Last 3 days averaged 12.7/day vs 13.5/day before.",
       "daily": [
         {
           "date": "2026-10-30",
@@ -252,7 +252,7 @@
         },
         {
           "date": "2026-11-05",
-          "count": 0
+          "count": 6
         }
       ],
       "topArticles": [
@@ -265,10 +265,10 @@
           "corroboratedBy": 1
         },
         {
-          "title": "French Bank Crédit Mutuel Arkéa Confirms Cyberattack Amid Reports of $133 Million Theft - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbmFITFhZMGJLTmI4WDlpNHBJU2xkU3pfUXlwZ2EwUjVNNm5nd2pWaUdKUW9SZGhxYXc2TUEtNm53RGt4SzF0NVFPOUhiTGV1SUxicVZPakVxVF9YeEdkWGRKYjlvSHp5aU1GZTIyUTFLVGpBRTh2ME9ISdIBgAFBVV95cUxPZHY5QmlOMWthT21PZF9VaGRzZkR0RVpFN1RRT3BMb2hXelEyUXdGVW9aaV9Nb0kzdmI0UzY1bEZMc3NBNG0tcFE4cUQwSTZNSnpYOFVoZjgyRXRNVjlJdXVpYWVqVExtVHBvZ0tkR1BDQTVadW56elpDWm4wZTJCMg?oc=5",
+          "title": "Hackers Use ARTEX AI to Breach WorkOS and Access Customer Slack Conversations - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hMEJTVGlLb240SHM4YlMwZklKM29FUU5DeGEtMzBSenlEMFRIa3ZmRnJPZVhxQ3RyemdPNEx0R1AzaGRVcHlkN19oTmZMTG1HekRwZjR0T1RRakJEMlHSAWNBVV95cUxNWlUwcjctS3pqYm43U05nS1ZFVE1qVFZTMUZVdVFhQUpETHdOQUFGd3JDVldETmh4VXh0dnUyQ2Z1blpjQm5LZXdMYTRyLVdLZGFjbWdMdDh3VUFjVkwzRWZOMk0?oc=5",
           "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-04T14:10:31.000Z",
+          "publishedAt": "2026-11-04T22:20:19.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         },
@@ -276,7 +276,23 @@
           "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
           "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-04T07:42:01.000Z",
+          "publishedAt": "2026-11-04T19:11:50.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "SkyW4lker Phishing Campaign Expands, Threatening US Enterprises with Microsoft 365 Account Takeovers - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPemFFU0VNREpfbkxYS1QxQ2pfVGl2V2Fad1NudkJlb3l4VnBzb0xwSWpjQVV1NGNRNnItNDJiZlBsdTh6VU5lZVN3M2pFYUlWSDUzRU9yd1pGMkt3SkJRbUNmaU50dFBZdjVPZjJGT3R5UGNvWTBlVS1kRGtfTjNONUhQT19pYW8yU1p4TEZiZXdvNVcwbHkyWUQ1NkQ2bDdrVFRFdmUwdjFILWhYWXdiMy1FREI1bEdQYWlqSVd5b0ZXZEpsczc4UWd30gHPAUFVX3lxTE5KZXRhS2FPVW5aaFR5N05qdjd5ancxRlN4aG9hRUhvMWtXQjhNMHR4bnNEeWtBMGZEZW1LV2U2N05QMXRWUG5EQk9uQVpQRHlzYkxpWWJkUlhpSDVIb2ZXTU9xeV9EbWpoellwRXJTMGNFWnpZbm5pdnBPbU9TSWlkM1BhYmhVcUU3bWRwMjFxM3NOaWw1Y1g2MzV2Snl1d1RSZWZRN0cyUTRMQlRvaHg0eVFUTGJOd1BRSFpueGhka2lyWGRvRXRYOTlxbnktRQ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-04T18:43:01.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "French Bank Crédit Mutuel Arkéa Confirms Cyberattack Amid Reports of $133 Million Theft - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbmFITFhZMGJLTmI4WDlpNHBJU2xkU3pfUXlwZ2EwUjVNNm5nd2pWaUdKUW9SZGhxYXc2TUEtNm53RGt4SzF0NVFPOUhiTGV1SUxicVZPakVxVF9YeEdkWGRKYjlvSHp5aU1GZTIyUTFLVGpBRTh2ME9ISdIBgAFBVV95cUxPZHY5QmlOMWthT21PZF9VaGRzZkR0RVpFN1RRT3BMb2hXelEyUXdGVW9aaV9Nb0kzdmI0UzY1bEZMc3NBNG0tcFE4cUQwSTZNSnpYOFVoZjgyRXRNVjlJdXVpYWVqVExtVHBvZ0tkR1BDQTVadW56elpDWm4wZTJCMg?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-04T14:10:31.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         },
@@ -303,34 +319,18 @@
           "publishedAt": "2026-11-03T04:29:58.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Chainalysis Confirms Cyberattack as Hackers Exploit Vulnerabilities to Access Internal Tools - GBHackers News",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rZ2pPYzgzcENCdXU4VlhvbUtuSlBHbkxTTXkxNVdyVVEydWlsSHZvT3NtNWZWeFB2LTVRdGRyUC0tbXkxVWVTei1GWmhKWFZlTUFKRlMzT2pzTnNBRkI3SFNpVXp2eXEtWU440gFrQVVfeXFMTmtnak9jODNwQ0J1dThWWG9tS25KUEduTFNNeTE1V3JVUTJ1aWxIdm9Pc201ZlZ4UHYtNVF0ZHJQLS1teTFVZVN6LUZaaEpYVmVNQUpGUzNPanNOc0FGQjdIU2lVenZ5cS1ZTjg?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-02T10:23:53.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Hackers Breach WS Audiology IT Systems, Disrupting Widex and Signia Hearing Aid Services - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Jc19wSlZPRXY1V0VZRFdYWll1OFZ5Tm5SWHkwQWlOVlBWVUJBZ183UFU5czQ3ckpkOWxRN1Vua0ZHd2dTUFNHNHRZVE1PYlBHRU11QmVSdjh0RmtxWGZoTk1sT3jSAWpBVV95cUxQVUJkWDlMVlIxOG1PRUJZNTNwc3pHU1FtbjltV1NscklOZjN4alFiczFUVzNtZ1RqX3VmZHFJMXp1YzdpTGN0NHpkeGlnbkxkQW9UN0w5VDUzODhSU1otQ1Nud01qdEV6VTdR?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-02T09:54:35.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 18,
+      "totalArticles": 33,
       "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -49,
-      "reason": "Last 3 days averaged 1.7/day vs 3.3/day before.",
+      "trend": "Rising",
+      "changePercent": 105,
+      "reason": "Last 3 days averaged 6.7/day vs 3.3/day before.",
       "daily": [
         {
           "date": "2026-10-30",
@@ -358,10 +358,50 @@
         },
         {
           "date": "2026-11-05",
-          "count": 0
+          "count": 15
         }
       ],
       "topArticles": [
+        {
+          "title": "Delhi Police Files FIR Against Meta Over Child Sexual Abuse Material Circulation - Lokmat Times",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkU2a0U5X2dQUUFJNlNBa09paTJGdjUzSmMzWHdSTjhtUXhoM29zQ2hoeTdwcHBjZGxZdWdReFhsZlNta1Z4b1MxeWtZUF9ucHdCZmZZaUZJdDF0MlIzem8tYXBsMUJEQldsb2dOZFNFOTFDalUxTXJpQWE4aHlyRjlHVk44RldLd1lfa1BrMlZOcC1LRHhlODVqNkxvdFpsWmNLb2laeEp3Rk0ybHBtN3NaaXdTYWU5NFdTNnV2X2ZyRzl5SHfSAcsBQVVfeXFMUC1VZDlkc1NDZmxodTNSNUJDTFlkYWpUYjc3Smp3cHdzNmR4TVZxR0dNV2FjV2pSVFFULUhYd05wYXoxQTZmaV9kSUNkYW91RWVSM2dYcjdmM0hDcWI5R1RVQkdJdkl4Q0N3SUVSS2hmUkRRU3laSkNrZmlyM0lDanFrR0ZuV0R1ckk2LTNjcWdlTEhCMUFBSFVYbWF3ZzQwU0tDcTZlMDV4TlZqLU12MWdnUmFiR0x5QU9YbmgtS1hVUGxlU1I3eVN5Ykk?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-05T06:55:42.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Delhi police files FIR over child sexual abuse material on Meta - The News Mill",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1FYVDNVTXVIYXpsQ25ZbGR1c3QyMXVsRldPU2cyOHRfLU5TVHczTmdxMk12SzZWbjNFVGtJSS1PbkNGVXAwUXZHTjhPM2RRX1dyREw2elNFc2dsNmZiN1hKSjlnclI5MmxyTlNoUFp6ZEd3UkswZFMxWklnalpvTnRzWndhbTBaZ3daUEVxUE9xal9qT0hrQVVTSDI?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-05T06:37:10.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Delhi Police registers FIR over alleged circulation of child sexual abuse material on Meta platforms - ANI News",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTkVsckU3Z21BTE53V3pTdGxSbzNGSmZBQXdsQ0YyQnhWVk05RDlFSDU3Vnktbk50eHR4UERfWnhpQzVMV1JfQWpOYXBNanM1ZU1WT2Z4YVJsMlZsV3VWYmFCbVhST0hBbUhKSTl5TFNqR3psUFRrNlZjZ3JmTHVFcjNKZDBCWEJjV2NjNkpqNEZ5akZwYVdRVDZpQV9aYVlyeWRHaENnY3NQbUl3R0MtbUt3TDFCcl9JU2M0YVVudnBLaDVvSGRqYUh2QzJnQlNtYXNVa2o0SXM2eHhmQnhab21TbjhlTnRqZ2FONTNyTGdqQmFwRGp3?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-05T06:33:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Delhi Police Files FIR Over Child Sexual Abuse Material On Meta Platforms, NHRC Member Confirms - Republic World",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTDlBblNFVF9LaS0yMjdleFY4Y3B4eTRDZzRWczV3YjNFSmZsM2FqMG9NdXd6Z1hGSVJwd3Bva3B5QVpUWVZLVUxmSGpIZUdwQTgxaEtTdkhzbDNQVDR6THIxSm1HT0k1T3E1cllRV2w0R2Y5OVpPYmNHVS1jXzFoNDBKdlNjSHZuT3J0WWlwbnJPanNqeVVNTEh2OGFsdF96aGZ2SE5uU0ZaejRGYnN0MS1LTUJ0NG5OcmN1OU94WWlHYTNOOXZTeTJyYlRuLXZzN05aQTU0c3JoX2dKdmNmRFhB0gHnAUFVX3lxTE01Z1BJQ2ZOYlNlalFnTHNFUnp5WXllR2JvZXhVWV9uRGNHU1lkZDI0Zy14MnIwOGlUdFJJeUJZdFhuR0FlbVloY25aeHczOHAtU3NsRUhTSUIzcm4wVTV1NFdqUmZydTRyaUd4c3dITE9jRmk4R0stS282NXZPeTltbFNEeWRoeXNhZWNBZzVvazdvV0hsUlJJOTZlZnVCVWpoX1ZGRFVERTNMMFpKd1I5M0ZVTDJnUlVwdVEtRHA3MUEtZG05U29oS1VwYkxab0ZqVjYySjRjaUZTSUxRd0xTNzVCMks1QQ?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-05T06:12:10.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Meta under scrutiny as Delhi Police registers FIR over child abuse material - WION",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMGJyeEw3WThjVWlvTmZSMmFYSHZ2UXh3ZE5jOGRlcnpjeGUyX3dCdXJ4N25yTllKWV9yVUxoRE5QYVk1SWJmRk1QUHBIRzRKdEZmMnVnMnF0ZTRhOWJYTEtOX3pWTDEzWTZLT1FsNk5SVkN2b2xMNFlFckdWc3h0M3JQYmVPQ3lIUnBsUTllUkNGTXlLY0VTOUozYWN2VGlpbmQxUW4tSV9PNWY2Nmczc2dPRHdnV1pHM2NpTlcwWG15cUFCMnFkZE5R0gHPAUFVX3lxTFA4aGpnM0NlOU9XRDZEMTZSNmNkbENQNGdTcE5ndGlsVkJjOEpIeUViMXBHTnVMTnFqdFJmQTFKVXkzd1NQVmtSb3B0MWcxcEgxSS03bWlxajB0YU0xSDFzMW4zYngwLUg2SnFYMllMTXU4LXRkbGI4ay1YX1ExVWVhcWxGS2t2cmRUM3Bad2VER1VnbkZ4TkRnSzhYZXZwdXR0dWdISFRNMmhYRmFnVjRYOXVDT3VaeTlJZDZjeU1XQ2JiWWRjWnRkbGFtNHV4cw?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-05T06:09:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "BERKELEY TOWNSHIP WOMAN PLEADS GUILTY TO DISTRIBUTION OF CHILD SEXUAL ABUSE MATERIAL Ocean County Prosecutor Bradley D. Billhimer announced that on November 2, 2026, Julianna Goldstein, 21, of Berkeley Township, pled guilty to - Facebook",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHl4X2d4eXhLTHQxMzctcnNzekNQbHg1eERNaWo3SDRZVmR2RFlNNTRSaTc5d05PZVM5T1VHTU5iaHBpdUc4Qy0wSkFUS18tZ040UDBlZ3dGd2ZLa2VvOV9vOVd0SnZvazdFWjJVTEFFbFlVRmx6WXh1bVljS0hyR2JaTDlvMXlHT2sxU0UwTFhMS1JUajMtYXRrdi1GQXVVcUF5aGNVdVU3dVhld2YtRXBpRTVFVmExcDFEYVpOb21NUEtfMkZVU3RFOXgzcVhTemc?oc=5",
@@ -385,58 +425,18 @@
           "publishedAt": "2026-11-02T15:21:54.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Richmond man charged with 9 counts of distributing child sexual abuse material - WTVR.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjg0a1dybGZIMmJFSVNCSVk4YlhmeXloeUFBWmg0NGdRUE5MbzlJQnNad3hiZGdKNVphM1EyRTZ4SE8tMlNKZ1BlZ2w2WXUyc0cyLUROQkVsOGV2b09CcHJheVlKdUNpcVAtV0NLQTlEZWV2OXNxNFNyZzZHek5rODdmX1ZRR2dzUG5YdEhCcjJGQlNfMmhRYzNwelItMjdXTlJpbkU4eV9sWV91a1RKUlRjaFFhdw?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-30T16:30:41.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Husson University ex-employee arrested for child sexual abuse material - newscentermaine.com",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcUpmR00xcVRPX1NER1g2NVV3bGZNb1JFeHh0VTB2LV8xUU1QY2dUT3hGal9GMUdlcHk1a1pYMHZJb0Fpa0M5STRLWHM4SzQ5SFptZWVhMzNMNGRXNHFjWmRZN0VLZjNtLWpacU5MV25WNXVYdlBYVUFDSkRncldkamtwNWxQVENkYXhHYU9SMjU5OGFUa2lHdzZsejdaaThObGRvd056TjBsOElMOFdyOEdya0RjUnc1Qi1rd2x4c0steXlhTnJLOXNSRGpmc1pJSW1acnBkMFR0bm81X3ZlSVVJZmpRQkQtX3hzdGVoNGlrNUR6MEdkeDJQNlVMRTEySG1yZ19XSXoxYks3VmpfYmRKUTlMWnp5WHNEY0FmRC1yRGM?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-30T14:26:00.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Burlington Township man indicted on multiple child sexual abuse material charges - Trentonian",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnlyc2hFYzlYTWZkZEtWMzJMaUpsTkpEZ0t4VUh4eGdTOWNQY1Q2WDdyMmxBbHpiN0dzUzRuMGU3UmkxdEpESFNmaGUwQ2lfaDc4dnJReUp4R1A2RnVGYWhWOXVIZnJPLUM1NFFHalpMTGVVbkNtdW1LMjVIaDN6TUJjYnNoZ1hrYTRPY1JDNmJhc0JfZWtxbGM0TlpyUTgwbElXemVreVU4MkhwSVc4Q00tUjl6OEtpanBr?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-30T09:24:13.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "NCCIA arrests two suspects for selling child sexual abuse material - | Associated Press Of Pakistan",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmEwT3BDSkRQeFduNG1Oam5xaTlnc2I0MnFfWDdid2VZNEZYVEt2cnF2QnA5N09WbDlFQzVlc1JadUExWHJ5aUplNEtEYmFfUHdSVUw1ZVhrTDRMX283a1FXQmVuamIzZm5WUXVPT0h0bG00Rk1ZRlhyZ1g0TFA2dUJOODJlT0ZQVWZCaHBTQ2l1c1JsZWk2MmNlMlg1YUJE?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-10-30T07:10:04.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Belington man sentenced to 20 years for transporting child sexual abuse material - My Buckhannon",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGVXMjRVajlQbWRCRUhaTHRIb2pSX3VNR1dRRkFXcjFOUnRtd3NFOE5qSUxJQjVCWDJXTHdRQzdLY2l1ZHZzNVlINDkzVzhKZ3BQZWJON051aUtCUHV0TW9EWFFjMVpxUGIxZzNVdXgwVHFxNFdISXpyX29RbEFSRHRCaktyY3RYNnJtQ3BqRzFVc0E4bUpyOGNzRW93STNRbG9JZkR1akQxT0M4VE9R?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-10-30T01:42:24.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 17,
+      "totalArticles": 18,
       "distinctSources": 3,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -27,
-      "reason": "Last 3 days averaged 2.0/day vs 2.8/day before.",
+      "trend": "Stable",
+      "changePercent": -15,
+      "reason": "Last 3 days averaged 2.3/day vs 2.8/day before.",
       "daily": [
         {
           "date": "2026-10-30",
@@ -464,7 +464,7 @@
         },
         {
           "date": "2026-11-05",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -483,6 +483,14 @@
           "publishedAt": "2026-10-29T20:11:00.000Z",
           "riskScore": 59,
           "corroboratedBy": 2
+        },
+        {
+          "title": "Delhi Police books Meta India over child sexual abuse content on its platforms - Vartha Bharati",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZWljVzFqb1h6Ulh1SHU2OUQxdGVIeU1XZzB3aWt3UEZhUWY0aFlDeUpsazBJUkhZV01ySmFOeUdJSFVCUk81TFBXM1VqWnJrcEdSVVY4M3ctOE9xY1FIWElBYzdaMUVmSGx2OFJPaXY3Yzd0R05lQW5jSkFaRGJWTk4xYlc2SW9zMzRSTU1hLXg4ZDJEUlRWVmtHNm1DSTdkSHcxdjJ5T2NfNTFJWk43OFozZjBBckxlbXNhWmxKc3J2MVnSAcgBQVVfeXFMT2s3WWRKLXBRVURqUkFtM0lvQlZRSnlWSFpacS1QTGk0aWVlY0ZxaklsYXY2b0tpYkRDcGd4Uzl5cHRiaXRVTS1MdXRjaXlKZGd1RXV1dFZqX212VWVYckpKZ3paTDBVaVZvd1BmNWpHN3lMa0pCdkg1M2thUWhjVW1NYmNhcmxad18zMXo5N212a2R6bXBScEx3NlpjWEVXTXhCaFF1VGlNeHlVLWY2WkdoNzdCcHNBNk1vcHJaNnpGOG9BNE1SRGo?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-05T06:04:52.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
         },
         {
           "title": "Experiencing child sexual abuse: a survivor's lessons for social workers - Communitycare.co.uk",
@@ -523,14 +531,6 @@
           "publishedAt": "2026-11-03T14:18:17.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Australian Author Craig Silvey Sentenced To Seven Months In Jail Over Child Exploitation Material - Times Now",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdEFFMjJiYnpBcEJyczJ0b3c0NVJrQ19hdEpJUFp4TzhJNThCZkx1bjk3NTFqUTdMcWUtVE5NSVNBeExYQWJIdE5GTkEwOXg2WTdfazg4Tm1POXdwZTZ0TWo5SVE2MlJ1TXVJVHgzdk1fSlNFd1VYUkw4ZXRSRGo4aWFjWDYtZjFqSnI4UmxqZi1Dc09uWjhDaWdIWmwxUkxzc0lIMDBpaGtOUXBudFpYcUVOZm1vWWdhYnJWS0J4dnRwdEhwNzktUW03Yk1lRms5VkZFczFVaFdCVTN6ek5IemZaUmdlZDN2WDBVTHBZakh0Z9IB9wFBVV95cUxNTGw3QWVzRXhkNnJ4d256aFdTZ1ZEWkdkMDZuN3RVMVNXbUhsZUhwaGpDdFdWNjBZSmREU3dXaURNMmVhVUtmeEItUkdXM3hiQUI1SXpNZS1SV1I3YzRoWUxsTm1ycGFWZllZUzhjcGlJSDcyNW8wcW5ldVZmZmVocHp4N3JDRnpnMnZDODZEN2RwTnBPTVkyZ2twVGdBVG5IQ2N6VjJzNUNfbmFaSVl1MS1QUkpUeWpjYldHb3FqSU11bkkwME9QaTk2QmhMakJGblM4WTB5aXY5eDV0TzkwaHlIU3pxWU9ZNUhncHgwWkNsaXRiREZn?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-03T04:37:17.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
@@ -566,11 +566,11 @@
         },
         {
           "date": "2026-11-04",
-          "count": 4
+          "count": 3
         },
         {
           "date": "2026-11-05",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -602,7 +602,7 @@
           "title": "Social media abuse, stalking and death threats: Why it's never just about performance for our sportswomen - Sky Sports",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ1JBbFRGTzdTc0Q0WFUwMjJ3ajI3b0tGQVFkTlVsSnBvU1hiaUV3T3laMDNMQmtvbU5iOHQtamVENmtRMWlNQmtXM056empMQ2NoclNWQWsxbDZnbi1rR0R1T2tvUENNMDRZYVV5NWpiWnBSMWtmdDFtRkwtTmtBNFhtS1RidmppbU5QWHduUDBPTm5uM2ZGdXA5ZmRUNjQ5cWdrOEI3RTRNb1I3cTBNMXo4RlUycmR4MFAxaEFUYUFycDlENVhQandTM1h5dEljVjdtN1RNMmRzUU9EYjduLU5NZE54QzNselE?oc=5",
           "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-11-04T17:26:21.000Z",
+          "publishedAt": "2026-11-04T22:02:45.000Z",
           "riskScore": 40,
           "corroboratedBy": 1
         },
@@ -747,6 +747,112 @@
       ]
     },
     {
+      "theme": "violent-speech",
+      "label": "Violent Speech",
+      "totalArticles": 8,
+      "distinctSources": 3,
+      "highRiskArticles": 0,
+      "trend": "Falling",
+      "changePercent": -56,
+      "reason": "Last 3 days averaged 0.7/day vs 1.5/day before.",
+      "daily": [
+        {
+          "date": "2026-10-30",
+          "count": 2
+        },
+        {
+          "date": "2026-10-31",
+          "count": 3
+        },
+        {
+          "date": "2026-11-01",
+          "count": 0
+        },
+        {
+          "date": "2026-11-02",
+          "count": 1
+        },
+        {
+          "date": "2026-11-03",
+          "count": 0
+        },
+        {
+          "date": "2026-11-04",
+          "count": 1
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "West Bank teacher arrested on suspicion of online incitement - The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT2FlSVE4WEdGR0ZQVkh3a3lMSjVMZy1kRjBPRm1rOThyMGRZdV83bWxZRUtNSzdtcTJVSFNEMjJ3Q3RsR1IwZERoMVp3Tmt3cUJRamJ2bVdfUG1QVVZvY2NXM0l2YzhfZ1FycjVVUEI4UQ?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-05T00:38:06.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "British No. 15 Jodie Burrage reveals horrific social media death threats after losing to India's Vaishnav - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX2hVQnpIR0k0dHlZUVpoUmZicVdISFNGX0xDbXhuSDlOdVc0ZVVBTDVYemt3ZFZ5N3FtbFk4elNYdUlKcmdCQnBWNG1xNHNDT0hQS3o0TDloQ2ZDeHdxMTdxLVF5a1RoMUhyQllndG5HZUo4bDk0bmlfbExFTzBnTnFPUnRlN0ZwZ2VSR090eTBYMzVabFRfZlIzYUhuVkdoQVFnQUk3aUYxNnlCQU40Y2ozSFBTc1lCU1NwcE1VcUhhc0M1enVSLWRTUVJPUDRyaHpFcVZ2YjZZWVFkTy0wOWw5cDNHTjFiUHBDclN1aXJBQk1OcW12QXp1UVVfTVVidERrMHhWQVg4Q2E2MUFtX3U3a0lZc3pJVXQwbmg4RnBOSVFGUTMwdFRMSEV5R1ZJXzlMNl9DcUQ3MktPaHREdFp5UdIByAJBVV95cUxPSUhnU3JBRzBHNVJDTHl2QjFya2RhejN0MEZoX25rSWZGR1ZpaXpjWUNIY3ZvWTg1bTVSTm55cWlpWVVwZEF5cndCOGUxMGdZZXA4aEE4UC13cUJpVmZxdDVCZ1JSSmJZNFVTRWJLM1pSZDEzdV9sblBhVTJWQ3psY2JONzgyZW5sRU53eVRoVGlFMzlzcDlJVEZvakp4VzV1cVl4bUd3ak0yZUpxZ3NOSU5BS1B4YXdURjVLLWdDWXh1MDdmMXphREVBODZPdklrU0dPYW5LdlVLNXMtQU85NTUxOVJrN0VIM3U1b2R2bGVVckVlOHBid2JvTDRzOElGZmlqSmkxNzZweVFhR3FtRzdidTlpOVc0RTlkblViUWtQWldycUJyOUk3VHdVbHA4R2hnREYyb2tIN2JpWTNFYTNWT2VhM05J?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-11-04T10:09:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "TikTok Creator Arrested for Alleged Incitement Against KZN Police Commissioner - Joburg ETC",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnh3ZnZ2S210aUlzdXU2cUtBNGJUN0YwRGNldElLNjFGcGREVFBTUWduaUVSSDVmMWt5VEhhV0l2WTA5bkVWbGwwTnZVdG9BczI2NkkyemE3NFZmQXBCbjd2YTlINy10ajJOZ3FlMndZYmh3RnI2RWFydlJoc0thSU81OFRVTzh3MGI4UXNHRUNhRzFtWTAwLQ?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-02T07:30:11.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora - INDIA New England News",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT3VxVE5fVEswcW5QUEtMblFBNEtET25IcUZPQWZIeWlLUnUxLUdQZzNIUVEyUkZTdm5TM2hta0tTalBWM0dVNTF5Q0I1RU5ZNVlpYXBEU0hpRWZpTDJIOEMyYk5DZWdvQjZZTmtVM1NhUnREeDFiN3lQNFAzMlRSSzI3ZnZ4QUU4d2xZeVY5am1fNlZSWkIzV2tjQUg3bVhGOWRHZ2k1dHF6bVVjT3Awempjei14Qjh6MHZSMUtqeUdlbDdvVl9tVEZoREt3V2JaZnJFcU1TaUF6VG13OUJJMUtsV3hULTJfM1RHQUF0R1RKZVk?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-31T16:09:51.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "105 US Lawmakers Urge FBI to Investigate Alleged Illinois Hindu Temple Attack as Hate Crime - INDIA New England News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE81c3dQT095dnRRUGV6eUpaclNqT2h3OThVSzV3eDNzc0tabVNQWE5MbnJyYXo4a2QwYzREUGpwUDNKOWVGUFZqWkN3Q21LMjMxQmhTSmVQNjZCUXFpTmRSZFBIOHJwM2JDVzBwamhoclVxMl9PSU9MUTBYVnVyR1dsRVRLSlNfX2RMZHhCYVpNNHY5Y3JUWTVmUUFuSVltcVVoQU05amEtVGg0US1Qb3prV3liSldyREhaSQ?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-31T03:44:45.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "India hate crimes: 65 cases in September and attackers who no longer hide - The Siasat Daily",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51THhIMFl6RXNqV0Z0dGpqdmxUU3BNTDZtMlZzT0UwcnFKWnIwaGxXdVhfMXhuWVlmamZBQVpwb2d1aHdZZmZIUWJCUnFvUk5fWmxFcnZ0aFVhakF0YmoyaXp6QnFYXzRVLXpDYjFWWFpXSk9Rd3ZRWl9JaU3SAYIBQVVfeXFMTUhXeFFQLVhGR0VVdl9EWW1vbVZ0OXl2QVh0WXpvNEdESHJQZVlaUFRacTd2c0lNZzRkNkxBYXdyVGxhVW5aN3l2UkIzMDFGbDdVS0I5YkJOdVc1OWdwcEEzejRTYzh2RzZ3SjRNTDFkV2FEQllqVEJDcFExQWVnWmRlUQ?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-31T01:30:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "“We will unmask them using AI”: FIA have had enough after 13,000 death threats against Formula 1 star Pierre Gasly - Goal.com",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZzFVZEZCa3hvSnluYW5EX0x4Q09vRTgzZVdCbklvUWZFV2g1RFlBN1MyMGZfa2QtMW5PR3BreFlqczRYakhOeGlEUjJLQ0ZaNTczVFd4MngtZHVadUtXUklKd25aR1dNX3VkNXlDXzY1dEtoTW9FZzZqbkRnZE10bzdGeG55YjVvbHVQdHNTWE5lR3FyYWZyMHYzT0c1UVlGbG1BV1VtQ0NXOE1UaVZ6MEViZ0thTFZkaTB6MHcyTkVqbXV1azN4TFBzdHZnTXR0cERVcFhXUFNyRF9qTjFIWmlpVzRhbTVxbTB2WGQ1dFJVOHc2U1E?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-30T14:04:09.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Raja Krishnamoorthi Urges FBI To Probe Alleged Plot Against Hindu Temple As Hate Crime - indica News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUdxeE5McWdLSlJTUFE4a0ZKYXlUbnZxYmNScW9qaXBMNE9WYW0yV0ZCbTNFY043elE5dm1DeXZodDRzZjZfSXZRdHg4cFRuTTBlUmQyYmNSTEgtUE52c2k3U2dQLUZHWlpKXzJOUUU3czdhX0M4MnZpaFg0VzgyVG8zTFZEd0hjazkwNHQtNVEtZGRXSkk5cFYxanVQWnhfTWE0YjBySUw2RUV6bnNN?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-10-30T03:14:17.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
       "totalArticles": 7,
@@ -840,104 +946,6 @@
           "source": "Google News • Misinformation (India)",
           "publishedAt": "2026-10-31T15:32:00.000Z",
           "riskScore": 48,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "violent-speech",
-      "label": "Violent Speech",
-      "totalArticles": 7,
-      "distinctSources": 3,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -78,
-      "reason": "Last 3 days averaged 0.3/day vs 1.5/day before.",
-      "daily": [
-        {
-          "date": "2026-10-30",
-          "count": 2
-        },
-        {
-          "date": "2026-10-31",
-          "count": 3
-        },
-        {
-          "date": "2026-11-01",
-          "count": 0
-        },
-        {
-          "date": "2026-11-02",
-          "count": 1
-        },
-        {
-          "date": "2026-11-03",
-          "count": 0
-        },
-        {
-          "date": "2026-11-04",
-          "count": 1
-        },
-        {
-          "date": "2026-11-05",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "British No. 15 Jodie Burrage reveals horrific social media death threats after losing to India's Vaishnav - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX2hVQnpIR0k0dHlZUVpoUmZicVdISFNGX0xDbXhuSDlOdVc0ZVVBTDVYemt3ZFZ5N3FtbFk4elNYdUlKcmdCQnBWNG1xNHNDT0hQS3o0TDloQ2ZDeHdxMTdxLVF5a1RoMUhyQllndG5HZUo4bDk0bmlfbExFTzBnTnFPUnRlN0ZwZ2VSR090eTBYMzVabFRfZlIzYUhuVkdoQVFnQUk3aUYxNnlCQU40Y2ozSFBTc1lCU1NwcE1VcUhhc0M1enVSLWRTUVJPUDRyaHpFcVZ2YjZZWVFkTy0wOWw5cDNHTjFiUHBDclN1aXJBQk1OcW12QXp1UVVfTVVidERrMHhWQVg4Q2E2MUFtX3U3a0lZc3pJVXQwbmg4RnBOSVFGUTMwdFRMSEV5R1ZJXzlMNl9DcUQ3MktPaHREdFp5UdIByAJBVV95cUxPSUhnU3JBRzBHNVJDTHl2QjFya2RhejN0MEZoX25rSWZGR1ZpaXpjWUNIY3ZvWTg1bTVSTm55cWlpWVVwZEF5cndCOGUxMGdZZXA4aEE4UC13cUJpVmZxdDVCZ1JSSmJZNFVTRWJLM1pSZDEzdV9sblBhVTJWQ3psY2JONzgyZW5sRU53eVRoVGlFMzlzcDlJVEZvakp4VzV1cVl4bUd3ak0yZUpxZ3NOSU5BS1B4YXdURjVLLWdDWXh1MDdmMXphREVBODZPdklrU0dPYW5LdlVLNXMtQU85NTUxOVJrN0VIM3U1b2R2bGVVckVlOHBid2JvTDRzOElGZmlqSmkxNzZweVFhR3FtRzdidTlpOVc0RTlkblViUWtQWldycUJyOUk3VHdVbHA4R2hnREYyb2tIN2JpWTNFYTNWT2VhM05J?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-11-04T10:09:00.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "TikTok Creator Arrested for Alleged Incitement Against KZN Police Commissioner - Joburg ETC",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnh3ZnZ2S210aUlzdXU2cUtBNGJUN0YwRGNldElLNjFGcGREVFBTUWduaUVSSDVmMWt5VEhhV0l2WTA5bkVWbGwwTnZVdG9BczI2NkkyemE3NFZmQXBCbjd2YTlINy10ajJOZ3FlMndZYmh3RnI2RWFydlJoc0thSU81OFRVTzh3MGI4UXNHRUNhRzFtWTAwLQ?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-02T07:30:11.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Congressman Raja Krishnamoorthi Leads 105 Lawmakers in Urging FBI Hate Crime Probe Into Attempted Shooting at Hindu Temple in Aurora - INDIA New England News",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT3VxVE5fVEswcW5QUEtMblFBNEtET25IcUZPQWZIeWlLUnUxLUdQZzNIUVEyUkZTdm5TM2hta0tTalBWM0dVNTF5Q0I1RU5ZNVlpYXBEU0hpRWZpTDJIOEMyYk5DZWdvQjZZTmtVM1NhUnREeDFiN3lQNFAzMlRSSzI3ZnZ4QUU4d2xZeVY5am1fNlZSWkIzV2tjQUg3bVhGOWRHZ2k1dHF6bVVjT3Awempjei14Qjh6MHZSMUtqeUdlbDdvVl9tVEZoREt3V2JaZnJFcU1TaUF6VG13OUJJMUtsV3hULTJfM1RHQUF0R1RKZVk?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-31T16:09:51.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "105 US Lawmakers Urge FBI to Investigate Alleged Illinois Hindu Temple Attack as Hate Crime - INDIA New England News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE81c3dQT095dnRRUGV6eUpaclNqT2h3OThVSzV3eDNzc0tabVNQWE5MbnJyYXo4a2QwYzREUGpwUDNKOWVGUFZqWkN3Q21LMjMxQmhTSmVQNjZCUXFpTmRSZFBIOHJwM2JDVzBwamhoclVxMl9PSU9MUTBYVnVyR1dsRVRLSlNfX2RMZHhCYVpNNHY5Y3JUWTVmUUFuSVltcVVoQU05amEtVGg0US1Qb3prV3liSldyREhaSQ?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-31T03:44:45.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "India hate crimes: 65 cases in September and attackers who no longer hide - The Siasat Daily",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51THhIMFl6RXNqV0Z0dGpqdmxUU3BNTDZtMlZzT0UwcnFKWnIwaGxXdVhfMXhuWVlmamZBQVpwb2d1aHdZZmZIUWJCUnFvUk5fWmxFcnZ0aFVhakF0YmoyaXp6QnFYXzRVLXpDYjFWWFpXSk9Rd3ZRWl9JaU3SAYIBQVVfeXFMTUhXeFFQLVhGR0VVdl9EWW1vbVZ0OXl2QVh0WXpvNEdESHJQZVlaUFRacTd2c0lNZzRkNkxBYXdyVGxhVW5aN3l2UkIzMDFGbDdVS0I5YkJOdVc1OWdwcEEzejRTYzh2RzZ3SjRNTDFkV2FEQllqVEJDcFExQWVnWmRlUQ?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-31T01:30:00.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "“We will unmask them using AI”: FIA have had enough after 13,000 death threats against Formula 1 star Pierre Gasly - Goal.com",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZzFVZEZCa3hvSnluYW5EX0x4Q09vRTgzZVdCbklvUWZFV2g1RFlBN1MyMGZfa2QtMW5PR3BreFlqczRYakhOeGlEUjJLQ0ZaNTczVFd4MngtZHVadUtXUklKd25aR1dNX3VkNXlDXzY1dEtoTW9FZzZqbkRnZE10bzdGeG55YjVvbHVQdHNTWE5lR3FyYWZyMHYzT0c1UVlGbG1BV1VtQ0NXOE1UaVZ6MEViZ0thTFZkaTB6MHcyTkVqbXV1azN4TFBzdHZnTXR0cERVcFhXUFNyRF9qTjFIWmlpVzRhbTVxbTB2WGQ1dFJVOHc2U1E?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-30T14:04:09.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Raja Krishnamoorthi Urges FBI To Probe Alleged Plot Against Hindu Temple As Hate Crime - indica News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUdxeE5McWdLSlJTUFE4a0ZKYXlUbnZxYmNScW9qaXBMNE9WYW0yV0ZCbTNFY043elE5dm1DeXZodDRzZjZfSXZRdHg4cFRuTTBlUmQyYmNSTEgtUE52c2k3U2dQLUZHWlpKXzJOUUU3czdhX0M4MnZpaFg0VzgyVG8zTFZEd0hjazkwNHQtNVEtZGRXSkk5cFYxanVQWnhfTWE0YjBySUw2RUV6bnNN?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-10-30T03:14:17.000Z",
-          "riskScore": 44,
           "corroboratedBy": 1
         }
       ]

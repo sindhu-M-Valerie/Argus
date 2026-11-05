@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T19:56:32.587Z",
+  "generatedAt": "2026-11-05T07:07:38.414Z",
   "snapshot": true,
   "date": "2026-11-05",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-05 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 38
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,21 +51,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 73
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 12
+      "itemCount": 14
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 20
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 14
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW9ZWTMtT3ZfVHVka3pOWi1INlZpSVFvOHJxdGpRMnRpUnN2UjAwRWszZzhuVDhJRmplamY0VERLaEtOMkFyRzBmVS1FNE84dUpQQ0dma29CSFIyNjNlbzcxcUFuR3cxNmFCdjNobjQtTktQWnNCSVdqZDM1NlRtSnNEckc3LXhJc0hXeEgtbmRhZlpsdmt3b09rVQ?oc=5",
+      "snippet": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home Newsday",
+      "publishedAt": "2026-11-05T05:06:07.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Doctors, pharmacies battle rising tide of AI-driven health scams - The Malaysian Reserve",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemtvM1gzaG9qUkE4cWJ2TXpaTmxVY09QRkItS2xWZjNpdDBGTllyZTNfTjk3UEtESkFTNFRodE9DWDBYdUNHeVBOellaSGpBSmM5TGxCZEh6b0dQTGNRTHlRSEdhbHA2QXg1aGtKT0NsdmJlSlZYSHR0clFxbHJ1SFNuOVpzNWZoc3RUbHJjN3VCQi1UeXVYbTN4Y2M5N3JFS2pnWlRILXo3SUE?oc=5",
+      "snippet": "Doctors, pharmacies battle rising tide of AI-driven health scams The Malaysian Reserve",
+      "publishedAt": "2026-11-05T00:39:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
