@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:07:38.414Z",
+  "generatedAt": "2026-11-05T20:10:13.923Z",
   "snapshot": true,
   "date": "2026-11-05",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 15
   },
   "message": null,
   "sourceStatus": [
@@ -16,84 +16,84 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 51
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 14
+      "itemCount": 12
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 20
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 38
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 30
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 14
+      "itemCount": 19
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026 - Hong Kong Computer Emergency Response Team Coordination Centre",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1JaY0lDWGJ6OW16Z2NRTWVqcG5iZlFoRVdoWG9sbGE3bWN3N3lDTktITGs3Y1FKTFdMQ092anF0b1F1eDB4T3p2Z2ZMUmgyTDRSM09pSDdNUHNEc3puZjNBelJLTmZ6STZOYUdZOEF1VTFvUjNCM0pIN3Z0cm5YQVZYQTI3dkdhRmZiQ0s3OXdTVHlmcFk5dkd5cnZ2VkNNZThSdzBMLVN5M2ZEWDlEbklWcw?oc=5",
+      "snippet": "HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026 Hong Kong Computer Emergency Response Team Coordination Centre",
+      "publishedAt": "2026-11-05T09:27:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Use Fake Government Websites and CAPTCHA Checks to Deliver SimpleHelp Remote Access Software - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nMUpYV0V0Q0NsQTlzZS14eDVUeGxyV1E4RzY0a0VKdDcybHA2U3JKS3lvX3EwLW9TNDJpbDF3ZmEwSFotc1ZuSGo3VnFDZ2NETHVYWm1wcVNwR0pPclNoNUN4MGJOV0daZXNUTjhaaDVldWhRRmxhMGM5VdIBe0FVX3lxTE1nMUpYV0V0Q0NsQTlzZS14eDVUeGxyV1E4RzY0a0VKdDcybHA2U3JKS3lvX3EwLW9TNDJpbDF3ZmEwSFotc1ZuSGo3VnFDZ2NETHVYWm1wcVNwR0pPclNoNUN4MGJOV0daZXNUTjhaaDVldWhRRmxhMGM5VQ?oc=5",
+      "snippet": "Hackers Use Fake Government Websites and CAPTCHA Checks to Deliver SimpleHelp Remote Access Software CyberSecurityNews",
+      "publishedAt": "2026-11-05T08:00:02.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DigiCert Confirms Data Breach Exposing Customer Details and Sensitive Identity Documents - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95aWtiNTB6VmNRYzJIQXpVbFYzakg3ZzlMM0tZaU9xVGFXdGxyU1RNZUNIX1pCZ1N1ZXRLOXRsb3czTVJjWHFURklRcEZ1eUNMSkhER1ltb0JFY0Fza0kzbXN3WExlTDNGdU1PZNIBckFVX3lxTFB6LUFXakxXTjJDNDJ5N2NUazRHZ2JzN3JBSl9JNm16UW1NckQ4VU1QRGR6WVdWc21JMzRIb0ExZm5LYjRGLXlZRmJCN0Vra09PdUloc0FPam1jTkowcHJuQVhEOG42b21GSmFhSlJ0RU90UQ?oc=5",
+      "snippet": "DigiCert Confirms Data Breach Exposing Customer Details and Sensitive Identity Documents CyberSecurityNews",
+      "publishedAt": "2026-11-05T06:30:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Hackers Use ARTEX AI to Breach WorkOS and Access Customer Slack Conversations - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hMEJTVGlLb240SHM4YlMwZklKM29FUU5DeGEtMzBSenlEMFRIa3ZmRnJPZVhxQ3RyemdPNEx0R1AzaGRVcHlkN19oTmZMTG1HekRwZjR0T1RRakJEMlHSAWNBVV95cUxNWlUwcjctS3pqYm43U05nS1ZFVE1qVFZTMUZVdVFhQUpETHdOQUFGd3JDVldETmh4VXh0dnUyQ2Z1blpjQm5LZXdMYTRyLVdLZGFjbWdMdDh3VUFjVkwzRWZOMk0?oc=5",
@@ -227,6 +272,66 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Cyberattack On Crédit Mutuel Arkéa Targets Corporate Funds - Security Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDhCOUVhMWVQYm01R1h5Qi1PQXA4cEthMWRpTmxQRFJUOFNQTmhSZlNGSENrQWNLMkprYUJSd3hrUWx3a29xSFFtaFFwbTAxY21DVFdVSjg5ZmJtZ0xnUnVRQWIxWU5aU0RYTlR2d1FTLVhjbU0zYkFBUWNhZUo1OXRteFdYZFlQWndkMkdkZXlfcEZqczRMOEpEcG5PbWh0R0NjNHBjMl9nM0YwaGc?oc=5",
+      "snippet": "Cyberattack On Crédit Mutuel Arkéa Targets Corporate Funds Security Today",
+      "publishedAt": "2026-11-05T14:56:22.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysia’s digital transformation is accelerating, but are its cybersecurity defences keeping pace? - Focus Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT25Pc0RfcXdzcWlocnpGLWNnSlJuMFdXYWllWGNaczJ4elJHY2pMZElya1MzMGNUTXNJaHlOQ004Um1wNkttb0xzMnNiQWo5UGFCZHg0cEZyLTZQOHBfOWc4dC14TFVJMjFnWkliYTRXTzIzNDVqTlhEYWIxcUJoME1vYjRtMERGcG1FbW9vT1BpRGoyQzVsM1hTaC15ZlZvUWJWWENrUXIzWFkxbUo2Nk95RG9Zdnd3MzlYMjZabw?oc=5",
+      "snippet": "Malaysia’s digital transformation is accelerating, but are its cybersecurity defences keeping pace? Focus Malaysia",
+      "publishedAt": "2026-11-05T14:01:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026 - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkNjlSUjBKUC10aXRFbnROWWxPa3J2QWFMSzZhTkhsR3NZTjVXNkdrblhlU2RHQjF1OExZMGNFNmNWVi0xeDh5ZHNiX2lFRm1tQ3BmY25VRkZfV0cyMUpZMGg0em9HdzVRMDZfN2dBbk8tOTlsQVd6c1hYMk1Ydw?oc=5",
+      "snippet": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026 The Hacker News",
+      "publishedAt": "2026-11-05T10:06:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "French Banking Giant Crédit Mutuel Arkéa Hit by Cyberattack, $133 Million Reportedly Stolen - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWW5JMzlhejZrSnRxNGpSSm1yN1FhcnJaUkhtbk54QUJYdWQ5TzhmQl9zcDlfMnk1RkFlcU5OWFpaM01MMUpSN29kWGY2eHFpdVVKeDl3UXRJcjhlWEZyS0RweHlVekxTallFNk94bHVuaE0xQkFKa1d6OWxXNjZTbTRTeEFzRF8xUlHSAY8BQVVfeXFMTzhoX21lTnU3dkE1QmlaYjdwdTFjdjZuVGdnaUlyRGVaclBFSVJNV1lDSFpjdFUtbUR1cUJaQ1psTE4tNTZDYU9oMUREYm9idk1IWGtqR04zbzIwN0d6a09aQW9lNkpqM0pOZy1XS1ByY3VrZE1LMWpPN3BpcjM5VkNwOVFzZjdNSjNXRkpXQ3c?oc=5",
+      "snippet": "French Banking Giant Crédit Mutuel Arkéa Hit by Cyberattack, $133 Million Reportedly Stolen GBHackers News",
+      "publishedAt": "2026-11-05T05:48:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Data has become a prime target in the wave of cyberattacks. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGdfRm1lUXB5TUJVUEpUWkUyNUctNW80UldNZDN3d1dxOUJBUks0bm41WTJKRi1oRE9xMWg3ZV9XbWlHeW9MREVLRzU3TEloMUo0NTVUcTFRWG5FMlF2RWdseGhzSDFEMTI5R29OM0lYd0hqQWdMVEZZSDY1QW9JRDlMSi1uWV94TVE?oc=5",
       "snippet": "Data has become a prime target in the wave of cyberattacks. Vietnam.vn",
@@ -257,10 +362,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Central cyber security agency warns banks, fintech firms of frauds through AI agents - bfsi.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTmtFbFk0cWY3RU55SlJkanFCNXJNUVIxRlV4VDA1MEczalFUeFhNNUMwN04wVV9SN2RTUmptNzAwTTYzUEtTT3NTZGJPcmlwWEJfR013SU5LdnZTMDZGM0VVRjU4NnhlZ1NmZkc5eWRJSWJlek9KaV8tTFNVTGlfRGpySWt0aldHcDA1bDNNeDRyeVNPUG96cDJoLVJyZWdRZHg2SmN0bG5TMUlJS2M1bkh6WUJZTjJScExqVDJlbzc3dG9SVXRsTWVlQlJIYXVPeXZoTERGV3ZjNDBLeW92R2Z30gHiAUFVX3lxTE9Oa0VsWTRxZjdFTnlKUmRqcUI1ck1RUjFGVXhUMDUwRzNqUVR4WE01QzA3TjBVX1I3ZFNSam03MDBNNjNQS1NPc1NkYk9yaXBYQl9HTXdJTkt2dlMwNkYzRVVGNTg2eGVnU2ZmRzl5ZElJYmV6T0ppXy1MU1VMaV9EanJJa3RqV0dwMDVsM014NHJ5U09Qb3pwMmgtUnJlZ1FkeDZKY3RsblMxSUlLYzVuSHpZQllOMlJwTGpUMmVvNzd0b1JVdGxNZWVCUkhhdU95dmhMREZXdmM0MEt5b3ZHZnc?oc=5",
+      "snippet": "Central cyber security agency warns banks, fintech firms of frauds through AI agents bfsi.economictimes.indiatimes.com",
+      "publishedAt": "2026-11-05T02:49:32.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Crédit Mutuel Arkéa cyberattack: Bank details breach and stolen funds - Beinsure",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjYya0czWWFLRWNITm5qNHhnZ2lEdjFoenVDS3hIMURPdVo0bkx3Tm84UV9PT0EtTEdyemZjMHRCWVVjSk56bXBVSklBZlEtRG1aa0pZcmt2dHB4elJ5cnNBQzFJVFU5SXZTMFBycG4tUkVyRHFYbjBLV09pU1g0QVFTSGlRczQ1ellRc18yV1QzYmlRV05rTU00RQ?oc=5",
       "snippet": "Crédit Mutuel Arkéa cyberattack: Bank details breach and stolen funds Beinsure",
       "publishedAt": "2026-11-04T23:27:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mali Launches Online Platform to Report Cybersecurity Incidents - We are Tech",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcEV2eEF1VDdzZEtGYU1KaVBjZmNNaFNzdzZ3S3FSemd2SENrRTBDeDNpc1VMUlVQMXdlTVl1YzFOMjdKZHJ5bkNpa01ScnZLUGUzYUY5WDBoSjk1OU5IdmtMM0lRVG9nSFJraGlVVkVBdVlxN0w3SDR6Y1RkQWYwamZ6cUUyTk9HOGN6bnd1bFF6dUxmYlBuQldkR1FPQ2lYb2o2ejQyYWdsUy1yazZnTWwwdw?oc=5",
+      "snippet": "Mali Launches Online Platform to Report Cybersecurity Incidents We are Tech",
+      "publishedAt": "2026-11-04T23:18:31.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

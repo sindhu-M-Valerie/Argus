@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:07:38.414Z",
+  "generatedAt": "2026-11-05T20:10:13.923Z",
   "snapshot": true,
   "date": "2026-11-05",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -16,84 +16,84 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 51
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 14
+      "itemCount": 12
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 20
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 38
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 30
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 14
+      "itemCount": 19
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "This viral video of Minister S Jaishankar allegedly recounting how a Russian minister mocked him over the India-China border dispute is a deepfake - FACTLY",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRWZhMG9ITFVUN01IN1VsQ2UyWTdjOVRFdnlzVkxhR21uQUNqbjJDdHJUbWIxdWtKeVcyMHR1QnU0Tk56aTZBREdIaFd1ZUtoWGJyem84b3NjeGI0dXFERkg1a1BMM19lRk5hY0wydDFNVzJUMGVUQ3FqcmdoMVZvcnEtOEdNWVNMa204WkdERnFka3RqTDdCN2sxODhTXzhDMG96N3F1VGRlU3JjY2pQV0o0WVVLc2FYVExmS1U1bkpCZDYyejV6Q0FUaU5UNmQzQlg4aWJSOS02emtJbU1BcTQyTUpQdE1HNFR5czNwZWptQ3g2ZmY1Rg?oc=5",
+      "snippet": "This viral video of Minister S Jaishankar allegedly recounting how a Russian minister mocked him over the India-China border dispute is a deepfake FACTLY",
+      "publishedAt": "2026-11-05T07:31:44.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact Check: Did S Jaishankar say Russian Minister mocked him over India-China border dispute? No, viral video is fake - Organiser",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNenFMVmJFcWEycmRVRXpEbUhzYmJ2UTZsb3RnVFNHWE13UmhLc1lRelduT0FuamNNWjVQMGZ0d3BiYWlmbTliTHIwd19fX2kxTHlyNmNreGhpZUpBN0s5NWM3UU53UTI1VUJGa0ZRUTctLWcyMVgxTnFkVEp6ank3QmJvVXdrOFBDV0pFMlFObEVxMTJjQVNHRm9HbF9fclh3aG9TcllFTER3RGVmeGdaZndFNUY5VFg3eWZOVGRGVDl0a1BEQ3lnOGItSDNaWnZmYjlrSnNiS0hNbnFHRjhKLTI1dnU1a1VDcjdIekFHWUgtaXhw0gH6AUFVX3lxTE9oNDFlYWRQbkF0WHFoVmdyNWJTY3o4VGJRT3RkVFRhSlhSRVFoLVYxUGNyeFFIOUFMTVNrdnk2OG02VEM3NDlnVzZxSnBNdWRJU0VPNHNKY2tMNnJMUnpKRG9JeTloRkh6YWhKRm5OZjRWaTV6ZHJ5LU84VHVrb0NsUEFQa0FfbkxnZDJOM1pYbnZtb0VGY3VrWVRRb1pxSVRKWXo5TktrSlBRR2FFRVZORHVpMkEtbWxLY0ZVUXVJbVBFUDBtdlBKOFktTHRId3FvQ2FObVR6RldOS1JQQU5VVkxSNjdBSDMxOHEyUjVHbl83QUtReDYzNVE?oc=5",
       "snippet": "Fact Check: Did S Jaishankar say Russian Minister mocked him over India-China border dispute? No, viral video is fake Organiser",
@@ -193,6 +208,96 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Dr Jitendra Singh calls for caution against diet-related misinformation and disinformation - NuFFooDS Spectrum",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTVqU2RVM0ZpcVkyUGJXbUFGNm42XzgzbkVxVkdYd1NWTnB0VUV3R3ZSUUU4bHRSNXN6aTVXVC0ydUFYUUh3RWZhN0c0S3ppeS10aGxUSm5aZzdqdGVIUkYtaXR1RFNQdENQd3JFV1dqSGFpS1lweHkxTnpzQ0c0THVGSk5QM3E4YklhaHVxM2NSSFhxNzdfM2hQaHhhVUlPRVJXMnZuT1ZyUmZEU05wVm9iLVRkdFhKd3VTRWZHX0wwTGYtTVBNOWJIVHFPVzlFOGc?oc=5",
+      "snippet": "Dr Jitendra Singh calls for caution against diet-related misinformation and disinformation NuFFooDS Spectrum",
+      "publishedAt": "2026-11-05T08:40:50.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: These videos DON'T show action against those who attacked BSF in Tripura - India Today",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTjVWYjlTZUtJUHBSNTRUeEZrOGRqLWxleVJnQS1qZnIxbDdGWW03bFRRSHVOWUVhd3NneHlxSHZwbjZQWlRzVEY1YmVPSzJWZjlnQTFzZFFmZE16WEpjTEFwbnRoOEZBNUd0OUZqRk9iYnprcU1pYkVuV2FGZjcyMUxrSVZPUWRvNXVDM2Z5ZmZpNi1IYXBuekNfR255UEdibGtCZ0dCOThoMWFpZjRGV3d5NmVaLXp4YTNBMG45dTRIMVdubEc2d1pvS3FpNnJQYWwzMFpOMGEweHFhTGFCSVBqODUyS05tQXU5S1V3cldDLUNmWEQwS21Ud1NpQ01Yd3NFQmU4MTNkbmo4WVp6MEp30gGXAkFVX3lxTE1taklMYkZsLWNESExoZ0hWSzNORlJaalRIRUx6MzhOaTZjTUZORmFtb1lHTlJHNkh6cE85enpvSWNXbHNQTU1yeGF4WUQ2N1kwei00N0dJeEp6aDFyMTEyT1dzRGR1UjFjOWZteXJ1eTVEWjROT1BEN1RMQTd3VXQ2TnhUVVdSRjc4VkhHTTRqb3k1ejV3T0ZXaGJqUEZLSmlQOUNvRzRtMVRXNklkRC1qbkx6WnRBazdQYmJpd0ducnA4UUEzWWkxTk96T1NKNmVlZzg0dmxjanRxUHZXTHhxS09vMHFZTWJBSm5IS1lKcE1yQldFbU4xZkh1ampBcUExNFluWTZ6Z204dHFrQzh1WHM3VE5FQQ?oc=5",
+      "snippet": "Fact Check: These videos DON'T show action against those who attacked BSF in Tripura India Today",
+      "publishedAt": "2026-11-05T16:02:52.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Opposition spreading misinformation over SIR: Saini - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXlmazQ2aWxsWjQtWTlLNms3Vi1iMXZKTklPM0FfTXU3Z3Q4OVpBMjdqV19DOUxBVUxsNVQ5LXR4U0ZiRXJwUkUxS0ZVSS16dDhzSG42TTV4WEx0SkxfbzR0UzZVSnRaT0xDYncyVU55RFRPUDdZRUlZMW8tQ3RnZ3ppWmdwWHFDcVRGNmF1YVBRZVZEdnNwVmdtcGlCMm82S3IwVlVnazgza2RCVUw5dFdFYU5aYXUtdEN1WXkzUER6bjJ0TGxJ0gHMAUFVX3lxTE45UGNTTWszSS1EYmpSUHN3R2htNE1Iby1ET05NM19ETWNqbjQybUJGVG01ZTNYWlNLbUdGZnVuSjktRkVJTGxuTzFiRTRVZDM2NWhVUG1ZVzB0TElGMFhwSWE3NC1HUDhLcmZsdG5mYngyVmpyQVpTT29TZ05NV0xEVnRUV09KZG5wcC0yaHZCZmhSUjlPQXV6Z05pb3Vmdk1pOXNremEyMEhYQlN5UEFSR3V4eXlINVRYRG81OHVwdXJnbXFPTTNRS2JhVA?oc=5",
+      "snippet": "Opposition spreading misinformation over SIR: Saini The Times of India",
+      "publishedAt": "2026-11-05T17:14:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SIR routine exercise, no new process; Oppn spreading misinformation, says BJP’s Baijayant Panda - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3l6LUlJQWN3UElYUHJ5R1NQMzVURmpLWTgzSmp1OVQydzM1SkxJY1liWWV0Vk56RDBYbnllaXEtVHdWRmdVMTNiSk5JNlB0WTdBRnQ0NjQxWmIzemdCcmVRV3dWNnFDcExDUmJ3YTh2ZU91Zko5XzBVaWR1VUFjWlFGMDRwSjlZR0MyUkpld0xfQjFCTGF4cnROMk9uelV5STNlaDZmRzA3RXUxV0ZHdnUwUnBOYmlPbkhVcks5LW9FRDFrRGc5eUp30gHKAUFVX3lxTFBHeXotSUlBY3dQSVhQcnlHU1AzNVRGaktZODNKanU5VDJ3MzVKTEljWWJZZXRWTnpEMFhueWVpcS1Ud1ZGZ1UxM2JKTkk2UHRZN0FGdDQ2NDFaYjN6Z0JyZVFXd1Y2cUNwTENSYndhOHZlT3VmSjlfMFVpZHVVQWNaUUYwNHBKOVlHQzJSSmV3TF9CMUJMYXhydE4yT256VXlJM2VoNmZHMDdFdTFXRkd2dTBScE5iaU9uSFVySzktb0VEMWtEZzl5Snc?oc=5",
+      "snippet": "SIR routine exercise, no new process; Oppn spreading misinformation, says BJP’s Baijayant Panda ThePrint",
+      "publishedAt": "2026-11-05T15:50:55.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Counter Oppn’s misinformation on SIR: Amit Shah tells workers - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmIzUHVNYVRhczB2ZmJUeXZ1dmFsamVYTTFKM2dRVVVhQnRZN0hXN3V2WkpKd1NGMGZWZTJVcTl6T1dFTTFYMFNGY18xSVVrOUxZeGhRblR3UUNpTVNvN2s3NzMxNXdtNFl1SHRrcm56elpVNHFvX1IxWEtfSWQtUDZvLTdsa0VmcG16bFdvT3d0ZS1tbGpqN0xmNGFFNHRZczZvWdIBqAFBVV95cUxQQVJBak96dWU0bXp6aU8ybzhPZ3JhWUpyQ050NW1MeGhlSUZVd0gwZzRzNFJNMS10cXZCV3hvQWljb2NJdEx4LTlZZFpWalFRUTBQdXBTNWl5dWc5M05FOVpwYnVLSFdIQTU3YnBqZTVGY2hrenB0VVp6YUZ0S045Um9mQU9UMDFVdTNCbzRYQktaZm5aLUFWRkhOYTZ1VGdNTjl3Um5CX0M?oc=5",
+      "snippet": "Counter Oppn’s misinformation on SIR: Amit Shah tells workers The Tribune",
+      "publishedAt": "2026-11-05T15:44:48.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake News About Priyadarshini Scheme Goes Viral, Transport Minister Files Police Complaint - Asianet Newsable",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSHJleE5rWE4xLTZwWEQ2YVQ3RkNPdVFvUks0ek1tam5ldmZwWGppeDZLT2FGTVZPNG03YV9PbnFjaFVhSFpndi1TNF8tSl9QTG1TZUFNVC1TX3FRTmYxd2xCQ1hXLWdpM01pbk9xUi13amJEQjl2NmpnZFJWNXZ5cWYzY3VaTHo4WHBmaVFlcWVKcE1zWlFDWGE3R0FyZWRGOUR1TnFZclBYajVuX1BRRmVLSnJqMVFiY252Q2ZHeENnLTcyQl9mdUJxUXBRTjNxbkxoWmszOG5XTkRIMjFyV01sQVRlUdIB6wFBVV95cUxOMGFIWlA3UXhGMWs4WFQxaUtvZVdkZXZ2U2tRU0FHdkg4am9QQVF0TEtNOFgxRHpfLTk0bGVBV0lwWVhxQ3BKWER3VGpGSTVBUEszck9pcldKODV5bk1DM1RXMTQwa3MzMEJjeVkxTGJFckdKS01hU19yRHRGX3d0QUNlZ0ZmbnZhbUdqeDAxZGJYZUxqenRCckZNcmVhYVJrR3pad25DMHRZZkFQN1I3YXpIT09zaDlzU1pVb05ycGlWUWV0OWdURkR3UlFTb3l3N1NEVFo5cUF6ckZ2aFk2M1lSdFVIQ2tNbmRN?oc=5",
+      "snippet": "Fake News About Priyadarshini Scheme Goes Viral, Transport Minister Files Police Complaint Asianet Newsable",
+      "publishedAt": "2026-11-05T12:19:25.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

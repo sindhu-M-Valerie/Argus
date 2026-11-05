@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:07:38.414Z",
+  "generatedAt": "2026-11-05T20:10:13.923Z",
   "snapshot": true,
   "date": "2026-11-05",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 11
   },
   "message": null,
   "sourceStatus": [
@@ -16,84 +16,84 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 51
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 14
+      "itemCount": 12
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 20
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 38
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 30
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 14
+      "itemCount": 19
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,141 @@
     }
   ],
   "data": [
+    {
+      "title": "KnowBe4 Report Finds Spear-Phishing Attacks Surge 41% as Cybercriminals Shift Away From Mass Scams - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHdMVWxQUkM5ZUtSQ2t0d2p3MlN2UlRqQzM5SC04Tml1NGtmVW9xa1hGRUp6bFBHaVZ3NmFfelRsNlVXQXFHLVpxX1AyU0xySjJHTWh1Uk5GMUJ5bnZBNi00TV9zVnBITDN1STlrZmNZWU9wX3V2eVF2OHJsOGFPdTdPck9MVDJvZllYQW50aFY2aktiaEpBZVBpb3FpWVR4Z2N2cm5SWFNYRm52aGRmRGM4ajhzc1J2OHhjQi03T0JyM3hKVEFQbElKa3VPdUZuYXdZ?oc=5",
+      "snippet": "KnowBe4 Report Finds Spear-Phishing Attacks Surge 41% as Cybercriminals Shift Away From Mass Scams Cybersecurity Insiders",
+      "publishedAt": "2026-11-05T07:52:55.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Older Americans Reported $1 Billion Lost to Investment Scams in One Year - Here's Where the Fraud Starts - Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONUkwQXFoQWhPZF96OXBlcWNQMU5mZVdmYzlMX2lxOFozaDh0aW9VR3c3ZTN4YmkxME1iSDcyTl8zT1pPbE1UZnJPWW9xdUkzVWJKV2hNUVY2SjFVWkl4M09JOU5FLVRKa2d2UjAyM0hnaG80WlZGTWJ4TF9wMWV0T0FIZllWcUtCTER1NWFib0w0akM5aVg0LW93WlV3bnpUNDZuaEk0dDB1Z0t3TUYyaFhhc2o3N0k0bkw2VUhtUjJiN3dWRmFnWVYwTjN2VWc1LW92MlR1ZlRyVXNTT0E?oc=5",
+      "snippet": "Older Americans Reported $1 Billion Lost to Investment Scams in One Year - Here's Where the Fraud Starts Big News Network.com",
+      "publishedAt": "2026-11-04T22:34:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PHP2Shell explained: Why Filipinos should watch out for fake security alerts and scam links - GIZGUIDE",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YN2lRX1ZWZFhrQU41c0tQSWZ5ckdsOWRSS2JKdmVVbTdLOEQ2UjExM1dSNkJOU2JJR244eTI3SnhUSWlKcWRHTW5WMTNPZGxtdFNmTE1DY1J5VkhOWHFwWE5RaFVkclpiU1RURGZaOEktZkxrcVdaOA?oc=5",
+      "snippet": "PHP2Shell explained: Why Filipinos should watch out for fake security alerts and scam links GIZGUIDE",
+      "publishedAt": "2026-11-05T15:55:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Europol busts investment scam network spanning 50 countries, seizes over 100 servers - Bitdefender",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTVGNFNoT3A2TUNHb1ZBV1ZpWXlUM29yclBKR2ZFdGIySHRhcHNBeUNrSmNpZ2dRaVNwV0NYX0x5Z2QyVzNEY09KRW5qSVJER19uM1pQWDVrXzRCaXdKQ2pmVDR6elMxenNXU3MxMzlVNDZtNnYxaGJSdFVNclQ4ZjZ5OENoR1RvNnRyblA4LWhWTHkxWld6RXpiTnM?oc=5",
+      "snippet": "Europol busts investment scam network spanning 50 countries, seizes over 100 servers Bitdefender",
+      "publishedAt": "2026-11-05T11:25:30.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Stockal scam: Investors can seek compensation under IT Act, criminal action under BNS, say legal experts - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOXFTcVZZYVFxUnNhMW9XcmFZX3lCUE5uZlExVDl4R0JhYkhqenJhYjFCcURyaHc4M1pUZUZBRFZfMFJkYUZ2LWxXOEpMMUU3SWM1elhwa1dCRjc3UFFtUXVMM0dwMkpTWE5MNVVvYUxYZXE3MXh0blBlZTRUNUFKSmpfczM2Z2Zxa3I3bGVqcG8tRWtuaXo0OW1iN0hSUnFHM040M29PV1RVWU9sOE5MRHlqT2V6Mlp4eUtsZGQ4emhHa0FyNFJtNDl4Qms0SWh6STZ2c3dZSEY3NE1iQjhBdUNLLXdvNzRJLWdJSHRmQ0dNRWJfTm1CSmx30gH_AUFVX3lxTE9JZUxDcU1vZGxrSFlqUzcxR0dTTS1OMkI4MHduWWpXUTZKZHpRaUNoOGxTRS1ZN05TYWVCQzhGeVJSVmxzR0FOa25Ibnd0S2w4NHQyNk82SjRYcGRGTl9RNUs5UG5xSGhEMHJoMURLSWdIYVpJLWRuV3BRMXJuR3JhQW9LLVFaak1CZzFLYkFJeTFrVEpLbmZkQjlUeXNwd05VUWRpZUZCUjdFbFFlMWFqQkY3b1VVNDJxRkI2OVVWd1R3SFZCclFjLW94ZExYZXZMSS1OOVpGMlpwakcxOFh5OEFpSnh5anh0Z3ppcEpXajg3N0tISm9kWFk2a184NA?oc=5",
+      "snippet": "Stockal scam: Investors can seek compensation under IT Act, criminal action under BNS, say legal experts Moneycontrol.com",
+      "publishedAt": "2026-11-05T11:00:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOalJCQWJZeDFGRWx6NlZ2NkZJQ1hqeTdxOEs0c1JkcXgzbnpfUEtRWDA4bmJEclNHSnVXblNfcVRTN18xc2VhZlZCaEgyektGbWhCdDZFck9pY2dfSFY1cUVVRDBFZjRFNFZrYkl2eW5KWnNleVFDaTM3bjN3N0VRVW5KNGkzZEpsdTc1azhNNFBtUENUVy1rOTVwWTU3VHFKclRQQTNLelRpN1FXWGFIcWZndHVGZHhSM3J5azE2X3ZWLWM4ZURLN1I5dkNYUnM1SFRJbXR3Vm5ROXlTcFZoeXlRUXR3UQ?oc=5",
+      "snippet": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home The Washington Post",
+      "publishedAt": "2026-11-05T10:05:05.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Stockal scam: DriveWealth denies role in unauthorised trades - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDJ0akh6Q2U4VmdLVzE5a2s1M3FnN213WmFVVG84d0QyTG1vRzF6M3ZrU05KcjRWR1B5RDBRN1ZZVFk3dnNkaUVqNGo2UUVWRDc5TkRYTEo2b3IzcVgxM2hjUWlKRkw1N0lGUHdaa05ES1lySFV2b3VWTWpoRHJiZmxJNk5xUEF0RGFydmw0VUowVFdUWU1Bc24zM2V0OWdfRG1FTThYU1A5OGp5Q0xSYjdMa2FGTmN1NTdEdlllVVdLZ9IBxwFBVV95cUxPSkRMM1JyYW1iZ2c1REhOX0tuN0U0UlBhejVNYWlDcFNZQXNGTjRGTGk5bjU2N3ViNmZYaG5YWU51MFkwQm12S2VKZmUyeVpJbkNVa01OZHRXWldYeFh0cFVRSzh1SnNvTU4xRFhmS2V5c09kR18xMnpIZktxbTNDR1FGZVJmaE5TcDBiUG5KUVozYkFqRW5tb1ZPZjdPckhBWGlhamltOTJnRGxTcG5UekNsRU5JRUdfb0czNU1HeFBsZGtQY3lN?oc=5",
+      "snippet": "Stockal scam: DriveWealth denies role in unauthorised trades Moneycontrol.com",
+      "publishedAt": "2026-11-05T09:27:07.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Experts warn of 14 online scams that students need to identify - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXBjR0VQbVJfMXB6ZGJ5Z0VTZDdqTERUVkdTWnVjNkcxM0h2RmdXRTVQNXNiRHNrWVEzWkpkOVJHbVh3N1Bta1VKdmxsMmdUZHlNaGREZFdxM3pUZTJUSGQ5RmhSV2dEYmN1eUxlaEFLNExZeURaUTU5TDQ4SkpaSmw0VFMteVBQbkNFVnBoWDFQVGZOUmRGMkFpSTlqY3ZIYUpRRWE1OUloVmh0UVRZTnk4dmdQeHJSRHc?oc=5",
+      "snippet": "Experts warn of 14 online scams that students need to identify Laodong.vn",
+      "publishedAt": "2026-11-05T08:32:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Dhanteras To Diwali: Fake Offers, Gold Deals And Cyber Scams On The Rise - News Mobile",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPODZUX2dqekY2eXoxemxlV1loOHhoanh3Rl9IYnRpU1d6RFJ6S1lGejlUVFdsb19sbTVTOEJuT3FPYk1vdGg0Yi1TS1RVZHpPaVU5RE55bE1hVW0td0xWeno3aWZ2OWxmdTc3NU9vMVdIRVJSN1VELWhyN1RFSmNhLW9hd2FkQm9odVZiSG5fQmE3NndFVkVZUFZMZ2VpWm5ybFBJUjlaTmVUOXk3cXlLSkVR?oc=5",
+      "snippet": "Dhanteras To Diwali: Fake Offers, Gold Deals And Cyber Scams On The Rise News Mobile",
+      "publishedAt": "2026-11-05T06:19:37.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Lured into an online scam network, an African man spent almost a year in Cambodia trying to go home - Newsday",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW9ZWTMtT3ZfVHVka3pOWi1INlZpSVFvOHJxdGpRMnRpUnN2UjAwRWszZzhuVDhJRmplamY0VERLaEtOMkFyRzBmVS1FNE84dUpQQ0dma29CSFIyNjNlbzcxcUFuR3cxNmFCdjNobjQtTktQWnNCSVdqZDM1NlRtSnNEckc3LXhJc0hXeEgtbmRhZlpsdmt3b09rVQ?oc=5",
