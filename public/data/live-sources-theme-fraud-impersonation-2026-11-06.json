@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T20:10:13.923Z",
+  "generatedAt": "2026-11-06T07:06:43.021Z",
   "snapshot": true,
   "date": "2026-11-06",
   "filters": {
@@ -7,65 +7,65 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-06 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 51
+      "itemCount": 52
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 64
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 12
+      "itemCount": 11
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 19
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 - BusinessToday Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlI0TVppOWIwckRmZ01uaHJpdTVxOVNJbnZIUGlLd0EtbmlnSHE1U0pQOFNtUFRzTFNaUG9qQWE5ekl0UkFuR05jS2lKbjFXSE44Q09zQm1LNmxwYkRWeDBxNFpiQzk3M29aX0ZFeWhpQU5rc1REdUxRSjF2dWxhckJuUG5rZjAxNm40RDMtRFBkN0RYWkNxMXRCbVZ5NkhLSFpqS1Y1b0N3RHBrNFNlLUlVcU0takVPRXc5S0VWaVozRkt5eDZsSjNZQ3BNSkFyaWtnbUpFTjBhdw?oc=5",
+      "snippet": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 BusinessToday Malaysia",
+      "publishedAt": "2026-11-06T03:50:08.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CTC Travel warns of ‘all-inclusive’ tour package scam deals targeting seniors - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGp1cXFHa2lZXy1GM3JnQnBkZDBIcHZfR0MxbUFMVGVfemRDN2tqT0ZqNG9TaWpfejZ5MnBRb0s2eTdrNkpjZnpRQ2NxaDdxUVBhTEJWd01TS3FCZUlHSWx2bFUtbk1mQzJtWnFib0ZEQXpTQkhnbDJBWmMtUGcxRmF1aS13UFE2RkVBdWl0aWt0dWN4dWNsLS11Y25tWHV3TFo0N0k1eENONDhLcTg0UEx6VXQ?oc=5",
+      "snippet": "CTC Travel warns of ‘all-inclusive’ tour package scam deals targeting seniors The Straits Times",
+      "publishedAt": "2026-11-06T03:35:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

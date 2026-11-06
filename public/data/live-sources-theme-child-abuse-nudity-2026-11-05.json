@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T20:10:13.923Z",
+  "generatedAt": "2026-11-06T07:06:43.021Z",
   "snapshot": true,
   "date": "2026-11-05",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 31
+    "total": 34
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 51
+      "itemCount": 52
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 64
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 12
+      "itemCount": 11
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 19
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -236,6 +236,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
+      "riskScore": 67,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Delhi Police registers FIR over alleged circulation of child sexual abuse material on Meta platforms - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX0hZdzBDelZzNUozZXFYcWd5TWVEMzMwODVKQ3dyYU5NZWpFZGptSGpyMGhKMGxfWURZc0dWV0ZnaTBEbERlZXFtNFhLVW80NGRZNS1ZTWx1RHRGZ2Vndjc3cmE4eVhkdE1qX3hkT0U3a3RkQVREeXNQVjNVWDhCM2FmRnFNZEdpQnR6eHZUSWhPYjY0QzB0R25CVGV3a2s2dGNtMUN3S0xjUjB1R3VLb0YxVXQ3UGxVek5RSmNvZncyLS1Gb21mekwtVlN3MnQxR0VEYk5RcVlrUnI2Q200d0c4LV9VMHdHcTQ40gHwAUFVX3lxTE9HNFhlMURLYTI1UnVJazRWMHVsNHhsNm5zZGtlMzQxOXlSYmN5V1RvLXJQODVVblNXdmo2djVUWmxISU9fNjl0NXFnRm8yRkVrdEpWRFVJVXE2dzZhUzBVVHNTeHpqdDUxQ01ocmRqeGlURlc1MllxTU5ZQm56WmVnSnZtenNMNHdYUXQ3NElaUlRKbDM4cHl3T0h5ZzRMbndWLTE0eVNrbnRrRWhmTDZiMGdpMWhaUjBDWXZZdTFJZTZOc3JoQlJBNlBESVZaOE1wejBrWGdFZTJOYWtTbTQ3bVVWZkYwaGlFTlM4WVh3Sg?oc=5",
+      "snippet": "Delhi Police registers FIR over alleged circulation of child sexual abuse material on Meta platforms Devdiscourse",
+      "publishedAt": "2026-11-05T06:36:40.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
       "riskScore": 67,
       "confidence": "High",
       "severity": "Medium",
@@ -332,6 +347,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Indian police launch investigation into child sexual abuse material on Meta platforms - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYWx3bXJPN1hhUmZfRDY3dXU5S19PUC11eTktbnpPQUVLWkQ5Sm1xaUxGR0RZMHFjbXdyTlFGbk8wUjF3bTYwYk80ZUlDQnFGcDlhcjliaGE0em1oajdUOG5aSXMxelVuT0FaX1Y2bGRvWTVvYTlkbGlwUzNEVUxlTng0ZjlKUE5uMUdZaVFoRGZNVUZjVmVRN25GemNZOE5ONDJTR0tfSWxxVkE5SGkzSlpldkNLazc2clh4WE8yTXM5ZUpuZFdmMQ?oc=5",
+      "snippet": "Indian police launch investigation into child sexual abuse material on Meta platforms Anadolu Ajansı",
+      "publishedAt": "2026-11-05T09:38:40.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Delhi Police files FIR against Meta India over child sexual abuse material on its platforms - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT1pob1pzZ1JWVG1NckUtdkVUWHQ5cmZTajJsbDNER3NVX3BYVEE3aTV2MERBcklmWGVheVdsNUM2d1pxcFRzZjVheTZiVzZtS1VkbG5VM1V2NEZLQ1BmeGtUclMtRlZkLUliclFkN0FYYjZwbnJqMno1dzk1YVJZZmZWcDVSTUs0OU1BeW1wYjZEdFhPNzhMOGhqTkRJdFYwLWVpTFZlYTMyNTREQzBXTDhsc3FrRVppR2ZTVndrWnVKNnlHc0lMUm40NnZVTm9FMHAyUG15RUM5Q0ZMQUcycFF5ckRyNUVpYWt5WS1TQWdkbGPSAfgBQVVfeXFMUEFHTUtmYVk0MDFKVUIzYS1UQ29zRkwxQUVYMlAxd1RUTHU3ZmtQZ1hxaGdWa0xkZDM1V2dkUkFfMHlVSWxad0FkWXdoZXdRZDZCalFJeENuNmFvS2w1THhtR1pNVHIyMGxmRkxxTFgzbUFHeVZfN1dtdmZ1S1RDcU1yOFNuaS1abU1PaEFxbFR6R3ZwV3FibW9XM2poOWlqTG1BT2g1bkxaSXREN2tzUzJfa09hNTFJbF82RTJ6SjVGOHlkT0dmU1IxbDNKVC1HVl9TVWlYUTZaYklqYXhJbTlWTUFWaUFZZmMxOGw3YjY3QVNRTVpyaWw?oc=5",
       "snippet": "Delhi Police files FIR against Meta India over child sexual abuse material on its platforms The Economic Times",
@@ -415,6 +445,21 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meta faces FIR over child sexual abuse material on its platforms; Delhi Police acts after NCPCR intervention - Mathrubhumi English",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFRLc1Iwa0hVbWdFZUdneFRnY0VCb0N2UzViQk1uLW9WQ2RhU3poX0prc0w2bjRDcEtKWkl6Z3lRYU02UThLbG1BQ0xlV1ozQXlGRUVtVmNwRFg1b1FiYXhsTElld01kRG51R3V3MHpsVlBqWnpKTGpfTEFlYl9LOXJCNHd1c2xhYjZLeDNkWGZsUkc1eFVDa3ZKNm5TRC1icnlj0gGoAUFVX3lxTE9fS3c1VGRzZ2IwWWV4WUlEWkJsaDhKbHpYNk50enRsZW9SSXE1MGx6VnpGUG5ES1hxOWxGUTdCYTl1NjcwUzdlaFNUV3ZXVGw2QUkxRG9DRGhuLTFySXFJemNCQWRMN3RXT1hEWXdYemJOZnB6VWtmeGlTbkVTREZ1YVFUVnNEWkc2NmRRVTBmd3hOejJXVS1Pc1B4Y2dQcEtCUGVqMnJWNQ?oc=5",
+      "snippet": "Meta faces FIR over child sexual abuse material on its platforms; Delhi Police acts after NCPCR intervention Mathrubhumi English",
+      "publishedAt": "2026-11-05T06:36:01.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",

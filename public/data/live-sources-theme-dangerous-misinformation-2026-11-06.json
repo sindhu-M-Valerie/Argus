@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T20:10:13.923Z",
+  "generatedAt": "2026-11-06T07:06:43.021Z",
   "snapshot": true,
   "date": "2026-11-06",
   "filters": {
@@ -7,65 +7,65 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 6
   },
-  "message": "No verified news was found for 2026-11-06 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 51
+      "itemCount": 52
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 64
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 12
+      "itemCount": 11
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 19
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,96 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Russian foreign minister Sergey Lavrov dismissed India’s diplomatic standing? No, viral video is a deepfake - Alt News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWtNQ1VTci03REMyMWZudmY3VjNvR3RFRHZmSVdYZG9PeVl2ejdMY2ZRSnl3ZXpYbGc4T1dNaEdHbjh2c3VkYldFR2ZTQ2FFNjBfaWlvWjJnQlRtWkVvWHlfNDN5NVJfZF90M0hjazZUSTlFQnFjMl9lOU1tQVIzMXpOOXMzdjRnVnhjMlhnRDBrd1BkTlIycUhOSkFpaTF1Y3BUWWpEWk9GM3YyaUdNYkdSMTdSZUV0YUZET290US1BdDRnNkhV?oc=5",
+      "snippet": "Russian foreign minister Sergey Lavrov dismissed India’s diplomatic standing? No, viral video is a deepfake Alt News",
+      "publishedAt": "2026-11-06T03:12:59.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WebQoof Recap: Of Misinformation Around ‘Chalo Dilli’ Protest, Deepfakes & More - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTEwd1BzWkt2ZlZGSUVheDBuZUVrNkdTT2Juamt0Nk5iSXdfVVNYN1VPUGJWRml4UGtGNzhhZklzdG5FUFNteF9wU04tSFNRSV9yQkthUHhVMU5YWEFqWHRySEpTM2psTTNqVF94ankxeXFreEdOM0JnOVJOcVYtS0hnRWVuLVZkMGJTTnRaTzZKQnVHQmlBcjc4WHNEZzZIRmN6bW5Fc0d4RmhWU0hPWHVzYW5HeFo00gHGAUFVX3lxTE9ENk5NOWJOcDRHclNfUlMyV2tjOHFjWHpPeHF4eW01cFUxUnhSSVZtQm15TTQ3VVkyMk9oTUtvdXZWQVRFUEhhNjJjR2p3cU1VaXNBTnJJZ00tZG5BOElmTm50d0RRUFM4X2N0OEdSNVNFTzB2NUs3T0xCbUItcDNNTG9YOVM3UktQNE1LcWxXUUlxYUhMZ2gwdzByc1U3STJkX09pNVQyWlh1UE50WmhEeXl3QV9mZTFzU2wxVFBDNkFmdUh1Zw?oc=5",
+      "snippet": "WebQoof Recap: Of Misinformation Around ‘Chalo Dilli’ Protest, Deepfakes & More The Quint",
+      "publishedAt": "2026-11-06T06:06:43.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Old Video Of Congress Rally At Delhi's Ramlila Maidan Falsely Shared As Recent - Vishvas News Fact Check Hindi",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdExvbGhod3h6T3B3Y2RFVnpMQ1ptRkZDdExxM1d3OThBX1F6dEEyT3BzMDRqWm41VVh1cGdCT1J2ZC12UGYwMGdEaUdFd1VVSW1Ma1dkbFhBYVZDbkdNa2RFMGVoRlN1akdKcTZPMFBiV1VTcVctZ0RPR3dxNFdXZExTT1pFQ2F0dms4SEhTMW1ZNXVYZFFUSzIxS2tFa2NzamNFTVVQbHRkRVFFOHlKcWxQVzdoVE5nQlk3YXlTVFhXcl95MUtoVjkxVQ?oc=5",
+      "snippet": "Fact Check: Old Video Of Congress Rally At Delhi's Ramlila Maidan Falsely Shared As Recent Vishvas News Fact Check Hindi",
+      "publishedAt": "2026-11-06T05:32:58.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nepal festival video falsely linked to India-China border tensions - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aLUpVVmpkelUyR2pjYkJLd3BIM1dOQUdoYUlvb2hxOW5uNGtpdjJPaHBxUWhYZU53SDlUVnUteHFBbWRiRkhMX0lrZzVRbXBiYURvUW5NZC0?oc=5",
+      "snippet": "Nepal festival video falsely linked to India-China border tensions AFP Fact Check",
+      "publishedAt": "2026-11-06T04:55:29.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: Viral post falsely claims Cardi B shared Offset's messages questioning the paternity of her son | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZWZzUFRSS01GdnRtYTh1TklPNVNoUFdMT1M0R1hGSEdqeUw1a3I1RERYbEpBTjZRZVJsWjJ1NFhDOFlIN1lfZXdySmpmemNrNV9RVnpwa2ItV0pWdGMza25tWkpqWHZtWEFITHdhazFfRVJxakhYR2JFYUZzaGZJTFV2c2wtRk4tZ21SQlF1NzhrR21YVkxLcEJOekNkb3JmellpTEx2Slh2UVJ3d2FjMGpBRHBTOVRwZ0hFNDlVUlNpNTMxbXdnZndMTFlSaGd4R1lFWWg3LWM5ZkNlS0E2cUJ5M3NKZDNvcFdTSGFwX2RYTTl0UDE2Y1JyNS01OWxmYlU5b0k5b0xkMmRXWFJ5MkdaSXFMd9IBmwJBVV95cUxPOE1pTDkxRjhNbmRrcTA1QjJESjNuWWlmYm1pUHhkWWxNWXE3bGJMZ1J6eWl0UWtSVzBVWEJVSURqZDZWYWF0S2EzVV91ZnpkbHl3WlB5VVhJdjdETlZuVDZlY2JaTHd5T0Z0Vkk4aGg5R2tpRVVVQ0NhT3hKeHBNXzN6VXpOYVRkTXdzTWJGRkYyNkRNZnd1TFdhRkFiVmlORTZZcUdGZlloUU5LUGlQUDRubHN4eVQ3SGRONktpUm10LUxCTFlXM2tzaTQtWktmek4tMkFVb1lhSlNhdHpNeXZ4YjNoZ2dtRUNXSldueUJQemxzVFdkN0tjVnhuQU5DR09rOHo5QmdqejhrOTB2dTc2UU5vQjYxek9F?oc=5",
+      "snippet": "Fact check: Viral post falsely claims Cardi B shared Offset's messages questioning the paternity of her son | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-11-05T20:40:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI content labelling vital to curb misinformation: Tarar - The News Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHlNUmdSNGc1cm1TSFVHRXVmU0pyc3JOelU3TGx4SVNOOEFkWExIaU5LMno5alJLTUtVa1lKbjFiVUlOQkIwZm9jRzRLUlB3Y0JkSTh6RnJNckhtZXp1YlNyWjVQd0gxSnRTWUZTTW5SUm5ickR5ckd4NWR3QUNSbzhzUEhMMzBfa0ZGb2FjaUw4TXdfRHNN?oc=5",
+      "snippet": "AI content labelling vital to curb misinformation: Tarar The News Pakistan",
+      "publishedAt": "2026-11-05T19:00:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
