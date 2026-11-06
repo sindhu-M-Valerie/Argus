@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:06:43.021Z",
+  "generatedAt": "2026-11-06T19:37:02.070Z",
   "snapshot": true,
   "date": "2026-11-06",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 44
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 71
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 11
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 25
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,51 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "46-Year-Old Fonthill Man Arrested for Child Sexual Abuse and Exploitation Material - The Bay Observer - Providing a Fresh Perspective for Hamilton and Burlington",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmQ2NkVlRXVnYjNQQTBDS0NIeXZiSWp1Z0FLa2VOVnVfc2tNeURqY0RMNzZuLWtEUkh6SVhLcFo1TVVXcDFxRGlOLV80b0ZfRUNBallQd2xfazNlaVFZRnhsejgxZTJMMElKSVp2Y0hSVGV5dkF0LTkxSm9pMDRNYXZTa01MMkpjQ3JKWVgzR1REZ3Q3TjBBMTdZeWliWDdEZ1Nyc3pnRko0QQ?oc=5",
+      "snippet": "46-Year-Old Fonthill Man Arrested for Child Sexual Abuse and Exploitation Material The Bay Observer - Providing a Fresh Perspective for Hamilton and Burlington",
+      "publishedAt": "2026-11-06T16:58:36.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Jail for Kamloops man who used crypto to buy child sex abuse material on dark web - Castanet Kamloops",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjJFeVVFNTVIU2pTTmh5a2tHd054X0ZUQU9CTzVVNS1IZF91eE1WTVFPbElMSkpuNTZ5bTVjOURLN2hNbXdkejdxV0lWMGF1WkR1aXY5LWJESGpYNzdlbDVIM0NDNG5uTnlUdzNMVU1RYmJPQ1gxcHpmYmxDUjRiUkRSWTlLNTd0WGs0MDY4bkhOS3hodzU3alg5LXdyS0hzbkE0eFZYUHl0b1R3UVNkZi1XTXAxV0JDejhteHFzc0duQXJicFZvc3YwRTcwRmpQ?oc=5",
+      "snippet": "Jail for Kamloops man who used crypto to buy child sex abuse material on dark web Castanet Kamloops",
+      "publishedAt": "2026-11-06T11:02:13.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police turn to charities for help with teenagers caught up in online child abuse - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3UwZUtSOWFmMWQ0YUdZT2ZFMFNYcUh0TWdPZ2ZBdTBGb2x2SnJVTFJCYkJIZGlKanh5TC14eHNzSzYwRE92SGN6YS01UFlXTEhEZmdkVlR5M0gzRTM4VUZTeGJYR0Nha3EtV3d3a2RtLUlQS1Y5MkVKVTZoRDFoZlp2Um9DaTN3bGhiVklYdXpYV2psb08yMFJ4SQ?oc=5",
+      "snippet": "Police turn to charities for help with teenagers caught up in online child abuse The Guardian",
+      "publishedAt": "2026-11-06T06:00:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

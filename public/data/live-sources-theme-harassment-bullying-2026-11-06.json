@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:06:43.021Z",
+  "generatedAt": "2026-11-06T19:37:02.070Z",
   "snapshot": true,
   "date": "2026-11-06",
   "filters": {
@@ -7,23 +7,23 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-06 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 44
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 71
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 11
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 25
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Vaishnaw seeks accountability from platforms over online abuse and harmful content - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzl0QS10SjBzMUlaaWY5ODdkdXhuUXJ6YTFNeHgzajduWHBtUHJJbEZ1SDU4TEVjQlBYcm13YnpjZjZhT3YyUVpkbVczcEJPdFZCS1h5V1lteDJPZnpzYUlLYTdaazVrN3FNTlptWmlITV80azhKSGd6dzlndlB4SDJ6dUUtTnU2eWR5M19WUTFZQnhaSFJyTUUzRG1WN0xsTWhKWVY5aGNrMU9Ob0E?oc=5",
+      "snippet": "Vaishnaw seeks accountability from platforms over online abuse and harmful content Telangana Today",
+      "publishedAt": "2026-11-06T13:41:44.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Women in Politics and Media Face Rising Online Harassment and Sexual Abuse - Central News South Africa",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1BWWnNWbjJJRVZQbkFqSGhjSGFpanVXWWJZYjVQNGY5MW5DNVlJeUUtVVZiUlF2MF9GR3Zrbm5jbDZOYXZQUFQzbXpJLVpYUGt6OHJZaUNrRTBoR1c5V0ctTWJNOUJFVS1mYnpNbDc4OTVkZ2M5cllCLVdzYVNGWUF6UXM1Y0haMzkxMV9HdlRhdF9oY0hLbUJfeE9lNUQ5TVVJ?oc=5",
+      "snippet": "Women in Politics and Media Face Rising Online Harassment and Sexual Abuse Central News South Africa",
+      "publishedAt": "2026-11-06T08:37:23.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

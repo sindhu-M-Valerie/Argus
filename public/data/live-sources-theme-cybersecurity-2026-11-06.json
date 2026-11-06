@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:06:43.021Z",
+  "generatedAt": "2026-11-06T19:37:02.070Z",
   "snapshot": true,
   "date": "2026-11-06",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 13
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 44
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 64
+      "itemCount": 71
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 11
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 25
     },
     {
       "label": "PIB Fact Check",
@@ -182,10 +182,25 @@
   ],
   "data": [
     {
+      "title": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTkpnMWRRVmYydWp5UlUtVVIyQl9TRWxELXBITHBmdERhWFVSU0VKcmFTblgxY3lmWnFyTmdTdVBIU0J6azNvS2JUelJoaXNrTFAxX2x2U3NyU0hCYUN4azBOTi14WHlJ0gFuQVVfeXFMTXVSUmtscFVkOWF2eENtXzVENnktUDRrTXRKQ3pQbm5MMkdoSHpIUnFVUE5oYUpQT3lVRUhPbTVCYTl4blhmdzFVYmN2OVJzaTVMbVZneTJGaGxPcFRMUmEtbTE5eVlGMXNPOWU0Q1E?oc=5",
+      "snippet": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools CyberSecurityNews",
+      "publishedAt": "2026-11-06T10:37:29.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "DigiCert Confirms Data Breach Exposing Customer Details and Sensitive Identity Documents - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95aWtiNTB6VmNRYzJIQXpVbFYzakg3ZzlMM0tZaU9xVGFXdGxyU1RNZUNIX1pCZ1N1ZXRLOXRsb3czTVJjWHFURklRcEZ1eUNMSkhER1ltb0JFY0Fza0kzbXN3WExlTDNGdU1PZNIBckFVX3lxTFB6LUFXakxXTjJDNDJ5N2NUazRHZ2JzN3JBSl9JNm16UW1NckQ4VU1QRGR6WVdWc21JMzRIb0ExZm5LYjRGLXlZRmJCN0Vra09PdUloc0FPam1jTkowcHJuQVhEOG42b21GSmFhSlJ0RU90UQ?oc=5",
       "snippet": "DigiCert Confirms Data Breach Exposing Customer Details and Sensitive Identity Documents CyberSecurityNews",
-      "publishedAt": "2026-11-06T04:44:58.000Z",
+      "publishedAt": "2026-11-06T16:48:22.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -193,6 +208,96 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Use ARTEX AI to Find GitHub Secrets and Steal Azure Key Vault Data in Just 5 Minutes - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93NThzZTVvVUFmWjhVaHJEQUphRlNOb2hCTDltbzlUeGgwcGpvZUhrSGVmSDNOWTlPS0ducDBaQWc2VGJEbW8tWjcwRFFLSVFJd3o2R2t6Vm1Qd1pVbmt0a9IBZkFVX3lxTFBQR1NnTDZTUmVHV3ZjUWdlNEJUcU8xNlBfN3hmWW5nMGhIaUpYSjBWbHh3VkdkT3Z4LVphM3A0YnhhcnFjb19XV1hSODN2S0tUN3pBV0d6by1WXzJzMXlac19nOXJtZw?oc=5",
+      "snippet": "Hackers Use ARTEX AI to Find GitHub Secrets and Steal Azure Key Vault Data in Just 5 Minutes CyberSecurityNews",
+      "publishedAt": "2026-11-06T12:22:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Russia drops Phishing drones loaded with QR Code pamphlets - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdldkUEV5YUIxVU43N0V3eEtxQTVvLV9Tb2R0blZwWTVtOVRRaWlBbVYxTHhWYVZTdm11SnFlYlZCSGVnUmJzNWZmMnVoeThodHVudlNCQXpVaUIyZFlETFJfWXpXbU93c2lrZVA5SndOZ1JpRGtYTXBSbF80UFdYaDY2ZHE0YWFlSDcyVGJmZUFGblFJVVoycWFuQTMzazA?oc=5",
+      "snippet": "Russia drops Phishing drones loaded with QR Code pamphlets Cybersecurity Insiders",
+      "publishedAt": "2026-11-06T15:29:36.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Gnosis Pay Reports Customer Data Breach Months After Wallet Exploit - The Crypto Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemEtZVJxZlJRSk5IQTlwSWtIUkpEamQwdklRWFhjV1lpLUhNTkpnMzhKeFJwUWFoeEtGNnF2NXI2OG9QN3lxS3NBS2RncTlIbmNfR1VRUnNZZHBxbTROcnJHR0tGVXNHSHJWQU1OTkxURk54Zkl1cVI4MnJnT1RLZ1cwSXQ3OS12aFBRSENFUzNUaGxiVDk0WmNmQUdIZThMcWRqRlBLaklDQQ?oc=5",
+      "snippet": "Gnosis Pay Reports Customer Data Breach Months After Wallet Exploit The Crypto Times",
+      "publishedAt": "2026-11-06T15:25:49.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "RBI New Cyber Security Rules 2026: What Changes for Digital Payment Operators? - Bankersadda",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmFIY3FUcnVWd2c2YThzcmM3azU4V2FoLXowcklQOTVVMGpYa0plb1FYQkVISGk0a2x2bXdhZk81YU1RWEMycVhXTGJzZmU4ZENOaWhFVFoyUkF3RTRKSHh0VjRkc1dWbVNFQjlUT0hEMFNJWk9Zby1ieFFua2wxUnJJeWhxWEJ3RjVxd3NrQzJPTnJ6anJ5QzNxallQZnUzQkJEYzlnR3k?oc=5",
+      "snippet": "RBI New Cyber Security Rules 2026: What Changes for Digital Payment Operators? Bankersadda",
+      "publishedAt": "2026-11-06T12:06:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DigiCert Data Breach: Oct. 19 Confirmation, ID Risk [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1lLQ29oY01LU3pFc1Q0NDVrWXVJekxpWEs5a3ZiTE5LRTd2SXBLRnQ2SW5KYlRmSzl0Q1p6LVJKSjhQRW1RcXhQSzJBSWF5OWx1aWxROHhWcENUZ3JUZ2RrQ3VEZkJhWDNvaVBGUmJHX0hFZzRGLUctYkdLWllQRGM1UHNXajF4RnUzTmwwWHJScDds?oc=5",
+      "snippet": "DigiCert Data Breach: Oct. 19 Confirmation, ID Risk [2026] shattered.io",
+      "publishedAt": "2026-11-06T11:43:33.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Accommodation booking platform LekkeSlaap suffers cyber attack - ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclJvTXpkcW9YTkRIZDRUd2E2ZnB2RnNLS3ZibC1jRmxzcHN0WGZQY2pqbDNvRzV3MkpUMTZWYU5DYldpVmdpWGd3Ym00VVZJdmJ2TDFPTzdRS08tNlBpdVJjLVE2YjFPdnhNZml6OWVVYmRkbkJFNEc0NE9tSnZvMVBIQXN0WkFjdEVjZUktcVRJMnRxZkdsRTVIMnVYLVQ3OHkwRW9vUEcycl9uaVJwYg?oc=5",
+      "snippet": "Accommodation booking platform LekkeSlaap suffers cyber attack ITWeb",
+      "publishedAt": "2026-11-06T09:30:43.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
