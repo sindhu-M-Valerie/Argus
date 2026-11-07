@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:37:02.070Z",
+  "generatedAt": "2026-11-07T06:19:19.868Z",
   "snapshot": true,
   "date": "2026-11-06",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 54
+    "total": 58
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 46
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,35 +51,35 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 71
+      "itemCount": 65
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 43
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 11
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 46
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 28
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -192,6 +192,21 @@
       "provenance": "live-feed",
       "feedTheme": "tvec",
       "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meta approved hateful ads in India, inciting violence - Genocide Watch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTBMbGl5cVdJZk5oX0E0bkphVmxhdVdKcjFVbW5sR00tS0FlRlNSOGJYdVQ2Wmx6aWJueG1uNEdGTkduTmkyczREdkcxU0pmaWhLX254aG5JSXZ6bUJ3S0tHenc3UnlKSGNIYnVQaEk0ZFBJNmZXeXB0VUt3OVpWUVZMSlY0MHk0SXV5clQ3MU1sTXhhci1Kall5VW11UkY1Y2IzQ2NydkJwbExHR3c?oc=5",
+      "snippet": "Meta approved hateful ads in India, inciting violence Genocide Watch",
+      "publishedAt": "2026-11-06T17:54:33.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -362,6 +377,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "FSCA warns of investment scams impersonating legitimate financial firms - IOL",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTA3Zm1iQWRabEo1TFBpYW55c3Y4cy04MXlReTFiMi1CckxFQ283RlpBelFiN3Vrd2xzOVpCS2dEYUJ1a3lDX1BaQTVUWE8zcHpkYWxEb3lkaFJVeVJxTllvV2k3MUV5SWNnUlFENTlhU3FLOGhPVm1iSmVBNVl5aVgydnpZQlV2bFpZd3otS3Z1RjR0WE9YcXBWSkFTTUVrajZxM08tQ1lVTkZ5Zi1v?oc=5",
+      "snippet": "FSCA warns of investment scams impersonating legitimate financial firms IOL",
+      "publishedAt": "2026-11-06T15:21:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fonthill, Ont. man arrested on internet child exploitation charges - CHCH",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMjVuNHFQTjZLX2JWSHd5bFhsMS1iN3JndEJiUGxyeHZ4VHlRZ3J0bkp0UTd0RjRjYzBfaEN0aEI1cGpKU29LWkxvVmdFaDBpSmVfbkVsVjBETUZneTlZUHY4R0lLUVk3dEhzY1lpU0RTVk55OUtFTFdnSnRvVjF1Qm1yYS1TQlVNV2p4ZnBBbndLZnNqT2kwR3g1TUo?oc=5",
       "snippet": "Fonthill, Ont. man arrested on internet child exploitation charges CHCH",
@@ -373,21 +403,6 @@
       "feedTheme": "sexual-exploitation",
       "riskScore": 52,
       "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "FSCA warns of investment scams impersonating legitimate financial firms - IOL",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTA3Zm1iQWRabEo1TFBpYW55c3Y4cy04MXlReTFiMi1CckxFQ283RlpBelFiN3Vrd2xzOVpCS2dEYUJ1a3lDX1BaQTVUWE8zcHpkYWxEb3lkaFJVeVJxTllvV2k3MUV5SWNnUlFENTlhU3FLOGhPVm1iSmVBNVl5aVgydnpZQlV2bFpZd3otS3Z1RjR0WE9YcXBWSkFTTUVrajZxM08tQ1lVTkZ5Zi1v?oc=5",
-      "snippet": "FSCA warns of investment scams impersonating legitimate financial firms IOL",
-      "publishedAt": "2026-11-06T15:01:32.000Z",
-      "source": "Google News • Fraud and Impersonation",
-      "theme": "fraud-impersonation",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "fraud-impersonation",
-      "riskScore": 52,
-      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -439,6 +454,21 @@
     {
       "title": "Fact Check: Gandhi family demeaning Telangana CM's office? Here are the facts - India Today",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY3Y3aFJDUy1hU19kY2RBNzI4ajJKNUNiRDlXY1B4OTBlbU9BNlVSUkZzamswb2lucmNuZllKNVlSTmRfSWJRX3VmUEY5am1DWEFxbG9VRzFKdmNpaXZfNnZJVUpibnF4ZFhTUTBFcU5PSXdFQzZ0SnZ2WkVyU3BoQm5pMDJTb0Y5cU9aQ1RjdkdmZGh5Vi12LXJaMGM4YmFSV1IwQXRQNnQ5WWI2ekw1TFF6RTFRYmxFSWhtWFNqeFZiYjNGenRISU1zLXdTMGRuRjdZ0gHTAUFVX3lxTE1jdjdoUkNTLWFTX2RjZEE3MjhqMko1Q2JEOVdjUHg5MGVtT0E2VVJSRnNqazBvaW5yY25mWUo1WVJOZF9JYlFfdWZQRjlqbUNYQXFsb1VHMUp2Y2lpdl82dklVSmJucXhkWFNRMEVxTk9Jd0VDNnRKdnZaRXJTcGhCbmkwMlNvRjlxT1pDVGN2R2ZkaHlWLXYtclowYzhiYVJXUjBBdFA2dDlZYjZ6TDVMUXpFMVFibEVJaG1YU2p4VmJiM0Z6dEhJTXMtd1MwZG5GN1k?oc=5",
+      "snippet": "Fact Check: Gandhi family demeaning Telangana CM's office? Here are the facts India Today",
+      "publishedAt": "2026-11-06T13:36:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Gandhi family demeaning Telangana CM's office? Here are the facts - India Today",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVBnVFpqcER6RmwweVR2TmwtdWI2dEpJQS15U0ZhTjMyLXBRRkpMckRCdjd3NlkwVHJrbFZnMnVva296LXV5MUtPZVJnYkJ3ZVBxY2RiQmhTRGRNSkpSNVZTN2FNODE0bENqYktkdTc4U3RQVkwtejBoeXI3cVBLdERPUlkwVFVJUWJLOTExRXpnOThwUDFFNVhOZ2VBbFotUlBkVjZiczVrOVBLRnJwcjVZclh1N2drR3JxSGpaQnNkbUR3M1BURlRMaFpGQdIB0wFBVV95cUxNY3Y3aFJDUy1hU19kY2RBNzI4ajJKNUNiRDlXY1B4OTBlbU9BNlVSUkZzamswb2lucmNuZllKNVlSTmRfSWJRX3VmUEY5am1DWEFxbG9VRzFKdmNpaXZfNnZJVUpibnF4ZFhTUTBFcU5PSXdFQzZ0SnZ2WkVyU3BoQm5pMDJTb0Y5cU9aQ1RjdkdmZGh5Vi12LXJaMGM4YmFSV1IwQXRQNnQ5WWI2ekw1TFF6RTFRYmxFSWhtWFNqeFZiYjNGenRISU1zLXdTMGRuRjdZ?oc=5",
       "snippet": "Fact Check: Gandhi family demeaning Telangana CM's office? Here are the facts India Today",
       "publishedAt": "2026-11-06T13:36:31.000Z",
       "source": "Google News • Fact Check (India)",
@@ -587,6 +617,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 - Newswav",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFpQc2YwOVNzektTQjFUY3JzMGFQYU9ocm5GUE5wVnlVTlRuOGtKbU1tM19wZ2swT1NCdGU0WmR5SWh5SEdabElrWnZobF9CQzNwTTZ0VThtdDVONWZtZ0h6NkkxMFJIbWpqT0lZRzc2aHZEUHprUGhlRktpSUllSFdPY3hmNlV2MlBiQkFWS2NzN0FWaGh0clZ3VUlPLWdsYWJHRkpha1dRNG93NVpuZC1XUlJSdGc?oc=5",
+      "snippet": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 Newswav",
+      "publishedAt": "2026-11-06T02:25:37.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Roblox and Discord Face Child Sexual Abuse Lawsuits - The Legal Examiner",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd05lTzJKWW9GbUVmTFZRVmVOWmdHZFBxemdHZUVHcmtCQVdDdmZRX0VtRTBHM1BRb1pfUGJQZkY5RlFsUDYzVEd1V0IycjFUY1hQckxYNFpPT1dnNWNXOFh4cENucm9JQlR6bkd1REw0amVtaFBGb09oT2xFRXZySm1GSk44UDVhUnROODRkcWtRZTBUd1lHVnk3UXhpVDNNamVxVzRGdTh6Zl92ejN4VlgySFBfZDZPb05UZVdnSmpTTXlGTVMtSUM5UjRYdUF1?oc=5",
       "snippet": "Roblox and Discord Face Child Sexual Abuse Lawsuits The Legal Examiner",
@@ -692,21 +737,6 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Revealed: Meta approved political ads in India that incited violence - Genocide Watch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTBMbGl5cVdJZk5oX0E0bkphVmxhdVdKcjFVbW5sR00tS0FlRlNSOGJYdVQ2Wmx6aWJueG1uNEdGTkduTmkyczREdkcxU0pmaWhLX254aG5JSXZ6bUJ3S0tHenc3UnlKSGNIYnVQaEk0ZFBJNmZXeXB0VUt3OVpWUVZMSlY0MHk0SXV5clQ3MU1sTXhhci1Kall5VW11UkY1Y2IzQ2NydkJwbExHR3c?oc=5",
-      "snippet": "Revealed: Meta approved political ads in India that incited violence Genocide Watch",
-      "publishedAt": "2026-11-06T17:52:20.000Z",
-      "source": "Google News • Misinformation (India)",
-      "theme": "violence",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "dangerous-misinformation",
-      "riskScore": 44,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "Bajaj Finance conducts cyber fraud awareness programme in Telangana - Prop News Time",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjVydDFZc3hzUDNsMVFDc0NvdVdCR1E4MThHbXppZVVMckdHeXJxUmFOOEE0M0NtUjgxQ2dqSFdpSlNsc2NJUk9zN2VNZlFuSTZwWjZzZzgwdklnWjJsejhRNFBEWXVLMlhjaUZpV1RTMURncXpWRnZvREhEbzRMWDVIZnhfNmVDaldpNW8wOENZcmcyZXdqQ3ZqNzM1c2FVT1FDRnpOcl85RU9uZzg3OXRiVUhKbWFFdjJN?oc=5",
       "snippet": "Bajaj Finance conducts cyber fraud awareness programme in Telangana Prop News Time",
@@ -731,6 +761,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US Government Announces Fresh Sanctions Against Cambodia-based Scam Network - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0tiUDNGbWhkUGlPLWhaamlaakE0bW1UN0I5VWRHSWVaOFktVmozd0lzWGhQdnEzRy0zbklGTF85ZUJBdU4wYm8tTDVSOEhSUmlNam9oeG5IdVJCb2tlbWtPb3RlNlJjNUdCOEhkUFdHbG9RUWdfZUROaUVOWjdQaUpmeHRiUzBGOHJhZ1pQRUh0T2ZKWjI1Q2VLYXBXd3lTbjRMVFJUZGp0MFBr?oc=5",
+      "snippet": "US Government Announces Fresh Sanctions Against Cambodia-based Scam Network The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "publishedAt": "2026-11-06T11:43:19.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -911,6 +956,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "harassment-bullying",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cyber Attack on November 17: The Rumor Fact-Checked - CryptoTicker.io",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TSE5OTmJoY3l6UUd4M0xuOU83OFIwMWJpdkF1aGVOc3hYU19xa2tXYmJVbkpaLUFvaG5rNnJCbEl1WXVnMjl0V2F2bmM0RmFNUHY3VTh4aUdFUEVqR004a3F0U0czZm5XRDRxLTAyTkFRbWdmZ2hUWDVR?oc=5",
+      "snippet": "Cyber Attack on November 17: The Rumor Fact-Checked CryptoTicker.io",
+      "publishedAt": "2026-11-06T07:25:18.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",

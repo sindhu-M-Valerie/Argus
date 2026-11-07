@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:41:35.743Z",
+  "generatedAt": "2026-11-07T06:23:59.955Z",
   "windowDays": 7,
   "endDate": "2026-11-07",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 90,
+      "totalArticles": 94,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -57,
-      "reason": "Last 3 days averaged 7.3/day vs 17.0/day before.",
+      "changePercent": -49,
+      "reason": "Last 3 days averaged 8.7/day vs 17.0/day before.",
       "daily": [
         {
           "date": "2026-11-01",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-11-06",
-          "count": 9
+          "count": 11
         },
         {
           "date": "2026-11-07",
-          "count": 1
+          "count": 3
         }
       ],
       "topArticles": [
@@ -58,6 +58,14 @@
           "source": "Google News • Fraud and Impersonation",
           "publishedAt": "2026-11-02T07:17:05.000Z",
           "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "HNB calls for greaterpublic awareness on impersonation scams - Island.lk",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFdrY0xpN19XdVppVmlLaS00N1lncV85bjNwc25Ka1pTVERzWTVwMjU5emM3T1Z0d29WX2pIRDNJb1dKdTl3b0hXRTVyTW9PbldsbkZ6d1dTd0FIajJUNDVEaWxZVThFZzVwbF9pVkVCSm5iUUJ5aGNSLUVwSXlIdDNOSmkzUQ?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-07T00:13:35.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -80,7 +88,7 @@
           "title": "FSCA warns of investment scams impersonating legitimate financial firms - IOL",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTA3Zm1iQWRabEo1TFBpYW55c3Y4cy04MXlReTFiMi1CckxFQ283RlpBelFiN3Vrd2xzOVpCS2dEYUJ1a3lDX1BaQTVUWE8zcHpkYWxEb3lkaFJVeVJxTllvV2k3MUV5SWNnUlFENTlhU3FLOGhPVm1iSmVBNVl5aVgydnpZQlV2bFpZd3otS3Z1RjR0WE9YcXBWSkFTTUVrajZxM08tQ1lVTkZ5Zi1v?oc=5",
           "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-06T15:01:32.000Z",
+          "publishedAt": "2026-11-06T15:21:35.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         },
@@ -93,18 +101,10 @@
           "corroboratedBy": 1
         },
         {
-          "title": "KnowBe4 Report Finds Spear-Phishing Attacks Surge 41% as Cybercriminals Shift Away From Mass Scams - Cybersecurity Insiders",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNHdMVWxQUkM5ZUtSQ2t0d2p3MlN2UlRqQzM5SC04Tml1NGtmVW9xa1hGRUp6bFBHaVZ3NmFfelRsNlVXQXFHLVpxX1AyU0xySjJHTWh1Uk5GMUJ5bnZBNi00TV9zVnBITDN1STlrZmNZWU9wX3V2eVF2OHJsOGFPdTdPck9MVDJvZllYQW50aFY2aktiaEpBZVBpb3FpWVR4Z2N2cm5SWFNYRm52aGRmRGM4ajhzc1J2OHhjQi03T0JyM3hKVEFQbElKa3VPdUZuYXdZ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-05T07:52:55.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Older Americans Reported $1 Billion Lost to Investment Scams in One Year - Here's Where the Fraud Starts - Big News Network.com",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONUkwQXFoQWhPZF96OXBlcWNQMU5mZVdmYzlMX2lxOFozaDh0aW9VR3c3ZTN4YmkxME1iSDcyTl8zT1pPbE1UZnJPWW9xdUkzVWJKV2hNUVY2SjFVWkl4M09JOU5FLVRKa2d2UjAyM0hnaG80WlZGTWJ4TF9wMWV0T0FIZllWcUtCTER1NWFib0w0akM5aVg0LW93WlV3bnpUNDZuaEk0dDB1Z0t3TUYyaFhhc2o3N0k0bkw2VUhtUjJiN3dWRmFnWVYwTjN2VWc1LW92MlR1ZlRyVXNTT0E?oc=5",
+          "title": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 - Newswav",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFpQc2YwOVNzektTQjFUY3JzMGFQYU9ocm5GUE5wVnlVTlRuOGtKbU1tM19wZ2swT1NCdGU0WmR5SWh5SEdabElrWnZobF9CQzNwTTZ0VThtdDVONWZtZ0h6NkkxMFJIbWpqT0lZRzc2aHZEUHprUGhlRktpSUllSFdPY3hmNlV2MlBiQkFWS2NzN0FWaGh0clZ3VUlPLWdsYWJHRkpha1dRNG93NVpuZC1XUlJSdGc?oc=5",
           "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-04T22:34:00.000Z",
+          "publishedAt": "2026-11-06T02:25:37.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -113,12 +113,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 86,
+      "totalArticles": 90,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -45,
-      "reason": "Last 3 days averaged 8.3/day vs 15.3/day before.",
+      "changePercent": -37,
+      "reason": "Last 3 days averaged 9.7/day vs 15.3/day before.",
       "daily": [
         {
           "date": "2026-11-01",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-11-06",
-          "count": 14
+          "count": 15
         },
         {
           "date": "2026-11-07",
-          "count": 2
+          "count": 5
         }
       ],
       "topArticles": [
@@ -219,12 +219,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 76,
+      "totalArticles": 78,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -27,
-      "reason": "Last 3 days averaged 9.0/day vs 12.3/day before.",
+      "changePercent": -21,
+      "reason": "Last 3 days averaged 9.7/day vs 12.3/day before.",
       "daily": [
         {
           "date": "2026-11-01",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-11-06",
-          "count": 13
+          "count": 14
         },
         {
           "date": "2026-11-07",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -325,12 +325,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 46,
+      "totalArticles": 47,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 533,
-      "reason": "Last 3 days averaged 12.7/day vs 2.0/day before.",
+      "changePercent": 550,
+      "reason": "Last 3 days averaged 13.0/day vs 2.0/day before.",
       "daily": [
         {
           "date": "2026-11-01",
@@ -358,7 +358,7 @@
         },
         {
           "date": "2026-11-07",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -419,10 +419,10 @@
           "corroboratedBy": 2
         },
         {
-          "title": "Delhi Police registers FIR against Meta India over child sexual abuse material on its platforms - Organiser",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTTV2ZTNZS2ZHamdxQjl5UEJ3UGNwUjRDZm5OcjhYVmE3dUVKVVNGamxEbWVsN3dYZHRSdkZWbzRpOUZ1cjM3bzNGY3M4Nzk2Y1FWY1VWaGFyMGZ4c0ZuRl9SQXZaSlAtbWpJOTd2bGJ4VmVvZHF4LWVpb1hDUHdKRURicUlnWDh5dFI3c0otRzl0aS1lWm1OUFFxSTZvOHkwRVlMeE1RY21kbURJbVdmZ0MtS1o4Y3BDd25FT2lyYjBJNzNKQnFQc0w2bEM2Z3h5R3F0QkxQNXRVTEnSAeABQVVfeXFMT3E4WHFvSlNBS0FzQk15RGIwalkyRVVzaTF1SkxOZzEzUGNsWi1oc1BoZWtpOGRic3VMNzRCZUtpZ1ZUaUJsOTNaaGoyQU1SLUgyNmVqUTBvWWpRd09sRnAzU1ZOc0JYRWYwWXdGTmdtOEV3MGFaZ1dVVjhMeklhRmctbUZGZWFNeHYwLWk5S2ZWczFBV2xBWHVMN1QtZVMtRmlGbTZoOEpzWDVFT1Z5ZVo3MDJoSVBaZ1Nma1cybXRBOVRiWkxRdHc1NUVLNzRMcS1xY2VsbTdULXNGLURFX20?oc=5",
+          "title": "India Registers FIR Against Meta Over Child Sexual Abuse Material on Platforms - Arab Times Kuwait News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEdVOWk1WXo3LTllM3lrOEpPTkNlQ1RaUXZzTXdxRGVlSm8tb1FmQlk2QTZYcDFGdUk5dmdmRUxnQTlUQ3RoQm0xYXVfMjF6YllWQVFDMkpEYUJDU29qdTlONFlGUTVpRzVGZTdxLThYSHBJM3ExMEdsWUprUy1QQnlleXM1a1ozUEVvQWJscjlLZ1U2UmlYOWJvRjNSS0t2bDkydVYtYjZYMzFnbHZ4MTNEUFZNZFU?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-06T04:05:27.000Z",
+          "publishedAt": "2026-11-07T02:51:42.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         }
@@ -575,6 +575,14 @@
       ],
       "topArticles": [
         {
+          "title": "Meta approved hateful ads in India, inciting violence - Genocide Watch",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTBMbGl5cVdJZk5oX0E0bkphVmxhdVdKcjFVbW5sR00tS0FlRlNSOGJYdVQ2Wmx6aWJueG1uNEdGTkduTmkyczREdkcxU0pmaWhLX254aG5JSXZ6bUJ3S0tHenc3UnlKSGNIYnVQaEk0ZFBJNmZXeXB0VUt3OVpWUVZMSlY0MHk0SXV5clQ3MU1sTXhhci1Kall5VW11UkY1Y2IzQ2NydkJwbExHR3c?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-06T17:54:33.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Election runner-up defends online post criticized for potentially inciting violence against council - CTV News",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejhsN0J2WHdwVDByUjlrcWdWeXF5SUdzclVsdllCTUpRRjJwdUo1eGdZcEdKSnlsS3dVVWlhMF94cjdrVjByQkNaY2lTOXhpNVBudjJKbU9UekJBX2R4X0ZxR1cwVEpwRy05VzVrODRHQ19iNXVtOWhCRGNIbjY0TXBlRzlNMUprSXpCc0VVZ2Jyd3ZuVWg0ZElCQmFPendpejBmUFk1TTljYU5jdnV4WHFWV1U0R05ZVnpPRXBSS2tIS3JRazByMDU2ZkEwcHVsMkt4Rl9VMWFZcWtuV2c?oc=5",
           "source": "Google News • Violence and Violent Crime",
@@ -612,14 +620,6 @@
           "source": "Google News • Fact Check (India)",
           "publishedAt": "2026-11-01T05:05:06.000Z",
           "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Revealed: Meta approved political ads in India that incited violence - Genocide Watch",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTBMbGl5cVdJZk5oX0E0bkphVmxhdVdKcjFVbW5sR00tS0FlRlNSOGJYdVQ2Wmx6aWJueG1uNEdGTkduTmkyczREdkcxU0pmaWhLX254aG5JSXZ6bUJ3S0tHenc3UnlKSGNIYnVQaEk0ZFBJNmZXeXB0VUt3OVpWUVZMSlY0MHk0SXV5clQ3MU1sTXhhci1Kall5VW11UkY1Y2IzQ2NydkJwbExHR3c?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-11-06T17:52:20.000Z",
-          "riskScore": 44,
           "corroboratedBy": 1
         },
         {
@@ -749,12 +749,12 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 7,
-      "distinctSources": 5,
+      "totalArticles": 8,
+      "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -47,
-      "reason": "Last 3 days averaged 0.7/day vs 1.3/day before.",
+      "changePercent": -20,
+      "reason": "Last 3 days averaged 1.0/day vs 1.3/day before.",
       "daily": [
         {
           "date": "2026-11-01",
@@ -782,7 +782,7 @@
         },
         {
           "date": "2026-11-07",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -832,6 +832,14 @@
           "source": "Google News • Fact Check (India)",
           "publishedAt": "2026-11-05T13:36:00.000Z",
           "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "What are Gore Groups and 764 Network? FBI warns crackdown on online extremism following rescue of Kylie Arellano - Indiatimes",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUlR3blFDYXpTWjB3MzJHM2dacDlFS21VOVNJS01VQ1FRNE1uRUNjMF9DWGh5SVc4VDVZRFhtWGtMb2VDclN6Y0VIV2hVaVV2U28xSnloRHZfcnJPcGF5emxscEp4bkJnNk5SM3hEZ1A0MllyR2tMblVzV3hTYjFSdFQ2X1BpbERIbW1xNnZwWDJ3S2c4dkZaczNqQ1k5ZTRMd2tZSWxScHFVLURJb3M5S0RHS2daZVdVaUhJZTNCWkdVZ2J6VlB2c0ZNUkZZRFhyNzZPbXhjVmV6d0JrZTZtV2IyLWRNSFE1Si1ycDdWX1hfaThpLVVHVW1zQXRkSG5OTUtiRdIBigJBVV95cUxPbjY2N0hRZF85VGVndUt0VVVTemhZM0RyVzY3cTJCLWZkZC05azdDd1BVaFBpV2FhSl8xSkVYcm9qS1RlYWpLM0VGbEMtOGhlcFFMSGpqS1doV01OTXFNaU9iSUpPcWJySnBXTEhYa0VlMG9oWTRIYkZrQUVDcnVLamN4Um12S0diQ1BXUEo0NW5sb2x5RlFQc1VXQ2RYU2tTMXJWZDNvWFhzU2JHT1NjUmluTFdpYzRrVDRlUHdqNUZBS3JIWXdicDhWRmFwcEM2RWVYRUVhQW5XdnVhcE8xMFNEMjdxN0VsM3MtSTNxcVVXdU9KTlNmY25mNHdaVlJLRVpnRk9mWUlaUQ?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-11-07T04:48:51.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
