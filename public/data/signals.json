@@ -1,18 +1,124 @@
 {
-  "generatedAt": "2026-11-07T06:23:59.955Z",
+  "generatedAt": "2026-11-07T13:27:24.203Z",
   "windowDays": 7,
   "endDate": "2026-11-07",
   "collectedDays": 7,
   "data": [
     {
+      "theme": "dangerous-misinformation",
+      "label": "Dangerous Misinformation",
+      "totalArticles": 100,
+      "distinctSources": 5,
+      "highRiskArticles": 0,
+      "trend": "Stable",
+      "changePercent": -15,
+      "reason": "Last 3 days averaged 13.0/day vs 15.3/day before.",
+      "daily": [
+        {
+          "date": "2026-11-01",
+          "count": 8
+        },
+        {
+          "date": "2026-11-02",
+          "count": 16
+        },
+        {
+          "date": "2026-11-03",
+          "count": 21
+        },
+        {
+          "date": "2026-11-04",
+          "count": 16
+        },
+        {
+          "date": "2026-11-05",
+          "count": 9
+        },
+        {
+          "date": "2026-11-06",
+          "count": 16
+        },
+        {
+          "date": "2026-11-07",
+          "count": 14
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Deepfakes Of Jaishankar, Lavrov Fuel False Claims Of India-Russia Rift | BOOM - BOOM Fact Check",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXJYcXhqb0xaWEY2NTJmZ0ttWndoRGZ1UDN6WWxVZDZaa0pfYzZqb2FPejBmLVdHRko2LTlDSmYxTmtpZHBDaDZUeUh0eldwZTQ0VFBXNEdIRnBXZHBaSU9wX0Qtal9KNVNzYnZnS1prczNPQ3lSY0x3U3g0WnhGY0tpMWNqcEJRdjhEaGloWVdEQkdVeDA0TWV1ekpzOHZRSXRhR0VsRlhKeksxWUZkZ2dlWUzSAbQBQVVfeXFMTVVyWHF4am9MWlhGNjUyZmdLbVp3aERmdVAzellsVWQ2WmtKX2M2am9hT3owZi1XR0ZKNi05Q0pmMU5raWRwQ2g2VHlIdHpXcGU0NFRQVzRHSEZwV2RwWklPcF9ELWpfSjVTc2J2Z0taa3MzT0N5UmNMd1N4NFp4RmNLaTFjanBCUXY4RGhpaFlXREJHVXgwNE1ldXpKczh2UUl0YUdFbEZYSnpLMVlGZGdnZVlM?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-03T10:33:13.000Z",
+          "riskScore": 68,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "MEA Fact-Checks Deepfake Clip Shared by Prashant Bhushan on Russian Foreign Minister - India Today - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOemNOR3c5cm9CVl85OGhUT2NNMlE2MGhHWmplbHFLV1dUbVVBRERZS0h3UG5Db3Buc3lUVjFzbFFrcEVMWFZYTERnWHJMWEo3b2xFREJ0UFNORDBSbjI4WHAyNmJMLTNkekl5U2ZMOE9GVThsckhrSmNmNVQzMW9MY2w1ODc2eGl0SHNqbzhTRldocjFQa3dNMWtXdzk1anhVb3Axb2Zad21uX0tudE9BaExkcFNnWk1Ja2x4WVBhZGthU2h5YnBRMzlMQ3VRdWFueTJIT1BZekVMRDRURENN0gHkAUFVX3lxTE54eENWS2JFSzZBWHJjc3J5SU5nVFhDVlMtVmNtU2RqRm8wSGpNVVoxSi1OQ2tvM0VseTM4TExLYk5yQUtuMHdhNko5bHBKY3V1RTcyYWo3THp5N3k0MjFKcGRzZ2tBWEE5N05mcTRyemxXd2RGMS1qME5pVFNESVJlLUowTGtCbHY3eFlvUjdBeWZCSldITDRDN3FzRElzVW12cWpmYUVPSzVfVDdpWERoRlM5Yk1nRktybzVuNm9nSEFBdkdBTHNpQzRraGozMFVhM2VsMTJab3ZMUkxwMXcxcGZrUA?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-03T11:47:59.000Z",
+          "riskScore": 67,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "MEA Fact-Checks Deepfake Clip Shared by Prashant Bhushan on Russian Foreign Minister - India Today - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHhDVktiRUs2QVhyY3NyeUlOZ1RYQ1ZTLVZjbVNkakZvMEhqTVVaMUotTkNrbzNFbHkzOExMS2JOckFLbjB3YTZKOWxwSmN1dUU3MmFqN0x6eTd5NDIxSnBkc2drQVhBOTdOZnE0cnpsV3dkRjEtajBOaVRTRElSZS1KMExrQmx2N3hZb1I3QXlmQkpXSEw0Qzdxc0RJc1VtdnFqZmFFT0s1X1Q3aVhEaEZTOWJNZ0ZLcm81bjZvZ0hBQXZHQUxzaUM0a2hqMzBVYTNlbDEyWm92TFJMcDF3MXBma1DSAeQBQVVfeXFMTnh4Q1ZLYkVLNkFYcmNzcnlJTmdUWENWUy1WY21TZGpGbzBIak1VWjFKLU5Da28zRWx5MzhMTEtiTnJBS24wd2E2SjlscEpjdXVFNzJhajdMenk3eTQyMUpwZHNna0FYQTk3TmZxNHJ6bFd3ZEYxLWowTmlUU0RJUmUtSjBMa0Jsdjd4WW9SN0F5ZkJKV0hMNEM3cXNESXNVbXZxamZhRU9LNV9UN2lYRGhGUzliTWdGS3JvNW42b2dIQUF2R0FMc2lDNGtoajMwVWEzZWwxMlpvdkxSTHAxdzFwZmtQ?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-03T11:47:59.000Z",
+          "riskScore": 63,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Fact Check: Viral Video Of Bullet Train Being Transported Falsely Linked To India, Here's The Truth - News18",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWZrbWRTTm0xc28wRkF0VnVlM0JIeXlkclZRc1dKVDZmY2xZb2VjR1JzX1g2SEVLUGczR0RCVkRWQXhveTNfYkRSbk5OZFE5NUxFZUpLdzFMWmpKLTlVWWsyQ3JfbUpHTDZYMVVkb2dMdE40V0NLWk9uRUR0XzdJNWxvbVlMdG5UODZ2eXg1TzQ0b3VLYVBwdkQ3c1d0ZXBud2d5V0RvbFlLZllUYVZkNHk2RXk1UEVZTzBjSU1nbVQxUWQycTJCbVpCYktBN05hUlU5UktvWW5zOWNE0gHiAUFVX3lxTE5ZLTJjMmZyUnZ3NmdSZ25NelF5X0VhQVUxSDJqSDNydGJXNlVYMnFST0NTcWZXQjRmVHpkeTkyTmJ3Q2VTXzcyUXhlQUZOR2wyX3kta1BTY1RjYng0M2RicFppVVEzSkN2S1VOX0lKWmlzZXBLUGdBZW9mTFU4QTRRRkVOcXd4Y19iWmFzbDZhMlVQNFRuaWxJMFpia0x5M2lxbGoxQzVrdXg0UUlfdmtQeGlxcFF3QWJOS2xsUC1FY3dyaWtOOEFQN2treGdKVkZYaWxwR1I4dnZjWlFGR2tnZHc?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-07T06:53:51.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Russian foreign minister Sergey Lavrov dismissed India’s diplomatic standing? No, viral video is a deepfake - Alt News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWtNQ1VTci03REMyMWZudmY3VjNvR3RFRHZmSVdYZG9PeVl2ejdMY2ZRSnl3ZXpYbGc4T1dNaEdHbjh2c3VkYldFR2ZTQ2FFNjBfaWlvWjJnQlRtWkVvWHlfNDN5NVJfZF90M0hjazZUSTlFQnFjMl9lOU1tQVIzMXpOOXMzdjRnVnhjMlhnRDBrd1BkTlIycUhOSkFpaTF1Y3BUWWpEWk9GM3YyaUdNYkdSMTdSZUV0YUZET290US1BdDRnNkhV?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-06T03:12:59.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "This viral video of Minister S Jaishankar allegedly recounting how a Russian minister mocked him over the India-China border dispute is a deepfake - FACTLY",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRWZhMG9ITFVUN01IN1VsQ2UyWTdjOVRFdnlzVkxhR21uQUNqbjJDdHJUbWIxdWtKeVcyMHR1QnU0Tk56aTZBREdIaFd1ZUtoWGJyem84b3NjeGI0dXFERkg1a1BMM19lRk5hY0wydDFNVzJUMGVUQ3FqcmdoMVZvcnEtOEdNWVNMa204WkdERnFka3RqTDdCN2sxODhTXzhDMG96N3F1VGRlU3JjY2pQV0o0WVVLc2FYVExmS1U1bkpCZDYyejV6Q0FUaU5UNmQzQlg4aWJSOS02emtJbU1BcTQyTUpQdE1HNFR5czNwZWptQ3g2ZmY1Rg?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-05T07:31:44.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Fact Check: Did S Jaishankar say Russian Minister mocked him over India-China border dispute? No, viral video is fake - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNenFMVmJFcWEycmRVRXpEbUhzYmJ2UTZsb3RnVFNHWE13UmhLc1lRelduT0FuamNNWjVQMGZ0d3BiYWlmbTliTHIwd19fX2kxTHlyNmNreGhpZUpBN0s5NWM3UU53UTI1VUJGa0ZRUTctLWcyMVgxTnFkVEp6ank3QmJvVXdrOFBDV0pFMlFObEVxMTJjQVNHRm9HbF9fclh3aG9TcllFTER3RGVmeGdaZndFNUY5VFg3eWZOVGRGVDl0a1BEQ3lnOGItSDNaWnZmYjlrSnNiS0hNbnFHRjhKLTI1dnU1a1VDcjdIekFHWUgtaXhw0gH6AUFVX3lxTE9oNDFlYWRQbkF0WHFoVmdyNWJTY3o4VGJRT3RkVFRhSlhSRVFoLVYxUGNyeFFIOUFMTVNrdnk2OG02VEM3NDlnVzZxSnBNdWRJU0VPNHNKY2tMNnJMUnpKRG9JeTloRkh6YWhKRm5OZjRWaTV6ZHJ5LU84VHVrb0NsUEFQa0FfbkxnZDJOM1pYbnZtb0VGY3VrWVRRb1pxSVRKWXo5TktrSlBRR2FFRVZORHVpMkEtbWxLY0ZVUXVJbVBFUDBtdlBKOFktTHRId3FvQ2FObVR6RldOS1JQQU5VVkxSNjdBSDMxOHEyUjVHbl83QUtReDYzNVE?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-05T07:03:31.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Fact-Check: Deepfakes of Indian and Russian Foreign Affairs Ministers Go Viral - The Quint",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXBzVi1MZDJfejVOWFBrWmNyanUxUzlQVjAzc2o1YXFCc29MUzkwVDBQNnUyMFo2NVV3RVJhekVJdEJaN21OLXB2S19YenpYZ1J0WDhZTHZxYThzZVFsNmFSd3JfcW9KbUhqaFhvZWlSZ2U0YzZlOE95YWl4cW9CU0xiYkVsNVhDaklpWGRQVTlDNmM2ck11OUI0amVxclFJTGJqVk5XNldxcEl6aWRjdDBoQjNNd9IBwwFBVV95cUxPWmxIbDhGYk9IZHN0Smoza0FkWkt6UXdqQkhkUDNvb0ZrMkwyOHpmblFTMVB1b0xxQkFZb3lvNWRjRjljbzRacmFEWXFOTXNOMDBmVVQtZ0RpdUk4TzNYcnA1WFZBNklrSnFOblQ1YmY4cEVJZENraVhuUkNINlhvYkU2REwzSWZpdUdPUW80Mjh5ajdVY0xvSFJtZ2NReTlyRDM0ZXkxYWRWaDRpMjNFcFp3SzFUaDFEZUFnUUF2bmhoVFU?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-04T12:36:09.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 94,
+      "totalArticles": 97,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -49,
-      "reason": "Last 3 days averaged 8.7/day vs 17.0/day before.",
+      "changePercent": -43,
+      "reason": "Last 3 days averaged 9.7/day vs 17.0/day before.",
       "daily": [
         {
           "date": "2026-11-01",
@@ -36,11 +142,11 @@
         },
         {
           "date": "2026-11-06",
-          "count": 11
+          "count": 12
         },
         {
           "date": "2026-11-07",
-          "count": 3
+          "count": 5
         }
       ],
       "topArticles": [
@@ -58,6 +164,14 @@
           "source": "Google News • Fraud and Impersonation",
           "publishedAt": "2026-11-02T07:17:05.000Z",
           "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Top Aussie public figures impersonated in investment scams - Bitdefender",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUtnYndQX1JoMGJBVzVyUFRMR0k4UHpoTFNiNm5ObUFwT2pNM2JtU2VXc0piSlE4cGQwRUZhS2dmcE52aTQ5RFdWZ1FZZ1FzZ2FucHdnZkZPejk1d2dBM2dmSjlFZG9SOXNUUzBzdm80T0pld09RTFNpLXd2bzFPYnJyTUY0clVEeml3SGJNcWt6ZGUzUnhOWUhMWnpBN0hoMER3UkdSVmlhWE9nRUFGYXRB?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-07T07:18:52.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -99,132 +213,18 @@
           "publishedAt": "2026-11-06T03:50:08.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 - Newswav",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFpQc2YwOVNzektTQjFUY3JzMGFQYU9ocm5GUE5wVnlVTlRuOGtKbU1tM19wZ2swT1NCdGU0WmR5SWh5SEdabElrWnZobF9CQzNwTTZ0VThtdDVONWZtZ0h6NkkxMFJIbWpqT0lZRzc2aHZEUHprUGhlRktpSUllSFdPY3hmNlV2MlBiQkFWS2NzN0FWaGh0clZ3VUlPLWdsYWJHRkpha1dRNG93NVpuZC1XUlJSdGc?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-06T02:25:37.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "dangerous-misinformation",
-      "label": "Dangerous Misinformation",
-      "totalArticles": 90,
-      "distinctSources": 5,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -37,
-      "reason": "Last 3 days averaged 9.7/day vs 15.3/day before.",
-      "daily": [
-        {
-          "date": "2026-11-01",
-          "count": 8
-        },
-        {
-          "date": "2026-11-02",
-          "count": 16
-        },
-        {
-          "date": "2026-11-03",
-          "count": 21
-        },
-        {
-          "date": "2026-11-04",
-          "count": 16
-        },
-        {
-          "date": "2026-11-05",
-          "count": 9
-        },
-        {
-          "date": "2026-11-06",
-          "count": 15
-        },
-        {
-          "date": "2026-11-07",
-          "count": 5
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Deepfakes Of Jaishankar, Lavrov Fuel False Claims Of India-Russia Rift | BOOM - BOOM Fact Check",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXJYcXhqb0xaWEY2NTJmZ0ttWndoRGZ1UDN6WWxVZDZaa0pfYzZqb2FPejBmLVdHRko2LTlDSmYxTmtpZHBDaDZUeUh0eldwZTQ0VFBXNEdIRnBXZHBaSU9wX0Qtal9KNVNzYnZnS1prczNPQ3lSY0x3U3g0WnhGY0tpMWNqcEJRdjhEaGloWVdEQkdVeDA0TWV1ekpzOHZRSXRhR0VsRlhKeksxWUZkZ2dlWUzSAbQBQVVfeXFMTVVyWHF4am9MWlhGNjUyZmdLbVp3aERmdVAzellsVWQ2WmtKX2M2am9hT3owZi1XR0ZKNi05Q0pmMU5raWRwQ2g2VHlIdHpXcGU0NFRQVzRHSEZwV2RwWklPcF9ELWpfSjVTc2J2Z0taa3MzT0N5UmNMd1N4NFp4RmNLaTFjanBCUXY4RGhpaFlXREJHVXgwNE1ldXpKczh2UUl0YUdFbEZYSnpLMVlGZGdnZVlM?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-03T10:33:13.000Z",
-          "riskScore": 68,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "MEA Fact-Checks Deepfake Clip Shared by Prashant Bhushan on Russian Foreign Minister - India Today - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOemNOR3c5cm9CVl85OGhUT2NNMlE2MGhHWmplbHFLV1dUbVVBRERZS0h3UG5Db3Buc3lUVjFzbFFrcEVMWFZYTERnWHJMWEo3b2xFREJ0UFNORDBSbjI4WHAyNmJMLTNkekl5U2ZMOE9GVThsckhrSmNmNVQzMW9MY2w1ODc2eGl0SHNqbzhTRldocjFQa3dNMWtXdzk1anhVb3Axb2Zad21uX0tudE9BaExkcFNnWk1Ja2x4WVBhZGthU2h5YnBRMzlMQ3VRdWFueTJIT1BZekVMRDRURENN0gHkAUFVX3lxTE54eENWS2JFSzZBWHJjc3J5SU5nVFhDVlMtVmNtU2RqRm8wSGpNVVoxSi1OQ2tvM0VseTM4TExLYk5yQUtuMHdhNko5bHBKY3V1RTcyYWo3THp5N3k0MjFKcGRzZ2tBWEE5N05mcTRyemxXd2RGMS1qME5pVFNESVJlLUowTGtCbHY3eFlvUjdBeWZCSldITDRDN3FzRElzVW12cWpmYUVPSzVfVDdpWERoRlM5Yk1nRktybzVuNm9nSEFBdkdBTHNpQzRraGozMFVhM2VsMTJab3ZMUkxwMXcxcGZrUA?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-03T11:47:59.000Z",
-          "riskScore": 67,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "MEA Fact-Checks Deepfake Clip Shared by Prashant Bhushan on Russian Foreign Minister - India Today - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHhDVktiRUs2QVhyY3NyeUlOZ1RYQ1ZTLVZjbVNkakZvMEhqTVVaMUotTkNrbzNFbHkzOExMS2JOckFLbjB3YTZKOWxwSmN1dUU3MmFqN0x6eTd5NDIxSnBkc2drQVhBOTdOZnE0cnpsV3dkRjEtajBOaVRTRElSZS1KMExrQmx2N3hZb1I3QXlmQkpXSEw0Qzdxc0RJc1VtdnFqZmFFT0s1X1Q3aVhEaEZTOWJNZ0ZLcm81bjZvZ0hBQXZHQUxzaUM0a2hqMzBVYTNlbDEyWm92TFJMcDF3MXBma1DSAeQBQVVfeXFMTnh4Q1ZLYkVLNkFYcmNzcnlJTmdUWENWUy1WY21TZGpGbzBIak1VWjFKLU5Da28zRWx5MzhMTEtiTnJBS24wd2E2SjlscEpjdXVFNzJhajdMenk3eTQyMUpwZHNna0FYQTk3TmZxNHJ6bFd3ZEYxLWowTmlUU0RJUmUtSjBMa0Jsdjd4WW9SN0F5ZkJKV0hMNEM3cXNESXNVbXZxamZhRU9LNV9UN2lYRGhGUzliTWdGS3JvNW42b2dIQUF2R0FMc2lDNGtoajMwVWEzZWwxMlpvdkxSTHAxdzFwZmtQ?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-11-03T11:47:59.000Z",
-          "riskScore": 63,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Russian foreign minister Sergey Lavrov dismissed India’s diplomatic standing? No, viral video is a deepfake - Alt News",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWtNQ1VTci03REMyMWZudmY3VjNvR3RFRHZmSVdYZG9PeVl2ejdMY2ZRSnl3ZXpYbGc4T1dNaEdHbjh2c3VkYldFR2ZTQ2FFNjBfaWlvWjJnQlRtWkVvWHlfNDN5NVJfZF90M0hjazZUSTlFQnFjMl9lOU1tQVIzMXpOOXMzdjRnVnhjMlhnRDBrd1BkTlIycUhOSkFpaTF1Y3BUWWpEWk9GM3YyaUdNYkdSMTdSZUV0YUZET290US1BdDRnNkhV?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-06T03:12:59.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "This viral video of Minister S Jaishankar allegedly recounting how a Russian minister mocked him over the India-China border dispute is a deepfake - FACTLY",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRWZhMG9ITFVUN01IN1VsQ2UyWTdjOVRFdnlzVkxhR21uQUNqbjJDdHJUbWIxdWtKeVcyMHR1QnU0Tk56aTZBREdIaFd1ZUtoWGJyem84b3NjeGI0dXFERkg1a1BMM19lRk5hY0wydDFNVzJUMGVUQ3FqcmdoMVZvcnEtOEdNWVNMa204WkdERnFka3RqTDdCN2sxODhTXzhDMG96N3F1VGRlU3JjY2pQV0o0WVVLc2FYVExmS1U1bkpCZDYyejV6Q0FUaU5UNmQzQlg4aWJSOS02emtJbU1BcTQyTUpQdE1HNFR5czNwZWptQ3g2ZmY1Rg?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-05T07:31:44.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact Check: Did S Jaishankar say Russian Minister mocked him over India-China border dispute? No, viral video is fake - Organiser",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNenFMVmJFcWEycmRVRXpEbUhzYmJ2UTZsb3RnVFNHWE13UmhLc1lRelduT0FuamNNWjVQMGZ0d3BiYWlmbTliTHIwd19fX2kxTHlyNmNreGhpZUpBN0s5NWM3UU53UTI1VUJGa0ZRUTctLWcyMVgxTnFkVEp6ank3QmJvVXdrOFBDV0pFMlFObEVxMTJjQVNHRm9HbF9fclh3aG9TcllFTER3RGVmeGdaZndFNUY5VFg3eWZOVGRGVDl0a1BEQ3lnOGItSDNaWnZmYjlrSnNiS0hNbnFHRjhKLTI1dnU1a1VDcjdIekFHWUgtaXhw0gH6AUFVX3lxTE9oNDFlYWRQbkF0WHFoVmdyNWJTY3o4VGJRT3RkVFRhSlhSRVFoLVYxUGNyeFFIOUFMTVNrdnk2OG02VEM3NDlnVzZxSnBNdWRJU0VPNHNKY2tMNnJMUnpKRG9JeTloRkh6YWhKRm5OZjRWaTV6ZHJ5LU84VHVrb0NsUEFQa0FfbkxnZDJOM1pYbnZtb0VGY3VrWVRRb1pxSVRKWXo5TktrSlBRR2FFRVZORHVpMkEtbWxLY0ZVUXVJbVBFUDBtdlBKOFktTHRId3FvQ2FObVR6RldOS1JQQU5VVkxSNjdBSDMxOHEyUjVHbl83QUtReDYzNVE?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-05T07:03:31.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact-Check: Deepfakes of Indian and Russian Foreign Affairs Ministers Go Viral - The Quint",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXBzVi1MZDJfejVOWFBrWmNyanUxUzlQVjAzc2o1YXFCc29MUzkwVDBQNnUyMFo2NVV3RVJhekVJdEJaN21OLXB2S19YenpYZ1J0WDhZTHZxYThzZVFsNmFSd3JfcW9KbUhqaFhvZWlSZ2U0YzZlOE95YWl4cW9CU0xiYkVsNVhDaklpWGRQVTlDNmM2ck11OUI0amVxclFJTGJqVk5XNldxcEl6aWRjdDBoQjNNd9IBwwFBVV95cUxPWmxIbDhGYk9IZHN0Smoza0FkWkt6UXdqQkhkUDNvb0ZrMkwyOHpmblFTMVB1b0xxQkFZb3lvNWRjRjljbzRacmFEWXFOTXNOMDBmVVQtZ0RpdUk4TzNYcnA1WFZBNklrSnFOblQ1YmY4cEVJZENraVhuUkNINlhvYkU2REwzSWZpdUdPUW80Mjh5ajdVY0xvSFJtZ2NReTlyRDM0ZXkxYWRWaDRpMjNFcFp3SzFUaDFEZUFnUUF2bmhoVFU?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-04T12:36:09.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Diwali cash crunch? PIB Fact Check debunks claim of shortage of Rs 10, Rs 20, Rs 50 notes - The Financial Express",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONW5WVG5RekFnNUhscVA4WjU4NmFreGNuMzdQNVlRU1NMZWlESXhnMmlkb016SVBhNEZ1QzVRR2Y0Um1Sd3FVeVpCaXowdjEwQ1dKcE1pWU5XMV90OHpfQ2xUOG9wc1UzWVdPM3Eyc0g4R2RlWDhGMGs0bHpPb19tQTFpcTlTakEtTW8tT3hNRy1IWHFhX21MRGVRazNHNndTUTB5YWliVTEweU5NZ2pEbjc1Ny1kLTduVGt6ZGlfMjZLZFpRaDE2eEdSMTBES1llaGNxbjRnRHBXemQ20gHcAUFVX3lxTE41blZUblF6QWc1SGxxUDhaNTg2YWt4Y24zN1A1WVFTU0xlaURJeGcyaWRvTXpJUGE0RnVDNVFHZjRSbVJ3cVV5WkJpejB2MTBDV0pwTWlZTlcxX3Q4el9DbFQ4b3BzVTNZV08zcTJzSDhHZGVYOEYwazRsek9vX21BMWlxOVNqQS1Nby1PeE1HLUhYcWFfbUxEZVFrM0c2d1NRMHlhaWJVMTB5Tk1nakRuNzU3LWQtN25Ua3pkaV8yNktkWlFoMTZ4R1IxMERLWWVoY3FuNGdEcFd6ZDY?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-04T04:06:08.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 78,
+      "totalArticles": 83,
       "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -21,
-      "reason": "Last 3 days averaged 9.7/day vs 12.3/day before.",
+      "trend": "Stable",
+      "changePercent": -7,
+      "reason": "Last 3 days averaged 11.3/day vs 12.3/day before.",
       "daily": [
         {
           "date": "2026-11-01",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-11-06",
-          "count": 14
+          "count": 15
         },
         {
           "date": "2026-11-07",
-          "count": 1
+          "count": 5
         }
       ],
       "topArticles": [
@@ -325,12 +325,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 47,
+      "totalArticles": 48,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 550,
-      "reason": "Last 3 days averaged 13.0/day vs 2.0/day before.",
+      "changePercent": 567,
+      "reason": "Last 3 days averaged 13.3/day vs 2.0/day before.",
       "daily": [
         {
           "date": "2026-11-01",
@@ -354,7 +354,7 @@
         },
         {
           "date": "2026-11-06",
-          "count": 4
+          "count": 5
         },
         {
           "date": "2026-11-07",

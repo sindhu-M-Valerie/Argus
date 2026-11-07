@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:19:19.868Z",
+  "generatedAt": "2026-11-07T13:22:52.287Z",
   "snapshot": true,
   "date": "2026-11-06",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 5
   },
   "message": null,
   "sourceStatus": [
@@ -16,42 +16,42 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 40
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 53
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 11
+      "itemCount": 9
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 40
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 30
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 24
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -221,6 +221,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Police Seek Charity Help as Teenagers Drawn Into Online Child Abuse - The Daily Dazzling Dawn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3FwQTl1V0lYcWZGd0JxZ25OemxQWkt0Tkktak9oVFdjeVBoZGhYTzBFRkwwM0IzMnZGbVp4YmRGMDJoaEdleHJWWnVzMmZWdUR5Z25OdXJFTlE3TTVIdFI4SzNFYjg5Ni1faVZxOTE1Z0NhcnNPYzktTVROVVA2R3V2NE45YzlhSkY0dWlqQTJ2TFlNd3JKRHBJRkxUTkp4d1lZU25B?oc=5",
+      "snippet": "Police Seek Charity Help as Teenagers Drawn Into Online Child Abuse The Daily Dazzling Dawn",
+      "publishedAt": "2026-11-06T07:27:34.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",

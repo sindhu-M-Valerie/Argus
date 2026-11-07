@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:19:19.868Z",
+  "generatedAt": "2026-11-07T13:22:52.287Z",
   "snapshot": true,
   "date": "2026-11-06",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 58
+    "total": 62
   },
   "message": null,
   "sourceStatus": [
@@ -16,42 +16,42 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 40
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 53
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 66
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 11
+      "itemCount": 9
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 40
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 30
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 24
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -255,6 +255,21 @@
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 2
+    },
+    {
+      "title": "Fact check: How clashes over fake hostages near Kyiv fueled Russian disinformation blitz - The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFhrMTRYb2Jyb05XVW1NMmNoQU55bGdpdXd2ZVVWTjE5V2MtUjhIWHNOZlpzTmVybEZMSUFNYk9YMWxIWWIxVERwUG9Ja1NwTUpaaEF1Vld6SWVfaUpvcHVoem02dGRMc3B3WXhOY19LbVpBMjd1VFpBUVl1RHFwMWJMSXNUUHc3a1VEUzlEY1BnaXlnQ0pCUGJQSHh5NHpOVS1nUW1uUUdQQQ?oc=5",
+      "snippet": "Fact check: How clashes over fake hostages near Kyiv fueled Russian disinformation blitz The Kyiv Independent",
+      "publishedAt": "2026-11-06T15:18:17.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
     },
     {
       "title": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools - CyberSecurityNews",
@@ -557,6 +572,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Police Seek Charity Help as Teenagers Drawn Into Online Child Abuse - The Daily Dazzling Dawn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3FwQTl1V0lYcWZGd0JxZ25OemxQWkt0Tkktak9oVFdjeVBoZGhYTzBFRkwwM0IzMnZGbVp4YmRGMDJoaEdleHJWWnVzMmZWdUR5Z25OdXJFTlE3TTVIdFI4SzNFYjg5Ni1faVZxOTE1Z0NhcnNPYzktTVROVVA2R3V2NE45YzlhSkY0dWlqQTJ2TFlNd3JKRHBJRkxUTkp4d1lZU25B?oc=5",
+      "snippet": "Police Seek Charity Help as Teenagers Drawn Into Online Child Abuse The Daily Dazzling Dawn",
+      "publishedAt": "2026-11-06T07:27:34.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Police turn to charities for help with teenagers caught up in online child abuse - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3UwZUtSOWFmMWQ0YUdZT2ZFMFNYcUh0TWdPZ2ZBdTBGb2x2SnJVTFJCYkJIZGlKanh5TC14eHNzSzYwRE92SGN6YS01UFlXTEhEZmdkVlR5M0gzRTM4VUZTeGJYR0Nha3EtV3d3a2RtLUlQS1Y5MkVKVTZoRDFoZlp2Um9DaTN3bGhiVklYdXpYV2psb08yMFJ4SQ?oc=5",
       "snippet": "Police turn to charities for help with teenagers caught up in online child abuse The Guardian",
@@ -604,6 +634,21 @@
     {
       "title": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 - BusinessToday Malaysia",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlI0TVppOWIwckRmZ01uaHJpdTVxOVNJbnZIUGlLd0EtbmlnSHE1U0pQOFNtUFRzTFNaUG9qQWE5ekl0UkFuR05jS2lKbjFXSE44Q09zQm1LNmxwYkRWeDBxNFpiQzk3M29aX0ZFeWhpQU5rc1REdUxRSjF2dWxhckJuUG5rZjAxNm40RDMtRFBkN0RYWkNxMXRCbVZ5NkhLSFpqS1Y1b0N3RHBrNFNlLUlVcU0takVPRXc5S0VWaVozRkt5eDZsSjNZQ3BNSkFyaWtnbUpFTjBhdw?oc=5",
+      "snippet": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 BusinessToday Malaysia",
+      "publishedAt": "2026-11-06T03:50:08.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 - BusinessToday Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQZ0hiX0Mza1FzcFpvaWEtcWlsN1dFOTB4U0hlb1RiZEpyUmNGTWhkRU9PU1ZtRHZhdlBiRGpjNzhfa0prS05HeWNINGhYNlRCNTU4S05hUl9kX1ZBUmxtXzlyVWgtdHM3eWRXVlg4dE5RQU9BWHYxWDJ4aEx1SHhzOUZyUGNiMmF6UXYzemVESDUzMzl3SExqMDIyQmJILXJfZ3p2LXVlN2FuQnhSbk9ZalhGYl9ycEc5Y1hnVnhqWVgyRjU1eFZaNUFBenZqNHZQSUFfcHZSMk5pUWVlbl91b3lxcFhWU1YwRUcxWHlUVlpodmJWbWlZQkptSTRVS3VGR2pxejlEcjc4TS1EUmx2VGtWclhHR2llS3pKeWNwVEVscmJoUFZ1QmpJejBlWm5YQ0FnV1VDUW81TFVDYWFVbkVhcHY4OEFaNTczeFd5dDJrWnoydEEwYng0TG9TT1hJMXNTMWNtdWRuc0FtOEhUTXNXUWkxQW5LNlpQMmtrZ25wc2tpRkRQRXZhQzFobktQTnJHMURn?oc=5",
       "snippet": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 BusinessToday Malaysia",
       "publishedAt": "2026-11-06T03:50:08.000Z",
       "source": "Google News • Fraud and Impersonation",
@@ -1041,6 +1086,21 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSEJyNlBLVngycEFhUUVDdlhkMlZWUEM4N3pOQVVTRG1ITTItVmM0NHNqSE9DUjlWN0lxcmwzdGo3cWRmT2xPdjhiQVJ2UlktcTVCQXJwdkIxSUNRTVhBM3RjYmVaMXE1YUZsbk9PYXRNNjRsNHFQNm0tZlB6YUFsTDhsWm9DLWhhbmlQTzlxcDF4dkJFR0lXX1ptRURVSGFBNndLVGEtRmRZLWtPMkFfT2VBRmxmMzN6X09lYjdCbEh3bFYwb0p0dzZlcFJuSUd5SGtTMjJBakNJR1dKOHFF?oc=5",
       "snippet": "Recent data breaches could put your personal information at risk. Here’s what consumers should know ConsumerAffairs",
       "publishedAt": "2026-11-05T18:53:31.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Amadeus Cybersecurity Incident Exposes Data at 15 Airlines - The Cyber Express",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fYlhMdTI3TU1BQ3pMWnUxNGRlZGNVRXprV3ZYWWlSQlZJNUFnbjlrRjd4OTROVkdnWF9lbm1LSEJTTUZJMlowa1ZuUmE0MjJhcjlmVU5lczl0cXhIcXJRYnVHVmtjc3NraGZn0gFrQVVfeXFMTV9iWEx1MjdNTUFDekxadTE0ZGVkY1VFemtXdlhZaVJCVkk1QWduOWtGN3g5NE5WR2dYX2VubUtIQlNNRkkyWjBrVm5SYTQyMmFyOWZVTmVzOXRxeEhxclFidUdWa2Nzc2toZmc?oc=5",
+      "snippet": "Amadeus Cybersecurity Incident Exposes Data at 15 Airlines The Cyber Express",
+      "publishedAt": "2026-11-05T18:33:54.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
