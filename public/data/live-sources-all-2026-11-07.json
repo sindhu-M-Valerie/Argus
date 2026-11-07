@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:22:52.287Z",
+  "generatedAt": "2026-11-07T22:08:23.811Z",
   "snapshot": true,
   "date": "2026-11-07",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 27
+    "total": 41
   },
   "message": null,
   "sourceStatus": [
@@ -16,35 +16,35 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 52
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 29
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 19
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 30
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Online resources with extremist and terrorist content increase by 14% in Uzbekistan - Daryo",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFdfWG9HVmFmeDdZUUp3a052emsySVZoVVpIZDZWTm8wdnYtZHVaYkIyVGNGZ05teHIwMzV2amNfRWFmVVdWR0h6NjJXN1VfYWJPYk1IN3B6OXRCTTVjZEJXTDhaQU5GdmRLYmFNSjBqazctd1o3R0d1N0N3T3dWV21qaktOLUowUWh4QnAya2tBX2N0WFk2SzVTM2lEVEhHTFFvTzNVQ1lrUzljT0VGSVFBLUE?oc=5",
+      "snippet": "Online resources with extremist and terrorist content increase by 14% in Uzbekistan Daryo",
+      "publishedAt": "2026-11-07T14:00:13.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Fact Check: Viral Video Of Bullet Train Being Transported Falsely Linked To India, Here's The Truth - News18",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWZrbWRTTm0xc28wRkF0VnVlM0JIeXlkclZRc1dKVDZmY2xZb2VjR1JzX1g2SEVLUGczR0RCVkRWQXhveTNfYkRSbk5OZFE5NUxFZUpLdzFMWmpKLTlVWWsyQ3JfbUpHTDZYMVVkb2dMdE40V0NLWk9uRUR0XzdJNWxvbVlMdG5UODZ2eXg1TzQ0b3VLYVBwdkQ3c1d0ZXBud2d5V0RvbFlLZllUYVZkNHk2RXk1UEVZTzBjSU1nbVQxUWQycTJCbVpCYktBN05hUlU5UktvWW5zOWNE0gHiAUFVX3lxTE5ZLTJjMmZyUnZ3NmdSZ25NelF5X0VhQVUxSDJqSDNydGJXNlVYMnFST0NTcWZXQjRmVHpkeTkyTmJ3Q2VTXzcyUXhlQUZOR2wyX3kta1BTY1RjYng0M2RicFppVVEzSkN2S1VOX0lKWmlzZXBLUGdBZW9mTFU4QTRRRkVOcXd4Y19iWmFzbDZhMlVQNFRuaWxJMFpia0x5M2lxbGoxQzVrdXg0UUlfdmtQeGlxcFF3QWJOS2xsUC1FY3dyaWtOOEFQN2treGdKVkZYaWxwR1I4dnZjWlFGR2tnZHc?oc=5",
@@ -212,6 +227,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fake News and Deepfakes: Social Media in Legal Trouble? - M9.news",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjJxZ1RCRk9MX0JJX05zWGdKUFNuNVNsbGt0UVhTNDdiX2llaG9WUlVZV1ZROXZETW1lcUlFYjhJaVBRY2FJQ1BDX19EQWFCVDBaLTh3bGZHNXFwNUZqMENVUzJOdktiMXdDNFJXVFcyOU5CdWNPRllwRWNZQ2Z1dmg1Z9IBiAFBVV95cUxPOXZNNVB2Y2YxMTA2STA1bjRZc3VaRHZieGM1bjZJSm5taWhjZ1Q4djFNdkhRMU94MGF0elpSVkRLZGtQbXFYUUdUaFdzMGpNMmxOZ0FHN1pXc1hwOTM4S1dLbnlHaHgzV2hNTU9qbkt3OHNLQl9saC1HWFF2azZBeEFReUh3V0tz?oc=5",
+      "snippet": "Fake News and Deepfakes: Social Media in Legal Trouble? M9.news",
+      "publishedAt": "2026-11-07T03:45:50.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fake News – The Neuroscience of Misinformation. - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm00ekFSMWdaZllxaTdfSkxoSDgyODJnNjJqWWVZNl8tQjdfcVBXTVFUYnY4emNBeUp0eGFWaVhnUVBUMGpMajJrbmlpLWZhYWhYV0ZFQjBPcUNCVlUtY0xoTDJaajF4eFFuVTJqTFZhazhWMHhubUNaN05hX0tFa292TQ?oc=5",
       "snippet": "Fake News – The Neuroscience of Misinformation. The Times of Israel",
@@ -223,6 +253,126 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Maharashtra Cyber Arrests Mumbai Man Over 20,000 Suspected Child Abuse Files - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjBjT0ZISWFVVmtnVUR2X18tOFlVSlVvNzdVWTNZY3UxLXRqMXN3ZS16MEN1R0JXaGtUbzhXTkZvcXJuSmpNUlgyLXBNRDJZUHlaVVg0MmpkcVdnVE52QTQ2XzU2b19pM2hvc3pNSDVhamgyU0pwMHlQQ2x0Xy1hS1JXUUF3cEpOQWZud1ZSbkdJc3dYeXBEbkVn?oc=5",
+      "snippet": "Maharashtra Cyber Arrests Mumbai Man Over 20,000 Suspected Child Abuse Files The 420.in",
+      "publishedAt": "2026-11-07T17:35:50.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malad Man Arrested For Allegedly Possessing Over 20,000 Child Sexual Abuse Images And Videos On Phone - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSHFBNVIyQUdKb2ZpUEFENFJjUFU1QnVTR0t5cGl5a0RCMzhQcjdRaVJGeF9GcUhTOTJXLVdxVlo2UXJld0xhbm1yRG5EdTJPM3hPTjd3a2wwNFZUWFo1cTZtOExjNjFpLTdScEdKQXoydHpVZG9LQUJVQVdPUW54UFpnaWtyWDRzN3gwMlV3bHgyM3ZHcE12d3YwVUhWNUQ4X0NaZVBidjFfWUFUZkZhM05QejJmSXdWMXl3TnI5MDY1aUNyeWJ3VHNGbHNTRzlfVjJlODFn0gHbAUFVX3lxTE5iM1RMVDRrOEp3QVlFazBoWE5JMG1wWmJuNmpDMmdtZDR0LWZPU2JkUGx0SmtTOV94cWhJbnh6czU3cVhMSTBMMWxtTWM4UUVhRWtDV2FGREZEV1dCcm04RFdSOC1iejlmTkIyb2hhVjl3MUo5Qmp5NXJPMTc3aF9oSlNDNGpVRFFrRkpvekxHY2hzMHVVRThvUHdwNkdaYU9zRjNDYWxUbUtCVFpJVE95czNieU40OWRxTGpPYmtzSlh3eUpKRkJZWWdMRXdFb2ZXdFpvZ29qVDhWQQ?oc=5",
+      "snippet": "Malad Man Arrested For Allegedly Possessing Over 20,000 Child Sexual Abuse Images And Videos On Phone Free Press Journal",
+      "publishedAt": "2026-11-07T16:48:03.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Arrest warrant issued for South African man in US child abuse case - Cape Town ETC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZl9MOGpLS2s2VmFQcmNDVzhVNmlsdDRpOUhCMm1tV1QyZkxJbElwNWl2cUtsaS14SWRyRmxqRS0xYk9CYTE5M0Jwd0RJYUo0RXVuRHVnVzRkdEJNY01Xb0tkTGgtUGkySXZkMDEzbjN3VE0xc2pfMGV6RENBaHhhWlF1UVZTZnhDRFpRTWw5WjFuQ1lnRU5iOXctc2dKTjQ2MUpR?oc=5",
+      "snippet": "Arrest warrant issued for South African man in US child abuse case Cape Town ETC",
+      "publishedAt": "2026-11-07T16:00:33.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Misleading Post': MEA Fact-Checks Report On India's US Lobbying Arrangement - News18",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenhtX2FJWVJ2LVR5c0ZJdVlhNVRBUlpVMm5tTDNvcWhvS3VpTW5tZ2dLcVlFbXYtalFsb1NwTjQxZzJsRDhXSG8tX0lYbGhOd21hVG1ZbUtQWkcyUWxhQkFmQi1BZWN0QWJfbFZBOHBVaVNrTHZJbk1zRWhwRG1VWGE3NjFfZE9aTTJCYU9mRC0wVFlJdFdhVXNLMG1fT2NHdE1IMk5mZmZ2VHY3VFFRelVCQWxLZWhtazQySHZB0gHDAUFVX3lxTE0tM08zYm5XdHRUYkZLdENSblB5dWFhZVZzTUR1VTBLZ2t2S1NaaTk3dzNneVFTclp5a0U2RGdHRW13cUFzdEZPeU5OdHktQXg2ZUc0REhtZkNtMGlOdWdPdlhwU3paWmR2SklOVm4zWWJSeHlHbWV5Rk8tb3B4VDNPT0UyMVV6Z1Vmbmw0REpncFJkMUVmeVc1NzNBWl9pSXRuT1l4RFYtRFp2R3QxS3NxUHc1RERTQnVhMmtjd3ZIaEwxaw?oc=5",
+      "snippet": "'Misleading Post': MEA Fact-Checks Report On India's US Lobbying Arrangement News18",
+      "publishedAt": "2026-11-07T15:58:14.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Army debunks claims of Chinese troops advancing 50 km into Arunachal Pradesh - Madhyamam",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnVlWTh5eGJnNkF1NDhzc01BTGgzcmpKVEFNb3ZjdU5lVXBxVUFvM2ZBVkhobWVFZEloRlVpUzNHeWFqZV9DTGNOdWVnWEJoUXo4VVpacVVqYVBqdjVfOEhQZVNrT3d4UG10d0VoeW51bzlyMDNuSlItdUF1SUxVYW5ydWxhSm5DX2o3aFBWdWhQOVljY2pkTWdQR2xBckZkbmtXcV8waTF4cVpmX3JmXzlsbS1jMjlmQTNDei1RRUVvcXfSAcgBQVVfeXFMTzQwY00xVlZaejdaeVJvWnNZX3RIWHFvVnZpaDNOT1hIbS1aUHllcHRMU1JYb1dWalJtUFduN0xDaVN2akFES2xPNXozU3RyYUozeDZER1dEQ3NZOHpOVU9TX3dYLUN5WmowRTZTdEJrekRNaFJDeFdKRmRtRjFhZUlmWFZ1QjZZWDNpcmZqRzRTNHlhZVkxMERIRTNIZndVdE5hMlJKR3Z1cTlBajJpNlhSMXVRYnAyLU5vNk1HU0ZnN05NcmJyNHE?oc=5",
+      "snippet": "Indian Army debunks claims of Chinese troops advancing 50 km into Arunachal Pradesh Madhyamam",
+      "publishedAt": "2026-11-07T15:54:08.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mumbai man arrested with 20,000 child sexual abuse images, videos on phone - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFdiMEw3UDM0aVZqLXdDZzd3SHJqeDBGUGNRWmp2SkpjamVnekpOZmFaMjJOam9veHRPaEVRNXZfMm4tajZBUXBZRGZTVHhWaDM3SldvSlJBYlVEaDlQb2pHc2ZEYjBuQjc2RVpnQjEyaEp4UUdVOUVqbEUxbkZPMHNwc0Zja0JjLTVIeUhGWG52TU1xLWdPei1KMWQwTDZ1ektTUkZGbHlqbmRlaE5KQmRBemdOa203ekJueFMxLXFoM3liWWlfTDNfS1hmRUFPbnFz0gHYAUFVX3lxTE9ZcXRSOGVHZXlRbm9McWRQQl94cDZucnVLb0dzYWROaUJYQ3FEdDd1UlpHUlZpUUYwSEZHQlJYZXptNGtHR3h4Q0JRcXJaQjFGMm5CMmpkanNYT3ZPdjZjekx0dmtPektoRWFsb0JraGg5YnlhWG53Q2YxWWtfVTE2c19LZzI0cmVrdEFHN2xfOEdUYVZydkZzOUNOMFotYVNPR29GNUJ5UFFsVXEtZXJ4SnVYZlZvRi10U1pkcHJTcjgtZnZXVUN2RG1KZDdpZFFwZTczSlVNWQ?oc=5",
+      "snippet": "Mumbai man arrested with 20,000 child sexual abuse images, videos on phone India Today",
+      "publishedAt": "2026-11-07T15:53:57.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Did China's PLA intrude 50 kilometers into Arunachal Pradesh? Indian Army fact checks viral claims, flags 6 Pak-sponsored handles; all you need to know - News24 India - News24Online",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOWG0yOTlLYkJZcDNQRU1nc0xMR3o4OENodjdWcG9LSFpGUnYwYTVFUmFEcHFlOXFrb2pEVGI4RkNRMFBIa045ODQwaUZWVkxYSzRiWkdkMHRlRUkwMTZZTTRuUm5LWXMxZHVwMktMdGZ0cHJhSzBRQnJEclZSRGpCTS1SRVN5WkpxU09FMm5CZVgxQWk3VE9PdVp6a2ZCWnUwN1AyQzdrRVNpZHhGbms1LVJId2ZBUXVsbVQ5Z0tCd2dyZGFWeEJJOFBMaUxpQnFMakpXZVpPSU1mVUZoRlcya2tva0RGa3d2aTd6QjZnZG9MZnIzZHBvcTVpQ2tqNDZpWlozOTVLM2gxeDJvRm1pUDRrWmpOT01aNHdVRmlhUEZ6ZHpXMG9UYk42Z0pVdWg10gG0AkFVX3lxTE5sTlJnTzU5b2xFMVhyWVV5LUNfNXlnUlVnbEZod2ZyMWd4a0VTc1Nnb2pfeFZMMkg4aU12UW5mOHF0ZmN5UUZTVV9SWmhVTzcxczFGRDBPa3poMGpWQ2VaaXQwOFdUQS1pTFhpcmV0TzUxaU5qR3U1bVVZSlBCWC0tWkdFdFQ1bmtpbWVMRW5uYTFJbERxRWlzRlZ4Uk9HN0lNMGlDdlFFRUR4RXNSSDZrUUN1TXZXLUR1OUpRWUh4Tlp5bUZleHdyUGk4a3pucjQ4cWt3ckNJcmtDaHJRMDVPYTNhLU5TRk43bHo2WUd3Y0dKX0pkTWl2RnlIZjhMS1luRlppMDRCUGh3eTNTcmY3VGdRbExTMHBuZlh4el91QlpQbzBRczlMM24xS3g0ajBJMTlZ?oc=5",
+      "snippet": "Did China's PLA intrude 50 kilometers into Arunachal Pradesh? Indian Army fact checks viral claims, flags 6 Pak-sponsored handles; all you need to know - News24 India News24Online",
+      "publishedAt": "2026-11-07T15:51:05.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mumbai man held with over 20,000 child abuse images, videos - Daijiworld",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBER21Xc01TTy1zV0pRTlBaWHpTTUVjVEFWQ01uQXJ6a2ZQdUZIZ294aTlQYk1BSEE3NDFrWjBZSWE2T0pmeTV5RS1VaXpJUWl2OXpRZVh2d3I3T0c2MkJEaFpJcFNJNEtONXc?oc=5",
+      "snippet": "Mumbai man held with over 20,000 child abuse images, videos Daijiworld",
+      "publishedAt": "2026-11-07T15:45:55.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -317,6 +467,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fonthill, Ont. man arrested on internet child exploitation charges (Andrew Joseph Pineault) - Reddit",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVNZdl9iNWFRekppZ08wVkFERjFDalptMjJNSUVVMkd4bkdaZ2J3VnJkcWdNaXVtSjliV3d3TU5DM0hSMXlNVTZPMFZfNzVVbmg0ZVk5M2tFQUUzbjNhYjNPYnFtcG5RNThGSzBZRklaVkh4ZVU3ZmExdWxnYjJKczJFNnRIRTZmaU50Wll4bVJNaXpXWDVFaVNvTkZDbktQV2c?oc=5",
+      "snippet": "Fonthill, Ont. man arrested on internet child exploitation charges (Andrew Joseph Pineault) Reddit",
+      "publishedAt": "2026-11-07T06:53:57.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "HNB calls for greaterpublic awareness on impersonation scams - Island.lk",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFdrY0xpN19XdVppVmlLaS00N1lncV85bjNwc25Ka1pTVERzWTVwMjU5emM3T1Z0d29WX2pIRDNJb1dKdTl3b0hXRTVyTW9PbldsbkZ6d1dTd0FIajJUNDVEaWxZVThFZzVwbF9pVkVCSm5iUUJ5aGNSLUVwSXlIdDNOSmkzUQ?oc=5",
       "snippet": "HNB calls for greaterpublic awareness on impersonation scams Island.lk",
@@ -365,7 +530,7 @@
       "title": "Rajnath Singh warns of expanding warfare threats as cyberattacks, drones and misinformation reshape India's security landscape - Business Upturn",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSnVKRk80WE1OakhaY2JRODBYeWIxNG5NWFkxc1V6ZXE1WWZmRS1pUnZHYkx4NDM0NHV5Sk84UnItY0V3Y1ZZdW8zWXNJYlN5LTFrc2JBYjhnckhTemFEaFlHYWljY3p2ZXAyd3VHQ3A4MFBDZnJYdXFkRkdhXy13TnZrcWt3cllraWpEZTRyOVpPbmRqMFgtM3k4cnU3SG04dVNnMkNYcmxsaTVKdjU2UjhkVEVmNHp3eEEwbjE4TzJ3Y0hmZEpyNUhsMTVNWllzeGJIWTU5aGRBX1ZBX0Z1ZWtnclMxdVJRemJKSzRObTU?oc=5",
       "snippet": "Rajnath Singh warns of expanding warfare threats as cyberattacks, drones and misinformation reshape India's security landscape Business Upturn",
-      "publishedAt": "2026-11-07T09:58:36.000Z",
+      "publishedAt": "2026-11-07T10:01:08.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -380,7 +545,7 @@
       "title": "Weekly Wrap: Misinformation About INDIA Bloc Rally, US Midterms & More - Newschecker",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1pkOV9NWWFER1pNX1JNWU9zWUZwUnBKaWpRWXZUNE9hUk9wMUV1cjA0T1VmUlpTYjNsdmVZRC1XRVJ4dVhqdG05QVFBVjZrT2l6Rlh2SHB4eVloVWViMERYUFFDcEw3cExDTUs2dkJiMGd4WHYxbkFHaW1hX25sdlZ5OEo1ZmRZYXJLWXZGZ1J1aE5RQUxyUDdR?oc=5",
       "snippet": "Weekly Wrap: Misinformation About INDIA Bloc Rally, US Midterms & More Newschecker",
-      "publishedAt": "2026-11-07T08:23:22.000Z",
+      "publishedAt": "2026-11-07T09:17:54.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -467,6 +632,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Shopping for Diwali online? These cyber scams could drain your bank account - WION",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1plZnl0VF9OVGJtYWl0cHpOMHlVMV8xY2tSSFVqYkRBWVdfLXRNU243RFpNanRHblhPX1lUUjhOLUIzMDdsVXZLWS1rSUtJTEJnT3VpeExNV2pKZUp4dk9HVTk2czFZQmhTWmMxbFJRWm9fVzBRQ05rbDZjLUY5QU9HSHpXQ1FKUkVJRzYySG5peXF4WUhSWjJEdGw2aVlITWZCN01uOEN5MS1xd2RiaHR6ZHZoMjlnSllHYkdNRVnSAcYBQVVfeXFMUEx5N1diQ3plckJtYWVvWlVjaUhjcE1saGN5eEJUUUZSYjhfbXJHOXVWS1p2RGpTX3VSTHpKRUFYakdla1c4YlZYQmJSdlRSVjJGTWNid09UTG5MRGxFazVGS1phemo3UjYyeExjdE5UdlBaaEh3MjVtNkNGSDZXa1FwQk9ja2wwUW16SXBXVGh0QmVfemFEeHVudVFjUTFXaW5sYWJHNE9weEdvVko1dmN1c0k1OENOVHBYUDE2cngtaU1XVFVB?oc=5",
+      "snippet": "Shopping for Diwali online? These cyber scams could drain your bank account WION",
+      "publishedAt": "2026-11-07T17:41:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Cambodia raids 972 scam sites, deports 23,760 foreigners - Free Malaysia Today",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRy1DN2doTHhqN3p2OFgyNFFCVW4tTnJwTEI4MTdQQjFqaDMzZEh4RVlxS25wZTc0QkxjX3JmNTJTSU5icEl1UVVjUW56Y3FfZ1ZVSTdhVXd0ZjgwbjhnbEk4cDhMc3VLLVhUbU81azNQd3VHU1FfNGN3SWF0eVRjQUhxSWdzS2VNVU1SeF9CVE9TWlRBOVp5U1U5UXBvcUthZUo4d3NOYXVaaTk4YVlYVHp2cDl6QQ?oc=5",
       "snippet": "Cambodia raids 972 scam sites, deports 23,760 foreigners Free Malaysia Today",
@@ -507,6 +687,21 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vanguard Group data breach exposes Social Security numbers in Vermont - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZnSERsQzAtXzRtQklhUVdRWkR4Q3FWUlNyUmdjU1BRYko4ZTJGVHZuNDh3OGw4a29Md1NaYlk4OURwRFpEOGRUT0NUNmtDSmVBUE1JUHZ4U3ozdDlGb01nVlNHYkxCYlVPV2tqM3lhbTFsRE9yUlZNdEJfc09hdXRUTHlqUHdFRzR6LXdDcWozTXI3QTRRSi1VSnI?oc=5",
+      "snippet": "Vanguard Group data breach exposes Social Security numbers in Vermont Beinsure",
+      "publishedAt": "2026-11-07T13:28:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -561,6 +756,21 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91WHM2YjlMMmYwYXo3aHZoNkpSUk1ZN0NtNHNyUXEtMWRDTHFaUjVaT2RoZXExRUZ4a3RDX1g5X3R6MVNiWTZXQmdKTzBtNjhZLXZrLUtza1VuWGVqeS1PS00zSFRlcHdwZ0ViLVJDc9IBdEFVX3lxTE52MFd1cXdLM0lsbUtfNXZ0M3NKMDl3ZkF0QTBzRFNJZ3VlQTY0bGxyR3M4Zm15bURWdktkN0tRN3h0SW5KZFRaLVl6NlFWR3hENW1Wb2Fzb2poZ1RwaVVOWGJFbEpfZmd1cjBULTlzOEx5dkNQ?oc=5",
       "snippet": "ARTEX AI Agent Escapes Research Sandbox and Accesses WorkOS Customer Records CyberSecurityNews",
       "publishedAt": "2026-11-07T04:58:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chainalysis Data Breach: 100% of Users Hit [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjFsMnR2V2QwWThUWUVlREZnWDB0MGs5Z3RUNXhtNkVNRy0ydWN4NENZNE93QkdIMDVYZ09LNUU2YVhHbzZzTXd2UHF4WEF4SmtJYnd5UlhQUkRLR2Zza1pPUDlLdDZxazNxdHhnTjFLc2FDSFVKcUVLS21HZHBGY1h1aXUta1NzdnZ3?oc=5",
+      "snippet": "Chainalysis Data Breach: 100% of Users Hit [2026] shattered.io",
+      "publishedAt": "2026-11-07T03:57:10.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

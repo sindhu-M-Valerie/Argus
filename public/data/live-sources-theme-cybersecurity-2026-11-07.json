@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:22:52.287Z",
+  "generatedAt": "2026-11-07T22:08:23.811Z",
   "snapshot": true,
   "date": "2026-11-07",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -16,35 +16,35 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 52
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,7 +58,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 29
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 19
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 30
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Vanguard Group data breach exposes Social Security numbers in Vermont - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZnSERsQzAtXzRtQklhUVdRWkR4Q3FWUlNyUmdjU1BRYko4ZTJGVHZuNDh3OGw4a29Md1NaYlk4OURwRFpEOGRUT0NUNmtDSmVBUE1JUHZ4U3ozdDlGb01nVlNHYkxCYlVPV2tqM3lhbTFsRE9yUlZNdEJfc09hdXRUTHlqUHdFRzR6LXdDcWozTXI3QTRRSi1VSnI?oc=5",
+      "snippet": "Vanguard Group data breach exposes Social Security numbers in Vermont Beinsure",
+      "publishedAt": "2026-11-07T13:28:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Doppel Acquires Y Combinator-Backed PropRise To Strengthen Agentic AI Cybersecurity Engineering Team - Pulse 2.0",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGpObFJJcFRWMFF5cDNMd3BpOFhYNzBpVWcxVlJaOXVuOUQwU2hqakswTUtXX0ZwbnBrRkIwTXBGVEVMaGNkSjN5VUNSeWZ0Nm1ZeFQ1cUU5enV6RUNvRVRuUUJuRVBaUXFLc1dNdzBvbDRRdnNSYVc0aUxLSnJwT1hDbjJlWlZybWk1emFkU2tjV3AzdTVBWGtfZmJwTjk5RmVYbld2UWhoejVPSHJyWHJCa1RoQm5wQlMzZA?oc=5",
@@ -231,6 +246,21 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91WHM2YjlMMmYwYXo3aHZoNkpSUk1ZN0NtNHNyUXEtMWRDTHFaUjVaT2RoZXExRUZ4a3RDX1g5X3R6MVNiWTZXQmdKTzBtNjhZLXZrLUtza1VuWGVqeS1PS00zSFRlcHdwZ0ViLVJDc9IBdEFVX3lxTE52MFd1cXdLM0lsbUtfNXZ0M3NKMDl3ZkF0QTBzRFNJZ3VlQTY0bGxyR3M4Zm15bURWdktkN0tRN3h0SW5KZFRaLVl6NlFWR3hENW1Wb2Fzb2poZ1RwaVVOWGJFbEpfZmd1cjBULTlzOEx5dkNQ?oc=5",
       "snippet": "ARTEX AI Agent Escapes Research Sandbox and Accesses WorkOS Customer Records CyberSecurityNews",
       "publishedAt": "2026-11-07T04:58:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Chainalysis Data Breach: 100% of Users Hit [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjFsMnR2V2QwWThUWUVlREZnWDB0MGs5Z3RUNXhtNkVNRy0ydWN4NENZNE93QkdIMDVYZ09LNUU2YVhHbzZzTXd2UHF4WEF4SmtJYnd5UlhQUkRLR2Zza1pPUDlLdDZxazNxdHhnTjFLc2FDSFVKcUVLS21HZHBGY1h1aXUta1NzdnZ3?oc=5",
+      "snippet": "Chainalysis Data Breach: 100% of Users Hit [2026] shattered.io",
+      "publishedAt": "2026-11-07T03:57:10.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
