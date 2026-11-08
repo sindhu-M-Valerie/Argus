@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:25:54.772Z",
+  "generatedAt": "2026-11-08T13:43:07.151Z",
   "snapshot": true,
   "date": "2026-11-08",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 5
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 64
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 8
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 17
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 24
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 20
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Fact-Check: Does This Viral Video Show India’s First Bullet Trains? No! - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUN5WExoRGhZNXRkNUFJbmhZU1RhYTJSQ3FLVl9PM2owZXZvdVNNZnk0M2xLd3V1T0ZlblRUSURfd2ZtMHBYczNYRkp0dHNHZnJCT3ZzZmVPSlhKM29UNFBDZ25oNTR2VWtqMG53Zlltb19fZVpnYWVid0JCUFIyT2p6a19hTXpTdEdpZHEyLU9TNzI2ekMwdHVJeUlNZ1hVbG90NdIBsgFBVV95cUxNQ3doTXJINkNodUxGdV9JN0lxV1U3MGZWMGZ5bWtaY1RvcnFDeWxjaVdvVjAxQmhOSjhCM0tueDZkQi11SWZraVlLYUZOSFRYZ3VMdmQ5OW03NWJDakt4bG54SVBwMW5YNkZmOWFYZ1VCMVFyTnEyVUlnS2l0Yld1REZJRTZqVzhjX0t1TWtMWEVOcXZTc1dzei1IQW5CbENqajdsUW8wVHN0X2pWYmlwSkpB?oc=5",
+      "snippet": "Fact-Check: Does This Viral Video Show India’s First Bullet Trains? No! The Quint",
+      "publishedAt": "2026-11-08T09:42:17.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Army Debunks Claims of Chinese Forces Capturing 50 Km of Arunachal Territory, Flags Coordinated Disinformation Campaign - Northeast Live",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR0luTjZfRWlkNkIwUU5NSUxSSFJsY3lSU1NuY2pHM1dpMFB4cHpoaDlZTzJPV0N5R29RLVFMUWktN2k5dDYwVDc5UXpBbGN5NzdGcmE0S19KZXNmM09aLVZVS1lmOWpIQW1QNDNMSURwSkNkQnNFMHNOVE85NkZ6bDUtaUtsSGw4Ump3bnVlX2FPNXlzVVdKUXVUd3RFUTNqb0ZDeEp4RUdJSUZYbFRlZWY4TFFsQzVHbTJONlh6U1hTOE5rOGYyWUhRRGFuZF9qZGpIY3RoYXhjOFRCN1oxZmxZV1NWcFlwY3d2bV96aVNacWhL?oc=5",
+      "snippet": "Indian Army Debunks Claims of Chinese Forces Capturing 50 Km of Arunachal Territory, Flags Coordinated Disinformation Campaign Northeast Live",
+      "publishedAt": "2026-11-08T08:47:28.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Will Your Current Cheque Book Become Invalid After December 2026? Here's A Fact Check - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2ZYSWpwYzdjSEJmUi1vdGRhMXp6cHFody00aWctTU9Bb1VNU0p6X3ZRbGNGSHdzcHNFbE5wUGhXWUg1RGJPWjRTYkJUQXlFaDZLSlRvTDM5WjZHSmtzMk9MS0oyOUpRWkV0M1ZKdkxXRmNxZWljSEJEM0FTM09EVkw3QUM0aEM3cWRIdXRGNDBOX0QwQmtheVV3TGJIRHc4NFRRZkRJZWZMeHpYbC12WUhyZVpGUdIBvgFBVV95cUxPakd0UHpOekVSUkgwQWNfaTVrUE1wZHZHRnVTdkhDSlhyNjhmR3pzRWdUOUlOWGF3cDdnc0hMcDF5ai1lVFp2S054TS1RcmtaM2pjNktQaGY2V25PTms1OWV1bjVnQ3Y3MVB3bEdPREZSeWtJVWtjUEREVXF6M3dJTzBrbXhWZEJGQUZveW4xWl9FSVhtX0tlYXFtbmFRX1ZPZVNSc201bGhXUTljS3hCOEo4dGlEWGw3ZWhRNWhB?oc=5",
       "snippet": "Will Your Current Cheque Book Become Invalid After December 2026? Here's A Fact Check NDTV Profit",
@@ -192,6 +222,21 @@
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "From fake deals to deepfakes: How cybercriminals are exploiting festive shoppers - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdHQxNXk3a0dPT1lUVWdDM3RHSWVUc3lpdUktMkFyQTlhOHRXWko0T2dvc0xRXzBvdmhHOGQ5dmEtelhiT1E1MHRBQ3EzdEp3a05YdWV1OUMtVzJUcW1wVUwtWWRWZFAwWXBZVmp6YmJWWE5wOThlU3NaZGlGZGFMTFVPelFqb01fU0ZzTzNOZ3k1N3lZMEJlUjl4UnJ6RHJPMngtMHBYbmFJQlVtVnBPVHgtdnpVdFcxcjFOeU10bjdBMU8td2JtQdIB1gFBVV95cUxNVk1YcmMzaXdtSnUyMUtfODJ6WG0xQjVLNUVGZzU4bmcwaU1WZmVGV21kVU94enlCZnRUbGFSOGpRMkJMS3NEbGwtY3hmQTlXRGI3VDdycEpJV000RHJzLU9pSHFLV1poYTFobUhHeE1RLTczSjFQYWM0bkk2OWd3Ym9rU3lmM2dUdzdyd3E5XzA2TFN0eU9Gd1dlMmdFVDQzalpSaE9Uc0pjOEJjZ3MxMEhlMHNUZ1M5cWlCZmhRQjNIYkpsQXQ3R2N6QXRlbFlDMGVjUDln?oc=5",
+      "snippet": "From fake deals to deepfakes: How cybercriminals are exploiting festive shoppers Fortune India",
+      "publishedAt": "2026-11-08T07:30:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

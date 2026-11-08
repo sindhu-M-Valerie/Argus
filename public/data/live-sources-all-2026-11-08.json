@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:25:54.772Z",
+  "generatedAt": "2026-11-08T13:43:07.151Z",
   "snapshot": true,
   "date": "2026-11-08",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 15
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 64
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 9
+      "itemCount": 8
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 17
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 24
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 20
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,66 @@
   ],
   "data": [
     {
+      "title": "Fact-Check: Does This Viral Video Show India’s First Bullet Trains? No! - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUN5WExoRGhZNXRkNUFJbmhZU1RhYTJSQ3FLVl9PM2owZXZvdVNNZnk0M2xLd3V1T0ZlblRUSURfd2ZtMHBYczNYRkp0dHNHZnJCT3ZzZmVPSlhKM29UNFBDZ25oNTR2VWtqMG53Zlltb19fZVpnYWVid0JCUFIyT2p6a19hTXpTdEdpZHEyLU9TNzI2ekMwdHVJeUlNZ1hVbG90NdIBsgFBVV95cUxNQ3doTXJINkNodUxGdV9JN0lxV1U3MGZWMGZ5bWtaY1RvcnFDeWxjaVdvVjAxQmhOSjhCM0tueDZkQi11SWZraVlLYUZOSFRYZ3VMdmQ5OW03NWJDakt4bG54SVBwMW5YNkZmOWFYZ1VCMVFyTnEyVUlnS2l0Yld1REZJRTZqVzhjX0t1TWtMWEVOcXZTc1dzei1IQW5CbENqajdsUW8wVHN0X2pWYmlwSkpB?oc=5",
+      "snippet": "Fact-Check: Does This Viral Video Show India’s First Bullet Trains? No! The Quint",
+      "publishedAt": "2026-11-08T09:42:17.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Army Debunks Claims of Chinese Forces Capturing 50 Km of Arunachal Territory, Flags Coordinated Disinformation Campaign - Northeast Live",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR0luTjZfRWlkNkIwUU5NSUxSSFJsY3lSU1NuY2pHM1dpMFB4cHpoaDlZTzJPV0N5R29RLVFMUWktN2k5dDYwVDc5UXpBbGN5NzdGcmE0S19KZXNmM09aLVZVS1lmOWpIQW1QNDNMSURwSkNkQnNFMHNOVE85NkZ6bDUtaUtsSGw4Ump3bnVlX2FPNXlzVVdKUXVUd3RFUTNqb0ZDeEp4RUdJSUZYbFRlZWY4TFFsQzVHbTJONlh6U1hTOE5rOGYyWUhRRGFuZF9qZGpIY3RoYXhjOFRCN1oxZmxZV1NWcFlwY3d2bV96aVNacWhL?oc=5",
+      "snippet": "Indian Army Debunks Claims of Chinese Forces Capturing 50 Km of Arunachal Territory, Flags Coordinated Disinformation Campaign Northeast Live",
+      "publishedAt": "2026-11-08T08:47:28.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Diwali 2026 marks first year India is free from Naxal and Maoist terror after decades - India Today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPek1kYkgySGNaSmpiSzdlSzZnMExKdERoU25iNmtEcWlCVnY0RFdOTmFxa181M1hzc3N5MFNPeWp3SzhQZ19iN1B3Szl2d3hmcFY0ZF85VmRwTjc2UUtSNFRxZW40Z0FrTk1lNENDSWl5RVJ4bVJHMFJVUU84UnAxdm5mUDMtZXJpX3BGeFJ3T21SRGtxU0JETDRzQUNpNWxqYm5MNUJCZktJWS1ZOC1iRTZiMXBGSklsMTdBYWVQNFR5QnZxR25qc00wb2FyZ9IB0wFBVV95cUxNaHNwdkRIbDVrWDVtWHNCNC00X3BFWTd6WVZTQ2d6ZU5RdEs4QnhaUVBKUVlnLVhKeThvSmI5dWp3ZDhFODc3c3pVU2Q1RTY1S3dhMVVhRVg0Q1ktal94aWZUT1RKZXJaeXVSM2JORGdLSnFXYmF3NHlOa3BOZjZCbzV0YkdOSkJOSGZNQTExUnpyTHpZcU5Vc2I5RlpVRXY5dnZnenNvNFU3bkMyU3pGR2dyUmFzYXp3cU1qWC1WSW83WVhpRFVmT3VQZWpPVndkaVNj?oc=5",
+      "snippet": "Diwali 2026 marks first year India is free from Naxal and Maoist terror after decades - India Today India Today",
+      "publishedAt": "2026-11-08T08:02:13.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nagpur MBBS Student Duped Of Rs 12.33 Lakh In Fraudulent Online Ludo Game - News Mobile",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczlnRWFXRnhYa1B6NGFxc0VvZ2E3THQ0YkY5NWl1X3RaVUROQ0ZIbmlSS3MyTU02MHlCNGZlTVUzVklDVGFRNF9BRkxhMHVIQW05ZmV0T2I2UHZJVzBZV1lsZTgtREE3Vnlyb29wem9SU3MtWTlKTEwyanJlREl5OGh3T0hMNlRmVWlxYjI0TGJFQVdZd1FRc0hpc1lGQVhaVVlSaWROWkpaNTJKUzZYTE0xS051dw?oc=5",
+      "snippet": "Nagpur MBBS Student Duped Of Rs 12.33 Lakh In Fraudulent Online Ludo Game News Mobile",
+      "publishedAt": "2026-11-08T06:42:03.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Will Your Current Cheque Book Become Invalid After December 2026? Here's A Fact Check - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2ZYSWpwYzdjSEJmUi1vdGRhMXp6cHFody00aWctTU9Bb1VNU0p6X3ZRbGNGSHdzcHNFbE5wUGhXWUg1RGJPWjRTYkJUQXlFaDZLSlRvTDM5WjZHSmtzMk9MS0oyOUpRWkV0M1ZKdkxXRmNxZWljSEJEM0FTM09EVkw3QUM0aEM3cWRIdXRGNDBOX0QwQmtheVV3TGJIRHc4NFRRZkRJZWZMeHpYbC12WUhyZVpGUdIBvgFBVV95cUxPakd0UHpOekVSUkgwQWNfaTVrUE1wZHZHRnVTdkhDSlhyNjhmR3pzRWdUOUlOWGF3cDdnc0hMcDF5ai1lVFp2S054TS1RcmtaM2pjNktQaGY2V25PTms1OWV1bjVnQ3Y3MVB3bEdPREZSeWtJVWtjUEREVXF6M3dJTzBrbXhWZEJGQUZveW4xWl9FSVhtX0tlYXFtbmFRX1ZPZVNSc201bGhXUTljS3hCOEo4dGlEWGw3ZWhRNWhB?oc=5",
       "snippet": "Will Your Current Cheque Book Become Invalid After December 2026? Here's A Fact Check NDTV Profit",
@@ -191,6 +251,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mumbai man arrested with over 20,000 child sexual abuse images and videos - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOckVOblVQbjhUZW45R0FuUVJNNWtvS2p0dDZpdmRZclZQbjhZcmpwNVgyTXlYTGJ1TVRLdjlmTXc4V1ZwUlhDZWRPeXlVTnVTZGF0M1hvRC10VDZzUkpwcVE0M1VTMFlOME1aREV3SVpJNGh3SXFoMUwxV1Z4alF0YTl2eWtJb0lRR3NBUGlYeU5IQWNsNlZuUGZiRFYxWDVjS2JyQXpBazNyM09Sc01BNdIBsAFBVV95cUxOckVOblVQbjhUZW45R0FuUVJNNWtvS2p0dDZpdmRZclZQbjhZcmpwNVgyTXlYTGJ1TVRLdjlmTXc4V1ZwUlhDZWRPeXlVTnVTZGF0M1hvRC10VDZzUkpwcVE0M1VTMFlOME1aREV3SVpJNGh3SXFoMUwxV1Z4alF0YTl2eWtJb0lRR3NBUGlYeU5IQWNsNlZuUGZiRFYxWDVjS2JyQXpBazNyM09Sc01BNQ?oc=5",
+      "snippet": "Mumbai man arrested with over 20,000 child sexual abuse images and videos Social News XYZ",
+      "publishedAt": "2026-11-08T01:36:31.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
@@ -212,6 +287,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "From fake deals to deepfakes: How cybercriminals are exploiting festive shoppers - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdHQxNXk3a0dPT1lUVWdDM3RHSWVUc3lpdUktMkFyQTlhOHRXWko0T2dvc0xRXzBvdmhHOGQ5dmEtelhiT1E1MHRBQ3EzdEp3a05YdWV1OUMtVzJUcW1wVUwtWWRWZFAwWXBZVmp6YmJWWE5wOThlU3NaZGlGZGFMTFVPelFqb01fU0ZzTzNOZ3k1N3lZMEJlUjl4UnJ6RHJPMngtMHBYbmFJQlVtVnBPVHgtdnpVdFcxcjFOeU10bjdBMU8td2JtQdIB1gFBVV95cUxNVk1YcmMzaXdtSnUyMUtfODJ6WG0xQjVLNUVGZzU4bmcwaU1WZmVGV21kVU94enlCZnRUbGFSOGpRMkJMS3NEbGwtY3hmQTlXRGI3VDdycEpJV000RHJzLU9pSHFLV1poYTFobUhHeE1RLTczSjFQYWM0bkk2OWd3Ym9rU3lmM2dUdzdyd3E5XzA2TFN0eU9Gd1dlMmdFVDQzalpSaE9Uc0pjOEJjZ3MxMEhlMHNUZ1M5cWlCZmhRQjNIYkpsQXQ3R2N6QXRlbFlDMGVjUDln?oc=5",
+      "snippet": "From fake deals to deepfakes: How cybercriminals are exploiting festive shoppers Fortune India",
+      "publishedAt": "2026-11-08T07:30:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Defence Minister Rajnath Singh Warns of New-Age Warfare: Cyber Attacks, Drone Swarms and Misinformation Now... - NE India Broadcast",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZk9CSGN2YnhmZk02U3ktT1IwY2lVaEhYYUU0VUp2dmwyNVE1bE5RcmdWb2VSSlFUTXQ4Qi0yNzI4T3RDQUhEajlEdm9XZC1pVVZRV01YMmxJTUwxQXN1WHFfcTlTTHpQSGN2b2hqczFuU0xCSExPMDl4SU1SOFp4MGRwdVFLQUkycWpleWpHZnlxMEpUSW40S1k4UUZDQXV3TnptcHlrTnp4TjFJVDJWamJDWUZsQU80VVRQTEFfM0FNbV9NSXBrcm9rYzE4VUpGRFlnbzZ3N1N3Uk9IaFh6OGhTcGpWc3N4ZXhvUEhKRG5XOUd1VlBmMnV30gH_AUFVX3lxTE9tZFdsbFJRVGdyM0pOaVR6WWg2aVpZMmFNTDFaY1pVOEs4WjJFQjdWRXZjV0FDQ0FoQnFYdWJpWE9Ba0tOVjNUSWVSU3BkVmhod2Y1NC1EdUlMRGt5Q0d2bE83OTlvMk91SF93dEZFNzJtMjZuVkpRSWpfUTh4NF9CdDJkVlBINnJVSTN4X1ptdU5sT3otQWlITDJ1NVBXUkZWRzFxUXF2bnVueW5DNUZQV2t5bXhjZlBsbzJwXy00dm9wWVZEZmYtVFlsckJEdTRaYVdwOWh4SW8yV2twaWxQandYdnZEdjhOZVZ2cTJHenA2UkhwNHlpeHRpQjh4TQ?oc=5",
       "snippet": "Defence Minister Rajnath Singh Warns of New-Age Warfare: Cyber Attacks, Drone Swarms and Misinformation Now... NE India Broadcast",
@@ -227,6 +317,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Mark Cuban Accuses Facebook of Running AI Deepfake Scams as $16 Billion Revenue Estimate Emerges - TechStory",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGlZbXFjTl9hNjBzcGZwUWR1TFBRMzlmWTJQQ3NyVkJnbGc4WFEwM3pOQ04ya2E2WWs0R0xPX05hUUZ4bjZfNm5KT09DV2t2eHpwb3FsbnZNajhDaG4wZmtJTVI2RTJSRlpJR28wc0o3MXJ6UG5jekE4NEhnME9tVjQtaWhJNVd1ZWhleGVTMTFmMmxrTFZEbGxDcDdCdjR1N1hKM05jVVZLc2gtb3JDR2c0NVUyYlRx?oc=5",
+      "snippet": "Mark Cuban Accuses Facebook of Running AI Deepfake Scams as $16 Billion Revenue Estimate Emerges TechStory",
+      "publishedAt": "2026-11-08T09:04:54.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PM Modi Diwali Gift Claim Turns Out To Be Fake; Cyber Police Warn Against Fraudulent Links - News Mobile",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmFneWVyN2xDa095Z2l0RS1VRkJ6d0NIaFRtTDZuT2M4UnBWVjdUYXI4SFM0ZVBvTjNTamZCSFJxeXdWYTBYMGsxZGxycUtMSGl0U2ZEeGxLNXlXbkhiTUhESjNwX29PWi1UR28xOTZ1WEFtTnZsN2hwNy03QzV4UUp0UzNrUDRTbWdydDIzQXNtZkdFNXI4WmRjd1ZfeVF2REFGdjRyZVY0THRmLThPRTdyRmthRVNoYUNETy1xTEhpaHFfY08xaXBQTQ?oc=5",
+      "snippet": "PM Modi Diwali Gift Claim Turns Out To Be Fake; Cyber Police Warn Against Fraudulent Links News Mobile",
+      "publishedAt": "2026-11-08T07:05:11.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fake Rs 8,000 PM Modi Diwali gift scam: Cyber police warn against malicious links - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV0FxZ1AwWTJ6Z2Z6TlM5UEdETXdaRUdkbC1MendJaGF1SEd1WEZ2MFpIb001VXVSNkxLWFpsYWlfSk1wYUhyVVFHejg4V2FPNlRKSFFDV0hnaFdyQVF5NEdYOXV1dmZVay1lNWtpbU9XU1E0OEpQY1dmSGc5Ylhtc2FsMGFram9UV1VWT3RTUXJVa01KVGRmbEMzV0tuM2pfWnN1UTZxT0xieXh5NS13ZUw0Smh0UEl0cVdoUnNMZU9WWEVuUTV6V1JybjFQdGfSAdYBQVVfeXFMUGFuU3FsUVlMdTcwa3REQ2lldDhZNFhQX0dsc1RyYnVfcXNPQ3hVZGJ6dlh6akZ4WS15bkM0NXN6NkQ2RzdMbDYyY3lteHN2UUpvNGpEd1NvX05oM0Z5M1ZSaWx5eDE4Nm9Vb1ZIWnQ0bWlzaTJlc1FlcVZoNFlXdXh4TFk0Q1VOeG1lY3BBY0E1dVI5UG5LNlNQOG1mTDZBV0hCc1hMZXc4SlloYWRkZjB4S25OQ21MQVdlTFd5ODRSOVdFTlh3czJNYVNmX3ZMcTNITVhZUQ?oc=5",
       "snippet": "Fake Rs 8,000 PM Modi Diwali gift scam: Cyber police warn against malicious links The Indian Express",
@@ -236,6 +356,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Death threats against Mahama amount to ‘brazen criminality,' not free speech – Kwakye Ofosu - Adomonline.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEFtTFZJR0MzTDRxTTJBcVlidUNmSS1TM3Zzd19EVThjRThMMHBsa1Y3ang3Q01Wb2tleDBMdWI2blBpWVp4MzlDcnlWMTNNNFIzZ1FxLUkxLWlSSF9yUzBBX3pYUFVQMUNpaGVsWFJkWW83RF95Y1diRjQ1dWp4RGJqV2VzOUJBVlhJNW9CLUtXOTBuTURDM3pKaks2Tk9MaVctNUF4Wlc0MXh0UVktZFRxU1A?oc=5",
+      "snippet": "Death threats against Mahama amount to ‘brazen criminality,' not free speech – Kwakye Ofosu Adomonline.com",
+      "publishedAt": "2026-11-08T02:28:08.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
