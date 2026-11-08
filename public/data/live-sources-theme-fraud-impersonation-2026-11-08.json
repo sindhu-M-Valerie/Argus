@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:08:23.811Z",
+  "generatedAt": "2026-11-08T06:25:54.772Z",
   "snapshot": true,
   "date": "2026-11-08",
   "filters": {
@@ -7,23 +7,23 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-08 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 67
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 19
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 18
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Cheap Online Deals and Free Gifts May Be Scams: Seven Platforms Remove Nearly 295,000 Fraud-Related Accounts - 新住民全球新聞網",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREo5aG5paG01NzBLOURyVi1sUlhhSlJNU1F0Y0VzQXhxZllzdy1mWmZkSHc4QkVkb2FxMzNXdXFHbGt5ZEQtblQ1Um16Zll3TWt5d1dBclQ0TkNXQ29lWkFqV0l1bFREVzNrT2wzVzRhbFA0cmpXSGZseFplLTFjSGpJZ3lnOHgtbXY0NzJXc3QtZjM5c2dNUmlOYw?oc=5",
+      "snippet": "Cheap Online Deals and Free Gifts May Be Scams: Seven Platforms Remove Nearly 295,000 Fraud-Related Accounts 新住民全球新聞網",
+      "publishedAt": "2026-11-08T01:05:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Rs 8,000 PM Modi Diwali gift scam: Cyber police warn against malicious links - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV0FxZ1AwWTJ6Z2Z6TlM5UEdETXdaRUdkbC1MendJaGF1SEd1WEZ2MFpIb001VXVSNkxLWFpsYWlfSk1wYUhyVVFHejg4V2FPNlRKSFFDV0hnaFdyQVF5NEdYOXV1dmZVay1lNWtpbU9XU1E0OEpQY1dmSGc5Ylhtc2FsMGFram9UV1VWT3RTUXJVa01KVGRmbEMzV0tuM2pfWnN1UTZxT0xieXh5NS13ZUw0Smh0UEl0cVdoUnNMZU9WWEVuUTV6V1JybjFQdGfSAdYBQVVfeXFMUGFuU3FsUVlMdTcwa3REQ2lldDhZNFhQX0dsc1RyYnVfcXNPQ3hVZGJ6dlh6akZ4WS15bkM0NXN6NkQ2RzdMbDYyY3lteHN2UUpvNGpEd1NvX05oM0Z5M1ZSaWx5eDE4Nm9Vb1ZIWnQ0bWlzaTJlc1FlcVZoNFlXdXh4TFk0Q1VOeG1lY3BBY0E1dVI5UG5LNlNQOG1mTDZBV0hCc1hMZXc4SlloYWRkZjB4S25OQ21MQVdlTFd5ODRSOVdFTlh3czJNYVNmX3ZMcTNITVhZUQ?oc=5",
+      "snippet": "Fake Rs 8,000 PM Modi Diwali gift scam: Cyber police warn against malicious links The Indian Express",
+      "publishedAt": "2026-11-08T05:59:09.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Penang police bust 14 online scam call centres, 141 arrested - The Sun Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt5NVJualFUaDZTS050WlBDeDJXbEpzRVFnQkJIQ2l2a2NuWXdWaUQ3cTJYNkZCMm4tMlFEbWdFOFlGRWdkb1g4V1A0eEN2WlhfV1lGbmRPdFQxQVhxaEx1blhONTREYXNBVjVobjJ6eXNnbmI2V05teV9EX2xVckpSMk8xekRocGpHUXk5eEpVbU5nM1d0YTZhTkFYZw?oc=5",
+      "snippet": "Penang police bust 14 online scam call centres, 141 arrested The Sun Malaysia",
+      "publishedAt": "2026-11-07T21:44:40.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

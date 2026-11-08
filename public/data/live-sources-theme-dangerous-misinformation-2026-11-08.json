@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:08:23.811Z",
+  "generatedAt": "2026-11-08T06:25:54.772Z",
   "snapshot": true,
   "date": "2026-11-08",
   "filters": {
@@ -7,23 +7,23 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-08 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 67
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 19
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 18
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Will Your Current Cheque Book Become Invalid After December 2026? Here's A Fact Check - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2ZYSWpwYzdjSEJmUi1vdGRhMXp6cHFody00aWctTU9Bb1VNU0p6X3ZRbGNGSHdzcHNFbE5wUGhXWUg1RGJPWjRTYkJUQXlFaDZLSlRvTDM5WjZHSmtzMk9MS0oyOUpRWkV0M1ZKdkxXRmNxZWljSEJEM0FTM09EVkw3QUM0aEM3cWRIdXRGNDBOX0QwQmtheVV3TGJIRHc4NFRRZkRJZWZMeHpYbC12WUhyZVpGUdIBvgFBVV95cUxPakd0UHpOekVSUkgwQWNfaTVrUE1wZHZHRnVTdkhDSlhyNjhmR3pzRWdUOUlOWGF3cDdnc0hMcDF5ai1lVFp2S054TS1RcmtaM2pjNktQaGY2V25PTms1OWV1bjVnQ3Y3MVB3bEdPREZSeWtJVWtjUEREVXF6M3dJTzBrbXhWZEJGQUZveW4xWl9FSVhtX0tlYXFtbmFRX1ZPZVNSc201bGhXUTljS3hCOEo4dGlEWGw3ZWhRNWhB?oc=5",
+      "snippet": "Will Your Current Cheque Book Become Invalid After December 2026? Here's A Fact Check NDTV Profit",
+      "publishedAt": "2026-11-08T01:42:07.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Defence Minister Rajnath Singh Warns of New-Age Warfare: Cyber Attacks, Drone Swarms and Misinformation Now... - NE India Broadcast",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZk9CSGN2YnhmZk02U3ktT1IwY2lVaEhYYUU0VUp2dmwyNVE1bE5RcmdWb2VSSlFUTXQ4Qi0yNzI4T3RDQUhEajlEdm9XZC1pVVZRV01YMmxJTUwxQXN1WHFfcTlTTHpQSGN2b2hqczFuU0xCSExPMDl4SU1SOFp4MGRwdVFLQUkycWpleWpHZnlxMEpUSW40S1k4UUZDQXV3TnptcHlrTnp4TjFJVDJWamJDWUZsQU80VVRQTEFfM0FNbV9NSXBrcm9rYzE4VUpGRFlnbzZ3N1N3Uk9IaFh6OGhTcGpWc3N4ZXhvUEhKRG5XOUd1VlBmMnV30gH_AUFVX3lxTE9tZFdsbFJRVGdyM0pOaVR6WWg2aVpZMmFNTDFaY1pVOEs4WjJFQjdWRXZjV0FDQ0FoQnFYdWJpWE9Ba0tOVjNUSWVSU3BkVmhod2Y1NC1EdUlMRGt5Q0d2bE83OTlvMk91SF93dEZFNzJtMjZuVkpRSWpfUTh4NF9CdDJkVlBINnJVSTN4X1ptdU5sT3otQWlITDJ1NVBXUkZWRzFxUXF2bnVueW5DNUZQV2t5bXhjZlBsbzJwXy00dm9wWVZEZmYtVFlsckJEdTRaYVdwOWh4SW8yV2twaWxQandYdnZEdjhOZVZ2cTJHenA2UkhwNHlpeHRpQjh4TQ?oc=5",
+      "snippet": "Defence Minister Rajnath Singh Warns of New-Age Warfare: Cyber Attacks, Drone Swarms and Misinformation Now... NE India Broadcast",
+      "publishedAt": "2026-11-08T02:14:29.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

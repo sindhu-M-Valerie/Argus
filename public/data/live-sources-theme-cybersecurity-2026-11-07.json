@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:08:23.811Z",
+  "generatedAt": "2026-11-08T06:25:54.772Z",
   "snapshot": true,
   "date": "2026-11-07",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 7
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 66
+      "itemCount": 67
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 19
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 18
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTkpnMWRRVmYydWp5UlUtVVIyQl9TRWxELXBITHBmdERhWFVSU0VKcmFTblgxY3lmWnFyTmdTdVBIU0J6azNvS2JUelJoaXNrTFAxX2x2U3NyU0hCYUN4azBOTi14WHlJ0gFuQVVfeXFMTXVSUmtscFVkOWF2eENtXzVENnktUDRrTXRKQ3pQbm5MMkdoSHpIUnFVUE5oYUpQT3lVRUhPbTVCYTl4blhmdzFVYmN2OVJzaTVMbVZneTJGaGxPcFRMUmEtbTE5eVlGMXNPOWU0Q1E?oc=5",
+      "snippet": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools CyberSecurityNews",
+      "publishedAt": "2026-11-07T02:03:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Vanguard Group data breach exposes Social Security numbers in Vermont - Beinsure",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWZnSERsQzAtXzRtQklhUVdRWkR4Q3FWUlNyUmdjU1BRYko4ZTJGVHZuNDh3OGw4a29Md1NaYlk4OURwRFpEOGRUT0NUNmtDSmVBUE1JUHZ4U3ozdDlGb01nVlNHYkxCYlVPV2tqM3lhbTFsRE9yUlZNdEJfc09hdXRUTHlqUHdFRzR6LXdDcWozTXI3QTRRSi1VSnI?oc=5",
       "snippet": "Vanguard Group data breach exposes Social Security numbers in Vermont Beinsure",
@@ -206,6 +221,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cyberattack on French blood banks exposes insurance and healthcare refrigeration risks - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmU3ZHdRR0lPYlpRZmxhZHRsUi1nM2YxU2pzZGNtcThhQ0lSR3NYa0k1TkJtSEdFNWVfd2VJVHM5N3lMZGpaUE1Ya1k3djl2cTZQd3Nmd1RuOXk0UGkxMnJKZ3dRMWV2Mi1WdEdyZEQ0ak9HUE9VUlhRWXZySDMtZWtIX3NocWJHSXphcVVDdWFCRi1wVDczeVlVY1g1WHJi?oc=5",
+      "snippet": "Cyberattack on French blood banks exposes insurance and healthcare refrigeration risks Beinsure",
+      "publishedAt": "2026-11-07T12:37:52.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",

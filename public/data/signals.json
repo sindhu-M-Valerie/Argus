@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:13:05.412Z",
+  "generatedAt": "2026-11-08T06:30:24.258Z",
   "windowDays": 7,
   "endDate": "2026-11-08",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 96,
+      "totalArticles": 99,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -27,
-      "reason": "Last 3 days averaged 11.3/day vs 15.5/day before.",
+      "changePercent": -20,
+      "reason": "Last 3 days averaged 12.3/day vs 15.5/day before.",
       "daily": [
         {
           "date": "2026-11-02",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-11-07",
-          "count": 18
+          "count": 19
         },
         {
           "date": "2026-11-08",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -113,12 +113,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 83,
+      "totalArticles": 87,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -63,
-      "reason": "Last 3 days averaged 6.0/day vs 16.3/day before.",
+      "changePercent": -55,
+      "reason": "Last 3 days averaged 7.3/day vs 16.3/day before.",
       "daily": [
         {
           "date": "2026-11-02",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-11-07",
-          "count": 6
+          "count": 7
         },
         {
           "date": "2026-11-08",
-          "count": 0
+          "count": 3
         }
       ],
       "topArticles": [
@@ -164,6 +164,22 @@
           "source": "Google News • Fraud and Impersonation",
           "publishedAt": "2026-11-02T07:17:05.000Z",
           "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Cheap Online Deals and Free Gifts May Be Scams: Seven Platforms Remove Nearly 295,000 Fraud-Related Accounts - 新住民全球新聞網",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREo5aG5paG01NzBLOURyVi1sUlhhSlJNU1F0Y0VzQXhxZllzdy1mWmZkSHc4QkVkb2FxMzNXdXFHbGt5ZEQtblQ1Um16Zll3TWt5d1dBclQ0TkNXQ29lWkFqV0l1bFREVzNrT2wzVzRhbFA0cmpXSGZseFplLTFjSGpJZ3lnOHgtbXY0NzJXc3QtZjM5c2dNUmlOYw?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-08T01:05:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "AI-driven executive impersonation scam steals $129 Million - Digital Watch Observatory",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMHhoQWNTYWd5UTFjWExoZzFESVdjVVVSOGdIUmx4dVV5cXFqZGtzcnJIYVVnYVJPVGpoa0otaFFrS3hRaHFNcXgzZW9kWWVia0pBVGphdUFxX3l5ZzBRb0RqNHpLdEw4MjJkNjh2VUZmbjB4ZjVQNy1MUUE1UExyVw?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-07T09:31:39.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -197,34 +213,18 @@
           "publishedAt": "2026-11-06T16:44:00.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "FSCA warns of investment scams impersonating legitimate financial firms - IOL",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTA3Zm1iQWRabEo1TFBpYW55c3Y4cy04MXlReTFiMi1CckxFQ283RlpBelFiN3Vrd2xzOVpCS2dEYUJ1a3lDX1BaQTVUWE8zcHpkYWxEb3lkaFJVeVJxTllvV2k3MUV5SWNnUlFENTlhU3FLOGhPVm1iSmVBNVl5aVgydnpZQlV2bFpZd3otS3Z1RjR0WE9YcXBWSkFTTUVrajZxM08tQ1lVTkZ5Zi1v?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-06T15:21:35.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Only 4% of Malaysians Feel Their Phones Are Very Safe From Scammers: Versa Urges Caution This 11.11 - BusinessToday Malaysia",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlI0TVppOWIwckRmZ01uaHJpdTVxOVNJbnZIUGlLd0EtbmlnSHE1U0pQOFNtUFRzTFNaUG9qQWE5ekl0UkFuR05jS2lKbjFXSE44Q09zQm1LNmxwYkRWeDBxNFpiQzk3M29aX0ZFeWhpQU5rc1REdUxRSjF2dWxhckJuUG5rZjAxNm40RDMtRFBkN0RYWkNxMXRCbVZ5NkhLSFpqS1Y1b0N3RHBrNFNlLUlVcU0takVPRXc5S0VWaVozRkt5eDZsSjNZQ3BNSkFyaWtnbUpFTjBhdw?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-06T03:50:08.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 78,
+      "totalArticles": 80,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -48,
-      "reason": "Last 3 days averaged 7.3/day vs 14.0/day before.",
+      "changePercent": -43,
+      "reason": "Last 3 days averaged 8.0/day vs 14.0/day before.",
       "daily": [
         {
           "date": "2026-11-02",
@@ -248,7 +248,7 @@
         },
         {
           "date": "2026-11-07",
-          "count": 7
+          "count": 9
         },
         {
           "date": "2026-11-08",
@@ -256,6 +256,14 @@
         }
       ],
       "topArticles": [
+        {
+          "title": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTkpnMWRRVmYydWp5UlUtVVIyQl9TRWxELXBITHBmdERhWFVSU0VKcmFTblgxY3lmWnFyTmdTdVBIU0J6azNvS2JUelJoaXNrTFAxX2x2U3NyU0hCYUN4azBOTi14WHlJ0gFuQVVfeXFMTXVSUmtscFVkOWF2eENtXzVENnktUDRrTXRKQ3pQbm5MMkdoSHpIUnFVUE5oYUpQT3lVRUhPbTVCYTl4blhmdzFVYmN2OVJzaTVMbVZneTJGaGxPcFRMUmEtbTE5eVlGMXNPOWU0Q1E?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-07T02:03:45.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
         {
           "title": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools - CyberSecurityNews",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTkpnMWRRVmYydWp5UlUtVVIyQl9TRWxELXBITHBmdERhWFVSU0VKcmFTblgxY3lmWnFyTmdTdVBIU0J6azNvS2JUelJoaXNrTFAxX2x2U3NyU0hCYUN4azBOTi14WHlJ0gFuQVVfeXFMTXVSUmtscFVkOWF2eENtXzVENnktUDRrTXRKQ3pQbm5MMkdoSHpIUnFVUE5oYUpQT3lVRUhPbTVCYTl4blhmdzFVYmN2OVJzaTVMbVZneTJGaGxPcFRMUmEtbTE5eVlGMXNPOWU0Q1E?oc=5",
@@ -309,14 +317,6 @@
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hMEJTVGlLb240SHM4YlMwZklKM29FUU5DeGEtMzBSenlEMFRIa3ZmRnJPZVhxQ3RyemdPNEx0R1AzaGRVcHlkN19oTmZMTG1HekRwZjR0T1RRakJEMlHSAWNBVV95cUxNWlUwcjctS3pqYm43U05nS1ZFVE1qVFZTMUZVdVFhQUpETHdOQUFGd3JDVldETmh4VXh0dnUyQ2Z1blpjQm5LZXdMYTRyLVdLZGFjbWdMdDh3VUFjVkwzRWZOMk0?oc=5",
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-11-04T22:20:19.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-04T19:11:50.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }
@@ -853,6 +853,88 @@
       ]
     },
     {
+      "theme": "violent-speech",
+      "label": "Violent Speech",
+      "totalArticles": 5,
+      "distinctSources": 2,
+      "highRiskArticles": 0,
+      "trend": "Stable",
+      "changePercent": -11,
+      "reason": "Last 3 days averaged 0.7/day vs 0.8/day before.",
+      "daily": [
+        {
+          "date": "2026-11-02",
+          "count": 1
+        },
+        {
+          "date": "2026-11-03",
+          "count": 0
+        },
+        {
+          "date": "2026-11-04",
+          "count": 1
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1
+        },
+        {
+          "date": "2026-11-06",
+          "count": 1
+        },
+        {
+          "date": "2026-11-07",
+          "count": 0
+        },
+        {
+          "date": "2026-11-08",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Threatening to kill the President and his children is criminality, not free speech – Kwakye Ofosu - MyJoyOnline",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSW1COXZKWDlpNVhMMzJlbDdQRDlpaGV5YXNDTXhfWGFGNXRPRlI5a3ZBcXFtenhHVEs5eTRiMl82ZzBNMi1LRF9KNmM4MFdERkhKVFZjT1pqaGpCWjF6QTJLc0VZMldCNEV4bXpmQVI1cGlmVnhHYlVNV1dZZjkxSWFJZEJ0T0E0b0ZhV3JWX0NDMEU0dkV5M3V0eEFlc3lndGllWDdNamVKM1YxbFFiMU81ZkRRX1Y1V3BMZWVEQ1o?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-07T23:45:13.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Tanzanian opposition leader found guilty of incitement - MyJoyOnline",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclBNaWlKTk1ER25RTjRaMlJrRFY3TE5zMTV2YmRSQm9SblBuN2dwVHA1dUxxMkhRMS1EeHQwVTdmZUpqbnZ5VDlUTnZhYzVFYmNoMThUQUxvRENiajN1aTVkTHVUdzVHVEtHa2dWV3lGLVRial9FcHEzUk4xdkd3RVlkTGtoWVhiRXk4?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-06T12:01:12.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "West Bank teacher arrested on suspicion of online incitement - The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT2FlSVE4WEdGR0ZQVkh3a3lMSjVMZy1kRjBPRm1rOThyMGRZdV83bWxZRUtNSzdtcTJVSFNEMjJ3Q3RsR1IwZERoMVp3Tmt3cUJRamJ2bVdfUG1QVVZvY2NXM0l2YzhfZ1FycjVVUEI4UQ?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-05T05:22:33.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "British No. 15 Jodie Burrage reveals horrific social media death threats after losing to India's Vaishnav - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX2hVQnpIR0k0dHlZUVpoUmZicVdISFNGX0xDbXhuSDlOdVc0ZVVBTDVYemt3ZFZ5N3FtbFk4elNYdUlKcmdCQnBWNG1xNHNDT0hQS3o0TDloQ2ZDeHdxMTdxLVF5a1RoMUhyQllndG5HZUo4bDk0bmlfbExFTzBnTnFPUnRlN0ZwZ2VSR090eTBYMzVabFRfZlIzYUhuVkdoQVFnQUk3aUYxNnlCQU40Y2ozSFBTc1lCU1NwcE1VcUhhc0M1enVSLWRTUVJPUDRyaHpFcVZ2YjZZWVFkTy0wOWw5cDNHTjFiUHBDclN1aXJBQk1OcW12QXp1UVVfTVVidERrMHhWQVg4Q2E2MUFtX3U3a0lZc3pJVXQwbmg4RnBOSVFGUTMwdFRMSEV5R1ZJXzlMNl9DcUQ3MktPaHREdFp5UdIByAJBVV95cUxPSUhnU3JBRzBHNVJDTHl2QjFya2RhejN0MEZoX25rSWZGR1ZpaXpjWUNIY3ZvWTg1bTVSTm55cWlpWVVwZEF5cndCOGUxMGdZZXA4aEE4UC13cUJpVmZxdDVCZ1JSSmJZNFVTRWJLM1pSZDEzdV9sblBhVTJWQ3psY2JONzgyZW5sRU53eVRoVGlFMzlzcDlJVEZvakp4VzV1cVl4bUd3ak0yZUpxZ3NOSU5BS1B4YXdURjVLLWdDWXh1MDdmMXphREVBODZPdklrU0dPYW5LdlVLNXMtQU85NTUxOVJrN0VIM3U1b2R2bGVVckVlOHBid2JvTDRzOElGZmlqSmkxNzZweVFhR3FtRzdidTlpOVc0RTlkblViUWtQWldycUJyOUk3VHdVbHA4R2hnREYyb2tIN2JpWTNFYTNWT2VhM05J?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-11-04T10:09:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "TikTok Creator Arrested for Alleged Incitement Against KZN Police Commissioner - Joburg ETC",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnh3ZnZ2S210aUlzdXU2cUtBNGJUN0YwRGNldElLNjFGcGREVFBTUWduaUVSSDVmMWt5VEhhV0l2WTA5bkVWbGwwTnZVdG9BczI2NkkyemE3NFZmQXBCbjd2YTlINy10ajJOZ3FlMndZYmh3RnI2RWFydlJoc0thSU81OFRVTzh3MGI4UXNHRUNhRzFtWTAwLQ?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-02T07:30:11.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "human-trafficking",
       "label": "Human Trafficking",
       "totalArticles": 4,
@@ -922,80 +1004,6 @@
           "source": "Google News • Human Trafficking (South Asia)",
           "publishedAt": "2026-11-05T12:18:28.000Z",
           "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "violent-speech",
-      "label": "Violent Speech",
-      "totalArticles": 4,
-      "distinctSources": 2,
-      "highRiskArticles": 0,
-      "trend": "Low volume",
-      "changePercent": null,
-      "reason": "4 articles in 7 collected days.",
-      "daily": [
-        {
-          "date": "2026-11-02",
-          "count": 1
-        },
-        {
-          "date": "2026-11-03",
-          "count": 0
-        },
-        {
-          "date": "2026-11-04",
-          "count": 1
-        },
-        {
-          "date": "2026-11-05",
-          "count": 1
-        },
-        {
-          "date": "2026-11-06",
-          "count": 1
-        },
-        {
-          "date": "2026-11-07",
-          "count": 0
-        },
-        {
-          "date": "2026-11-08",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Tanzanian opposition leader found guilty of incitement - MyJoyOnline",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclBNaWlKTk1ER25RTjRaMlJrRFY3TE5zMTV2YmRSQm9SblBuN2dwVHA1dUxxMkhRMS1EeHQwVTdmZUpqbnZ5VDlUTnZhYzVFYmNoMThUQUxvRENiajN1aTVkTHVUdzVHVEtHa2dWV3lGLVRial9FcHEzUk4xdkd3RVlkTGtoWVhiRXk4?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-06T12:01:12.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "West Bank teacher arrested on suspicion of online incitement - The Jerusalem Post",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT2FlSVE4WEdGR0ZQVkh3a3lMSjVMZy1kRjBPRm1rOThyMGRZdV83bWxZRUtNSzdtcTJVSFNEMjJ3Q3RsR1IwZERoMVp3Tmt3cUJRamJ2bVdfUG1QVVZvY2NXM0l2YzhfZ1FycjVVUEI4UQ?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-05T05:22:33.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "British No. 15 Jodie Burrage reveals horrific social media death threats after losing to India's Vaishnav - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX2hVQnpIR0k0dHlZUVpoUmZicVdISFNGX0xDbXhuSDlOdVc0ZVVBTDVYemt3ZFZ5N3FtbFk4elNYdUlKcmdCQnBWNG1xNHNDT0hQS3o0TDloQ2ZDeHdxMTdxLVF5a1RoMUhyQllndG5HZUo4bDk0bmlfbExFTzBnTnFPUnRlN0ZwZ2VSR090eTBYMzVabFRfZlIzYUhuVkdoQVFnQUk3aUYxNnlCQU40Y2ozSFBTc1lCU1NwcE1VcUhhc0M1enVSLWRTUVJPUDRyaHpFcVZ2YjZZWVFkTy0wOWw5cDNHTjFiUHBDclN1aXJBQk1OcW12QXp1UVVfTVVidERrMHhWQVg4Q2E2MUFtX3U3a0lZc3pJVXQwbmg4RnBOSVFGUTMwdFRMSEV5R1ZJXzlMNl9DcUQ3MktPaHREdFp5UdIByAJBVV95cUxPSUhnU3JBRzBHNVJDTHl2QjFya2RhejN0MEZoX25rSWZGR1ZpaXpjWUNIY3ZvWTg1bTVSTm55cWlpWVVwZEF5cndCOGUxMGdZZXA4aEE4UC13cUJpVmZxdDVCZ1JSSmJZNFVTRWJLM1pSZDEzdV9sblBhVTJWQ3psY2JONzgyZW5sRU53eVRoVGlFMzlzcDlJVEZvakp4VzV1cVl4bUd3ak0yZUpxZ3NOSU5BS1B4YXdURjVLLWdDWXh1MDdmMXphREVBODZPdklrU0dPYW5LdlVLNXMtQU85NTUxOVJrN0VIM3U1b2R2bGVVckVlOHBid2JvTDRzOElGZmlqSmkxNzZweVFhR3FtRzdidTlpOVc0RTlkblViUWtQWldycUJyOUk3VHdVbHA4R2hnREYyb2tIN2JpWTNFYTNWT2VhM05J?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-11-04T10:09:00.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "TikTok Creator Arrested for Alleged Incitement Against KZN Police Commissioner - Joburg ETC",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnh3ZnZ2S210aUlzdXU2cUtBNGJUN0YwRGNldElLNjFGcGREVFBTUWduaUVSSDVmMWt5VEhhV0l2WTA5bkVWbGwwTnZVdG9BczI2NkkyemE3NFZmQXBCbjd2YTlINy10ajJOZ3FlMndZYmh3RnI2RWFydlJoc0thSU81OFRVTzh3MGI4UXNHRUNhRzFtWTAwLQ?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-02T07:30:11.000Z",
-          "riskScore": 44,
           "corroboratedBy": 1
         }
       ]
