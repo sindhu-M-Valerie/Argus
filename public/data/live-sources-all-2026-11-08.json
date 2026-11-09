@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:18:24.288Z",
+  "generatedAt": "2026-11-09T06:57:49.738Z",
   "snapshot": true,
   "date": "2026-11-08",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 15
+    "total": 26
   },
   "message": null,
   "sourceStatus": [
@@ -15,148 +15,148 @@
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 52
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
       "theme": "ncii",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Dangerous Criminal Organizations",
       "theme": "dangerous-organizations",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 17
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 16
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 18
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -212,6 +212,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Tallahassee Man Sentenced to Federal Prison for Distribution of Child Pornography - Van Nuys News Press",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0cwRkhpZUh1Y2dzYk03R180QVp3dzVja2pKVGZRSDFmVGxvcFZvTUFKaFd1LUlLUEt1djRQdHMxUWt2cEQ3YVNveTVnYjBYY0VBZHNWVWVqR0xIU3RYQ1phTVFUN29YSGl1c2hGeXZJNHk4YzZ6WFljQ2xGZC12Ym9kTU92emhwRmFMcTdldVZFeG5CSjROR1NZOFZha05rQjZ2MjA1MC1ITTNfR3lVREd5LW9DZw?oc=5",
+      "snippet": "Tallahassee Man Sentenced to Federal Prison for Distribution of Child Pornography Van Nuys News Press",
+      "publishedAt": "2026-11-08T16:28:09.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Diwali 2026 marks first year India is free from Naxal and Maoist terror after decades - India Today - India Today",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPek1kYkgySGNaSmpiSzdlSzZnMExKdERoU25iNmtEcWlCVnY0RFdOTmFxa181M1hzc3N5MFNPeWp3SzhQZ19iN1B3Szl2d3hmcFY0ZF85VmRwTjc2UUtSNFRxZW40Z0FrTk1lNENDSWl5RVJ4bVJHMFJVUU84UnAxdm5mUDMtZXJpX3BGeFJ3T21SRGtxU0JETDRzQUNpNWxqYm5MNUJCZktJWS1ZOC1iRTZiMXBGSklsMTdBYWVQNFR5QnZxR25qc00wb2FyZ9IB0wFBVV95cUxNaHNwdkRIbDVrWDVtWHNCNC00X3BFWTd6WVZTQ2d6ZU5RdEs4QnhaUVBKUVlnLVhKeThvSmI5dWp3ZDhFODc3c3pVU2Q1RTY1S3dhMVVhRVg0Q1ktal94aWZUT1RKZXJaeXVSM2JORGdLSnFXYmF3NHlOa3BOZjZCbzV0YkdOSkJOSGZNQTExUnpyTHpZcU5Vc2I5RlpVRXY5dnZnenNvNFU3bkMyU3pGR2dyUmFzYXp3cU1qWC1WSW83WVhpRFVmT3VQZWpPVndkaVNj?oc=5",
       "snippet": "Diwali 2026 marks first year India is free from Naxal and Maoist terror after decades - India Today India Today",
@@ -230,7 +245,7 @@
       "title": "Nagpur MBBS Student Duped Of Rs 12.33 Lakh In Fraudulent Online Ludo Game - News Mobile",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczlnRWFXRnhYa1B6NGFxc0VvZ2E3THQ0YkY5NWl1X3RaVUROQ0ZIbmlSS3MyTU02MHlCNGZlTVUzVklDVGFRNF9BRkxhMHVIQW05ZmV0T2I2UHZJVzBZV1lsZTgtREE3Vnlyb29wem9SU3MtWTlKTEwyanJlREl5OGh3T0hMNlRmVWlxYjI0TGJFQVdZd1FRc0hpc1lGQVhaVVlSaWROWkpaNTJKUzZYTE0xS051dw?oc=5",
       "snippet": "Nagpur MBBS Student Duped Of Rs 12.33 Lakh In Fraudulent Online Ludo Game News Mobile",
-      "publishedAt": "2026-11-08T06:42:03.000Z",
+      "publishedAt": "2026-11-08T07:05:07.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -317,10 +332,100 @@
       "corroboratedBy": 1
     },
     {
+      "title": "When hackers target supermarket fridges: How cyberattacks threaten our daily life - 联合早报",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjdGSzEzTllCUFY1cnVteTdlamNfWkp1Y3VXV2JGZHBqbUJxREVMRi1XODhhR0VCMnVfTzJYVHdObWFyMUtYMHUtOWQyVlVGQ0Vyck94bXRrV1FmcWdVVXJtSmtiTUhVWng0SDdpVGw3YURPZ0FFSlpWNnpYMXM4a3pxQU05WXMtOVZFZXRVSVRRNEpDVEttWF94Mng4QzdBdk1WZFROcEc5S1Z1SDlzYmxnMlBmTWQ0ZGJCV0hyR0pEUQ?oc=5",
+      "snippet": "When hackers target supermarket fridges: How cyberattacks threaten our daily life 联合早报",
+      "publishedAt": "2026-11-08T00:39:33.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bust Fake News with Bangalore Mirror - Claim that EC removed press note on Form 6 dismissed by PIB - Bangalore Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZWVpUWpqM2tYVVJYeUpVVGR4RmxMMDFIbmJSeFZFZEFwVmhPVHJWVFJxaFRQTmY1NzQzRVBSek1IVVlfakdGeHU4NHpQdmVDLWpiTDdnRGVmU0NoSl80QkNlYnNFaGZvTjVMVFlOejNCM3F3bFNxbHp6bklCY1VoLUczQ1FJdjVDY1JHOE81a0N4Q3hyT1owZHAyUHFfb2U5WXlOY0dRUlRHNzY1TmNJMVpUX2tqalZuZXY2UGJ4LW9CcTMyclU5UXJ6S2t5OEJmZ3F0NUxjZXJEdXVuSEtjZDZpdU82LVRHMFNfY2hPTjM2T1RYT3NlSmF1TzI2OE1xYlZWbF9EWUNyd9IBjwJBVV95cUxPNTdsVGNEN2psSkNtMHBmNklXQWhOVERqZmxycVdQT1lDNm05TFlXWklLTWRBelhFSURJeUNoRi1CXy16d2hHV3lERTNZSXczcEthUTFQZ1VkQjB3UjdQbndQZTR0UmhEQm1DTW1paHZ1X3J6U1dRRnpJdmNRQUdpZGl0ZGpaNHBjRnd4NHcxT3dHWGZOVTBWa2ZtY1EyTU8zb05HdmJEZV9VYlQySi1Dcl9pcTJnUjdhTjdWb2JZSG45Y2FOMkZmdXF2MVYtS21FS2ZLdEIxTnB1Q21VelZZenNkV0EwbjVfTWtZejdNdDlPbENHeWRVb1ptemZ4M1dwd1I0WVFvUzJzVGJtaGZn?oc=5",
+      "snippet": "Bust Fake News with Bangalore Mirror - Claim that EC removed press note on Form 6 dismissed by PIB Bangalore Mirror",
+      "publishedAt": "2026-11-08T00:30:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Defence Minister Rajnath Singh Warns of New-Age Warfare: Cyber Attacks, Drone Swarms and Misinformation Now... - NE India Broadcast",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbWRXbGxSUVRncjNKTmlUelloNmlaWTJhTUwxWmNaVThLOFoyRUI3VkV2Y1dBQ0NBaEJxWHViaVhPQWtLTlYzVEllUlNwZFZoaHdmNTQtRHVJTERreUNHdmxPNzk5bzJPdUhfd3RGRTcybTI2blZKUUlqX1E4eDRfQnQyZFZQSDZyVUkzeF9abXVObE96LUFpSEwydTVQV1JGVkcxcVFxdm51bnluQzVGUFdreW14Y2ZQbG8ycF8tNHZvcFlWRGZmLVRZbHJCRHU0WmFXcDloeElvMldrcGlsUGp3WHZ2RHY4TmVWdnEyR3pwNlJIcDR5aXh0aUI4eE3SAf8BQVVfeXFMT21kV2xsUlFUZ3IzSk5pVHpZaDZpWlkyYU1MMVpjWlU4SzhaMkVCN1ZFdmNXQUNDQWhCcVh1YmlYT0FrS05WM1RJZVJTcGRWaGh3ZjU0LUR1SUxEa3lDR3ZsTzc5OW8yT3VIX3d0RkU3Mm0yNm5WSlFJal9ROHg0X0J0MmRWUEg2clVJM3hfWm11TmxPei1BaUhMMnU1UFdSRlZHMXFRcXZudW55bkM1RlBXa3lteGNmUGxvMnBfLTR2b3BZVkRmZi1UWWxyQkR1NFphV3A5aHhJbzJXa3BpbFBqd1h2dkR2OE5lVnZxMkd6cDZSSHA0eWl4dGlCOHhN?oc=5",
+      "snippet": "Defence Minister Rajnath Singh Warns of New-Age Warfare: Cyber Attacks, Drone Swarms and Misinformation Now... NE India Broadcast",
+      "publishedAt": "2026-11-07T19:51:47.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Mark Cuban Accuses Facebook of Running AI Deepfake Scams as $16 Billion Revenue Estimate Emerges - TechStory",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcGlZbXFjTl9hNjBzcGZwUWR1TFBRMzlmWTJQQ3NyVkJnbGc4WFEwM3pOQ04ya2E2WWs0R0xPX05hUUZ4bjZfNm5KT09DV2t2eHpwb3FsbnZNajhDaG4wZmtJTVI2RTJSRlpJR28wc0o3MXJ6UG5jekE4NEhnME9tVjQtaWhJNVd1ZWhleGVTMTFmMmxrTFZEbGxDcDdCdjR1N1hKM05jVVZLc2gtb3JDR2c0NVUyYlRx?oc=5",
       "snippet": "Mark Cuban Accuses Facebook of Running AI Deepfake Scams as $16 Billion Revenue Estimate Emerges TechStory",
-      "publishedAt": "2026-11-08T09:04:54.000Z",
+      "publishedAt": "2026-11-08T09:14:33.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Hateful display has no place in US’: Congresswoman Pramila Jayapal condemns disruption of Seattle Diwali event by far-right activists - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalZCcnN2UXVxVGhPci1zRnIyNUI0TGtLUWt1Tzc0TUVocThiazFKSkIyT1M4WTEwTVlNZUdncE9uQ3ltRmJRczVEMkdJZWxsTHlIUmJIOHFoTy00NGh6MmhQTW9jaUgyXzJZME9GRlhaT3hDaGFyX2VFcG5kaEZQdGlaRl9wUEQyNnEwbTFTNnI3M1NzYWo0NmxUVm1Fdk03VmNydmRMczBiVXV5Zmhsai1KWUwyM1R5Q2l1bnZ0N0diYnMtTE5uOWh3UUxidVo5YnF5UTFybk9VSXY0TlFtUWFJb3RZSHE5d29qTnBR0gHuAUFVX3lxTE5qVkJyc3ZRdXFUaE9yLXNGcjI1QjRMa0tRa3VPNzRNRWhxOGJrMUpKQjJPUzhZMTBNWU1lR2dwT25DeW1GYlFzNUQyR0llbGxMeUhSYkg4cWhPLTQ0aHoyaFBNb2NpSDJfMlkwT0ZGWFpPeENoYXJfZUVwbmRoRlB0aVpGX3BQRDI2cTBtMVM2cjczU3NhajQ2bFRWbUV2TTdWY3J2ZExzMGJVdXlmaGxqLUpZTDIzVHlDaXVudnQ3R2Jicy1MTm45aHdRTGJ1WjlicXlRMXJuT1VJdjROUW1RYUlvdFlIcTl3b2pOcFE?oc=5",
+      "snippet": "‘Hateful display has no place in US’: Congresswoman Pramila Jayapal condemns disruption of Seattle Diwali event by far-right activists The Indian Express",
+      "publishedAt": "2026-11-08T08:41:53.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US India Caucus seeks federal hate crime probe into Aurora temple plot - New India Abroad",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdURQLXdXSmZJTHZpVEtSazVsbzEzUjh3dy1QRVNKVGYwZWNfU1FWYTZ1aVJidnpTX3F0aFBKeTE5N1ZKRl82Yjl4VDFzam13cEJjUFZvOVo1TXJOODcxTHJ0ZWtpMkpBTVMyckRBcmsyN2YyZG9UekE3eGw4b3Z3TDlzRWlwSnZoVk5NTW5EVW5sTlFvakh2TndIdURmX3JMZzVPRnNobEwteVZYRC1vWGdzcEFWOGNNWDNfY2hOTUpDZGtpc3Q0TnFIYjBPdWxM?oc=5",
+      "snippet": "US India Caucus seeks federal hate crime probe into Aurora temple plot New India Abroad",
+      "publishedAt": "2026-11-08T08:24:01.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake ₹8,000 Diwali Gift in PM Modi’s Name: Cyber Police Warn of Online Scam - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40MEp6ZTczam4zZGpsTi1JMVVZTVZHcmpPSzMtb2NxZjhBaFNqeFhqbkZGaXV2SzgyV2toRVR0NU5YYnZYclJpQTYtUEpieF9iNGN4Q1ZWVjA4NFA5?oc=5",
+      "snippet": "Fake ₹8,000 Diwali Gift in PM Modi’s Name: Cyber Police Warn of Online Scam The 420.in",
+      "publishedAt": "2026-11-08T07:32:49.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -351,6 +456,21 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV0FxZ1AwWTJ6Z2Z6TlM5UEdETXdaRUdkbC1MendJaGF1SEd1WEZ2MFpIb001VXVSNkxLWFpsYWlfSk1wYUhyVVFHejg4V2FPNlRKSFFDV0hnaFdyQVF5NEdYOXV1dmZVay1lNWtpbU9XU1E0OEpQY1dmSGc5Ylhtc2FsMGFram9UV1VWT3RTUXJVa01KVGRmbEMzV0tuM2pfWnN1UTZxT0xieXh5NS13ZUw0Smh0UEl0cVdoUnNMZU9WWEVuUTV6V1JybjFQdGfSAdYBQVVfeXFMUGFuU3FsUVlMdTcwa3REQ2lldDhZNFhQX0dsc1RyYnVfcXNPQ3hVZGJ6dlh6akZ4WS15bkM0NXN6NkQ2RzdMbDYyY3lteHN2UUpvNGpEd1NvX05oM0Z5M1ZSaWx5eDE4Nm9Vb1ZIWnQ0bWlzaTJlc1FlcVZoNFlXdXh4TFk0Q1VOeG1lY3BBY0E1dVI5UG5LNlNQOG1mTDZBV0hCc1hMZXc4SlloYWRkZjB4S25OQ21MQVdlTFd5ODRSOVdFTlh3czJNYVNmX3ZMcTNITVhZUQ?oc=5",
       "snippet": "Fake Rs 8,000 PM Modi Diwali gift scam: Cyber police warn against malicious links The Indian Express",
       "publishedAt": "2026-11-08T05:59:09.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Festive shopping online? Watch out for these cyber scams - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaklkTW8wQU11V21SeVQ0Y2REZWNEYmltcGF2bGZQbGxyeElGbmRQMlJMY3NsVkticm9vWlVPaHliREg5dDM0UHRqNG5rUGRhemEzbjBqZmQ2dGlGMmhHVnd1LW5Ub0N4dDBwV21zWHNjRTUwTkYtYkJRQk1LNUtKRzlaWDh0TTBLXzA4VWphMFFzdHFvTmRPbW5BWHdKaVpCYWFabUFMU1htWTlRZE1R0gG2AUFVX3lxTE5oRl9TOWRvNjFpNXd4ZDdlT1F5X0ZhR0szYzdCb29naThDa1hqUjJhd0JHeng4M0tGQ1JMMjZWOVgtd1RHelJhdWZfdzY0b1lWOWkyQTRhZzdYNHAxYzJ4c0p1YVpIU3J3UUZqXzZTUE1YUUVBdlY1NUc4T2p4Y3BDbzkxM192elhvakRHOGM4elVRTDhkNERqZG8wVUc2LWdEa21IZXNRZnlteVBnTVlhZzlNLTl3?oc=5",
+      "snippet": "Festive shopping online? Watch out for these cyber scams The Indian Express",
+      "publishedAt": "2026-11-08T05:03:00.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -402,6 +522,51 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DigiCert Reports Data Breach Exposing Enterprise Customer Details and Identity Documents - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3kwX0E4Xy1JX0pkVXkyZGNlczN3UjVwcDdnV3A4MVZFZHh5cFZ0aTduMExFbXZvRzZmdDNHLVdnM2xnS3o3T1NxdWxZVUVMTHFmTzZGQm1iajFaajVNLU54WDd3eDRvVE5QRXpiTmFuOV9DcUNNaUtSQmhPSlVodEl5bEd6RjdBVjdEODJZQ202VVI1TWowSEluekVoTDlvaWt6bWlWMHE4cEU?oc=5",
+      "snippet": "DigiCert Reports Data Breach Exposing Enterprise Customer Details and Identity Documents The 420.in",
+      "publishedAt": "2026-11-08T18:29:16.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Arcadia hacked, Japan's disaster alerts used to send 1.4 million phishing emails - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJDUXpMcVc1ZnJkeVk3cUREOXQ4Z01VeWtRM0Rlc0d2ZHhFZ3UzTUVCblNBNmZVVlFoTnJERVdMUTM3b1U2TGlnU3I3aVBpWEk3S0V5V0tFbEtNa2R6SmNJOF9XbEowOGlTekRBTktmb0tKTWhFOHNnc0FJRk4wUzN5RTBUX0hqcG90RVBSSjU?oc=5",
+      "snippet": "Arcadia hacked, Japan's disaster alerts used to send 1.4 million phishing emails Pasquale Pillitteri",
+      "publishedAt": "2026-11-08T13:46:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sussex County Prosecutor’s Office data breach exposes personal information - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQklNeDNFYmFUbzk0YzlmNThLZzVCRTlKZjB0ZUlYVzFhLXRnS3N5dnE2Und5Qk53SFl3SmNQa1lJMjUwN1ZHU0szMUVTeXJ5eTdpTm9Fb1pudllfSmxlOUlmZWlrRVljcEJteTBVZmlZbkpIU1lrMlQ5QjVuY2M5WGxvU2k2eW8xQVJObURCUmFPN2Uwd0dhM2hLRnpWZGRwY3c?oc=5",
+      "snippet": "Sussex County Prosecutor’s Office data breach exposes personal information Beinsure",
+      "publishedAt": "2026-11-08T11:35:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

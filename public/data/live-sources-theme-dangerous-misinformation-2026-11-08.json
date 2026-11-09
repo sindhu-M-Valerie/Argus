@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:18:24.288Z",
+  "generatedAt": "2026-11-09T06:57:49.738Z",
   "snapshot": true,
   "date": "2026-11-08",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -15,148 +15,148 @@
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 52
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
       "theme": "ncii",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Dangerous Criminal Organizations",
       "theme": "dangerous-organizations",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 17
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 16
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 18
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -250,6 +250,36 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bust Fake News with Bangalore Mirror - Claim that EC removed press note on Form 6 dismissed by PIB - Bangalore Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZWVpUWpqM2tYVVJYeUpVVGR4RmxMMDFIbmJSeFZFZEFwVmhPVHJWVFJxaFRQTmY1NzQzRVBSek1IVVlfakdGeHU4NHpQdmVDLWpiTDdnRGVmU0NoSl80QkNlYnNFaGZvTjVMVFlOejNCM3F3bFNxbHp6bklCY1VoLUczQ1FJdjVDY1JHOE81a0N4Q3hyT1owZHAyUHFfb2U5WXlOY0dRUlRHNzY1TmNJMVpUX2tqalZuZXY2UGJ4LW9CcTMyclU5UXJ6S2t5OEJmZ3F0NUxjZXJEdXVuSEtjZDZpdU82LVRHMFNfY2hPTjM2T1RYT3NlSmF1TzI2OE1xYlZWbF9EWUNyd9IBjwJBVV95cUxPNTdsVGNEN2psSkNtMHBmNklXQWhOVERqZmxycVdQT1lDNm05TFlXWklLTWRBelhFSURJeUNoRi1CXy16d2hHV3lERTNZSXczcEthUTFQZ1VkQjB3UjdQbndQZTR0UmhEQm1DTW1paHZ1X3J6U1dRRnpJdmNRQUdpZGl0ZGpaNHBjRnd4NHcxT3dHWGZOVTBWa2ZtY1EyTU8zb05HdmJEZV9VYlQySi1Dcl9pcTJnUjdhTjdWb2JZSG45Y2FOMkZmdXF2MVYtS21FS2ZLdEIxTnB1Q21VelZZenNkV0EwbjVfTWtZejdNdDlPbENHeWRVb1ptemZ4M1dwd1I0WVFvUzJzVGJtaGZn?oc=5",
+      "snippet": "Bust Fake News with Bangalore Mirror - Claim that EC removed press note on Form 6 dismissed by PIB Bangalore Mirror",
+      "publishedAt": "2026-11-08T00:30:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Defence Minister Rajnath Singh Warns of New-Age Warfare: Cyber Attacks, Drone Swarms and Misinformation Now... - NE India Broadcast",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbWRXbGxSUVRncjNKTmlUelloNmlaWTJhTUwxWmNaVThLOFoyRUI3VkV2Y1dBQ0NBaEJxWHViaVhPQWtLTlYzVEllUlNwZFZoaHdmNTQtRHVJTERreUNHdmxPNzk5bzJPdUhfd3RGRTcybTI2blZKUUlqX1E4eDRfQnQyZFZQSDZyVUkzeF9abXVObE96LUFpSEwydTVQV1JGVkcxcVFxdm51bnluQzVGUFdreW14Y2ZQbG8ycF8tNHZvcFlWRGZmLVRZbHJCRHU0WmFXcDloeElvMldrcGlsUGp3WHZ2RHY4TmVWdnEyR3pwNlJIcDR5aXh0aUI4eE3SAf8BQVVfeXFMT21kV2xsUlFUZ3IzSk5pVHpZaDZpWlkyYU1MMVpjWlU4SzhaMkVCN1ZFdmNXQUNDQWhCcVh1YmlYT0FrS05WM1RJZVJTcGRWaGh3ZjU0LUR1SUxEa3lDR3ZsTzc5OW8yT3VIX3d0RkU3Mm0yNm5WSlFJal9ROHg0X0J0MmRWUEg2clVJM3hfWm11TmxPei1BaUhMMnU1UFdSRlZHMXFRcXZudW55bkM1RlBXa3lteGNmUGxvMnBfLTR2b3BZVkRmZi1UWWxyQkR1NFphV3A5aHhJbzJXa3BpbFBqd1h2dkR2OE5lVnZxMkd6cDZSSHA0eWl4dGlCOHhN?oc=5",
+      "snippet": "Defence Minister Rajnath Singh Warns of New-Age Warfare: Cyber Attacks, Drone Swarms and Misinformation Now... NE India Broadcast",
+      "publishedAt": "2026-11-07T19:51:47.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
       "confidence": "Low",

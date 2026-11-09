@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:23:15.820Z",
+  "generatedAt": "2026-11-09T07:02:20.841Z",
   "windowDays": 7,
   "endDate": "2026-11-09",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 86,
+      "totalArticles": 90,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -48,
-      "reason": "Last 3 days averaged 8.0/day vs 15.5/day before.",
+      "changePercent": -40,
+      "reason": "Last 3 days averaged 9.3/day vs 15.5/day before.",
       "daily": [
         {
           "date": "2026-11-03",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-11-08",
-          "count": 5
+          "count": 7
         },
         {
           "date": "2026-11-09",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -113,12 +113,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 70,
+      "totalArticles": 78,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -80,
-      "reason": "Last 3 days averaged 3.0/day vs 15.3/day before.",
+      "changePercent": -63,
+      "reason": "Last 3 days averaged 5.7/day vs 15.3/day before.",
       "daily": [
         {
           "date": "2026-11-03",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-11-08",
-          "count": 0
+          "count": 4
         },
         {
           "date": "2026-11-09",
-          "count": 0
+          "count": 4
         }
       ],
       "topArticles": [
@@ -164,6 +164,14 @@
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-11-06T10:37:29.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "When hackers target supermarket fridges: How cyberattacks threaten our daily life - 联合早报",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjdGSzEzTllCUFY1cnVteTdlamNfWkp1Y3VXV2JGZHBqbUJxREVMRi1XODhhR0VCMnVfTzJYVHdObWFyMUtYMHUtOWQyVlVGQ0Vyck94bXRrV1FmcWdVVXJtSmtiTUhVWng0SDdpVGw3YURPZ0FFSlpWNnpYMXM4a3pxQU05WXMtOVZFZXRVSVRRNEpDVEttWF94Mng4QzdBdk1WZFROcEc5S1Z1SDlzYmxnMlBmTWQ0ZGJCV0hyR0pEUQ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-08T00:39:33.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
@@ -205,26 +213,18 @@
           "publishedAt": "2026-11-04T22:20:19.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-04T19:11:50.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 69,
+      "totalArticles": 74,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -69,
-      "reason": "Last 3 days averaged 4.3/day vs 14.0/day before.",
+      "changePercent": -57,
+      "reason": "Last 3 days averaged 6.0/day vs 14.0/day before.",
       "daily": [
         {
           "date": "2026-11-03",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-11-08",
-          "count": 6
+          "count": 8
         },
         {
           "date": "2026-11-09",
-          "count": 0
+          "count": 3
         }
       ],
       "topArticles": [
@@ -265,10 +265,26 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Coins.ph Warns of Rising Scams as E-Wallet Fraud Use Surges to 73% in the Philippines - BitPinas",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xLUx6OXdPZ0FTTTZtcGhMTlpCQ0lKZ2puUTlIQV9jYVBMbEVlZ2p0X2hkUklVQS1yczIzOUV1ZTQtOHF1UE5mSHRnTm9jdlFoV2o2dFJqX20?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-09T06:37:13.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "ACAMB advises bank customers against phishing scams - Vanguard News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDB1bUxwOU1kWXhBZTdQLWI3V1VPMFlId3o0X3J0b2x5TXViaXNOZmNQQ3A5LUhHOERqejQ4ejFnNERZU3Exdm1zU3BPZFNGblVMb1lreFc1ckhqVS1aaWs1RzV6djAtSXIxMTVrbmVMTFJmM0ZGbGd2U3FvY09pUklPWXROZTJrZm1tYmZRaHF5UdIBlwFBVV95cUxPbmdKdHgtaElET0pWdDVuQlJ4TUdndDQ4YmYwUi1EVHREcjFJcjdlMDJTZC1rSlBxdXRibUc1eFFVWk05SlRRTFg1dHJBUHYzOGpEWWUydDllc0JmUng2a3JYSEhsUDFPdWdKa0huUUdCeDIyYmdrX1RlQXFPRkh2QXNkVkFBR05sQ19GMGUxV3FkVko0N2U4?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-09T06:17:14.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Nagpur MBBS Student Duped Of Rs 12.33 Lakh In Fraudulent Online Ludo Game - News Mobile",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczlnRWFXRnhYa1B6NGFxc0VvZ2E3THQ0YkY5NWl1X3RaVUROQ0ZIbmlSS3MyTU02MHlCNGZlTVUzVklDVGFRNF9BRkxhMHVIQW05ZmV0T2I2UHZJVzBZV1lsZTgtREE3Vnlyb29wem9SU3MtWTlKTEwyanJlREl5OGh3T0hMNlRmVWlxYjI0TGJFQVdZd1FRc0hpc1lGQVhaVVlSaWROWkpaNTJKUzZYTE0xS051dw?oc=5",
           "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-08T06:42:03.000Z",
+          "publishedAt": "2026-11-08T07:05:07.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         },
@@ -303,34 +319,18 @@
           "publishedAt": "2026-11-07T00:13:35.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Government Urges Social Media Platforms To Act Against Digital Arrest Scams - The 420.in",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDAwVXp0Z2M2VnlwamcwdkduZ01CbEgteHR0TU1CazE3bnd2aC11QkJ4cnVKV1ZvMk9hZFdoUmpqbXdQYlg5ZzhSTVVTUm5MY0JZSk9TR0x3cThnWl9Rd2ZScDZkQ09FUlc1azVNN01CTVE3U3V2WHhBS2xCUUVkLXVvNnNUSTZjYjFPdVpaV3NuRTJ2QktkOXB3?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-06T17:22:03.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Meta says AI helps it fight scammers as Poland pushes for €250m fine - TVP World",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnlNZmZ6OTZCQWh0M3psR0pocF9kM2ZtTjh6eGFqVFkwQTdmQzlEWmZiZGMtekE0ajNrYXQ4ZHE5ZWpWM2xxbTN0d2pRQTZGbWNweUs1QW1tX2wyaENJMzZFS2JCUGZtRWtkdHJwb3h6MjdzUnNwa2NJVV81RTE3UEFVYkxnQzY4RzRLUGs1LUFFQXRCSUVXUFhSYVg?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-06T16:44:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 50,
+      "totalArticles": 53,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -82,
-      "reason": "Last 3 days averaged 2.0/day vs 11.0/day before.",
+      "changePercent": -73,
+      "reason": "Last 3 days averaged 3.0/day vs 11.0/day before.",
       "daily": [
         {
           "date": "2026-11-03",
@@ -354,11 +354,11 @@
         },
         {
           "date": "2026-11-08",
-          "count": 1
+          "count": 2
         },
         {
           "date": "2026-11-09",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -419,10 +419,10 @@
           "corroboratedBy": 2
         },
         {
-          "title": "India Registers FIR Against Meta Over Child Sexual Abuse Material on Platforms - Arab Times Kuwait News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEdVOWk1WXo3LTllM3lrOEpPTkNlQ1RaUXZzTXdxRGVlSm8tb1FmQlk2QTZYcDFGdUk5dmdmRUxnQTlUQ3RoQm0xYXVfMjF6YllWQVFDMkpEYUJDU29qdTlONFlGUTVpRzVGZTdxLThYSHBJM3ExMEdsWUprUy1QQnlleXM1a1ozUEVvQWJscjlLZ1U2UmlYOWJvRjNSS0t2bDkydVYtYjZYMzFnbHZ4MTNEUFZNZFU?oc=5",
+          "title": "We reported videos containing explicit child sexual abuse material on TikTok’s platform: they have only removed 10 per cent of them - Maldita.es",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMkxNLXhpdTZYc2FDUnpsY0FhTUYtRVhOYmhCTVVlV0xsUHhpaDA3TDRuaEJlYW9KMHRwa2ZUaWxqRmJ3LXptYlBwU0JLTnppTVR1alhEcGNYNjNNN3RMSkdseE9YZEQ0S1JwbTdQV3NZWnhWYkVPbVZLWGVMZmJ2NTd6TTF5Mk9vUGNn?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-07T02:51:42.000Z",
+          "publishedAt": "2026-11-09T05:50:00.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         }
@@ -747,6 +747,104 @@
       ]
     },
     {
+      "theme": "violent-speech",
+      "label": "Violent Speech",
+      "totalArticles": 7,
+      "distinctSources": 3,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 78,
+      "reason": "Last 3 days averaged 1.3/day vs 0.8/day before.",
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "count": 0
+        },
+        {
+          "date": "2026-11-04",
+          "count": 1
+        },
+        {
+          "date": "2026-11-05",
+          "count": 1
+        },
+        {
+          "date": "2026-11-06",
+          "count": 1
+        },
+        {
+          "date": "2026-11-07",
+          "count": 0
+        },
+        {
+          "date": "2026-11-08",
+          "count": 4
+        },
+        {
+          "date": "2026-11-09",
+          "count": 0
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "‘Hateful display has no place in US’: Congresswoman Pramila Jayapal condemns disruption of Seattle Diwali event by far-right activists - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalZCcnN2UXVxVGhPci1zRnIyNUI0TGtLUWt1Tzc0TUVocThiazFKSkIyT1M4WTEwTVlNZUdncE9uQ3ltRmJRczVEMkdJZWxsTHlIUmJIOHFoTy00NGh6MmhQTW9jaUgyXzJZME9GRlhaT3hDaGFyX2VFcG5kaEZQdGlaRl9wUEQyNnEwbTFTNnI3M1NzYWo0NmxUVm1Fdk03VmNydmRMczBiVXV5Zmhsai1KWUwyM1R5Q2l1bnZ0N0diYnMtTE5uOWh3UUxidVo5YnF5UTFybk9VSXY0TlFtUWFJb3RZSHE5d29qTnBR0gHuAUFVX3lxTE5qVkJyc3ZRdXFUaE9yLXNGcjI1QjRMa0tRa3VPNzRNRWhxOGJrMUpKQjJPUzhZMTBNWU1lR2dwT25DeW1GYlFzNUQyR0llbGxMeUhSYkg4cWhPLTQ0aHoyaFBNb2NpSDJfMlkwT0ZGWFpPeENoYXJfZUVwbmRoRlB0aVpGX3BQRDI2cTBtMVM2cjczU3NhajQ2bFRWbUV2TTdWY3J2ZExzMGJVdXlmaGxqLUpZTDIzVHlDaXVudnQ3R2Jicy1MTm45aHdRTGJ1WjlicXlRMXJuT1VJdjROUW1RYUlvdFlIcTl3b2pOcFE?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-08T08:41:53.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "US India Caucus seeks federal hate crime probe into Aurora temple plot - New India Abroad",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdURQLXdXSmZJTHZpVEtSazVsbzEzUjh3dy1QRVNKVGYwZWNfU1FWYTZ1aVJidnpTX3F0aFBKeTE5N1ZKRl82Yjl4VDFzam13cEJjUFZvOVo1TXJOODcxTHJ0ZWtpMkpBTVMyckRBcmsyN2YyZG9UekE3eGw4b3Z3TDlzRWlwSnZoVk5NTW5EVW5sTlFvakh2TndIdURmX3JMZzVPRnNobEwteVZYRC1vWGdzcEFWOGNNWDNfY2hOTUpDZGtpc3Q0TnFIYjBPdWxM?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-08T08:24:01.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Death threats against Mahama amount to ‘brazen criminality,' not free speech – Kwakye Ofosu - Adomonline.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEFtTFZJR0MzTDRxTTJBcVlidUNmSS1TM3Zzd19EVThjRThMMHBsa1Y3ang3Q01Wb2tleDBMdWI2blBpWVp4MzlDcnlWMTNNNFIzZ1FxLUkxLWlSSF9yUzBBX3pYUFVQMUNpaGVsWFJkWW83RF95Y1diRjQ1dWp4RGJqV2VzOUJBVlhJNW9CLUtXOTBuTURDM3pKaks2Tk9MaVctNUF4Wlc0MXh0UVktZFRxU1A?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-08T02:28:08.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Threatening to kill the President and his children is criminality, not free speech – Kwakye Ofosu - MyJoyOnline",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSW1COXZKWDlpNVhMMzJlbDdQRDlpaGV5YXNDTXhfWGFGNXRPRlI5a3ZBcXFtenhHVEs5eTRiMl82ZzBNMi1LRF9KNmM4MFdERkhKVFZjT1pqaGpCWjF6QTJLc0VZMldCNEV4bXpmQVI1cGlmVnhHYlVNV1dZZjkxSWFJZEJ0T0E0b0ZhV3JWX0NDMEU0dkV5M3V0eEFlc3lndGllWDdNamVKM1YxbFFiMU81ZkRRX1Y1V3BMZWVEQ1o?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-07T23:45:13.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Tanzanian opposition leader found guilty of incitement - MyJoyOnline",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclBNaWlKTk1ER25RTjRaMlJrRFY3TE5zMTV2YmRSQm9SblBuN2dwVHA1dUxxMkhRMS1EeHQwVTdmZUpqbnZ5VDlUTnZhYzVFYmNoMThUQUxvRENiajN1aTVkTHVUdzVHVEtHa2dWV3lGLVRial9FcHEzUk4xdkd3RVlkTGtoWVhiRXk4?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-06T12:01:12.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "West Bank teacher arrested on suspicion of online incitement - The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT2FlSVE4WEdGR0ZQVkh3a3lMSjVMZy1kRjBPRm1rOThyMGRZdV83bWxZRUtNSzdtcTJVSFNEMjJ3Q3RsR1IwZERoMVp3Tmt3cUJRamJ2bVdfUG1QVVZvY2NXM0l2YzhfZ1FycjVVUEI4UQ?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-05T05:22:33.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "British No. 15 Jodie Burrage reveals horrific social media death threats after losing to India's Vaishnav - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX2hVQnpIR0k0dHlZUVpoUmZicVdISFNGX0xDbXhuSDlOdVc0ZVVBTDVYemt3ZFZ5N3FtbFk4elNYdUlKcmdCQnBWNG1xNHNDT0hQS3o0TDloQ2ZDeHdxMTdxLVF5a1RoMUhyQllndG5HZUo4bDk0bmlfbExFTzBnTnFPUnRlN0ZwZ2VSR090eTBYMzVabFRfZlIzYUhuVkdoQVFnQUk3aUYxNnlCQU40Y2ozSFBTc1lCU1NwcE1VcUhhc0M1enVSLWRTUVJPUDRyaHpFcVZ2YjZZWVFkTy0wOWw5cDNHTjFiUHBDclN1aXJBQk1OcW12QXp1UVVfTVVidERrMHhWQVg4Q2E2MUFtX3U3a0lZc3pJVXQwbmg4RnBOSVFGUTMwdFRMSEV5R1ZJXzlMNl9DcUQ3MktPaHREdFp5UdIByAJBVV95cUxPSUhnU3JBRzBHNVJDTHl2QjFya2RhejN0MEZoX25rSWZGR1ZpaXpjWUNIY3ZvWTg1bTVSTm55cWlpWVVwZEF5cndCOGUxMGdZZXA4aEE4UC13cUJpVmZxdDVCZ1JSSmJZNFVTRWJLM1pSZDEzdV9sblBhVTJWQ3psY2JONzgyZW5sRU53eVRoVGlFMzlzcDlJVEZvakp4VzV1cVl4bUd3ak0yZUpxZ3NOSU5BS1B4YXdURjVLLWdDWXh1MDdmMXphREVBODZPdklrU0dPYW5LdlVLNXMtQU85NTUxOVJrN0VIM3U1b2R2bGVVckVlOHBid2JvTDRzOElGZmlqSmkxNzZweVFhR3FtRzdidTlpOVc0RTlkblViUWtQWldycUJyOUk3VHdVbHA4R2hnREYyb2tIN2JpWTNFYTNWT2VhM05J?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-11-04T10:09:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "violence",
       "label": "Violence",
       "totalArticles": 5,
@@ -823,88 +921,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlhLbTN4cHJVUURreldIM3pxWXpua0RocUpicU4tSDkxdlpUdlBQa3FIeGJBSmUtekRKbnBETTBSQjV3TTJsZ1ZpbUk1WHphczUtdmlTeUVFUHNDdWgwZlA0LXpjc2lWSVVqbVpUMlJFOXZSQnhtX1pQdzREMWhyVjNaZ05SM1RHandPOTR5bzBkbi0tWnpWWVhvNGxkZy1yTDFOTkRncV8zWlk2MnZ6Ym9lbWMyd1ZDOHJV?oc=5",
           "source": "Google News • Sexual Exploitation Online",
           "publishedAt": "2026-11-03T14:07:47.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "violent-speech",
-      "label": "Violent Speech",
-      "totalArticles": 5,
-      "distinctSources": 2,
-      "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -11,
-      "reason": "Last 3 days averaged 0.7/day vs 0.8/day before.",
-      "daily": [
-        {
-          "date": "2026-11-03",
-          "count": 0
-        },
-        {
-          "date": "2026-11-04",
-          "count": 1
-        },
-        {
-          "date": "2026-11-05",
-          "count": 1
-        },
-        {
-          "date": "2026-11-06",
-          "count": 1
-        },
-        {
-          "date": "2026-11-07",
-          "count": 0
-        },
-        {
-          "date": "2026-11-08",
-          "count": 2
-        },
-        {
-          "date": "2026-11-09",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Death threats against Mahama amount to ‘brazen criminality,' not free speech – Kwakye Ofosu - Adomonline.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEFtTFZJR0MzTDRxTTJBcVlidUNmSS1TM3Zzd19EVThjRThMMHBsa1Y3ang3Q01Wb2tleDBMdWI2blBpWVp4MzlDcnlWMTNNNFIzZ1FxLUkxLWlSSF9yUzBBX3pYUFVQMUNpaGVsWFJkWW83RF95Y1diRjQ1dWp4RGJqV2VzOUJBVlhJNW9CLUtXOTBuTURDM3pKaks2Tk9MaVctNUF4Wlc0MXh0UVktZFRxU1A?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-08T02:28:08.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Threatening to kill the President and his children is criminality, not free speech – Kwakye Ofosu - MyJoyOnline",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSW1COXZKWDlpNVhMMzJlbDdQRDlpaGV5YXNDTXhfWGFGNXRPRlI5a3ZBcXFtenhHVEs5eTRiMl82ZzBNMi1LRF9KNmM4MFdERkhKVFZjT1pqaGpCWjF6QTJLc0VZMldCNEV4bXpmQVI1cGlmVnhHYlVNV1dZZjkxSWFJZEJ0T0E0b0ZhV3JWX0NDMEU0dkV5M3V0eEFlc3lndGllWDdNamVKM1YxbFFiMU81ZkRRX1Y1V3BMZWVEQ1o?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-07T23:45:13.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Tanzanian opposition leader found guilty of incitement - MyJoyOnline",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclBNaWlKTk1ER25RTjRaMlJrRFY3TE5zMTV2YmRSQm9SblBuN2dwVHA1dUxxMkhRMS1EeHQwVTdmZUpqbnZ5VDlUTnZhYzVFYmNoMThUQUxvRENiajN1aTVkTHVUdzVHVEtHa2dWV3lGLVRial9FcHEzUk4xdkd3RVlkTGtoWVhiRXk4?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-06T12:01:12.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "West Bank teacher arrested on suspicion of online incitement - The Jerusalem Post",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pT2FlSVE4WEdGR0ZQVkh3a3lMSjVMZy1kRjBPRm1rOThyMGRZdV83bWxZRUtNSzdtcTJVSFNEMjJ3Q3RsR1IwZERoMVp3Tmt3cUJRamJ2bVdfUG1QVVZvY2NXM0l2YzhfZ1FycjVVUEI4UQ?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-05T05:22:33.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "British No. 15 Jodie Burrage reveals horrific social media death threats after losing to India's Vaishnav - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX2hVQnpIR0k0dHlZUVpoUmZicVdISFNGX0xDbXhuSDlOdVc0ZVVBTDVYemt3ZFZ5N3FtbFk4elNYdUlKcmdCQnBWNG1xNHNDT0hQS3o0TDloQ2ZDeHdxMTdxLVF5a1RoMUhyQllndG5HZUo4bDk0bmlfbExFTzBnTnFPUnRlN0ZwZ2VSR090eTBYMzVabFRfZlIzYUhuVkdoQVFnQUk3aUYxNnlCQU40Y2ozSFBTc1lCU1NwcE1VcUhhc0M1enVSLWRTUVJPUDRyaHpFcVZ2YjZZWVFkTy0wOWw5cDNHTjFiUHBDclN1aXJBQk1OcW12QXp1UVVfTVVidERrMHhWQVg4Q2E2MUFtX3U3a0lZc3pJVXQwbmg4RnBOSVFGUTMwdFRMSEV5R1ZJXzlMNl9DcUQ3MktPaHREdFp5UdIByAJBVV95cUxPSUhnU3JBRzBHNVJDTHl2QjFya2RhejN0MEZoX25rSWZGR1ZpaXpjWUNIY3ZvWTg1bTVSTm55cWlpWVVwZEF5cndCOGUxMGdZZXA4aEE4UC13cUJpVmZxdDVCZ1JSSmJZNFVTRWJLM1pSZDEzdV9sblBhVTJWQ3psY2JONzgyZW5sRU53eVRoVGlFMzlzcDlJVEZvakp4VzV1cVl4bUd3ak0yZUpxZ3NOSU5BS1B4YXdURjVLLWdDWXh1MDdmMXphREVBODZPdklrU0dPYW5LdlVLNXMtQU85NTUxOVJrN0VIM3U1b2R2bGVVckVlOHBid2JvTDRzOElGZmlqSmkxNzZweVFhR3FtRzdidTlpOVc0RTlkblViUWtQWldycUJyOUk3VHdVbHA4R2hnREYyb2tIN2JpWTNFYTNWT2VhM05J?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-11-04T10:09:00.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
@@ -1051,6 +1067,64 @@
       ]
     },
     {
+      "theme": "illegal-goods",
+      "label": "Illegal Goods",
+      "totalArticles": 2,
+      "distinctSources": 2,
+      "highRiskArticles": 0,
+      "trend": "Low volume",
+      "changePercent": null,
+      "reason": "2 articles in 7 collected days.",
+      "daily": [
+        {
+          "date": "2026-11-03",
+          "count": 0
+        },
+        {
+          "date": "2026-11-04",
+          "count": 1
+        },
+        {
+          "date": "2026-11-05",
+          "count": 0
+        },
+        {
+          "date": "2026-11-06",
+          "count": 0
+        },
+        {
+          "date": "2026-11-07",
+          "count": 0
+        },
+        {
+          "date": "2026-11-08",
+          "count": 0
+        },
+        {
+          "date": "2026-11-09",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "It's not the dark web, it's TikTok : the catalogue of infamy in plain sight - Maldita.es",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2tudU1oajJ6Wmc4QzNWUXhWS2F4ZmRpWVdMb0RCR0plbVlzVm5pdmpFSVRZNmZaWmlNOXRjTldKdkYxT196ZWY1VDQ0M3RwaHJLdWhpVS03TnNYOEtEcURjMjFqdktsMDdVWGxIYVhhQU53VGlMZWxXUEJnY3h4RXcyX0xMLXpET3c?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-09T05:50:00.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Folsom Police participates in regional drug trafficking initiative that nets 146 arrests, $7.4M in drugs - Folsom Times",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2k1aXlXRzZhMzJ2NS1zanBPUWhNLUxzNnFKa1lLNlJSSEpUUjYxSGVYc1VoSmJ1RDc1NFVYN2doWDlEX0ZibWpBUmpyZHRHbWRSb0R6UGRjSFlTVDhuM2pHU2VaenRCcF9waFNRT3R2ZGFsRHdSc3EyZlZOYm9rZzRzXzdwWXJBS1JuakJLOEw4LWo3MExkR3Y4eUgwbEpXMWsydFFQQlQ1YVNYTGdWZ043MkZJWm9FQjRFM2YzSXJId19ZaEZITFlodw?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-03T23:58:57.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "suicide-self-harm",
       "label": "Suicide / Self-Harm",
       "totalArticles": 2,
@@ -1154,56 +1228,6 @@
           "source": "Google News • Dangerous Criminal Organizations",
           "publishedAt": "2026-11-03T05:00:00.000Z",
           "riskScore": 48,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "illegal-goods",
-      "label": "Illegal Goods",
-      "totalArticles": 1,
-      "distinctSources": 1,
-      "highRiskArticles": 0,
-      "trend": "Low volume",
-      "changePercent": null,
-      "reason": "1 article in 7 collected days.",
-      "daily": [
-        {
-          "date": "2026-11-03",
-          "count": 0
-        },
-        {
-          "date": "2026-11-04",
-          "count": 1
-        },
-        {
-          "date": "2026-11-05",
-          "count": 0
-        },
-        {
-          "date": "2026-11-06",
-          "count": 0
-        },
-        {
-          "date": "2026-11-07",
-          "count": 0
-        },
-        {
-          "date": "2026-11-08",
-          "count": 0
-        },
-        {
-          "date": "2026-11-09",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Folsom Police participates in regional drug trafficking initiative that nets 146 arrests, $7.4M in drugs - Folsom Times",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2k1aXlXRzZhMzJ2NS1zanBPUWhNLUxzNnFKa1lLNlJSSEpUUjYxSGVYc1VoSmJ1RDc1NFVYN2doWDlEX0ZibWpBUmpyZHRHbWRSb0R6UGRjSFlTVDhuM2pHU2VaenRCcF9waFNRT3R2ZGFsRHdSc3EyZlZOYm9rZzRzXzdwWXJBS1JuakJLOEw4LWo3MExkR3Y4eUgwbEpXMWsydFFQQlQ1YVNYTGdWZ043MkZJWm9FQjRFM2YzSXJId19ZaEZITFlodw?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-03T23:58:57.000Z",
-          "riskScore": 40,
           "corroboratedBy": 1
         }
       ]

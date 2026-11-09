@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T22:18:24.288Z",
+  "generatedAt": "2026-11-09T06:57:49.738Z",
   "snapshot": true,
   "date": "2026-11-08",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -15,148 +15,148 @@
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 52
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 56
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 10
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
       "theme": "ncii",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Dangerous Criminal Organizations",
       "theme": "dangerous-organizations",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 17
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 16
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 18
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "‘Hateful display has no place in US’: Congresswoman Pramila Jayapal condemns disruption of Seattle Diwali event by far-right activists - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalZCcnN2UXVxVGhPci1zRnIyNUI0TGtLUWt1Tzc0TUVocThiazFKSkIyT1M4WTEwTVlNZUdncE9uQ3ltRmJRczVEMkdJZWxsTHlIUmJIOHFoTy00NGh6MmhQTW9jaUgyXzJZME9GRlhaT3hDaGFyX2VFcG5kaEZQdGlaRl9wUEQyNnEwbTFTNnI3M1NzYWo0NmxUVm1Fdk03VmNydmRMczBiVXV5Zmhsai1KWUwyM1R5Q2l1bnZ0N0diYnMtTE5uOWh3UUxidVo5YnF5UTFybk9VSXY0TlFtUWFJb3RZSHE5d29qTnBR0gHuAUFVX3lxTE5qVkJyc3ZRdXFUaE9yLXNGcjI1QjRMa0tRa3VPNzRNRWhxOGJrMUpKQjJPUzhZMTBNWU1lR2dwT25DeW1GYlFzNUQyR0llbGxMeUhSYkg4cWhPLTQ0aHoyaFBNb2NpSDJfMlkwT0ZGWFpPeENoYXJfZUVwbmRoRlB0aVpGX3BQRDI2cTBtMVM2cjczU3NhajQ2bFRWbUV2TTdWY3J2ZExzMGJVdXlmaGxqLUpZTDIzVHlDaXVudnQ3R2Jicy1MTm45aHdRTGJ1WjlicXlRMXJuT1VJdjROUW1RYUlvdFlIcTl3b2pOcFE?oc=5",
+      "snippet": "‘Hateful display has no place in US’: Congresswoman Pramila Jayapal condemns disruption of Seattle Diwali event by far-right activists The Indian Express",
+      "publishedAt": "2026-11-08T08:41:53.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US India Caucus seeks federal hate crime probe into Aurora temple plot - New India Abroad",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdURQLXdXSmZJTHZpVEtSazVsbzEzUjh3dy1QRVNKVGYwZWNfU1FWYTZ1aVJidnpTX3F0aFBKeTE5N1ZKRl82Yjl4VDFzam13cEJjUFZvOVo1TXJOODcxTHJ0ZWtpMkpBTVMyckRBcmsyN2YyZG9UekE3eGw4b3Z3TDlzRWlwSnZoVk5NTW5EVW5sTlFvakh2TndIdURmX3JMZzVPRnNobEwteVZYRC1vWGdzcEFWOGNNWDNfY2hOTUpDZGtpc3Q0TnFIYjBPdWxM?oc=5",
+      "snippet": "US India Caucus seeks federal hate crime probe into Aurora temple plot New India Abroad",
+      "publishedAt": "2026-11-08T08:24:01.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Death threats against Mahama amount to ‘brazen criminality,' not free speech – Kwakye Ofosu - Adomonline.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEFtTFZJR0MzTDRxTTJBcVlidUNmSS1TM3Zzd19EVThjRThMMHBsa1Y3ang3Q01Wb2tleDBMdWI2blBpWVp4MzlDcnlWMTNNNFIzZ1FxLUkxLWlSSF9yUzBBX3pYUFVQMUNpaGVsWFJkWW83RF95Y1diRjQ1dWp4RGJqV2VzOUJBVlhJNW9CLUtXOTBuTURDM3pKaks2Tk9MaVctNUF4Wlc0MXh0UVktZFRxU1A?oc=5",
