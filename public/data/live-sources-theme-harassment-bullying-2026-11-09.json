@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:57:49.738Z",
+  "generatedAt": "2026-11-09T22:35:42.677Z",
   "snapshot": true,
   "date": "2026-11-09",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-09 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 51
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,21 +72,21 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 28
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "One in three students worldwide faces bullying every month: UNESCO warns of AI-driven abuse - India Today NE",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZUdJb3N3X2tXaTBqU0FxMV9wSHZIOWF3b2ZPcjVkMEVac2xJTllTVW90cjJ6ZXZVZlJLRWJDTlltOHlrZFVQTWdjSDJyQWRDbHNXUUo1WVo5YVNmd2Q4YWpIRWRtb09OeEJoTlRxQllzTS1BNlFfenZfSGZ5bERENXp1RWdXV0F4UEg3OHh3RkR5YmdzRGR6NXBMRVpidUNDeHp5ZGNNd3RfSVYtakU4SzdmQWwybjZpNjZPQlJsRThVRHpjNWd0bTBFVWdSWmpaVThZNUFrdzJBTEhIR2lkWVVNb2o5Nnky0gHuAUFVX3lxTE50V1hrbEI2TGxfcnJJLTA2c0xXcFJ6TVFzSnF5SG9OLTVSaEcyRHZxNXJBUjJoSjZ0d0tkUktNZU96MDBHUlpBS2JacTVxU29hSVowa2dyR1NjakdxYTV5YXF5RGV3dG5IOGVRYXJPWFcyemRRbzBxWlNFMkVLVkZrbkF5RE1EdGxuYUFvWk4yZWpoMWZ3MS1Ed1MweTF5eHlHZjNMNU03R3VDQWtTTVgwSjlWZmpodi1iWVI1V1dXSWN6aHU5TjZkVVhnREhKOWNOOWlfMDdXcFVVU0lWVjBrOWhfRFdfLUhXTHJiOVE?oc=5",
+      "snippet": "One in three students worldwide faces bullying every month: UNESCO warns of AI-driven abuse India Today NE",
+      "publishedAt": "2026-11-09T11:14:29.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

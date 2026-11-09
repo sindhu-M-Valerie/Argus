@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:57:49.738Z",
+  "generatedAt": "2026-11-09T22:35:42.677Z",
   "snapshot": true,
   "date": "2026-11-09",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-09 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 51
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,21 +72,21 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 28
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Russia, MAGA & Israel-linked networks stoked the flames during France riots: Report - inkl",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd25ULWFmQ3RmclZlUW5SS01BejFXQWpvN21YUlZoNmwwZGlMN3dtQ3dNaEl1MWVEMmkzVkpnZTV1QlVRLXBwSW9NUVVnYTNjUktXRjNQeTlPbUx0X1JHazAyTExoYzN4SlJQdkNoaUdneTJGVEJ6YWlJN2Q1OWxiSkxZVFhJTlE5SndBWE93UjA1SzYzUkF0ck9NSnNVVG5QbEhKdTBJamc?oc=5",
+      "snippet": "Russia, MAGA & Israel-linked networks stoked the flames during France riots: Report inkl",
+      "publishedAt": "2026-11-09T09:26:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

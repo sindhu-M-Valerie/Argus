@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:57:49.738Z",
+  "generatedAt": "2026-11-09T22:35:42.677Z",
   "snapshot": true,
   "date": "2026-11-09",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 14
   },
   "message": null,
   "sourceStatus": [
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 51
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 56
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,21 +72,21 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 28
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,156 @@
   ],
   "data": [
     {
+      "title": "SEC Philippines Confirms Data Breach on Digital Platforms - SQ Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16ZWlBaktZMmtpTDlBanl2OWJQX0RveU4tanpyZlNfa3NNTGVrdnlwNkFBeEpLOHQtU3ZQWTJvYTlORnpWLU5NSXhtdEwwYkVaNERKTlRwMks0Z3FfdklkWXNkR1dYR1M5N2h3eXBkZjlFWV9jWEE?oc=5",
+      "snippet": "SEC Philippines Confirms Data Breach on Digital Platforms SQ Magazine",
+      "publishedAt": "2026-11-09T17:12:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity Opportunities in Atlanta: A Growing Market for Technology Businesses - Business News This Week",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdURra1Fpc1QySE1INEdEdF9nbllQR2lTUC1vY0RvTlVHcEw5eXpIZG0wR3ZmSE5oRHBRX0JzZzNBZWVrY0t0UVpMM1ZtZDBreVFGdElYWk80Y1RFUE1lZnZCMl8yNENONW9QVUhZOVBTRjVBSmtEbXRpTlJJZWgwRG5vZTlYZzlqWWJaVzFUTGFpUnJIcjhqbkxLd3I2X3dMMFdfeFV2SFlZck5lX2Nfa05NbnpnT05xSmZDQ3c4QUs2Zw?oc=5",
+      "snippet": "Cybersecurity Opportunities in Atlanta: A Growing Market for Technology Businesses Business News This Week",
+      "publishedAt": "2026-11-09T12:16:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "GCIS Data Breach Prompts ‘Panic’ - Journal News Network",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY1lBMy1DMlotTm8xdTlac05Gc2s1QVlIbWZzVThKd3hOdUZrZi1yaFZYazlVcWs3ODkwbllsTzNhbmZnbFhsOGJlTHhNRDVoSjNIaG9QaFk1dHFyLWczcEF4bDUzSF9pQUw4dlB6cU1kdFVlbzNFc0NCTVFxN1owSWhWNkJ1R2g3OVV0dHBFbkZKZExadFhPdW1fM1FNOFZEREpVZ0JkamlZSmw2aFViTVR3eHg3VXJjTVo4U01DRkdrX3VwN3RHZUhSdVQwaDQ?oc=5",
+      "snippet": "GCIS Data Breach Prompts ‘Panic’ Journal News Network",
+      "publishedAt": "2026-11-09T11:45:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "GCIS Data Breach Prompts ‘Panic’ - Journal News Network",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUdEb243d0wxNkdyQkFkVFVCaEpCcDZIa21uQlVrWXY5cks3MXlGc3RlV3R0cmhJNFB3Qk5uZW1EM0hWOTltbDRyeHhCVmZEcHp6V3c1MlczTXlWWDdfYnZVSHRYUWZrR3pOdTRGNWlJNDJZZTQ0eWZ2akN4QlA3RHh4cXdqdEdDQm5yMmZ1THFRVmNxY2R5SDJlTzVnRmVVcnJlUzZVckE3WGVGcWJzc1AzbGhuenJqSFlIZVg3amxucHZIU0VFWkNWZm5HYkVyWmR1MA?oc=5",
+      "snippet": "GCIS Data Breach Prompts ‘Panic’ Journal News Network",
+      "publishedAt": "2026-11-09T11:45:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEGA Data Breach: 2.19M Customer Emails Leaked in Arara Vendor Attack - Homeland411",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92VjZFRnRkd282WUpPWFYwdmFibHIyNXRkNHhsVVRMQV9jNmNnYU1McDdVWHF3UUFsYVJOSTByR3BuenIyZXNYWnBxQlBNU0NTbGExZDRFS2J0STJJZlFTWWxzeG9PR0psRFRnOXdoclJaRWJJQmdN?oc=5",
+      "snippet": "SEGA Data Breach: 2.19M Customer Emails Leaked in Arara Vendor Attack Homeland411",
+      "publishedAt": "2026-11-09T11:43:16.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Threat Landscape: Major Cyber Attacks In October 2026 - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbk84T3pXSXktNE9wT1ZGb0c5QVZ2ZlhYU1MxN2ZCdm84SzJDNkhaTFlwSkxSMFN2MEtXdkxlS3dnRFN4YTZMZ0ZkN3NiVkxnWXpJcTFGdDZnUnNyeWZCQXY0MGx0cE5pTlVXaGZKRTVFbFYxRkt4VTd0b1JTejZPOGNGSDFFajZrbDBnNFdTVQ?oc=5",
+      "snippet": "Threat Landscape: Major Cyber Attacks In October 2026 LinkedIn",
+      "publishedAt": "2026-11-09T11:00:04.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NACSA records 5,110 cybersecurity incidents as of September this year - The Malaysian Reserve",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXZvdjd0M2pXM2g1aVAwZ0h0MjR4eFN4UW1ELWh0ekZUaUh6ZnVFa2g5VjBsT3BubnZ2WHJaV3Ztb1VxSFJiUGIwSVF6dEdwS2oxcXY3ZTRWdDJCa2ZMNjJ0OW1BN0IxUGIzVWZCZFJtM2FxaEY1aTIyVGNCMzRQQUZac3dFTDhoLTZtekU4QTF6NkcxLWtKemdlcjVVOUlrVlJuY2lrQ2daSHhaSjVLQUlod0JfcTQ?oc=5",
+      "snippet": "NACSA records 5,110 cybersecurity incidents as of September this year The Malaysian Reserve",
+      "publishedAt": "2026-11-09T10:00:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Binance Data Breach Dispute Amid ShinyHunters Scam Claims - The Cryptonomist",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQnNLSnBzNTRsWWgwc1FfTE9CQW9oMG1jN01BYlU0eDhneGNRZGNPX3VCc3dodnVFZkN1RHpMZjd5Y0N3d1F2QVZvbFRXLXRTRzhqMDh1OE1uMTVVRkhGT0kxZzAxWXU5aFNzc2VmbHBPeVE?oc=5",
+      "snippet": "Binance Data Breach Dispute Amid ShinyHunters Scam Claims The Cryptonomist",
+      "publishedAt": "2026-11-09T08:57:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Lowdown: What RBI’s consolidated cyber security rules mean for payment apps and users - MediaNama",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamtFdUlGMjNIVnQwd2F5MjJBd3NRa2kwVllLZUFvcGY4TVFCTU1rRUFldHM1ZXh5VVB6S3BqUDJfNWd3UFF3bXhqdHp6Skk0RDlHUHhvcHhVc1ZsNHRvOG9BNEM4VlNxNlZncmk4YUNwZE5BVnNBS2tMaHVlZzJfNVE0SWs3MDhy?oc=5",
+      "snippet": "Lowdown: What RBI’s consolidated cyber security rules mean for payment apps and users MediaNama",
+      "publishedAt": "2026-11-09T07:06:07.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How Cybersecurity Startups in New York Can Address Emerging Business Risks - Business News This Week",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaG9GVEtoTmZuaVgzUWR1WXZrZkJYSEdZRzVBN2ZwU3U1WlBpdXJlZGt4QkRtODhWNUxBbmQ4amxJYUdvV1Y1eU5LOExCSG11dlZvczNjWFQwNEVMWXNCM3BKY3FkOUQzZENyUWUta0E4ZUJXc1FsRVQtTVIzOGVySDZLWlBJdWYzSVJBWkFWMzJ4SkwzY0FoM3hxWjBBMFZValF2TE10SjJkcGxyTHZ6TDE5akF3eWRR?oc=5",
+      "snippet": "How Cybersecurity Startups in New York Can Address Emerging Business Risks Business News This Week",
+      "publishedAt": "2026-11-09T07:00:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Indian SMEs struggle to keep pace with rising cybersecurity risks as digital adoption accelerates - DQ",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUw1anVjcWl0Y3BiblNjaFVxaklkaFFoNjkwQ3c3eXlRRlJkbWZHaEFxdmsyek1STFdSZDV0dV9hb1BmelJKMXdVOXNtVW9jN2UzVC1IaUR4OUE0Q2FfZmxDQWwzVllxcEQxM0wtZXN2a0pYTzZ0SG04VUJ3ZWhPaWdrZkN2ejRGQjlCb1ZuZ0pLRjNU0gGUAUFVX3lxTE8xTDVqdWNxaXRjcGJuU2NoVXFqSWRoUWg2OTBDdzd5eVFGUmRtZkdoQXF2azJ6TVJMV1JkNXR1X2FvUGZ6Ukoxd1U5c21Vb2M3ZTNULUhpRHg5QTRDYV9mbENBbDNWWXFwRDEzTC1lc3ZrSlhPNnRIbThVQndlaE9pZ2tmQ3Z6NEZCOUJvVm5nSktGM1Q?oc=5",
       "snippet": "Indian SMEs struggle to keep pace with rising cybersecurity risks as digital adoption accelerates DQ",
@@ -197,14 +347,14 @@
       "corroboratedBy": 1
     },
     {
-      "title": "How Cybersecurity Startups in New York Can Address Emerging Business Risks - businessnewsthisweek.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaG9GVEtoTmZuaVgzUWR1WXZrZkJYSEdZRzVBN2ZwU3U1WlBpdXJlZGt4QkRtODhWNUxBbmQ4amxJYUdvV1Y1eU5LOExCSG11dlZvczNjWFQwNEVMWXNCM3BKY3FkOUQzZENyUWUta0E4ZUJXc1FsRVQtTVIzOGVySDZLWlBJdWYzSVJBWkFWMzJ4SkwzY0FoM3hxWjBBMFZValF2TE10SjJkcGxyTHZ6TDE5akF3eWRR?oc=5",
-      "snippet": "How Cybersecurity Startups in New York Can Address Emerging Business Risks businessnewsthisweek.com",
-      "publishedAt": "2026-11-09T06:36:12.000Z",
+      "title": "SEC Reports Data Leak That Exposes Names, Contact Details and Tax IDs of Platform Users - Fintech News Philippines",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TUzRPMHNQbjZkRHRRcWV4U01oUFZldTRFaG9vR2phQlBVVnZpZC1Pb3p3UDFlczJMOFJRNUpuNnlEN1o3ejI0UE1yeDY4U2NHc004OXRXaGFUeGtDcnh0M3ZZbXR3ME5EeVcxMXQ1UDFjWEtGaHNEVUYtV1RaUFk?oc=5",
+      "snippet": "SEC Reports Data Leak That Exposes Names, Contact Details and Tax IDs of Platform Users Fintech News Philippines",
+      "publishedAt": "2026-11-09T06:10:47.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "provenance": "live-feed",
+      "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
       "riskScore": 40,
       "confidence": "Low",
