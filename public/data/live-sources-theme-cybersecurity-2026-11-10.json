@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:35:42.677Z",
+  "generatedAt": "2026-11-10T07:34:51.873Z",
   "snapshot": true,
   "date": "2026-11-10",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-10 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,21 +44,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 51
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 57
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 43
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Hackers Breach Fireworks AI Through Third-Party Cloud Provider to Steal Customer Data - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4UkF5SVNOWXNvTHdxZmJURk9oOWduZFdKZkg3MkRZV3MtX2FvYl91TzkzVlptc3BDZzFpalY3dTJCU2xDUHZOX2pxSlhwZU13UE5pNnJSci10dEZSWkhubDdSeWxrd9IBa0FVX3lxTFAwcnI0TWVEWlFpbGl6NnFJSWM2NkpsVzdnUzc4Rkk0N0otZHVseVZQYjJXOE5ZcWx4QWJkZVI1cTRyeXk0OVlCWHdNQVFXZmlzWnB3RUNJQnVCU1hRMWFVLVR0eEZMZ19kZFlv?oc=5",
+      "snippet": "Hackers Breach Fireworks AI Through Third-Party Cloud Provider to Steal Customer Data CyberSecurityNews",
+      "publishedAt": "2026-11-10T05:42:23.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sajjanar Urges Banks and Digital Platforms to Strengthen Cybersecurity Infrastructure - Munsif News 24x7",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWFvRnkwNXotQkRDZDlkSE5weXJOdzA3UktJbV9wbVFCMTE4X3RDX0w2TVVXVXQ2YzVzOTJZOE84aVBuQnFYeEFlczFRMGtSYVdKQkZZVkkyWnFVak9RZWVsaFZsa2J2RVhWdGhUZmlyX1MxNnRZbnF1WEJfSDBHS0ZUZk96SDdVVnV1RkUxM1NpdFlPWF9xdEt6NA?oc=5",
+      "snippet": "Sajjanar Urges Banks and Digital Platforms to Strengthen Cybersecurity Infrastructure Munsif News 24x7",
+      "publishedAt": "2026-11-10T05:37:02.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "BIR, SEC Launch Parallel Investigations Into Taxpayer Data Breaches - BitPinas",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VGtOOWc1RUJoY2tXcTR0SVJjZUlJdkpBX1FFVnBnSzlhdlF1eHBTdV9nYmQ5MDVtTWFNTDB5MHBsbUhqakhrNmIxX2puVExQQkdsa2paM1EtWFZnN1VLaTdXb29CUmc?oc=5",
+      "snippet": "BIR, SEC Launch Parallel Investigations Into Taxpayer Data Breaches BitPinas",
+      "publishedAt": "2026-11-10T01:12:38.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

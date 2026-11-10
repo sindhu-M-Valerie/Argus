@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:35:42.677Z",
+  "generatedAt": "2026-11-10T07:34:51.873Z",
   "snapshot": true,
   "date": "2026-11-10",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,21 +44,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 51
+      "itemCount": 50
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 57
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 43
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 32
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "'Fake news about imaginary talks': Iran rejects US claims of peace negotiations, sets seven conditions - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUmROZjg0WWxSSXpRZXZMVWQ0RXpSMUQ5ZllaVEs1SXczMjJNLWM0aG5Dc2k4UVVTdkVvTnN4NXdFUThzMlViVVVPQWZtandLSlV2N051d1NNOG5XUW5wTG5sbVdiSXoxejlaQjB1NGFZU04xdWFxS1R5UGJLRFU0YUFSMGdYRkhLTEpTa04yLXRTemU1WGlpX2dnN3pHQzAwaFk4VHlOS3pqa2Y4U2tRNTBHVERnZHZueGdmRldEUlpHLVV4aVZucElleWpHRGFFVzdCNDBoR1lUME5od3BGdHZUVG9kTkN3WWg2QUw5eV_SAfABQVVfeXFMUFJkTmY4NFlsUkl6UWV2TFVkNEV6UjFEOWZZWlRLNUl3MzIyTS1jNGhuQ3NpOFFVU3ZFb05zeDV3RVE4czJVYlVVT0FmbWp3S0pVdjdOdXdTTThuV1FucExubG1XYkl6MXo5WkIwdTRhWVNOMXVhcUtUeVBiS0RVNGFBUjBnWEZIS0xKU2tOMi10U3plNVhpaV9nZzd6R0MwMGhZOFR5Tkt6amtmOFNrUTUwR1REZ2R2bnhnZkZXRFJaRy1VeGlWbnBJZXlqR0RhRVc3QjQwaEdZVDBOaHdwRnR2VFRvZE5Dd1loNkFMOXlf?oc=5",
+      "snippet": "'Fake news about imaginary talks': Iran rejects US claims of peace negotiations, sets seven conditions Moneycontrol.com",
+      "publishedAt": "2026-11-10T01:24:18.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Chinese Vloggers & Influencers Disinformation Drive: Dhaka Slums Used to Mock Delhi | Vantage - Firstpost",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXRwQl9fNkhReHozQ1h3b2VYMTBRR0tORWRiVmdfX3h6U1RCNzFZSkN4MTdhNHBfOXJlaDJtRUh0aWpiWW9scTVKUzBHOG9VREVqQWRLME5kTFBnU2V5UWFpangtMWo1T2RzTkxwbmZUWlNBcGZTRVVTdmkteEhQdlM1dnFLQnR1bDZDa2thdWdvRHVkWEhBcFdLUlpiUGJycWtDUWpReER0Q1AyZXo2cXpWYmdHTWptRXZMSFZvbjlwQXlvT1R1MDhrT1I5aDdSZEJJ0gHTAUFVX3lxTE9ldHBCX182SFF4ejNDWHdvZVgxMFFHS05FZGJWZ19feHpTVEI3MVlKQ3gxN2E0cF85cmVoMm1FSHRpamJZb2xxNUpTMEc4b1VERWpBZEswTmRMUGdTZXlRYWlqeC0xajVPZHNOTHBuZlRaU0FwZlNFVVN2aS14SFB2UzV2cUtCdHVsNkNra2F1Z29EdWRYSEFwV0tSWmJQYnJxa0NRalF4RHRDUDJlejZxelZiZ0dNam1FdkxIVm9uOXBBeW9PVHUwOGtPUjloN1JkQkk?oc=5",
