@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:34:51.873Z",
+  "generatedAt": "2026-11-10T19:54:10.413Z",
   "snapshot": true,
   "date": "2026-11-10",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-10 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 39
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 63
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 12
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 32
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 28
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Allegation Of Harassment To Woman Collector: TN Minister Promises Probe Against TVK MLA - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVlVSFgxRF81WWNBUDR0RzJoMnV4MkpidUFUNGhZUW42TmRYdnhOSHJwTEhXbXRHQkZLV0piYnpPeHR1RHBLX0JrblZzNkxwN3o3d3BXTWxGSHNwVGQ5ZWJsYTEwN254Y0tWV3Z1alNIX0o2cVRQcUwxc0ctaXYxLVpGajVGZ3c4WVlzbDhwdFU3RVozb1YxOTFUZlQ1cTY3U0RoR0ZWYlY0U3lOdXV3b2hpb21Gb3NmZUdia0NyckNOUdIBzwFBVV95cUxNMlc2RzEzQUhpcVkwM0hpQkVxNnNleTlxY0Yzc3R4Vm1SZFNpSHNrTmNZM0IyMmpGNi1ISDgwWVJhT3NtUXVMU0l0WDQ2V0t0a1pnM0ZpRUlRUW94MGY2N2tzbGxfT1p2Q01DVVpQNUF4YndrVzNLNHlrMXpaRklJVmVZRkh0YkpTazZRYkJtUjkzWlZQTkxwSnEwa0FtRS1DdEVRcGZpZWl1ZElPYmUwMXBiUGFKWEZta2ZhMkIzVVJNUTNYczUyLWNwN21DeHc?oc=5",
+      "snippet": "Allegation Of Harassment To Woman Collector: TN Minister Promises Probe Against TVK MLA Outlook India",
+      "publishedAt": "2026-11-10T16:48:44.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Prince Harry and Meghan back EU campaign against online bullying - Yahoo News Australia",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzTjBZd0ZUNUhiV3ZadFZnZWtWN2t3cmpYODNqbHdYZHlvSTJodHBfWHNTbUxKRVJ4RU94eWVCRWhyRjB4dG1NeGNVSkNaMlJRNVlocnNtYlMxeDIyR2dkZFVYUkc1NzZDbWVhSkowRC1FN0lTSndj?oc=5",
+      "snippet": "Prince Harry and Meghan back EU campaign against online bullying Yahoo News Australia",
+      "publishedAt": "2026-11-10T09:58:56.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

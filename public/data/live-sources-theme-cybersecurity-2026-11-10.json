@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:34:51.873Z",
+  "generatedAt": "2026-11-10T19:54:10.413Z",
   "snapshot": true,
   "date": "2026-11-10",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 39
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 63
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 12
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 32
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 28
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Your next Expedia booking email could be a scam after hackers threaten data leak - Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kY2ttRzlXLUE2Y0w0N0dXLW9QWW1Vekt0MXowak9LbWVIcVJmbExyQW5vTHNKSnllMzlmMDFzbzBiN0FnUVFHVWJ5cGZqTWhWWHhtOUNabVFKNXRJWjdfSzJETVFEMG93?oc=5",
+      "snippet": "Your next Expedia booking email could be a scam after hackers threaten data leak Cybernews",
+      "publishedAt": "2026-11-10T10:54:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEGA Confirms Data Breach After Third-Party Email Provider Exposes 2.19 Million Customer Email Addresses - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2MGRwVzJSa1JpLVV4SzBzYWZmQjJoVW5IejAwVEVHUVowemdkdFRIdzU2MjZxWlNXbmlmM0J6N3ZwcEoyTldIOHcxTHJvbTJ0Q2ZOeWlGSWpTVGdBdFRDR0k0SGNrX1HSAWxBVV95cUxPZzhGaHpOUnhQb2NsMV90cUtDOHp1dm1qeEhUemIzWWRocEVpMVVDTmVuRkJhVmJ6czA1VElRRzNjWlU1VU96MlYyR2szMllDb0JCS0xuY0g5ZnRncmpaaGkyallsLXdDclZzTVM?oc=5",
+      "snippet": "SEGA Confirms Data Breach After Third-Party Email Provider Exposes 2.19 Million Customer Email Addresses CyberSecurityNews",
+      "publishedAt": "2026-11-10T08:37:23.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Hackers Breach Fireworks AI Through Third-Party Cloud Provider to Steal Customer Data - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4UkF5SVNOWXNvTHdxZmJURk9oOWduZFdKZkg3MkRZV3MtX2FvYl91TzkzVlptc3BDZzFpalY3dTJCU2xDUHZOX2pxSlhwZU13UE5pNnJSci10dEZSWkhubDdSeWxrd9IBa0FVX3lxTFAwcnI0TWVEWlFpbGl6NnFJSWM2NkpsVzdnUzc4Rkk0N0otZHVseVZQYjJXOE5ZcWx4QWJkZVI1cTRyeXk0OVlCWHdNQVFXZmlzWnB3RUNJQnVCU1hRMWFVLVR0eEZMZ19kZFlv?oc=5",
       "snippet": "Hackers Breach Fireworks AI Through Third-Party Cloud Provider to Steal Customer Data CyberSecurityNews",
@@ -193,6 +223,111 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Can AI Close Mexico's Cybersecurity Talent Gap? - Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGZGYTJvUU5qVHlocVQtTjgyeEJpdm90X3Q4S1BHdUhibXpkRHg1bkpnYzMycXNvN1p2cUpfbzQ3dkdYSC11SG9PSHRMMVlvSzAxQ2hKUW5VWWY1bE01Y1NLXzhLR3NteGU1YW5sSlc3RFNma0xDSmM0NVZKQkszYk1XTEpCdlNSXy1HNGNKYzhLczZHb0Nr?oc=5",
+      "snippet": "Can AI Close Mexico's Cybersecurity Talent Gap? Mexico Business News",
+      "publishedAt": "2026-11-10T18:15:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-Powered Malware Analysis: From Hidden Phishing Attacks to Faster SOC Response - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uU0JUa3ZwSmF3c0ozckh4eWtjRG56Ty1kNy1Dd3VCV0l2bTk3NDFxa2Z2R0drYkVLVG1nYVpCcGVEUjB2WWJBdE4zal9qY1hOd20xSlJ1MEtCV1JmOHZDZGlGLWhWUnREVFHSAW9BVV95cUxNdkVmX2F3ZjBCM1BoR2lZMkdaV1ZCa3VYcW5NZ2ZiMzU3bWt5dTZGRmN2ZV9OLU9NUmtUbWE4bGFxSDJVQWZyOEx6dXNrSlhFUWlTLTJSOEtSanZMNGx6bHI0ZXlUcW43QVZody0yNFE?oc=5",
+      "snippet": "AI-Powered Malware Analysis: From Hidden Phishing Attacks to Faster SOC Response CyberSecurityNews",
+      "publishedAt": "2026-11-10T15:47:38.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Phishing Attacks on Online Accounts: How Slot Players Are Targeted and How to Stay Safe - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01endMaFBvdGk0MWtMcy1aUzdjOUY1aEFkbjlqNWhWV1pBaVYtSjRGY0lSek43TGQxbWNVOUZORk9KcWhfc2dyUnF0YldQVmsyTExfOGdJSDlSbmVpSHlfcnk4d2NfX0QybjFIREJNM2Y1MF820gF6QVVfeXFMUFRLcG9wa2h1WVRIRU5jeGRNQ2VmVU42ZWstWHk1NU5fNGV6S00zeFQtVmZmVEdJTnpzSHBBS0JaMnpvU2hGZmpITWpxemc1aGd1YjZpektPRmtwWnJzOU52SThIR1ZQS2hCdk9pY0ZrREdBQ0t0cGtSZHc?oc=5",
+      "snippet": "Phishing Attacks on Online Accounts: How Slot Players Are Targeted and How to Stay Safe CyberSecurityNews",
+      "publishedAt": "2026-11-10T15:13:18.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Philippines SEC Confirms Major Data Leak Affecting Online Platform Users - FF News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVNRSm5CQVlLQUJvNHNKNHpHSGVKaDhxdDA4UmVUeHZwUk02MnFzdWU0T2pxMmVhNWVzeFA1aGlodER6Smd0S1dnTmdmZFByb2Y3NVpKOERYTThWX0s3S1VMQ1E1WEFncTdzSjkyRVY2d0RKWGwtamVRbzFrUW1qbUZBdGF6QzNVTHZHVjZsQ0ljS2ZIYVNkTkl5cVk?oc=5",
+      "snippet": "Philippines SEC Confirms Major Data Leak Affecting Online Platform Users FF News",
+      "publishedAt": "2026-11-10T14:55:42.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Phishing Attacks on Online Accounts: How Slot Players Are Targeted and How to Stay Safe - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUS3BvcGtodVlUSEVOY3hkTUNlZlVONmVrLVh5NTVOXzRlektNM3hULVZmZlRHSU56c0hwQUtCWjJ6b1NoRmZqSE1qcXpnNWhndWI2aXpLT0ZrcFpyczlOdkk4SEdWUEtoQnZPaWNGa0RHQUNLdHBrUmR30gF6QVVfeXFMUFRLcG9wa2h1WVRIRU5jeGRNQ2VmVU42ZWstWHk1NU5fNGV6S00zeFQtVmZmVEdJTnpzSHBBS0JaMnpvU2hGZmpITWpxemc1aGd1YjZpektPRmtwWnJzOU52SThIR1ZQS2hCdk9pY0ZrREdBQ0t0cGtSZHc?oc=5",
+      "snippet": "Phishing Attacks on Online Accounts: How Slot Players Are Targeted and How to Stay Safe CyberSecurityNews",
+      "publishedAt": "2026-11-10T14:13:19.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-Driven Threats Are Changing Banking Cybersecurity Investment - Nasscom",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS1VOaUpTUzFFM3BCckczR3M2M0xRQU5HWDlWdmxfNXM2MzVtV1BMQVBJeUlzRzg0NVduZGpWMUYxaGk1VGJjajJ4bUZuamctMkI1QWhVWXQ0Tms1SG9ITEZtV2ptYVJmQ2ktbmZVVjdXZkRWTzRHcFN4bGUxTXJKcC14VVBfR0hNbjNUTERscDVtWFFQY3I0UUhXTWR1TUFGMUczMWhqOFRSNUstRldnRHo3U3U5eTMwampXXzlxV2FIRmpLMlE?oc=5",
+      "snippet": "AI-Driven Threats Are Changing Banking Cybersecurity Investment Nasscom",
+      "publishedAt": "2026-11-10T09:54:51.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vanderbilt University Shuts Down Campus Devices After BYOD Ransomware Group Claims Network Breach - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xY3ZrSkRtRXZCakJBRGYwMWhUa1lZcnNwbnRfZ19rc0NsTmlucU5vbnR0enlBVDlrZ0t0Z29YNjNIYTQ0blo4RUN5U1VOMWVHY3VPcXpOTWJLSU9YWUtaNmlPM1lZYlUtUUVqSGw0MzdtZm1lNER1ZjVNa9IBgAFBVV95cUxNRmxYM0taZ2UzdFlxeTBfNnh2UTdhZkRYMlcyNHhHUHh2R2hZbDMzYjZEMld1ckJOY19ZSjB5SHE4MjRXdXZWVFdpRklRNWpLVmQ3QjQzX09Qc1ZkZHFWV2ZKcUc1dG5PMVJ2c19SSUtBbUc2X2hqUTl1bV9aRnVXZg?oc=5",
+      "snippet": "Vanderbilt University Shuts Down Campus Devices After BYOD Ransomware Group Claims Network Breach CyberSecurityNews",
+      "publishedAt": "2026-11-10T08:40:48.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

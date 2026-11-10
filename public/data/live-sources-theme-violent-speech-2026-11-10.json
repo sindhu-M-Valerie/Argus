@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:34:51.873Z",
+  "generatedAt": "2026-11-10T19:54:10.413Z",
   "snapshot": true,
   "date": "2026-11-10",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-10 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 39
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 63
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 12
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 32
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 28
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "India Hits Back At USCIRF, Questions Its Silence On Hate Crimes Against Indians In US - indica News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzBwa0d3dnltMGtvb2dKQW51WkR4WW43aG9tbU15dmlEUHVYOVFkS3NTYndNNFRjSnc3b0t3c2VSeW42ZzY3X2FFcHlUTkg1cjktSng0WVFEYTkxZTFBMHFEMFJJOUlsRUdJOHg0QnZnUktZU3d6bXZVUlFLaWZmYm1CTlFTdm1udlhyM1JWOC1VUzlTMjhjbWt1amJFdGF1UnM4QnBvbzAxb0ky?oc=5",
+      "snippet": "India Hits Back At USCIRF, Questions Its Silence On Hate Crimes Against Indians In US indica News",
+      "publishedAt": "2026-11-10T12:53:35.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Silent on hate crimes against Indians': MEA tears into US agency over religious freedom report - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcHRuMHFvTVJhdEJBaENkYTU1Q21vNjZrcHQwbWVpMXpnNTA1V0duNVpNUnI5cGM2MFJUaERYcWsybnJjR1puRTFUQUFYeHBERUhlUXBob2Z4OVlEcTlWdmhHa3B0a0piWnlWVDFXNlp4c0ZVU0V2VjRNUmgzUlpzRU1tLXJnNE5zMk11WDRNU3hOZUdVOGtKcm90RUFlQy1reDVnTTVMcHp5WkNESTc0VGJ5SjhPaUVtQ0FEU0tMTHZwRTRjOWRGRDJoUF9Ed2M0YTkyNWxTV1pxNmdTTUduMXRWeTlfeDVlZUdwT2N1eUt2TmtDNHUw0gH3AUFVX3lxTE1wdG4wcW9NUmF0QkFoQ2RhNTVDbW82NmtwdDBtZWkxemc1MDVXR241Wk1ScjlwYzYwUlRoRFhxazJucmNHWm5FMVRBQVh4cERFSGVRcGhvZng5WURxOVZ2aEdrcHRrSmJaeVZUMVc2WnhzRlVTRXZWNE1SaDNSWnNFTW0tcmc0TnMyTXVYNE1TeE5lR1U4a0pyb3RFQWVDLWt4NWdNNUxwenlaQ0RJNzRUYnlKOE9pRW1DQURTS0xMdnBFNGM5ZEZEMmhQX0R3YzRhOTI1bFNXWnE2Z1NNR24xdFZ5OV94NWVlR3BPY3V5S3ZOa0M0dTA?oc=5",
+      "snippet": "'Silent on hate crimes against Indians': MEA tears into US agency over religious freedom report The Times of India",
+      "publishedAt": "2026-11-10T12:13:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

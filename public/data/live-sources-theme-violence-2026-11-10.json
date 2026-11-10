@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:34:51.873Z",
+  "generatedAt": "2026-11-10T19:54:10.413Z",
   "snapshot": true,
   "date": "2026-11-10",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-10 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 39
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 57
+      "itemCount": 63
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 12
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 32
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 28
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Equality Now Report Links Online Misogyny to Violence Against Women - AfricaBrief",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VcEFHX2trRF82SW1aZ09WUVlvS19nN1NWT0Q1dXFxUzRyLUFjS281SlVGc1NCTGtyNjU1M1FGcFNTZ1A0ZEFhRjJqV3ZqczFlRU9BU2swb19zSFg5U1F5cWRmUUItMGNwOVp0MUNmN1lma2JTakE?oc=5",
+      "snippet": "Equality Now Report Links Online Misogyny to Violence Against Women AfricaBrief",
+      "publishedAt": "2026-11-10T07:55:27.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NCW receives 150K complaints annually, domestic violence tops list - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS2dBR2l5dVBoa2h2ejJsWU1Xa2tWSEtZUUo5NHFCRnlfOHRfZUt0X01LTUV3ZUs5QkdZM0ZPQ2xRRkUxQldyTG1DZ3BuODhCb2p0SFBhZk1RUWFDbDhfbjBOUkJVQmFZTUxKZDZZOGtGeFkwRXZSR3dNZ210Q2k1SHFNTUR1ZkRaTm1zT2x5YkF1UVNya1RRb2lGbWpkS0gyMjl0Ym5MYjVKYW9RRlowOGdpakJ1WHRDLV85MXpXZmpaUkZCMl9mMXFMRUdoSG_SAc8BQVVfeXFMUEtnQUdpeXVQaGtodnoybFlNV2trVkhLWVFKOTRxQkZ5Xzh0X2VLdF9NS01Fd2VLOUJHWTNGT0NsUUZFMUJXckxtQ2dwbjg4Qm9qdEhQYWZNUVFhQ2w4X24wTlJCVUJhWU1MSmQ2WThrRnhZMEV2Ukd3TWdtdENpNUhxTU1EdWZEWk5tc09seWJBdVFTcmtUUW9pRm1qZEtIMjI5dGJuTGI1SmFvUUZaMDhnaWpCdVh0Qy1fOTF6V2ZqWlJGQjJfZjFxTEVHaEhv?oc=5",
+      "snippet": "NCW receives 150K complaints annually, domestic violence tops list Business Standard",
+      "publishedAt": "2026-11-10T05:51:13.000Z",
+      "source": "Google News • Violent Speech (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
