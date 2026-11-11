@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:58:49.635Z",
+  "generatedAt": "2026-11-11T06:57:39.592Z",
   "windowDays": 7,
   "endDate": "2026-11-11",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 77,
+      "totalArticles": 84,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 30,
-      "reason": "Last 3 days averaged 12.7/day vs 9.8/day before.",
+      "changePercent": 54,
+      "reason": "Last 3 days averaged 15.0/day vs 9.8/day before.",
       "daily": [
         {
           "date": "2026-11-05",
@@ -36,20 +36,36 @@
         },
         {
           "date": "2026-11-10",
-          "count": 24
+          "count": 23
         },
         {
           "date": "2026-11-11",
-          "count": 0
+          "count": 8
         }
       ],
       "topArticles": [
+        {
+          "title": "Digital Arrest Scams: Supreme Court Asks WhatsApp To Explain Anti-Fraud Measures - Indian Masterminds",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVhqNmhTRmM1Z0JiNVc5OG5tTjVaN1U2NzNYNkptX0toeTBacGZjOEZZMHVaellwdFlUS2ExdGRMdXlKVjhFVEE2aDdVcHFUNjJxckpfcUlYRXFWa2lKVVdmdXlqV2VBdG5OT1hYSFQzdnJSc19OS1ZxcTN4ZzdrR2RyOG0yRDdQYlhQeGNvUDJpWkRVbzZhV09mTm8?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-11T05:16:39.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "ACAMB Warns Bank Customers Against Phishing Scams, Cyber Fraud - Opinion Nigeria",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEV6dkVWQndOV19zZGFFZ1pUU0Q1X3Y1U1ZvbGxnYWtGMGtfX0theVlnMWI4bUI4ZW5raG9jdVp6UzRHOEd1LWQzNFNIX1dEUnF6amttWUZVMjRVTG9MbS05aU9GcXFiSU5WVWhDZmNhMjFoUEFIS2NHLUxXQkMyMXM3Y2xDa090SDdyWU1XZHhua2hnTnZhUw?oc=5",
           "source": "Google News • Fraud and Impersonation",
           "publishedAt": "2026-11-09T07:30:22.000Z",
           "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Bitdefender Launches Web Sage - An AI-Powered Browser Security Advisor to Counter Evolving Scams and Fraud - NewswireToday",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHBHdE5hN25qYUdiOTdHWlVRTmkyNmN3TXo0cU5lMzl0U0ZPS1EtUG42M0hnandMS0haMmtlaHpmdEEtalhRZVgwengwU0pvS2JXTmVFMnlkTjhpSkhHVXdSTW52NUFHU0JKQk96VUpHX0NfRDJ6M21qS0tRbF8tUmdQa1BlS01mQTNXaEZIQnZtOFZKTk5mZExlZFZFWEdqTXpWanJSQ3FieHQzV0xrS0lRdVA4OFRCblY4MTNtdjBaMjBCSDBjbGRTVVRfWHE4U0hPVzROWHI1NUpJSnpEaw?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-10T23:16:27.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -85,26 +101,10 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Supreme Court Asks WhatsApp, Other Platforms To Submit Plans To Curb Digital Arrest Scams - News Mobile",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSEFBWE9UTXUzYnR3cWNWcU5DTDRHWVozajNqLUpSdTMzRXVwZEJvdXhyWTJFNVJYXzVrT21Dc1AxUTZkSk9MaVBxRno0SENLQXkxbDJIWjNqZ2hLa0p5X1o1Sm52QXVPQzlkZ3hUQTUteEpmRXo4cXlVMVhyR1dvUDNkM2llY2UtbE1jdnB3MDJ4REIwUEZDOGQ4WG54ZkFnWWw5S0hQVlRQTmx1amZ3NHN6aHU5R3JDMjRNalQtUkEwR3RNS1pWNy1R?oc=5",
+          "title": "Supreme Court Seeks WhatsApp Action Plan to Prevent Digital Arrest Scams and Cybercrimes - www.nationpathindia.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0UwR21PRk54THRjMHVtYnJzZVV3YXB5RHBWenpIUFFJc1dKWm10dzlIeUl6NkFnbHJEeWRiX0VYdnlraUx2RG1YQkRhY3lscDc0ZlVQUmdhaWo2QU9rNndyMUtXbzJfTHFjSW1NUlV1emt0SDJMUTZ2RS1keWc0RC1ObzZPOF8xU01reUVBUEdjUC05Z3VUbkdDZ3l5NVhxX3ZpTTVKMmN6Zw?oc=5",
           "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-10T09:11:54.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Coins.ph warns vs. digital fraud as number of scam victims rise - GMA Network",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2hMRU5Gamh1Tlp6b2M2ZWJhc0hxWTE5Uy0yN0hpQ1AycGJCTkl2dFlld1M2QTAxSGI1Zlp2cXVUVk4tNjZTWXZ5UVA2a2sweUlpU2JlWlNCM1gtTkVCV2MwdlFlODE5UTktZHRLZW5yMnV5aDhXX0QwY3c5bmg2b0NBODNycC1hQTBsUG9iZGhIUVh4TXoxNE5abF94dnRzMzE5bTFHOE9YaURhNzdGcl8ybXdQOWFncEw3NnhzbmNXZUXSAcgBQVVfeXFMTXA0QXlfTVZaR3psVjc4X2pjSl9KdTl4aEJtQVFialFYMWlzQVZkVU1MaEd4ZUx4dDFjQUJLNl9Tc21YMlBtR0NZaUwtdDRVZUJPdEZHbFZKYUFtdUVkSzZTRHA2UUNpR3BoSmV6WmVMREdJZ2dKekRLVTF6TWRDQ284TVl0bDJfWG9kYnNwRXdoUmZSYlROczZHa1hFbFdXYUtSVmFNRmpueTl3VXVFY0kxZzNaYmhYdDZfZlpXYlQtMHVGOUJod1g?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-10T08:13:38.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Coins.ph warns public vs rising digital fraud as scams hit 84% of Filipinos, cost ₱121.8 billion - CoinGeek",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVlSXzA1NU9oX21WalJxMnFFN1dJLW44S2ZhRlhPRG44UU1rNW1SS0pQdDd5MXJDNHgtNkFiSHVaUlVRT25yZVVrVXJOM25NZ1J5OF9aY0hZc0pqYXFzenNMSHBFZWctTGQwbm9sRGlPUVNFRHFEMTJRaFByd2dlbmNhMHZoOHNiTGJ6Rkl1aHREY18xeXVPVmJrTDRvN2o3ZE5fVHZ1b3Q5YlA0cnlPbVZDNGRjZw?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-10T04:00:00.000Z",
+          "publishedAt": "2026-11-10T10:31:35.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -113,12 +113,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 74,
+      "totalArticles": 77,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -40,
-      "reason": "Last 3 days averaged 7.7/day vs 12.8/day before.",
+      "changePercent": -32,
+      "reason": "Last 3 days averaged 8.7/day vs 12.8/day before.",
       "daily": [
         {
           "date": "2026-11-05",
@@ -146,10 +146,18 @@
         },
         {
           "date": "2026-11-11",
-          "count": 0
+          "count": 3
         }
       ],
       "topArticles": [
+        {
+          "title": "Fact Check: Rajnath Singh never said Army morale was low on Deepawali, Indian Army exposes deepfake video - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQODlpT1JyeWNxa1ppS0p5YVAteWNFX0YxanNNM01JcTFtdDF5N2FRd3NoUW5JRGpuU1pSZW5CbFlRX3R2dm9Jck9kTlczdVFqM3hKXzdnNzF3SWxvcXEyMWJEbHh6aUVxMjc5di1LdFhaNThKVzBualg5RWlJYUl0M3B2d1JrTXQ4WlFmb0xIZzBlS3F5b1pIX0ZMa0RiempHekxERDdGUFpHZG1qZWVjcTFOSkxSbHluS0xzTThoUlJKVFVaZ195YmlNMnd2bzk1VHVIcFBnSVVBZjZoSE9WREdfZ3Rkd9IB6wFBVV95cUxQMDh1LV8yWVRkMXg4VzlBcWlsYUgxNkdseFkwUjlqY1hTOC1ORE1CbERfcDFYM3gtdjlQUm4ydVc5RUtfY3lkd184N3ZySlBmT01yRU5ZOWw3T2w1dnNaUEUxSDJxQmkzYzQ5SXVYeFRaSTJxcENPUkdac3RxbkIwZXJHUEc1M0FGN2dmN180WTFxVGYyWHRhOVVZdEVqLVo3WGh6VXE4enV1bFJoa3l6RmQ4OGhnQ3Fma3FpeF9OZTlCNzl5bG94MWdSX2huckE0TldnZkZRVWpJa1N0RkxZWDdsVi03X1Y3LWJF?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-11T06:43:27.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "Fact Check: Did China capture 50 Km of Arunachal Pradesh? Indian Army debunks Pak-run viral claims - Organiser",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWlyR3ExUnZzMTZtMy1mN3ZoaXVtbm82VXRMczZsa1luSlFDUEVjWTVEalpOX0Q5ZTR4eHVqWkdhbEc2VndzeS1rVFRNaGNGZVpyQVQ5Q2hiNWVCMUN4RTdMS2RWemcta080LTk2SHFocWNuU0xIekRHSk1zMGYybFlJNEpUVnZRQ1dyNzRDa3ZqRG5Qb2RrNTYtNVNLUEFvYTc5QkZUZXpTOEZaQ043SGZ1aGZGV0ZUNmdSOUNhQkhFcE8xYVlRMm56bWlDT0N6ek1kY2pxU0JfRXZN0gHiAUFVX3lxTFBQM1RCWUVCd01wQURpYldQTlZ4TFRnc0NQOV9ZenA3aWlQejVBSkNkcXI4aVdMLWVrWVN1b0h3XzVmbHRHcDVjUWY0NnA0VHU4TjFlOG9BNEd2SkY0QTJUY1R3Vkx5eVI3ZHNWTzJNenJkZlo5dUVxaHpobF9HTHdLU3pKaWFzZWp5Mkh4OVByNW5uYWg3Z0lCLW51azVYakhRQ1NvdWh6WHlwd1kwQ0NwcTVCRTlZaENBeGltS1B2elNYcFlobWpQd1JDSC1FMnRsak4wX0pmN2FrMnRjWFlxU1E?oc=5",
@@ -205,26 +213,18 @@
           "publishedAt": "2026-11-06T08:54:33.000Z",
           "riskScore": 59,
           "corroboratedBy": 2
-        },
-        {
-          "title": "Arunachal On Edge: India-China Face-Off Fuel A Flood Of Misinformation | BOOM - BOOM Fact Check",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUndfQmZoYmpFQngyWGlZZzZ1aXlUWmVyejBKaTAxMUdRQ1NFZkFkMGQ4U3pQaE9ZUExNcHFBcG40SEkxVkdoRTE4QlFpQ0RIU1o2cHl4QkZzWmItZ3pKdFIxTjY3NlBFWkJVbjhsbzA1MlR1LXNmangyc29RVWdvYmFFUjRSLWlGN054UUF6MGFhVXk4Q3YwZDR6UUtvVzBLdVZpNjNTWDd4Y2pDWEllaDNzZXHSAbQBQVVfeXFMTVJ3X0JmaGJqRUJ4MlhpWWc2dWl5VFplcnowSmkwMTFHUUNTRWZBZDBkOFN6UGhPWVBMTXBxQXBuNEhJMVZHaEUxOEJRaUNESFNaNnB5eEJGc1piLWd6SnRSMU42NzZQRVpCVW44bG8wNTJUdS1zZmp4MnNvUVVnb2JhRVI0Ui1pRjdOeFFBejBhYVV5OEN2MGQ0elFLb1cwS3VWaTYzU1g3eGNqQ1hJZWgzc2Vx?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-11-10T12:09:54.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 69,
+      "totalArticles": 71,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -33,
-      "reason": "Last 3 days averaged 7.7/day vs 11.5/day before.",
+      "changePercent": -28,
+      "reason": "Last 3 days averaged 8.3/day vs 11.5/day before.",
       "daily": [
         {
           "date": "2026-11-05",
@@ -252,7 +252,7 @@
         },
         {
           "date": "2026-11-11",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -325,12 +325,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 69,
+      "totalArticles": 71,
       "distinctSources": 2,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": -14,
-      "reason": "Last 3 days averaged 9.0/day vs 10.5/day before.",
+      "changePercent": -8,
+      "reason": "Last 3 days averaged 9.7/day vs 10.5/day before.",
       "daily": [
         {
           "date": "2026-11-05",
@@ -354,11 +354,11 @@
         },
         {
           "date": "2026-11-10",
-          "count": 12
+          "count": 13
         },
         {
           "date": "2026-11-11",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [

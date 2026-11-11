@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:54:10.413Z",
+  "generatedAt": "2026-11-11T06:53:04.085Z",
   "snapshot": true,
   "date": "2026-11-11",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-11 on child-abuse-nudity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 61
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 12
+      "itemCount": 14
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 33
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Man sentenced to prison after distributing child pornography, making false abuse reports - KATU",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWkV5Y1BqVVJobUlfQndSRlBzcTNwVWV1WDh5SXhYT1Y5WGxBYlZSdGRqeTlfVTZVRUR3QUplWmQxdjItTGE3Mmd4aFlJZkRXR2MyeUUtTE5ZN3F1cVpiUTg1VmZrZmFqd05NMmlrdUhfel9JTG1Xajg1bGpWaFVTdmh5VGNrWHVZUlBJbjJGM0FlaWZwTkZBZnYtQktkLW9fZTQ1WHYzMHlvT1RsaVVNcC1vUjZ3SWZ5Y1JvODljVXltYU03ZlRPT3NHbWZmZXBGeDBiOWJlLXZWYU5neEZlQnlRMG10dW1jV0o2ak8yTS1pUQ?oc=5",
+      "snippet": "Man sentenced to prison after distributing child pornography, making false abuse reports KATU",
+      "publishedAt": "2026-11-11T01:26:05.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Spain weighs TikTok suspension over child abuse content - Aju Press",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KbU5tWlQzR2NzVnYweTdiclFDYkQxdmxkbFFUc2FqXzU1c3hwWjd5cy1jZzYtb0NYMlVvWFNUSHF2VW8tazZCS1A0Rm4yNlJaX2FGbnlLRdIBV0FVX3lxTE5KbU5tWlQzR2NzVnYweTdiclFDYkQxdmxkbFFUc2FqXzU1c3hwWjd5cy1jZzYtb0NYMlVvWFNUSHF2VW8tazZCS1A0Rm4yNlJaX2FGbnlLRQ?oc=5",
+      "snippet": "Spain weighs TikTok suspension over child abuse content Aju Press",
+      "publishedAt": "2026-11-10T22:25:35.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

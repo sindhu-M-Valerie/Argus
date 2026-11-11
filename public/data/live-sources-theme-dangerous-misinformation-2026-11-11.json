@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:54:10.413Z",
+  "generatedAt": "2026-11-11T06:53:04.085Z",
   "snapshot": true,
   "date": "2026-11-11",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-11 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 61
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 12
+      "itemCount": 14
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 33
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Fact Check: Rajnath Singh never said Army morale was low on Deepawali, Indian Army exposes deepfake video - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQODlpT1JyeWNxa1ppS0p5YVAteWNFX0YxanNNM01JcTFtdDF5N2FRd3NoUW5JRGpuU1pSZW5CbFlRX3R2dm9Jck9kTlczdVFqM3hKXzdnNzF3SWxvcXEyMWJEbHh6aUVxMjc5di1LdFhaNThKVzBualg5RWlJYUl0M3B2d1JrTXQ4WlFmb0xIZzBlS3F5b1pIX0ZMa0RiempHekxERDdGUFpHZG1qZWVjcTFOSkxSbHluS0xzTThoUlJKVFVaZ195YmlNMnd2bzk1VHVIcFBnSVVBZjZoSE9WREdfZ3Rkd9IB6wFBVV95cUxQMDh1LV8yWVRkMXg4VzlBcWlsYUgxNkdseFkwUjlqY1hTOC1ORE1CbERfcDFYM3gtdjlQUm4ydVc5RUtfY3lkd184N3ZySlBmT01yRU5ZOWw3T2w1dnNaUEUxSDJxQmkzYzQ5SXVYeFRaSTJxcENPUkdac3RxbkIwZXJHUEc1M0FGN2dmN180WTFxVGYyWHRhOVVZdEVqLVo3WGh6VXE4enV1bFJoa3l6RmQ4OGhnQ3Fma3FpeF9OZTlCNzl5bG94MWdSX2huckE0TldnZkZRVWpJa1N0RkxZWDdsVi03X1Y3LWJF?oc=5",
+      "snippet": "Fact Check: Rajnath Singh never said Army morale was low on Deepawali, Indian Army exposes deepfake video Organiser",
+      "publishedAt": "2026-11-11T06:43:27.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: Anirudh Ravichander-Kavya Maran: Is the viral proposal video real? Here's what we know - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQjU1YW9RMVNKZVZXVi1VVXQxQmo1R3NHUlVHWVZtdUk4TTRiVjE0c0pYeWNvR3JDNEotNENjeW5rVUphTWN2bk1qcmZYVXVxeEpLX2d2VVUwV0RsczJIYU4xUS00eFhmcElSQW9aQVJBa01TVkd3ZThKY1VuMjY2aWlIRzJURzNVMFg2Q3FjNXQ2Q0ZETDJCa0w4Q1kxcG1pblE2ODhDdm5qQUtRamowa2JGSXBkOWl2Yi1QbS1VZWY4aGxCZUxHRnRTajY2RmJCaXM3VTFJNmRDS3VWUE50Wm9iYjY5S2g0RnJlUm1aSEJIUGVvSV9jRTdSemZYRkZXMWN0a1R0MkpqR3ZhRUNZRXJOR1lWcGvSAZwCQVVfeXFMTS1tMDBGNkxRRWk4SnV3XzF0THZtVHpBN1JpNzZJWGdpS1RfTkZ0OGlkZTFJM3Bqc2RYbGdyam5QNHFqdjdhMVBpd1VfZUxVei1OWjJLX2RadDktZFp1VW1fdDZWVDFfLVJZU2RITklyYzlKdG4xMHF2RV9pWXdlUFJsbDlZZnkwcGxDZkNyNm9iNGZNbjZVUlZiUS0zbFMtMl92MmdjTHdpYzlRbUdxVTEwMVpFOHV2T3BhVC1VMjBqcG5XVldsc3QxZmpJSXlRb2VUVHZTdVJzT0N5cDQtdlhoTDRuZGhrZ0h1S2tOV2xZMUhfNWkxbzJvMzNKZVNXRmF3TzY0US1hT3pNMkxlTUg0b1RZWTlHNllUX20?oc=5",
+      "snippet": "Fact check: Anirudh Ravichander-Kavya Maran: Is the viral proposal video real? Here's what we know The Times of India",
+      "publishedAt": "2026-11-11T06:32:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Fake news, disturbing social harmony’: Police complaint filed against Karnataka Minister Priyank... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWFhVZE9wekxxbjVwbDFHbTZiY0RDUHZld2pTcU1fLUh5UWp1UFV6eEdWSUhDSDJWNGV4RE94S2pyVXNrTHJlc2Z6WmJxeEhaYVB6WWQzZkEtWncxcVhjWWJqNHFOMGdFbzZLSWp6bWJYNGs0RHBra01nS2Z6Y1A0V1NYbnNHTzUzaTRRbjZHVl9FcEpxYmgtbzdDaDNRaTR0a3AwZkhIMU1nN3Y5bnhvODJrQUxUS0J1Q3VJQXVVNzFUYm9hUlNuQ1ROdkt0cF9uSkVTQVd4anhsaFVTU1ppbG9lSHY0dGo0aFk2OTBLcGhwaDROM05wN2x2bUzSAYICQVVfeXFMT0Z3LUNUVHZ2ckpueEwxb0JsdHNoZmtsWXhrb0hzNHdDRjFnX2pISnQzRVRMWHRlNml2RzE1TEFRZjNFSXBzWUFBR0o2ZFRMUW92LXAzZTZWNlpDTnB0NW12YUNKUmg2bGtUQmN0OFZlbm1qb2VuaHRYRG15bFpxcU0wQ3VTY0hwSXBXbW9HeVMyZGdLSUZyWE5ZYkQxVDliZkZGMlQzaWhkUXBRSmNnTEdQZF9UZmtCVGFYRmlCMVRpbld4ZUhzZG9aemtYYVpQZExXbVo3dlJxRzE0VkdiTEgySXZpOVIwOFpoYm1KRWtCaTBDcS1yM0ZzQWtULUpNbGFn?oc=5",
+      "snippet": "‘Fake news, disturbing social harmony’: Police complaint filed against Karnataka Minister Priyank... Moneycontrol.com",
+      "publishedAt": "2026-11-11T04:50:46.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

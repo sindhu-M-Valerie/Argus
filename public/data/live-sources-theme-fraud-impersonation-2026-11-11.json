@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:54:10.413Z",
+  "generatedAt": "2026-11-11T06:53:04.085Z",
   "snapshot": true,
   "date": "2026-11-11",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 8
   },
-  "message": "No verified news was found for 2026-11-11 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 61
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 12
+      "itemCount": 14
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 33
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 10
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,126 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Digital Arrest Scams: Supreme Court Asks WhatsApp To Explain Anti-Fraud Measures - Indian Masterminds",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVhqNmhTRmM1Z0JiNVc5OG5tTjVaN1U2NzNYNkptX0toeTBacGZjOEZZMHVaellwdFlUS2ExdGRMdXlKVjhFVEE2aDdVcHFUNjJxckpfcUlYRXFWa2lKVVdmdXlqV2VBdG5OT1hYSFQzdnJSc19OS1ZxcTN4ZzdrR2RyOG0yRDdQYlhQeGNvUDJpWkRVbzZhV09mTm8?oc=5",
+      "snippet": "Digital Arrest Scams: Supreme Court Asks WhatsApp To Explain Anti-Fraud Measures Indian Masterminds",
+      "publishedAt": "2026-11-11T05:16:39.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bitdefender Launches Web Sage - An AI-Powered Browser Security Advisor to Counter Evolving Scams and Fraud - NewswireToday",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHBHdE5hN25qYUdiOTdHWlVRTmkyNmN3TXo0cU5lMzl0U0ZPS1EtUG42M0hnandMS0haMmtlaHpmdEEtalhRZVgwengwU0pvS2JXTmVFMnlkTjhpSkhHVXdSTW52NUFHU0JKQk96VUpHX0NfRDJ6M21qS0tRbF8tUmdQa1BlS01mQTNXaEZIQnZtOFZKTk5mZExlZFZFWEdqTXpWanJSQ3FieHQzV0xrS0lRdVA4OFRCblY4MTNtdjBaMjBCSDBjbGRTVVRfWHE4U0hPVzROWHI1NUpJSnpEaw?oc=5",
+      "snippet": "Bitdefender Launches Web Sage - An AI-Powered Browser Security Advisor to Counter Evolving Scams and Fraud NewswireToday",
+      "publishedAt": "2026-11-10T23:16:27.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kuwait Police flag growing risks of online fraud schemes - Arab Times Kuwait News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVVXQ2RXWUQwcW9oOEs1eUdDV2tPZF9mN053R1ZQOS1TOWtGQzBCRE4yTmRoOVNSSVdlYmZBekF2S21xX0NZREluVWtKNjVxZHJhanJ1ajFxaUc4ay03VkpMZW9CNWI5TXlZdlRKLWpsaURaYnhLOUtUSHVVUFZUUUhWWU9jU1VYVmNtWGx2em9EcV9JV2FZUHB3?oc=5",
+      "snippet": "Kuwait Police flag growing risks of online fraud schemes Arab Times Kuwait News",
+      "publishedAt": "2026-11-11T03:49:44.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Railway Cloud Breach Exposes Credentials, Sparks Massive AI Billing Fraud - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84WHVnUVAyLWFfbE1ERkFqRVpTRDhoYzV3UnVkWlk2cjdxaGlVVlNXZFRadTMybEtkbldNT01DcWdDRmFESFMtWWUzOFd3a0UxdkROcDh0VUkydGFGdklES2xnQjBaSmZ5TEJmMVh3?oc=5",
+      "snippet": "Railway Cloud Breach Exposes Credentials, Sparks Massive AI Billing Fraud The 420.in",
+      "publishedAt": "2026-11-11T02:54:51.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bitdefender Launches Free AI-Powered Browser Extension After Finding One In Seven Consumers Were Scammed - SMBtech",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaHNYX0FkWDV3OEJKZmc4amNZM2RVY2xoQkNIZUhnWnRWNkZJcWxqZl90eGpEdUY3ci13dkZXaDVqZWRDSVg2V1pzaURnbFJPblRpeWRWWFVEdGJDaUxXNGV0Qll0YWNuZWZoZ1NnSl9qWjlIc2lrd0stNlRKb1d4ajBGODNhakFEa0RhRFlaU25KM1BzNXVjb2JwUGVGWjdITkZVdTlLS3Rod1pyQkdMNG5pS2pKbGNNb3Y4RzhxYjViVWpXYmxwbw?oc=5",
+      "snippet": "Bitdefender Launches Free AI-Powered Browser Extension After Finding One In Seven Consumers Were Scammed SMBtech",
+      "publishedAt": "2026-11-11T01:32:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Washington Post. . Sen. Maggie Hassan (D-NH) is a co-sponsor of a bill to create a centralized resource for scam victims seeking support. In the latest episode of “Dollars & Sense with Michelle Singletary,” she discusses how AI is supercharging the scam indu - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPalpadmNieFFUaFVOQll4Z3NFYi1MSFBuNzdLbTRtR0o3bk1OUHVtTDRTbFR3bVNZYWNkOERaZm9vQ2V2enVxMlhfdmE0cGU3NDlzamtTREZ3VnlTdjFKdUpEVFRicEpaVUtLRGdLUmhCQVdHeVpCTnF5M2VieDR4VE10M2o2amYwTlpFN2lEZUVjS2FVZ295OUNKWFZOd1hoeFItb2FPdmlnTTJvWUxXZzR5SDBCYWpVRktGSUdPVFFBSUJnT3M0NWNjeFRsNjZDanR5YnN0M1Nwc19t?oc=5",
+      "snippet": "Washington Post. . Sen. Maggie Hassan (D-NH) is a co-sponsor of a bill to create a centralized resource for scam victims seeking support. In the latest episode of “Dollars & Sense with Michelle Singletary,” she discusses how AI is supercharging the scam indu Facebook",
+      "publishedAt": "2026-11-10T23:45:02.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cambodia’s Scam Crackdown Has Failed to Stop the Industry’s Global Spread - Tech Policy Press",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHZWT2xHamg1WkxDR3E5TnVtTlRUTTJtR2VuYVZudXA3SGpTNkV2VlFab1JhaENhLVhQOXJlNXdUaVNPX3VHV1FPWUQ3V2RYS0RWTWxLZllaa1d5RUg0TUlZUTFPWXVLN2pHcW1GMEh4Tkx3LWV4emp6eENzeVNkUmNoSV9OSDhvNDFZLXdkUDJNQVcxT1V5TWJmVHcybWZPRTF3?oc=5",
+      "snippet": "Cambodia’s Scam Crackdown Has Failed to Stop the Industry’s Global Spread Tech Policy Press",
+      "publishedAt": "2026-11-10T21:42:54.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Let’s Talk: How to protect your business from scams that now sound like real people - Dynamic Business",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY2FHNE5OUUdCVkk2aWVEbWtfZHBQOFVRLWdFaVI1amM3aHBrSGRqbFl3YnVEenFHNHFjLVJaMTV2RUszUnh1YkF4WTBSeVFtYWY5SVp0UUdWd1pzWlh2cFY2V0tQZmhtUUhPbUdmRU5zRVJwWlpJWFpqTUJkTmEzaGM0ckwzeDlGTzJjOFJSckpCcExUNnZ2MXRsTllaVmFmVkM5YnhsVU9UYkljZHRCVl9KLXBEb3RkcWIzelNYaVp5VVVpanNYa2QySUtqMmhFbTZFX0ZXYmFqZS04aDV2YQ?oc=5",
+      "snippet": "Let’s Talk: How to protect your business from scams that now sound like real people Dynamic Business",
+      "publishedAt": "2026-11-10T20:20:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
