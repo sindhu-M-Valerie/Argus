@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:53:04.085Z",
+  "generatedAt": "2026-11-11T19:45:39.939Z",
   "snapshot": true,
   "date": "2026-11-11",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 38
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,42 +37,42 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 63
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 14
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 28
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 40
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,81 @@
     }
   ],
   "data": [
+    {
+      "title": "Spain investigates alleged child sexual abuse material on TikTok - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmM0MDR5MjJKVG9ocEZtclJVQWhqaVZMRDhDcUJMX3BJMlljYnpBdnlUVmV5QjF3SFVCbHJ2Mk9SSGNhSFFfWG9zYWVfX1BEQXFBZHJMLXNWdXE4dDhIUDNNQ3BLYlo0S0t2bFNhWmI4Uk1ReHFjQ0ROZEozdG5CXzJ0VFY1TWpmaDdlbHJtcEdPeDN0dV9FSU1uT3drWmdnNnMyM2tQdjk5RU5QdmM4RU130gG3AUFVX3lxTFBzck5hNzFaZ21vNl9LNW0zQzMxOEIyWndWRFd0cjRKY0JlLUVPQXVzc2dZUDFzYTAxWmZqQ3VsMVY2cXFhTElIYnpxckZEWkpqWGE5VFdPUEpjWFdxZ0dLS2NKZmhFZ1AwbGFVNTFtT0tKQVpqOVdLYk9wVmxBZ2hkTDJ6Y2NGcGdLN3RUZmwyTFdIOGVZOGRTU0ZqZVNpOFl2MmZKM0w1SE9kcHItM19GcGVoSkx6MA?oc=5",
+      "snippet": "Spain investigates alleged child sexual abuse material on TikTok NST Online",
+      "publishedAt": "2026-11-11T15:42:08.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 67,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Spain investigates alleged child sexual abuse material on TikTok - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTnJ4YUhmZ3psekFXZThDaVZvYzVMZFVQY0tWMXlFZldMU0VCeHA2TUZRT1BMUDZ3bXhYd1NkajVzVGxOSUZSV3pwT0FGeVEtbkJhY2tLSzhXV3ZBcDI1dWVNOEVEcmZQOWNSNXlidVZEY3RERHczVDZKX0thdm9MTzhZOHhwZk4zMzhGTmJfV3MtXzdONUdyRk5kWm1IYmdCUjc1ZnNpT3hZdkRlaDczcjVIMVBEWGRIcDJaTHdOZ0xQWFdO0gG3AUFVX3lxTFBzck5hNzFaZ21vNl9LNW0zQzMxOEIyWndWRFd0cjRKY0JlLUVPQXVzc2dZUDFzYTAxWmZqQ3VsMVY2cXFhTElIYnpxckZEWkpqWGE5VFdPUEpjWFdxZ0dLS2NKZmhFZ1AwbGFVNTFtT0tKQVpqOVdLYk9wVmxBZ2hkTDJ6Y2NGcGdLN3RUZmwyTFdIOGVZOGRTU0ZqZVNpOFl2MmZKM0w1SE9kcHItM19GcGVoSkx6MA?oc=5",
+      "snippet": "Spain investigates alleged child sexual abuse material on TikTok NST Online",
+      "publishedAt": "2026-11-11T15:42:08.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 67,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Spain investigates alleged child abuse material on TikTok - RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDRjclJHRXhjNFRhY1haZzJ1c014MTVKS0NoZTY4U1hkdzlXQzhaYnZQZjdYUEZPZ3VOYjZCbjJ5aHhFV2FIcWx4bHAyYXFxdzNDYXVkZWRLRE1ZeE5GeUQ0bVZHVy1jdWFoSlBQX25NVVA5ZmN4M3dYOWRmNl9ocg?oc=5",
+      "snippet": "Spain investigates alleged child abuse material on TikTok RTE.ie",
+      "publishedAt": "2026-11-11T16:55:56.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Spain opens TikTok probe over child sexual abuse material - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzl3U1NnTGdSZ013SXZvaldHengtUGRQdXhEZ1hTUm9wYl9JTTBVTzB4b0FfN2RHYjZQLTJCZzRvS19wcGEzSlR4MTk5UEZ1cDJqbUJzemZsb1lqcTVHTnMyQUJnUVhDZWtDYWUzZ2t5WUU0cF9hVnVDRjFBUHZndnlMSUU?oc=5",
+      "snippet": "Spain opens TikTok probe over child sexual abuse material Latest news from Azerbaijan",
+      "publishedAt": "2026-11-11T16:49:44.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Spain pushes to suspend TikTok over child abuse material - 3News",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvSGpZWkJiVEMtaVFXVzdTcV93VDQtQ0tndkl6Y0hsMkNlWVFCU01uRjhkeXMtaDJtbHJvT3V5dnRvX19mZGtLV2dJck9ya3ZhUFBGT2ZKbGltYWxEYUYwdXBCUUFZUktuMGlwN3M3SFlPQQ?oc=5",
+      "snippet": "Spain pushes to suspend TikTok over child abuse material 3News",
+      "publishedAt": "2026-11-11T09:00:40.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Man sentenced to prison after distributing child pornography, making false abuse reports - KATU",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWkV5Y1BqVVJobUlfQndSRlBzcTNwVWV1WDh5SXhYT1Y5WGxBYlZSdGRqeTlfVTZVRUR3QUplWmQxdjItTGE3Mmd4aFlJZkRXR2MyeUUtTE5ZN3F1cVpiUTg1VmZrZmFqd05NMmlrdUhfel9JTG1Xajg1bGpWaFVTdmh5VGNrWHVZUlBJbjJGM0FlaWZwTkZBZnYtQktkLW9fZTQ1WHYzMHlvT1RsaVVNcC1vUjZ3SWZ5Y1JvODljVXltYU03ZlRPT3NHbWZmZXBGeDBiOWJlLXZWYU5neEZlQnlRMG10dW1jV0o2ak8yTS1pUQ?oc=5",

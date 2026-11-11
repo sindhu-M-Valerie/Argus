@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:53:04.085Z",
+  "generatedAt": "2026-11-11T19:45:39.939Z",
   "snapshot": true,
   "date": "2026-11-11",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 38
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,42 +37,42 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 49
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 61
+      "itemCount": 63
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 14
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 28
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 40
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 10
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "APCR documents 322 hate crimes, 83 hate speeches from Jan-Sept - The Siasat Daily",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2tGLXhteWFMU0dSeXQ0LWNlS2o5T1NVR25teGpuaWtFSUduX2FrOXVXeVNubXBDY1R0OTlBaVhsVFRzVXhMTXhMQUN3SUo4OXhYZDFtQko2d1BWbVFqQ25JUnhuenVSd1l1dkstbnFmT2FKcmR6eWxBUFJ3bTlEV01NWUJjbzJVVTBpTWFETDlXOVZ2TWFtX2NrN091Z9IBngFBVV95cUxOb2tGLXhteWFMU0dSeXQ0LWNlS2o5T1NVR25teGpuaWtFSUduX2FrOXVXeVNubXBDY1R0OTlBaVhsVFRzVXhMTXhMQUN3SUo4OXhYZDFtQko2d1BWbVFqQ25JUnhuenVSd1l1dkstbnFmT2FKcmR6eWxBUFJ3bTlEV01NWUJjbzJVVTBpTWFETDlXOVZ2TWFtX2NrN091Zw?oc=5",
+      "snippet": "APCR documents 322 hate crimes, 83 hate speeches from Jan-Sept The Siasat Daily",
+      "publishedAt": "2026-11-11T11:56:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "BJP, Hindutva leaders' hate speech, calls for violence against Muslims, Christians go unpunished: Report - Madhyamam",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRkVKdThEdmVfd05BWXFaME4zdlpCbTB1VjNMUEdLbVRYTHlZNXhUeTJfZHZnN3NDdUdWUmYxSklpU1NKd2Nock5qU3BobS0xaF9HQmlIM0ZwYm1VOEtRRUlsRlZXUlJFTkRDdl9RalJFZENhLU40aVB1RFpzSFFranZKZ0ZQT1NDNW02WlhndTgyUXF5ZWFzWWdaR3FodDFfNEs3MzJPblpFTGNOTW91alJDS1VPNExSOGdIQ0VGdHpHTnF4WWVldDRuRVg1enJXS1NveGdhRF_SAd4BQVVfeXFMT1hNY3laZThlR1lISUZwdjNZTl9sczFzNEtYWXJnMGIwV0NuNFhxNHp0UnJYTEhqeE54bEk0R1NGX3B5NmU2QnVLVUlaZDNyNExvN0tlUW15bWdiU0M0NjdlNU1VM3JmUzRkMnY5S1JnLXhaaUgwaXZFTmVTMkxvOUdPdHo3T1huNHBFRWZoekxmWVdOLTN6VGpJSlVNWXNEUmtET0dQeHlqRE9qbVVaanpMWjh6T1ZSZVRmWnBCemh2clYyaTFDRmdlT0Rla0VXaDlHLVBtN2lQQkduYVdn?oc=5",
+      "snippet": "BJP, Hindutva leaders' hate speech, calls for violence against Muslims, Christians go unpunished: Report Madhyamam",
+      "publishedAt": "2026-11-11T07:55:02.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission drops bid to make ‘hate speech’ an EU crime - Brussels Signal",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGxXVE93RFZSM3liYkd2cFhrM3FZRFctemNMdHV5WTcySVdBOTBRb2pXTTh4b1FWeFJrZ3J1aW5lMURTY2ZqN3BhU1FYdm1FUTdSa050Q2czWVQ5R3ZmYzhNQ0g1dU14eHlnbkF6UnhPU09ERFJ2d3M1dnNlaVktdXNnX0RxY0RkUVFINWl5S19rck1zdFFzNC0wNlE?oc=5",
+      "snippet": "European Commission drops bid to make ‘hate speech’ an EU crime Brussels Signal",
+      "publishedAt": "2026-11-11T12:20:57.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "European Commission pulls plan to criminalize hate speech - WORLD News Group",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmhPSW9uQU1MTWd2U0FnZ1ltak9ZODJOdFozbWN1WUZ5Mno2SExjTTBsSk1kTnZQenNFTGFEZndnM1c2c1NjamlKOUJidi04WGp0cEZOZ29HSV9SYWw3MXF2ckpDQXdFVkpzeER5TGxOblE0RnA0VVFsb2VSNDROdUJ4WElPd2hNVWtUcWpIbkxpNE0?oc=5",
