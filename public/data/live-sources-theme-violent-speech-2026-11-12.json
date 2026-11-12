@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:29:02.713Z",
+  "generatedAt": "2026-11-12T20:13:28.417Z",
   "snapshot": true,
   "date": "2026-11-12",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-12 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,21 +44,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 43
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 59
+      "itemCount": 60
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 22
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 20
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Concern over hate crimes, speech against minorities in India - ucanews.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmlfR2xoRkpNVjdBMU9adXFpMG1SSTFEakZ1MGdEaFpLMVpFem9BeXFQc2QzRG84TXRaSllUYV9oczdNbHJCa2F2cDZxRkRPUUZlalh0a1RsVzdhcV80NXQxOXlTUDFfMlRKMFpYNlVmUWRpVENQV0lQVVA3SnpDQktNSE1xUjhYSjItQUhVX0tWQXZuNkFVVU1n0gGaAUFVX3lxTE1maV9HbGhGSk1WN0ExT1p1cWkwbVJJMURqRnUwZ0RoWksxWkV6b0F5cVBzZDNEbzhNdFpKWVRhX2hzN01sckJrYXZwNnFGRE9RRmVqWHRrVGxXN2FxXzQ1dDE5eVNQMV8yVEowWlg2VWZRZGlUQ1BXSVBVUDdKekNCS01ITXFSOFhKMi1BSFVfS1ZBdm42QVVVTWc?oc=5",
+      "snippet": "Concern over hate crimes, speech against minorities in India ucanews.com",
+      "publishedAt": "2026-11-12T11:20:00.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
