@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:45:39.939Z",
+  "generatedAt": "2026-11-12T07:29:02.713Z",
   "snapshot": true,
   "date": "2026-11-11",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 53
+    "total": 58
   },
   "message": null,
   "sourceStatus": [
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -386,6 +386,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EC Issues Detailed Fact-Check, Rejects Claims Of Vote Discrepancies In Multiple Constituencies - Ommcom News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMF96cHNCNGhPWjJUeC1GVUh2NURVSmZXcU5EVHU3Zk1hXzNkdE50ME1NR2FncFlhTTZfdzlZRlZ3S2R6NUY5ZGdYU2VmYThXZ09yUy1CSGpVYTdSbG5mZlhZQzlnc0lDeUl6OHdIUFRuNUt6X1VOcUREaThGeDdWdmpuYlQzQUJ3bTZ4QWZDa1RjZTdFNzB2bDk1ZjNiT0tPTmRzTmhtNFdRTGxWMFJiY0tLSFV3YzZHZUhseUdieWw3SHdfajhN?oc=5",
+      "snippet": "EC Issues Detailed Fact-Check, Rejects Claims Of Vote Discrepancies In Multiple Constituencies Ommcom News",
+      "publishedAt": "2026-11-11T17:33:59.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
@@ -632,6 +647,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "The Rebirth of Neo-Nazi Ideology in Russia and Its Appeal to Young People – GNET - Global Network on Extremism and Technology",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZERxUFZnbW5MRnhWamxudFFNZnA5QTd2b0lydm5XS3ZMU3IyY3E1VlBHcWtpbHp2dlpSQzhRaG9FYjlOYzg1NF9wSERveGw4S0F3YTZ4cGh1VFBVdWxkcnVwOFYwVjAxQ2c1Y09DcDVfckxCRnhHRHB5aXU5UnFJZlZFY1dXS09WcnN5NW1lb2dDUUNEQlNGOHE2bzFab05US2JZbVlMQVVNRzhad3JZSQ?oc=5",
+      "snippet": "The Rebirth of Neo-Nazi Ideology in Russia and Its Appeal to Young People – GNET Global Network on Extremism and Technology",
+      "publishedAt": "2026-11-11T15:07:05.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "‘Fake news, disturbing social harmony’: Police complaint filed against Karnataka Minister Priyank... - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWFhVZE9wekxxbjVwbDFHbTZiY0RDUHZld2pTcU1fLUh5UWp1UFV6eEdWSUhDSDJWNGV4RE94S2pyVXNrTHJlc2Z6WmJxeEhaYVB6WWQzZkEtWncxcVhjWWJqNHFOMGdFbzZLSWp6bWJYNGs0RHBra01nS2Z6Y1A0V1NYbnNHTzUzaTRRbjZHVl9FcEpxYmgtbzdDaDNRaTR0a3AwZkhIMU1nN3Y5bnhvODJrQUxUS0J1Q3VJQXVVNzFUYm9hUlNuQ1ROdkt0cF9uSkVTQVd4anhsaFVTU1ppbG9lSHY0dGo0aFk2OTBLcGhwaDROM05wN2x2bUzSAYICQVVfeXFMT0Z3LUNUVHZ2ckpueEwxb0JsdHNoZmtsWXhrb0hzNHdDRjFnX2pISnQzRVRMWHRlNml2RzE1TEFRZjNFSXBzWUFBR0o2ZFRMUW92LXAzZTZWNlpDTnB0NW12YUNKUmg2bGtUQmN0OFZlbm1qb2VuaHRYRG15bFpxcU0wQ3VTY0hwSXBXbW9HeVMyZGdLSUZyWE5ZYkQxVDliZkZGMlQzaWhkUXBRSmNnTEdQZF9UZmtCVGFYRmlCMVRpbld4ZUhzZG9aemtYYVpQZExXbVo3dlJxRzE0VkdiTEgySXZpOVIwOFpoYm1KRWtCaTBDcS1yM0ZzQWtULUpNbGFn?oc=5",
       "snippet": "‘Fake news, disturbing social harmony’: Police complaint filed against Karnataka Minister Priyank... Moneycontrol.com",
@@ -641,6 +671,36 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Fake news, disturbing social harmony’: Police complaint filed against Karnataka Minister Priyank... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRnctQ1RUdnZySm54TDFvQmx0c2hma2xZeGtvSHM0d0NGMWdfakhKdDNFVExYdGU2aXZHMTVMQVFmM0VJcHNZQUFHSjZkVExRb3YtcDNlNlY2WkNOcHQ1bXZhQ0pSaDZsa1RCY3Q4VmVubWpvZW5odFhEbXlsWnFxTTBDdVNjSHBJcFdtb0d5UzJkZ0tJRnJYTlliRDFUOWJmRkYyVDNpaGRRcFFKY2dMR1BkX1Rma0JUYVhGaUIxVGluV3hlSHNkb1p6a1hhWlBkTFdtWjd2UnFHMTRWR2JMSDJJdmk5UjA4WmhibUpFa0JpMENxLXIzRnNBa1QtSk1sYWfSAYICQVVfeXFMT0Z3LUNUVHZ2ckpueEwxb0JsdHNoZmtsWXhrb0hzNHdDRjFnX2pISnQzRVRMWHRlNml2RzE1TEFRZjNFSXBzWUFBR0o2ZFRMUW92LXAzZTZWNlpDTnB0NW12YUNKUmg2bGtUQmN0OFZlbm1qb2VuaHRYRG15bFpxcU0wQ3VTY0hwSXBXbW9HeVMyZGdLSUZyWE5ZYkQxVDliZkZGMlQzaWhkUXBRSmNnTEdQZF9UZmtCVGFYRmlCMVRpbld4ZUhzZG9aemtYYVpQZExXbVo3dlJxRzE0VkdiTEgySXZpOVIwOFpoYm1KRWtCaTBDcS1yM0ZzQWtULUpNbGFn?oc=5",
+      "snippet": "‘Fake news, disturbing social harmony’: Police complaint filed against Karnataka Minister Priyank... Moneycontrol.com",
+      "publishedAt": "2026-11-11T04:50:46.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "A New Wave of Neo-Nazi Accelerationism is Rising - Global Project Against Hate and Extremism",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JVjF1QVFlQzRWN1RwZXQwamthT2JzYkd4eFRyOTExVUZOcGJUZHB3TVBiUFVQbVlfT1ZwaXFlZTRBUm5vVmwzcmVSUHdXcnd3LW5odDl0b3BUelNmRDY0SFRhTm45U2RiMlpoT2hTUmZXRjllQlM4?oc=5",
+      "snippet": "A New Wave of Neo-Nazi Accelerationism is Rising Global Project Against Hate and Extremism",
+      "publishedAt": "2026-11-10T20:06:59.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
       "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
@@ -845,7 +905,7 @@
       "title": "Cybersecurity a strategic priority for nat'l security: Zabihullah - Bangladesh Sangbad Sangstha (BSS)",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YbGxYUVFrWjVzSGdCNUZZemZQeDhuN3V2WUY3cGRjR3ZaT1BhWmlGTmJHbGFnZ2xMUVNRYjYxYUlBMWFyUjQzWWx3cw?oc=5",
       "snippet": "Cybersecurity a strategic priority for nat'l security: Zabihullah Bangladesh Sangbad Sangstha (BSS)",
-      "publishedAt": "2026-11-11T17:04:35.000Z",
+      "publishedAt": "2026-11-11T17:25:47.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -874,6 +934,21 @@
     {
       "title": "Cybersecurity in 2026: Modern Website Security, Digital Trust, and Protection Against Cyber Threats - Inter Press Service",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVBlSzB0blFjVjAxWVloVHdrSXE1X0lPRW1ndDlwNUNGMnVBLU4tNDhlU0lxci1zSmt5WWxPeW9EcXVCUnFzY2xfZ2VwZERPVzFxR0NHRlNuT1VETDN4M1ZKVlV4SVZZYWxVYmxLTnNZeTNsbFRFN056ZjhUdkdob2VXSTczanJrSUZxdHZPQ19HTHg1cS14X1hrbkFCMmRFalNaS2ZpXzQxQUF4d2daU2xLclliYmYyei1ZWHRmby1OQUR3SXJvZDB5b29lZnV4MTR5Z01BaTZRVG8?oc=5",
+      "snippet": "Cybersecurity in 2026: Modern Website Security, Digital Trust, and Protection Against Cyber Threats Inter Press Service",
+      "publishedAt": "2026-11-11T13:25:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity in 2026: Modern Website Security, Digital Trust, and Protection Against Cyber Threats - Inter Press Service",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnRLZnhDOGc0eGYteExZTjJhc05CQWI4ZzhkZ2hkOVVPN2E5NFh4anM3VWFiUEx0aUVMaHlEWl9LRXR5QUJzaWswbU9CQlpqNXVkWlhhY3pmWTZ3VU1HczVQa29RQmFuX0RRM2NtRUdCVmN4dzNPVk4yaVRoMk96NzFyOV9DSEc5ZmFzX1hOa0IzdGVPa0xiYzEtdjFndDRfcnRIQ0dYc1M4RENhcnVVVWYtbEhueWZ0T09RVzNXb2d6ZHlqU2Q0b0VaMmZzdEtZS3ZV?oc=5",
       "snippet": "Cybersecurity in 2026: Modern Website Security, Digital Trust, and Protection Against Cyber Threats Inter Press Service",
       "publishedAt": "2026-11-11T13:25:03.000Z",
       "source": "Google News • Cybersecurity Incidents",

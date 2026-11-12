@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:45:39.939Z",
+  "generatedAt": "2026-11-12T07:29:02.713Z",
   "snapshot": true,
   "date": "2026-11-11",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -191,6 +191,36 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Rebirth of Neo-Nazi Ideology in Russia and Its Appeal to Young People – GNET - Global Network on Extremism and Technology",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZERxUFZnbW5MRnhWamxudFFNZnA5QTd2b0lydm5XS3ZMU3IyY3E1VlBHcWtpbHp2dlpSQzhRaG9FYjlOYzg1NF9wSERveGw4S0F3YTZ4cGh1VFBVdWxkcnVwOFYwVjAxQ2c1Y09DcDVfckxCRnhHRHB5aXU5UnFJZlZFY1dXS09WcnN5NW1lb2dDUUNEQlNGOHE2bzFab05US2JZbVlMQVVNRzhad3JZSQ?oc=5",
+      "snippet": "The Rebirth of Neo-Nazi Ideology in Russia and Its Appeal to Young People – GNET Global Network on Extremism and Technology",
+      "publishedAt": "2026-11-11T15:07:05.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "A New Wave of Neo-Nazi Accelerationism is Rising - Global Project Against Hate and Extremism",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JVjF1QVFlQzRWN1RwZXQwamthT2JzYkd4eFRyOTExVUZOcGJUZHB3TVBiUFVQbVlfT1ZwaXFlZTRBUm5vVmwzcmVSUHdXcnd3LW5odDl0b3BUelNmRDY0SFRhTm45U2RiMlpoT2hTUmZXRjllQlM4?oc=5",
+      "snippet": "A New Wave of Neo-Nazi Accelerationism is Rising Global Project Against Hate and Extremism",
+      "publishedAt": "2026-11-10T20:06:59.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
       "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",

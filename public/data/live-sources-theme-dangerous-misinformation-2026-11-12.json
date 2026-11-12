@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:45:39.939Z",
+  "generatedAt": "2026-11-12T07:29:02.713Z",
   "snapshot": true,
   "date": "2026-11-12",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-12 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Priyanka Gandhi Slams BJP Over Sonia Gandhi Memoir Misinformation Lies - Asianet Newsable",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeE01OEhjUlI0QjV5RVJLM2NSQ241QUZZa2ZCRDVhaE9sb2JYekFqeEhuRUJwR09mRWIzVVd1U0Fubjg3U3dwTnMwQzBoLXNwZnpXQ2JMTnk1bDJHVjZGVi1QZTQtTXhya2pfcDBaMzF0RTZvTUktZnhZSklfX0NLeHdSQl8xZjlNN2E3TkZTNm1fV0pCNGppNjctVjBsX0ZuYzk2dVhjNDdNVjdMdjlhODhFWGhvZmthbkFKT0hsT200a0U3RndNdNIBzgFBVV95cUxPd256YmRyQjhKRW9PcGh5TzFiblQxQ0VOT3lPczB2cDZzRWxITWFnNEUzc3RfUWY3a2tYcFdnUURzT0Z4dERjTTc3YktpOWktQjR2QVZZRnZ6dVdwZkxHUDhMWnpjS0tkZUFtY3lXMGxsMFBickt2dE9qZDF0dHJVcU4yMEFMbU4wUGZhU1FIRmdLLVZqYklxR2RPc2J4aWthbWdtQk5pbW5RNUZKenBHTWdQVEtDNWNlYjVoa0pGNmlOZ0tuUzVTVTlUYnB6UQ?oc=5",
+      "snippet": "Priyanka Gandhi Slams BJP Over Sonia Gandhi Memoir Misinformation Lies Asianet Newsable",
+      "publishedAt": "2026-11-12T07:00:46.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "2027: Police say online surveillance targets fake news, not criticism - The Sun Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnJWdmxJdkoybWtzOEF6c2xTcndLZlU3dHhtZTlObHc5aE1pX2ZkNDE0UDN1V0RtcVpGcGlCNjZncTc2Q0NqSDBrXzJrU25LS1plOTROWWk5Z2FsSWRfVExfS2lKVXh4Y0xoRFBqZklmVVUyNldqaV80MnVjY3lha0phd0hjV0ZPQ1Q4ajVENA?oc=5",
+      "snippet": "2027: Police say online surveillance targets fake news, not criticism The Sun Nigeria",
+      "publishedAt": "2026-11-12T06:58:31.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

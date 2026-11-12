@@ -1,124 +1,18 @@
 {
-  "generatedAt": "2026-11-11T19:50:27.050Z",
+  "generatedAt": "2026-11-12T07:33:40.948Z",
   "windowDays": 7,
   "endDate": "2026-11-12",
   "collectedDays": 7,
   "data": [
     {
-      "theme": "fraud-impersonation",
-      "label": "Fraud & Impersonation",
-      "totalArticles": 78,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 20,
-      "reason": "Last 3 days averaged 12.3/day vs 10.3/day before.",
-      "daily": [
-        {
-          "date": "2026-11-06",
-          "count": 12
-        },
-        {
-          "date": "2026-11-07",
-          "count": 7
-        },
-        {
-          "date": "2026-11-08",
-          "count": 8
-        },
-        {
-          "date": "2026-11-09",
-          "count": 14
-        },
-        {
-          "date": "2026-11-10",
-          "count": 23
-        },
-        {
-          "date": "2026-11-11",
-          "count": 14
-        },
-        {
-          "date": "2026-11-12",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Supreme Court Seeks WhatsApp’s Anti-Fraud Plan As Digital Arrest Scams Cost Indians Rs 800 Crore - News Mobile",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMTFoWkdVbHNPLW9NWjY5a1RBTjhHVUdDc0FTbVB0Ymx4RFg1UmJMOFFmVzhBVnJKWTJaSWJIS1lQbEZib08xdGJhZ3ZFZDdQNXBKcGowNGk4Q1NZbWNKUTdNWW5BSmI0aEVXU09TQXNCeUliVGJvU2pxOHYzVUsxWUVxcWI5SW0xa2hRNnROU19nODRCdl9aVnJ0VFBDd3NsZnA4ZndXVGFzSk1ydWhUV2NOT0NkazNRMkZTcjZNRjZxZUhtdkZfbWMtR2RYX0ZrNDNn?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-11T11:34:19.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Digital Arrest Scams: Supreme Court Asks WhatsApp To Explain Anti-Fraud Measures - Indian Masterminds",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVhqNmhTRmM1Z0JiNVc5OG5tTjVaN1U2NzNYNkptX0toeTBacGZjOEZZMHVaellwdFlUS2ExdGRMdXlKVjhFVEE2aDdVcHFUNjJxckpfcUlYRXFWa2lKVVdmdXlqV2VBdG5OT1hYSFQzdnJSc19OS1ZxcTN4ZzdrR2RyOG0yRDdQYlhQeGNvUDJpWkRVbzZhV09mTm8?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-11T05:16:39.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "ACAMB Warns Bank Customers Against Phishing Scams, Cyber Fraud - Opinion Nigeria",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEV6dkVWQndOV19zZGFFZ1pUU0Q1X3Y1U1ZvbGxnYWtGMGtfX0theVlnMWI4bUI4ZW5raG9jdVp6UzRHOEd1LWQzNFNIX1dEUnF6amttWUZVMjRVTG9MbS05aU9GcXFiSU5WVWhDZmNhMjFoUEFIS2NHLUxXQkMyMXM3Y2xDa090SDdyWU1XZHhua2hnTnZhUw?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-09T07:30:22.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Supreme Court directs WhatsApp, other platforms to submit action plan to combat digital arrest scams, cybercrimes - India Legal",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZFQzT1BnVjlVUWJReFlHRkNOM3dHcFM1UkViT1NXdUIyM3ZEUzBLS2s0Y01BNmFUdlR3dUJ5SkdnUG1LR1JzbXRxLThqdXpIZnVmcUVyRDFaR1h1TXV6aEx6TTNXaTd0S3J2VGF4enV3dGFVWlNsQ3R2cW1jUDNuUW1oUllCVXFnTU51N05RZVQ2bS1IN3U1dWp0Nk9yRlhhdlg0OUc3cE1wRGo0ZklOdmRMQmlwR2VFVE5YMEI0T2llQk12ZUpvZHEzM1lySEdkbDlOUnZFSEVibk1lajRXVFZ2cnl5eGxUWC1ITlFvMThPMFpIYldBdjRDdmtucW5GaXNEWUNB?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-11T08:29:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Bitdefender Launches Web Sage - An AI-Powered Browser Security Advisor to Counter Evolving Scams and Fraud - NewswireToday",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHBHdE5hN25qYUdiOTdHWlVRTmkyNmN3TXo0cU5lMzl0U0ZPS1EtUG42M0hnandMS0haMmtlaHpmdEEtalhRZVgwengwU0pvS2JXTmVFMnlkTjhpSkhHVXdSTW52NUFHU0JKQk96VUpHX0NfRDJ6M21qS0tRbF8tUmdQa1BlS01mQTNXaEZIQnZtOFZKTk5mZExlZFZFWEdqTXpWanJSQ3FieHQzV0xrS0lRdVA4OFRCblY4MTNtdjBaMjBCSDBjbGRTVVRfWHE4U0hPVzROWHI1NUpJSnpEaw?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-10T23:16:27.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Canadian Anti-Fraud Centre warns of investment scams during Financial Literacy Month - miltonnow.ca",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUU9CMnVEclZRNjh1cG1FTUpnSjQwWU1pSW1NMlFEVW55N2hFekVNbGNQbG9MMXk2MjhDT1BsMHBReUNhSHJFbHdScldER3UtMWYzdXpIWkVJMWM0cU52cVU2X3RTQ1FnQ1d4VG1jZzlQWHhhdjB2X21kYkJCQjJJYXVIWTlWQWNXeUhYS21jVUdiMy16RjNkTHp3OUJZUVBwNktVdW85UmNSVGRZUHV1TmhYUEJBSUxBdHlYVkZ3?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-10T15:32:57.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Digital Arrest Scams Are Leaving Families Financially Shattered, Supreme Court Now Wants WhatsApp and Banks to Take Responsibility - NewsX",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY3oxV0VaNkJoWGJKcHVRTy14aDhZT1pqUVdlQ3E1MlA1WWZnanp1U2hGRVRHLUVvaGZ6QzFxeDA1OGxWTU1tcXdyTVE4R05NOVpXWHZjWF9WSzRhSTdsZ25vVTdiWHJVSGlRVEI4UV9ta1F6SkFDbVdOOThSdWVWeC1ualdNUlhjVTlpVENFWG9obGxRWFNkeWpoaXo0cEZhVnpoT0s2ZC1HQlRacnpUODc5bDdrdzNVcTVGdnpmUFVXakZ5UldOeEZYTWYxSXFBd1hLZERsNlZ5UG9SMlNzUW51X0dVdmFGVWozcnNkRi0teGVqYzl4TdIB_gFBVV95cUxPaGJZZXUtU3ZRRG9SZ2R1R3pvbzI5RE03UktMRXFUS2Nhek5oamxyUDA3Wk12THpDVEFkRVJ0bEtaMzVOY19VeVNaQWpFaXdleTcxYm5iZ012MjdkRUdCWk5MakJUa2E1NkJpUXNLYVZIQVVaX25ETXFiTXZPdUcwYVQwQmxEVWsxelVzdmVNT2tXamdDUTdZWFRIU2d4UVQ2UWVxMVpMTTBISVlyUWIzcFNIV3FBUWtWLVZrS0tyYjBNekVJRElQSmJURUdac3l4OE83U2p4UUtpTHdJTzc2cV9YSVhVWG1uNmlMWTJGbi1RdURWenhmMXpLa3BYUQ?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-10T13:35:43.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "9,400 accounts blocked, but SC wants stronger action against digital arrest fraud - Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm44REZRQ3NmaWVGazdMN3NVeG44NHJGaURFZ0ZBOFpZQnNhZy1HaUkxUk9kSTZxcDEwdmJHaVhvaGFfUFVwSDhVNFhySW5YdlpRRUlyZzdaTHZIc05JcDhfa0ZuMERqTG1BLXZmUWN6WlpCWkZiLWdOSWYyT2JTQUM3LUcxczJpQkIxXzUzakY2SVZDWjBvSVhiSGc3TnZIdERMc3llaHBYc2hLU05DaDROVjBCZw?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-10T10:39:57.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 77,
-      "distinctSources": 4,
+      "totalArticles": 81,
+      "distinctSources": 5,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -28,
-      "reason": "Last 3 days averaged 9.0/day vs 12.5/day before.",
+      "trend": "Stable",
+      "changePercent": -17,
+      "reason": "Last 3 days averaged 10.3/day vs 12.5/day before.",
       "daily": [
         {
           "date": "2026-11-06",
@@ -142,11 +36,11 @@
         },
         {
           "date": "2026-11-11",
-          "count": 12
+          "count": 14
         },
         {
           "date": "2026-11-12",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -217,14 +111,120 @@
       ]
     },
     {
+      "theme": "fraud-impersonation",
+      "label": "Fraud & Impersonation",
+      "totalArticles": 80,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 27,
+      "reason": "Last 3 days averaged 13.0/day vs 10.3/day before.",
+      "daily": [
+        {
+          "date": "2026-11-06",
+          "count": 12
+        },
+        {
+          "date": "2026-11-07",
+          "count": 7
+        },
+        {
+          "date": "2026-11-08",
+          "count": 8
+        },
+        {
+          "date": "2026-11-09",
+          "count": 14
+        },
+        {
+          "date": "2026-11-10",
+          "count": 23
+        },
+        {
+          "date": "2026-11-11",
+          "count": 14
+        },
+        {
+          "date": "2026-11-12",
+          "count": 2
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Supreme Court Seeks WhatsApp’s Anti-Fraud Plan As Digital Arrest Scams Cost Indians Rs 800 Crore - News Mobile",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMTFoWkdVbHNPLW9NWjY5a1RBTjhHVUdDc0FTbVB0Ymx4RFg1UmJMOFFmVzhBVnJKWTJaSWJIS1lQbEZib08xdGJhZ3ZFZDdQNXBKcGowNGk4Q1NZbWNKUTdNWW5BSmI0aEVXU09TQXNCeUliVGJvU2pxOHYzVUsxWUVxcWI5SW0xa2hRNnROU19nODRCdl9aVnJ0VFBDd3NsZnA4ZndXVGFzSk1ydWhUV2NOT0NkazNRMkZTcjZNRjZxZUhtdkZfbWMtR2RYX0ZrNDNn?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-11T11:34:19.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Digital Arrest Scams: Supreme Court Asks WhatsApp To Explain Anti-Fraud Measures - Indian Masterminds",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVhqNmhTRmM1Z0JiNVc5OG5tTjVaN1U2NzNYNkptX0toeTBacGZjOEZZMHVaellwdFlUS2ExdGRMdXlKVjhFVEE2aDdVcHFUNjJxckpfcUlYRXFWa2lKVVdmdXlqV2VBdG5OT1hYSFQzdnJSc19OS1ZxcTN4ZzdrR2RyOG0yRDdQYlhQeGNvUDJpWkRVbzZhV09mTm8?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-11T05:16:39.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "ACAMB Warns Bank Customers Against Phishing Scams, Cyber Fraud - Opinion Nigeria",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEV6dkVWQndOV19zZGFFZ1pUU0Q1X3Y1U1ZvbGxnYWtGMGtfX0theVlnMWI4bUI4ZW5raG9jdVp6UzRHOEd1LWQzNFNIX1dEUnF6amttWUZVMjRVTG9MbS05aU9GcXFiSU5WVWhDZmNhMjFoUEFIS2NHLUxXQkMyMXM3Y2xDa090SDdyWU1XZHhua2hnTnZhUw?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-09T07:30:22.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Supreme Court directs WhatsApp, other platforms to submit action plan to combat digital arrest scams, cybercrimes - India Legal",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZFQzT1BnVjlVUWJReFlHRkNOM3dHcFM1UkViT1NXdUIyM3ZEUzBLS2s0Y01BNmFUdlR3dUJ5SkdnUG1LR1JzbXRxLThqdXpIZnVmcUVyRDFaR1h1TXV6aEx6TTNXaTd0S3J2VGF4enV3dGFVWlNsQ3R2cW1jUDNuUW1oUllCVXFnTU51N05RZVQ2bS1IN3U1dWp0Nk9yRlhhdlg0OUc3cE1wRGo0ZklOdmRMQmlwR2VFVE5YMEI0T2llQk12ZUpvZHEzM1lySEdkbDlOUnZFSEVibk1lajRXVFZ2cnl5eGxUWC1ITlFvMThPMFpIYldBdjRDdmtucW5GaXNEWUNB?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-11T08:29:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Bitdefender Launches Web Sage - An AI-Powered Browser Security Advisor to Counter Evolving Scams and Fraud - NewswireToday",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHBHdE5hN25qYUdiOTdHWlVRTmkyNmN3TXo0cU5lMzl0U0ZPS1EtUG42M0hnandMS0haMmtlaHpmdEEtalhRZVgwengwU0pvS2JXTmVFMnlkTjhpSkhHVXdSTW52NUFHU0JKQk96VUpHX0NfRDJ6M21qS0tRbF8tUmdQa1BlS01mQTNXaEZIQnZtOFZKTk5mZExlZFZFWEdqTXpWanJSQ3FieHQzV0xrS0lRdVA4OFRCblY4MTNtdjBaMjBCSDBjbGRTVVRfWHE4U0hPVzROWHI1NUpJSnpEaw?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-10T23:16:27.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Canadian Anti-Fraud Centre warns of investment scams during Financial Literacy Month - miltonnow.ca",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUU9CMnVEclZRNjh1cG1FTUpnSjQwWU1pSW1NMlFEVW55N2hFekVNbGNQbG9MMXk2MjhDT1BsMHBReUNhSHJFbHdScldER3UtMWYzdXpIWkVJMWM0cU52cVU2X3RTQ1FnQ1d4VG1jZzlQWHhhdjB2X21kYkJCQjJJYXVIWTlWQWNXeUhYS21jVUdiMy16RjNkTHp3OUJZUVBwNktVdW85UmNSVGRZUHV1TmhYUEJBSUxBdHlYVkZ3?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-10T15:32:57.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Digital Arrest Scams Are Leaving Families Financially Shattered, Supreme Court Now Wants WhatsApp and Banks to Take Responsibility - NewsX",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY3oxV0VaNkJoWGJKcHVRTy14aDhZT1pqUVdlQ3E1MlA1WWZnanp1U2hGRVRHLUVvaGZ6QzFxeDA1OGxWTU1tcXdyTVE4R05NOVpXWHZjWF9WSzRhSTdsZ25vVTdiWHJVSGlRVEI4UV9ta1F6SkFDbVdOOThSdWVWeC1ualdNUlhjVTlpVENFWG9obGxRWFNkeWpoaXo0cEZhVnpoT0s2ZC1HQlRacnpUODc5bDdrdzNVcTVGdnpmUFVXakZ5UldOeEZYTWYxSXFBd1hLZERsNlZ5UG9SMlNzUW51X0dVdmFGVWozcnNkRi0teGVqYzl4TdIB_gFBVV95cUxPaGJZZXUtU3ZRRG9SZ2R1R3pvbzI5RE03UktMRXFUS2Nhek5oamxyUDA3Wk12THpDVEFkRVJ0bEtaMzVOY19VeVNaQWpFaXdleTcxYm5iZ012MjdkRUdCWk5MakJUa2E1NkJpUXNLYVZIQVVaX25ETXFiTXZPdUcwYVQwQmxEVWsxelVzdmVNT2tXamdDUTdZWFRIU2d4UVQ2UWVxMVpMTTBISVlyUWIzcFNIV3FBUWtWLVZrS0tyYjBNekVJRElQSmJURUdac3l4OE83U2p4UUtpTHdJTzc2cV9YSVhVWG1uNmlMWTJGbi1RdURWenhmMXpLa3BYUQ?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-10T13:35:43.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "9,400 accounts blocked, but SC wants stronger action against digital arrest fraud - Business Upturn",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm44REZRQ3NmaWVGazdMN3NVeG44NHJGaURFZ0ZBOFpZQnNhZy1HaUkxUk9kSTZxcDEwdmJHaVhvaGFfUFVwSDhVNFhySW5YdlpRRUlyZzdaTHZIc05JcDhfa0ZuMERqTG1BLXZmUWN6WlpCWkZiLWdOSWYyT2JTQUM3LUcxczJpQkIxXzUzakY2SVZDWjBvSVhiSGc3TnZIdERMc3llaHBYc2hLU05DaDROVjBCZw?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-10T10:39:57.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 65,
+      "totalArticles": 69,
       "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -32,
-      "reason": "Last 3 days averaged 7.3/day vs 10.8/day before.",
+      "trend": "Stable",
+      "changePercent": -19,
+      "reason": "Last 3 days averaged 8.7/day vs 10.8/day before.",
       "daily": [
         {
           "date": "2026-11-06",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-11-11",
-          "count": 9
+          "count": 10
         },
         {
           "date": "2026-11-12",
-          "count": 0
+          "count": 3
         }
       ],
       "topArticles": [
@@ -270,6 +270,14 @@
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-11-06T10:37:29.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Aquino Urges Passage of Cybersecurity Agency Bill After Data Breaches - BitPinas",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82TmU4MWNtRndFUmx6b042R09mbC1YdmM1U2FIZnB5dVZHOU9JNkZULWJvZFJhaUIzakU0Mk5iWmdJbHZMQUVMYWVLbFFITlFvaEJyVkZhbjdMNjdGTlhhTFNHMUd3Mm5BZTN2cDRDSQ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-12T03:54:05.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         },
         {
@@ -311,26 +319,18 @@
           "publishedAt": "2026-11-08T00:39:33.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "DigiCert Confirms Data Breach Exposing Customer Details and Sensitive Identity Documents - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95aWtiNTB6VmNRYzJIQXpVbFYzakg3ZzlMM0tZaU9xVGFXdGxyU1RNZUNIX1pCZ1N1ZXRLOXRsb3czTVJjWHFURklRcEZ1eUNMSkhER1ltb0JFY0Fza0kzbXN3WExlTDNGdU1PZNIBckFVX3lxTFB6LUFXakxXTjJDNDJ5N2NUazRHZ2JzN3JBSl9JNm16UW1NckQ4VU1QRGR6WVdWc21JMzRIb0ExZm5LYjRGLXlZRmJCN0Vra09PdUloc0FPam1jTkowcHJuQVhEOG42b21GSmFhSlJ0RU90UQ?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-06T16:48:22.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 42,
+      "totalArticles": 46,
       "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 21,
-      "reason": "Last 3 days averaged 6.7/day vs 5.5/day before.",
+      "trend": "Rising",
+      "changePercent": 45,
+      "reason": "Last 3 days averaged 8.0/day vs 5.5/day before.",
       "daily": [
         {
           "date": "2026-11-06",
@@ -358,7 +358,7 @@
         },
         {
           "date": "2026-11-12",
-          "count": 0
+          "count": 4
         }
       ],
       "topArticles": [
@@ -377,6 +377,22 @@
           "publishedAt": "2026-11-11T15:42:08.000Z",
           "riskScore": 67,
           "corroboratedBy": 2
+        },
+        {
+          "title": "Meta India MD on child sexual abuse material, Muse AI and WhatsApp Pay - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmJjOVlfOFlzUFV4ZV9Lck1wRklITHVOZnZtWE82dDlES1FVRjdjcXExWEhTU3BxcHBsMHpGS0dHVVpoYnZsaUhXUUgzc19ZZDVmMkx5V2NTZUFLX1hjcFJJZWxnVGJWbEUzVlhCOXNwUUdncllnVFpqSmFqTkpaYUF4ZVVkM0U0enZKbEJlSjlwaGJrQlVrVlU1TU9QWWNxQk5BOHE1WUVHd3FPUHZWUWxXaEFJZ1Z1bFMxbkRJelVYZDlDM2VvTjF1Njh4Tjl5eUd30gHYAUFVX3lxTE9sUm9KclJPaUN1dnFKT1hMZk1FY0U3dWNIZFZnRDFPNGtYaEdSQ2hsc0JjR3FRMXVxbFRWWGd1VVloZDhjWGxzYVFmZmRxNEVTUmQ2dVdDdUlEbVgyaGlyaXZlNmtsTEJERU1ERjdxbHpsdWtYWmtXV3lONk5qZ0NnYWFCTmFaSEE4N0pua09KTEpwMDQzaDI4MHdoZEs2VFBQWFlZSFVFYXZfWHBmbWVJd1p3ZGVvdjYzNEJ1MjVhQno3bjlpekhsMmRkMUFyRVBJNm5NNEFqYw?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-12T06:57:39.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Spain’s prime minister hails probe into child sexual abuse material on TikTok as ‘great news’ - Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHMwV2JlUWl5anZUUkd3RXVTcEp3anY5dVkzYXo0Z3BSM1E3TVlBblV5MndpUjhKZGlJQmdkOURnQ1gtZ0RZNTkxY0puLU8zNVZraG9xRFV1TlRBeDFVRXZybWRDZ3A2SnNKcHFiYmpDdldpTVdOWGR5b1V5V3c1ZGNrbXFoTkNhdXdPSG5FalZJTmJPMEJhX3MyUnVELW0tSW83QmdTWnNCdW5fck1KNWRWRFU1MGRrZnBqSW1mdzdsM1JEY29B?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-12T00:47:08.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
         },
         {
           "title": "Spain investigates alleged child abuse material on TikTok - RTE.ie",
@@ -409,34 +425,18 @@
           "publishedAt": "2026-11-10T17:55:00.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "South Korea deploys AI system to detect child sexual abuse material online - TRT World",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ONno4WS05aDZCWFRwckwta21tYTd0WkVlTzJPTmdHTDl2aFktNFFjbEdEMGhGSHlzd3VaWXIxcTJuRnMxYkhybVBMOWtGcmpBVVg2WWZlYU4?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-10T10:36:46.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "South Korea deploys AI to detect online child sexual abuse material - Anadolu Ajansı",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnBSV09hMHpYMnphem5lRWRuM0lEZkE4aVJWNUNmZW5TYXZmcGZ4VjNoNTMteWNqNVVDY2hLbFdEdlI5LV9TUzNGZ19xa2s0YXJzVzF5OHVKSUVxNEVJWHVGQVNnQ1JYN01GMW1KRklhQzFBTy1Wb29ZeFNvN042YnRuZk1xWk9kX2tjUU1OeUdOWlFMWkQ4Wm5hYm9Gd192RVFiWk8zQWx1MXA2cnc?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-10T09:06:01.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 21,
+      "totalArticles": 22,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -58,
-      "reason": "Last 3 days averaged 1.7/day vs 4.0/day before.",
+      "changePercent": -50,
+      "reason": "Last 3 days averaged 2.0/day vs 4.0/day before.",
       "daily": [
         {
           "date": "2026-11-06",
@@ -464,10 +464,18 @@
         },
         {
           "date": "2026-11-12",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
+        {
+          "title": "Centre mulls norms to fix accountability for hosting child sexual abuse content - The Tribune",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbklYU0duNHRjLXJkbWdYVGRVM1lFR3ZGNk15b3ZmdVJuLWhfazBsQThwQmpBY1BCaThkVU5DM3lMWDBZN0NtSDRheEdHVURNazd5WDluZlY3Q2xrd3ZXVzZFeXFzUGZQd1hiaVFlRDR1X29HdVBnNlFFalBTaEpsa0RKZk52X1NtTEM0UDZndmpGMGZzaGxTeEljejlZdC1FRXBxRm9EZm15VmwxLWktOHhudVo2U29Wd1o2M3RIdXZoSUoxS1JEOVlDeEdEakItakdVWVY4akdHVFNn0gHcAUFVX3lxTE1uSVhTR240dGMtcmRtZ1hUZFUzWUVHdkY2TXlvdmZ1Um4taF9rMGxBOHBCakFjUEJpOGRVTkMzeUxYMFk3Q21INGF4R0dVRE1rN3lYOW5mVjdDbGt3dldXNkV5cXNQZlB3WGJpUWVENHVfb0d1UGc2UUVqUFNoSmxrREpmTnZfU21MQzRQNmd2akYwZnNobFN4SWN6OVl0LUVFcHFGb0RmbXlWbDEtaS04eG51WjZTb1Z3WjYzdEh1dmhJSjFLUkQ5WUN4R0RqQi1qR1VZVjhqR0dUU2c?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-11T20:04:46.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
         {
           "title": "Technology to block child sexual abuse images already exists. We must make it standard on every phone - LBC",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDhqblNjZHpFeGFDd25BM0E2LUZCdXVhRWJtQmZFUHh4eFFrZFVOb0RGdTU4QjBxc19FOS04TmhSZjFKbkc3aThBTmNhUng3Q3Q3bWNHWTN3VFlITXlXeXJ0RTBfUzJuV0dzMlBiS3BkZG5uS0t6MW45NDA2OWZFajVzUHBwcVhaUGVUcWRfekNMLWNLUXc?oc=5",
@@ -521,14 +529,6 @@
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNakpHNEhwN1ZvakxCemx1RTNMaXd6cG5TSmpNT0RMMVpnS3NLZEs2OVdIb0c0OG56SHVWUGFBU0ljNjlnSGVnNzlJdTh5YXhSY1BiSU0wYkJkTDN3d3FvaVVCMUFVbkVCY1pTZlZYNU9EQzMxd3l6QnBHVWVmUW9vWURUdldBLW53T3NYU1VxU3JJaEJ0M1R0VGlINUg4RkMxTFBEcjFRX2RkSlNWODdVempkb01KU0VwR0ZtNTN0azByMWpDUVFzbDY2RXdiVEk4eDlqQnEyNnd5a2YzWG5F?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
           "publishedAt": "2026-11-09T18:12:43.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Proactive child sexual exploitation initiative results in 17 arrests, including Brantford man - Brantford Expositor",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMk9jd291dy1Zc292RmgwTVF1d3lkWmpNelNabVVKbG1Va1BNZ0tGaHBCcnRlQWpPX08wZTdXQmlYSUxiY0xYWFpxd0dDSTFRaTd4QnNKZHJLY041OEhjSlRRdzBQOXVhOU9DSmRjeUVaUUZWNEJIRi1TQmppN3JTWWo4Y3lITEp2YjYyMVpYVGdYQ3F0eGwyOG9Vd1hmVVgteDVsNjY4S3FaZTh1dW9NYzlyTmJtckpPdF9RWlU0X1NWbXJRUThnRjhEYVN6Wl9vVEQtbDV4S0dCR2pzbEFZ?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-09T16:56:49.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -643,12 +643,12 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 7,
+      "totalArticles": 9,
       "distinctSources": 4,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -47,
-      "reason": "Last 3 days averaged 0.7/day vs 1.3/day before.",
+      "trend": "Stable",
+      "changePercent": 7,
+      "reason": "Last 3 days averaged 1.3/day vs 1.3/day before.",
       "daily": [
         {
           "date": "2026-11-06",
@@ -672,7 +672,7 @@
         },
         {
           "date": "2026-11-11",
-          "count": 1
+          "count": 3
         },
         {
           "date": "2026-11-12",
@@ -713,6 +713,22 @@
           "corroboratedBy": 1
         },
         {
+          "title": "The Rebirth of Neo-Nazi Ideology in Russia and Its Appeal to Young People – GNET - Global Network on Extremism and Technology",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZERxUFZnbW5MRnhWamxudFFNZnA5QTd2b0lydm5XS3ZMU3IyY3E1VlBHcWtpbHp2dlpSQzhRaG9FYjlOYzg1NF9wSERveGw4S0F3YTZ4cGh1VFBVdWxkcnVwOFYwVjAxQ2c1Y09DcDVfckxCRnhHRHB5aXU5UnFJZlZFY1dXS09WcnN5NW1lb2dDUUNEQlNGOHE2bzFab05US2JZbVlMQVVNRzhad3JZSQ?oc=5",
+          "source": "Google News • Dangerous Criminal Organizations",
+          "publishedAt": "2026-11-11T15:07:05.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "A New Wave of Neo-Nazi Accelerationism is Rising - Global Project Against Hate and Extremism",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JVjF1QVFlQzRWN1RwZXQwamthT2JzYkd4eFRyOTExVUZOcGJUZHB3TVBiUFVQbVlfT1ZwaXFlZTRBUm5vVmwzcmVSUHdXcnd3LW5odDl0b3BUelNmRDY0SFRhTm45U2RiMlpoT2hTUmZXRjllQlM4?oc=5",
+          "source": "Google News • Dangerous Criminal Organizations",
+          "publishedAt": "2026-11-10T20:06:59.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Sydney teen sentenced for acts in preparation, violent extremist material offences - The National Tribune",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlA5RTVyMGx1ZHRrd0dxYklOMW9kelRIclI0a044S0JzQnJLTHp6dkJQMXhmWENNNGtLalR3TDdJQ0F0RHNjNVJELXVuRDBLUkxFZnN4NkNrQ0hWeGhMSlpxZzNvcG1FS1J4ZFRIM2NXNXQzSTI5V1dDbUhTZDFRMlZNcE5wUWI5VUVrSmVxcVlWSnlLSFg4TTdCOXNxQTdmaTFDWUxuVk9jMGV2ZkVOaC1aNm8xemhB?oc=5",
           "source": "Google News • Dangerous Criminal Organizations",
@@ -725,14 +741,6 @@
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1NnOXVyUXlKLUN4cTF1R3Q2cWNLR3M2MWhhVzhYbUc4UkE4ZU5hb2JXYkxhT3lFX21rSjJTMzd4QnFldWlZYnZhb2FFMFp6RUF4YmhQM0xVd2lYVk9lYnZmM2xxX2N1RU9ybDFLOFlMQzlCaXg1ZXBtT0ZRdmw4RWhCbzA?oc=5",
           "source": "Google News • TVEC Terrorism (India)",
           "publishedAt": "2026-11-09T04:30:42.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "What are Gore Groups and 764 Network? FBI warns crackdown on online extremism following rescue of Kylie Arellano - Indiatimes",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUlR3blFDYXpTWjB3MzJHM2dacDlFS21VOVNJS01VQ1FRNE1uRUNjMF9DWGh5SVc4VDVZRFhtWGtMb2VDclN6Y0VIV2hVaVV2U28xSnloRHZfcnJPcGF5emxscEp4bkJnNk5SM3hEZ1A0MllyR2tMblVzV3hTYjFSdFQ2X1BpbERIbW1xNnZwWDJ3S2c4dkZaczNqQ1k5ZTRMd2tZSWxScHFVLURJb3M5S0RHS2daZVdVaUhJZTNCWkdVZ2J6VlB2c0ZNUkZZRFhyNzZPbXhjVmV6d0JrZTZtV2IyLWRNSFE1Si1ycDdWX1hfaThpLVVHVW1zQXRkSG5OTUtiRdIBigJBVV95cUxPbjY2N0hRZF85VGVndUt0VVVTemhZM0RyVzY3cTJCLWZkZC05azdDd1BVaFBpV2FhSl8xSkVYcm9qS1RlYWpLM0VGbEMtOGhlcFFMSGpqS1doV01OTXFNaU9iSUpPcWJySnBXTEhYa0VlMG9oWTRIYkZrQUVDcnVLamN4Um12S0diQ1BXUEo0NW5sb2x5RlFQc1VXQ2RYU2tTMXJWZDNvWFhzU2JHT1NjUmluTFdpYzRrVDRlUHdqNUZBS3JIWXdicDhWRmFwcEM2RWVYRUVhQW5XdnVhcE8xMFNEMjdxN0VsM3MtSTNxcVVXdU9KTlNmY25mNHdaVlJLRVpnRk9mWUlaUQ?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-11-07T04:48:51.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }
@@ -829,6 +837,96 @@
       ]
     },
     {
+      "theme": "violence",
+      "label": "Violence",
+      "totalArticles": 6,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 167,
+      "reason": "Last 3 days averaged 1.3/day vs 0.5/day before.",
+      "daily": [
+        {
+          "date": "2026-11-06",
+          "count": 1
+        },
+        {
+          "date": "2026-11-07",
+          "count": 0
+        },
+        {
+          "date": "2026-11-08",
+          "count": 0
+        },
+        {
+          "date": "2026-11-09",
+          "count": 1
+        },
+        {
+          "date": "2026-11-10",
+          "count": 2
+        },
+        {
+          "date": "2026-11-11",
+          "count": 1
+        },
+        {
+          "date": "2026-11-12",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Meta approved hateful ads in India, inciting violence - Genocide Watch",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTBMbGl5cVdJZk5oX0E0bkphVmxhdVdKcjFVbW5sR00tS0FlRlNSOGJYdVQ2Wmx6aWJueG1uNEdGTkduTmkyczREdkcxU0pmaWhLX254aG5JSXZ6bUJ3S0tHenc3UnlKSGNIYnVQaEk0ZFBJNmZXeXB0VUt3OVpWUVZMSlY0MHk0SXV5clQ3MU1sTXhhci1Kall5VW11UkY1Y2IzQ2NydkJwbExHR3c?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-06T17:54:33.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Police Monitoring Online Content To Prevent Election Violence, Not Silence Critics, Says IGP Disu - Arise News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTdiT0ZVcFdnZmVHTk13MTdxTEVQVGhLZlJOZlJhdkVOcXl6TTlVU0s4a01QaFBVNlN5aEpXUnRaeVJhb2tUdUlMVnhYUUR6QWM1SjFibTdyb1M0TVNHQTl2eEwwVjByODlXY0s1eXZBLWxJRzc5SXlMZVRGMDRUZTBsWDJSSnp5R2tNamNFanA1STg4TThlaTRCOWktRllLQklEa2dPZ3Y5bDJwQzFTZGRha1o5Mzk3?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-12T05:15:14.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "False reports could trigger violence, undermine 2027 election – IGP - The Nation Newspaper",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFE4RDhUWFhieDFUaThPX05xSEJWQkpuZFprNDlDbzlNRHhYOHR2cktFNlB5UFJuTGI2M2h5Rzc3R3JGVXBVUnRYeC0xS3dCcWdGVFBXZjZzVURZcEMyM3p4LWlwYVBjcWszSFM5VHA5elRmS0FvNWx2Rms5clIxTzhSdmN3QmxyRHRzQkpJaV9PYlc0ZGwxOWwtONIBoAFBVV95cUxQS0hIMm11V1B2VzZHZjRUWmtyamJETklnVzN5MmU3RWN6ckJfcVBaT2wxekU4MlN1QTJUbTZFUEtoNFloVlRnbE1aei1aN216aVc0Z0dKdkNrY2F4S1FITHM3ZGpHVG8zaWFqcXEwMllMMWhZU0w4MTV2OXNodDJqMVVEQ2d1RDU4bUlOcUtUbWtyUFZOSEZ4azRQM2FCRjZE?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-11T13:17:24.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Equality Now Report Links Online Misogyny to Violence Against Women - AfricaBrief",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VcEFHX2trRF82SW1aZ09WUVlvS19nN1NWT0Q1dXFxUzRyLUFjS281SlVGc1NCTGtyNjU1M1FGcFNTZ1A0ZEFhRjJqV3ZqczFlRU9BU2swb19zSFg5U1F5cWRmUUItMGNwOVp0MUNmN1lma2JTakE?oc=5",
+          "source": "Google News • Harassment and Bullying",
+          "publishedAt": "2026-11-10T07:55:27.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "NCW receives 150K complaints annually, domestic violence tops list - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS2dBR2l5dVBoa2h2ejJsWU1Xa2tWSEtZUUo5NHFCRnlfOHRfZUt0X01LTUV3ZUs5QkdZM0ZPQ2xRRkUxQldyTG1DZ3BuODhCb2p0SFBhZk1RUWFDbDhfbjBOUkJVQmFZTUxKZDZZOGtGeFkwRXZSR3dNZ210Q2k1SHFNTUR1ZkRaTm1zT2x5YkF1UVNya1RRb2lGbWpkS0gyMjl0Ym5MYjVKYW9RRlowOGdpakJ1WHRDLV85MXpXZmpaUkZCMl9mMXFMRUdoSG_SAc8BQVVfeXFMUEtnQUdpeXVQaGtodnoybFlNV2trVkhLWVFKOTRxQkZ5Xzh0X2VLdF9NS01Fd2VLOUJHWTNGT0NsUUZFMUJXckxtQ2dwbjg4Qm9qdEhQYWZNUVFhQ2w4X24wTlJCVUJhWU1MSmQ2WThrRnhZMEV2Ukd3TWdtdENpNUhxTU1EdWZEWk5tc09seWJBdVFTcmtUUW9pRm1qZEtIMjI5dGJuTGI1SmFvUUZaMDhnaWpCdVh0Qy1fOTF6V2ZqWlJGQjJfZjFxTEVHaEhv?oc=5",
+          "source": "Google News • Violent Speech (India)",
+          "publishedAt": "2026-11-10T05:51:13.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Russia, MAGA & Israel-linked networks stoked the flames during France riots: Report - inkl",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd25ULWFmQ3RmclZlUW5SS01BejFXQWpvN21YUlZoNmwwZGlMN3dtQ3dNaEl1MWVEMmkzVkpnZTV1QlVRLXBwSW9NUVVnYTNjUktXRjNQeTlPbUx0X1JHazAyTExoYzN4SlJQdkNoaUdneTJGVEJ6YWlJN2Q1OWxiSkxZVFhJTlE5SndBWE93UjA1SzYzUkF0ck9NSnNVVG5QbEhKdTBJamc?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-09T09:26:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "human-exploitation",
       "label": "Human Exploitation",
       "totalArticles": 5,
@@ -906,88 +1004,6 @@
           "source": "Google News • Human Trafficking (South Asia)",
           "publishedAt": "2026-11-06T08:58:20.000Z",
           "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "violence",
-      "label": "Violence",
-      "totalArticles": 5,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 100,
-      "reason": "Last 3 days averaged 1.0/day vs 0.5/day before.",
-      "daily": [
-        {
-          "date": "2026-11-06",
-          "count": 1
-        },
-        {
-          "date": "2026-11-07",
-          "count": 0
-        },
-        {
-          "date": "2026-11-08",
-          "count": 0
-        },
-        {
-          "date": "2026-11-09",
-          "count": 1
-        },
-        {
-          "date": "2026-11-10",
-          "count": 2
-        },
-        {
-          "date": "2026-11-11",
-          "count": 1
-        },
-        {
-          "date": "2026-11-12",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Meta approved hateful ads in India, inciting violence - Genocide Watch",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTBMbGl5cVdJZk5oX0E0bkphVmxhdVdKcjFVbW5sR00tS0FlRlNSOGJYdVQ2Wmx6aWJueG1uNEdGTkduTmkyczREdkcxU0pmaWhLX254aG5JSXZ6bUJ3S0tHenc3UnlKSGNIYnVQaEk0ZFBJNmZXeXB0VUt3OVpWUVZMSlY0MHk0SXV5clQ3MU1sTXhhci1Kall5VW11UkY1Y2IzQ2NydkJwbExHR3c?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-11-06T17:54:33.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "False reports could trigger violence, undermine 2027 election – IGP - The Nation Newspaper",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFE4RDhUWFhieDFUaThPX05xSEJWQkpuZFprNDlDbzlNRHhYOHR2cktFNlB5UFJuTGI2M2h5Rzc3R3JGVXBVUnRYeC0xS3dCcWdGVFBXZjZzVURZcEMyM3p4LWlwYVBjcWszSFM5VHA5elRmS0FvNWx2Rms5clIxTzhSdmN3QmxyRHRzQkpJaV9PYlc0ZGwxOWwtONIBoAFBVV95cUxQS0hIMm11V1B2VzZHZjRUWmtyamJETklnVzN5MmU3RWN6ckJfcVBaT2wxekU4MlN1QTJUbTZFUEtoNFloVlRnbE1aei1aN216aVc0Z0dKdkNrY2F4S1FITHM3ZGpHVG8zaWFqcXEwMllMMWhZU0w4MTV2OXNodDJqMVVEQ2d1RDU4bUlOcUtUbWtyUFZOSEZ4azRQM2FCRjZE?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-11T13:17:24.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Equality Now Report Links Online Misogyny to Violence Against Women - AfricaBrief",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VcEFHX2trRF82SW1aZ09WUVlvS19nN1NWT0Q1dXFxUzRyLUFjS281SlVGc1NCTGtyNjU1M1FGcFNTZ1A0ZEFhRjJqV3ZqczFlRU9BU2swb19zSFg5U1F5cWRmUUItMGNwOVp0MUNmN1lma2JTakE?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-11-10T07:55:27.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "NCW receives 150K complaints annually, domestic violence tops list - Business Standard",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS2dBR2l5dVBoa2h2ejJsWU1Xa2tWSEtZUUo5NHFCRnlfOHRfZUt0X01LTUV3ZUs5QkdZM0ZPQ2xRRkUxQldyTG1DZ3BuODhCb2p0SFBhZk1RUWFDbDhfbjBOUkJVQmFZTUxKZDZZOGtGeFkwRXZSR3dNZ210Q2k1SHFNTUR1ZkRaTm1zT2x5YkF1UVNya1RRb2lGbWpkS0gyMjl0Ym5MYjVKYW9RRlowOGdpakJ1WHRDLV85MXpXZmpaUkZCMl9mMXFMRUdoSG_SAc8BQVVfeXFMUEtnQUdpeXVQaGtodnoybFlNV2trVkhLWVFKOTRxQkZ5Xzh0X2VLdF9NS01Fd2VLOUJHWTNGT0NsUUZFMUJXckxtQ2dwbjg4Qm9qdEhQYWZNUVFhQ2w4X24wTlJCVUJhWU1MSmQ2WThrRnhZMEV2Ukd3TWdtdENpNUhxTU1EdWZEWk5tc09seWJBdVFTcmtUUW9pRm1qZEtIMjI5dGJuTGI1SmFvUUZaMDhnaWpCdVh0Qy1fOTF6V2ZqWlJGQjJfZjFxTEVHaEhv?oc=5",
-          "source": "Google News • Violent Speech (India)",
-          "publishedAt": "2026-11-10T05:51:13.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Russia, MAGA & Israel-linked networks stoked the flames during France riots: Report - inkl",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd25ULWFmQ3RmclZlUW5SS01BejFXQWpvN21YUlZoNmwwZGlMN3dtQ3dNaEl1MWVEMmkzVkpnZTV1QlVRLXBwSW9NUVVnYTNjUktXRjNQeTlPbUx0X1JHazAyTExoYzN4SlJQdkNoaUdneTJGVEJ6YWlJN2Q1OWxiSkxZVFhJTlE5SndBWE93UjA1SzYzUkF0ck9NSnNVVG5QbEhKdTBJamc?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-11-09T09:26:00.000Z",
-          "riskScore": 44,
           "corroboratedBy": 1
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:45:39.939Z",
+  "generatedAt": "2026-11-12T07:29:02.713Z",
   "snapshot": true,
   "date": "2026-11-12",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-12 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 30
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 63
+      "itemCount": 59
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 15
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,7 +93,7 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Aquino Urges Passage of Cybersecurity Agency Bill After Data Breaches - BitPinas",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82TmU4MWNtRndFUmx6b042R09mbC1YdmM1U2FIZnB5dVZHOU9JNkZULWJvZFJhaUIzakU0Mk5iWmdJbHZMQUVMYWVLbFFITlFvaEJyVkZhbjdMNjdGTlhhTFNHMUd3Mm5BZTN2cDRDSQ?oc=5",
+      "snippet": "Aquino Urges Passage of Cybersecurity Agency Bill After Data Breaches BitPinas",
+      "publishedAt": "2026-11-12T03:54:05.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity Is Not Merely a Technical Issue, but a Strategic Priority for National Security: Public Administration Advisor - businessinbangladesh.com.bd",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOFBWUm5yTl9lenBZY09KOWpmTE5rQVpXZnl1UmdjVkpIQnhXWDJhSXlHNkRoNmxmcVZCNkFYOVpmM3dTTHVtYjVFeGk1YTFZVGFkb2ktUFlGNXVWOGZMSWM4QnoyQkxaNzFXaXlQOVRjY1h2U1hnbUtNS29mN0pLZWotUlRzLTZXdGRnMHhjczFyVDFlMW9oX05MTS0tMXBIb1VYRWlZa3VLZkJKRzZ3bklkd0RqVWYwdmQ0cWJFd0tRRzRuNkMteEQ5NDUyRkxDZzl5S2VvV0tJcjE4OHFDTFlMMUNNTFJPXzlrb1RxanA?oc=5",
+      "snippet": "Cybersecurity Is Not Merely a Technical Issue, but a Strategic Priority for National Security: Public Administration Advisor businessinbangladesh.com.bd",
+      "publishedAt": "2026-11-12T05:42:04.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Philippines faces twin data breaches and $2.2B scam toll - CoinGeek",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMG5odzI2VEY0UGpiSkdUVzd5NnNnRFpBOEx0S0VGQ0h1eTh6a1g5ek5tYXUyNVFab25XWkpFOTFaaU9qc3lWMkN6dTd3TmU0VnA1OTJFUW9Xc2J6SHdoVkZ0R0laWmhlT2x0Z2RtSUt4VGwyMXVDcW5VWWtKbjBWUzg3RQ?oc=5",
+      "snippet": "Philippines faces twin data breaches and $2.2B scam toll CoinGeek",
+      "publishedAt": "2026-11-12T04:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
