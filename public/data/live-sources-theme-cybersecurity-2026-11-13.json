@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:00:07.764Z",
+  "generatedAt": "2026-11-13T19:55:12.964Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 11
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 55
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 19
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Scam Watch prods DICT: Address cyber security weak points after 23 agencies hacked - BusinessMirror",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnlEUWNQeXlyaElaalM5XzRadVlvRUFXZzlvbWo5V0xDSk5EaEJndG5OSUhJTno5QW9BSzhVSFFGVmhKQVM5QjR3NFBweXpFTDZEWnRPQUthdW9mb2J1YzUydFVmMGd3eGl5SS0zbnNrYjZVR3ZCbm1vUGN3bFIxaE9SajFidlgzS2ZMbDlral9nRHNiQnVQekFDV1pvSHktV1dEU0o1WlR5MFRpdUhJa2xUR1BHR2RoVld4ZVV6bFc?oc=5",
+      "snippet": "Scam Watch prods DICT: Address cyber security weak points after 23 agencies hacked BusinessMirror",
+      "publishedAt": "2026-11-13T13:00:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Hackers Breach Global Shipping Giant Maersk and Claim Theft of 100GB of Logistics Data - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nUkZnTmpsUVFmRTlRY3FMMjFDc1BoZFhaOUhxUDVoLTFQejljYXI0Qm8wMTFnSWxaRlZicldQZ1NHNUJ1NmhfUlBpUUJodTVDU2k1R2hCMjF6YWNXbmJGSENR0gFnQVVfeXFMUFdPczF4ZVNQYWdwNDZEZVNIQm9Nc1RPQTFUSzBCV3VyRVIxdWFFWVdfM3BnX19ZX2NZRlhIa2M4a1VXTXF2dk9Hbm1EeTljc3NRdUlaTzlmZjBpTTRDNVhJZ1BHb1RUbw?oc=5",
       "snippet": "Hackers Breach Global Shipping Giant Maersk and Claim Theft of 100GB of Logistics Data CyberSecurityNews",
@@ -193,6 +208,126 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Uber Confirms Thousands Of Drivers’ Licence Details Stolen In Third-Party Data Breach - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUE9HdkhYWGwxWTltVlNNalotQ3JOZUo4aS04bXN1eVdjMl9rQTBCaDc5N2ZrdVp2S1lYMjBqam01bDVjVTdkRXRJX0cwT0VwcTYxNGgzMzEybTRmamFqUDlYbGtlbEMxdHhFcEg5eHFFWGxBUERLU2R5N2ZFenJTaFlZVHl0bUg1R2RJLUd2cTBOdUM5YmNLX05UVnBnc2dxdW44b1JR?oc=5",
+      "snippet": "Uber Confirms Thousands Of Drivers’ Licence Details Stolen In Third-Party Data Breach The 420.in",
+      "publishedAt": "2026-11-13T17:47:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Instagram Hacker Websites 38 [opqdcu] - Junta de Castilla y León",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPSnV2b0U5cE53NXlIb3hIRVVVdkJ5Mi1KX2lzRHJvRU9PbXJWQWNaSGNhQ2tBSDA4THhnMDRkNWZTTkJDY2FWeW41RjBqeHdnbUNJWEhXbVFBeFc0dGtGdXNXMlU1ZG1WVVZpMUVFbklpX19wMHFVS0J2MGhqYzdhaklLbVRscUhYZTdPUkZGZjBFZGxTc0xkS21rM1UtcFVoVUFLTFctWnpxNmt3dF9sOFZrWVF2bzVGYnI4ejVHbFVTZ2cwX3dXdDhIeGJyVkhvMWdxTkVuM3k1aWlhenRRVXJVaEx0dk41SWlIYVlUcUUweUJEZGVaNm5vdVVqUWhLN2NHUktXQWhNd3NJRkFlN0lwRzdfWjlaRjM0NmNHZldNMTBJMTJ6Uy1mQktYRWRab0NmUFBaa0dlSDRpdXliMjVpbmdVRmFaRTZzUjdwTUc5RkgyaGtsYjZHb29qZFZEN2c?oc=5",
+      "snippet": "Instagram Hacker Websites 38 [opqdcu] Junta de Castilla y León",
+      "publishedAt": "2026-11-13T17:24:18.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Email Cyber Attacks Becoming More Precise and Evasive: Report - Carrier Management",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ONTRweDRDWFRGSlhBUFh5bDQtWnVkbk12UnZTaklCNFdvZjBQQmNGTHZNMlZLYnFBOFlnOHkwakwwVjdfckEyZVZRM293Y1dzempwQjJEZ3c3NWtwbC1NLWVoSU5ySE9aR01YdA?oc=5",
+      "snippet": "Email Cyber Attacks Becoming More Precise and Evasive: Report Carrier Management",
+      "publishedAt": "2026-11-13T16:37:34.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nigerian banks cyberattacks hit core banking software vendor - Geeky Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelQ1eG93em5FLXV2WDV3aGtWcy05QklVaW9hUHZjMGo3aFFiNnRsQzBfSEdEQWpnRERPNXRDdXoxUWhQNGVRTm1HR0FQQ0cybXdXS09BQzM0TlJUUVhDb3hXQTdHWTRFTGpoTWVHbTdEUEFUOHQ4aENKMHpWZWdHR19tLUF3cFhJaXl4d0lxeFI5THhuMUJpVQ?oc=5",
+      "snippet": "Nigerian banks cyberattacks hit core banking software vendor Geeky Nigeria",
+      "publishedAt": "2026-11-13T13:38:41.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Disguise XLoader Malware as Purchase Order Confirmations to Infect Windows Computers - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ea1ZaTi1ZYm81eHB1OEQwOWx1WVYxMmJqbnF0aE93SjhMQmRTMVhWbHUzcU8yZnZkZjliQXQtYjAxcWpodG02NDhidTR1Q1NyTHVBa0FWYlcycDTSAWBBVV95cUxNNm9wWGZZN3luMjZSblROYk1jckdZbjNtZ2V1YWswNmw1TGpBYW1aOFJmLVNmaDJ1TllpWGktbVRyM3A2U0hIYThNYVhteklqMW9FdG5ncHVnSjItN05GSkk?oc=5",
+      "snippet": "Hackers Disguise XLoader Malware as Purchase Order Confirmations to Infect Windows Computers GBHackers News",
+      "publishedAt": "2026-11-13T11:33:33.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-Powered Cyberattacks Raise Security Concerns for Indian Banks and Financial Institutions - Thekanal",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXVGTFdvcjZpZkpDWTliV3lSM3dMQWQtZTc4MHZ2UUtSM1FleHM1R0ZTcnhQM05OR2ZVT3hIUjNOd2ZBRU1ITkRTRHVuWlRmUVJVQVhhalBSN1BPRXVRRGp4OTVZYUxmUE1wb29FS3FRRE1TWjQ3YXJHZVdPcEFidUh5TlBHZWxvX2VIZ2djUlJOTGY3VjhEcXRrdFlkVWN6OHZZbFdvTklYU0h4YzMyYjZrb1VhWnJNcEF6a2dYdmQ3aW1mY2paVHUwTQ?oc=5",
+      "snippet": "AI-Powered Cyberattacks Raise Security Concerns for Indian Banks and Financial Institutions Thekanal",
+      "publishedAt": "2026-11-13T11:09:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Who Are Top Cybersecurity Expert Witnesses? Scott Steinberg - https://www.futuristsspeakers.com/",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY2NOUnk3OG1pR3NuMkRJdmtwdUpCVUxSZ3psaFpIYVJfLXc2a3dMejBvQ1ZWSGJHbVZGbG1OX0xpdGJ1SVk3enBhS0k0WXRFYUtVS01PR1ExMVI4Wi0teTBmR0U5UUN2TFlfVVY0VndZUFlnWjI1NEQ5N296SEk4Y2pkbw?oc=5",
+      "snippet": "Who Are Top Cybersecurity Expert Witnesses? Scott Steinberg https://www.futuristsspeakers.com/",
+      "publishedAt": "2026-11-13T10:31:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "85.9 Million Records Exposed in Philippines Cyberattacks - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwa0YybzRrZlhKTmkybWxWdkRvQTg2RjdZRHpCMTVSZC0xbDF5amVBd092R0ZMdFNXeVN3U2M4SWpjY3pJSjNYWkFSejNrMDVxbmRteTRZck5aV1RZWFY5bXkxR3lSV3JVdVdBa0hyM3U4RHJPVERB?oc=5",
+      "snippet": "85.9 Million Records Exposed in Philippines Cyberattacks The 420.in",
+      "publishedAt": "2026-11-13T07:08:49.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

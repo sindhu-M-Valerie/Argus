@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:00:07.764Z",
+  "generatedAt": "2026-11-13T19:55:12.964Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 15
+    "total": 46
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 55
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 19
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,66 @@
   ],
   "data": [
     {
+      "title": "India and Indonesia Reaffirm Counter-Terrorism Cooperation - nationpathindia.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3dkR3ZNMF9PWDl4S3NySGFaaU9iaWFDSkVCelVWeU9na3BROUktLVFzWS02QjRhYzZCdXZhLVNqczFGSkFYWDRkM0xqdkpfRHF6bWZiUXA1cEpnWDdScmlWbldTUHNEd3QyUFprRk1CVVdZZHJLajR0SFAwd3dMRVBZcmlPZGxQRVkwNzF4dkF1dDZUTDQxWXhwZ3M?oc=5",
+      "snippet": "India and Indonesia Reaffirm Counter-Terrorism Cooperation nationpathindia.com",
+      "publishedAt": "2026-11-13T07:26:01.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Over 14,700 pornographic, child abuse materials removed from online platforms since 2022 - The Sun Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0ZGZnVOMzRwc0dEN2tsXzhsMk5haC1HbmQ3dHJGc1VYVGk2SUEwS0Z6WmpoYUluZ3ZEOGw2WnhiVlBoR2JfdFE2Q1VGRmxXWXhiOVJHY3lQR19BV0kzaV9tbEhBcTJXSWZTM0xaOFR1QUFuQ0xqMWp5aVVITWR3Wk9OSQ?oc=5",
+      "snippet": "Over 14,700 pornographic, child abuse materials removed from online platforms since 2022 The Sun Malaysia",
+      "publishedAt": "2026-11-13T13:30:12.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kerala CPI(M) braces for social media battle, boosts legal cell to check misinformation, fake news - The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVDU5NnI4bm9sZDVyY1c3WXpRZi0zbTlPRFl4UGJyemM3VUltdzh0MlVua0s4VGU4TExnZHYtcFBJRWpOTUd3dXVvZk52ODFPNzNmQk1xRk1SaWhMc1FEejBUTFRDeHFrM25HcHkwY2E4RG96T3p1UXRxS1VyN2JTVmNXbFJzUlNET08yVHlyY2ItVWlFOGNycTk5SGNfa05KSnNkZmdjQXBWdnlaMTJFbDhKZVJLVHk2WEQ0ZW43QklGSVJ5VkpteUxTcTJnN0pWandRa2JvTFoxRGo2WEHSAeMBQVVfeXFMTjROWWI3MmUtMjVfbVljV2htZVdESmNDSEVkckRlbFlWWldsQjVySTdnSGZPckhmdDRVVHRRcU84UXRhWkFJMS1FejR1bmtpZTNxdVJNQXBwWHNHemtwMk90UF9haDkxRUdRc0pPN0NmWUZsVldUTWpuUHhDanF1WUV6NFRMOU5wVTdBTVhzenlZbGt2cG1WQndWdElMb0t6ZkotcWtVRU5SYWt3V3FBWFFlRjdDOC16TUlwSGxqU2s4VFJLVlRRS2tUVTc1dVl4Ynh6X3NsM3N4RlpRUXpsQlNSZnM?oc=5",
+      "snippet": "Kerala CPI(M) braces for social media battle, boosts legal cell to check misinformation, fake news The Hans India",
+      "publishedAt": "2026-11-13T10:15:05.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CPI(M) to boost its legal cell in Keralam to counter ‘fake news, misinformation’ targeting party - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObi1mV0xOR2MtcmswSm5rQXI2ZjNDYkpVUFhOcFZEQS0zRDBucng2VVZNek1nenhjWTYyOGhRbUZlWHF3RjhoOUhiSHlHMFh2RDhRTGVMMWd6YTdjSlV0Z3ZRSGlOSXNxbVl5ZnFIZks3UDA3U0d3dmJyb21NX1o0WGRrUDFKWTNWNFFCWEp4M3lWeHVSczdXUWcwRy1kdUhFOS1aQUJmeUNmaGljVGY4dFEwdE94akNwVGlWRVZ0U1BVZExtcU1pVUx4bUZpbWlLRmctMjcwckRmNS1QX1hUNzhLbWVWbWtRVDNzZE1B0gH0AUFVX3lxTE1zNl9rNEZaY2ptWllJR1hrVTFKZndqSUhxcHRqQ2owc3ZwS2FqR2hBal9razl6YU41a2k1aVYyYl92cmpXRmhDMkdiRml6ZDFBWl9Uc0RRMnFyN3JOTGpSUVcwTlVFdFNWQlpIVW1iYUg2bGFOdlI4eGFTVlVOUmc0VU5zSlJmNUxwTnA2R1lhdXY0ZkJXZGRIWUhrYkk4WC1tTkFWSk5KS2FlSU85cmpVejRhOWpEM05XczU4N1FSUVFKR1RHMnEtaXBfdDhTRzhXVnNCM2FkMFItbDVrakRzcGhLNnVyYkx0V29PWXpfYkVoNHk?oc=5",
+      "snippet": "CPI(M) to boost its legal cell in Keralam to counter ‘fake news, misinformation’ targeting party The Hindu",
+      "publishedAt": "2026-11-13T08:34:39.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "WebQoof Recap: Of Misinformation Around Tripura BSF Attack, Deepfakes & More - The Quint",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSm5SX29ydFlVX1R2N2xrdTc2aUw4ZFB2b3BHWlZTeDRqa2lKX05aTkx0ZjBKOXFpX2ZZYUdxSVJCb1Mxb1lFcmd4YlVPNG9kc2VGS0Z0SmJ0czdrd0o2azNJS0UwMnRJUTdUVjBwNHJ2OGJwTWRDcmNISlc5b1FzOFVEOVpFTmNTN3hzWWhRclVPeEVIMC1PZkcyS0U2a0FnMWV1N0ZmWmkxM2FfUm9vZNIBvgFBVV95cUxPbEh1YlQ3X1JiUkUxQU5yYmVReVdyczlETTJaLVhyRTFpb0lnUHI1YW92aGYtNElNUGM1VS1XaVdHWTdabkEtZjZOWXBhbzV0NWdxSzE4UFRkTnpDMmYxVjlxMWVER0RSUkZVaTNZQmN1ZndlcmlMUjlRRFJuU3dqQVlRbXoxZldQWkM4Z3g1RVhmWkZYNVRrSFJCS3RxZzBiYVBxc1U4emFuTGFQYk5LOXpnMVhNd3lBTnBXQ25B?oc=5",
       "snippet": "WebQoof Recap: Of Misinformation Around Tripura BSF Attack, Deepfakes & More The Quint",
@@ -197,6 +257,51 @@
       "corroboratedBy": 1
     },
     {
+      "title": "The voice on the line: How family offices can insure themselves against AI impersonation scams - Crain Currency",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd2doVzZZYWs4UHNOeUo3OHhid3liVmlmemxjd0R0cTYzUDRuanBSOUZWZHE3SnFVdFY2VHF1X3YyWDZYNGVHalRYMVJjOU5GNGltY3hIMEk4TzJhdm9FeHYtZThybGh6N2VmQVRtVFpYWThXazFkYzI4dkI3dkVpTjlWajk2TDVsWkoyeThNZDJiS0dMZFNieXVPejNwN1ZmZndtRnFGTktwTkIyTzV5NDAzVjltRU1VVVRSTHNzY0w0OUctaHJ1b1Zscw?oc=5",
+      "snippet": "The voice on the line: How family offices can insure themselves against AI impersonation scams Crain Currency",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "RVIPF issues warning over child sex abuse material - BVI News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YSGt4NjM4dFZGU1RhcDJtd0FGNFhaTFNCZnd6QUJCREl4cG5pb0tjcW50X296QXJFcHJ6cG4tZ2c3NmhpWnkwcGJXMVZtQVF4YVBTeW5tcEQxdi1TZm1DTFJvbnhFejJGU0RXeFFvWE1TNzduMzZiMUU5MA?oc=5",
+      "snippet": "RVIPF issues warning over child sex abuse material BVI News",
+      "publishedAt": "2026-11-13T11:24:29.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Fake AI video of Nirmala Sitharaman promises high trading returns; Keralam woman duped of Rs 49.2 lakh - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNkhaSkstNXBDOHRTUmRPbE5vN0NOLW1SRkFBckk0ajRuOHVTWTN1a3czRzROQ3I3aG14Nnl1X1p3VTBsTkNiR3RaWjdOVWVvdkhBd2tBUEc2YU1LdEkxX04teUV1eTY3R3Flc2Nxb3owN3JtUFM1TjFqc1otQUFVTEhfRHAtVFRRNnh5dC1aQjhobUlLbTJIZHVBUk84dnpBVE5OX1ZQNmlJc05uWnowdE92dTRweEt4czVBeUZPMjAyZlF2XzJxU0l0dGMtZnZzTGxGRXdfdUVvbHE1bGtuWEdxbnR0VlNJcXNtU0ZHQlTSAfYBQVVfeXFMUFhKQ0NjbGp1MjVTUkZEUEtMUi1walR2XzdBTjN6Z2cwYTgyU1dyQ2N3R1A4allJYXo3LUh6aGZRT2hmdk54V0lTT0RMSkpaREtITklUVzlKZ0stZGRsVTBwcFAtdmJzMXZ3ZldxMTROYzBsd3ZnOVFaYXBhSll3d2l2WmVtNFYxNHZVWmZJMnI0ZWsyNlNVZ2M0YUNwZDRjbG5CNWhpWFVDR24wS0dCcXhlbDd2S0VTakJwNy1DX2tJbk94bVc1aDBSc25xRlhWRTd1RTJ2bnZXZGNqZEdaTHBGUkREcHpQNU1LVFl2UmRYTFZnOFdB?oc=5",
+      "snippet": "Fact Check: Fake AI video of Nirmala Sitharaman promises high trading returns; Keralam woman duped of Rs 49.2 lakh Organiser",
+      "publishedAt": "2026-11-13T08:04:03.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "FACT CHECK: Are New RBI Cheque Book Rules Coming Into Effect From January 1, 2027? Here’s the Truth - LiveChennai",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEN1pxdjhDMFlSd2ZXaGp0bEdnVlZMa01rTk82QVVVcUdpNFBRaUNXbEs4Z0FmRHZrV3RSbHlFYWhRQVhCUXhCRll1Y0lGWHhrbXVBWlRwMld5cXZqaHdUblgyanhabUZHWl9Rdno3QQ?oc=5",
       "snippet": "FACT CHECK: Are New RBI Cheque Book Rules Coming Into Effect From January 1, 2027? Here’s the Truth LiveChennai",
@@ -206,6 +311,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sharia Law, Human Trafficking, and Modern-Day Slavery: When Religious Authority Becomes a License to Enslave Women - The Western Journal",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdTlTdkI1ZXBrX3JkR3lWM3N3cGtVUVNWaHRMUkV0N2NndEtpYWItdTVIaUV1aUYtTm9zTk1XVm5JV1FrMkFwVERGemtReEhiUFljbGlhNFlNM2RHWmlMUW00Z0xEUHVNcFNBVDhXRFUxUmxzLXpDNmpMWGFFOGN3UXVfMUljaGNBTzl0QVdsOGNfd2dJOXl5Vk85MmU1WEhlLVlyNWxqUm1yRHZvNXJJOXFlSGdZOEktTXFEVEExcHU0SUNPczcwVw?oc=5",
+      "snippet": "Sharia Law, Human Trafficking, and Modern-Day Slavery: When Religious Authority Becomes a License to Enslave Women The Western Journal",
+      "publishedAt": "2026-11-13T00:38:00.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "human-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
@@ -252,6 +372,51 @@
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CPM Sets Up Special Legal Cell To Counter Fake News - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0E5d1RnVGdKcGdPcDBsdmFrd0dydWs5VGs0UGtpMFJLRzUySEQ4LTd1Y1ExaWNRdVhZdVlta3BqeUhha1VzWG1YUVo4TmxXQ1RTdFhQS1JfREV0azNERWJnNEtmRlpmdHZWUVNORWU5djUtTVJEbzBzUjhMTUNDWkl0MEc1VGMycHlZTmZwbVA5Zmh1TGJ5RF9FakR0V1FkSFp5aVA1dGpxZ3BBUVk0NFU2SG3SAboBQVVfeXFMT0pJNWE3T0U3OUVmOFBLS0plbjdnaXdyMEs4Uk16d3JVa3FjSmRfZUFRTy1kSkNGb3puYm9KODNnY25rOHZScnhqcjVLN0JvUnFvMmFUaE8yMnNBX01VajROVkppd2lWZ21ZZzZPdmN1ckc4Yi1CZW5uRVQxMmVLbTBOYm5LeEx1M2xpZWJKSXBoTnBzVktVcHhFblNENW9DTTUwZEtqQlZ1RzdHek1BZ0ZDalNvUDZDVXRn?oc=5",
+      "snippet": "CPM Sets Up Special Legal Cell To Counter Fake News Deccan Chronicle",
+      "publishedAt": "2026-11-13T13:05:32.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Scam Watch prods DICT: Address cyber security weak points after 23 agencies hacked - BusinessMirror",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnlEUWNQeXlyaElaalM5XzRadVlvRUFXZzlvbWo5V0xDSk5EaEJndG5OSUhJTno5QW9BSzhVSFFGVmhKQVM5QjR3NFBweXpFTDZEWnRPQUthdW9mb2J1YzUydFVmMGd3eGl5SS0zbnNrYjZVR3ZCbm1vUGN3bFIxaE9SajFidlgzS2ZMbDlral9nRHNiQnVQekFDV1pvSHktV1dEU0o1WlR5MFRpdUhJa2xUR1BHR2RoVld4ZVV6bFc?oc=5",
+      "snippet": "Scam Watch prods DICT: Address cyber security weak points after 23 agencies hacked BusinessMirror",
+      "publishedAt": "2026-11-13T13:00:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Krakow shooting points toward Europe’s changing extremist threat - The Parliament Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVNNanpLeUxBX1RIbVJUQXFhWU90TWZENzNKajdsY0dOamtHNTJqc1EzVzJKejZObnVDSXR3RnRSR2NJbEVISExqNkpmYjUybFdRaG0wd0tJQTE2Z1daamNCbFRzUDdTaFBUTG8tYUxEbEZ6dUxEMkdSUDRaelhkbGpvTXdKYUZWaVNnWEFldnZ1d3ZQU1JRc3BZTzIwalhGSWc2TzFEZG0tMjBIeVdtTWpiUU5Jc1Mw?oc=5",
+      "snippet": "The Krakow shooting points toward Europe’s changing extremist threat The Parliament Magazine",
+      "publishedAt": "2026-11-13T08:26:28.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -317,8 +482,173 @@
       "corroboratedBy": 1
     },
     {
+      "title": "New York lands among states most at risk for online scams: Here’s how much victims lose - SILive.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTnR2T2hFZnhTLXMyYmdTUXduNW9uNFNiZThWWFNyeHNzZW8wVWNBWjhJOUM1OThCeHBrUFJjcGFsNFlhMFlMbG9vRXE5M2JnSENOT2hiOUdkN1UycWFXRmZPZ1VuajFiRXFiQ05BQjVmV2VVbzU3QXZEaHVyaFFjVm4yX2RvTk9NUW9jeUxlR1oyc3gzUEdueXBDUkFsa3dieDJCUFpwOE9QdElNU1c1dkZLT01vbkIwVHVJZW5NOFB0NWUwOHJTdTlB?oc=5",
+      "snippet": "New York lands among states most at risk for online scams: Here’s how much victims lose SILive.com",
+      "publishedAt": "2026-11-13T17:51:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Southeast Asian leaders, with U.S. and Chinese counterparts, will renew alarm over online scams - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVkFYLXQ5M09ObngtR3dUTHRWQUQtU3pnaWZ6dFVCNWFnc2p6VENFNGdLRFl5T201RHdtU0tWaGk4NVU3ei1SY25aWkh5LUN4ZmM5YzRDX1dEaHFEd3lwWC0xSUM3SEFvblpRQW9tcHMzci1udTk2MTQ2X3ZpUHJPNWpFcC0xVjZpX0ZzalNDZVhqcHdZV1BycjBvRC1mN2JIY0RQd0lqS2djWjV1QThnRE93eFJBVzAyZUFoTUd2cTU2bTU4M09pNHJxcWNRZ0NWV2hLdFBya0hwaUlfNG5NZXA0SXJXWUZueVE?oc=5",
+      "snippet": "Southeast Asian leaders, with U.S. and Chinese counterparts, will renew alarm over online scams BNN Bloomberg",
+      "publishedAt": "2026-11-13T15:27:25.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "human-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission pulls back on 'hate speech' plans - www.christiantoday.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUdlenpXbkdsTEQyOVZQVHBwMW9NT3pXQzRkUFFmUEF4UHZVSXpDclQ4TVFTQk9tRVE4YjAxam1WdTN1czFwRFRNZk5wbktFRzdyQzlVS2lXMi1GdFU3dnNTM0x1bzlvUGd6RE44UHdodzlNbXBVQjd2YXJQSGpWRGNWakxGelZwNmZXZmFIbjA?oc=5",
+      "snippet": "European Commission pulls back on 'hate speech' plans www.christiantoday.com",
+      "publishedAt": "2026-11-13T14:26:15.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India Persecution Tracker: Uttar Pradesh Leads in Anti-Muslim Violence - Frontline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0c0b2RNbEN2SF9RNFZwejg4ZklCdHNjdHowc1dWNGRyS1I3TW1nZzBpTHpyYXExak9aLURHZTM5c0xCbXhmbDI4UklOUUhyaXRtcWtQd0FFc2x5LW53eHV6T3BTMHY3ckNLT3VGZldsbm9kaHk1c1pvbGZ5LTM5OHg5aTRGMG5xRXduQjNTb3B3dVNjXy1hZ1UzRTRTalRmZXFRcHhERC1PMmEwQWpZ0gGvAUFVX3lxTFBjRzRvZE1sQ3ZIX1E0VnB6ODhmSUJ0c2N0ejBzV1Y0ZHJLUjdNbWdnMGlMenJhcTFqT1otREdlMzlzTEJteGZsMjhSSU5RSHJpdG1xa1B3QUVzbHktbnd4dXpPcFMwdjdyQ0tPdUZmV2xub2RoeTVzWm9sZnktMzk4eDlpNEYwbnFFd25CM1NvcHd1U2NfLWFnVTNFNFNqVGZlcVFweERELU8yYTBBalk?oc=5",
+      "snippet": "India Persecution Tracker: Uttar Pradesh Leads in Anti-Muslim Violence Frontline Magazine",
+      "publishedAt": "2026-11-13T12:01:06.000Z",
+      "source": "Google News • Violent Speech (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "FaceStealer: FBI Disrupts Fake Video Call Crypto Scam - SOCRadar",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01X1dwc2R4VjNCLXlTTy1PeklfMjA2dFdsWm1VTjQxbVlIRi05ZmpPdy1kakZRTnlpWkEwQ2JicXdGejVrVWxOTVFzM0dVbHZBQ3FSalhSN2pnNUlncDlYSVFTc0FTVVlvQ3RVYm01a2ljZEVVZVV1Nw?oc=5",
+      "snippet": "FaceStealer: FBI Disrupts Fake Video Call Crypto Scam SOCRadar",
+      "publishedAt": "2026-11-13T11:34:15.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Google, Asean step up anti-scam efforts - SunStar Publishing Inc.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN21Lak9fZFQ3a3d3YzZTZF93MHRUMXhGWGJrUVl5bG9uR3lRS3U0RTBwbVZjZzRreE5tMy1IMzBGelFrTS1jdTRhREw3ZmE2eHJRRTJBM0lWQkRYU1BJS2tpSnZZVlJQSG5FbkstVWhGVEstOVhiMUZtdUhjRUMyT3VHVjExbXPSAYcBQVVfeXFMTzdtS2pPX2RUN2t3d2M2U2RfdzB0VDF4Rlhia1FZeWxvbkd5UUt1NEUwcG1WY2c0a3hObTMtSDMwRnpRa00tY3U0YURMN2ZhNnhyUUUyQTNJVkJEWFNQSUtraUp2WVZSUEhuRW5LLVVoRlRLLTlYYjFGbXVIY0VDMk91R1YxMW1z?oc=5",
+      "snippet": "Google, Asean step up anti-scam efforts SunStar Publishing Inc.",
+      "publishedAt": "2026-11-13T11:33:38.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams - WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXoxRW9oVXR6UUF3ZHlyUl8wZXZOTnU0MFpMMzF3V3JLXzgydXdDSHJTdXBZVnIyM0xWdkxFSWs5R2dBTVRwQzF4NzBGWmZjNjV5b1VlN2ZoT2hGLUhkbDJoc3AxTE12T3pRVHU4VGNjdEtUV3pxRjNiX21RUHowNXZQZGJoNUVWdXc3RTBzZEEwZzQ1cW9BOURlLS1aV0dyRjI0VTBqZjRpSm4xV1dpTmV0M0JjSmFsX1ZabHFzRlA?oc=5",
+      "snippet": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams WTOP News",
+      "publishedAt": "2026-11-13T10:16:36.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vietnam calls for unified online scam warning network - Báo VietNamNet",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1gybGtkWE8yWkJiWVQtellPWkNoZVR5Y05rWWJMQlNYd1FxbThaazVHaVd3TU00VjN4djFBOXJ2MGNtcFJBczluTGFUaEowcFFlUE5INzlxdFhyaWFkbXo1RUVYaDQzeEhQSlFkR2RxdEtVTXE3ZlB4MHI2NHVNUVRNeXZWbnNvQVNLd0xDUGFLSEdKOWc?oc=5",
+      "snippet": "Vietnam calls for unified online scam warning network Báo VietNamNet",
+      "publishedAt": "2026-11-13T10:03:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXZzYWxLVFBNdWlUZi14NXB2YWxISG53czhJaHJ2YXp2OF8yRXJNaktHSG5HY1JoNXZLUE9TSTZYdUNtaGZEUHdtUjJVUnA2QTlOSXNGbXFsNk42Q0VXQ083bGFvSkFqYWdJWi1rc0VJMXpxTWVwcnowRkJzYTNYcWxPY2dJaEZsV3E4UXA5TkdKUERiWkxGUnUxaTk4d0hlMTROSWFoTmx4SFo0MDhyRW8xck_SAbQBQVVfeXFMTjl2c2FsS1RQTXVpVGYteDVwdmFsSEhud3M4SWhydmF6djhfMkVyTWpLR0huR2NSaDV2S1BPU0k2WHVDbWhmRFB3bVIyVVJwNkE5TklzRm1xbDZONkNFV0NPN2xhb0pBamFnSVota3NFSTF6cU1lcHJ6MEZCc2EzWHFsT2NnSWhGbFdxOFFwOU5HSlBEYlpMRlJ1MWk5OHdIZTE0TklhaE5seEhaNDA4ckVvMXJP?oc=5",
+      "snippet": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-11-13T09:50:00.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australia warns of AI-driven scams & account takeovers - SecurityBrief Australia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORW1OSENIS2stV0tJZGtVdjNVN0xsd0xBUzVuVFQ2UTFPdlN4TkluRENUbzNXcVI2czI0UUF3S25jT2ZIN1pNcF84X2VhQ1RUaENCYzVuZ1VWd0FYaW5pUTZKNEdTbmdiejZ1cGZuLTBxQWZOWm9oQ1ZkTTlOS0dNUTg0Wl9QN2UwNWZoamY0ekM?oc=5",
+      "snippet": "Australia warns of AI-driven scams & account takeovers SecurityBrief Australia",
+      "publishedAt": "2026-11-13T06:22:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Sikh hate crime in Canada: 3 teens charged after removing mans turban and pouring beer on him - The Tribune",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRE5aNXRmNmpMWkNxcXJrdkJNX2M2dlRaYVVrQ2ZUcm1kQ0xWNkFjc2FvSHR0SC0yU1NxS3V4S1VOV0NrSUhEVnhFaWpXUlNkelgxT1RTQzd2NVNNYUtJSW1Gck4xZW5XdG9nU19XSWdzVkZOM2tvaV9XWnFSMUFQNzhoZDBEVkZhbGkyMEZwMmd2U0NpcDBkWTdMMmdaZFptQ3hiUWx6bFlTM3VvVnl0SGJGS1lKb0JKcU5FTjRuX2NabGljU09KRlV1aVXSAdMBQVVfeXFMUFlqejZaeW5jVEF1Nlp2YjVJUG40a3J6Q3pwZUE0SEUxVFBSdnlrN0Jtd0tFeGM2NGpXUDVLeTlUcVRLMW8weUFhYXlIcGNhR2xTM3dtR01SQUltY3RTMmFBenhZQWg3RWVpcGo1MTdhN3R0UGJ6UmY1R1FUUUY4NnZjbV93SWt4Zno4R3h6bXQyRmNHLWlLb2ZRZUtlRFhyTHU5V053SlZYRzdpRUJucURkNkdMci1TdVppbHE0bDRWMXA5LS1rOThBSUUzMXp5cUxuQQ?oc=5",
+      "snippet": "Sikh hate crime in Canada: 3 teens charged after removing mans turban and pouring beer on him The Tribune",
+      "publishedAt": "2026-11-13T05:46:40.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sikh hate crime in Canada: 3 teens charged after removing mans turban and pouring beer on him - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGFoYndsR0VMT21jRU1MME1KTzhPT1RBcDYzaEpoaG14eUk5VlNZbFQyczZzTFAwYWZMZ0lHNGUwVVVMOFJNeFNCTDdHUmdDRlM5WEhadXJ2ckZ3MW94UzRTUldpLXlJTjJUdE9DZlZfdDgzNXdHRXNlZnhUeHlfc3VFZk5ENXRTcVBReFRiUnc3dUY4RVRwWkUwS0RqUkNqLXR5emc5M1AzZzR4TWhrclFwZFFPb2toUzdBaENHeUNLRHVsLVVWT1gxeVFDLU3SAdMBQVVfeXFMUFlqejZaeW5jVEF1Nlp2YjVJUG40a3J6Q3pwZUE0SEUxVFBSdnlrN0Jtd0tFeGM2NGpXUDVLeTlUcVRLMW8weUFhYXlIcGNhR2xTM3dtR01SQUltY3RTMmFBenhZQWg3RWVpcGo1MTdhN3R0UGJ6UmY1R1FUUUY4NnZjbV93SWt4Zno4R3h6bXQyRmNHLWlLb2ZRZUtlRFhyTHU5V053SlZYRzdpRUJucURkNkdMci1TdVppbHE0bDRWMXA5LS1rOThBSUUzMXp5cUxuQQ?oc=5",
       "snippet": "Sikh hate crime in Canada: 3 teens charged after removing mans turban and pouring beer on him The Tribune",
       "publishedAt": "2026-11-13T05:46:40.000Z",
       "source": "Google News • Online Hate (India)",
@@ -336,6 +666,21 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalhCbWtZTTFNdjBRUU1GOGFLdlpUdzVJeGhZYm9TRE52YW9admpjaFZtWDRySkJzYk8yZWM3VFNtY2I1NHBFb2t1NUQ4bHo4WE43ejRjUnFBSXRwR2g0MW5iMHQ3SHp0RHRhakNRR1JiVTdxVnl5SWFsSHJKQXQzTjJDVFZUQW1INV9DaUZUUVduaWNqOEUyVThwSTdpMkVMVHBZdjZn?oc=5",
       "snippet": "From online pagodas to online churches and the risk of fraud Laodong.vn",
       "publishedAt": "2026-11-13T05:27:55.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Could you spot AI scams in seconds? - Digital News Asia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHZpRW0xYjlXcF8zZ25uSDhIZ0d2THhrcTZtYWRRN3llUXo5bDY3b18yWXpSOXZSNmxNWU5OcHRLLS1iQmxQRHROalpad2NHMWZaYW00N2UybHBobUVxLW5SNlJqaHVjU1JfQ2ZtQXB3YXV1RmhaTkVBcVZ0VmR2cjUtU1c4Zw?oc=5",
+      "snippet": "Could you spot AI scams in seconds? Digital News Asia",
+      "publishedAt": "2026-11-13T05:10:12.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -365,7 +710,7 @@
       "title": "Coins.ph warns Filipinos against rising digital fraud threats - Speed",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVpUTjFRVDZoVG9MWG5rM05MYlVGejhONVRQY3F0VjNvZ2d3aUNYXzg1T0VTV3VFQy1xcEdIdDRNZW1FWFNualFqeU42WnhPQld2dUhVWFhKSU9VOFBrakpaU1JWLVRlN3UwMzczU29JQVN2X29hUWdmMUFGTjNaVi1QTG11ZXQwS2xz?oc=5",
       "snippet": "Coins.ph warns Filipinos against rising digital fraud threats Speed",
-      "publishedAt": "2026-11-13T02:04:57.000Z",
+      "publishedAt": "2026-11-13T02:13:56.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -387,6 +732,126 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Uber Confirms Thousands Of Drivers’ Licence Details Stolen In Third-Party Data Breach - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUE9HdkhYWGwxWTltVlNNalotQ3JOZUo4aS04bXN1eVdjMl9rQTBCaDc5N2ZrdVp2S1lYMjBqam01bDVjVTdkRXRJX0cwT0VwcTYxNGgzMzEybTRmamFqUDlYbGtlbEMxdHhFcEg5eHFFWGxBUERLU2R5N2ZFenJTaFlZVHl0bUg1R2RJLUd2cTBOdUM5YmNLX05UVnBnc2dxdW44b1JR?oc=5",
+      "snippet": "Uber Confirms Thousands Of Drivers’ Licence Details Stolen In Third-Party Data Breach The 420.in",
+      "publishedAt": "2026-11-13T17:47:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Instagram Hacker Websites 38 [opqdcu] - Junta de Castilla y León",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPSnV2b0U5cE53NXlIb3hIRVVVdkJ5Mi1KX2lzRHJvRU9PbXJWQWNaSGNhQ2tBSDA4THhnMDRkNWZTTkJDY2FWeW41RjBqeHdnbUNJWEhXbVFBeFc0dGtGdXNXMlU1ZG1WVVZpMUVFbklpX19wMHFVS0J2MGhqYzdhaklLbVRscUhYZTdPUkZGZjBFZGxTc0xkS21rM1UtcFVoVUFLTFctWnpxNmt3dF9sOFZrWVF2bzVGYnI4ejVHbFVTZ2cwX3dXdDhIeGJyVkhvMWdxTkVuM3k1aWlhenRRVXJVaEx0dk41SWlIYVlUcUUweUJEZGVaNm5vdVVqUWhLN2NHUktXQWhNd3NJRkFlN0lwRzdfWjlaRjM0NmNHZldNMTBJMTJ6Uy1mQktYRWRab0NmUFBaa0dlSDRpdXliMjVpbmdVRmFaRTZzUjdwTUc5RkgyaGtsYjZHb29qZFZEN2c?oc=5",
+      "snippet": "Instagram Hacker Websites 38 [opqdcu] Junta de Castilla y León",
+      "publishedAt": "2026-11-13T17:24:18.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Email Cyber Attacks Becoming More Precise and Evasive: Report - Carrier Management",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ONTRweDRDWFRGSlhBUFh5bDQtWnVkbk12UnZTaklCNFdvZjBQQmNGTHZNMlZLYnFBOFlnOHkwakwwVjdfckEyZVZRM293Y1dzempwQjJEZ3c3NWtwbC1NLWVoSU5ySE9aR01YdA?oc=5",
+      "snippet": "Email Cyber Attacks Becoming More Precise and Evasive: Report Carrier Management",
+      "publishedAt": "2026-11-13T16:37:34.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nigerian banks cyberattacks hit core banking software vendor - Geeky Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelQ1eG93em5FLXV2WDV3aGtWcy05QklVaW9hUHZjMGo3aFFiNnRsQzBfSEdEQWpnRERPNXRDdXoxUWhQNGVRTm1HR0FQQ0cybXdXS09BQzM0TlJUUVhDb3hXQTdHWTRFTGpoTWVHbTdEUEFUOHQ4aENKMHpWZWdHR19tLUF3cFhJaXl4d0lxeFI5THhuMUJpVQ?oc=5",
+      "snippet": "Nigerian banks cyberattacks hit core banking software vendor Geeky Nigeria",
+      "publishedAt": "2026-11-13T13:38:41.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Disguise XLoader Malware as Purchase Order Confirmations to Infect Windows Computers - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ea1ZaTi1ZYm81eHB1OEQwOWx1WVYxMmJqbnF0aE93SjhMQmRTMVhWbHUzcU8yZnZkZjliQXQtYjAxcWpodG02NDhidTR1Q1NyTHVBa0FWYlcycDTSAWBBVV95cUxNNm9wWGZZN3luMjZSblROYk1jckdZbjNtZ2V1YWswNmw1TGpBYW1aOFJmLVNmaDJ1TllpWGktbVRyM3A2U0hIYThNYVhteklqMW9FdG5ncHVnSjItN05GSkk?oc=5",
+      "snippet": "Hackers Disguise XLoader Malware as Purchase Order Confirmations to Infect Windows Computers GBHackers News",
+      "publishedAt": "2026-11-13T11:33:33.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-Powered Cyberattacks Raise Security Concerns for Indian Banks and Financial Institutions - Thekanal",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXVGTFdvcjZpZkpDWTliV3lSM3dMQWQtZTc4MHZ2UUtSM1FleHM1R0ZTcnhQM05OR2ZVT3hIUjNOd2ZBRU1ITkRTRHVuWlRmUVJVQVhhalBSN1BPRXVRRGp4OTVZYUxmUE1wb29FS3FRRE1TWjQ3YXJHZVdPcEFidUh5TlBHZWxvX2VIZ2djUlJOTGY3VjhEcXRrdFlkVWN6OHZZbFdvTklYU0h4YzMyYjZrb1VhWnJNcEF6a2dYdmQ3aW1mY2paVHUwTQ?oc=5",
+      "snippet": "AI-Powered Cyberattacks Raise Security Concerns for Indian Banks and Financial Institutions Thekanal",
+      "publishedAt": "2026-11-13T11:09:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Who Are Top Cybersecurity Expert Witnesses? Scott Steinberg - https://www.futuristsspeakers.com/",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY2NOUnk3OG1pR3NuMkRJdmtwdUpCVUxSZ3psaFpIYVJfLXc2a3dMejBvQ1ZWSGJHbVZGbG1OX0xpdGJ1SVk3enBhS0k0WXRFYUtVS01PR1ExMVI4Wi0teTBmR0U5UUN2TFlfVVY0VndZUFlnWjI1NEQ5N296SEk4Y2pkbw?oc=5",
+      "snippet": "Who Are Top Cybersecurity Expert Witnesses? Scott Steinberg https://www.futuristsspeakers.com/",
+      "publishedAt": "2026-11-13T10:31:54.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "85.9 Million Records Exposed in Philippines Cyberattacks - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwa0YybzRrZlhKTmkybWxWdkRvQTg2RjdZRHpCMTVSZC0xbDF5amVBd092R0ZMdFNXeVN3U2M4SWpjY3pJSjNYWkFSejNrMDVxbmRteTRZck5aV1RZWFY5bXkxR3lSV3JVdVdBa0hyM3U4RHJPVERB?oc=5",
+      "snippet": "85.9 Million Records Exposed in Philippines Cyberattacks The 420.in",
+      "publishedAt": "2026-11-13T07:08:49.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

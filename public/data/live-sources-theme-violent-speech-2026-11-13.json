@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:00:07.764Z",
+  "generatedAt": "2026-11-13T19:55:12.964Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 55
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 19
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "PIB Fact Check",
@@ -182,8 +182,53 @@
   ],
   "data": [
     {
+      "title": "European Commission pulls back on 'hate speech' plans - www.christiantoday.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUdlenpXbkdsTEQyOVZQVHBwMW9NT3pXQzRkUFFmUEF4UHZVSXpDclQ4TVFTQk9tRVE4YjAxam1WdTN1czFwRFRNZk5wbktFRzdyQzlVS2lXMi1GdFU3dnNTM0x1bzlvUGd6RE44UHdodzlNbXBVQjd2YXJQSGpWRGNWakxGelZwNmZXZmFIbjA?oc=5",
+      "snippet": "European Commission pulls back on 'hate speech' plans www.christiantoday.com",
+      "publishedAt": "2026-11-13T14:26:15.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India Persecution Tracker: Uttar Pradesh Leads in Anti-Muslim Violence - Frontline Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0c0b2RNbEN2SF9RNFZwejg4ZklCdHNjdHowc1dWNGRyS1I3TW1nZzBpTHpyYXExak9aLURHZTM5c0xCbXhmbDI4UklOUUhyaXRtcWtQd0FFc2x5LW53eHV6T3BTMHY3ckNLT3VGZldsbm9kaHk1c1pvbGZ5LTM5OHg5aTRGMG5xRXduQjNTb3B3dVNjXy1hZ1UzRTRTalRmZXFRcHhERC1PMmEwQWpZ0gGvAUFVX3lxTFBjRzRvZE1sQ3ZIX1E0VnB6ODhmSUJ0c2N0ejBzV1Y0ZHJLUjdNbWdnMGlMenJhcTFqT1otREdlMzlzTEJteGZsMjhSSU5RSHJpdG1xa1B3QUVzbHktbnd4dXpPcFMwdjdyQ0tPdUZmV2xub2RoeTVzWm9sZnktMzk4eDlpNEYwbnFFd25CM1NvcHd1U2NfLWFnVTNFNFNqVGZlcVFweERELU8yYTBBalk?oc=5",
+      "snippet": "India Persecution Tracker: Uttar Pradesh Leads in Anti-Muslim Violence Frontline Magazine",
+      "publishedAt": "2026-11-13T12:01:06.000Z",
+      "source": "Google News • Violent Speech (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Sikh hate crime in Canada: 3 teens charged after removing mans turban and pouring beer on him - The Tribune",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRE5aNXRmNmpMWkNxcXJrdkJNX2M2dlRaYVVrQ2ZUcm1kQ0xWNkFjc2FvSHR0SC0yU1NxS3V4S1VOV0NrSUhEVnhFaWpXUlNkelgxT1RTQzd2NVNNYUtJSW1Gck4xZW5XdG9nU19XSWdzVkZOM2tvaV9XWnFSMUFQNzhoZDBEVkZhbGkyMEZwMmd2U0NpcDBkWTdMMmdaZFptQ3hiUWx6bFlTM3VvVnl0SGJGS1lKb0JKcU5FTjRuX2NabGljU09KRlV1aVXSAdMBQVVfeXFMUFlqejZaeW5jVEF1Nlp2YjVJUG40a3J6Q3pwZUE0SEUxVFBSdnlrN0Jtd0tFeGM2NGpXUDVLeTlUcVRLMW8weUFhYXlIcGNhR2xTM3dtR01SQUltY3RTMmFBenhZQWg3RWVpcGo1MTdhN3R0UGJ6UmY1R1FUUUY4NnZjbV93SWt4Zno4R3h6bXQyRmNHLWlLb2ZRZUtlRFhyTHU5V053SlZYRzdpRUJucURkNkdMci1TdVppbHE0bDRWMXA5LS1rOThBSUUzMXp5cUxuQQ?oc=5",
+      "snippet": "Sikh hate crime in Canada: 3 teens charged after removing mans turban and pouring beer on him The Tribune",
+      "publishedAt": "2026-11-13T05:46:40.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Sikh hate crime in Canada: 3 teens charged after removing mans turban and pouring beer on him - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGFoYndsR0VMT21jRU1MME1KTzhPT1RBcDYzaEpoaG14eUk5VlNZbFQyczZzTFAwYWZMZ0lHNGUwVVVMOFJNeFNCTDdHUmdDRlM5WEhadXJ2ckZ3MW94UzRTUldpLXlJTjJUdE9DZlZfdDgzNXdHRXNlZnhUeHlfc3VFZk5ENXRTcVBReFRiUnc3dUY4RVRwWkUwS0RqUkNqLXR5emc5M1AzZzR4TWhrclFwZFFPb2toUzdBaENHeUNLRHVsLVVWT1gxeVFDLU3SAdMBQVVfeXFMUFlqejZaeW5jVEF1Nlp2YjVJUG40a3J6Q3pwZUE0SEUxVFBSdnlrN0Jtd0tFeGM2NGpXUDVLeTlUcVRLMW8weUFhYXlIcGNhR2xTM3dtR01SQUltY3RTMmFBenhZQWg3RWVpcGo1MTdhN3R0UGJ6UmY1R1FUUUY4NnZjbV93SWt4Zno4R3h6bXQyRmNHLWlLb2ZRZUtlRFhyTHU5V053SlZYRzdpRUJucURkNkdMci1TdVppbHE0bDRWMXA5LS1rOThBSUUzMXp5cUxuQQ?oc=5",
       "snippet": "Sikh hate crime in Canada: 3 teens charged after removing mans turban and pouring beer on him The Tribune",
       "publishedAt": "2026-11-13T05:46:40.000Z",
       "source": "Google News • Online Hate (India)",

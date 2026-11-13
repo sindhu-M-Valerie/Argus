@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:00:07.764Z",
+  "generatedAt": "2026-11-13T19:55:12.964Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 13
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 55
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 19
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,141 @@
   ],
   "data": [
     {
+      "title": "The voice on the line: How family offices can insure themselves against AI impersonation scams - Crain Currency",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd2doVzZZYWs4UHNOeUo3OHhid3liVmlmemxjd0R0cTYzUDRuanBSOUZWZHE3SnFVdFY2VHF1X3YyWDZYNGVHalRYMVJjOU5GNGltY3hIMEk4TzJhdm9FeHYtZThybGh6N2VmQVRtVFpYWThXazFkYzI4dkI3dkVpTjlWajk2TDVsWkoyeThNZDJiS0dMZFNieXVPejNwN1ZmZndtRnFGTktwTkIyTzV5NDAzVjltRU1VVVRSTHNzY0w0OUctaHJ1b1Zscw?oc=5",
+      "snippet": "The voice on the line: How family offices can insure themselves against AI impersonation scams Crain Currency",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New York lands among states most at risk for online scams: Here’s how much victims lose - SILive.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTnR2T2hFZnhTLXMyYmdTUXduNW9uNFNiZThWWFNyeHNzZW8wVWNBWjhJOUM1OThCeHBrUFJjcGFsNFlhMFlMbG9vRXE5M2JnSENOT2hiOUdkN1UycWFXRmZPZ1VuajFiRXFiQ05BQjVmV2VVbzU3QXZEaHVyaFFjVm4yX2RvTk9NUW9jeUxlR1oyc3gzUEdueXBDUkFsa3dieDJCUFpwOE9QdElNU1c1dkZLT01vbkIwVHVJZW5NOFB0NWUwOHJTdTlB?oc=5",
+      "snippet": "New York lands among states most at risk for online scams: Here’s how much victims lose SILive.com",
+      "publishedAt": "2026-11-13T17:51:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Southeast Asian leaders, with U.S. and Chinese counterparts, will renew alarm over online scams - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVkFYLXQ5M09ObngtR3dUTHRWQUQtU3pnaWZ6dFVCNWFnc2p6VENFNGdLRFl5T201RHdtU0tWaGk4NVU3ei1SY25aWkh5LUN4ZmM5YzRDX1dEaHFEd3lwWC0xSUM3SEFvblpRQW9tcHMzci1udTk2MTQ2X3ZpUHJPNWpFcC0xVjZpX0ZzalNDZVhqcHdZV1BycjBvRC1mN2JIY0RQd0lqS2djWjV1QThnRE93eFJBVzAyZUFoTUd2cTU2bTU4M09pNHJxcWNRZ0NWV2hLdFBya0hwaUlfNG5NZXA0SXJXWUZueVE?oc=5",
+      "snippet": "Southeast Asian leaders, with U.S. and Chinese counterparts, will renew alarm over online scams BNN Bloomberg",
+      "publishedAt": "2026-11-13T15:27:25.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "human-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "FaceStealer: FBI Disrupts Fake Video Call Crypto Scam - SOCRadar",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01X1dwc2R4VjNCLXlTTy1PeklfMjA2dFdsWm1VTjQxbVlIRi05ZmpPdy1kakZRTnlpWkEwQ2JicXdGejVrVWxOTVFzM0dVbHZBQ3FSalhSN2pnNUlncDlYSVFTc0FTVVlvQ3RVYm01a2ljZEVVZVV1Nw?oc=5",
+      "snippet": "FaceStealer: FBI Disrupts Fake Video Call Crypto Scam SOCRadar",
+      "publishedAt": "2026-11-13T11:34:15.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Google, Asean step up anti-scam efforts - SunStar Publishing Inc.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN21Lak9fZFQ3a3d3YzZTZF93MHRUMXhGWGJrUVl5bG9uR3lRS3U0RTBwbVZjZzRreE5tMy1IMzBGelFrTS1jdTRhREw3ZmE2eHJRRTJBM0lWQkRYU1BJS2tpSnZZVlJQSG5FbkstVWhGVEstOVhiMUZtdUhjRUMyT3VHVjExbXPSAYcBQVVfeXFMTzdtS2pPX2RUN2t3d2M2U2RfdzB0VDF4Rlhia1FZeWxvbkd5UUt1NEUwcG1WY2c0a3hObTMtSDMwRnpRa00tY3U0YURMN2ZhNnhyUUUyQTNJVkJEWFNQSUtraUp2WVZSUEhuRW5LLVVoRlRLLTlYYjFGbXVIY0VDMk91R1YxMW1z?oc=5",
+      "snippet": "Google, Asean step up anti-scam efforts SunStar Publishing Inc.",
+      "publishedAt": "2026-11-13T11:33:38.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams - WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXoxRW9oVXR6UUF3ZHlyUl8wZXZOTnU0MFpMMzF3V3JLXzgydXdDSHJTdXBZVnIyM0xWdkxFSWs5R2dBTVRwQzF4NzBGWmZjNjV5b1VlN2ZoT2hGLUhkbDJoc3AxTE12T3pRVHU4VGNjdEtUV3pxRjNiX21RUHowNXZQZGJoNUVWdXc3RTBzZEEwZzQ1cW9BOURlLS1aV0dyRjI0VTBqZjRpSm4xV1dpTmV0M0JjSmFsX1ZabHFzRlA?oc=5",
+      "snippet": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams WTOP News",
+      "publishedAt": "2026-11-13T10:16:36.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vietnam calls for unified online scam warning network - Báo VietNamNet",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1gybGtkWE8yWkJiWVQtellPWkNoZVR5Y05rWWJMQlNYd1FxbThaazVHaVd3TU00VjN4djFBOXJ2MGNtcFJBczluTGFUaEowcFFlUE5INzlxdFhyaWFkbXo1RUVYaDQzeEhQSlFkR2RxdEtVTXE3ZlB4MHI2NHVNUVRNeXZWbnNvQVNLd0xDUGFLSEdKOWc?oc=5",
+      "snippet": "Vietnam calls for unified online scam warning network Báo VietNamNet",
+      "publishedAt": "2026-11-13T10:03:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXZzYWxLVFBNdWlUZi14NXB2YWxISG53czhJaHJ2YXp2OF8yRXJNaktHSG5HY1JoNXZLUE9TSTZYdUNtaGZEUHdtUjJVUnA2QTlOSXNGbXFsNk42Q0VXQ083bGFvSkFqYWdJWi1rc0VJMXpxTWVwcnowRkJzYTNYcWxPY2dJaEZsV3E4UXA5TkdKUERiWkxGUnUxaTk4d0hlMTROSWFoTmx4SFo0MDhyRW8xck_SAbQBQVVfeXFMTjl2c2FsS1RQTXVpVGYteDVwdmFsSEhud3M4SWhydmF6djhfMkVyTWpLR0huR2NSaDV2S1BPU0k2WHVDbWhmRFB3bVIyVVJwNkE5TklzRm1xbDZONkNFV0NPN2xhb0pBamFnSVota3NFSTF6cU1lcHJ6MEZCc2EzWHFsT2NnSWhGbFdxOFFwOU5HSlBEYlpMRlJ1MWk5OHdIZTE0TklhaE5seEhaNDA4ckVvMXJP?oc=5",
+      "snippet": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-11-13T09:50:00.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australia warns of AI-driven scams & account takeovers - SecurityBrief Australia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORW1OSENIS2stV0tJZGtVdjNVN0xsd0xBUzVuVFQ2UTFPdlN4TkluRENUbzNXcVI2czI0UUF3S25jT2ZIN1pNcF84X2VhQ1RUaENCYzVuZ1VWd0FYaW5pUTZKNEdTbmdiejZ1cGZuLTBxQWZOWm9oQ1ZkTTlOS0dNUTg0Wl9QN2UwNWZoamY0ekM?oc=5",
+      "snippet": "Australia warns of AI-driven scams & account takeovers SecurityBrief Australia",
+      "publishedAt": "2026-11-13T06:22:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "From online pagodas to online churches and the risk of fraud - Laodong.vn",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalhCbWtZTTFNdjBRUU1GOGFLdlpUdzVJeGhZYm9TRE52YW9admpjaFZtWDRySkJzYk8yZWM3VFNtY2I1NHBFb2t1NUQ4bHo4WE43ejRjUnFBSXRwR2g0MW5iMHQ3SHp0RHRhakNRR1JiVTdxVnl5SWFsSHJKQXQzTjJDVFZUQW1INV9DaUZUUVduaWNqOEUyVThwSTdpMkVMVHBZdjZn?oc=5",
       "snippet": "From online pagodas to online churches and the risk of fraud Laodong.vn",
@@ -197,10 +332,25 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Could you spot AI scams in seconds? - Digital News Asia",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHZpRW0xYjlXcF8zZ25uSDhIZ0d2THhrcTZtYWRRN3llUXo5bDY3b18yWXpSOXZSNmxNWU5OcHRLLS1iQmxQRHROalpad2NHMWZaYW00N2UybHBobUVxLW5SNlJqaHVjU1JfQ2ZtQXB3YXV1RmhaTkVBcVZ0VmR2cjUtU1c4Zw?oc=5",
+      "snippet": "Could you spot AI scams in seconds? Digital News Asia",
+      "publishedAt": "2026-11-13T05:10:12.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Coins.ph warns Filipinos against rising digital fraud threats - Speed",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVpUTjFRVDZoVG9MWG5rM05MYlVGejhONVRQY3F0VjNvZ2d3aUNYXzg1T0VTV3VFQy1xcEdIdDRNZW1FWFNualFqeU42WnhPQld2dUhVWFhKSU9VOFBrakpaU1JWLVRlN3UwMzczU29JQVN2X29hUWdmMUFGTjNaVi1QTG11ZXQwS2xz?oc=5",
       "snippet": "Coins.ph warns Filipinos against rising digital fraud threats Speed",
-      "publishedAt": "2026-11-13T02:04:57.000Z",
+      "publishedAt": "2026-11-13T02:13:56.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",

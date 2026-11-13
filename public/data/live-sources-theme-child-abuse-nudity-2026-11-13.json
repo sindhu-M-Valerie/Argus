@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:00:07.764Z",
+  "generatedAt": "2026-11-13T19:55:12.964Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 55
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 19
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "Over 14,700 pornographic, child abuse materials removed from online platforms since 2022 - The Sun Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0ZGZnVOMzRwc0dEN2tsXzhsMk5haC1HbmQ3dHJGc1VYVGk2SUEwS0Z6WmpoYUluZ3ZEOGw2WnhiVlBoR2JfdFE2Q1VGRmxXWXhiOVJHY3lQR19BV0kzaV9tbEhBcTJXSWZTM0xaOFR1QUFuQ0xqMWp5aVVITWR3Wk9OSQ?oc=5",
+      "snippet": "Over 14,700 pornographic, child abuse materials removed from online platforms since 2022 The Sun Malaysia",
+      "publishedAt": "2026-11-13T13:30:12.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "RVIPF issues warning over child sex abuse material - BVI News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YSGt4NjM4dFZGU1RhcDJtd0FGNFhaTFNCZnd6QUJCREl4cG5pb0tjcW50X296QXJFcHJ6cG4tZ2c3NmhpWnkwcGJXMVZtQVF4YVBTeW5tcEQxdi1TZm1DTFJvbnhFejJGU0RXeFFvWE1TNzduMzZiMUU5MA?oc=5",
+      "snippet": "RVIPF issues warning over child sex abuse material BVI News",
+      "publishedAt": "2026-11-13T11:24:29.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "EXCLUSIVE: Ex-FBI Supervisor's 'Epstein Island' Fantasy Exposed — as DOJ Seeks Nearly 22-Year Prison Sentence in Child Abuse Images Case - RadarOnline",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1l6SUNDVXF3QjJJdFItUVJpNlZtbmpwQmhSczZPX2hmR3FTcHp2RExEZWh2dDh4MDU4cGJPQXR4VEVtZlYydGpfcWZqcE5pcUR1TDhSc1cyZDk1TXV3aFdGbDZxdWQ5VVpnVUlNUHA4WElvMjBXVnBTc0EyNTZpNjlWd2dsQmdxZzIycVBUZWFicEFI?oc=5",

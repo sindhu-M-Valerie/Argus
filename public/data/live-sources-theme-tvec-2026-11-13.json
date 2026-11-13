@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:00:07.764Z",
+  "generatedAt": "2026-11-13T19:55:12.964Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,56 +16,56 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 36
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 28
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 60
+      "itemCount": 55
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 13
+      "itemCount": 19
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "India and Indonesia Reaffirm Counter-Terrorism Cooperation - nationpathindia.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3dkR3ZNMF9PWDl4S3NySGFaaU9iaWFDSkVCelVWeU9na3BROUktLVFzWS02QjRhYzZCdXZhLVNqczFGSkFYWDRkM0xqdkpfRHF6bWZiUXA1cEpnWDdScmlWbldTUHNEd3QyUFprRk1CVVdZZHJLajR0SFAwd3dMRVBZcmlPZGxQRVkwNzF4dkF1dDZUTDQxWXhwZ3M?oc=5",
+      "snippet": "India and Indonesia Reaffirm Counter-Terrorism Cooperation nationpathindia.com",
+      "publishedAt": "2026-11-13T07:26:01.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The Krakow shooting points toward Europe’s changing extremist threat - The Parliament Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVNNanpLeUxBX1RIbVJUQXFhWU90TWZENzNKajdsY0dOamtHNTJqc1EzVzJKejZObnVDSXR3RnRSR2NJbEVISExqNkpmYjUybFdRaG0wd0tJQTE2Z1daamNCbFRzUDdTaFBUTG8tYUxEbEZ6dUxEMkdSUDRaelhkbGpvTXdKYUZWaVNnWEFldnZ1d3ZQU1JRc3BZTzIwalhGSWc2TzFEZG0tMjBIeVdtTWpiUU5Jc1Mw?oc=5",
+      "snippet": "The Krakow shooting points toward Europe’s changing extremist threat The Parliament Magazine",
+      "publishedAt": "2026-11-13T08:26:28.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "NIA Probes Pakistan-Based Gang's Online Radicalisation Network - Deccan Chronicle",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlQxcExOZXVFNXRESDRobTkxQUZFS3VycTkxdWxwZ05Eei1GdjNWNlRNb0Fydy1vMkpwZUtWUTZyNXNXY0NMN3dUZHFBTElzZ05ZSVV2WmV0b0JZWEw0VmtKdHh5M1JFNnNqV2FOWGJXa1ZWaFhmdlhkWnM1UVBYdlRIaGI3bjR0RTBSM2NpQkpsYy15N1VsWVRVQWNmLTBKSXdXTUpfUkpLYkQ20gGyAUFVX3lxTE40N09xS09ETkliTm5tV3Rmb0g4WXdRcFBmVjNqZVVoZDBzTU1NYjFmVnZ6MUlYU2NLTldxNjNkME9CYmpWOTRnc2h3WGdvNk9seXhvR2xySXhzQ1BaM1BTNVJ2UUhsSFp2UjBDbjcwT00zemhHUFc2eEMzWW5DRmlrMmlkaEtEZDRnbWI3S1JuMTV3MlhObUhhemtOX1JsS1dkS2xuSmdSR0pnVU1wb0JtMmc?oc=5",
