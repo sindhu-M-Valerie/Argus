@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:13:28.417Z",
+  "generatedAt": "2026-11-13T07:00:07.764Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-13 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 40
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 13
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 21
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "WebQoof Recap: Of Misinformation Around Tripura BSF Attack, Deepfakes & More - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSm5SX29ydFlVX1R2N2xrdTc2aUw4ZFB2b3BHWlZTeDRqa2lKX05aTkx0ZjBKOXFpX2ZZYUdxSVJCb1Mxb1lFcmd4YlVPNG9kc2VGS0Z0SmJ0czdrd0o2azNJS0UwMnRJUTdUVjBwNHJ2OGJwTWRDcmNISlc5b1FzOFVEOVpFTmNTN3hzWWhRclVPeEVIMC1PZkcyS0U2a0FnMWV1N0ZmWmkxM2FfUm9vZNIBvgFBVV95cUxPbEh1YlQ3X1JiUkUxQU5yYmVReVdyczlETTJaLVhyRTFpb0lnUHI1YW92aGYtNElNUGM1VS1XaVdHWTdabkEtZjZOWXBhbzV0NWdxSzE4UFRkTnpDMmYxVjlxMWVER0RSUkZVaTNZQmN1ZndlcmlMUjlRRFJuU3dqQVlRbXoxZldQWkM4Z3g1RVhmWkZYNVRrSFJCS3RxZzBiYVBxc1U4emFuTGFQYk5LOXpnMVhNd3lBTnBXQ25B?oc=5",
+      "snippet": "WebQoof Recap: Of Misinformation Around Tripura BSF Attack, Deepfakes & More The Quint",
+      "publishedAt": "2026-11-13T05:51:39.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "FACT CHECK: Are New RBI Cheque Book Rules Coming Into Effect From January 1, 2027? Here’s the Truth - LiveChennai",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEN1pxdjhDMFlSd2ZXaGp0bEdnVlZMa01rTk82QVVVcUdpNFBRaUNXbEs4Z0FmRHZrV3RSbHlFYWhRQVhCUXhCRll1Y0lGWHhrbXVBWlRwMld5cXZqaHdUblgyanhabUZHWl9Rdno3QQ?oc=5",
+      "snippet": "FACT CHECK: Are New RBI Cheque Book Rules Coming Into Effect From January 1, 2027? Here’s the Truth LiveChennai",
+      "publishedAt": "2026-11-13T04:39:06.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: How do I spot bots and trolls? - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEdGUmV6RTFaNTZzbjJjekRWUHczY1VKMmM4WE1MSGd1cVZXVlo2TURzUGxlRF9NblNFbkVkSUhDbHFYUFJDWTZLYzE5aHlCZUJNc3VpQ1BLaE1MdXNSTldVbGY3QXk0R3hmUTdLeTRZY0FHQU44ckp0Wno4ZzUwUW9CUDRBT2p1ZVdmeE5DT3kwNnRZbHVhVjBGS01ZdjJnZ3fSAaIBQVVfeXFMTVZQZjJEdDk0TE04ZkE4YktrNkp3czZIRnFUR1JCRC0yLXNEYWVkOXJBQ0FodmxTR3hQc1VzTVFaRVdyUmlESnF2UjdheUVQbGdQV2ZUZmV1Y3hROUcxaXJxdW5qTzRqTG5rdXFycHZLQTVDVXJBVmNzSmNpTzc5SlQ5YzF3OHJSSURoc3NvWXhGUlZUZWpjYmdZcUNqMmZRYTVB?oc=5",
+      "snippet": "Fact check: How do I spot bots and trolls? DW.com",
+      "publishedAt": "2026-11-12T19:30:25.000Z",
+      "source": "Google News • Spam and Inauthentic Behavior",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "spam-inauthentic",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

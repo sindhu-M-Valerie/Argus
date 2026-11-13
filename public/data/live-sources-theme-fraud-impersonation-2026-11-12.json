@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:13:28.417Z",
+  "generatedAt": "2026-11-13T07:00:07.764Z",
   "snapshot": true,
   "date": "2026-11-12",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 18
+    "total": 21
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 40
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 13
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 21
     },
     {
       "label": "PIB Fact Check",
@@ -230,7 +230,7 @@
       "title": "FTC aims to better fight scams - Payments Dive",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qaGFBM1RQWmJFWXpPa3JSMmFrODhJa0Z6NFU0cWRwaUZoLW53bTFoSlNhenNnMXlxSTQtQkYwUHQ2Z0ZsMThLQlprV0g3WGx1QjNraWtWR0lmRVJiWkRNWEF2UXR5UlJOZUVTT0l3WUtMYTRjbjl4dWZPSHY?oc=5",
       "snippet": "FTC aims to better fight scams Payments Dive",
-      "publishedAt": "2026-11-12T16:36:00.000Z",
+      "publishedAt": "2026-11-12T16:36:51.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -266,6 +266,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Take proactive steps to avoid scams when shopping online during the year-end season. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDVibTlsUkJfNkI0MG5vaUY3UU1IRmxhRzJHS0o1VHpjeW9HdS1NNUUtdnY5RVlwcE5NNlY1aE5FMUZtdW9GcnMtcWExM0hsVWMwMWVuMklMNGxZM0JLbndvdGdEeENMV0IwOTVHc2pKS1E3aHc5M2QxQ3lObkVsczVCOC10aklONGFoMW9ndTNkbEJR?oc=5",
+      "snippet": "Take proactive steps to avoid scams when shopping online during the year-end season. Vietnam.vn",
+      "publishedAt": "2026-11-12T14:24:14.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -407,10 +422,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Be wary of persistent online and financial scams - TaungDailyNews",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXRaeXdWUjRjZFBSM1l4T0NDckQzaGxqV3dnNVNpQnpLRHVBcXBEdkpiYnRiTS1GT2pkVkFzTmNxdjk0Rk5XSktsRk42ejk5cTlaYlp5M3Rqd242RDdwZWUzbWhJYnRXZjllNXItdl95S012R3lWU216ZkJnYjRQQWI4eEVJUEVreklsbmZySi0?oc=5",
+      "snippet": "Be wary of persistent online and financial scams TaungDailyNews",
+      "publishedAt": "2026-11-12T04:43:53.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Online Scam Crackdown: Indonesian Police Arrest Dozens in Covert Philippines Operation - Batam News Asia",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVdlMnlVbW1LaHRueUx5N2wzSkVUVU4telU3am43R1FIazAyX1d3WHdXT0ZQX2Z4THZxMl9GVHRZLUFkLTJQeFZWU2JSd1lsOURabHBHcjNOcDY1cDgtamhyMHY0S0dTSEs2QUJxNFpaX2NzQlBFMnM1eFNhUHZOTHJWQkEtY012UGVyYlVFanpBSDRQelV1eXU1aVZ6dk1OV2hsTktoUG1CSTR2Mkh0YWFxQWtoUmtwN3lCR3IxX2E?oc=5",
       "snippet": "Online Scam Crackdown: Indonesian Police Arrest Dozens in Covert Philippines Operation Batam News Asia",
       "publishedAt": "2026-11-12T02:00:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "South African jobseekers targeted by local recruiters in Southeast Asian trafficking scams - IOL",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWE5ja1J1LUR6VXo4MFlkVWhieEFjNUpvclpLbG9RazBfOEdNRWg2Wlo4MXhKWGc3Slh6NE13ZzZzM0pwcm02QkhEVDlTbDNmWmUtMGtoY2N1V2N4TWFHWEoxUEI1eVNpamJ1NnJ3OVJvUm5BaXRrOW9Zbl9pUmVVOVhtZ2Z0WjFDcUtWanlLRk8wS1lKZW0xMVg1LWlycExDS1djSXVWS2xja011ZFVFcHk0NlJFbW5rQlhkcHUyX1ZNb2s3bXRGWk9ubW9DZUV3?oc=5",
+      "snippet": "South African jobseekers targeted by local recruiters in Southeast Asian trafficking scams IOL",
+      "publishedAt": "2026-11-11T23:39:31.000Z",
       "source": "Google News • Human Trafficking (South Asia)",
       "theme": "fraud-impersonation",
       "type": "News",

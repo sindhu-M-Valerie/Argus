@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:13:28.417Z",
+  "generatedAt": "2026-11-13T07:00:07.764Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-13 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 40
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 13
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 21
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "From online pagodas to online churches and the risk of fraud - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalhCbWtZTTFNdjBRUU1GOGFLdlpUdzVJeGhZYm9TRE52YW9admpjaFZtWDRySkJzYk8yZWM3VFNtY2I1NHBFb2t1NUQ4bHo4WE43ejRjUnFBSXRwR2g0MW5iMHQ3SHp0RHRhakNRR1JiVTdxVnl5SWFsSHJKQXQzTjJDVFZUQW1INV9DaUZUUVduaWNqOEUyVThwSTdpMkVMVHBZdjZn?oc=5",
+      "snippet": "From online pagodas to online churches and the risk of fraud Laodong.vn",
+      "publishedAt": "2026-11-13T05:27:55.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coins.ph warns Filipinos against rising digital fraud threats - Speed",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVpUTjFRVDZoVG9MWG5rM05MYlVGejhONVRQY3F0VjNvZ2d3aUNYXzg1T0VTV3VFQy1xcEdIdDRNZW1FWFNualFqeU42WnhPQld2dUhVWFhKSU9VOFBrakpaU1JWLVRlN3UwMzczU29JQVN2X29hUWdmMUFGTjNaVi1QTG11ZXQwS2xz?oc=5",
+      "snippet": "Coins.ph warns Filipinos against rising digital fraud threats Speed",
+      "publishedAt": "2026-11-13T02:04:57.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Report: Online Scams Nearly Doubled in 2026 - KnowBe4 Blog",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NMGp4bWFoamFfbm9WY0FacXdicUl1RXBVc2lzWjBwZ2hDbndHZjdnU1dUYTctTG5RWXZnUGZoZXBab2hZTlh1VFo2QkhSemxCUG5yWGo0dHdfclF5UWktQjY0ekJYbnpnTmhhemNQMHZqdHpOVXc?oc=5",
+      "snippet": "Report: Online Scams Nearly Doubled in 2026 KnowBe4 Blog",
+      "publishedAt": "2026-11-12T21:04:25.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

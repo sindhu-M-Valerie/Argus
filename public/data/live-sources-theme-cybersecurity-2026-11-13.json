@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:13:28.417Z",
+  "generatedAt": "2026-11-13T07:00:07.764Z",
   "snapshot": true,
   "date": "2026-11-13",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-13 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 40
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 13
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 21
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Hackers Breach Global Shipping Giant Maersk and Claim Theft of 100GB of Logistics Data - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nUkZnTmpsUVFmRTlRY3FMMjFDc1BoZFhaOUhxUDVoLTFQejljYXI0Qm8wMTFnSWxaRlZicldQZ1NHNUJ1NmhfUlBpUUJodTVDU2k1R2hCMjF6YWNXbmJGSENR0gFnQVVfeXFMUFdPczF4ZVNQYWdwNDZEZVNIQm9Nc1RPQTFUSzBCV3VyRVIxdWFFWVdfM3BnX19ZX2NZRlhIa2M4a1VXTXF2dk9Hbm1EeTljc3NRdUlaTzlmZjBpTTRDNVhJZ1BHb1RUbw?oc=5",
+      "snippet": "Hackers Breach Global Shipping Giant Maersk and Claim Theft of 100GB of Logistics Data CyberSecurityNews",
+      "publishedAt": "2026-11-13T03:38:42.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "South Korea Financial Security Portal Hacked, Employee Data Exposed - eSecurity Planet",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXlqaFU0RDd6RWpaU0RpWWF2dzQ3c04zN3ZvdHBCVjB3Szd2QzZJM0ZURlJ5V0tldnB0aWIxM09MS0VYdHdLV1ZiUGJMd1Y5M2RpcGlwMnJJYk5Sb1JGUVFyblZqdzc2b1ZLY1czNmZMUW83dkxfbXZiVEFDNmlQdUZXNnFEMnlnNG9EMkRXZDRNbm9pVmtiWjhRQzdxdjRMRkE?oc=5",
+      "snippet": "South Korea Financial Security Portal Hacked, Employee Data Exposed eSecurity Planet",
+      "publishedAt": "2026-11-13T00:04:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
