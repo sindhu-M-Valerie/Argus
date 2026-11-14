@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:55:12.964Z",
+  "generatedAt": "2026-11-14T06:50:00.333Z",
   "snapshot": true,
   "date": "2026-11-14",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-14 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 55
+      "itemCount": 50
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 23
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Intimidation of Activists Against Hindutva and White Supremacy is Not the Answer to Rising Anti-India and Anti-Hindu Hate - American Kahani",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ1duempnc2JYZE1Ic3EtSTAzRFE3S1pXbkpCUnBnVDg2WVBCN2xGSHJlMGRQc0h6NXdjU3k4MlYzXzgzT29DdmtQcTExV0Z3Z0JxUW9FRFlhQURIcVBtTjVlWlJUOVk5TkNnV2NBUUM1MllHMHg4aHVCaHVIZHhRT1lpdV9Fc2RPekExei1Mb01IY1BFUmJIbkZkbENqT3YxY2VPaVRPeUFmSVczVW55NlRaZUdlclU3dUNfRk1vLXlCX2JsVVNrTEprR2pvdXJiejU2azd5YklWb3FSaS1LX0Z6dGJYZE0wZGRCaTdMdzlxUF9j?oc=5",
+      "snippet": "Intimidation of Activists Against Hindutva and White Supremacy is Not the Answer to Rising Anti-India and Anti-Hindu Hate American Kahani",
+      "publishedAt": "2026-11-14T03:59:39.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

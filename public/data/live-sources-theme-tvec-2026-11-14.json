@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:55:12.964Z",
+  "generatedAt": "2026-11-14T06:50:00.333Z",
   "snapshot": true,
   "date": "2026-11-14",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 55
+      "itemCount": 50
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 23
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "Australia Opens First Online Threat Centre to Combat Terrorism - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWlFVnpLVTVKVkV2X2Z3bXRTVXd1SFV0WExaNlNMd1R2MjZWbXU4QzN4Qm95T0hJYXN3Y2EyeG9LZUxKZHpMTEhHREV2ZS16U1R2RFJ3YjdkTVlDc1JKQ0R3aVVOdjJfNkhrei1MSC12R3JjVTFUMjQtYmpObTVBNVdQdDUwb2R5?oc=5",
+      "snippet": "Australia Opens First Online Threat Centre to Combat Terrorism Mirage News",
+      "publishedAt": "2026-11-14T04:32:00.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Trump list of US-designated ‘foreign terrorist organizations’ in Latin America grows to 22 - Santa Cruz Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTE0VHQyaGN5R0djMzVlejV3TU84eHYwbUEyaEQyWnNNN2JuUkxVN2JrcUZVN1F0aEVyOUllQk5zRWJlZlVmMUlQX1UwZWpFUGVjLTY2MlRnV1h1czZPNVFFSmNZSl9TTmRXMTFtdDRaYlNLM0NfS0RSY0szeVdqS3JWSUU3MEdnUDhQUzdXaUk1M1dkLW56dXB2UFFYakhWMTEteF8tMC12UTAyZWpj?oc=5",
+      "snippet": "Trump list of US-designated ‘foreign terrorist organizations’ in Latin America grows to 22 Santa Cruz Sentinel",
+      "publishedAt": "2026-11-13T22:06:46.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US declares three Guatemalan gangs to be terrorist groups, imposes sanctions - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEdycHpqOWdHeFRQb0ZXTVhRTEMwWk1mdVJmY2xsWUtxem9UQ3pSa0h2c1lzaTlvVFNPaFdLTXBCSXU4SmNMZ2w4ejJWZmIwSUtwVTAzckpwdnl0bGQtYzhVVk5YV0lfR2MwS2Z6ckUzc1ljYVZDcC0yLUxTZGtNeUFUVFRiWjNOazRLdFdRbHFibWU2TF9qNmo4eVJ6ejR5ME5MWGhXZFNXd9IBrwFBVV95cUxOcW94MC01aHVjeThLdW1JV3NBUWZsVy1qT1NXbTR1bF9KSGJkVlRPZDlkeDhVbVVVR2s0dGJLeFYtTU1Zb0Y0eDRhVjFRcXpxVzZ2NFJxdm1xeTlJWng0TWtwV0dKYmdFOHR3eXV6XzA5cUR3ZC13RHZPazhSdzNHTnBzTjdyVEVTOHRqeU9KWTBjVXFrdGZRa18yOVF4SExUNmF5WnVQR1c4dTA0MFVz?oc=5",
+      "snippet": "US declares three Guatemalan gangs to be terrorist groups, imposes sanctions ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-11-13T20:24:24.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "India, Indonesia step up anti-terror cooperation - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmVDdUxqU3UtY3lSVnRWclRqSDFjTzJZTzRCVTV4dGp1eGN6NUxaNXVFdzVfVV9QLTVLWFpRYnhvNFFtWENiLUZIeXp3WE9KVEd5aXdFaW1SMWtUWkZ1bmFjQUtyclhhMGpsWWZNLU5SYno3RjZtOENZV1lteXV3cy1qbzBfUE1Xb3RYQnpFa1BnQ3Fjc1U4dUVIN3FFWWlyelhybzUtYlVkM1BhNHluQW9ESUnSAboBQVVfeXFMTVFBYTNtaFRVUGlTOTVUVnBNYnMtUFBneDgzOVVFZmNrdmQyQ1BsalZhQW9jUXJIbWhZeTF4WTFORzREa1UxWFZ3R0tEanRxZDdibVRaX0xaRWdId1pUcHdzVHJKOHUyT29KSWt4dUh1bTBqamUwU1Fza3hNUWJUY0RuQTNfczFaYUt5Nlh0bmhIcDhzX2JkbFZOZGQ5cndyMXVjLWxGakd0M3FTZmlHb1BLVjRIS2w4Nl93?oc=5",

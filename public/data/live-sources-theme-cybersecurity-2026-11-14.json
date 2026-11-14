@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:55:12.964Z",
+  "generatedAt": "2026-11-14T06:50:00.333Z",
   "snapshot": true,
   "date": "2026-11-14",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 4
   },
-  "message": "No verified news was found for 2026-11-14 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 55
+      "itemCount": 50
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 23
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,66 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Uber Confirms Data Breach - Hackers Stole Users' Personal Information - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SN1VXVkYxdVZINW1FTmxuNzNPNEx5QzFWTXFYblMyaUtLemhfSzY0TFRfdWZiMDdkR1AxcEl3VEcxallvWWQ4QlVrV1c1dzdJT0JDbzR5RTVXUGMtd1hCSUF4RU5pTk3SAWxBVV95cUxOaDNDN3JkbjVWNHJjczhOWElsT19uTGdrRDhENDJHRjFWRW9OTlZaSHZnVk9iQ01GV293SEY4V0lDX0R5SWlGVDQ0bUg3R2dSLVJrUFJKa3VEdHBlVWVCN29VV2luWmJ2Mlc3MjM?oc=5",
+      "snippet": "Uber Confirms Data Breach - Hackers Stole Users' Personal Information CyberSecurityNews",
+      "publishedAt": "2026-11-14T03:53:13.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Camping, sightseeing booking portal disabled while data breach investigated - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1lvcWYyT0dsekdaMEYxUy12Wmgwdzlla2ROZmtSanBWWEp5MS1UbGZaQzhmdFg2Zk5hQVY2YzhBYXNMZDBzV2xVbzlxLXN1ajk2bnBXUTBvYW8tX2pTcGVlZ3V4THFMQVlJN2dmTHlYN21ra2lQalJOdWd6NWR4czBxZ3hWOE5IZnk1OG03d1pMbnluMllvcDlRZGtsVWI5Sk1renoxSi02WGtIWlE?oc=5",
+      "snippet": "Camping, sightseeing booking portal disabled while data breach investigated ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-11-14T04:17:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Amid rising cybersecurity attacks, the Cybersecurity Council of the Philippines (CSCP) on Friday pushed for the swift passage of a national cybersecurity law and urged both the government and private sector to review their security systems to prevent digital br - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHNCV0ZsbFZBanFRZkUtRy0tQ05HaXpzQUZtZHhXMVJVVW5zbkdvNFlUaThZS3FNUDAxZGFsU3ZkcVFKMzE5NXZnQ1VLWk83bWFPbWJDTGhVanFsS01RSXVJVDh5NHQ4M1NYUjBBYkZiWXRPYTFRRjVqd1RVVFA5T21qamdTWDhmRF9tR2JpYVlFeHhyLTF4c2NBa2pGd3l5aVpnVnQ2ZFlFdFZTZDdmOEZuQmI0R3hHd3N4eWNLZ3YxWngwbnhOQUN4Ym9rajd3Mld3aVVVY3Brdmtx?oc=5",
+      "snippet": "Amid rising cybersecurity attacks, the Cybersecurity Council of the Philippines (CSCP) on Friday pushed for the swift passage of a national cybersecurity law and urged both the government and private sector to review their security systems to prevent digital br Facebook",
+      "publishedAt": "2026-11-13T23:49:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Email Cyber Attacks Becoming More Precise and Evasive: Report - Carrier Management",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ONTRweDRDWFRGSlhBUFh5bDQtWnVkbk12UnZTaklCNFdvZjBQQmNGTHZNMlZLYnFBOFlnOHkwakwwVjdfckEyZVZRM293Y1dzempwQjJEZ3c3NWtwbC1NLWVoSU5ySE9aR01YdA?oc=5",
+      "snippet": "Email Cyber Attacks Becoming More Precise and Evasive: Report Carrier Management",
+      "publishedAt": "2026-11-13T22:33:19.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:55:12.964Z",
+  "generatedAt": "2026-11-14T06:50:00.333Z",
   "snapshot": true,
   "date": "2026-11-14",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-14 on child-abuse-nudity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 27
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 55
+      "itemCount": 50
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 19
+      "itemCount": 23
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 23
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Indian student gets 30-yr jail in UK for online child abuse - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1BXbGh0OTVWTlkxTzdtVkZkOFNBUFRzSDJYaXdqT1V5bjBrQmlpbnRQTVd3bmZxWDRmQnExdmZPU0JPdzhDZUJzT1ZYM1cwUXBaN3FkbnRtTHB6LV9KMHZHM1gtanJLSFpqM1RvUFR1cndMcWl2TTNOTm9nSlRnYkdzU285VmEzZUU2SzVWekZqeFBVbXBHLUdrSmpZRklKTkpIUGxJc3l6anFTamfSAa4BQVVfeXFMTm9QV2xodDk1Vk5ZMU83bVZGZDhTQVBUc0gyWGl3ak9VeW4wa0JpaW50UE1Xd25mcVg0ZkJxMXZmT1NCT3c4Q2VCc09WWDNXMFFwWjdxZG50bUxwei1fSjB2RzNYLWpyS0haajNUb1BUdXJ3THFpdk0zTk5vZ0pUZ2JHc1NvOVZhM2VFNks1VnpGanhQVW1wRy1Ha0pqWUZJSk5KSFBsSXN5empxU2pn?oc=5",
+      "snippet": "Indian student gets 30-yr jail in UK for online child abuse Rediff",
+      "publishedAt": "2026-11-14T02:34:44.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
