@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:22:47.889Z",
+  "generatedAt": "2026-11-14T22:38:27.128Z",
   "snapshot": true,
   "date": "2026-11-14",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 52
+    "total": 65
   },
   "message": null,
   "sourceStatus": [
@@ -44,28 +44,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 43
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -332,6 +332,81 @@
       "corroboratedBy": 1
     },
     {
+      "title": "DoJ, NCR mayors combat online child sexual exploitation - Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUpvLVJEUU1KVVVwQkQ5Vmx2RUNpZHh3NldobGhEV2dxN21xY1VVLU40YmhudXg2MGhPT1VBWTdDS3VBbEM1SjI2eW5fSTBNb1dxaG9zTlFtY3pyNmxVdkh4b2YxdEV5b184TFFGaEJ0amlVaXVXVDlTa2NHbENVRXljeGhLaURia0xqVGxNajRqcS05Y3F4TGpZVVRFR1BZQmx4cWM5V2dFV0JrQUpn?oc=5",
+      "snippet": "DoJ, NCR mayors combat online child sexual exploitation Daily Tribune",
+      "publishedAt": "2026-11-14T17:30:29.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Who is Bilal Kazi, Indian student jailed for 30 years in UK for grooming 70 girls online? - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2ZRaEdwZVhKWFVhV3hYbDMwNmV2X1VLdzJCWFdOZHd6ZzNkMnFxR3FjaGJtVHlPSTlvUVhyQU42LTZCZkFIVDg2VGJtdmwwNU84YTlJSF95RGtNSnN6MXZBYkpncEVVbnpqc2djZ2oyUEFkVkNtY1V1aFo5dERkZTAzTERVdDJGblZQc2dXaXpEbG5wYlJLeE1Dci13QWxUb01Vc2Rteldra1g2eVluaUlyRGh5ZlYw0gG_AUFVX3lxTE5WUFllakR0azhhd3dOQkQ5SlV6WTVPVl9mMlpxSlJaaHBRNnZQRWU0MmtxWTRBMXFkeW92Y0ZOenNIZWFMWmJCeEhkdGYzRXF4VGdtQ2NPdktBY201Mm5uSUtQd1RkaTQwYUZtQXVzZXRZTzgwZmNvT01WQUJ1dHQtT201ZExscG9yUl83TTlmVnpsRWJsbkNlN3E4UlZZWkpmZG5YSVJaZmxFT1VVaVQ4Q0RNa0pMRzd1bmFjaVBN?oc=5",
+      "snippet": "Who is Bilal Kazi, Indian student jailed for 30 years in UK for grooming 70 girls online? The Indian Express",
+      "publishedAt": "2026-11-14T16:00:16.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Huntersville Man Charged in Child Exploitation Case - Hoodline",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaml2MU5FSGhqenpwd2tGNVNTWS1haFJYajdET3RmQ3FNcUJvWUQ3R0E2WUpKZXJrR01BUHdzSklZVFE4SjhqZk5CX3F4dHAta0tFcF91QXZKcE1KZm80Q2Z1dVYxZnd1S2xvSWpuRHRqRnRNTDI2bE9mLVIycE1udTVDNzc1ZGYyVWUzZVRFUC1qTzlvWE93SXNIMzFZbmpFSXNBbDN1UWw3UmQzQzFHalAwS2tZMlU?oc=5",
+      "snippet": "Huntersville Man Charged in Child Exploitation Case Hoodline",
+      "publishedAt": "2026-11-14T15:23:48.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bilal Kazi jailed for 30 years over online child sexual abuse - London Daily News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHNVQlktd0hwU09TU2tWSm0zdWF6anhsNU9aYm1VV2VMeklGT1dMejJuQTQwLVJ2ZDg4eC1oV285WEQ0Qkw3Zi1ldDNhLU1tRkFNYVdtMDFsZU9mNmVNWTdBVFB6UlA2aWw1eDBoN09NbnhZLW1UOTJhWnhXeUg4aER3dmpmRFdoOUN3Zl9VT0NNb0ZQdWc?oc=5",
+      "snippet": "Bilal Kazi jailed for 30 years over online child sexual abuse London Daily News",
+      "publishedAt": "2026-11-14T12:36:34.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ASEAN leaders to adopt PH-led declaration vs. online child abuse - Manila Standard",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaG9reG1VQ0dxd3YwcVVBb19UdHg3eWp4RlZMSjc1LXZBS1NiajZlS3FuS3B3Y05xZm1fbk5RNEFkVHB2WTQ4alNWQkZDbVhLcEJpb2NlbVZDOTVyV0RjdExwTmFvRlJuNHZhWHEzTkVXR2pIZWpEdUE2YnN3VVoxRXVmdW9ZUjV1N1Zjc0ZLMzJKTGtFaHcxQXFEUXZCR1VMLUp5Z1llMnlScTVhbk5J?oc=5",
+      "snippet": "ASEAN leaders to adopt PH-led declaration vs. online child abuse Manila Standard",
+      "publishedAt": "2026-11-14T12:33:36.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Indian Student Jailed For 30 Years In UK For Grooming Girls Online - Kalinga TV",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcThEZFVUSmhyT3cwOVFGY2h5akxsYV84YTEzczdxeDdPUjB0X2pfdHBPV0dVQVkxdzFDNTJnTkx2c1JkekVtRUhXVXJGMEdVYS1kTnFXdHVHTDczQk1zMjV6VnZkc043cFJNSGhUZnVNMlRPbWotOXZvNno4bEN4bGR0ZktGQzBBQks4eWx5T0dIVHYwVzUtdG5MTQ?oc=5",
       "snippet": "Indian Student Jailed For 30 Years In UK For Grooming Girls Online Kalinga TV",
@@ -403,6 +478,21 @@
       "feedTheme": "sexual-exploitation",
       "riskScore": 52,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Impersonating the Youth Union to scam people into buying books has recurred. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXZnN1Y2ozOTQtMVlHYVoyNHJBMW5EVkJlRzZHeXdIR2ptaks3dEFvbERBVUVIczRsdFhEX1BfLUlWZXVlOFdNQXpPN2VCLUF6UXpTM0xBcndtbm5uWUg5Z2ZBbGhTVGJKUjd1MVBQMGtaWjlIWkE?oc=5",
+      "snippet": "Impersonating the Youth Union to scam people into buying books has recurred. Vietnam.vn",
+      "publishedAt": "2026-11-14T08:55:16.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -527,6 +617,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Online grooming case: Bilal Kazi jailed for 30 years by Chester Crown Court - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVdndFUyR3BLVHo3V0pnbERybFAtdTNONHdZQUpIVFFmMHRkeGtSRXFqTVJsejRQdTA3WkUzemJXbERqeWpFMGNzNUdVREpxQ2NmSUZ3RjRxdHZVS0xHS2xjYlZuSFk1cG96YmxhbWR4NDM4N0t1MmMyak9sNFJVVmtVajgyVkJkd3lPMVBONHVPMXVmcFpFcVZPVFlfam80OFlQWlloSXZiZlRzSWZnLS13?oc=5",
+      "snippet": "Online grooming case: Bilal Kazi jailed for 30 years by Chester Crown Court Goodreturns",
+      "publishedAt": "2026-11-13T23:03:02.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Indian national jailed for 30 years for grooming and exploiting 70 girls across UK - Minute Mirror",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkFaZTl2WTEwbS14aFUwNlA1ZGFIY2dncFJkTHhGWDRKUGp6Rl96aVBWbFc0TXZBcUZXTWhrTW9EazEwQmJKdUFDdHBnbFI1eHN3M2I5UUxlR0hYVTBNVVQ5WDZjUEdKT1cwdnlqUFJ3UERuOHNTZmxOTzdlMkxiNmh6RTZPUFRRUnZ5NUVBNVZrU2dqNl9xM0FDMkM0bXFnVUJlV0Z6dWtRTmJfZlEyaWo4S19va1dkZ3c?oc=5",
       "snippet": "Indian national jailed for 30 years for grooming and exploiting 70 girls across UK Minute Mirror",
@@ -591,6 +696,36 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWtQamxkeG4xYUhrWjZZSGVfZEUzY0RTOFRneEZLUVNhcUN5SzZKbWRXNFpSUnhVVEtaaEtmbm9qM3d1dTNPRTYtVlBoSjlfeHdHbG5GUWx4X3ktYkotOXhzMFhjdER1S3VrSlNqUC1nTTdPVlYyRGlJSlkzYmIyWXdHN3BHN1BRUlNwMkh3Tzh2cEV2R3ZZcndpQmhXNkVMREhOSjZxTGs0RXJRd2NBcFVHN3FUNDlIZHFOTDZNR0hSNG_SAcgBQVVfeXFMTkNUNVVILVlFVnRPelRkREk1Nk5MUjlrYXY5MXZRUjJGOEJfekw0UWthMzZhb2p3MUJ1WEJGMFFzOVdRR1NNOFNRZmhNcE5uQTBBTjI2REhTMzRDbVJjR2ltc3RlenY4QjcxMzg4UXFMUjlhSjRILTJoRGxmR2FncnVnb2p3aFRUYTItaDlOVHZjSWNFX1lZdjBzTkdwckgyUWtxNHZ1ZUtmcmRDdUY1dUZjTnRRdjhwN3hPYmsxVVF2WlRjYWhFYUM?oc=5",
       "snippet": "‘Fish deaths’ in Yamuna: Delhi Police registers FIR alleging ‘mischief, misinformation’; man held ThePrint",
       "publishedAt": "2026-11-14T17:46:53.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Fish deaths’ in Yamuna: Delhi Police registers FIR alleging ‘mischief, misinformation’; man held - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1Q1VUgtWUVWdE96VGRESTU2TkxSOWthdjkxdlFSMkY4Ql96TDRRa2EzNmFvancxQnVYQkYwUXM5V1FHU004U1FmaE1wTm5BMEFOMjZESFMzNENtUmNHaW1zdGV6djhCNzEzODhRcUxSOWFKNEgtMmhEbGZHYWdydWdvandoVFRhMi1oOU5UdmNJY0VfWVl2MHNOR3BySDJRa3E0dnVlS2ZyZEN1RjV1RmNOdFF2OHA3eE9iazFVUXZaVGNhaEVhQ9IByAFBVV95cUxOQ1Q1VUgtWUVWdE96VGRESTU2TkxSOWthdjkxdlFSMkY4Ql96TDRRa2EzNmFvancxQnVYQkYwUXM5V1FHU004U1FmaE1wTm5BMEFOMjZESFMzNENtUmNHaW1zdGV6djhCNzEzODhRcUxSOWFKNEgtMmhEbGZHYWdydWdvandoVFRhMi1oOU5UdmNJY0VfWVl2MHNOR3BySDJRa3E0dnVlS2ZyZEN1RjV1RmNOdFF2OHA3eE9iazFVUXZaVGNhaEVhQw?oc=5",
+      "snippet": "‘Fish deaths’ in Yamuna: Delhi Police registers FIR alleging ‘mischief, misinformation’; man held ThePrint",
+      "publishedAt": "2026-11-14T17:46:53.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Yamuna ‘fish deaths’: Delhi police move against ‘misinformation’ as cause remains unclear - Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjhHSVlYdTMxVlhJaEhzajY1N2hBbVhqNTVySFV5bWxjaVJpVDZPcVpEZDhaMjN0SkUycGlPVWJwOUNaRVVubHdsUDlDdVE2RFpFOXNGRF9lY0dsQmFNa2hSTUpqM2E3Y1BnR0p4YmNTWTRCakZqY2ZhRGZTYUFNajVicXBRSGt0OGZPUXl1MGt5UU9yVHZLNy1IUjh6WVczejlyRWlSTFZLUXJwbGJ5VkZWTUZTNHdDcEF6V3hpeVRzLXhsTlRXXzI3WVZyQdIB0wFBVV95cUxPNFVJZ195TlJVOGg1NzY2b2g4M3NZbFI4NWJfdVRZejFJemhoTXoyZTRIRDF0T3JkaTJsQXMyTTZRbmd6WFRHMnlrYlFzQVU1Y2t0M0dBV3g2U21qRzdRVi1reDhfWDJPVHJiaTh1U0Z0cGtTQ2dEUDBvQTVDT2lXMGZ3TVY0MHZ1SFhpRHVES3dyemxuclVFTWJZdmRoalpib2o4WGJLUEdMQjFYcUp6b1RWcXBQRFVGU2pSa2ZEektvVlozR2J3bUxOaEQzVFB5UG1v?oc=5",
+      "snippet": "Yamuna ‘fish deaths’: Delhi police move against ‘misinformation’ as cause remains unclear Telegraph India",
+      "publishedAt": "2026-11-14T16:46:47.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -692,6 +827,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Uber Hacked – Hackers Steal Drivers’ License Personal Data - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWo1bmN6OEd6WGRPZmNzeG14Qi00UVNsWkFmTk4weWtVRzhfeEtQZERuMndyTGlSWUVPT280eEFMRVkxWTZqT3dGR21VMUhuLWJTLVpOcHRFYkU4UlNQcWxnYVJNRXp2RWxrOC1MZE1qMmxsdTdyQnZKc2lWQ0xzUGFzQmI?oc=5",
+      "snippet": "Uber Hacked – Hackers Steal Drivers’ License Personal Data GBHackers News",
+      "publishedAt": "2026-11-14T05:58:16.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "India, Indonesia step up anti-terror cooperation - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmVDdUxqU3UtY3lSVnRWclRqSDFjTzJZTzRCVTV4dGp1eGN6NUxaNXVFdzVfVV9QLTVLWFpRYnhvNFFtWENiLUZIeXp3WE9KVEd5aXdFaW1SMWtUWkZ1bmFjQUtyclhhMGpsWWZNLU5SYno3RjZtOENZV1lteXV3cy1qbzBfUE1Xb3RYQnpFa1BnQ3Fjc1U4dUVIN3FFWWlyelhybzUtYlVkM1BhNHluQW9ESUnSAboBQVVfeXFMTVFBYTNtaFRVUGlTOTVUVnBNYnMtUFBneDgzOVVFZmNrdmQyQ1BsalZhQW9jUXJIbWhZeTF4WTFORzREa1UxWFZ3R0tEanRxZDdibVRaX0xaRWdId1pUcHdzVHJKOHUyT29KSWt4dUh1bTBqamUwU1Fza3hNUWJUY0RuQTNfczFaYUt5Nlh0bmhIcDhzX2JkbFZOZGQ5cndyMXVjLWxGakd0M3FTZmlHb1BLVjRIS2w4Nl93?oc=5",
       "snippet": "India, Indonesia step up anti-terror cooperation The Economic Times",
@@ -725,7 +875,7 @@
       "title": "Winchester Police Department posts general reminder of scam alerts - Winchester Sun",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMlJBbEgwNzlVWU5mb29wR3p0T3ZyRUhpblQ4d3Q4QjRzY3Z6ZjEtNFVJdGdJbWFTZ2RacHFSLWxkNFlkdmhXRFVwVEpJWnl3OTlqR3Vwbll2YmpQWFlPUlBBaC1KM2ZFSzJ0OUlaakMxbGFQTVBmc21OdkZZa0kxVFVOZ2k0S1o1eEhPT0JWaG1Db3dyTm1NODk1TWh4aXowR2xoSWw0SQ?oc=5",
       "snippet": "Winchester Police Department posts general reminder of scam alerts Winchester Sun",
-      "publishedAt": "2026-11-14T16:30:30.000Z",
+      "publishedAt": "2026-11-14T16:31:17.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -782,6 +932,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Online fraud cases in Vietnam drop 20% in first 9 months - Vietnam Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWktdTZDbEJqRllxUW9SSW9zM0lFQmlhcmtUdWk0akJOeEFaakw2OGVuV09DTEtQYV9oenNRbVVaSEYyRFcxdHVYLTkwWWNldXZyZW01ZG82dEJwZUM0M01pMGhEdU9WV2tjNkFpcWpTSmpMWWVwckU5bGR4UnBsc0ZUWHc3SVpkOWY4?oc=5",
+      "snippet": "Online fraud cases in Vietnam drop 20% in first 9 months Vietnam Economic Times",
+      "publishedAt": "2026-11-13T23:10:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Kaspersky Warns of Cyber Scams Exploiting Microsoft 365 Outage - Brand Icon Image",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IY1hVVW5FR0l1N3RXbncwaHp2YUoxUDNncGJ5Y0xVT3NKNUM4dUE4bS1zb0JKb01BeVExQ0JqZEt1QjRaZVlGMzlFbWtLRnBVUU1qVmxtakdPcFVLVko5TWhlNnByZDlheDV3SWctV0hqLUxaY3VsMmtSZ2IzR1U?oc=5",
       "snippet": "Kaspersky Warns of Cyber Scams Exploiting Microsoft 365 Outage Brand Icon Image",
@@ -797,10 +962,25 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Michigan State Police launches statewide cyber scam awareness campaign - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0htbDg4ZjlIaGF2cjFvWDBxX2FhdHN4NHFoWW1xTEM2cTQwdERtaU1Kc1JMblpLREVpVkhQLXBXZ1JUeE1UR2ZMR0NlQXpfZjFlY0tvUEhBX2ZkXzB6Y25SN1ljRk1pWGlMZXpCMVpWUVFqaXR3OWNSX2R1OFlKOHpUalVVWktMdkxUbmNjN1hINkg4?oc=5",
+      "snippet": "Michigan State Police launches statewide cyber scam awareness campaign CBS News",
+      "publishedAt": "2026-11-13T18:42:05.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "TSMC Confirms Employee Data Leak Involving 46,000 Records - BW People",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3A0eFhLY2FYYnZVZzlpUVhUQ3dQZUM4ZWxueWVjNTdGRUZUeEtEdnpRUGdheHFLMHozaGkzMi1ZTlN5andYMHhKV0doOGVXdWZ4eVhRVG1JZzNkbHlMYkw4cEVGdVhCc0ZtNUpqREprMDBVVVJ2N29CYUxUdHNTZmcxRlJpbF9sVXYyZXEwVHhueUE2ZmRJQ3cyNUI?oc=5",
       "snippet": "TSMC Confirms Employee Data Leak Involving 46,000 Records BW People",
-      "publishedAt": "2026-11-14T12:55:50.000Z",
+      "publishedAt": "2026-11-14T13:12:22.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -812,10 +992,10 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption - CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmR0cFJ0Qm9NSjRfcjJRMWc2eExha05WZ3VlSk01MDMtZS1jTUlZakl5MV9QTk5TTkpmcEtWdUNNSmZ5YlJqa0U1Z0M2aGx3ajIyeUZLTGNDUGpLZUpfaUlyVUZVblJJcnowcG85TUJBQ3l3UTVfRFdRNjFWVUtycVZB0gGHAUFVX3lxTE00NTlJVW1oX3dKQ3RRaTBGT0ZrSTBIRmM4aV9PVzd5WkRzbkVBSTJxQ01vaUMxOENIN1RKZ0w5akFqUVlRb0NoTVZoX0Vqc2haMUV5ejJscXVmbUlJZjI1ZEZHYWVIYUlsbU40bmJBUldrTXoxXzgxZFR0SnZMYlpfWGowNWxlOA?oc=5",
-      "snippet": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption CyberSecurityNews",
-      "publishedAt": "2026-11-14T11:58:04.000Z",
+      "title": "820,000 Sogo members at risk as department store, Chow Sang Sang hit by data breaches - The Star",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVZYVC1NMkxmakJIcGN5OVBQVVVfSFFiMVpjak4zWFNXUG53SnJTWWdWeUx4andjaWJ3TzVXdmdrcWhJbnFsU0M4NEh0STYyQ0dvLU95LXZMYXdiZC1qZU41azZBbEdtdFY3RWlxdElWLTJtWTZvLS14RTBYR21GX2F1MFA5V1B6SUtXQkFMVGxSSENzVnNrTEMzSWxkMEhNQjJGTzNWbFBiVmFsMUNEQ0lYSmRELTBNOFkzaHEzdXotQl93SXlwT09VV3VHUmU4ZFljTmJFMzZScHlDRTBr?oc=5",
+      "snippet": "820,000 Sogo members at risk as department store, Chow Sang Sang hit by data breaches The Star",
+      "publishedAt": "2026-11-14T10:41:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -956,6 +1136,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents - The Record from Recorded Future News",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BOEdSb1lMbENldjJPVXlpbWZINFBuMFVfUDRMZlN1d0dYSUwzMjZiVzh0OGdUZktXSk5oYVVmajR2RGl0akVtQ2lHR05vcTczYXp0UjN3eW1wYnctWUp0SXpRSnpDZ3NsYmwyRjBR?oc=5",
+      "snippet": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents The Record from Recorded Future News",
+      "publishedAt": "2026-11-13T20:00:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",

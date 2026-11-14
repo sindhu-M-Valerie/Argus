@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:22:47.889Z",
+  "generatedAt": "2026-11-14T22:38:27.128Z",
   "snapshot": true,
   "date": "2026-11-14",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 8
+    "total": 11
   },
   "message": null,
   "sourceStatus": [
@@ -44,28 +44,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 43
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 26
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Impersonating the Youth Union to scam people into buying books has recurred. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXZnN1Y2ozOTQtMVlHYVoyNHJBMW5EVkJlRzZHeXdIR2ptaks3dEFvbERBVUVIczRsdFhEX1BfLUlWZXVlOFdNQXpPN2VCLUF6UXpTM0xBcndtbm5uWUg5Z2ZBbGhTVGJKUjd1MVBQMGtaWjlIWkE?oc=5",
+      "snippet": "Impersonating the Youth Union to scam people into buying books has recurred. Vietnam.vn",
+      "publishedAt": "2026-11-14T08:55:16.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "MCMC warns public over scams impersonating its officers after 61 arrested in Selangor - Newswav",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY2JmbzNiMU1wek53Zm1iSkV2Zmw2cFczZWNJZVpJSkhQYjlIMnhSeWwzOTdidnRHdG5UaWo5Y2RkOGRRazNDa0VfTTVYcDBmNDFmRExaUnFUUEhlWUxXU3ZTcVI4aWdJeHZMMjQwdWl6VUtwM1c1RV9lNUJJUkRkSFBMV3JmZFBlYWEwUnpDcFZWTXpZb2ItbnI0M1FreFpDal9aWS1UWlcwZ1JXaFhTT3ZuTTc1dlk?oc=5",
@@ -230,7 +245,7 @@
       "title": "Winchester Police Department posts general reminder of scam alerts - Winchester Sun",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMlJBbEgwNzlVWU5mb29wR3p0T3ZyRUhpblQ4d3Q4QjRzY3Z6ZjEtNFVJdGdJbWFTZ2RacHFSLWxkNFlkdmhXRFVwVEpJWnl3OTlqR3Vwbll2YmpQWFlPUlBBaC1KM2ZFSzJ0OUlaakMxbGFQTVBmc21OdkZZa0kxVFVOZ2k0S1o1eEhPT0JWaG1Db3dyTm1NODk1TWh4aXowR2xoSWw0SQ?oc=5",
       "snippet": "Winchester Police Department posts general reminder of scam alerts Winchester Sun",
-      "publishedAt": "2026-11-14T16:30:30.000Z",
+      "publishedAt": "2026-11-14T16:31:17.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -287,10 +302,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Online fraud cases in Vietnam drop 20% in first 9 months - Vietnam Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWktdTZDbEJqRllxUW9SSW9zM0lFQmlhcmtUdWk0akJOeEFaakw2OGVuV09DTEtQYV9oenNRbVVaSEYyRFcxdHVYLTkwWWNldXZyZW01ZG82dEJwZUM0M01pMGhEdU9WV2tjNkFpcWpTSmpMWWVwckU5bGR4UnBsc0ZUWHc3SVpkOWY4?oc=5",
+      "snippet": "Online fraud cases in Vietnam drop 20% in first 9 months Vietnam Economic Times",
+      "publishedAt": "2026-11-13T23:10:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Kaspersky Warns of Cyber Scams Exploiting Microsoft 365 Outage - Brand Icon Image",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IY1hVVW5FR0l1N3RXbncwaHp2YUoxUDNncGJ5Y0xVT3NKNUM4dUE4bS1zb0JKb01BeVExQ0JqZEt1QjRaZVlGMzlFbWtLRnBVUU1qVmxtakdPcFVLVko5TWhlNnByZDlheDV3SWctV0hqLUxaY3VsMmtSZ2IzR1U?oc=5",
       "snippet": "Kaspersky Warns of Cyber Scams Exploiting Microsoft 365 Outage Brand Icon Image",
       "publishedAt": "2026-11-13T22:43:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Michigan State Police launches statewide cyber scam awareness campaign - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0htbDg4ZjlIaGF2cjFvWDBxX2FhdHN4NHFoWW1xTEM2cTQwdERtaU1Kc1JMblpLREVpVkhQLXBXZ1JUeE1UR2ZMR0NlQXpfZjFlY0tvUEhBX2ZkXzB6Y25SN1ljRk1pWGlMZXpCMVpWUVFqaXR3OWNSX2R1OFlKOHpUalVVWktMdkxUbmNjN1hINkg4?oc=5",
+      "snippet": "Michigan State Police launches statewide cyber scam awareness campaign CBS News",
+      "publishedAt": "2026-11-13T18:42:05.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
