@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:50:00.333Z",
+  "generatedAt": "2026-11-14T18:22:47.889Z",
   "snapshot": true,
   "date": "2026-11-14",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 28
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 34
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,14 +37,14 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 24
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 27
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 34
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 30
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,51 @@
       "feedTheme": "cybersecurity",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "TSMC Confirms Employee Data Leak Involving 46,000 Records - BW People",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3A0eFhLY2FYYnZVZzlpUVhUQ3dQZUM4ZWxueWVjNTdGRUZUeEtEdnpRUGdheHFLMHozaGkzMi1ZTlN5andYMHhKV0doOGVXdWZ4eVhRVG1JZzNkbHlMYkw4cEVGdVhCc0ZtNUpqREprMDBVVVJ2N29CYUxUdHNTZmcxRlJpbF9sVXYyZXEwVHhueUE2ZmRJQ3cyNUI?oc=5",
+      "snippet": "TSMC Confirms Employee Data Leak Involving 46,000 Records BW People",
+      "publishedAt": "2026-11-14T12:55:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmR0cFJ0Qm9NSjRfcjJRMWc2eExha05WZ3VlSk01MDMtZS1jTUlZakl5MV9QTk5TTkpmcEtWdUNNSmZ5YlJqa0U1Z0M2aGx3ajIyeUZLTGNDUGpLZUpfaUlyVUZVblJJcnowcG85TUJBQ3l3UTVfRFdRNjFWVUtycVZB0gGHAUFVX3lxTE00NTlJVW1oX3dKQ3RRaTBGT0ZrSTBIRmM4aV9PVzd5WkRzbkVBSTJxQ01vaUMxOENIN1RKZ0w5akFqUVlRb0NoTVZoX0Vqc2haMUV5ejJscXVmbUlJZjI1ZEZHYWVIYUlsbU40bmJBUldrTXoxXzgxZFR0SnZMYlpfWGowNWxlOA?oc=5",
+      "snippet": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption CyberSecurityNews",
+      "publishedAt": "2026-11-14T11:58:04.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Japan Cyber Attack: 77 Million Emails Leaked via Arara Vendor Breach as Sega and Osaka City Hit - PaidFreeDroid",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEdTTzJ6d0xjV0k2R0N5Um5tTnMxMHV0Qmg0MlYwYmFwbnozcElkN0xCYU8teFZQV29Xc2FYOEtXY21TUlZNTmlXSmhvX0hFdzRMeURWbnA1anA2MDR5cXczelRkRUU3TUZNN04yYVNIWlpCMkpZX2lmZ0hlc1UwT1dsVVJNa3JaRGNKT2hma9IBlAFBVV95cUxOWjhVLThhby1STG9Kbk5Sa28xbEEzeUF5OG1jUzhWakVEbGx3UlNGVG16VWxCVzFqeUpCRnVOdFFVV0YwTE91WkFaNFR1VzBnb3JuQ2ExSWl6b18tWGR5U2dKeHp3NVpGZnd0bXdFbXNsRGhReFdkNlladFhxUXVFN29CUE1OTGd6TGJySUpHeUl3V0Rx?oc=5",
+      "snippet": "Japan Cyber Attack: 77 Million Emails Leaked via Arara Vendor Breach as Sega and Osaka City Hit PaidFreeDroid",
+      "publishedAt": "2026-11-14T08:21:01.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
