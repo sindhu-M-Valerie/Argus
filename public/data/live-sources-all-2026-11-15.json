@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:53:53.375Z",
+  "generatedAt": "2026-11-15T18:59:55.047Z",
   "snapshot": true,
   "date": "2026-11-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 13
+    "total": 39
   },
   "message": null,
   "sourceStatus": [
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 43
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 28
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 17
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,10 +182,40 @@
   ],
   "data": [
     {
+      "title": "Southeast Asian leaders have adopted a regional declaration seeking to curb abusive recruitment practices and strengthen protections for migrant workers, including Filipinos vulnerable to illegal recruitment, human trafficking and online employment scams du - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSktuNUxKRm9WOGhRdzRSbEdLNGFLcmxadDVjdXpaWTdEWEFKZ0hkazNQOWxrUnNIaERuMGxOZG52T1ZEYThZUm5PV2cxWE1mRnFHOXBnNmZmYmRxWVZIME9uOS1zQUlMbTVWZjFmQUc5N0FpaEtwYllibUlhSzU0YzB5UkliTTg2eDRLS3Uxd2c5RTc4cWEyY0ZKR0dLLURHS3ZlbXZ3Q2Raak1JYWY3clJ3RmctZHpMWjIwaGxPOFFObUdyR3pZUTZ2MlZGeGpVSXQ5Rw?oc=5",
+      "snippet": "Southeast Asian leaders have adopted a regional declaration seeking to curb abusive recruitment practices and strengthen protections for migrant workers, including Filipinos vulnerable to illegal recruitment, human trafficking and online employment scams du Facebook",
+      "publishedAt": "2026-11-15T09:25:01.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "human-exploitation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "human-exploitation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Uber Confirms Data Breach - Hackers Stole Users' Personal Information - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SN1VXVkYxdVZINW1FTmxuNzNPNEx5QzFWTXFYblMyaUtLemhfSzY0TFRfdWZiMDdkR1AxcEl3VEcxallvWWQ4QlVrV1c1dzdJT0JDbzR5RTVXUGMtd1hCSUF4RU5pTk3SAWxBVV95cUxOaDNDN3JkbjVWNHJjczhOWElsT19uTGdrRDhENDJHRjFWRW9OTlZaSHZnVk9iQ01GV293SEY4V0lDX0R5SWlGVDQ0bUg3R2dSLVJrUFJKa3VEdHBlVWVCN29VV2luWmJ2Mlc3MjM?oc=5",
+      "snippet": "Uber Confirms Data Breach - Hackers Stole Users' Personal Information CyberSecurityNews",
+      "publishedAt": "2026-11-15T13:42:22.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "24 terrorists, 4 soldiers killed in separate clashes in Pakistan's Khyber Pakhtunkhwa, Balochistan - Dailyhunt",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQclF3ZnVnLWFFRnBscHJEelpqbW9VMXU0MmVISnRiUm13X3htbGd3QlJ1OEVQNV9aclQwbmd4TDc2ZjBlRXZYaTNwQjNOOU9Nd2k3RVMzejFQc0ZIbTdvbmkxNzkzcGI0cVBZaEFWNVgzZ2dSVG1zcWtzRkxibDFBZ3lJSU5QM3VNeWx6RTYzTEVCeDBrd3EwSVYwTjBpZVhLQk96VThzYy1aU3phckNMckxTVzBaWFNHMXhxQWxUSTNoVk1RMU5zMTBKcWtQeF9DUDRKRTh5d1dnbGhoNkppM29mVkQ4U0ZxX2pjc1Z1Vk9tMThnbDY1Q3NXRG92VmxZXzlsOVZRRzR1TXRjUFdwSw?oc=5",
       "snippet": "24 terrorists, 4 soldiers killed in separate clashes in Pakistan's Khyber Pakhtunkhwa, Balochistan Dailyhunt",
-      "publishedAt": "2026-11-14T19:05:18.000Z",
+      "publishedAt": "2026-11-14T19:05:41.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "tvec",
       "type": "News",
@@ -212,6 +242,111 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Indian student sentenced to 30 years in UK for online grooming of 70 girls - informalnewz",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0pyQUczbTVBMThNZ3diTGN6N1V6TThxMW96Q25mYk1xOElRUUxUV3dXTGpjLS1idlpkY3lzRmJHckVBQllqM19RLUhPTXl1cmx3T3JYWmtnNkM5bHMxSmFDS0daNG5aN0NrWlRJVW5NNnFQSHFPQllKS3J3MzlwaEl2dXhiWFJtN0loTG4xRy1FdHprV2pjSVZ5Y05aNHYxc1RLWUhDUdIBrwFBVV95cUxPNTBZWWEzNS1MaTV5a1htbU5KZnc0d0xONktXM0wtbWx3NkpPdmFFaGwtYTd5YWU3U25nTk9YOVotNjBBY3hfcVdpS05VU0ZZOG5ZWjJSZU1pZ0xMel80X2NyUTZ1SlM3WUNFSWdFVnFFUVdmZ2Q1WkxIN1F4cnlGRFQ1VXVDeEVvWDVtcjgyamk2OHRQeFM1cEZEc1hjYjNmbVFvakpzNkpUdDJzV2NB?oc=5",
+      "snippet": "Indian student sentenced to 30 years in UK for online grooming of 70 girls informalnewz",
+      "publishedAt": "2026-11-15T14:06:32.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTBzQjNoTS16RGFGUlFGMVhKQVRLYzlFbVdEaXh4ck5RdDAyU0JEN0E5bXhEQkowbm5Ka0hyVHdELWZGdHU4NkxyZXpFTllSeG1kTHZlaFQ5VWF5OEZKUWFtbjdDRW5QNE5KUlVodEtCRGI3bjhDZU1PRFdnUEIwVDQ2c2c1enBoQWlFTGtXTzhibnVma0ZNM1V5c0d4Y3gtOTdNaWdVSGg5VExaNkRYYXI1dWhUQWZQR2c00gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
+      "snippet": "Indian student jailed for 30 years in UK for grooming 70 girls online Gulf News",
+      "publishedAt": "2026-11-15T13:06:48.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Student Bilal Kazi Jailed for 30 Years in UK for Grooming Minor Girls Online - Gujarat Samachar",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3FyZjBOSjdKUG5BRlBnLXNWWlVPVWJwQXk1anJPN0VBR1ZJc2RKUHlrWmcxZktzeEY4NWs0ODU5ZEVkQlFuQVFtWElWbnFuWlZIOG9reEtpQXNIMzAxTkwwTmhuODVGT3AtRmNXUGhXcHJXN2pfemNhREcwTFJFZ3YtWHBiY3FhREZxZElCSkthbVZJR2NMbVlXRVdoUUY1RTlsemRJWEhCRE9KWmNqSF9BazVsd0p3cTlyZGFVVFhZb2xDOVRlQTRBZ3ZQZEJ2M2lfWGROaXRIQWtlbEE?oc=5",
+      "snippet": "Indian Student Bilal Kazi Jailed for 30 Years in UK for Grooming Minor Girls Online Gujarat Samachar",
+      "publishedAt": "2026-11-15T12:58:08.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Asean adopts declaration to strengthen protection for migrant workers - The Star",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaVVyeGd3eVVPTVlUNThDdUM5MmZYTmpXZlp0RVVueGs0WFFsMFJPVVNNUW5fdUQzR0dscmRqc3ROcFVvTVFaWkw2SWRkYUZzZGlTQXZRRjU5R0pOZVpDOF9WMlBubVV2ZTNtNWhmbjBVSklYbDd1OHU2TTJYQ3F6NHY1NDhmSEdnbjZFeGc1SDZIekZHWWx6N2hTaHhIR3AyRGdQVGVoVldsUko5TzZSdldNVFF2bnczT1l2V3EwU1VPY09MeW1KRUFCYkk?oc=5",
+      "snippet": "Asean adopts declaration to strengthen protection for migrant workers The Star",
+      "publishedAt": "2026-11-15T12:08:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Birmingham man jailed for 30 years for child sexual abuse - EasternEye",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzNLb1FteWVoVE1UWGsteE1MTHVJQ2JBQ3VDRWMwVWtQUkNUMThXYTNxaHpMX1Q0YjhMMTdPTEFnZVdvYklvZTN5Nkc1dTJ3TDNGdEdYc2RSeWdPVl80SDhMeGh6N0YwWVl4R3FnV050TlFUMHZicURCSXpNemhNX2QzTklVVWd4VFdQX1RB?oc=5",
+      "snippet": "Birmingham man jailed for 30 years for child sexual abuse EasternEye",
+      "publishedAt": "2026-11-15T10:38:40.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysia mulls stricter WhatsApp verification to combat scam and impersonation calls - Newswav",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmVqZzZEY3RkSjV3ankxWGhiWGhuQkY0aDdVWkJSbEtIaC0yd2tGYVVYUDU1Snl3Q1RWSzJQcXRZeXl1MzNlT0Rqbk85LV84bjhSZlQ4MzY5ZjJ6Z1RLZUJpOWduR1F3OW42V0JXSFh0WlJiejZWckFJdGJueEpJcGxyd3gyTEhvajVUNGRoQmgxcHUzN2k5LWxNbzlDVUU2aWc4N29ZdFRncmtLbS1uaG1RTzdHMlU?oc=5",
+      "snippet": "Malaysia mulls stricter WhatsApp verification to combat scam and impersonation calls Newswav",
+      "publishedAt": "2026-11-15T09:38:26.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘You are a very dangerous person’: UK judge jails Indian student for 30 years for grooming, blackmailing 70 girls - The Statesman",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUNFaEh1WTRPbkd6NjA2NDFXekJ5UUt6TFR4UW12TkJYdW1nSVJVc0lnNjFnbEtyUlJrVDdKaWZhd0ZfTlAyUXMxM2JqQXFWQmstMGdMSVZsR2w4YXViM1N1dTc4bEExT1A1a3NpbmFGN2tucHpWdDkta1JXTzlEU3lTUFpfMXBFXzY5Ni14UkNsTXZKdzB0YV9neU82NmR5a2ZHRnd1cllfQmNFMTBINEIyWlZwVEljMklfa29qbnVnNmhN0gHKAUFVX3lxTE44Zjh3WEx0TDBxODFHLVBzZlBOMHJzZ2luQjZaVHRNX3FWZVFTZFlJS2wyT3VLQ05JUHNDck5KdWpkTmg3T2VmWnNBbmE3bGJzQ19YZVNzNW1HOFZ1Z3pZNEFZSnh6b09HaUVhWWFUSkVpeEdab1U0RjJZTlBGcW4yN2FveXhKbUs0SVNrXzI0dk52Y1VkLWdxTHBhbnhpR1FOTDQycUlfTXJ2YVRHTXhEM2pqRWt6ZE5jWHp4azJ5MGdNMTM0WXMwQUE?oc=5",
+      "snippet": "‘You are a very dangerous person’: UK judge jails Indian student for 30 years for grooming, blackmailing 70 girls The Statesman",
+      "publishedAt": "2026-11-15T08:02:00.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Who Is Bilal Kazi, Indian Student Jailed In UK For 30 Years For Grooming Minor Girls Online? - NDTV",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZVlScXNrVTN1M2VpWVBUSXRHWDZ5MGk3SFlEVzVsU2xzS2QzaFN0OXlzTHJaOGZGaDJNOWlNS2tQejY1QjRydVg5c1N1WDhwUDlMeUl0dkRjdDM0Y0piQmJqR3ZRNnU2blJ4SHJGVG5rRm5yWXdBMmwwSkdZbEFwZzhDbUJPbF82VC1Eb0QzUGltOWVIYVN4enpRN2s0ZmY4UjZlUnpTVFVsc0o1MDMtYmVKRTZMUDVzWmt2ZW1qc1V0X3hOX3FJUS1RZ9IB0wFBVV95cUxOck9Ba21HSkJ2ZU5ZUUFXOTFXVkI0cEZNUVpBbmFlOTM5eTV6MjVKLUZMWFZiZnh4UHoxTEcxaldjYnpMdTdxRERfaWxBeGFzSEFqOUJZZldCMFJUSjBzNmVVOVVPOElrZDJ3dGpJZFFwNXBTNmgzcDNIMVJzWm5ZNndCNGRHay00bTFDdTI1cVEzbkxjS1UwclJRa0NaLXdzOVpEbzhkT2hqZjQ5dGRKQlhQM0VaZTZ6akRsQVJsQmd3b3Fld1pHNkdSLXVUcjBBckNR?oc=5",
       "snippet": "Who Is Bilal Kazi, Indian Student Jailed In UK For 30 Years For Grooming Minor Girls Online? NDTV",
@@ -220,6 +355,21 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DoJ, NCR mayors combat online child sexual exploitation - Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbFlZc1R4NWNKVUpxTU5oY3A3bDN4dzhrWjBwd21TZG55aHZhb3RlVHo1MWh4TDNiVjRKMlZIdk5EMlBmcWkxZVc5TFZueUtMM3ktNHJIanNyd0kycnZ0R1VjN2w0VXR1UGdnbEJXQ2pkNTZCR3ZDbUwyZ19CYUc0V3pnRC12eDVLbkV3aHNlcms0dw?oc=5",
+      "snippet": "DoJ, NCR mayors combat online child sexual exploitation Daily Tribune",
+      "publishedAt": "2026-11-15T05:49:41.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
       "riskScore": 52,
       "confidence": "Low",
@@ -257,6 +407,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Bust Fake News With Bangalore Mirror: Viral Rs 1,000 note with temple motif is a fake: No such announcem - Bangalore Mirror",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOVktOT1FMZjFYVVJxSGljcWJ2T2ZfQnB4Nm9aOUQ0ZTRFaWFFRXZEekdOX2FDYnlhaTN1RE1jLVpqWHhGMmk3dDV2QVJQaGhPdXRkOXpmMWtPWnhoZE5TZDJWZ2FERFA2dS1mVUhDVkxTN1FhcFJaUGFCM0JSbTdEYzF4ZERNa3pWS3NIRjhneEVVYjA2VzNKbmRscDhUbFlENEVlWkczSDJDaGc4LWtLbmhfSGJmSG9yWU5ST3JKVklreXA3NEtHS1d0ek1NWU92bV9RdVNDajRjaHJuSzBZOVV5V09iUkdTeWM1UnhzNHBadENrWk5SaG1Qel8wOTcyX3dwWVdXLUlZUGRrRlZvTkVlS2dhZDZDaXB30gGgAkFVX3lxTE5qczhkMTAzUlhmYmdhaWpzdmcwUVVFdXdOX0pubHgweW82LWRNc3lMUktJSW4yMXkyNmNBOTJjSlMtNzluUUk3T1Q0cG1NbFJnVFk3UnNTTWZYaE5OQURJOFB2OTJWYUt0Y3lYRF9DaDFhUlZzc010T0d5RlIzVW81cGQ5WlpfSklLMXRDak04UDQ0ODI5UXp1MTZLR2o4MjNtTl9XYTYwazR6c0hpZktYOUlCcXQzellmeU9WTTk3R0p1MW42MW5VRFhZQ1BHSml2ckQybTgyVVpiYWVHS1Y4eUNEekhNcTBTQ3dLUlp3aHNvTzBzaDM4dzQwVUt1a1BRTmxTSGZUTkJ6aE51cTUtTXFwM010dC1aNGF4M3JjaQ?oc=5",
+      "snippet": "Bust Fake News With Bangalore Mirror: Viral Rs 1,000 note with temple motif is a fake: No such announcem Bangalore Mirror",
+      "publishedAt": "2026-11-15T01:05:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Spain demands TikTok suspension over child sexual abuse content - Asaase Radio",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTFJc0wtS0VrMS1HTnJKYm9wbml3NjBJQlpHcV9mRHZVamJINkQwZzJPMmYxSXIzTDlLVXRqRWI3VExwOGpyX2QwdzdtTkROZnJRbkFKR2V2cmRtbHpHSGFXNEpqbzJHdGM0N1g2YVVoTlU1Z2tuSzkxMWNrZjdwaVVrTFpUUmVvWU5BdFlDeUNIZw?oc=5",
       "snippet": "Spain demands TikTok suspension over child sexual abuse content Asaase Radio",
@@ -287,6 +452,96 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Is K-Pop Facing Cybersecurity Crisis? SM Entertainment Reports Data Breach, Days After HYBE Incident - International Business Times, Singapore Edition",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFNEWDFrN1F5WENybF9NdThZWXloSDEyS19qREtPSVlCZnF0aVNCNGY1aHRGRXVkZHp4ZmE2VHZCWHhzTFYwZFlhdTJJQ09qOUhBaFpkeDc3RTVROHJMTEpCSE41bUdJVkRGaU9sYTdRX01IYzlOQzBsVm45YmdmTU5jZU1VQklaM0FENVNCTjRqZldBZngtNWN0aVI0bm5VUzE2OV9nVjRrbzBVNlFjU3FPaHJfQTQyS1ZtLTUyalZDZw?oc=5",
+      "snippet": "Is K-Pop Facing Cybersecurity Crisis? SM Entertainment Reports Data Breach, Days After HYBE Incident International Business Times, Singapore Edition",
+      "publishedAt": "2026-11-15T13:49:01.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PM Modi declares India free from 'Naxalism and Maoist terror,' claims previous govts remained 'mute spectators' to Naxalite violence - News24 India - News24Online",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ1JyUTBOTVZ4NGdqODZ2c0F4NFQ4QmZuVWx5U25DVEJaYWNDTTgta3B4OHlBbnJYeU5LTnpURzdLT19tdGJ4Q2RXMGtaTnQxTGZ6Yzd5T2ZGODdYX0xiTEpLc1NnQ2Nxa1o4aHJ5cV9yd2xTNW5OeXVUbHRrSE1HNzJxYWR0bHpIOWVseVY4LURNUUtoc05uTjFtaDh6NmF3U2VwMUY2UEpMVUJfR0VFR0tvOU9JQk5McldNQUtmemxQbWlrZEhfM3VUcnZ0MGpmdVpTRHBUUk1mdGo4eER5X2VGRjJVWGpYNDd3Mlk0VWEteDNDQTl0MG530gH-AUFVX3lxTE5YMWlfNE44RVo5Y3BxVEtPcUxOalBXcnhkNjkyRHdJNnhxVXlQS3l1dHg3bEFYWmNvYnhBN3U0dURySnc3VG1sVjh3QXRtQWpfUlZoSXc3bXNEMVJPSDg2MGd2Y1A0RlRQYllrcjFad19iNS1rWmJVSFMyYjBvS2I4aGRjSmpNSklEWjl6S0xCYWlwYjJTNHUzNENyUXM1dkhRcGdpS1hwcXd0VE5lZzZTYjBkcnRqRjlyZDQtM0dQaVhNQjR1YVdobDN0SjR3Sjl4bURVanBMSExVLWRQeDFKNFlrREUtWU5CaXJYRGU3MG1KdVpPQVcxRFJQUUNB?oc=5",
+      "snippet": "PM Modi declares India free from 'Naxalism and Maoist terror,' claims previous govts remained 'mute spectators' to Naxalite violence - News24 India News24Online",
+      "publishedAt": "2026-11-15T12:50:04.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Man arrested in J-K for spreading fake news on Kulgam attack - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGc3d2o4WlJpTHFwTnRFcGhPb2tYOGNaSWJGQUJoS0NZQmVUWDJPUkNseWw0LVYybzR4SjBZQW5GdGJ4RlA2a0RmdFVBZEhybG5RaDdLNmF5c1RrQ1J5NVNocTBMR0JHMDJXV2w0QnNVSF9HdjFDYUVqc2ZISG1Mc3MtLUd2Yld5REFPYmI1b3ZqMkRKQUV5cDc4ZmY5Z0U20gGjAUFVX3lxTE9tODJSTmJLc3pnOGRzdGs2MHNnS2x5eVVPbUh1TWhRUEk4Rk1RTU9RaGtMdTNQNXUyUlJqQmRfMW15azNub2FyQXVWbHdMbXg3WFoxMjRaRWxOdmowMk5RcnliX2NtbkNtWXhaWk5pY1BBR1BuR2JlLU1ETjRENjRSZGJicy1MS2JreGRSSGNVU29Ta0JsVHBTd0RfQk56Z0lVblk?oc=5",
+      "snippet": "Man arrested in J-K for spreading fake news on Kulgam attack Rediff",
+      "publishedAt": "2026-11-15T11:28:32.000Z",
+      "source": "Google News • Dangerous Misinformation Endangerment",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bengaluru: Basavaraj Bommai Accuses Rahul Gandhi of Spreading Misinformation on Democracy - The Bengaluru Live",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlQxMTZfZ1BWcTJDaDF4UnlsX1UwLVhCcjRWbEFvaWE3cDNGc0VCdVdSdTdDcGM1SXV6elpFVUkwblowX1pxSnFSX0FaTDA3TWttNGUyVE5saDA5ZXlMaG9jTUxyQjRWNkZ6WDVKUTQ2NEtlcC10NktVdjdic1ZvX1BnV2gyZkUyX1VmVEh2d21Wei1wcWRDT09qYXBKaE1Ka1ItQS1vdjBMQjcwMHVHcnFzT25JVHZsa3c?oc=5",
+      "snippet": "Bengaluru: Basavaraj Bommai Accuses Rahul Gandhi of Spreading Misinformation on Democracy The Bengaluru Live",
+      "publishedAt": "2026-11-15T10:53:46.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "​₹162 Crore Bank Loan Fraud: ED Moves Court Against Lakhani India Limited and Associates - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUFONzdjYnAwZ24taE5NQXR4Vzk4NUdEQVRJV3ZCNHB3UGVaNWwyckYzVHRQWmhDbHJ3MVlDcnpmSkVtaFQyRVNnNFdkQUcwTkhUdGc4UGJQbEljVzNKd2ZxTWRMcE9yUEpBVkZqMWZJVE9qMnJhQ3dqbGkzWFFMdzF2aER6bTVLTEtOU1A1X3p1NktxUWp0UUFrcG9IeHBKNVRwSWl4NUVFem9pMUJDWUtXYw?oc=5",
+      "snippet": "​₹162 Crore Bank Loan Fraud: ED Moves Court Against Lakhani India Limited and Associates The 420.in",
+      "publishedAt": "2026-11-15T10:49:55.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU cyberbullying app’s success rests on member states, Micallef’s Cabinet says - The Malta Independent Online",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXY5SFlRbzNoMGxMNmpLQnBnTUlsdVN3dDFwSHpnQXZRaHliVUVuM1NTNnRFRUNrV1lpTlJ2MFFWZFdjNXBOd2IzTkoyRzlaUUltWm8wa2U3WXNoMjE0azhBYTg0dXNsclViWG92Ym03ODhyUlBXaV9RLUgySFZKRDZ1dGhVTnBBaTAyQUdCRVpmdWMyc2N0N1lpanBsZEczSFprNDlLMG1SRnhXUHE2ZzFwcGVFMjk2WUlVTkhEcUF1eW01TzlydGxKUHJNcTNYdGdHSy1wV19TRDZoRWc?oc=5",
+      "snippet": "EU cyberbullying app’s success rests on member states, Micallef’s Cabinet says The Malta Independent Online",
+      "publishedAt": "2026-11-15T08:30:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Pakistan vs India: Fake news battleground? - DW.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFpBczRKTjk5WW9CdXA1TW8zLUxweWtTZzJjM1R3bFBDalp1eERTOUloc2N1cl9ZMmw1aVk5REJSajRnTFNBdlhYemllam1mbG5jWm9ILUswU2hyTEpRczRQYk9fMm1KQmRzYndiN0ZZUmd6WFFGcTNVeFRmd3dDQ3A0Zw?oc=5",
       "snippet": "Pakistan vs India: Fake news battleground? DW.com",
@@ -297,6 +552,96 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Yalda Hakim warns of AI video impersonating her - Journalism Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHJTQkRaeFk3amtPeU5yMjhVeVV5am43SlgybVpJUXdsRzRoSW9GNU90Z21ZZHNZLWdxamctdmJ0VXZ3X1JGRm0wOTRPSWJhMWQ5d1NhVDNGN2pOUS02YXplSnNjbWZxYVNDTHNzajYtRU9yLVJXZzlzRXRRN1RyMFkzMDVFMUNhWVE?oc=5",
+      "snippet": "Yalda Hakim warns of AI video impersonating her Journalism Pakistan",
+      "publishedAt": "2026-11-15T18:25:31.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysian govt studying feasibility of mandatory WhatsApp identity verification to curb online scams - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSGVQZTRaeThvanVDVG45eFVUbnBQMmV3NFdUNUFwMU15R2xhZ2c2RC1VeU92MU04X3NBN2dKZ1FKQ0VmMFV3czlmUjg1UXhlNGtCd05adFRIQzFLQjVCRjIyV2RndWhUMkF6bGZORGZwTllFV3ZwUTExOWFQRU1LTF9CaHFXVl9pcmQ1eEZXVVUwV0ZlNjRsNWpUeGlsdDkzV1JhdUZ3NjB5T05LZTU4SFdKRkpHYUdpX3dNZnR1emdOTDR0N29Ra0U5Qjc0amlZajY5QkxJclM1QQ?oc=5",
+      "snippet": "Malaysian govt studying feasibility of mandatory WhatsApp identity verification to curb online scams The Straits Times",
+      "publishedAt": "2026-11-15T11:32:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coinone Warns Users Of Phishing And Identity Theft After Breach - Menafn",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRk1ZemtSWTJ2Yi1hZHdhZ0tQeG1zN2FYNTh0TGw2R0xLelpERXA1OHZZTkVMZF9OMEhwb3JqNE5qbjBkb0F4cllFczJqSVBKNGRTbEF1NFdSNXhjc3hYY1VEdzBrd0ZUcHMzUnVBeHJzS3hIOW00ajAzUWZhMUNJUmZaMlVjamFqZEFfa01waG02Qm5tdkRrMg?oc=5",
+      "snippet": "Coinone Warns Users Of Phishing And Identity Theft After Breach Menafn",
+      "publishedAt": "2026-11-15T10:30:18.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vietnam expels 5 Chinese suspected of involvement in online scams - Tuoi Tre News | The News Gateway to Vietnam",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNjZRZjZPaG1IcXZwWmNVTzhVVjExTkdGbnA3SGVhVGNQa05xOHE4ZWVxM3V4MHFESkVMbUctZlVVWlVfa2hKS2FQNGJXQmoxcG1uUVRNR0doV1F0SzZwcXdxdThLLTd2czBrRmlHeExxOFBoaDV3YVRaME1fR2JCemcwUDlIWmJ0bkR5eG9WQk5hZkEzQjZoVEpJZk9YVWZTYzAyYTFBcEI1RUZvYWR2OA?oc=5",
+      "snippet": "Vietnam expels 5 Chinese suspected of involvement in online scams Tuoi Tre News | The News Gateway to Vietnam",
+      "publishedAt": "2026-11-15T09:38:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Opinion: Why even financially literate people fall for investment scams - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwQTVXbmNlZkExUlY3UzNjdlZ6QkFZTWI1SFJNem1TM1JTaWttcjFpVlF0RS1oUTNvd1h4eVJnd1o0bC05UTZCajFVVmVXNXRyWkhj?oc=5",
+      "snippet": "Opinion: Why even financially literate people fall for investment scams The Edge Malaysia",
+      "publishedAt": "2026-11-15T07:36:59.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fahmi wants WhatsApp to strengthen phone number verification amid rising scams - Newswav",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWtwelBVLVE4eWVFbHlUWEdqWnJRMEkwOUQ2clZkTEhpSWI5YXY0Mkowc1BwV1hRLUc5OVYzUDNPRF9makFwM2Zwc0J2ckZONUtyN0FyTmkwVW50NS12TU42OHZyXzFIcGZTXzhhUF9lV2JLa2g0MWhpaFRBZjBYSThuS0ZOLWt6MldUZ2M2aEhxcG93LVczd1FaVXhaUnVYeWduLTVVaVlMU2hveENDdTE2NnU2WG8?oc=5",
+      "snippet": "Fahmi wants WhatsApp to strengthen phone number verification amid rising scams Newswav",
+      "publishedAt": "2026-11-15T07:24:11.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -327,6 +672,51 @@
       "provenance": "live-feed",
       "feedTheme": "violent-speech",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "World Triathlon confirms data breach - Inside The Games",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM3drdEZaemllRU9HenVSaGs4ZmhRR21NVGlPQXVDaGl4S0NIR2NiNFNzdTBad2gyWEFpWTVNVDR3MkVkbmRBVldvbVNtWXA5anctSHRaa0ZkQ0pyNlZHTmZ5VnBLZFZxVW9hVTRBOWYwZVl1dXFqakNfQU50d1NUSGF3?oc=5",
+      "snippet": "World Triathlon confirms data breach Inside The Games",
+      "publishedAt": "2026-11-15T09:00:24.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coinone warns of phishing, identity theft after customer data breach - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzFkVzluTDhFVVdKRG1UZnBWV2JibWlHXzQ5dEd3eW1QQzd4NWRZenYyMlBScTNoa2lnS3A1blhQNl9ONGlKeTlWaF9OVjNnTjE5dU4yNGRUc18tU0N4UDg5S2txVWpiVUNaTmZleHZfd3JhRzN3WC1SeDdseU5UVFJoUHhyS0lpVThSVUxWekE0dzQ5WlBvdVFGQjJDa3dlMGc3U0VGam9FU1FCOWdHRnd5VXNNTjlCRFhVZUxpZUhTNlBRcGktTkR0RQ?oc=5",
+      "snippet": "Coinone warns of phishing, identity theft after customer data breach TradingView",
+      "publishedAt": "2026-11-15T08:07:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Banking Sector on High Alert After Series of Cybersecurity Incidents - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PTHhaeUhaeW9IUVhPRUdtTDAyV19VdFNiSG0tQ2JQaG9jdmk5M1M2aThoeld0WkRyMXlOdjRPaDVNM2ZVb1k1Mlh0ODlTNTg0bVpqSW10UFRmNnhPazc0VXVxLXp6QWhYR2c?oc=5",
+      "snippet": "Indian Banking Sector on High Alert After Series of Cybersecurity Incidents The 420.in",
+      "publishedAt": "2026-11-15T04:19:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:53:53.375Z",
+  "generatedAt": "2026-11-15T18:59:55.047Z",
   "snapshot": true,
   "date": "2026-11-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-15 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 43
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 28
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 17
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "EU cyberbullying app’s success rests on member states, Micallef’s Cabinet says - The Malta Independent Online",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXY5SFlRbzNoMGxMNmpLQnBnTUlsdVN3dDFwSHpnQXZRaHliVUVuM1NTNnRFRUNrV1lpTlJ2MFFWZFdjNXBOd2IzTkoyRzlaUUltWm8wa2U3WXNoMjE0azhBYTg0dXNsclViWG92Ym03ODhyUlBXaV9RLUgySFZKRDZ1dGhVTnBBaTAyQUdCRVpmdWMyc2N0N1lpanBsZEczSFprNDlLMG1SRnhXUHE2ZzFwcGVFMjk2WUlVTkhEcUF1eW01TzlydGxKUHJNcTNYdGdHSy1wV19TRDZoRWc?oc=5",
+      "snippet": "EU cyberbullying app’s success rests on member states, Micallef’s Cabinet says The Malta Independent Online",
+      "publishedAt": "2026-11-15T08:30:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

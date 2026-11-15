@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:53:53.375Z",
+  "generatedAt": "2026-11-15T18:59:55.047Z",
   "snapshot": true,
   "date": "2026-11-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 43
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 28
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 17
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,126 @@
     }
   ],
   "data": [
+    {
+      "title": "Malaysia mulls stricter WhatsApp verification to combat scam and impersonation calls - Newswav",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmVqZzZEY3RkSjV3ankxWGhiWGhuQkY0aDdVWkJSbEtIaC0yd2tGYVVYUDU1Snl3Q1RWSzJQcXRZeXl1MzNlT0Rqbk85LV84bjhSZlQ4MzY5ZjJ6Z1RLZUJpOWduR1F3OW42V0JXSFh0WlJiejZWckFJdGJueEpJcGxyd3gyTEhvajVUNGRoQmgxcHUzN2k5LWxNbzlDVUU2aWc4N29ZdFRncmtLbS1uaG1RTzdHMlU?oc=5",
+      "snippet": "Malaysia mulls stricter WhatsApp verification to combat scam and impersonation calls Newswav",
+      "publishedAt": "2026-11-15T09:38:26.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "​₹162 Crore Bank Loan Fraud: ED Moves Court Against Lakhani India Limited and Associates - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUFONzdjYnAwZ24taE5NQXR4Vzk4NUdEQVRJV3ZCNHB3UGVaNWwyckYzVHRQWmhDbHJ3MVlDcnpmSkVtaFQyRVNnNFdkQUcwTkhUdGc4UGJQbEljVzNKd2ZxTWRMcE9yUEpBVkZqMWZJVE9qMnJhQ3dqbGkzWFFMdzF2aER6bTVLTEtOU1A1X3p1NktxUWp0UUFrcG9IeHBKNVRwSWl4NUVFem9pMUJDWUtXYw?oc=5",
+      "snippet": "​₹162 Crore Bank Loan Fraud: ED Moves Court Against Lakhani India Limited and Associates The 420.in",
+      "publishedAt": "2026-11-15T10:49:55.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Yalda Hakim warns of AI video impersonating her - Journalism Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHJTQkRaeFk3amtPeU5yMjhVeVV5am43SlgybVpJUXdsRzRoSW9GNU90Z21ZZHNZLWdxamctdmJ0VXZ3X1JGRm0wOTRPSWJhMWQ5d1NhVDNGN2pOUS02YXplSnNjbWZxYVNDTHNzajYtRU9yLVJXZzlzRXRRN1RyMFkzMDVFMUNhWVE?oc=5",
+      "snippet": "Yalda Hakim warns of AI video impersonating her Journalism Pakistan",
+      "publishedAt": "2026-11-15T18:25:31.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysian govt studying feasibility of mandatory WhatsApp identity verification to curb online scams - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSGVQZTRaeThvanVDVG45eFVUbnBQMmV3NFdUNUFwMU15R2xhZ2c2RC1VeU92MU04X3NBN2dKZ1FKQ0VmMFV3czlmUjg1UXhlNGtCd05adFRIQzFLQjVCRjIyV2RndWhUMkF6bGZORGZwTllFV3ZwUTExOWFQRU1LTF9CaHFXVl9pcmQ1eEZXVVUwV0ZlNjRsNWpUeGlsdDkzV1JhdUZ3NjB5T05LZTU4SFdKRkpHYUdpX3dNZnR1emdOTDR0N29Ra0U5Qjc0amlZajY5QkxJclM1QQ?oc=5",
+      "snippet": "Malaysian govt studying feasibility of mandatory WhatsApp identity verification to curb online scams The Straits Times",
+      "publishedAt": "2026-11-15T11:32:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coinone Warns Users Of Phishing And Identity Theft After Breach - Menafn",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRk1ZemtSWTJ2Yi1hZHdhZ0tQeG1zN2FYNTh0TGw2R0xLelpERXA1OHZZTkVMZF9OMEhwb3JqNE5qbjBkb0F4cllFczJqSVBKNGRTbEF1NFdSNXhjc3hYY1VEdzBrd0ZUcHMzUnVBeHJzS3hIOW00ajAzUWZhMUNJUmZaMlVjamFqZEFfa01waG02Qm5tdkRrMg?oc=5",
+      "snippet": "Coinone Warns Users Of Phishing And Identity Theft After Breach Menafn",
+      "publishedAt": "2026-11-15T10:30:18.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vietnam expels 5 Chinese suspected of involvement in online scams - Tuoi Tre News | The News Gateway to Vietnam",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNjZRZjZPaG1IcXZwWmNVTzhVVjExTkdGbnA3SGVhVGNQa05xOHE4ZWVxM3V4MHFESkVMbUctZlVVWlVfa2hKS2FQNGJXQmoxcG1uUVRNR0doV1F0SzZwcXdxdThLLTd2czBrRmlHeExxOFBoaDV3YVRaME1fR2JCemcwUDlIWmJ0bkR5eG9WQk5hZkEzQjZoVEpJZk9YVWZTYzAyYTFBcEI1RUZvYWR2OA?oc=5",
+      "snippet": "Vietnam expels 5 Chinese suspected of involvement in online scams Tuoi Tre News | The News Gateway to Vietnam",
+      "publishedAt": "2026-11-15T09:38:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Opinion: Why even financially literate people fall for investment scams - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwQTVXbmNlZkExUlY3UzNjdlZ6QkFZTWI1SFJNem1TM1JTaWttcjFpVlF0RS1oUTNvd1h4eVJnd1o0bC05UTZCajFVVmVXNXRyWkhj?oc=5",
+      "snippet": "Opinion: Why even financially literate people fall for investment scams The Edge Malaysia",
+      "publishedAt": "2026-11-15T07:36:59.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fahmi wants WhatsApp to strengthen phone number verification amid rising scams - Newswav",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWtwelBVLVE4eWVFbHlUWEdqWnJRMEkwOUQ2clZkTEhpSWI5YXY0Mkowc1BwV1hRLUc5OVYzUDNPRF9makFwM2Zwc0J2ckZONUtyN0FyTmkwVW50NS12TU42OHZyXzFIcGZTXzhhUF9lV2JLa2g0MWhpaFRBZjBYSThuS0ZOLWt6MldUZ2M2aEhxcG93LVczd1FaVXhaUnVYeWduLTVVaVlMU2hveENDdTE2NnU2WG8?oc=5",
+      "snippet": "Fahmi wants WhatsApp to strengthen phone number verification amid rising scams Newswav",
+      "publishedAt": "2026-11-15T07:24:11.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Hanoi police warn of the risk of fraud stemming from the \"online church\" trend. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmpMekNES1Q2aVg1dlFsa2xILVo5RzhTbjFqQ2thbnB1alFmeDladXFEa2twMUJ0Tzc0TFNzZkpPNWZDOHFCd3Vmamk5UVM0b3FwcFpZY25uQ1FOVzZ6Ukk3aXJyekx4azUwMkhsb002MnVFSW1lR2dySkt2TnNoUHc3aVIxYUxjUjJjQ0hKUlIwUmFxeFNxZjNyNA?oc=5",

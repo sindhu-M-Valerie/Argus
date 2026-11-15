@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:53:53.375Z",
+  "generatedAt": "2026-11-15T18:59:55.047Z",
   "snapshot": true,
   "date": "2026-11-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 43
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,14 +86,14 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,7 +121,7 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 28
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 17
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -185,7 +185,7 @@
       "title": "24 terrorists, 4 soldiers killed in separate clashes in Pakistan's Khyber Pakhtunkhwa, Balochistan - Dailyhunt",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQclF3ZnVnLWFFRnBscHJEelpqbW9VMXU0MmVISnRiUm13X3htbGd3QlJ1OEVQNV9aclQwbmd4TDc2ZjBlRXZYaTNwQjNOOU9Nd2k3RVMzejFQc0ZIbTdvbmkxNzkzcGI0cVBZaEFWNVgzZ2dSVG1zcWtzRkxibDFBZ3lJSU5QM3VNeWx6RTYzTEVCeDBrd3EwSVYwTjBpZVhLQk96VThzYy1aU3phckNMckxTVzBaWFNHMXhxQWxUSTNoVk1RMU5zMTBKcWtQeF9DUDRKRTh5d1dnbGhoNkppM29mVkQ4U0ZxX2pjc1Z1Vk9tMThnbDY1Q3NXRG92VmxZXzlsOVZRRzR1TXRjUFdwSw?oc=5",
       "snippet": "24 terrorists, 4 soldiers killed in separate clashes in Pakistan's Khyber Pakhtunkhwa, Balochistan Dailyhunt",
-      "publishedAt": "2026-11-14T19:05:18.000Z",
+      "publishedAt": "2026-11-14T19:05:41.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "tvec",
       "type": "News",
@@ -208,6 +208,21 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PM Modi declares India free from 'Naxalism and Maoist terror,' claims previous govts remained 'mute spectators' to Naxalite violence - News24 India - News24Online",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ1JyUTBOTVZ4NGdqODZ2c0F4NFQ4QmZuVWx5U25DVEJaYWNDTTgta3B4OHlBbnJYeU5LTnpURzdLT19tdGJ4Q2RXMGtaTnQxTGZ6Yzd5T2ZGODdYX0xiTEpLc1NnQ2Nxa1o4aHJ5cV9yd2xTNW5OeXVUbHRrSE1HNzJxYWR0bHpIOWVseVY4LURNUUtoc05uTjFtaDh6NmF3U2VwMUY2UEpMVUJfR0VFR0tvOU9JQk5McldNQUtmemxQbWlrZEhfM3VUcnZ0MGpmdVpTRHBUUk1mdGo4eER5X2VGRjJVWGpYNDd3Mlk0VWEteDNDQTl0MG530gH-AUFVX3lxTE5YMWlfNE44RVo5Y3BxVEtPcUxOalBXcnhkNjkyRHdJNnhxVXlQS3l1dHg3bEFYWmNvYnhBN3U0dURySnc3VG1sVjh3QXRtQWpfUlZoSXc3bXNEMVJPSDg2MGd2Y1A0RlRQYllrcjFad19iNS1rWmJVSFMyYjBvS2I4aGRjSmpNSklEWjl6S0xCYWlwYjJTNHUzNENyUXM1dkhRcGdpS1hwcXd0VE5lZzZTYjBkcnRqRjlyZDQtM0dQaVhNQjR1YVdobDN0SjR3Sjl4bURVanBMSExVLWRQeDFKNFlrREUtWU5CaXJYRGU3MG1KdVpPQVcxRFJQUUNB?oc=5",
+      "snippet": "PM Modi declares India free from 'Naxalism and Maoist terror,' claims previous govts remained 'mute spectators' to Naxalite violence - News24 India News24Online",
+      "publishedAt": "2026-11-15T12:50:04.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }
