@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:38:27.128Z",
+  "generatedAt": "2026-11-15T06:53:53.375Z",
   "snapshot": true,
   "date": "2026-11-15",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-15 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,35 +65,35 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 23
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Swiss men take to streets, call for stronger fight against violence against women - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGo3TVF5RGs3NkN0Uk80cjBhakJ6S2xrc2tGbEZOLWhzdjVIMmh1ZTFrVGZLSVRqTko2NktlbVVYdUZqN1prbEVOWGZsT1Z3S2xQMDc1Z1pCMVpNTlF1MFpFTW50TmFvWXIzN2tSeE9qR2l6RGlvTnVZdkItZ05hSUlzTzFsdzNFNkIzM0txT1hVOFFRS2lZeUthNWw2aDVCbktxeklwT3FRRG5qdm84NHJsQ2dGandiZFVsYi1QUkRFY2wwcmxnekhabEFJY2s5OUlKRXBUck1JbDMwOGM1UUd1RThVcFk5NFFr0gHwAUFVX3lxTE1tZmJYN3JacXVrTnY1RWsyNjVTdi1nbV9JZnFhZXNYS2JrbkdSRDdwLUFnQTk3Vkl2N1FtLXpRN0F5QllrMV9pUnBnalVqdG9ubUUzaWNoNERhY3RPUkVuQlV3d3Q2VGZLTjUwRUZFd2YzUDcwQkNiWnV5U0UtXzAxaDlQejJHbE9IaHhuSVJLbmxZYU5idkhINWNWM1FBd0Z4ZmxlUWMtczUxZ1V1V1ZfeUNjRHdxa1ItSl93Yk9hXzZZZklaV3Nqek13dGtMZzA3NFlsdnpJclFfNG1QZkFOM1o2NURvcXRuUWVhTkctWg?oc=5",
+      "snippet": "Swiss men take to streets, call for stronger fight against violence against women The Times of India",
+      "publishedAt": "2026-11-15T02:11:00.000Z",
+      "source": "Google News • Violent Speech (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

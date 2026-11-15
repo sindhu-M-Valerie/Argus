@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:38:27.128Z",
+  "generatedAt": "2026-11-15T06:53:53.375Z",
   "snapshot": true,
   "date": "2026-11-15",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -23,7 +23,7 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,35 +65,35 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 23
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "La Poste unit Maileva hacked, data of 22 million people stolen - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUgxanp1RkhjVE92TkR3ZVdMdzhDTFR3TVMycFd1ZW1ZVUtpLWtrMWVjVlFVSzM1Tjd1YjdobVZiOVlPTEwtLS1TclZ6WVpOektyZDZfSXUyQjF1M3piVkZ6WkloWEYzTHhhTkZtUGdWXzNET1BPTHlQUnQ5aC1NVk5aT1QwVzBhb0VBblFlTEF2S3dJZDdKRS1qQQ?oc=5",
+      "snippet": "La Poste unit Maileva hacked, data of 22 million people stolen Pasquale Pillitteri",
+      "publishedAt": "2026-11-15T00:08:39.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Health Ministry’s main systems, services unaffected by cybersecurity incident - The Sun Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnl2YUwwSGozMGlROWJpUUdIS3duWnVoQ2lqVU1yVDlPUzVpU0JoRDQwSU8yanFXTDFwOUtaeFdiSnNEcFVGc3dydHFHQk85VmwtQkh1bGMzMnUxZURocmQ0VE1DVDhDdkxYdExTam1GLVdXNG9ObHM5cy1ZblUzd0oyOXVsdm56ajMwU0pEaWlVVVRzdEZOay1DY3prUXI1eFd4STg2bThteFY4dVdGLWhhcUxyeS1jb0pUUjFiWUZ3TTdyT1E?oc=5",
+      "snippet": "Health Ministry’s main systems, services unaffected by cybersecurity incident The Sun Malaysia",
+      "publishedAt": "2026-11-14T23:48:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Microsoft Warns of Active Password Stealing Attack Exploiting the Microsoft 365 Service Disruption - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVmR0cFJ0Qm9NSjRfcjJRMWc2eExha05WZ3VlSk01MDMtZS1jTUlZakl5MV9QTk5TTkpmcEtWdUNNSmZ5YlJqa0U1Z0M2aGx3ajIyeUZLTGNDUGpLZUpfaUlyVUZVblJJcnowcG85TUJBQ3l3UTVfRFdRNjFWVUtycVZB0gGHAUFVX3lxTE00NTlJVW1oX3dKQ3RRaTBGT0ZrSTBIRmM4aV9PVzd5WkRzbkVBSTJxQ01vaUMxOENIN1RKZ0w5akFqUVlRb0NoTVZoX0Vqc2haMUV5ejJscXVmbUlJZjI1ZEZHYWVIYUlsbU40bmJBUldrTXoxXzgxZFR0SnZMYlpfWGowNWxlOA?oc=5",
