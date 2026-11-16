@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:59:55.047Z",
+  "generatedAt": "2026-11-16T06:56:58.212Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 4
   },
-  "message": "No verified news was found for 2026-11-16 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,56 +23,56 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 24
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 20
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,66 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Fact Check: Five viral claims about Deepawali, Rajnath Singh and Jensen Huang debunked - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbW56U0tyTGp4ekVhblFpZm5kdTMwUjZHSERNLU1vQXJVWXlPR2JiSHpVRTlxcmxMVENNaUpjbzEtVWFiTTg5UndpSWdoWXI4QkRhTHBJQnlqMDE0WTZYQU5yNVByLWlYNEQzU1JWVzV4RzFOa1QyaFdkX1NGcjBYbVd2a3BmUFBXM3NOUklidFY0enI1OGd0a1FiSGNUY0ZDTmU5aHBncGFScTdlNHZQZExnT3k5MW9aTXdzRVVrUk90Szh6YmhHZzJnQmLSAdIBQVVfeXFMUFFJUGstYkF5ZTBNeDVWV3JmWTBUOGJDcVF1SEpXU1ZCd0NXMTVMbXFHOTVFQjJoWWxZeWU2LW1jVTl6MF9qc19PVGtZbnZfd0Q4UFkzWHVHbE9SUzA3RloxMGw4ZmV6QXRGTVM5a2tsODlMajRndVBpRVRJZE5lWEx1eFhta2Faa2lLZnVuMXpBOHZucFdwYjFSWXhNQ3ZkdVdPN0Q0OTJ0LUlKZDViemV1dHUwdE05dFZxNjctZmlFYzlHVk5PSVJBY0c5YUprdkZB?oc=5",
+      "snippet": "Fact Check: Five viral claims about Deepawali, Rajnath Singh and Jensen Huang debunked Organiser",
+      "publishedAt": "2026-11-16T03:35:55.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Ex-Indian Army Captain admits to lying about his nationality in US court? No, find the truth here - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTm5kWjV1V3pwVklMRWpzemtNQXNNWkE0dUJPVUIyNlc1eFFqbGxrenRTZURUSTZoTUc3TEJiNUVNaHVhaHVuZHlrdWtIaHpMR0ZSaEFrV0JKTUNzS0dNa0tmRGM1RjlickRVTXMtcDJYTkdqdzNHN25lNzZiSEpBX0pqN25hdVRaWmlNOGhRSjY0eTB6dHR6QjlFbkplMkNwSUpvQlNhMlpaZ3BlTmtqWVBERjBGTXdOeE83d3U0U3pZSkk1V3NEUjAxeFVudk5MQ0lMbHhKZUhPMTU1ckE?oc=5",
+      "snippet": "Fact Check: Ex-Indian Army Captain admits to lying about his nationality in US court? No, find the truth here NewsMeter",
+      "publishedAt": "2026-11-16T06:33:29.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: Viral social media post falsely claims Trump urged Americans to stock up on 90 days of supplies | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVzk3aWVjZFFjZ25PN3NKZnJlbm90MjI5NmhBMXc0TmFUdHNtbEZlTUNKS0IzUlpaTldnX185TmYweUdOTXlSeEJvaU5TSXhLTnRhRmVpdFlnbmF5ekZqejRDZE1jVTAtWFNfcTNWUi10NG5pdDkxcmRUYWl4aGdmc3otQjJmRXAxa3B1WHNCM2ZNR25HTGF1Q2E1LVc3R3dVY2w3WkZ0LXpTZHlOdzdvZWdPTWRMVGs0a1c3bEJKaDdvYmtjTjc1WlRMRHBMRmlTX2lyQjlYM2U4bURKUm9NbWJ3SXVrY2dvY0VTVTdOWlVkRXdzc2tMUGZDbmZCOTQzVlVaRXZuaGjSAY4CQVVfeXFMTjRKQ2dDRC1DM0NGNl9FaGhtaFBjZWRvLUcwaFh1aUp3WEl4UTM3VWRLbzZwY3JhRFN2aFF1NnpWb2hyVERkYnAtSzFpeTZfZTJvZ2FHV18wVTVURUN6anpsVG45ejZTQWc2b1NsZlg4NlpNT1QyMXNjZFBlZnI3WmhZUFd5RENUaHJtVWdRa1dESWNocGxQX0xnN2FNODlNNklhZEZhRXlYZTJIa2V4a0E2eENOU2RvX1RCN0ZjSlJsWnUzZVo2OHhucS1XWmJ0Wi03blJ1d2JjMVROLXZmXzZfY3B0cHNWU3JRdmNPbXAxUWNfOXdUb25fSGRBdG5xdjRfZEZIME5BczJacURn?oc=5",
+      "snippet": "Fact check: Viral social media post falsely claims Trump urged Americans to stock up on 90 days of supplies | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-11-15T21:13:39.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US Rejects ‘Quad On Life Support’ Report Ahead Of Manila Summit, Calls It ‘Fake News - ABP Live English",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDJxY29pQ0JKNmdkZnFiNWZzZXNYSFRkNWV6emZ1S0dZdlh0VzR3aHhyN3hYVDk4T3VaR1hQYWlFVWtVcVV5RDVaaXRGRG95T2h1RGg1Yk1Jb1hiTWJpR3hUNWZoLVJWOWtoenpwSTd1V1dlT0MwaWdHdEJJSHRoR1lHOVZJekpyd0ctQmJRc0t2VmFJdS1pRTBSVnRZQko2ZC1GRkN0aEIyVHVmeE84NjBySURyT084Mk9NR05kTTBKbmlOdzFWcDZ2dzc2MmJRXy1mbENKTllpQdIB3wFBVV95cUxPR0p4c3ozbzMyS1NxNFJUeFB5eVF0WHBvM1psR1dPUm83VWZ5elBSMlRid1c1U3N2MTBLZUt3Yk9UOHc2STMwN2UzYVYxNHpNNnZDUnpkOFQwVktsbHpIcUc0VHJLOURsRUstdUJGc1k0ZzVaYjh2QkYwbnhVWXpOQ2J6NG1tUlAzNmZMRXVxclE0TGVTMUIxTnNKV3dXY0dnb3NsUEpBc1E1ckQ4WHlfcGJ0dmxhV0plQzFxV0h1RHBQR3piN1hCb2FoUHBobXA5YXNjYUNmRDBEdnFLbmJJ?oc=5",
+      "snippet": "US Rejects ‘Quad On Life Support’ Report Ahead Of Manila Summit, Calls It ‘Fake News ABP Live English",
+      "publishedAt": "2026-11-16T05:55:13.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

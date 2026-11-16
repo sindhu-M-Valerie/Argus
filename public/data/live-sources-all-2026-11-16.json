@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:59:55.047Z",
+  "generatedAt": "2026-11-16T06:56:58.212Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 16
   },
-  "message": "No verified news was found for 2026-11-16 on the selected topic.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,56 +23,56 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 24
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 20
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,246 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Fact Check: Five viral claims about Deepawali, Rajnath Singh and Jensen Huang debunked - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbW56U0tyTGp4ekVhblFpZm5kdTMwUjZHSERNLU1vQXJVWXlPR2JiSHpVRTlxcmxMVENNaUpjbzEtVWFiTTg5UndpSWdoWXI4QkRhTHBJQnlqMDE0WTZYQU5yNVByLWlYNEQzU1JWVzV4RzFOa1QyaFdkX1NGcjBYbVd2a3BmUFBXM3NOUklidFY0enI1OGd0a1FiSGNUY0ZDTmU5aHBncGFScTdlNHZQZExnT3k5MW9aTXdzRVVrUk90Szh6YmhHZzJnQmLSAdIBQVVfeXFMUFFJUGstYkF5ZTBNeDVWV3JmWTBUOGJDcVF1SEpXU1ZCd0NXMTVMbXFHOTVFQjJoWWxZeWU2LW1jVTl6MF9qc19PVGtZbnZfd0Q4UFkzWHVHbE9SUzA3RloxMGw4ZmV6QXRGTVM5a2tsODlMajRndVBpRVRJZE5lWEx1eFhta2Faa2lLZnVuMXpBOHZucFdwYjFSWXhNQ3ZkdVdPN0Q0OTJ0LUlKZDViemV1dHUwdE05dFZxNjctZmlFYzlHVk5PSVJBY0c5YUprdkZB?oc=5",
+      "snippet": "Fact Check: Five viral claims about Deepawali, Rajnath Singh and Jensen Huang debunked Organiser",
+      "publishedAt": "2026-11-16T03:35:55.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coles admits Cyberattack but denies any Customer Data Breach - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElyU19EUDhUdnE0cnV4OGk5eHZydWE5Y3BGNlh1eEk5YlFQUThubEtDMEY3NDdZVVdRdTMyTjZGY3hXak10anVodUk1YzZCMk1JZk40QVZLZ0dDN0pqRFJ0cmhtcEk1N0JDN1c3M20wM3BJWnZZNDBSVzZWejYzdUdTV3VMVW5QSTdJZXFyWnVONEYwNE9CQ3hZV1pMQS1NTXc?oc=5",
+      "snippet": "Coles admits Cyberattack but denies any Customer Data Breach Cybersecurity Insiders",
+      "publishedAt": "2026-11-16T05:28:17.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Ex-Indian Army Captain admits to lying about his nationality in US court? No, find the truth here - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTm5kWjV1V3pwVklMRWpzemtNQXNNWkE0dUJPVUIyNlc1eFFqbGxrenRTZURUSTZoTUc3TEJiNUVNaHVhaHVuZHlrdWtIaHpMR0ZSaEFrV0JKTUNzS0dNa0tmRGM1RjlickRVTXMtcDJYTkdqdzNHN25lNzZiSEpBX0pqN25hdVRaWmlNOGhRSjY0eTB6dHR6QjlFbkplMkNwSUpvQlNhMlpaZ3BlTmtqWVBERjBGTXdOeE83d3U0U3pZSkk1V3NEUjAxeFVudk5MQ0lMbHhKZUhPMTU1ckE?oc=5",
+      "snippet": "Fact Check: Ex-Indian Army Captain admits to lying about his nationality in US court? No, find the truth here NewsMeter",
+      "publishedAt": "2026-11-16T06:33:29.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI Misuse Fuels Sharp Rise in Child Sexual Exploitation Reports Worldwide - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcDBnUWtZVjY0TXNOenJfa19JbWdJYXpZdEJyQkxpNTFQNDMwM1BBeE9QNk41MWJhczVXMHd4Y1MyZUNtYUxGVlhFYVVNTF9vcm5HNFZDajllOVV2T0pKMWdhcXhPN2M?oc=5",
+      "snippet": "AI Misuse Fuels Sharp Rise in Child Sexual Exploitation Reports Worldwide The 420.in",
+      "publishedAt": "2026-11-16T03:41:18.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: Viral social media post falsely claims Trump urged Americans to stock up on 90 days of supplies | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVzk3aWVjZFFjZ25PN3NKZnJlbm90MjI5NmhBMXc0TmFUdHNtbEZlTUNKS0IzUlpaTldnX185TmYweUdOTXlSeEJvaU5TSXhLTnRhRmVpdFlnbmF5ekZqejRDZE1jVTAtWFNfcTNWUi10NG5pdDkxcmRUYWl4aGdmc3otQjJmRXAxa3B1WHNCM2ZNR25HTGF1Q2E1LVc3R3dVY2w3WkZ0LXpTZHlOdzdvZWdPTWRMVGs0a1c3bEJKaDdvYmtjTjc1WlRMRHBMRmlTX2lyQjlYM2U4bURKUm9NbWJ3SXVrY2dvY0VTVTdOWlVkRXdzc2tMUGZDbmZCOTQzVlVaRXZuaGjSAY4CQVVfeXFMTjRKQ2dDRC1DM0NGNl9FaGhtaFBjZWRvLUcwaFh1aUp3WEl4UTM3VWRLbzZwY3JhRFN2aFF1NnpWb2hyVERkYnAtSzFpeTZfZTJvZ2FHV18wVTVURUN6anpsVG45ejZTQWc2b1NsZlg4NlpNT1QyMXNjZFBlZnI3WmhZUFd5RENUaHJtVWdRa1dESWNocGxQX0xnN2FNODlNNklhZEZhRXlYZTJIa2V4a0E2eENOU2RvX1RCN0ZjSlJsWnUzZVo2OHhucS1XWmJ0Wi03blJ1d2JjMVROLXZmXzZfY3B0cHNWU3JRdmNPbXAxUWNfOXdUb25fSGRBdG5xdjRfZEZIME5BczJacURn?oc=5",
+      "snippet": "Fact check: Viral social media post falsely claims Trump urged Americans to stock up on 90 days of supplies | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-11-15T21:13:39.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US Rejects ‘Quad On Life Support’ Report Ahead Of Manila Summit, Calls It ‘Fake News - ABP Live English",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVDJxY29pQ0JKNmdkZnFiNWZzZXNYSFRkNWV6emZ1S0dZdlh0VzR3aHhyN3hYVDk4T3VaR1hQYWlFVWtVcVV5RDVaaXRGRG95T2h1RGg1Yk1Jb1hiTWJpR3hUNWZoLVJWOWtoenpwSTd1V1dlT0MwaWdHdEJJSHRoR1lHOVZJekpyd0ctQmJRc0t2VmFJdS1pRTBSVnRZQko2ZC1GRkN0aEIyVHVmeE84NjBySURyT084Mk9NR05kTTBKbmlOdzFWcDZ2dzc2MmJRXy1mbENKTllpQdIB3wFBVV95cUxPR0p4c3ozbzMyS1NxNFJUeFB5eVF0WHBvM1psR1dPUm83VWZ5elBSMlRid1c1U3N2MTBLZUt3Yk9UOHc2STMwN2UzYVYxNHpNNnZDUnpkOFQwVktsbHpIcUc0VHJLOURsRUstdUJGc1k0ZzVaYjh2QkYwbnhVWXpOQ2J6NG1tUlAzNmZMRXVxclE0TGVTMUIxTnNKV3dXY0dnb3NsUEpBc1E1ckQ4WHlfcGJ0dmxhV0plQzFxV0h1RHBQR3piN1hCb2FoUHBobXA5YXNjYUNmRDBEdnFLbmJJ?oc=5",
+      "snippet": "US Rejects ‘Quad On Life Support’ Report Ahead Of Manila Summit, Calls It ‘Fake News ABP Live English",
+      "publishedAt": "2026-11-16T05:55:13.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coles probes cyber security incident as Woolworths customers report digital gift card fraud - Australian Cyber Security Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0MzT1pxX0phWGloVjhIWVhyV3JLOV9XcmZ1cVZRd2d2VEtWTHBwb0NmSzFwSWZBaU1XYmdUSUliZ3YybkFxNmI2MzJSVzUzd2UtMy1MdGxvRV80X09RbmhHWHFENDdTaWViSmxmdVlWT0JfRGRpT0dKTk8yWmdGY1hOQnVoTTE1S0F4UHhGd1JzOTBERlZfbVluZzVibFJ4T3J4LTRkUEg0NTN0S1dzdEVhTklkcC1sTEpiRURYbXBza3VreXNBcm1Ia3dJeEh3LUk3YmpR?oc=5",
+      "snippet": "Coles probes cyber security incident as Woolworths customers report digital gift card fraud Australian Cyber Security Magazine",
+      "publishedAt": "2026-11-16T02:07:41.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "RBI Pushes Stronger Safeguards Against Digital Payment Fraud - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XQTRBUG9mY0N5RG5lbDdpdTNva0VESXdJVzY2R0J5VUs1bDl0OGFtX0VHejJta0VTME9fM1NlcUVqVFhkMVlrSldRaVZMRW15Z3pWZVJ6cm5QOTNvOFZIMDdySHBYZ1JCYVE?oc=5",
+      "snippet": "RBI Pushes Stronger Safeguards Against Digital Payment Fraud The 420.in",
+      "publishedAt": "2026-11-16T04:11:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Aussies warned over Microsoft outage scam - Real Estate",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM25WQ0dfcktBbXZOc09YdWlzaVZtRl8xNFhueUZNdlpVUTdJcU1tWGJFOC1ySG1lcFU2SnphSE1TTGFOeV9UUE1PZjRnNlBxVjFtMUNnM2F6SWtxdkM2V2JYNU5oZmhTbjU3SS01azA3Ry1oRi03X1I4NU5ZY1RmRW85Wkk?oc=5",
+      "snippet": "Aussies warned over Microsoft outage scam Real Estate",
+      "publishedAt": "2026-11-16T02:13:18.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysia Scam Prevention: Mandatory WhatsApp Identity Verification Under Study - Batam News Asia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1FHTkJ3a0E2Sk45REJkMXNIcEVJUjJlWG1lN1M1T0pfNkZVRXQ5Umh1cWJfRGZKNHI4ZTgyc2NpY1RPWGVuZEZVQTV1M21HWXV4ZHVLVjBQdnRYNFFwY0FDUTlNZFlPYkVfRzF3LU9RT3NLaGRKZnN6Z01OaUFqdVN4SjNvWDB3RHhoelBWNUJPQ3B4M0VDMDN1Sk0weTg2NG5CMGpSY0RfWTVwZjFQTm9SQy1RZw?oc=5",
+      "snippet": "Malaysia Scam Prevention: Mandatory WhatsApp Identity Verification Under Study Batam News Asia",
+      "publishedAt": "2026-11-16T02:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysia mulls mandatory WhatsApp identity checks to curb scams - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUd3U21DTFZxVUhybzJncTdGaF96bi1XX0RPTDF1SnYtdVh3VkxMLTg3RDFOQXRDWWdSb1owOHlBU2EyMV9ZdVJoUVBzclZ4R2thbVdXdEh1VnpjZjNQZkd0eFdIUWdSN3dTd0JtSHp3d0g4SGs5N1NBMVN5YjYyTWZEMWg2aFpXQzdNaWgzNlZQVWJrRG1oQlVhNkVoSmNDbHM4OEVSWjhldXd2Z21GbXU4a2JTZWNIaV9oaUJ5WdIBvwFBVV95cUxQNXR4dTlEZm95NmhvRS1lWkJocjR2RjVURmM2WFJQZHhqNy05RnZRYzVDV0t4WHp1N3FiVTdCX3g0b3l0VGJqTlZib1c2SHBlR0hFSm9lQmU3M3BqQkJjcFdXWWlzcEkxa0s0c094TXFTZWhrUGVHNFVXd0RZMldnSmJxX1FGNU0tYVNaRWZPYUtTeld5SmxvZHVxd1NzaU91bkdJbUFvMEV5bHhqdDZuenNERHluZDdlWUNXcTZVMA?oc=5",
+      "snippet": "Malaysia mulls mandatory WhatsApp identity checks to curb scams South China Morning Post",
+      "publishedAt": "2026-11-16T01:02:27.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Yalda Hakim warns of AI video impersonating her - Journalism Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHJTQkRaeFk3amtPeU5yMjhVeVV5am43SlgybVpJUXdsRzRoSW9GNU90Z21ZZHNZLWdxamctdmJ0VXZ3X1JGRm0wOTRPSWJhMWQ5d1NhVDNGN2pOUS02YXplSnNjbWZxYVNDTHNzajYtRU9yLVJXZzlzRXRRN1RyMFkzMDVFMUNhWVE?oc=5",
+      "snippet": "Yalda Hakim warns of AI video impersonating her Journalism Pakistan",
+      "publishedAt": "2026-11-15T23:45:34.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ghana records GHS209.7m in cybersecurity losses in nine months - MyJoyOnline",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVS1YaFllV1g1Y1ZPVGtFcHNtSnhzMzFxSEptS0wyWFMwNUJvNlpRS1Q5dzZqdy1VZWVVa0V3Rzd5cGFwd2Fob1hxQ05SdVh3elNHb0MtcnBWMmdyVzBDYXhnc0k3ZHBmaTVKMWlGVDRMZnEyWGVLOHJYRUVmNXdubklBTGI2MEV2dG8zanNCRFdBZFBLTkE?oc=5",
+      "snippet": "Ghana records GHS209.7m in cybersecurity losses in nine months MyJoyOnline",
+      "publishedAt": "2026-11-16T05:07:10.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Research estimates 581,000 Australian children face online sexual solicitation each year - Australian Cyber Security Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTFfaWZGTHJaUXBKNjdhWi1FeWdQY0djTU96ZWk3WDhsVzF6MTliQjNjdWpaelIzelhEWkpJMDF1aWg1bjRIdGtjNDFqSkRrNXRRRlNic3JFOUExRUhqcDBmU3ZBUWswcUo1WWQ3N2l3clVKOXBKc1hVV2lSajlFay1sTlN3VjlnUEllS0tDUDRDeW43Y0FWOGIxV2V4bmRjYnpCeFd5WFRjQTRVWkw5aVdiYXNMai1sZmtSbU9iVkU1SDlpbTlnNkdlWGNhdllQ?oc=5",
+      "snippet": "Research estimates 581,000 Australian children face online sexual solicitation each year Australian Cyber Security Magazine",
+      "publishedAt": "2026-11-16T02:04:26.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Gabriela-Youth Davao has expressed solidarity with women students of San Pedro College (SPC) who were allegedly subjected to sexual harassment and objectification by their male batchmates. In a statement, the youth organization alleged that five male st - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZFNTejNtcmlwWEpSZlRyaXFNQVFZZDRScjdvTXpWdmRJbC1RYW55M0hPWG11NElqVk55cXVkSDNoWDdmWU10M29zU2FWMlFPZDhoYTJMQWZTSVZXMjBRZFlxT205eF9fdlo3RlBNakxOZGVNYURwQ2RVcTRkWllfOVN1YTNpUnFybGNDcW8td2dPUS04NkFSeEdDOG5QcFF6SG15bFVLd0NNSG9RY1BjWXYydm5INVQwMktDSjc0QmxBS003U3NWTXVpVmNpODdEaVV5clM1blJ0bEJqUDA0?oc=5",
+      "snippet": "Gabriela-Youth Davao has expressed solidarity with women students of San Pedro College (SPC) who were allegedly subjected to sexual harassment and objectification by their male batchmates. In a statement, the youth organization alleged that five male st Facebook",
+      "publishedAt": "2026-11-16T01:17:36.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AO3 Security Incident: Do GDPR Breach Rules Apply? - Diplomacy and Law",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kbWxlYkVJSmxGVWRLcGVqb2E3ZHlNMmhfSXhSWG5RRmZZODZVRXQ0SXd5R2JfbDFOM2Q2djhUdXVESXFnbGVNcGNUdFdNVl9HNk1lMzdib1ZwanZ0dGdvXzRFc1pIYWVQS2c?oc=5",
+      "snippet": "AO3 Security Incident: Do GDPR Breach Rules Apply? Diplomacy and Law",
+      "publishedAt": "2026-11-15T18:59:31.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
