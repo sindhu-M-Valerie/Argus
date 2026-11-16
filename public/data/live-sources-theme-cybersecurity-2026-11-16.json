@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:56:58.212Z",
+  "generatedAt": "2026-11-16T22:24:35.389Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 17
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "online",
-      "itemCount": 33
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,56 +37,56 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "online",
-      "itemCount": 41
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 49
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "online",
-      "itemCount": 24
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "online",
-      "itemCount": 20
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 33
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "Google Reveals How Hackers Are Using AI Agents to Automate Real-World Cyberattacks - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDMkFxZmtFOWNSS2xhS1BWVm5WS2VvU3JlR2hVM3F4X3YxOUs4S1BUbU5CdnI2ME1VbE8yVDBGOFZrckhpRC1pbXNycndpMnA4eDZtZWJtellRVC1Qbjh0TGJKU29nbHMt0gFuQVVfeXFMTm1nRFJwZk51TnA0bFNzaXFjLVNtV0ZFemljTWVxdzB3Zk1sUDh3MjZVU1cwVDhFVDJrWENwQTgwRWtfWVU4cm9hVXFlNVk5bnR6RFdRUjUxYXdyTVpFN1F4blRHdVgtTDBwQWgzY2c?oc=5",
+      "snippet": "Google Reveals How Hackers Are Using AI Agents to Automate Real-World Cyberattacks CyberSecurityNews",
+      "publishedAt": "2026-11-16T16:00:52.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australia's Supermarket Chain Coles Investigates Cyber Security Incident - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16SDBkakFHWVVXb1Z4akZFaTE5S0xoSV81eWZta3dmTEV1R2JCTk9FS1FRVEw4dXotOXVPUFllelczcG12TmxHZFBRczcwRERpa1U5ODBUaEVsMDVrYmFuVTQyd0VINE9BZDV3TGxGYW15UWdxNjhmZklMQ3pBQdIBgwFBVV95cUxNWUJUTjRxOVFERURoZjJ1SFNIc05vRXpQc2p6NWxiTHhxWVFjWjdONlVTcUtBWGZxMGk0NmN0aS1UcDYzZHNkRUtKSHlFelhaNC1yUENZajBPNjNsMGF2X2pzS1dEMEZ3YlJtS1JYMHR5cWJPQUdaOXFzZzhvbVEyODNQZw?oc=5",
+      "snippet": "Australia's Supermarket Chain Coles Investigates Cyber Security Incident CyberSecurityNews",
+      "publishedAt": "2026-11-16T13:23:22.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Coles admits Cyberattack but denies any Customer Data Breach - Cybersecurity Insiders",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElyU19EUDhUdnE0cnV4OGk5eHZydWE5Y3BGNlh1eEk5YlFQUThubEtDMEY3NDdZVVdRdTMyTjZGY3hXak10anVodUk1YzZCMk1JZk40QVZLZ0dDN0pqRFJ0cmhtcEk1N0JDN1c3M20wM3BJWnZZNDBSVzZWejYzdUdTV3VMVW5QSTdJZXFyWnVONEYwNE9CQ3hZV1pMQS1NTXc?oc=5",
@@ -208,6 +238,156 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coles investigates cyber security incident - Forbes Australia",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGhlSW9nZXhrUDJsRHUxYmJLRFo5V3pqUWpoS0p3TXpwaG9SMXFFRmtrRXhTUGlBamNFMzZ1SHBWaDNzTGRRSkhqM0FzM0liekFKWE9XazhPZU55cTRHN25CbTBiUHI5QnhoUmMxX0pxMmJmRFprQmZHOHNqanpDd01ObnRsQ2thcUFYYlNR?oc=5",
+      "snippet": "Coles investigates cyber security incident Forbes Australia",
+      "publishedAt": "2026-11-15T22:44:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Expedia confirms data breach following supply chain attack - SC Media",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVjd0ODdiS1otUDVYSVBiSm5Sck9Wemp0QXYtYml4dkl4b2tZNnRBd2szSF9DcC1LbVVOM1NCV2p1dGxvcXdMYW93Wks5TnVLSXlFZXp2RklfSjNyR1Zvb0xKS3A1TXZQVzc0bE5RUmpSTm9YWkpqMWlEOXRBNjJXMi1Fb0loRjFDTDFFZlJoUldOQQ?oc=5",
+      "snippet": "Expedia confirms data breach following supply chain attack SC Media",
+      "publishedAt": "2026-11-16T17:31:04.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AT&T $177 mn data breach settlement: Who qualifies for payouts? - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSFVIclk1bUp2WDRhLW5Kc0RCTk5HaE9MOS1lc2dRNnF0Vkdvb2JQbEZsbkM4V2Y4UVhmX3RFX19sWjJoTl96SGtZeTZvM29NdmFMVG9GbWIwWGxGay0waUwtR2xQckZCS0oyQVZ1RjVYNHFFYWxUZHB5cVlmaWpBS2hPMHRvQQ?oc=5",
+      "snippet": "AT&T $177 mn data breach settlement: Who qualifies for payouts? Beinsure",
+      "publishedAt": "2026-11-16T17:27:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Uber data breach exposes thousands of drivers’ license records - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGZ4RzRtRXJGRmpMbjlNekxJbTZRaHgzV0xiVnhINnltb2RoeUkxMDQ5SVplcEZ2NURZWGd2SFNJd3ZUUTMwWm96R3d3UWN6cDJyNXI3akZlbkZUQzRwcWkwcXQ4dk5zVUItMG9VVGVXRTZHdmxfak5RRm5ELTdpTDhsX1NZXzh4WHpEVU1tSUQ5dw?oc=5",
+      "snippet": "Uber data breach exposes thousands of drivers’ license records Beinsure",
+      "publishedAt": "2026-11-16T17:21:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kelley Information Technology Launches Völva Endpoint: Four Cybersecurity Plans for Small Businesses - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdE5PTHdNdEZoSHZpZVBmZHFicGhNX0IyNXdoa2E3b0xzRVhZWW8tRkZ0Qzdkdng0WjBWYXlGS1JCTkptVUpBZzNZT0gyYi1GbkFPdmlBNDRVQmxvdTVLTldMUTNBckQwT1NIUXhNSlN6OE00bHkxalNBM2lfTTljbkdPaEdHTFdoQzRNekVmdldxY25fSDlTRnJVQldUSW95RmlIeWItem1tbEJrSThFQW94cmtRTmJMT3ZqQkE3bEZqYW9DTHN6anNnX1VvWHRwcGt3c2tlYi1CWXJlaWVZYmF6X2lucVcwRk11NnNNYWtIVnRQa0FnWE93?oc=5",
+      "snippet": "Kelley Information Technology Launches Völva Endpoint: Four Cybersecurity Plans for Small Businesses StreetInsider",
+      "publishedAt": "2026-11-16T15:59:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coles supermarket cyber attack: Australia’s retailer investigates security breach - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXpFc19rczVHUHdEdjRyQ1NRNnl2andUaEV6UUdjVDUzaVR3SmtZSU5FR0VKQnpNTjd5Zm83SV9qaU1mN3ZIUXZZRGU1M1l5clpzMjNEYVFlWGo2RThRR2dleXdVSThYUjVwcmZVYUY0NVdTUTNuSmF3d1E0M3F6eHZtTXhUaklLMFE5dV8yUm9DcC1DT3E3RjhYSQ?oc=5",
+      "snippet": "Coles supermarket cyber attack: Australia’s retailer investigates security breach Beinsure",
+      "publishedAt": "2026-11-16T15:04:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Data breaches 2026: 10 familiar brands caught up in leaks - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zZW9hTjFUOW1KM2JXNUMyODhTemZtVmxKR2tQYTlOd0ZvQThZc1hZMTd6VDVMZEFNd193enQ1M1ZPOG5fOTJmMzVvM0I2RGpaVmJPcGthejVNMVk?oc=5",
+      "snippet": "Data breaches 2026: 10 familiar brands caught up in leaks qz.com",
+      "publishedAt": "2026-11-16T14:45:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Japan Reports Record 233 Cyber Incidents as 185 Million Personal Records Are Put at Risk - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GVEJIdi1EQ2dadVdXakE5eUNJMmNRRFQxeE1qQXpzWHk2Z1ViSWdWWVJidFAxZmdWR1gzRHZ1eTlQbVRodkh3ZGxoOFhETU4ydFA1YXdRYjJ1UTRJOWM00gFkQVVfeXFMT2V3VEpMREVZMHdibFpyaW5TOC1oemFZbWRXLXZYRW9iQmxzOG1aS1Y1b29EbDlLWGhuWlNTSW0wbjdiUEgxTndzbXdDZGE4WWhmX1J4RjcxcjY1cWl6ZzZ2bnNaVA?oc=5",
+      "snippet": "Japan Reports Record 233 Cyber Incidents as 185 Million Personal Records Are Put at Risk CyberSecurityNews",
+      "publishedAt": "2026-11-16T09:58:17.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hong Kong Metropolitan University reports data breach affecting 5,000 people - The Standard (HK)",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaE1RMDZTQjM2Y3pnWFNqZ3kxUy1VMzhWN21PX29GbXlEU0JUYTJ6aV9HbHpQNE1WOGFNdnJITEZvZ3hQMmVVeTRIZVMtVFhiSlJzaTMyZnFwcHZHelZaVi01RmRSYWhaTzRFQU5Bdl8tVUlzeGJKYUFVWG8tbVlxbE5fOHY4M0hod3Z1QV9iT21Ca1REeVhPR0E1RDhwUlcwdGFYR2ZfcjVZSTUyUnYwS2Vjc1RkdHpualB1eTJaYWVQVGMz?oc=5",
+      "snippet": "Hong Kong Metropolitan University reports data breach affecting 5,000 people The Standard (HK)",
+      "publishedAt": "2026-11-16T08:48:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "What the ASOS incident reveals about the reach of stolen credentials - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYTczZVZzLWZCRF9kM0FoMldLcVl4V1hUUFZ5MVNtR2RSZm9XLXVzanh2U1laX2dSU0F2QnVGYWdudkRJUVZwY1Q4MFhBbFVLRmgzS3JPSkJrcFVkOVpVNXIzOXhtc2tnSF9vUnhuZlRmaGlpMUczLWtKMG1QRmdkWlZ6amdtbWZIWFBmTGt6WHR1dE5ZSks0Y3VHSS1EVXZkbFEwNGdkbkpmR2RL?oc=5",
+      "snippet": "What the ASOS incident reveals about the reach of stolen credentials Cybersecurity Insiders",
+      "publishedAt": "2026-11-16T08:02:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

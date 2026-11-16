@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:56:58.212Z",
+  "generatedAt": "2026-11-16T22:24:35.389Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "online",
-      "itemCount": 33
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,56 +37,56 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "online",
-      "itemCount": 41
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 49
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "online",
-      "itemCount": 24
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "online",
-      "itemCount": 20
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 33
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Thousands of children seek Childline support for bullying as online abuse rises - Belfast Live",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmlFTkdUN0ZfNnRFODFYbWV2anNpMHBFclJfX1JVZElCWmNrTWlXcDh4amw3ejNRNy1wY3I4YTVhRXdZVEl1OGs5Wm9UY0JQbm1qQlJSb3pabGdHZGpWeXRHbEgwZHZKYy13OGUyRXlXdWdXcGVpWkkzR0FTNnJmT1RreVIzck51dGlIWmtR0gGTAUFVX3lxTE41cXJQQWFVM1dhZ3poZXdQY3dlVzFOblE2M3RvYklMY1lHdUtxZjlVbXRUM0h6dHp3SDFiMnVlT015RDRLLXZzdElBQllpbmRyNnN4YktRWHU5ZFBPYldLZnE3LTNIenluWnpqaHBKNnpQRzA3SUFzZDItU20wR242UTcyTlRGTGN3SUhEczEzVm1Kbw?oc=5",
+      "snippet": "Thousands of children seek Childline support for bullying as online abuse rises Belfast Live",
+      "publishedAt": "2026-11-16T07:07:00.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Gabriela-Youth Davao has expressed solidarity with women students of San Pedro College (SPC) who were allegedly subjected to sexual harassment and objectification by their male batchmates. In a statement, the youth organization alleged that five male st - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZFNTejNtcmlwWEpSZlRyaXFNQVFZZDRScjdvTXpWdmRJbC1RYW55M0hPWG11NElqVk55cXVkSDNoWDdmWU10M29zU2FWMlFPZDhoYTJMQWZTSVZXMjBRZFlxT205eF9fdlo3RlBNakxOZGVNYURwQ2RVcTRkWllfOVN1YTNpUnFybGNDcW8td2dPUS04NkFSeEdDOG5QcFF6SG15bFVLd0NNSG9RY1BjWXYydm5INVQwMktDSjc0QmxBS003U3NWTXVpVmNpODdEaVV5clM1blJ0bEJqUDA0?oc=5",

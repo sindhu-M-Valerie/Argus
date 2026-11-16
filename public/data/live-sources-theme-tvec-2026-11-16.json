@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:56:58.212Z",
+  "generatedAt": "2026-11-16T22:24:35.389Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -7,23 +7,23 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-16 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "online",
-      "itemCount": 33
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,56 +37,56 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "online",
-      "itemCount": 41
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 49
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "online",
-      "itemCount": 24
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "online",
-      "itemCount": 20
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 33
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Poland detains three teens over 'terror plot' linked to neo-Nazi movement - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSkZxempaLU1tWWZmOF9rMTIta205SjhQTVRhd09YX3hPWkZYUm5lRVJldk1iaGN0OGdtUjJVUFNOY29DOFhTM0N6cnpfVndsOE9wZXBib3FOeDNydFFXWXpTdVBjeldaZ0E4MGxmbG04RzlRUzdkZW1UNzRYRW1wT2dlWHJVLVE2TzJHRVZ1aVQtLUluaVQycGpzaUJGVy1LbnBocU5xeEdFemZ2c0lrMmFEMGZkWUZwSlFIWXVUYUJEaDRYZlRKVy1LbkU2ZFRUaEdkMHpOUWZxdVN3X0hR0gHkAUFVX3lxTE8xSUZCTW9BaE9UWkkydFZBR0ZCZXRiUjVRQkRnOEZVLVBJTm5ic1N4Qkwtb3dRWGw4Z2FuN1loV0hrSnczSTQ3ajl6X3UxTkxMNlVJcFFLUkFYNkxoS1ZuYUppQ3QxT29sQkVfcUhTS2NOZE9MWlBiUl9ySFZGZXhsOGZGNWZTM1NIY3lvcVVScF8zdmRZRDA2VzVzMUhTWkl6SXlYYmJ3QW8xc0MzLUdlSUhpQVVmZjFYZFdEYUJPTnlTY04yRHhwaUZfRmZtcVJmd2lFczFUMDVtWTRFVmY2c3JGNQ?oc=5",
+      "snippet": "Poland detains three teens over 'terror plot' linked to neo-Nazi movement The Times of India",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

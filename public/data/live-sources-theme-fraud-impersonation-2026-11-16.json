@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:56:58.212Z",
+  "generatedAt": "2026-11-16T22:24:35.389Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 20
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 26
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "online",
-      "itemCount": 33
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,56 +37,56 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "online",
-      "itemCount": 41
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 49
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "online",
-      "itemCount": 24
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "online",
-      "itemCount": 20
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 33
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,231 @@
     }
   ],
   "data": [
+    {
+      "title": "UK fraud losses reach £1.28bn as digital payment scams rise, research reveals - IBS Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEt2OXZpM3h5MzdDTXNGMUlmQWF5dlg0YmJRRjBmX0U0ZjZBWEZxU3JWWjR5SUpZLVdjbmpoSU9qWlAtTVgwSC1LUV9CNXhXc2RoTENOMVVrZ2t4aDQ3cFRsVTEwdVRUcWtUV0R5d2pOQm5ERGRWS1JhVEVfUUhEZzM4QkFpWXF0NU02U3hfT2kzcVA4b19SRW1QYnBWQ2VPakd0M0JqMGh0RmRGeWpVX2x2NnM?oc=5",
+      "snippet": "UK fraud losses reach £1.28bn as digital payment scams rise, research reveals IBS Intelligence",
+      "publishedAt": "2026-11-16T10:21:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fraud & Digital Identity News – KYC, Scams & Verification - FF News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSHZHdFRlTDRqTnJJU2VmdzB6ajAyWDRIWHJXcW1VSnNHZTV5ZkppOHEtQnpxMnNOdERlYl94cHdVM3FjT3J3b0U2UHMwTkotZHpj?oc=5",
+      "snippet": "Fraud & Digital Identity News – KYC, Scams & Verification FF News",
+      "publishedAt": "2026-11-16T10:04:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysia Considers Stronger WhatsApp Verification To Curb Scams And MCMC Impersonation Calls - MYC! Malaysian Youth Community",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSS1rd2duMDJUVk40elNhOFltLXVzOWdYcUpRRXEtYUVqQ0tRQmx2Wk1xUnhwbUctejF0T1VULWdSS284ZmY4SjVMVkRYNDVfSU00dU55aGRyRVVYSG1qa3FTQzdzNWM3dTF4Nmg3aWYwQmIzSzJPbW9sNS1SRkdCQ2NXQi12dmNXSkxTOElwc3duZGlCTllPV0FNVmExRG5GRDRpWVMxdkNWS3lFa3JJa3lpYkw3aTVIUnN6MG1R?oc=5",
+      "snippet": "Malaysia Considers Stronger WhatsApp Verification To Curb Scams And MCMC Impersonation Calls MYC! Malaysian Youth Community",
+      "publishedAt": "2026-11-16T09:52:46.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "UBA intensifies fight against financial fraud, scams - The Nation Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1lnTjA3UGdtTGtTR0dRRGkyaW1aMXNXUlZlV1Flc0FGSVFrOE5XSEw5dmhCTGF1d2xFQmFBemN1NGlBdml5Rmp1UWpUNWh2bURiVFY2UWphdGotSl9wQmFLM1AxakQ5cGxnMFREYVlEZGlZNlFNZy0yNzRKMGRpYkNmQUh5M2MxVjllYWJBUdIBjwFBVV95cUxNX1lnTjA3UGdtTGtTR0dRRGkyaW1aMXNXUlZlV1Flc0FGSVFrOE5XSEw5dmhCTGF1d2xFQmFBemN1NGlBdml5Rmp1UWpUNWh2bURiVFY2UWphdGotSl9wQmFLM1AxakQ5cGxnMFREYVlEZGlZNlFNZy0yNzRKMGRpYkNmQUh5M2MxVjllYWJBUQ?oc=5",
+      "snippet": "UBA intensifies fight against financial fraud, scams The Nation Newspaper",
+      "publishedAt": "2026-11-16T07:51:27.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Deoghar Police Arrest Four Over Fake Customer-Care Scams And Malicious APK Files - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQThYVm9KbGd1ZVE5OGdvVTdhUjJLTE5paEM3Uy1mcnQwNzlTVllMVUQ5U2hnYlEyRTduTVZ4cGJBV1Q1V2FwVTdyZml6ekZIYlVEV2E4Qjc1UjNHZWpCNjJSNEIwTm5iclZkaGZieHRYUU4wN1IweUM1VlRjd3oydUd5VHp6X2twRnVEWnI1SmVPeHhJWlRHY2FmTTFhbUZk?oc=5",
+      "snippet": "Deoghar Police Arrest Four Over Fake Customer-Care Scams And Malicious APK Files The 420.in",
+      "publishedAt": "2026-11-16T17:32:06.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The FTC Says Older Americans Reported $3 Billion in Fraud Losses - Where Is the Money Going? - Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWlNHVS1Gd2VVTUJLSnZ5d3BMd0dkX1NoSkZwVS1STnJRRElBLWduY0VYUjJKVFloOWExSGxZSnVUdzE0TTBLSGZKQWdjYWNabHBVWkZnYnVUR3N5Z3RzMTNJTVN1WXNZRXlKQkh6VmExWkwxcEt4OHo4Z0QyVFJJMGtIQXBfMDUwaDFpVldDTDBjNEtYS0t1VWUwb2IxUThtNzdfa2x5VTVHb0QtMlFlNk1KUUxJcm9FT05GQ3hhVFJ2Y2Z3NnB5eGluZEtMZm8?oc=5",
+      "snippet": "The FTC Says Older Americans Reported $3 Billion in Fraud Losses - Where Is the Money Going? Big News Network.com",
+      "publishedAt": "2026-11-16T17:29:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Essex residents warned over five convincing scams that could cost you thousands - Colchester Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3o4NlN5RU5ROGhQLVJZUmxJS2tJRmhzVWVtNEF6ejR3Z3pTYUR2VXlESkxIN1V6NHZ1WmY2NTh3dGZtRk1WVmQ0Qk1BMU11akQxYVZwWFFVWlhobF9pZm1XZ3JFY243S3dJYVMtVkg1Tlc5NXFJTU5OWWlIcV9QS1A2UWpMMkVpYWJSTVVWVXo4WXh6SVJfTQ?oc=5",
+      "snippet": "Essex residents warned over five convincing scams that could cost you thousands Colchester Gazette",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-Powered Crypto Scams: 7 Ways Investors Can Protect Their Assets - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVlNnLW5ycWhzLUlySDR4dDlsazRSVV9RZm5SUTlNTnJQckVpQlFleHFzMGxSd2V3Ni1VOTQzZFNkaFBwOXhCZjFSbVVwQ20ydzB3UVo3NnFVRzFaOGE3RERCel9abFNlLThDSk9SNUlpOGFWSzJxTlJBZ2hCUjBRODFXWGNiUS13M1pBdzZSSmU4NHVtcE83bmMzeUhFUHFNaHFWUEpQMVlWbmJXcmt1SzFSRjZISEFicWNkOXplT09ESE1pTW16NUxLTdIB2AFBVV95cUxQSVRaUTFSQXBLMDBORWdjQWVVbGpLZ2NFeUhkbGhCaVhVWldONTRtcWdodi00aW16aFhEY0hZU2lYV3FlQVJ3Wlgyb3doVGJoc1pqenFMRFJPQmNaNVluUkpsNTdmc0ZXQ0ZNdVdYdno3aEx3ajJpSHNMaG1vaG0tQmtpRXFJRlpwUDVCWXphcy1JVWRSWFBzOEk0NUdhcTJVWk9LT1dOTXhyMDFaQzN1WXZYRjdiU19Wak94SUctdE1UR2hNelA0b1VyUHB3MmJXcENRZWhfOE0?oc=5",
+      "snippet": "AI-Powered Crypto Scams: 7 Ways Investors Can Protect Their Assets Analytics Insight",
+      "publishedAt": "2026-11-16T13:15:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Asean, partners step up fight vs online scams - BusinessMirror",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFl2ak9jdDFhMHBBdllsNjhxYlRzbzRGRVdmMzdrT2g1eGdJai03bDdJVlRsd25UbU4yWW1ZWEpnT1BlNEVPUzZkdVlTbmNQSUZCbWFSR0IyRDBsYnZHT1JzWDlxSnRJZURuMHFPYjZpR00wczVZcmw3TUlodDdJOGM0RHdMcnE4a3Uya1VSRQ?oc=5",
+      "snippet": "Asean, partners step up fight vs online scams BusinessMirror",
+      "publishedAt": "2026-11-16T12:54:41.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysia weighs WhatsApp ID checks to curb gambling-linked scams - Focus Gaming News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3BSTHVTMjhhb2Q3QV9sQ2hvNzBnZ2JUSGh5b2hrZ3drNE5hZUtsUk14TDZUcG9DUXNvMGZSNWdRa0ZSWHN2elFRTF84eEYyQVQ5SmpEMjF0NTRYVVRHUG16MWhIUGFUYjczZmh0ZHRiYXJSdHB2YldxekRYRTAzVDE3NEJQc2E2QTZRQlZyc0Fva1JLTHc?oc=5",
+      "snippet": "Malaysia weighs WhatsApp ID checks to curb gambling-linked scams Focus Gaming News",
+      "publishedAt": "2026-11-16T12:38:34.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malaysia considers mandatory WhatsApp identity checks to tackle rising scams - Newswav",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM09oR21ldFc2aGZvNXZUYXkzU0pPWWR0MFg5RU9hQ2EyWTRnTVVnNVJnT2tLclBaTktIYlIyd1NnZDdkcVlTLTI0dkk1akdqWm5xaXh4SlBYeklhcUloN1NnQWphdUQ4eHF0eVpkMWNQSmVUSS0xcFp1TXBSci1XS3k2cW0yZGc4Y25TTE1EYzZiX1E1WXgyN2M1blNtdl9mRlphV1kyV0drWG9GaHJCMGF5R3QxRms?oc=5",
+      "snippet": "Malaysia considers mandatory WhatsApp identity checks to tackle rising scams Newswav",
+      "publishedAt": "2026-11-16T11:04:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Banks becoming ‘default shock absorber’ for online fraud, warns Capital One - Open Banking Expo",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVVGLUlxTnl6b2o4Q1M3LTNSY3VIM1lkdmJfMFhTVWRkSTVOMHo3M0R0RHBwTVEzSUhOc1hxVmxWYmVkRzhsSmNfdGVrQlp1Y0praXhZTEpQYlhNdFNGbk9ZQWNJLVJ1dnVKZGkyYzVuemJFTmVfZnBXZWlmTVJsS1hLNWIya2phY29lNVJ0NkEtY2JnMkdnYW5waVhYT2NFOGx3RTB4SnNubzR1eXo4?oc=5",
+      "snippet": "Banks becoming ‘default shock absorber’ for online fraud, warns Capital One Open Banking Expo",
+      "publishedAt": "2026-11-16T10:50:08.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Coles Investigates Cyber Incident, Warns Customers to Remain Alert to Scams - CX Today",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVN1TDBrTWhhTHNWdWc2WHJYNUhYcXB4Q29HeVFsWUw4S25JdGZWLURuT1JERi1wMmo4VXgzNm05b0paRmdnWnlKZnFuZzJqcG1xaGhxR0YyVE0yNlBscDFUSlFEOFhxcnF6akJqRmItVWcydWhkeUhCM2V0YWczblpCbXY1R2t0WGRxLTB3LWNMM21CNG55OUNQaXFzb3BFMmx6a2d3Wkg3MHJ2OFNmZ3VITkk1NDNWbm1JMFFLQXhKYWNQd2c?oc=5",
+      "snippet": "Coles Investigates Cyber Incident, Warns Customers to Remain Alert to Scams CX Today",
+      "publishedAt": "2026-11-16T10:01:10.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How to Identify Legitimate and Fake Crypto Platforms: A Comprehensive Look at Scam Risks and TEBBIT’s Public Information - FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObjVQLUl1ZGdUeHVDdC01RHc2WWJKVDdhbDNyc0dpZzhGMTI4YlNtUHg4SWtVNVctMkFZRlpnb1p4NjBYWmtjLTN2Qkg2Mkt6ckJBRVl1X3p5WnYzVlJkZFdEODB4TV9vVERWNFo4SmZMVGpoRHBuZGFMT1cwTFJ0enU4a01SVEM3NGVpcUR6VV9wc1o0LWV1Tkwwbzk5SnRqRl9CRUQwTTZPUUpYOVZPQTFqRElnYnFYZzNiNmJORGlEcy1wMnFhTXlrcVc1N0NKU29EbldnQ3M4ZnBYeTVoQzg0NGc1aHhmdUZESmpCcUpzZV93aHRGV2M5Ukl4aW9LVTdaaUN6ZDVzcEx1NnQtenZISQ?oc=5",
+      "snippet": "How to Identify Legitimate and Fake Crypto Platforms: A Comprehensive Look at Scam Risks and TEBBIT’s Public Information FinancialContent",
+      "publishedAt": "2026-11-16T08:17:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Over MVR 600k lost in scams last week - Edition.mv",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VSUZiUjZGbXBnaldnanJzQWgyTVIwLTN1OGduckpadzd0WDdKRi1mWVZySVlFdTk5bnZxNkVlXzktQTA?oc=5",
+      "snippet": "Over MVR 600k lost in scams last week Edition.mv",
+      "publishedAt": "2026-11-16T08:05:26.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "RBI Pushes Stronger Safeguards Against Digital Payment Fraud - The 420.in",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XQTRBUG9mY0N5RG5lbDdpdTNva0VESXdJVzY2R0J5VUs1bDl0OGFtX0VHejJta0VTME9fM1NlcUVqVFhkMVlrSldRaVZMRW15Z3pWZVJ6cm5QOTNvOFZIMDdySHBYZ1JCYVE?oc=5",
