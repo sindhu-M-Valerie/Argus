@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:24:35.389Z",
+  "generatedAt": "2026-11-17T08:14:34.216Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 69
+    "total": 74
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 28
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,42 +37,42 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "online",
-      "itemCount": 26
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 29
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,34 +114,34 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "online",
+      "status": "offline",
       "itemCount": 0
     },
     {
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -231,6 +231,21 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXR4SkhrU2padlpuQWlHaVlnelo3UEk0U2Nnc09LcDdjanVSS1BxU1YtNlRDVUp5cnJZSzV0cVl4RkdrUWx0X2hUVnJFYjBTQmtGelVaWVZHWklidjAwT2NhdnNoRVlhaFdobUZPb05iQTlVVDBaRFVrMnZEZUVHVWtYVzM1ZGp5WjlnbmJ0TDZaa1RONXN4eA?oc=5",
       "snippet": "UK regulator orders tougher action on child abuse material Cyprus Mail",
       "publishedAt": "2026-11-16T09:55:34.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "UK regulator orders tougher action on child abuse material ahead of next year's social media ban - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTlZVNFpTa0lGNDZ0UUdkNklfblV3aWZwMWtzNmsySUsxRVROVzJDQkpCWURETV9XNm85SG5yQ2Z3MFc2UjNobnlQU3NDd2ZzbkwxS1c3cTF5REEwT3dfOVV6R1drLVFYdmx6RmpmaWZ3ZnBmVTdtWTdfb0U5cU00Y2ZzLXlvUmtrT3M3SHRiRnNkbjVIdzBMSFpBVksyZmQxRnItcDk2Y1Z2Mmp6bXl0SkRrWjVnSUFubkpfZUxXWnBldUNobGVRU2JNMmRJRzhVZFZOb1BlQnlkb3U1VG9sZnZhV18xY0h6TW9sa1RGY9IB7wFBVV95cUxQTlZVNFpTa0lGNDZ0UUdkNklfblV3aWZwMWtzNmsySUsxRVROVzJDQkpCWURETV9XNm85SG5yQ2Z3MFc2UjNobnlQU3NDd2ZzbkwxS1c3cTF5REEwT3dfOVV6R1drLVFYdmx6RmpmaWZ3ZnBmVTdtWTdfb0U5cU00Y2ZzLXlvUmtrT3M3SHRiRnNkbjVIdzBMSFpBVksyZmQxRnItcDk2Y1Z2Mmp6bXl0SkRrWjVnSUFubkpfZUxXWnBldUNobGVRU2JNMmRJRzhVZFZOb1BlQnlkb3U1VG9sZnZhV18xY0h6TW9sa1RGYw?oc=5",
+      "snippet": "UK regulator orders tougher action on child abuse material ahead of next year's social media ban Devdiscourse",
+      "publishedAt": "2026-11-16T09:36:51.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
@@ -362,6 +377,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "UK online platforms face stronger measures to detect CSAM - MLex",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVpVb202cV9YSHozR2hybFpVN0ZWb3BfWlFHOHA1Y1pPeWlEMlVpQWNQN1h3UTFLczA5YmR5SEl1b05WQk81SEc5NU40R2oyQjNOQzVFVm9UdDJiWldWaVd5N2MxUmJYdk1lVThGNFpzM1Ewa1BkX2VJUFlCOEljVEdnVmZZUTRzYkxsUHVkd2UwSGlNdE5rMUdBeHVCWGNobWfSAVpBVV95cUxPWmZkZHlHOEdvVmZVT1JJeDZocFZjVW5SSVhvem8xVEsxODR4VjM4MWNXWU53d2dQbTdfU2UyV2RNZVYtYnY1RlVyd24yVUYzaWpQREZKUFhteXc?oc=5",
+      "snippet": "UK online platforms face stronger measures to detect CSAM MLex",
+      "publishedAt": "2026-11-16T10:07:10.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "UK online platforms face stronger measures to detect CSAM - MLex",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZmRkeUc4R29WZlVPUkl4NmhwVmNVblJJWG96bzFUSzE4NHhWMzgxY1dZTnd3Z1BtN19TZTJXZE1lVi1idjVGVXJ3bjJVRjNpalBERkpQWG15d9IBWkFVX3lxTE9aZmRkeUc4R29WZlVPUkl4NmhwVmNVblJJWG96bzFUSzE4NHhWMzgxY1dZTnd3Z1BtN19TZTJXZE1lVi1idjVGVXJ3bjJVRjNpalBERkpQWG15dw?oc=5",
+      "snippet": "UK online platforms face stronger measures to detect CSAM MLex",
+      "publishedAt": "2026-11-16T10:07:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
       "title": "Google Reveals How Hackers Are Using AI Agents to Automate Real-World Cyberattacks - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDMkFxZmtFOWNSS2xhS1BWVm5WS2VvU3JlR2hVM3F4X3YxOUs4S1BUbU5CdnI2ME1VbE8yVDBGOFZrckhpRC1pbXNycndpMnA4eDZtZWJtellRVC1Qbjh0TGJKU29nbHMt0gFuQVVfeXFMTm1nRFJwZk51TnA0bFNzaXFjLVNtV0ZFemljTWVxdzB3Zk1sUDh3MjZVU1cwVDhFVDJrWENwQTgwRWtfWVU4cm9hVXFlNVk5bnR6RFdRUjUxYXdyTVpFN1F4blRHdVgtTDBwQWgzY2c?oc=5",
       "snippet": "Google Reveals How Hackers Are Using AI Agents to Automate Real-World Cyberattacks CyberSecurityNews",
@@ -385,6 +430,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "National Press Day: Vaishnaw questions if digital platform rules can tackle deepfakes, misinformation - Mathrubhumi English",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXlSdG5ESkw3MUFfTjZSOGhQRHNvOUo3R1VfOTJ4Sy1pOTE3dldqYm5XTFAxbDhsUy1wazA4NW9RQkVIcG5OaGJiNGwzRC1zRlRiLUdlQWlCcDdUcVkwSlNQTVZFZDJnTGNUZF9XdHJmWFU2Szk5OGNOQTdEUGljdW1ZbnpOS0h1aFBJekRpR3Z3RmZKWjJ1VWhmVE5PVTZ6ZnhidXc4V3lrVDI1Ny1EZ19n0gG3AUFVX3lxTE1IblpGZHE5MDBqcTFEWHZiWC1YSEU5emVMejNub2l6SHVXY19kVHpvYkt0MmlnX2xiVUpNMDJtLXI3Z0hvTGlXN0tUOXdEVDNkLVJJUU9YNzdOOHBzN0RfdWdic05FWkpBelZhb0lXZ0g0bmpyWnlIT0R3T1F5aVBJbDkwbjdXcDR6MVJHU1BfTHNoR3RhRkY0ZERJbXJ4VHRHTHdrdURpRnZvc284M0h6YzdNX2FsSQ?oc=5",
+      "snippet": "National Press Day: Vaishnaw questions if digital platform rules can tackle deepfakes, misinformation Mathrubhumi English",
+      "publishedAt": "2026-11-16T14:44:21.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 56,
       "confidence": "Medium",
@@ -512,21 +572,6 @@
       "corroboratedBy": 1
     },
     {
-      "title": "UK online platforms face stronger measures to detect CSAM - MLex",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVpVb202cV9YSHozR2hybFpVN0ZWb3BfWlFHOHA1Y1pPeWlEMlVpQWNQN1h3UTFLczA5YmR5SEl1b05WQk81SEc5NU40R2oyQjNOQzVFVm9UdDJiWldWaVd5N2MxUmJYdk1lVThGNFpzM1Ewa1BkX2VJUFlCOEljVEdnVmZZUTRzYkxsUHVkd2UwSGlNdE5rMUdBeHVCWGNobWfSAVpBVV95cUxPWmZkZHlHOEdvVmZVT1JJeDZocFZjVW5SSVhvem8xVEsxODR4VjM4MWNXWU53d2dQbTdfU2UyV2RNZVYtYnY1RlVyd24yVUYzaWpQREZKUFhteXc?oc=5",
-      "snippet": "UK online platforms face stronger measures to detect CSAM MLex",
-      "publishedAt": "2026-11-16T10:07:10.000Z",
-      "source": "Google News • Child Abuse and Nudity Safety",
-      "theme": "child-abuse-nudity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "child-abuse-nudity",
-      "riskScore": 52,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "Fraud & Digital Identity News – KYC, Scams & Verification - FF News",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSHZHdFRlTDRqTnJJU2VmdzB6ajAyWDRIWHJXcW1VSnNHZTV5ZkppOHEtQnpxMnNOdERlYl94cHdVM3FjT3J3b0U2UHMwTkotZHpj?oc=5",
       "snippet": "Fraud & Digital Identity News – KYC, Scams & Verification FF News",
@@ -596,6 +641,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "South-east Asian leaders agree to protect migrant workers from fake job offers linked to scam centres - Gutzy Asia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1FDRENZVEJDTzV5S3JHamZNN3BJYWYxX0NTVTFHcG1fU3o1emxmRzB0elZKWXNRNnBjbWdqQUo3RjBCRVBQRnJXQU5zUEticmNDRVdteGpSUENHQTV5b3FoNFpzaHhYZnZveDN3M2JFZDhjbmJ1ZEVyc19EUmxKSENHQThOV1lfdll2dUFNbkI0aUhTSFh6Xzlyenh6M2NrX2tIcUFiRE5zN2habUJES2FKYVk4cHUzQWJiWU8wLXp0R05PUFh2QXN5VQ?oc=5",
+      "snippet": "South-east Asian leaders agree to protect migrant workers from fake job offers linked to scam centres Gutzy Asia",
+      "publishedAt": "2026-11-16T06:14:50.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
@@ -947,6 +1007,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams - The Star",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY3dWTE83Y2Zha3hiNnV3VFhla3FIN1JZMWhKdmZVSGZGYV91V1EtMUFxU2RBNW5SbFdMdFhJVUJmSGZZMVJJSi12OEJWcHgyNUliYXlJQk9UcXowaE4tUWxHeEl6M0xxUDltd0N4Rkd1X0tTZzNYWWFwbXBtTkhKNDd6LWlPNkR0N0FacldHYXluelRaZjkxamVWU2RuY0RvQWlselRyaS1qM2ctb2hRc0FIelJfRGhJQWpyRzFLMHJiQXQ2Y0pUUDJ3dnp5RzlnZTdrWFVUemI2Qzlp?oc=5",
+      "snippet": "Southeast Asian leaders, with US and Chinese counterparts, will renew alarm over online scams The Star",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "RBI Pushes Stronger Safeguards Against Digital Payment Fraud - The 420.in",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XQTRBUG9mY0N5RG5lbDdpdTNva0VESXdJVzY2R0J5VUs1bDl0OGFtX0VHejJta0VTME9fM1NlcUVqVFhkMVlrSldRaVZMRW15Z3pWZVJ6cm5QOTNvOFZIMDdySHBYZ1JCYVE?oc=5",
       "snippet": "RBI Pushes Stronger Safeguards Against Digital Payment Fraud The 420.in",
@@ -1022,6 +1097,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "AT&T $177 mn data breach settlement: Who qualifies for payouts? - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSFVIclk1bUp2WDRhLW5Kc0RCTk5HaE9MOS1lc2dRNnF0Vkdvb2JQbEZsbkM4V2Y4UVhmX3RFX19sWjJoTl96SGtZeTZvM29NdmFMVG9GbWIwWGxGay0waUwtR2xQckZCS0oyQVZ1RjVYNHFFYWxUZHB5cVlmaWpBS2hPMHRvQQ?oc=5",
+      "snippet": "AT&T $177 mn data breach settlement: Who qualifies for payouts? Beinsure",
+      "publishedAt": "2026-11-16T18:29:16.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Expedia confirms data breach following supply chain attack - SC Media",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVjd0ODdiS1otUDVYSVBiSm5Sck9Wemp0QXYtYml4dkl4b2tZNnRBd2szSF9DcC1LbVVOM1NCV2p1dGxvcXdMYW93Wks5TnVLSXlFZXp2RklfSjNyR1Zvb0xKS3A1TXZQVzc0bE5RUmpSTm9YWkpqMWlEOXRBNjJXMi1Fb0loRjFDTDFFZlJoUldOQQ?oc=5",
       "snippet": "Expedia confirms data breach following supply chain attack SC Media",
@@ -1037,25 +1127,10 @@
       "corroboratedBy": 1
     },
     {
-      "title": "AT&T $177 mn data breach settlement: Who qualifies for payouts? - Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSFVIclk1bUp2WDRhLW5Kc0RCTk5HaE9MOS1lc2dRNnF0Vkdvb2JQbEZsbkM4V2Y4UVhmX3RFX19sWjJoTl96SGtZeTZvM29NdmFMVG9GbWIwWGxGay0waUwtR2xQckZCS0oyQVZ1RjVYNHFFYWxUZHB5cVlmaWpBS2hPMHRvQQ?oc=5",
-      "snippet": "AT&T $177 mn data breach settlement: Who qualifies for payouts? Beinsure",
-      "publishedAt": "2026-11-16T17:27:30.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "Uber data breach exposes thousands of drivers’ license records - Beinsure",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGZ4RzRtRXJGRmpMbjlNekxJbTZRaHgzV0xiVnhINnltb2RoeUkxMDQ5SVplcEZ2NURZWGd2SFNJd3ZUUTMwWm96R3d3UWN6cDJyNXI3akZlbkZUQzRwcWkwcXQ4dk5zVUItMG9VVGVXRTZHdmxfak5RRm5ELTdpTDhsX1NZXzh4WHpEVU1tSUQ5dw?oc=5",
       "snippet": "Uber data breach exposes thousands of drivers’ license records Beinsure",
-      "publishedAt": "2026-11-16T17:21:27.000Z",
+      "publishedAt": "2026-11-16T17:26:54.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

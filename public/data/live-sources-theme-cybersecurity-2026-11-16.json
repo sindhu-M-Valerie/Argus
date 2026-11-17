@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:24:35.389Z",
+  "generatedAt": "2026-11-17T08:14:34.216Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 28
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,42 +37,42 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "online",
-      "itemCount": 26
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 29
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,34 +114,34 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "online",
+      "status": "offline",
       "itemCount": 0
     },
     {
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -257,6 +257,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "AT&T $177 mn data breach settlement: Who qualifies for payouts? - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSFVIclk1bUp2WDRhLW5Kc0RCTk5HaE9MOS1lc2dRNnF0Vkdvb2JQbEZsbkM4V2Y4UVhmX3RFX19sWjJoTl96SGtZeTZvM29NdmFMVG9GbWIwWGxGay0waUwtR2xQckZCS0oyQVZ1RjVYNHFFYWxUZHB5cVlmaWpBS2hPMHRvQQ?oc=5",
+      "snippet": "AT&T $177 mn data breach settlement: Who qualifies for payouts? Beinsure",
+      "publishedAt": "2026-11-16T18:29:16.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Expedia confirms data breach following supply chain attack - SC Media",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVjd0ODdiS1otUDVYSVBiSm5Sck9Wemp0QXYtYml4dkl4b2tZNnRBd2szSF9DcC1LbVVOM1NCV2p1dGxvcXdMYW93Wks5TnVLSXlFZXp2RklfSjNyR1Zvb0xKS3A1TXZQVzc0bE5RUmpSTm9YWkpqMWlEOXRBNjJXMi1Fb0loRjFDTDFFZlJoUldOQQ?oc=5",
       "snippet": "Expedia confirms data breach following supply chain attack SC Media",
@@ -272,25 +287,10 @@
       "corroboratedBy": 1
     },
     {
-      "title": "AT&T $177 mn data breach settlement: Who qualifies for payouts? - Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSFVIclk1bUp2WDRhLW5Kc0RCTk5HaE9MOS1lc2dRNnF0Vkdvb2JQbEZsbkM4V2Y4UVhmX3RFX19sWjJoTl96SGtZeTZvM29NdmFMVG9GbWIwWGxGay0waUwtR2xQckZCS0oyQVZ1RjVYNHFFYWxUZHB5cVlmaWpBS2hPMHRvQQ?oc=5",
-      "snippet": "AT&T $177 mn data breach settlement: Who qualifies for payouts? Beinsure",
-      "publishedAt": "2026-11-16T17:27:30.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "Uber data breach exposes thousands of drivers’ license records - Beinsure",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGZ4RzRtRXJGRmpMbjlNekxJbTZRaHgzV0xiVnhINnltb2RoeUkxMDQ5SVplcEZ2NURZWGd2SFNJd3ZUUTMwWm96R3d3UWN6cDJyNXI3akZlbkZUQzRwcWkwcXQ4dk5zVUItMG9VVGVXRTZHdmxfak5RRm5ELTdpTDhsX1NZXzh4WHpEVU1tSUQ5dw?oc=5",
       "snippet": "Uber data breach exposes thousands of drivers’ license records Beinsure",
-      "publishedAt": "2026-11-16T17:21:27.000Z",
+      "publishedAt": "2026-11-16T17:26:54.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

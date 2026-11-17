@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:24:35.389Z",
+  "generatedAt": "2026-11-17T08:14:34.216Z",
   "snapshot": true,
   "date": "2026-11-16",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 14
+    "total": 16
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 28
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,42 +37,42 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "online",
-      "itemCount": 26
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 29
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,34 +114,34 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "online",
+      "status": "offline",
       "itemCount": 0
     },
     {
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -231,6 +231,21 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXR4SkhrU2padlpuQWlHaVlnelo3UEk0U2Nnc09LcDdjanVSS1BxU1YtNlRDVUp5cnJZSzV0cVl4RkdrUWx0X2hUVnJFYjBTQmtGelVaWVZHWklidjAwT2NhdnNoRVlhaFdobUZPb05iQTlVVDBaRFVrMnZEZUVHVWtYVzM1ZGp5WjlnbmJ0TDZaa1RONXN4eA?oc=5",
       "snippet": "UK regulator orders tougher action on child abuse material Cyprus Mail",
       "publishedAt": "2026-11-16T09:55:34.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "UK regulator orders tougher action on child abuse material ahead of next year's social media ban - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTlZVNFpTa0lGNDZ0UUdkNklfblV3aWZwMWtzNmsySUsxRVROVzJDQkpCWURETV9XNm85SG5yQ2Z3MFc2UjNobnlQU3NDd2ZzbkwxS1c3cTF5REEwT3dfOVV6R1drLVFYdmx6RmpmaWZ3ZnBmVTdtWTdfb0U5cU00Y2ZzLXlvUmtrT3M3SHRiRnNkbjVIdzBMSFpBVksyZmQxRnItcDk2Y1Z2Mmp6bXl0SkRrWjVnSUFubkpfZUxXWnBldUNobGVRU2JNMmRJRzhVZFZOb1BlQnlkb3U1VG9sZnZhV18xY0h6TW9sa1RGY9IB7wFBVV95cUxQTlZVNFpTa0lGNDZ0UUdkNklfblV3aWZwMWtzNmsySUsxRVROVzJDQkpCWURETV9XNm85SG5yQ2Z3MFc2UjNobnlQU3NDd2ZzbkwxS1c3cTF5REEwT3dfOVV6R1drLVFYdmx6RmpmaWZ3ZnBmVTdtWTdfb0U5cU00Y2ZzLXlvUmtrT3M3SHRiRnNkbjVIdzBMSFpBVksyZmQxRnItcDk2Y1Z2Mmp6bXl0SkRrWjVnSUFubkpfZUxXWnBldUNobGVRU2JNMmRJRzhVZFZOb1BlQnlkb3U1VG9sZnZhV18xY0h6TW9sa1RGYw?oc=5",
+      "snippet": "UK regulator orders tougher action on child abuse material ahead of next year's social media ban Devdiscourse",
+      "publishedAt": "2026-11-16T09:36:51.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
@@ -332,6 +347,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "UK online platforms face stronger measures to detect CSAM - MLex",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVpVb202cV9YSHozR2hybFpVN0ZWb3BfWlFHOHA1Y1pPeWlEMlVpQWNQN1h3UTFLczA5YmR5SEl1b05WQk81SEc5NU40R2oyQjNOQzVFVm9UdDJiWldWaVd5N2MxUmJYdk1lVThGNFpzM1Ewa1BkX2VJUFlCOEljVEdnVmZZUTRzYkxsUHVkd2UwSGlNdE5rMUdBeHVCWGNobWfSAVpBVV95cUxPWmZkZHlHOEdvVmZVT1JJeDZocFZjVW5SSVhvem8xVEsxODR4VjM4MWNXWU53d2dQbTdfU2UyV2RNZVYtYnY1RlVyd24yVUYzaWpQREZKUFhteXc?oc=5",
+      "snippet": "UK online platforms face stronger measures to detect CSAM MLex",
+      "publishedAt": "2026-11-16T10:07:10.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "UK online platforms face stronger measures to detect CSAM - MLex",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZmRkeUc4R29WZlVPUkl4NmhwVmNVblJJWG96bzFUSzE4NHhWMzgxY1dZTnd3Z1BtN19TZTJXZE1lVi1idjVGVXJ3bjJVRjNpalBERkpQWG15d9IBWkFVX3lxTE9aZmRkeUc4R29WZlVPUkl4NmhwVmNVblJJWG96bzFUSzE4NHhWMzgxY1dZTnd3Z1BtN19TZTJXZE1lVi1idjVGVXJ3bjJVRjNpalBERkpQWG15dw?oc=5",
+      "snippet": "UK online platforms face stronger measures to detect CSAM MLex",
+      "publishedAt": "2026-11-16T10:07:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
       "title": "Ofcom tightens CSAM rules before UK under-16 social media ban - Cryptopolitan",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzampJT0RTOV82THJ5YWlUTUpWck1RbGNSeFByLU9rZ3NyeUp6eXRzeWFLUnRTc2JuaGRkem1JdGI4M09ORk1Tc1FfNVJEX1ZlUWtOQ0dLYjFaYlJqMGtkNlU1cHVLNENWWnAxVzk4R3NKZVhjaFZ1YjMzMDY?oc=5",
       "snippet": "Ofcom tightens CSAM rules before UK under-16 social media ban Cryptopolitan",
@@ -351,21 +396,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHFnenhiY2xqYld0TVMwTXJ5aWJZcUhWWHE1UVM0V3MyeFVJczIzQ292RlE5QU02SVk1YmlGRnhGSUJBeWVMSmFMeG9hSG94R3NCNEJid3VTNkRERDZoOEFnbm12eU51MWllTDhreVprY09uaF9vczZiMFFwTEtMcDE1dXQwdFXSAYwBQVVfeXFMUDlOSXdGSEVXSkVULTFxSnhSNXV4cXBEQ2hOUldLUkQyTDA5VnlaY01TZkZpVGFqQmhDZ09TWEhZRlFRWmVCWFFRaGRnQ1ozb09zWXJNUmxsTTAxbjdsU3JuSEg5eWc0ZFJDYXNhc0hQWlNFRHVJcGpGUUZuV2hxbFU1TlBPSXZST2Z6enA?oc=5",
       "snippet": "Tech giants ordered to crack down on child abuse images online — or face 'serious consequences' The Mirror",
       "publishedAt": "2026-11-16T14:27:00.000Z",
-      "source": "Google News • Child Abuse and Nudity Safety",
-      "theme": "child-abuse-nudity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "child-abuse-nudity",
-      "riskScore": 52,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "UK online platforms face stronger measures to detect CSAM - MLex",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVpVb202cV9YSHozR2hybFpVN0ZWb3BfWlFHOHA1Y1pPeWlEMlVpQWNQN1h3UTFLczA5YmR5SEl1b05WQk81SEc5NU40R2oyQjNOQzVFVm9UdDJiWldWaVd5N2MxUmJYdk1lVThGNFpzM1Ewa1BkX2VJUFlCOEljVEdnVmZZUTRzYkxsUHVkd2UwSGlNdE5rMUdBeHVCWGNobWfSAVpBVV95cUxPWmZkZHlHOEdvVmZVT1JJeDZocFZjVW5SSVhvem8xVEsxODR4VjM4MWNXWU53d2dQbTdfU2UyV2RNZVYtYnY1RlVyd24yVUYzaWpQREZKUFhteXc?oc=5",
-      "snippet": "UK online platforms face stronger measures to detect CSAM MLex",
-      "publishedAt": "2026-11-16T10:07:10.000Z",
       "source": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",

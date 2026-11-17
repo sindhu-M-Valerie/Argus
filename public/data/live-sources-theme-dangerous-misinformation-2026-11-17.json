@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:24:35.389Z",
+  "generatedAt": "2026-11-17T08:14:34.216Z",
   "snapshot": true,
   "date": "2026-11-17",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 28
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -37,42 +37,42 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 29
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "online",
-      "itemCount": 26
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 29
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,34 +114,34 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "online",
+      "status": "offline",
       "itemCount": 0
     },
     {
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "Fact check: Incomplete video of RSS chief Dr Mohan Bhagwat with misleading claim - lighthousejournalism.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd2poODV4TXJKQlpiS2N3UUJBeDA4Qi1ScjB5akFIbWVvcVBWRXJidVNxRkJVajFyX2Q3Uk5Ra3VRdkVSc1R6WEYzUDlEZjlVLW9MOVpwcDlQY2x0VE9uQW0zWl9teHc5dGYyc2xpcXR0R0FpcXpaa0NrSnlYSTFxWGRCdXBmc3lmZWtaSmJhWDRrTnpXU3hpckMxMXVTZmQtdkdmZ2JvTEVTS1lvT3IyZ1htQVlRZVM4NHFrQnBudHlsZC1oSzFr?oc=5",
+      "snippet": "Fact check: Incomplete video of RSS chief Dr Mohan Bhagwat with misleading claim lighthousejournalism.com",
+      "publishedAt": "2026-11-17T06:46:30.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Did Amit Shah Call Asaduddin Owaisi Regarding the UP Elections? Know the Truth Behind the Viral Video - DFRAC ORG",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTW01VENsVnFOQzgyaEpOQ0NsM0ZRcXVZS29vcmxBbGh2MmI5cFEtbkRLWWVCbktNN0REMEdvclo4dkVZQi1maVZ3cWp5eEJYMEpfb1ZmdlY4MHl4Y3FSa1ZGZHZNYjJpVGtkUkF5UWktUHJqYzZVcHVHWUkzT1kzYWZ0LUxfRFRaZDJDQVdSdmc5UGdYTEw1X2RGc2w2T1N3MDlZbGkzM2sxNkpMNHZoNkJjRk5wY3RLTGxtenRPZjlKbVlWc0drd0pMcDNEalYyZWhycHFLYjg5VFMt?oc=5",
+      "snippet": "Fact Check: Did Amit Shah Call Asaduddin Owaisi Regarding the UP Elections? Know the Truth Behind the Viral Video DFRAC ORG",
+      "publishedAt": "2026-11-17T06:25:01.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: No, the world is not facing a global blackout on November 17 | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNUZoazI2MXhyTVNXdGV3ZjNXclV0V3I3YzFTNmxnOVM2cGxLdWhvaEFzYV9vWWoxNnZvUXk0YTdJeFpEYzc5VVFUcnhYUzh4a0xVU0NlSHlJTUEyV1N3bTNmbG5FaDVPLTBpM284ZmRHQzJfVHhXeXRXbnZvWktBdnBmOXFVaUpWWnJrQ28xY01oVzliS2hhTENOVXpES3lyeFd3ZjFqa0djcG11VkdDTldTLVQ3WGhsTnVWcnZvRkp6Zk1WQWxJWm01QllTcWFaTzA0dGE5QlfSAd4BQVVfeXFMT1YzTmM0bnh0TDNwSjBOOWVhQXRYNnYzV09ScENOQjlMYWJLS3lRMXpEaHlIQ3puX1B5OVozWDAtYUllN25WSXlFaTNHalE5cUc2RTB6OFU0R3lXS0JXeFd3WjZzLTk4UHVldDFrbnUwWHROTGhhNVRHZVFnaUFMVFlyR1lvV0VPYmY1TTJidkROX0pHb3ZpZjU4bDlxMGEwMnhEeUFCV3Q3anZ2WjBWOTZXRjYxZFpUT0VZS2hBTk5wWnFwdm90U1hJM3dyTmNIZEVhSllPNFE3WWJjbTV3?oc=5",
+      "snippet": "Fact check: No, the world is not facing a global blackout on November 17 | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-11-17T01:03:48.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Shimla DC urges restraint, fact-checking in journalism - The Tribune",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejhLQzBmWi1FZldQQi1uam02ZEdtZl9iRVRxUVhxdnFFVkRPSEZBV2d0MGhXYXJOTG5TX1ZvR0JGeU4xNy1KWm51MVlKRjVhYWpoZ2IxUkhTdU53cFhYNWZqZkwzXzBMLWtOVjJvNnZkLXl0Ymw5Y1VTQzMxYVRORjV6NkJJZDN3UzBZWTlzaTFtUXIzQlc4UlZSWkFQd9IBogFBVV95cUxNbnh4TW1lXy0yMDBqdHVKS2pHN0x0QXQ5REdtWHVPNERKREZXeldpT1B2dnJBT3Uta1FvaUtpd2RxbXNUY3hUemk1YzFCdEE0bFNGRVRBNkJ4QlZwZ1pxaE5LWFVsMXRaX0ZrUU12WDQzanFDSGNaMUc1OC1xVGJsd3N6TUh1S3N1Y0FRQV8yT2RObmhvRGMzOVlSM05ObXpWQWc?oc=5",
