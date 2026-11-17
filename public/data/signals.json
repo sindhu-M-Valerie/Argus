@@ -1,23 +1,19 @@
 {
-  "generatedAt": "2026-11-17T08:19:21.342Z",
+  "generatedAt": "2026-11-17T21:14:39.090Z",
   "windowDays": 7,
-  "endDate": "2026-11-17",
+  "endDate": "2026-11-18",
   "collectedDays": 7,
   "data": [
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 101,
+      "totalArticles": 96,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": -16,
-      "reason": "Last 3 days averaged 13.0/day vs 15.5/day before.",
+      "changePercent": -5,
+      "reason": "Last 3 days averaged 13.3/day vs 14.0/day before.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 14
-        },
         {
           "date": "2026-11-12",
           "count": 21
@@ -40,7 +36,11 @@
         },
         {
           "date": "2026-11-17",
-          "count": 10
+          "count": 17
+        },
+        {
+          "date": "2026-11-18",
+          "count": 2
         }
       ],
       "topArticles": [
@@ -61,19 +61,11 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Supreme Court Seeks WhatsApp’s Anti-Fraud Plan As Digital Arrest Scams Cost Indians Rs 800 Crore - News Mobile",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMTFoWkdVbHNPLW9NWjY5a1RBTjhHVUdDc0FTbVB0Ymx4RFg1UmJMOFFmVzhBVnJKWTJaSWJIS1lQbEZib08xdGJhZ3ZFZDdQNXBKcGowNGk4Q1NZbWNKUTdNWW5BSmI0aEVXU09TQXNCeUliVGJvU2pxOHYzVUsxWUVxcWI5SW0xa2hRNnROU19nODRCdl9aVnJ0VFBDd3NsZnA4ZndXVGFzSk1ydWhUV2NOT0NkazNRMkZTcjZNRjZxZUhtdkZfbWMtR2RYX0ZrNDNn?oc=5",
+          "title": "Algeria busts scam ring that impersonated AADL and BaridiMob via 18,000 texts - وكالة سوا الإخبارية",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXkybHEwcTVhUUYzTjBkMGJ3MlVjV2k4M2tURi02RDE4NGVqSktKUlhlXzdveVhPbXlDRVctZ3J4ckZhcTVfb1c4RGd0Rk1jelBkWmk0ekY1MEFiYk9Va3BFZjE2ZEg1OXllMEJpTTdEOGJFZVFYaHZMNU1VaUsyMGluaXNYNG1rMkJhM2RiQTIzMUpYazIyLWY4bU96SGlIWFJ3cjRDWW5ILURSdVpub1hZS041LXc?oc=5",
           "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-11T11:34:19.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Digital Arrest Scams: Supreme Court Asks WhatsApp To Explain Anti-Fraud Measures - Indian Masterminds",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVhqNmhTRmM1Z0JiNVc5OG5tTjVaN1U2NzNYNkptX0toeTBacGZjOEZZMHVaellwdFlUS2ExdGRMdXlKVjhFVEE2aDdVcHFUNjJxckpfcUlYRXFWa2lKVVdmdXlqV2VBdG5OT1hYSFQzdnJSc19OS1ZxcTN4ZzdrR2RyOG0yRDdQYlhQeGNvUDJpWkRVbzZhV09mTm8?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-11T05:16:39.000Z",
-          "riskScore": 60,
+          "publishedAt": "2026-11-17T15:23:17.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         },
         {
@@ -107,23 +99,27 @@
           "publishedAt": "2026-11-16T10:21:35.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
+        },
+        {
+          "title": "Fraud & Digital Identity News – KYC, Scams & Verification - FF News",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSHZHdFRlTDRqTnJJU2VmdzB6ajAyWDRIWHJXcW1VSnNHZTV5ZkppOHEtQnpxMnNOdERlYl94cHdVM3FjT3J3b0U2UHMwTkotZHpj?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-16T10:04:52.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 72,
+      "totalArticles": 70,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -29,
-      "reason": "Last 3 days averaged 8.3/day vs 11.8/day before.",
+      "changePercent": -26,
+      "reason": "Last 3 days averaged 8.3/day vs 11.3/day before.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 10
-        },
         {
           "date": "2026-11-12",
           "count": 17
@@ -146,7 +142,11 @@
         },
         {
           "date": "2026-11-17",
-          "count": 0
+          "count": 7
+        },
+        {
+          "date": "2026-11-18",
+          "count": 1
         }
       ],
       "topArticles": [
@@ -191,26 +191,26 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Cyber Attacks in 2026: Major Websites Targeted as Ransomware and Data Breaches Shake the US - Aktualita.co",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjhpNzJIaHZObFFoQWJJR1FkcV9pcmFFTUVySWtsODMtMlZFV3ZPcEJaNks4RDRNblRWNHVUbUVibm8teklDT0VfbXdaSDV5cnVFLUl3MUZDR0NJOTU0VzBlbjRRQ1BFd2xVWVRGMldaSjRUamZ1UGRVRWNRWUw0NC1TX3A5QXgyd3pFZw?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-17T16:39:47.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-17T06:18:25.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Coles probes cyber security incident as Woolworths customers report digital gift card fraud - Australian Cyber Security Magazine",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0MzT1pxX0phWGloVjhIWVhyV3JLOV9XcmZ1cVZRd2d2VEtWTHBwb0NmSzFwSWZBaU1XYmdUSUliZ3YybkFxNmI2MzJSVzUzd2UtMy1MdGxvRV80X09RbmhHWHFENDdTaWViSmxmdVlWT0JfRGRpT0dKTk8yWmdGY1hOQnVoTTE1S0F4UHhGd1JzOTBERlZfbVluZzVibFJ4T3J4LTRkUEg0NTN0S1dzdEVhTklkcC1sTEpiRURYbXBza3VreXNBcm1Ia3dJeEh3LUk3YmpR?oc=5",
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-11-16T02:07:41.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Coles investigates cyber security incident - Forbes Australia",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGhlSW9nZXhrUDJsRHUxYmJLRFo5V3pqUWpoS0p3TXpwaG9SMXFFRmtrRXhTUGlBamNFMzZ1SHBWaDNzTGRRSkhqM0FzM0liekFKWE9XazhPZU55cTRHN25CbTBiUHI5QnhoUmMxX0pxMmJmRFprQmZHOHNqanpDd01ObnRsQ2thcUFYYlNR?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-15T22:44:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Is K-Pop Facing Cybersecurity Crisis? SM Entertainment Reports Data Breach, Days After HYBE Incident - International Business Times, Singapore Edition",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFNEWDFrN1F5WENybF9NdThZWXloSDEyS19qREtPSVlCZnF0aVNCNGY1aHRGRXVkZHp4ZmE2VHZCWHhzTFYwZFlhdTJJQ09qOUhBaFpkeDc3RTVROHJMTEpCSE41bUdJVkRGaU9sYTdRX01IYzlOQzBsVm45YmdmTU5jZU1VQklaM0FENVNCTjRqZldBZngtNWN0aVI0bm5VUzE2OV9nVjRrbzBVNlFjU3FPaHJfQTQyS1ZtLTUyalZDZw?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-15T13:49:01.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }
@@ -219,17 +219,13 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 59,
+      "totalArticles": 48,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -26,
-      "reason": "Last 3 days averaged 7.0/day vs 9.5/day before.",
+      "changePercent": -27,
+      "reason": "Last 3 days averaged 5.7/day vs 7.8/day before.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 14
-        },
         {
           "date": "2026-11-12",
           "count": 7
@@ -252,18 +248,14 @@
         },
         {
           "date": "2026-11-17",
-          "count": 4
+          "count": 6
+        },
+        {
+          "date": "2026-11-18",
+          "count": 1
         }
       ],
       "topArticles": [
-        {
-          "title": "Fact Check: The Viral Video Of Rajnath Singh Speaking About The India-China Standoff Is A Deepfake. - Vishvas News Fact Check Hindi",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjdhdV9nYzJtd1NINENUMU8yQUVsZUpSRHo1R1I2ajhQQzBQUTI0V01HZm54Unh4NzhQMGJCTVpCbHlsQkV3NjhlX0JFbFM4YVFTb1Z5a003Yy1rVnpxTDRYMXhibC1FeFNKTDlJTWRnVkZqeDJ4UDBmM01NNm0talpxRGFfRFhldTF2WUVHRlhvSUUxd29OVVVJeHB4MHpRN0JyUUZqcFFiMGlyOXBUNDVoMjFkbFFCUTVCaHZRWWRXa0wxZElFckd0X0VRN010ZWxtNlI2cnczT1k?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-11T12:26:05.000Z",
-          "riskScore": 68,
-          "corroboratedBy": 1
-        },
         {
           "title": "Fact check: Incomplete video of RSS chief Dr Mohan Bhagwat with misleading claim - lighthousejournalism.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd2poODV4TXJKQlpiS2N3UUJBeDA4Qi1ScjB5akFIbWVvcVBWRXJidVNxRkJVajFyX2Q3Uk5Ra3VRdkVSc1R6WEYzUDlEZjlVLW9MOVpwcDlQY2x0VE9uQW0zWl9teHc5dGYyc2xpcXR0R0FpcXpaa0NrSnlYSTFxWGRCdXBmc3lmZWtaSmJhWDRrTnpXU3hpckMxMXVTZmQtdkdmZ2JvTEVTS1lvT3IyZ1htQVlRZVM4NHFrQnBudHlsZC1oSzFr?oc=5",
@@ -297,27 +289,141 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Fact Check: Debunking fake claims about election numbers by Reporters Collective - OpIndia",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkFZLXhqUzhiOF9ZSndGTFpBVkxTTTQxWkM4OGZiR2xwanZXWC1EWW9QR01VUE1YeEhEQVoxS3N3UE1EdFhlc0N4Q3dZRUZ2MTVLMlhlUXUxc3IxOUhvMTRWNEIwbUF2LUp1ZnpULVJ0aVVoWlQ2dmVVQm1YMG1qcHM1SVNMcFpwT3M3d2lETHNmUnIwa0pEcF9hQk9Odw?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-11T08:56:48.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fact Check: Rajnath Singh never said Army morale was low on Deepawali, Indian Army exposes deepfake video - Organiser",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQODlpT1JyeWNxa1ppS0p5YVAteWNFX0YxanNNM01JcTFtdDF5N2FRd3NoUW5JRGpuU1pSZW5CbFlRX3R2dm9Jck9kTlczdVFqM3hKXzdnNzF3SWxvcXEyMWJEbHh6aUVxMjc5di1LdFhaNThKVzBualg5RWlJYUl0M3B2d1JrTXQ4WlFmb0xIZzBlS3F5b1pIX0ZMa0RiempHekxERDdGUFpHZG1qZWVjcTFOSkxSbHluS0xzTThoUlJKVFVaZ195YmlNMnd2bzk1VHVIcFBnSVVBZjZoSE9WREdfZ3Rkd9IB6wFBVV95cUxQMDh1LV8yWVRkMXg4VzlBcWlsYUgxNkdseFkwUjlqY1hTOC1ORE1CbERfcDFYM3gtdjlQUm4ydVc5RUtfY3lkd184N3ZySlBmT01yRU5ZOWw3T2w1dnNaUEUxSDJxQmkzYzQ5SXVYeFRaSTJxcENPUkdac3RxbkIwZXJHUEc1M0FGN2dmN180WTFxVGYyWHRhOVVZdEVqLVo3WGh6VXE4enV1bFJoa3l6RmQ4OGhnQ3Fma3FpeF9OZTlCNzl5bG94MWdSX2huckE0TldnZkZRVWpJa1N0RkxZWDdsVi03X1Y3LWJF?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-11T06:43:27.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
           "title": "National Press Day: Vaishnaw questions if digital platform rules can tackle deepfakes, misinformation - Mathrubhumi English",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG5aRmRxOTAwanExRFh2YlgtWEhFOXplTHozbm9pekh1V2NfZFR6b2JLdDJpZ19sYlVKTTAybS1yN2dIb0xpVzdLVDl3RFQzZC1SSVFPWDc3TjhwczdEX3VnYnNORVpKQXpWYW9JV2dING5qclp5SE9Ed09ReWlQSWw5MG43V3A0ejFSR1NQX0xzaEd0YUZGNGRESW1yeFR0R0x3a3VEaUZ2b3NvODNIemM3TV9hbEnSAbcBQVVfeXFMTUhuWkZkcTkwMGpxMURYdmJYLVhIRTl6ZUx6M25vaXpIdVdjX2RUem9iS3QyaWdfbGJVSk0wMm0tcjdnSG9MaVc3S1Q5d0RUM2QtUklRT1g3N044cHM3RF91Z2JzTkVaSkF6VmFvSVdnSDRuanJaeUhPRHdPUXlpUElsOTBuN1dwNHoxUkdTUF9Mc2hHdGFGRjRkREltcnhUdEdMd2t1RGlGdm9zbzgzSHpjN01fYWxJ?oc=5",
           "source": "Google News • Misinformation (India)",
           "publishedAt": "2026-11-16T14:44:21.000Z",
           "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "National Press Day: Vaishnaw questions if digital platform rules can tackle deepfakes, misinformation - Mathrubhumi English",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXlSdG5ESkw3MUFfTjZSOGhQRHNvOUo3R1VfOTJ4Sy1pOTE3dldqYm5XTFAxbDhsUy1wazA4NW9RQkVIcG5OaGJiNGwzRC1zRlRiLUdlQWlCcDdUcVkwSlNQTVZFZDJnTGNUZF9XdHJmWFU2Szk5OGNOQTdEUGljdW1ZbnpOS0h1aFBJekRpR3Z3RmZKWjJ1VWhmVE5PVTZ6ZnhidXc4V3lrVDI1Ny1EZ19n0gG3AUFVX3lxTE1IblpGZHE5MDBqcTFEWHZiWC1YSEU5emVMejNub2l6SHVXY19kVHpvYkt0MmlnX2xiVUpNMDJtLXI3Z0hvTGlXN0tUOXdEVDNkLVJJUU9YNzdOOHBzN0RfdWdic05FWkpBelZhb0lXZ0g0bmpyWnlIT0R3T1F5aVBJbDkwbjdXcDR6MVJHU1BfTHNoR3RhRkY0ZERJbXJ4VHRHTHdrdURpRnZvc284M0h6YzdNX2FsSQ?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-16T14:44:21.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Kerala CPI(M) braces for social media battle, boosts legal cell to check misinformation, fake news - The Hans India",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVDU5NnI4bm9sZDVyY1c3WXpRZi0zbTlPRFl4UGJyemM3VUltdzh0MlVua0s4VGU4TExnZHYtcFBJRWpOTUd3dXVvZk52ODFPNzNmQk1xRk1SaWhMc1FEejBUTFRDeHFrM25HcHkwY2E4RG96T3p1UXRxS1VyN2JTVmNXbFJzUlNET08yVHlyY2ItVWlFOGNycTk5SGNfa05KSnNkZmdjQXBWdnlaMTJFbDhKZVJLVHk2WEQ0ZW43QklGSVJ5VkpteUxTcTJnN0pWandRa2JvTFoxRGo2WEHSAeMBQVVfeXFMTjROWWI3MmUtMjVfbVljV2htZVdESmNDSEVkckRlbFlWWldsQjVySTdnSGZPckhmdDRVVHRRcU84UXRhWkFJMS1FejR1bmtpZTNxdVJNQXBwWHNHemtwMk90UF9haDkxRUdRc0pPN0NmWUZsVldUTWpuUHhDanF1WUV6NFRMOU5wVTdBTVhzenlZbGt2cG1WQndWdElMb0t6ZkotcWtVRU5SYWt3V3FBWFFlRjdDOC16TUlwSGxqU2s4VFJLVlRRS2tUVTc1dVl4Ynh6X3NsM3N4RlpRUXpsQlNSZnM?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-13T10:15:05.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "CPI(M) to boost its legal cell in Keralam to counter ‘fake news, misinformation’ targeting party - The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObi1mV0xOR2MtcmswSm5rQXI2ZjNDYkpVUFhOcFZEQS0zRDBucng2VVZNek1nenhjWTYyOGhRbUZlWHF3RjhoOUhiSHlHMFh2RDhRTGVMMWd6YTdjSlV0Z3ZRSGlOSXNxbVl5ZnFIZks3UDA3U0d3dmJyb21NX1o0WGRrUDFKWTNWNFFCWEp4M3lWeHVSczdXUWcwRy1kdUhFOS1aQUJmeUNmaGljVGY4dFEwdE94akNwVGlWRVZ0U1BVZExtcU1pVUx4bUZpbWlLRmctMjcwckRmNS1QX1hUNzhLbWVWbWtRVDNzZE1B0gH0AUFVX3lxTE1zNl9rNEZaY2ptWllJR1hrVTFKZndqSUhxcHRqQ2owc3ZwS2FqR2hBal9razl6YU41a2k1aVYyYl92cmpXRmhDMkdiRml6ZDFBWl9Uc0RRMnFyN3JOTGpSUVcwTlVFdFNWQlpIVW1iYUg2bGFOdlI4eGFTVlVOUmc0VU5zSlJmNUxwTnA2R1lhdXY0ZkJXZGRIWUhrYkk4WC1tTkFWSk5KS2FlSU85cmpVejRhOWpEM05XczU4N1FSUVFKR1RHMnEtaXBfdDhTRzhXVnNCM2FkMFItbDVrakRzcGhLNnVyYkx0V29PWXpfYkVoNHk?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-13T08:34:39.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "sexual-exploitation",
+      "label": "Sexual Exploitation",
+      "totalArticles": 43,
+      "distinctSources": 6,
+      "highRiskArticles": 0,
+      "trend": "Falling",
+      "changePercent": -60,
+      "reason": "Last 3 days averaged 3.3/day vs 8.3/day before.",
+      "daily": [
+        {
+          "date": "2026-11-12",
+          "count": 4
+        },
+        {
+          "date": "2026-11-13",
+          "count": 1
+        },
+        {
+          "date": "2026-11-14",
+          "count": 19
+        },
+        {
+          "date": "2026-11-15",
+          "count": 9
+        },
+        {
+          "date": "2026-11-16",
+          "count": 4
+        },
+        {
+          "date": "2026-11-17",
+          "count": 5
+        },
+        {
+          "date": "2026-11-18",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "School gadgets, online predators: Children left exposed to sexual grooming in UK | GRAVITAS - WION",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU0NxS3A3UTgyX1NoTmZzR054aDhqX0VtWmZlemRRZUx1YlNTNHlCb0tOcHcwNDJaYkktY1BUd2MwbG5EbVlkZjAtU1NHUHJtdTJ0VXJlODh2aGJKOUExMWNDNzcyUDFxOHpZNlVFamVTd21XdHg2RHZIdjdteXFZeWN4d2Q1M3hKd2NOS19RVWtGQzNMcE5iaEtXR2ROWXhZMEJzZUgwUV9ReGhPLUs0bjVqVG5UcUNjQTlIN3pYMVVTR0Fvc0phc2pFWWJoTU9TNTRNStIB1AFBVV95cUxNU0NxS3A3UTgyX1NoTmZzR054aDhqX0VtWmZlemRRZUx1YlNTNHlCb0tOcHcwNDJaYkktY1BUd2MwbG5EbVlkZjAtU1NHUHJtdTJ0VXJlODh2aGJKOUExMWNDNzcyUDFxOHpZNlVFamVTd21XdHg2RHZIdjdteXFZeWN4d2Q1M3hKd2NOS19RVWtGQzNMcE5iaEtXR2ROWXhZMEJzZUgwUV9ReGhPLUs0bjVqVG5UcUNjQTlIN3pYMVVTR0Fvc0phc2pFWWJoTU9TNTRNSg?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-17T17:04:00.000Z",
+          "riskScore": 67,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "School gadgets, online predators: Children left exposed to sexual grooming in UK | GRAVITAS - WION",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnJYRDFwVU9MMFFLX19pX3k1QXJvamtmSk13dU9FUmpyZUY5aEJpQUxPSXRVWWJLbXpRVzgxcU5pcGZrXzlpQ0FQU3JwSEZQcDhNSlRRY05vVi1KWjVVR2ZkMFA2NWxKUW5fLVNqVzdFbVpYbGxQb1ZJb2lVaEtPbFQyeWZuX0ZFRjM2UmxGUVk4TXRvSnZIRWE0ek9ROF9INlZqRDFEemItNEpzeER4dU9SdUFOUlN0LXVubkJfcVhCbl95Y0EyZG1CSnV5MEnSAdQBQVVfeXFMTVNDcUtwN1E4Ml9TaE5mc0dOeGg4al9FbVpmZXpkUWVMdWJTUzR5Qm9LTnB3MDQyWmJJLWNQVHdjMGxuRG1ZZGYwLVNTR1BybXUydFVyZTg4dmhiSjlBMTFjQzc3MlAxcTh6WTZVRWplU3dtV3R4NkR2SHY3bXlxWXljeHdkNTN4SndjTktfUVVrRkMzTHBOYmhLV0dkTll4WTBCc2VIMFFfUXhoTy1LNG41alRuVHFDY0E5SDd6WDFVU0dBb3NKYXNqRVliaE1PUzU0TUo?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-11-17T17:04:00.000Z",
+          "riskScore": 67,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "'Serial online groomer': Indian student jailed for 30 years over child sexual abuse offences in UK - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUw2Y0xtc0xqS2lmVXVlVkZxLVdsQ3d3eUdyQVhhMVBLendBSE85WVdVNzlSaFNUT3BicnVqeC1jdGZCXzlvcHNTOXp6Q1VNVlYzZTFudDhHaVJ6Sy1OV0tqQnBxRXNwOVBBbkNzaXpZbnNvdHBQc2ZPb0g1cGlSdzJPY2JaZU1VeGRrc0Y2MGlKZ1B2V0xOcWF1X19SVHE3cGhwcWh0ZVRGdHVmZjFIOEdSd3EzZWtIem94ZkFPanpHYkZRbENHYTRpOHdXQTQwUUZ0QjBVMm9WYUZuYlM5YVItdlYxMXd6RENRMdIB7AFBVV95cUxPQUw2Y0xtc0xqS2lmVXVlVkZxLVdsQ3d3eUdyQVhhMVBLendBSE85WVdVNzlSaFNUT3BicnVqeC1jdGZCXzlvcHNTOXp6Q1VNVlYzZTFudDhHaVJ6Sy1OV0tqQnBxRXNwOVBBbkNzaXpZbnNvdHBQc2ZPb0g1cGlSdzJPY2JaZU1VeGRrc0Y2MGlKZ1B2V0xOcWF1X19SVHE3cGhwcWh0ZVRGdHVmZjFIOEdSd3EzZWtIem94ZkFPanpHYkZRbENHYTRpOHdXQTQwUUZ0QjBVMm9WYUZuYlM5YVItdlYxMXd6RENRMQ?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-16T05:43:38.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTBzQjNoTS16RGFGUlFGMVhKQVRLYzlFbVdEaXh4ck5RdDAyU0JEN0E5bXhEQkowbm5Ka0hyVHdELWZGdHU4NkxyZXpFTllSeG1kTHZlaFQ5VWF5OEZKUWFtbjdDRW5QNE5KUlVodEtCRGI3bjhDZU1PRFdnUEIwVDQ2c2c1enBoQWlFTGtXTzhibnVma0ZNM1V5c0d4Y3gtOTdNaWdVSGg5VExaNkRYYXI1dWhUQWZQR2c00gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-15T13:06:48.000Z",
+          "riskScore": 59,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3lyWGRKYUJvRURNUVhsZkJKd2VTS3J6QTFhOVFyanBNY25oa0VyeUFtWTE5MDhWZVB4ZWxmSm1mOFBNUGNiS1lnZnFITms5b2V0VWl0TXRtMlYtekRfT3laRnlOeDM3cTFCZ0cwcW9xVXhOYzZQbFFiNFIxdlhoT094ekRWeEgxTHhRUVRtVDVMem44dVhNMTRqRUgzOUZ0amxwdVJ4bG1aN2kyVUdnWWMzSmZEWG9KS2FvWVk0ak5qbEVoQVROREk5WHd4RWlq0gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-15T13:06:48.000Z",
+          "riskScore": 59,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming - National News Desk",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEE2S0N2VnloTDRVRG1vdzZydFRqYU55Vy1wWDFxRmRQdTNhd1hydVl5R0tSejltNmo4eWs5cmVoTjVOUmZWSDVOLTFVZ0tnS0NCczN5dDk1Wk5hM3ZuZXdzRXV1RHJuVlYybnVjOVZ4LUhPZ1Bnd1hvQlMtVHRzbExzbnJDS2lEQ01NeHNHYmI1a09rS2cwaFVkQXZXWDktdkVvSHVadUdaaHFNVHVObXNlanZWNkJhZkF2bk4xLWV1bVRMV1RaakhNV3hJX3lzcy1XQkIweno4cTVfSG5KcHhRRkNMb0tXTXRKeHlsd084RE1kWUVWc05OelNzWWVVRXI0?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-17T19:38:41.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Online child sex groomer jailed for 30 years - Express and Star",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHQwcVBoaVRkcG45XzFxWHYtSkwzemkxYXZfNzRxTXFycTRINUV3NmQyWVpDQnBfSFdBVWNzMFp6OFJsSVFKZV9BcjA5X3phNGlOQmRLTlF0cURYdk0wNVNLTzBaT0p0YlVOandRUldVMjROeTR5WlVrd2xWaDI4WVBURDNSQndlUXR2djBaR0RPbmpPYVE?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-17T16:54:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Ofcom demands tougher action against online child exploitation - Indian Broadcasting World",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBib1FPRlBUVTQ0bVR4QmpRM0JuUFFaWkxXNnNkZGwtWVctbzV1ZWNqd1pJb1VsVUpCSDRvZ29yMFJmUi1FbUd2YW8wX0JhQUkwc2dhUXZHdHRyc3kxVHdiTjgwT1lTVW4tN2dNcHo4VDhNMTdqUzFOYkdIaUJVY2c?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-17T01:14:54.000Z",
+          "riskScore": 52,
           "corroboratedBy": 1
         }
       ]
@@ -325,17 +431,13 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 43,
+      "totalArticles": 39,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 27,
-      "reason": "Last 3 days averaged 7.0/day vs 5.5/day before.",
+      "changePercent": 92,
+      "reason": "Last 3 days averaged 7.7/day vs 4.0/day before.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 7
-        },
         {
           "date": "2026-11-12",
           "count": 6
@@ -358,25 +460,21 @@
         },
         {
           "date": "2026-11-17",
-          "count": 4
+          "count": 7
+        },
+        {
+          "date": "2026-11-18",
+          "count": 0
         }
       ],
       "topArticles": [
         {
-          "title": "Spain investigates alleged child sexual abuse material on TikTok - NST Online",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmM0MDR5MjJKVG9ocEZtclJVQWhqaVZMRDhDcUJMX3BJMlljYnpBdnlUVmV5QjF3SFVCbHJ2Mk9SSGNhSFFfWG9zYWVfX1BEQXFBZHJMLXNWdXE4dDhIUDNNQ3BLYlo0S0t2bFNhWmI4Uk1ReHFjQ0ROZEozdG5CXzJ0VFY1TWpmaDdlbHJtcEdPeDN0dV9FSU1uT3drWmdnNnMyM2tQdjk5RU5QdmM4RU130gG3AUFVX3lxTFBzck5hNzFaZ21vNl9LNW0zQzMxOEIyWndWRFd0cjRKY0JlLUVPQXVzc2dZUDFzYTAxWmZqQ3VsMVY2cXFhTElIYnpxckZEWkpqWGE5VFdPUEpjWFdxZ0dLS2NKZmhFZ1AwbGFVNTFtT0tKQVpqOVdLYk9wVmxBZ2hkTDJ6Y2NGcGdLN3RUZmwyTFdIOGVZOGRTU0ZqZVNpOFl2MmZKM0w1SE9kcHItM19GcGVoSkx6MA?oc=5",
+          "title": "Ofcom tightens child abuse material rules as AI fuels rise - Resultsense",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGNXNlBJdnM2cE11NGkycEhWVk43NWgzcl9CajhiWm53V0xKRmR0bEJGY2RLUWlGTnV3N2V1Mm5odTE5OFlNMnlSajJTcjFnX1RNcHF4bFJ5bm92YmtqdU1ZQlhfeWdBWTRyNW1raC1UVUVta1pXYzAyTXQ1dEhmMlFKQ1o?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-11T15:42:08.000Z",
-          "riskScore": 67,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Spain investigates alleged child sexual abuse material on TikTok - NST Online",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTnJ4YUhmZ3psekFXZThDaVZvYzVMZFVQY0tWMXlFZldMU0VCeHA2TUZRT1BMUDZ3bXhYd1NkajVzVGxOSUZSV3pwT0FGeVEtbkJhY2tLSzhXV3ZBcDI1dWVNOEVEcmZQOWNSNXlidVZEY3RERHczVDZKX0thdm9MTzhZOHhwZk4zMzhGTmJfV3MtXzdONUdyRk5kWm1IYmdCUjc1ZnNpT3hZdkRlaDczcjVIMVBEWGRIcDJaTHdOZ0xQWFdO0gG3AUFVX3lxTFBzck5hNzFaZ21vNl9LNW0zQzMxOEIyWndWRFd0cjRKY0JlLUVPQXVzc2dZUDFzYTAxWmZqQ3VsMVY2cXFhTElIYnpxckZEWkpqWGE5VFdPUEpjWFdxZ0dLS2NKZmhFZ1AwbGFVNTFtT0tKQVpqOVdLYk9wVmxBZ2hkTDJ6Y2NGcGdLN3RUZmwyTFdIOGVZOGRTU0ZqZVNpOFl2MmZKM0w1SE9kcHItM19GcGVoSkx6MA?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-11T15:42:08.000Z",
-          "riskScore": 67,
-          "corroboratedBy": 2
+          "publishedAt": "2026-11-17T10:54:06.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
         },
         {
           "title": "Madison Man Arrested for Possession of Child Sexual Abuse Material - Eagle Country 99.3",
@@ -425,111 +523,13 @@
           "publishedAt": "2026-11-16T09:55:34.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "sexual-exploitation",
-      "label": "Sexual Exploitation",
-      "totalArticles": 40,
-      "distinctSources": 5,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -20,
-      "reason": "Last 3 days averaged 5.0/day vs 6.3/day before.",
-      "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 1
         },
         {
-          "date": "2026-11-12",
-          "count": 4
-        },
-        {
-          "date": "2026-11-13",
-          "count": 1
-        },
-        {
-          "date": "2026-11-14",
-          "count": 19
-        },
-        {
-          "date": "2026-11-15",
-          "count": 9
-        },
-        {
-          "date": "2026-11-16",
-          "count": 4
-        },
-        {
-          "date": "2026-11-17",
-          "count": 2
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "'Serial online groomer': Indian student jailed for 30 years over child sexual abuse offences in UK - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUw2Y0xtc0xqS2lmVXVlVkZxLVdsQ3d3eUdyQVhhMVBLendBSE85WVdVNzlSaFNUT3BicnVqeC1jdGZCXzlvcHNTOXp6Q1VNVlYzZTFudDhHaVJ6Sy1OV0tqQnBxRXNwOVBBbkNzaXpZbnNvdHBQc2ZPb0g1cGlSdzJPY2JaZU1VeGRrc0Y2MGlKZ1B2V0xOcWF1X19SVHE3cGhwcWh0ZVRGdHVmZjFIOEdSd3EzZWtIem94ZkFPanpHYkZRbENHYTRpOHdXQTQwUUZ0QjBVMm9WYUZuYlM5YVItdlYxMXd6RENRMdIB7AFBVV95cUxPQUw2Y0xtc0xqS2lmVXVlVkZxLVdsQ3d3eUdyQVhhMVBLendBSE85WVdVNzlSaFNUT3BicnVqeC1jdGZCXzlvcHNTOXp6Q1VNVlYzZTFudDhHaVJ6Sy1OV0tqQnBxRXNwOVBBbkNzaXpZbnNvdHBQc2ZPb0g1cGlSdzJPY2JaZU1VeGRrc0Y2MGlKZ1B2V0xOcWF1X19SVHE3cGhwcWh0ZVRGdHVmZjFIOEdSd3EzZWtIem94ZkFPanpHYkZRbENHYTRpOHdXQTQwUUZ0QjBVMm9WYUZuYlM5YVItdlYxMXd6RENRMQ?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-16T05:43:38.000Z",
+          "title": "UK regulator orders tougher action on child abuse material ahead of next year's social media ban - Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTlZVNFpTa0lGNDZ0UUdkNklfblV3aWZwMWtzNmsySUsxRVROVzJDQkpCWURETV9XNm85SG5yQ2Z3MFc2UjNobnlQU3NDd2ZzbkwxS1c3cTF5REEwT3dfOVV6R1drLVFYdmx6RmpmaWZ3ZnBmVTdtWTdfb0U5cU00Y2ZzLXlvUmtrT3M3SHRiRnNkbjVIdzBMSFpBVksyZmQxRnItcDk2Y1Z2Mmp6bXl0SkRrWjVnSUFubkpfZUxXWnBldUNobGVRU2JNMmRJRzhVZFZOb1BlQnlkb3U1VG9sZnZhV18xY0h6TW9sa1RGY9IB7wFBVV95cUxQTlZVNFpTa0lGNDZ0UUdkNklfblV3aWZwMWtzNmsySUsxRVROVzJDQkpCWURETV9XNm85SG5yQ2Z3MFc2UjNobnlQU3NDd2ZzbkwxS1c3cTF5REEwT3dfOVV6R1drLVFYdmx6RmpmaWZ3ZnBmVTdtWTdfb0U5cU00Y2ZzLXlvUmtrT3M3SHRiRnNkbjVIdzBMSFpBVksyZmQxRnItcDk2Y1Z2Mmp6bXl0SkRrWjVnSUFubkpfZUxXWnBldUNobGVRU2JNMmRJRzhVZFZOb1BlQnlkb3U1VG9sZnZhV18xY0h6TW9sa1RGYw?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-16T09:36:51.000Z",
           "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTBzQjNoTS16RGFGUlFGMVhKQVRLYzlFbVdEaXh4ck5RdDAyU0JEN0E5bXhEQkowbm5Ka0hyVHdELWZGdHU4NkxyZXpFTllSeG1kTHZlaFQ5VWF5OEZKUWFtbjdDRW5QNE5KUlVodEtCRGI3bjhDZU1PRFdnUEIwVDQ2c2c1enBoQWlFTGtXTzhibnVma0ZNM1V5c0d4Y3gtOTdNaWdVSGg5VExaNkRYYXI1dWhUQWZQR2c00gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-15T13:06:48.000Z",
-          "riskScore": 59,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3lyWGRKYUJvRURNUVhsZkJKd2VTS3J6QTFhOVFyanBNY25oa0VyeUFtWTE5MDhWZVB4ZWxmSm1mOFBNUGNiS1lnZnFITms5b2V0VWl0TXRtMlYtekRfT3laRnlOeDM3cTFCZ0cwcW9xVXhOYzZQbFFiNFIxdlhoT094ekRWeEgxTHhRUVRtVDVMem44dVhNMTRqRUgzOUZ0amxwdVJ4bG1aN2kyVUdnWWMzSmZEWG9KS2FvWVk0ak5qbEVoQVROREk5WHd4RWlq0gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-15T13:06:48.000Z",
-          "riskScore": 59,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Ofcom demands tougher action against online child exploitation - Indian Broadcasting World",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBib1FPRlBUVTQ0bVR4QmpRM0JuUFFaWkxXNnNkZGwtWVctbzV1ZWNqd1pJb1VsVUpCSDRvZ29yMFJmUi1FbUd2YW8wX0JhQUkwc2dhUXZHdHRyc3kxVHdiTjgwT1lTVW4tN2dNcHo4VDhNMTdqUzFOYkdIaUJVY2c?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-17T01:14:54.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "OpenAI introduces stricter ChatGPT interventions to prevent the misuse of AI for child exploitation - Digital Trends",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZl9udzZSak9VdXdlVEdiTTg2WFAyeXhmc3JyNWQzZ0RqU2hZc0J4cERUNW9Va0pZNFJUa1VXTWgxVEoyMjM4XzFMYTQ3aGtjVmhkczU5WklEazM4aXo3Tml1Q3JwUjdjZlNIREZCel9yRGRZbEwzeEYzZXlRcWoydlRzQXE2ZTdfdjJOMnV6eXNFUU4zSzUwQmRKcWt1VkZiQnN4RkltZjdGOFEtaEpfR0t3OHA5ZGRJUjY5RGRBakdFazhyMHFLbHBjVnZzd0xmaHA1V3FuQQ?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-16T23:27:07.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Strengthening the fight against online child sexual abuse with new tools and support - OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ZC1UYUtkd0JZU043eUgyaDZuV0UxTzdCRFZqX281andjdGtXTl9IN1g5dTgxSmpDRlJ2b2FFN1M1dHVfTjEzVWVMeEpERjI0RktYNzZNUzUzRW1XSDExY0psTTJ2Z1pOQ0cw?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-16T17:19:12.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Who is Bilal Kazi? Indian student in UK sentenced to 30 years for grooming and sexually exploiting at least 70 girls online - NewsGram",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGZ19WbHN3VDFBdDFVS1dxWXFubFRSLUVROGZHT3lxMTU3QzlyZzBqckFWUEdKUjl3WDVVaVl5RDVTU1kySnhnQ3hyWEZVMHZIWGJpV1p0TzBzM0FRcGRWNTZaZHk0T2d5YkxuOGRjcWpGV3gzSDc3NFltQmrSAYoBQVVfeXFMT3FpX3RQLURBYTI0UVpOYkF0bEp3cndWU3dySlByc3U3YmI0RlpHZUpiWS05RWJTZHMzYzF1ejlvb1NFMGkzbFpMd3NvdzhtdUZ4UjFPWllteUdKdGZzUUphbEt2cUw0OG5fLVRCVkZqZDcwQTF4TVlqZDYyX29jSWlxbGFfdzFMai1R?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-16T13:30:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "AI Misuse Fuels Sharp Rise in Child Sexual Exploitation Reports Worldwide - The 420.in",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcDBnUWtZVjY0TXNOenJfa19JbWdJYXpZdEJyQkxpNTFQNDMwM1BBeE9QNk41MWJhczVXMHd4Y1MyZUNtYUxGVlhFYVVNTF9vcm5HNFZDajllOVV2T0pKMWdhcXhPN2M?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-16T03:41:18.000Z",
-          "riskScore": 52,
           "corroboratedBy": 1
         }
       ]
@@ -537,17 +537,13 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 21,
+      "totalArticles": 18,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -69,
-      "reason": "Last 3 days averaged 1.3/day vs 4.3/day before.",
+      "changePercent": -92,
+      "reason": "Last 3 days averaged 0.3/day vs 4.3/day before.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 3
-        },
         {
           "date": "2026-11-12",
           "count": 1
@@ -570,6 +566,10 @@
         },
         {
           "date": "2026-11-17",
+          "count": 0
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
@@ -641,19 +641,121 @@
       ]
     },
     {
+      "theme": "harassment-bullying",
+      "label": "Harassment & Bullying",
+      "totalArticles": 9,
+      "distinctSources": 5,
+      "highRiskArticles": 0,
+      "trend": "Falling",
+      "changePercent": -33,
+      "reason": "Last 3 days averaged 1.0/day vs 1.5/day before.",
+      "daily": [
+        {
+          "date": "2026-11-12",
+          "count": 0
+        },
+        {
+          "date": "2026-11-13",
+          "count": 0
+        },
+        {
+          "date": "2026-11-14",
+          "count": 5
+        },
+        {
+          "date": "2026-11-15",
+          "count": 1
+        },
+        {
+          "date": "2026-11-16",
+          "count": 2
+        },
+        {
+          "date": "2026-11-17",
+          "count": 1
+        },
+        {
+          "date": "2026-11-18",
+          "count": 0
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Thousands of children seek Childline support for bullying as online abuse rises - Belfast Live",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmlFTkdUN0ZfNnRFODFYbWV2anNpMHBFclJfX1JVZElCWmNrTWlXcDh4amw3ejNRNy1wY3I4YTVhRXdZVEl1OGs5Wm9UY0JQbm1qQlJSb3pabGdHZGpWeXRHbEgwZHZKYy13OGUyRXlXdWdXcGVpWkkzR0FTNnJmT1RreVIzck51dGlIWmtR0gGTAUFVX3lxTE41cXJQQWFVM1dhZ3poZXdQY3dlVzFOblE2M3RvYklMY1lHdUtxZjlVbXRUM0h6dHp3SDFiMnVlT015RDRLLXZzdElBQllpbmRyNnN4YktRWHU5ZFBPYldLZnE3LTNIenluWnpqaHBKNnpQRzA3SUFzZDItU20wR242UTcyTlRGTGN3SUhEczEzVm1Kbw?oc=5",
+          "source": "Google News • Harassment and Bullying",
+          "publishedAt": "2026-11-16T07:07:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "EU cyberbullying app’s success rests on member states, Micallef’s Cabinet says - The Malta Independent Online",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXY5SFlRbzNoMGxMNmpLQnBnTUlsdVN3dDFwSHpnQXZRaHliVUVuM1NTNnRFRUNrV1lpTlJ2MFFWZFdjNXBOd2IzTkoyRzlaUUltWm8wa2U3WXNoMjE0azhBYTg0dXNsclViWG92Ym03ODhyUlBXaV9RLUgySFZKRDZ1dGhVTnBBaTAyQUdCRVpmdWMyc2N0N1lpanBsZEczSFprNDlLMG1SRnhXUHE2ZzFwcGVFMjk2WUlVTkhEcUF1eW01TzlydGxKUHJNcTNYdGdHSy1wV19TRDZoRWc?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-15T08:30:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "First Lady calls for stronger international cooperation vs. online abuse, exploitation - Philippine Information Agency",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTS03a2xJTHc5RVNXdk9reUtWNUVyelJHVmRKWmg5M3lDYlNPakpKLV9HaENTZVM3NC1iRFNVcnQ5M1RSakMzWFVYWFV3c01NNjN4VFVrVWUycWtuaDgxcmhiWmQ4SGpjdmJMelBwLXNPMG5RTndZc1FYbjhQNG1Iem9ianFoV0pHQ3AwWXNnYkdvX0pjT2NMVzd0ZjV6a0JDR3ZjeTlRSHN3d1pQLWc?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-17T03:57:47.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Gabriela-Youth Davao has expressed solidarity with women students of San Pedro College (SPC) who were allegedly subjected to sexual harassment and objectification by their male batchmates. In a statement, the youth organization alleged that five male st - Facebook",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZFNTejNtcmlwWEpSZlRyaXFNQVFZZDRScjdvTXpWdmRJbC1RYW55M0hPWG11NElqVk55cXVkSDNoWDdmWU10M29zU2FWMlFPZDhoYTJMQWZTSVZXMjBRZFlxT205eF9fdlo3RlBNakxOZGVNYURwQ2RVcTRkWllfOVN1YTNpUnFybGNDcW8td2dPUS04NkFSeEdDOG5QcFF6SG15bFVLd0NNSG9RY1BjWXYydm5INVQwMktDSjc0QmxBS003U3NWTXVpVmNpODdEaVV5clM1blJ0bEJqUDA0?oc=5",
+          "source": "Google News • Harassment and Bullying",
+          "publishedAt": "2026-11-16T01:17:36.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "UK court jails Indian man for 30 years over online abuse of girls - Free Press Kashmir",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFV6YzNkRFJFY1p0VG14TjdKMWJ3M3VKOHdadmFjZnNyRTd4SThsLTZaUXQ2aDlET3pTby05SDhqX29ISzFMV0NVRG5Wb290NGRuMGk1SG5McnBKQ05NSDJrc1FzaGdMcFg2UVRqZWF1eTlIYnYybWxGTWRNdmhYd1dTQ0NOZlRTRmd0YmRQUTdjZTFpQzJuLW1ob04zb0lEZnRTUVdZUERZMFBqY3ZpaNIBsAFBVV95cUxQWFV6YzNkRFJFY1p0VG14TjdKMWJ3M3VKOHdadmFjZnNyRTd4SThsLTZaUXQ2aDlET3pTby05SDhqX29ISzFMV0NVRG5Wb290NGRuMGk1SG5McnBKQ05NSDJrc1FzaGdMcFg2UVRqZWF1eTlIYnYybWxGTWRNdmhYd1dTQ0NOZlRTRmd0YmRQUTdjZTFpQzJuLW1ob04zb0lEZnRTUVdZUERZMFBqY3ZpaA?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-14T08:22:15.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "UK court jails Indian man for 30 years over online abuse of girls - Free Press Kashmir",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjdKRkFTcDJwLVIyU1pFNTF5TnFQLVRoU0tEMFE0dEpyME5vYTU3QjNkRmpNY3NpSWNoOGdKa3FyTWoyblhfZ1o0bWVoUkVlMU5lN2lOUDBtZTdiLVNnTndKM29DUDB0ak5paGpVQ3c3LU5PV3dmMVFnYkNicDFRcW9zYjdOTldsSmlpTlZncDhybUdjSnFjSjlwRFRLdmN6NG1XVFktSFJSN2_SAbABQVVfeXFMUFhVemMzZERSRWNadFRteE43SjFidzN1Sjh3WnZhY2ZzckU3eEk4bC02WlF0Nmg5RE96U28tOUg4al9vSEsxTFdDVURuVm9vdDRkbjBpNUhuTHJwSkNOTUgya3NRc2hnTHBYNlFUamVhdXk5SGJ2Mm1sRk1kTXZoWHdXU0NDTmZUU0ZndGJkUFE3Y2UxaUMybi1taG9OM29JRGZ0U1FXWVBEWTBQamN2aWg?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-14T08:08:15.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Indian student jailed for 30 years in UK for online abuse of children - Daijiworld",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2MmpMbEN4SW9BdjJsdFczSmVwRHBiaVJmQnJOXzN0NG9VVnVxZGFNajVpMFJsSGgwSGxqbW5Rd0ItQUNLc2FaazFNNDBuc0s2eHJCV1Fnby1vYjQtTXlULUpZYjY5Q0pzWnc?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-14T07:30:20.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Indian student jailed for 30 years in UK for online abuse of children - Daijiworld",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vbWxsMjhMMUNmcGNNYTNqYkRHWVI3enBYeHN4RkRtb1VaeGZzaU5MNlhpay05N3laRU5xdWl6RmMzVEYybUh1RzQ1S2tZV0xMM1NvdEdQNnoxODJ0NklyZnZrUlo?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-14T07:30:20.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 11,
+      "totalArticles": 8,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -87,
-      "reason": "Last 3 days averaged 0.3/day vs 2.5/day before.",
+      "changePercent": -56,
+      "reason": "Last 3 days averaged 0.7/day vs 1.5/day before.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 4
-        },
         {
           "date": "2026-11-12",
           "count": 1
@@ -676,24 +778,20 @@
         },
         {
           "date": "2026-11-17",
+          "count": 1
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
       "topArticles": [
         {
-          "title": "APCR documents 322 hate crimes, 83 hate speeches from Jan-Sept - The Siasat Daily",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2tGLXhteWFMU0dSeXQ0LWNlS2o5T1NVR25teGpuaWtFSUduX2FrOXVXeVNubXBDY1R0OTlBaVhsVFRzVXhMTXhMQUN3SUo4OXhYZDFtQko2d1BWbVFqQ25JUnhuenVSd1l1dkstbnFmT2FKcmR6eWxBUFJ3bTlEV01NWUJjbzJVVTBpTWFETDlXOVZ2TWFtX2NrN091Z9IBngFBVV95cUxOb2tGLXhteWFMU0dSeXQ0LWNlS2o5T1NVR25teGpuaWtFSUduX2FrOXVXeVNubXBDY1R0OTlBaVhsVFRzVXhMTXhMQUN3SUo4OXhYZDFtQko2d1BWbVFqQ25JUnhuenVSd1l1dkstbnFmT2FKcmR6eWxBUFJ3bTlEV01NWUJjbzJVVTBpTWFETDlXOVZ2TWFtX2NrN091Zw?oc=5",
+          "title": "Somali-American Uber driver left in coma after alleged hate crime in Minnesota - Middle East Eye",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWW9USndpU3d5SEkyMWo2aGlSaXpRekZrMFpmVjdrYkFtbzVDdElrU1dCRVRMeGZ3N2QwLS1LSDNuLXlCMllybDNkczNtZDZJZmFyOG9GazRydHU4djhHR3BRQjRHODJJbEhQTjEybnFyTEZfWlVySHFSN2F2X2ZfWENIc0FzSUhhQ043U1loX1lEc3RiN0NwU1JNQ0I1RWc2V3I0Wmt6YU52NXFMbFFrTg?oc=5",
           "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-11-11T11:56:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "BJP, Hindutva leaders' hate speech, calls for violence against Muslims, Christians go unpunished: Report - Madhyamam",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRkVKdThEdmVfd05BWXFaME4zdlpCbTB1VjNMUEdLbVRYTHlZNXhUeTJfZHZnN3NDdUdWUmYxSklpU1NKd2Nock5qU3BobS0xaF9HQmlIM0ZwYm1VOEtRRUlsRlZXUlJFTkRDdl9RalJFZENhLU40aVB1RFpzSFFranZKZ0ZQT1NDNW02WlhndTgyUXF5ZWFzWWdaR3FodDFfNEs3MzJPblpFTGNOTW91alJDS1VPNExSOGdIQ0VGdHpHTnF4WWVldDRuRVg1enJXS1NveGdhRF_SAd4BQVVfeXFMT1hNY3laZThlR1lISUZwdjNZTl9sczFzNEtYWXJnMGIwV0NuNFhxNHp0UnJYTEhqeE54bEk0R1NGX3B5NmU2QnVLVUlaZDNyNExvN0tlUW15bWdiU0M0NjdlNU1VM3JmUzRkMnY5S1JnLXhaaUgwaXZFTmVTMkxvOUdPdHo3T1huNHBFRWZoekxmWVdOLTN6VGpJSlVNWXNEUmtET0dQeHlqRE9qbVVaanpMWjh6T1ZSZVRmWnBCemh2clYyaTFDRmdlT0Rla0VXaDlHLVBtN2lQQkduYVdn?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-11-11T07:55:02.000Z",
-          "riskScore": 52,
+          "publishedAt": "2026-11-16T20:05:00.000Z",
+          "riskScore": 44,
           "corroboratedBy": 1
         },
         {
@@ -743,111 +841,13 @@
           "publishedAt": "2026-11-13T05:46:40.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "harassment-bullying",
-      "label": "Harassment & Bullying",
-      "totalArticles": 10,
-      "distinctSources": 5,
-      "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -11,
-      "reason": "Last 3 days averaged 1.3/day vs 1.5/day before.",
-      "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 1
         },
         {
-          "date": "2026-11-12",
-          "count": 0
-        },
-        {
-          "date": "2026-11-13",
-          "count": 0
-        },
-        {
-          "date": "2026-11-14",
-          "count": 5
-        },
-        {
-          "date": "2026-11-15",
-          "count": 1
-        },
-        {
-          "date": "2026-11-16",
-          "count": 2
-        },
-        {
-          "date": "2026-11-17",
-          "count": 1
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Thousands of children seek Childline support for bullying as online abuse rises - Belfast Live",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmlFTkdUN0ZfNnRFODFYbWV2anNpMHBFclJfX1JVZElCWmNrTWlXcDh4amw3ejNRNy1wY3I4YTVhRXdZVEl1OGs5Wm9UY0JQbm1qQlJSb3pabGdHZGpWeXRHbEgwZHZKYy13OGUyRXlXdWdXcGVpWkkzR0FTNnJmT1RreVIzck51dGlIWmtR0gGTAUFVX3lxTE41cXJQQWFVM1dhZ3poZXdQY3dlVzFOblE2M3RvYklMY1lHdUtxZjlVbXRUM0h6dHp3SDFiMnVlT015RDRLLXZzdElBQllpbmRyNnN4YktRWHU5ZFBPYldLZnE3LTNIenluWnpqaHBKNnpQRzA3SUFzZDItU20wR242UTcyTlRGTGN3SUhEczEzVm1Kbw?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-11-16T07:07:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "EU cyberbullying app’s success rests on member states, Micallef’s Cabinet says - The Malta Independent Online",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXY5SFlRbzNoMGxMNmpLQnBnTUlsdVN3dDFwSHpnQXZRaHliVUVuM1NTNnRFRUNrV1lpTlJ2MFFWZFdjNXBOd2IzTkoyRzlaUUltWm8wa2U3WXNoMjE0azhBYTg0dXNsclViWG92Ym03ODhyUlBXaV9RLUgySFZKRDZ1dGhVTnBBaTAyQUdCRVpmdWMyc2N0N1lpanBsZEczSFprNDlLMG1SRnhXUHE2ZzFwcGVFMjk2WUlVTkhEcUF1eW01TzlydGxKUHJNcTNYdGdHSy1wV19TRDZoRWc?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-15T08:30:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Thailand tells cyberbullying victims to report offenders directly to police - Pattaya Mail",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFFMUm15QVlMWEVLazlmbEx6ZDdPbzZVNHhFLUJYWE5wU1ZKWjk4MDVCd3hJV1BwMFIxOXppVUVPUS1kNFhGbkdTcGM3b01RaVluSV9WdUZEYk5DUjYzRzZpb0Y0cGxJUENiQjhoZ05OV3FhQ2Vvbi04eFpMX2Yyei1RZzNMVXR5RmNEcWhzM1kxQS1iVGpNSVc1RWpiRGhjN3BCSlI0VUs3MXNva2I3RGJHeWpwb3M3eXA1UXFUMXk?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-11-11T18:02:16.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "First Lady calls for stronger international cooperation vs. online abuse, exploitation - Philippine Information Agency",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTS03a2xJTHc5RVNXdk9reUtWNUVyelJHVmRKWmg5M3lDYlNPakpKLV9HaENTZVM3NC1iRFNVcnQ5M1RSakMzWFVYWFV3c01NNjN4VFVrVWUycWtuaDgxcmhiWmQ4SGpjdmJMelBwLXNPMG5RTndZc1FYbjhQNG1Iem9ianFoV0pHQ3AwWXNnYkdvX0pjT2NMVzd0ZjV6a0JDR3ZjeTlRSHN3d1pQLWc?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-17T03:57:47.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Gabriela-Youth Davao has expressed solidarity with women students of San Pedro College (SPC) who were allegedly subjected to sexual harassment and objectification by their male batchmates. In a statement, the youth organization alleged that five male st - Facebook",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZFNTejNtcmlwWEpSZlRyaXFNQVFZZDRScjdvTXpWdmRJbC1RYW55M0hPWG11NElqVk55cXVkSDNoWDdmWU10M29zU2FWMlFPZDhoYTJMQWZTSVZXMjBRZFlxT205eF9fdlo3RlBNakxOZGVNYURwQ2RVcTRkWllfOVN1YTNpUnFybGNDcW8td2dPUS04NkFSeEdDOG5QcFF6SG15bFVLd0NNSG9RY1BjWXYydm5INVQwMktDSjc0QmxBS003U3NWTXVpVmNpODdEaVV5clM1blJ0bEJqUDA0?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-11-16T01:17:36.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "UK court jails Indian man for 30 years over online abuse of girls - Free Press Kashmir",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFV6YzNkRFJFY1p0VG14TjdKMWJ3M3VKOHdadmFjZnNyRTd4SThsLTZaUXQ2aDlET3pTby05SDhqX29ISzFMV0NVRG5Wb290NGRuMGk1SG5McnBKQ05NSDJrc1FzaGdMcFg2UVRqZWF1eTlIYnYybWxGTWRNdmhYd1dTQ0NOZlRTRmd0YmRQUTdjZTFpQzJuLW1ob04zb0lEZnRTUVdZUERZMFBqY3ZpaNIBsAFBVV95cUxQWFV6YzNkRFJFY1p0VG14TjdKMWJ3M3VKOHdadmFjZnNyRTd4SThsLTZaUXQ2aDlET3pTby05SDhqX29ISzFMV0NVRG5Wb290NGRuMGk1SG5McnBKQ05NSDJrc1FzaGdMcFg2UVRqZWF1eTlIYnYybWxGTWRNdmhYd1dTQ0NOZlRTRmd0YmRQUTdjZTFpQzJuLW1ob04zb0lEZnRTUVdZUERZMFBqY3ZpaA?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-14T08:22:15.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "UK court jails Indian man for 30 years over online abuse of girls - Free Press Kashmir",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjdKRkFTcDJwLVIyU1pFNTF5TnFQLVRoU0tEMFE0dEpyME5vYTU3QjNkRmpNY3NpSWNoOGdKa3FyTWoyblhfZ1o0bWVoUkVlMU5lN2lOUDBtZTdiLVNnTndKM29DUDB0ak5paGpVQ3c3LU5PV3dmMVFnYkNicDFRcW9zYjdOTldsSmlpTlZncDhybUdjSnFjSjlwRFRLdmN6NG1XVFktSFJSN2_SAbABQVVfeXFMUFhVemMzZERSRWNadFRteE43SjFidzN1Sjh3WnZhY2ZzckU3eEk4bC02WlF0Nmg5RE96U28tOUg4al9vSEsxTFdDVURuVm9vdDRkbjBpNUhuTHJwSkNOTUgya3NRc2hnTHBYNlFUamVhdXk5SGJ2Mm1sRk1kTXZoWHdXU0NDTmZUU0ZndGJkUFE3Y2UxaUMybi1taG9OM29JRGZ0U1FXWVBEWTBQamN2aWg?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-14T08:08:15.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Indian student jailed for 30 years in UK for online abuse of children - Daijiworld",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2MmpMbEN4SW9BdjJsdFczSmVwRHBiaVJmQnJOXzN0NG9VVnVxZGFNajVpMFJsSGgwSGxqbW5Rd0ItQUNLc2FaazFNNDBuc0s2eHJCV1Fnby1vYjQtTXlULUpZYjY5Q0pzWnc?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-14T07:30:20.000Z",
-          "riskScore": 40,
+          "title": "Concern over hate crimes, speech against minorities in India - ucanews.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmlfR2xoRkpNVjdBMU9adXFpMG1SSTFEakZ1MGdEaFpLMVpFem9BeXFQc2QzRG84TXRaSllUYV9oczdNbHJCa2F2cDZxRkRPUUZlalh0a1RsVzdhcV80NXQxOXlTUDFfMlRKMFpYNlVmUWRpVENQV0lQVVA3SnpDQktNSE1xUjhYSjItQUhVX0tWQXZuNkFVVU1n0gGaAUFVX3lxTE1maV9HbGhGSk1WN0ExT1p1cWkwbVJJMURqRnUwZ0RoWksxWkV6b0F5cVBzZDNEbzhNdFpKWVRhX2hzN01sckJrYXZwNnFGRE9RRmVqWHRrVGxXN2FxXzQ1dDE5eVNQMV8yVEowWlg2VWZRZGlUQ1BXSVBVUDdKekNCS01ITXFSOFhKMi1BSFVfS1ZBdm42QVVVTWc?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-12T11:20:00.000Z",
+          "riskScore": 44,
           "corroboratedBy": 1
         }
       ]
@@ -855,17 +855,13 @@
     {
       "theme": "human-exploitation",
       "label": "Human Exploitation",
-      "totalArticles": 8,
+      "totalArticles": 6,
       "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Rising",
-      "changePercent": 122,
-      "reason": "Last 3 days averaged 1.7/day vs 0.8/day before.",
+      "trend": "Falling",
+      "changePercent": -33,
+      "reason": "Last 3 days averaged 0.7/day vs 1.0/day before.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 2
-        },
         {
           "date": "2026-11-12",
           "count": 0
@@ -889,6 +885,10 @@
         {
           "date": "2026-11-17",
           "count": 1
+        },
+        {
+          "date": "2026-11-18",
+          "count": 0
         }
       ],
       "topArticles": [
@@ -939,39 +939,19 @@
           "publishedAt": "2026-11-13T00:38:00.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "SoCal man abandoned teen on L.A. freeway after abducting him for forced labor - AOL.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yOUFXMmp4cTRnNTlMWkZYVUtYOENXMGNhNkxpUkJ1X1BxV2lzS0xWeHV0azdPcEFPdm50NzEyN1QwV0otUnpBRHlGOFU4T3JrdHlhVllJMU1QQnN1QWk5cDZpVXBXMVVzQk5YQVFtbXBxY3ktdHlPQjFSdnM?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-11-11T17:55:15.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "SoCal man abandoned teen on L.A. freeway after abducting him for forced labor - Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWl9zMGFwZUpwbHNjVVRvd0hVLUNwdkRlZHBBTUNHT3pNQWJlZ05UTGVJR05zRW5SLXhKemVHZ3lNdXBNZGgyNEhoTlhxeU82LXptekkzb1FuZl9oQXpvellCcmdwSWJqenYyOFVtZFJ4YTQ3VkM2RUxXaGJfQjBMVkprZTlfN04wZFpVcGNNbzdJSHZMOUc0RFh4RUR1TVM1QmVFZ3pQQ3Y0ZGdPVHRSRG1sb0lsYURKS3JoWm1WRnMxTmhoaGc?oc=5",
-          "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-11-11T17:55:15.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 4,
+      "totalArticles": 5,
       "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Low volume",
-      "changePercent": null,
-      "reason": "4 articles in 7 collected days.",
+      "trend": "Stable",
+      "changePercent": -11,
+      "reason": "Last 3 days averaged 0.7/day vs 0.8/day before.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 1
-        },
         {
           "date": "2026-11-12",
           "count": 2
@@ -994,10 +974,30 @@
         },
         {
           "date": "2026-11-17",
+          "count": 2
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
       "topArticles": [
+        {
+          "title": "The CICC has warned against social media posts inciting violence amid protests coinciding with the ASEAN Summit. It says it has identified individuals behind potentially threatening posts and is assessing their credibility for possible action. | via Zyann Ambros - Facebook",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1NySmJaYzE2d2FEOFpuRDBvLURXbllTNnVrdEkyc3lnUWZVSU1NbGU1V0VMeUwtcTE4eUJNSEt4b2c5UDRTbTB2c3VzNGVCa21qRUEtYzYzT1hUOFZiVHpfb2pxNEhOTE1lN1dMSjExTTVtcjh1T0xEWVMzNkt2UDlKdG5mYXdHT2dzXy1iOGpzZWlpbklSQ3VlZ3l3cTZQbEVsbWlnNmpCQ2x6UFpDZURlaWhFSm01VWFvTzBkU2tvRHRjZ2N3UUxob3NUSlF4LTR2b3Yzaw?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-17T08:24:12.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "CICC warns public against online posts inciting violence amid ASEAN Summit - DZRH",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZG5lQWNwdmpISXFTT3o1RTM0QkNLc1VsREppYzVma1hFNVB5RkVjS1NsbmlsT0owYkpoUG1vUG1Hc0ZfTWJyNGRhY2IwRGlSY2hXV2w2YlNyYkY3QUFVNW9PVC05bFExc3g3a21YcFh3MXdoNEl1MUVSS1dxazBudU5IeXMtdE56Q0NJclBIWmRfRi1iNTVlR1A4LXhNc3RtWXpnRWJn?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-16T22:23:26.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "Swiss men take to streets, call for stronger fight against violence against women - The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGo3TVF5RGs3NkN0Uk80cjBhakJ6S2xrc2tGbEZOLWhzdjVIMmh1ZTFrVGZLSVRqTko2NktlbVVYdUZqN1prbEVOWGZsT1Z3S2xQMDc1Z1pCMVpNTlF1MFpFTW50TmFvWXIzN2tSeE9qR2l6RGlvTnVZdkItZ05hSUlzTzFsdzNFNkIzM0txT1hVOFFRS2lZeUthNWw2aDVCbktxeklwT3FRRG5qdm84NHJsQ2dGandiZFVsYi1QUkRFY2wwcmxnekhabEFJY2s5OUlKRXBUck1JbDMwOGM1UUd1RThVcFk5NFFr0gHwAUFVX3lxTE1tZmJYN3JacXVrTnY1RWsyNjVTdi1nbV9JZnFhZXNYS2JrbkdSRDdwLUFnQTk3Vkl2N1FtLXpRN0F5QllrMV9pUnBnalVqdG9ubUUzaWNoNERhY3RPUkVuQlV3d3Q2VGZLTjUwRUZFd2YzUDcwQkNiWnV5U0UtXzAxaDlQejJHbE9IaHhuSVJLbmxZYU5idkhINWNWM1FBd0Z4ZmxlUWMtczUxZ1V1V1ZfeUNjRHdxa1ItSl93Yk9hXzZZZklaV3Nqek13dGtMZzA3NFlsdnpJclFfNG1QZkFOM1o2NURvcXRuUWVhTkctWg?oc=5",
@@ -1021,14 +1021,6 @@
           "publishedAt": "2026-11-12T05:15:14.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
-        },
-        {
-          "title": "False reports could trigger violence, undermine 2027 election – IGP - The Nation Newspaper",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFE4RDhUWFhieDFUaThPX05xSEJWQkpuZFprNDlDbzlNRHhYOHR2cktFNlB5UFJuTGI2M2h5Rzc3R3JGVXBVUnRYeC0xS3dCcWdGVFBXZjZzVURZcEMyM3p4LWlwYVBjcWszSFM5VHA5elRmS0FvNWx2Rms5clIxTzhSdmN3QmxyRHRzQkpJaV9PYlc0ZGwxOWwtONIBoAFBVV95cUxQS0hIMm11V1B2VzZHZjRUWmtyamJETklnVzN5MmU3RWN6ckJfcVBaT2wxekU4MlN1QTJUbTZFUEtoNFloVlRnbE1aei1aN216aVc0Z0dKdkNrY2F4S1FITHM3ZGpHVG8zaWFqcXEwMllMMWhZU0w4MTV2OXNodDJqMVVEQ2d1RDU4bUlOcUtUbWtyUFZOSEZ4azRQM2FCRjZE?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-11T13:17:24.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
         }
       ]
     },
@@ -1042,10 +1034,6 @@
       "changePercent": null,
       "reason": "3 articles in 7 collected days.",
       "daily": [
-        {
-          "date": "2026-11-11",
-          "count": 0
-        },
         {
           "date": "2026-11-12",
           "count": 1
@@ -1068,6 +1056,10 @@
         },
         {
           "date": "2026-11-17",
+          "count": 0
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
@@ -1109,10 +1101,6 @@
       "reason": "2 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-11-11",
-          "count": 1
-        },
-        {
           "date": "2026-11-12",
           "count": 0
         },
@@ -1134,23 +1122,27 @@
         },
         {
           "date": "2026-11-17",
+          "count": 1
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
       "topArticles": [
         {
-          "title": "Malkajgiri AHTU Holds Human Trafficking Awareness Programme for 70 Students - Hyderabad Mail",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREZtelRzVEk0enlNWFVrYVJQdW9YRDdsamZMNWxUSlpSUVRGalcxMldqTHAwZEg4ZHhHUXhSeEsydDA5WE1NRmY1dXZGR19uY3VHQUlqZHBjZmxIYmFxM0o4YmJ2R1dqVVJlWWZQWFpYSVdjMFRiWVFxY0RSSl9iY3JER3NrSVl1dW40dUFDSlJUTHhEVTVKVVZibG0?oc=5",
+          "title": "Lawmakers Demand Victim-Centric Amendments to Human Trafficking Bill - Ratopati",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQkhJX1FaamRoajgxODdvaXlfZ2YySGNwLVpZdlB6RjRBTWhpenhKeUxmVmZXS1lUSTFBbXRpbUNEcUlyM0ZpTkxTc1RZREdKNDBKMHBVUF9WSUsyYjRBUHdjX0ZtdTBiOGFiWWlqbkZTVnJsZFNOTVBHNWtFb01yOEFfYkwyX0Zxcm82NUJTR1VqLW9VT1luMGJ3a3RkUzZKTkE5N1BwZ1cxaS1JZE5leDdXRktrRUZDeFBUdGVQT3BVQ0lUbXFscVZVY3V2ZzYwbDRUekdB?oc=5",
           "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-11-16T12:28:49.000Z",
+          "publishedAt": "2026-11-17T08:36:46.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         },
         {
-          "title": "Nukila Evanty: Gender blind spots undermine Southeast Asia’s fight against human trafficking - Independent Observer",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZC1BbWNlTEZxUVVCVkNOUWh4cXk4YkExY18xdHI3VWNYNmlONFhQbUlsem5aOGFsNEVoMkNFY1dLVi1mb0V1YU1HMWVpeHRJQUZ4RDBNREFKUHprZGYzUFNjRjh2WXdCWlpTZW9OVTdKYmQzWF9zVmRGNFZJNjI0VndZNEQ2TjFtaHBpS2Z3TnV1T1EzenpUaU1YVnRNek5ER3FZSzRJRi0zRkNoS2lxNm1RODQ?oc=5",
+          "title": "Malkajgiri AHTU Holds Human Trafficking Awareness Programme for 70 Students - Hyderabad Mail",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREZtelRzVEk0enlNWFVrYVJQdW9YRDdsamZMNWxUSlpSUVRGalcxMldqTHAwZEg4ZHhHUXhSeEsydDA5WE1NRmY1dXZGR19uY3VHQUlqZHBjZmxIYmFxM0o4YmJ2R1dqVVJlWWZQWFpYSVdjMFRiWVFxY0RSSl9iY3JER3NrSVl1dW40dUFDSlJUTHhEVTVKVVZibG0?oc=5",
           "source": "Google News • Human Exploitation Abuse",
-          "publishedAt": "2026-11-11T12:46:02.000Z",
+          "publishedAt": "2026-11-16T12:28:49.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -1167,10 +1159,6 @@
       "reason": "1 article in 7 collected days.",
       "daily": [
         {
-          "date": "2026-11-11",
-          "count": 0
-        },
-        {
           "date": "2026-11-12",
           "count": 1
         },
@@ -1192,6 +1180,10 @@
         },
         {
           "date": "2026-11-17",
+          "count": 0
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
@@ -1217,10 +1209,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-11-11",
-          "count": 0
-        },
-        {
           "date": "2026-11-12",
           "count": 0
         },
@@ -1242,6 +1230,10 @@
         },
         {
           "date": "2026-11-17",
+          "count": 0
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
@@ -1258,10 +1250,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-11-11",
-          "count": 0
-        },
-        {
           "date": "2026-11-12",
           "count": 0
         },
@@ -1283,6 +1271,10 @@
         },
         {
           "date": "2026-11-17",
+          "count": 0
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
@@ -1299,10 +1291,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-11-11",
-          "count": 0
-        },
-        {
           "date": "2026-11-12",
           "count": 0
         },
@@ -1324,6 +1312,10 @@
         },
         {
           "date": "2026-11-17",
+          "count": 0
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],
@@ -1340,10 +1332,6 @@
       "reason": "0 articles in 7 collected days.",
       "daily": [
         {
-          "date": "2026-11-11",
-          "count": 0
-        },
-        {
           "date": "2026-11-12",
           "count": 0
         },
@@ -1365,6 +1353,10 @@
         },
         {
           "date": "2026-11-17",
+          "count": 0
+        },
+        {
+          "date": "2026-11-18",
           "count": 0
         }
       ],

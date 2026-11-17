@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:14:34.216Z",
+  "generatedAt": "2026-11-17T21:10:01.200Z",
   "snapshot": true,
   "date": "2026-11-17",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 7
   },
-  "message": "No verified news was found for 2026-11-17 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 49
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,56 +51,56 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -141,15 +141,15 @@
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,111 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Cyber Attacks in 2026: Major Websites Targeted as Ransomware and Data Breaches Shake the US - Aktualita.co",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjhpNzJIaHZObFFoQWJJR1FkcV9pcmFFTUVySWtsODMtMlZFV3ZPcEJaNks4RDRNblRWNHVUbUVibm8teklDT0VfbXdaSDV5cnVFLUl3MUZDR0NJOTU0VzBlbjRRQ1BFd2xVWVRGMldaSjRUamZ1UGRVRWNRWUw0NC1TX3A5QXgyd3pFZw?oc=5",
+      "snippet": "Cyber Attacks in 2026: Major Websites Targeted as Ransomware and Data Breaches Shake the US Aktualita.co",
+      "publishedAt": "2026-11-17T16:39:47.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
+      "snippet": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-11-17T06:18:25.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India - Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeDAyMkRrUEFpdTNDMTU4bEk4aWI5SXRGVjVQV0ZOb3lrMlU0WGxKNDJlMmxIMjE5LXFhV0w1Q1pxWUZodFVJN3hMcjBKZXJUT1phTXVxUmZodVNjOGI5QjViZUdyaUpTbXgzTEJGZ0FUR0I4c3dCVmpuUXoyVDJGbDh2TlJ4TThnRVo5UzdQVy1PQUJKYXExRDNteEtRRGhPVk04TFpnWk9WNEFpZnprRTRyM2p5WlQyTkVDenZrNEZJR0d3dTB4Z3FlbWVTajhyMF9jckJETndhd2E4dnhvUzBnZ2FGV3JMVkcw?oc=5",
+      "snippet": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India Big News Network.com",
+      "publishedAt": "2026-11-17T11:30:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The UK retail sector is facing a cyber security crisis - Crowe",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HNXVJbTlCLWN3a0hJRHN0cUJzOVZ5VmpPZ3RtcnZQYXpQNy0xbnVnWERUOUs1N1RYbUQ1NG5GTVd4MU8yaEN5bnR5NnI5Y1FmWE91UWtpY3pGTUZEd3o4OVlJVjRxMTNidmVUTi1BOHFzams?oc=5",
+      "snippet": "The UK retail sector is facing a cyber security crisis Crowe",
+      "publishedAt": "2026-11-17T10:58:06.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites - SecurityWeek",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFcyTFE0b2NfSjg4N3E4eG9VQ1IwWXBraEQ4TjY5YU9iVE96OVZNcGdtWGJJX1JBTmF1TWtXbkM3VGhndHBkU1Vpc0ktRXhpODJ6eHdaSEtDMjJtcy1hRV9fSkZGZDg1ZEdQSGJ3dzZJUjdIb2ZURDNUem4wcFQ1V2FfOUFMdXpjSXJfbHMwRmJrNjVJeXVkbVQ1Z1ZhQUN2?oc=5",
+      "snippet": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites SecurityWeek",
+      "publishedAt": "2026-11-17T10:22:20.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Microsoft Warns of High-Volume Phishing Attack Exploiting Microsoft 365 Service Disruption - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xMHhQdkduSmt0Y0dvcjFNc2xGbVNmZXRyci1LemlCdThpaWlkS1ZUaU8wMzB2UVpERGNaQ0NKVGJCdENOQjhfVkd4NFoySm5tWXlxWHNWaTJoS2NFbDJ1dzlGZDNXTU1VX3Fha9IBckFVX3lxTE04Sk5DWXJqMmFWb0RUV0dwb2dYUGdnbEdJeGZGSnVrdmNLbFRjNjZ5VlpGQVJuOGdjMVJPRmQyX1hpcnRJWWh5Y0RYemNuWklmYjZySU4xVmVNM09GVjllZFBhWklMV09QX1lyMWhjdHZkQQ?oc=5",
+      "snippet": "Microsoft Warns of High-Volume Phishing Attack Exploiting Microsoft 365 Service Disruption CyberSecurityNews",
+      "publishedAt": "2026-11-17T09:40:39.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVZBQzBPVURZYThmeFN2RG55UjNUbnJha2hqc1VnOURoVUdSWkRWbG04dWpTOHJ1NEZBY2F2TXhWZEJBZWEwOGs4bnowcTJrY2M0R1NhR3NMSDRtNGJfRXdzVkxvcFNYa1YtVmxDS2I5ZDlrM2pnYVktdnhGVHNnNUpZXy0?oc=5",
+      "snippet": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors The Hacker News",
+      "publishedAt": "2026-11-17T07:12:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

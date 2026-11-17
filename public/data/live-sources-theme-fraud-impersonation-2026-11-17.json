@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:14:34.216Z",
+  "generatedAt": "2026-11-17T21:10:01.200Z",
   "snapshot": true,
   "date": "2026-11-17",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 10
+    "total": 17
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 49
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,56 +51,56 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -141,15 +141,15 @@
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -192,6 +192,21 @@
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Algeria busts scam ring that impersonated AADL and BaridiMob via 18,000 texts - وكالة سوا الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXkybHEwcTVhUUYzTjBkMGJ3MlVjV2k4M2tURi02RDE4NGVqSktKUlhlXzdveVhPbXlDRVctZ3J4ckZhcTVfb1c4RGd0Rk1jelBkWmk0ekY1MEFiYk9Va3BFZjE2ZEg1OXllMEJpTTdEOGJFZVFYaHZMNU1VaUsyMGluaXNYNG1rMkJhM2RiQTIzMUpYazIyLWY4bU96SGlIWFJ3cjRDWW5ILURSdVpub1hZS041LXc?oc=5",
+      "snippet": "Algeria busts scam ring that impersonated AADL and BaridiMob via 18,000 texts وكالة سوا الإخبارية",
+      "publishedAt": "2026-11-17T15:23:17.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -242,10 +257,100 @@
       "corroboratedBy": 1
     },
     {
+      "title": "India Secures New Support Against Overseas Cyber Scam Networks - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmZ2QWFqZXhNNVVLb0pIYUlJYnRyR1hSQS1jMl9laGlnM2VicnMwSkMwdC0xaXJwcFdOUkd1Sl83WTVJMEFULWJTWE5kSG8tanRhbTh2d1hKUGItSlNqalhzeEpEZEFNMnV0WHJwMlh6N29LREhRQU9kWVJyUVM0QWpSOEgwbXVy?oc=5",
+      "snippet": "India Secures New Support Against Overseas Cyber Scam Networks The 420.in",
+      "publishedAt": "2026-11-17T17:37:11.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Major Increase In Investment Scams Reported By NI Consumers - Business Eye Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTBwUE1iX1pTWGwwSHUxMVFiS0NkdVRVdUZGX3VlSGJpRzN6NElSNWJLdDdSeVN5YVR3V3ZXdlNleGs0VFZKRlI3ejFZNGItS1VvdTlYUUR0VWVYQ2t6dnUtZjhBNERkQ01HQTNxU0JsRW1NYW9PQVBwQnc2ajMwSkhScVhGY2thY210VWxrb0Zvd2JtTlFYUmhfbw?oc=5",
+      "snippet": "Major Increase In Investment Scams Reported By NI Consumers Business Eye Magazine",
+      "publishedAt": "2026-11-17T13:30:46.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "President Ferdinand R. Marcos Jr. on Tuesday urged Asia-Pacific powers to collectively act in combating transnational crimes, particularly online scam operations. The Chief Executive made the call as he chairs the 21st East Asia Summit in Pasay City, which g - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVC14UmVPWFhYc05RUm1kamlJRkExSmlZZzFOSUxDUktuZXhSLVRkei1ta19IZTZpYlY4SGVuYm9VVXE1dk9tNTEzenBSOHV5UzRzZWY5VWF5MXhGVlhLamJsZ1FCN0JwN1ZoeHFLYjNVRUp4b20yWjhHLWkwSGlod2YzX0w4TUhRYjJZM1Jna1lMWHQ2V2RXOE4yQnJwVmxoMUEzVnlQVWk2ZWNQQUtUNmFPY0p4ekNacWNlZUhlc3pTbjFhVU1uLXdKRkkyZXZRRGlkWQ?oc=5",
+      "snippet": "President Ferdinand R. Marcos Jr. on Tuesday urged Asia-Pacific powers to collectively act in combating transnational crimes, particularly online scam operations. The Chief Executive made the call as he chairs the 21st East Asia Summit in Pasay City, which g Facebook",
+      "publishedAt": "2026-11-17T13:00:48.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI misuse among staff rivals phishing as security threat - CIR Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9za3NnSVB6dC1tUktzTU5WNGlpYXBYUkNkUlZHQzFTXzZRSEpNWkxOcXQ5QWhmY29DYllzYW56bm9aOTcyT3lnSWkzeUlLZGdtb3FlMXJEdmhmUEU?oc=5",
+      "snippet": "AI misuse among staff rivals phishing as security threat CIR Magazine",
+      "publishedAt": "2026-11-17T11:41:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "IACAT seeks closer ASEAN cooperation vs trafficking in scam centers - Philippine News Agency",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0Nla25ZNjc2OFBJNEhVZFQzNWlKU2JsSnc4WFQ1QTBFbUJQMUR3OW1TbGlFRkd2bVVLZXRJenlsbU1qbjhKb2tFZzVEYy1BakEtVUJZb3dOM25ROU1jMVRtamt1aGlPME5BRWxEa0h0T25IQVkyNTBvbnY0MExVNlRoaWU5TnJRQ1FDYUtOZE1ZeHAxcHRaZHV3SnFidGc?oc=5",
+      "snippet": "IACAT seeks closer ASEAN cooperation vs trafficking in scam centers Philippine News Agency",
+      "publishedAt": "2026-11-17T10:48:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU Report Exposes Social Media Giants’ Failure to Stop Scams - تسنیم",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXJGa3ZreXR1d01EaWFiOEFOUDVtdWFHdFBpT0pseHVaSjNrLXNiZlQxaWJqS0ZlbXQtUm1hdFdiRUR5U0VPeEl6Y1k5dHRvaklHRmlTWFJrWnhhZk9vOFVxN3RGV19TZ1ZUTFlDUGJ6NEdaSEJUT0tmUUVrQzNKdGxQcUdVamkyd3F1cEN1SGd2V1NuZW90czE3M3hidUJpR09oOGtiWW1oNGdhSHZ6eU1n0gG3AUFVX3lxTE9ZUFZSSEhISVVJOEhldGdJZk1yaUpMUWxUN0VWc1hrTDJHNndtV3Y3SjNIRmhLLXFzNVJvR1hsMUdhYm9xX2kzWFpwT3Q1TG4wSUQ0OGZjSWVDSC1oRERYVXljODc0NnhObHBQRk5TS0dLbnJLVWN4SjhQWEtrb0VIS0dGQ05nTnRmbWthRlFJNEJQUkdZd0dfYzBrc0xlNkFLUXFJVGRYa3cwYS1kZklUemZTU0Z6QQ?oc=5",
+      "snippet": "EU Report Exposes Social Media Giants’ Failure to Stop Scams تسنیم",
+      "publishedAt": "2026-11-17T10:33:08.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "PROJECT: HOLIDAY SCAMS - CRIMINALS TARGET YOUR MONEY BEFORE YOUR HOLIDAY BEGINS (PART 1) - Mike Bolhuis Specialised Security Services",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXdsdGVSNE4yMTM1ZXRSQmtHLU5ReDl1cHVUTWRDbkdDWE94QUZhcEN3MHNvdG9vS0VoWTdJYzM0QVMwSnpFMGpQbzg1cE1rRXdXbmtKMV96T21GeGEycHJ2d1kzdWlocjVWMlBxQk5rVDRxQWNJUDlZUHNjdXVXb2FtWFJTekdlVmxELWJrZkJIMTc2QmotVTFrangwSDZlRDRVRFNLSjE5VzhCSXBLWkhVR3huY0ZGRkE?oc=5",
       "snippet": "PROJECT: HOLIDAY SCAMS - CRIMINALS TARGET YOUR MONEY BEFORE YOUR HOLIDAY BEGINS (PART 1) Mike Bolhuis Specialised Security Services",
-      "publishedAt": "2026-11-17T06:26:20.000Z",
+      "publishedAt": "2026-11-17T06:31:22.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:14:34.216Z",
+  "generatedAt": "2026-11-17T21:10:01.200Z",
   "snapshot": true,
   "date": "2026-11-17",
   "filters": {
@@ -7,37 +7,37 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-17 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 49
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,56 +51,56 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -141,15 +141,15 @@
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "The CICC has warned against social media posts inciting violence amid protests coinciding with the ASEAN Summit. It says it has identified individuals behind potentially threatening posts and is assessing their credibility for possible action. | via Zyann Ambros - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1NySmJaYzE2d2FEOFpuRDBvLURXbllTNnVrdEkyc3lnUWZVSU1NbGU1V0VMeUwtcTE4eUJNSEt4b2c5UDRTbTB2c3VzNGVCa21qRUEtYzYzT1hUOFZiVHpfb2pxNEhOTE1lN1dMSjExTTVtcjh1T0xEWVMzNkt2UDlKdG5mYXdHT2dzXy1iOGpzZWlpbklSQ3VlZ3l3cTZQbEVsbWlnNmpCQ2x6UFpDZURlaWhFSm01VWFvTzBkU2tvRHRjZ2N3UUxob3NUSlF4LTR2b3Yzaw?oc=5",
+      "snippet": "The CICC has warned against social media posts inciting violence amid protests coinciding with the ASEAN Summit. It says it has identified individuals behind potentially threatening posts and is assessing their credibility for possible action. | via Zyann Ambros Facebook",
+      "publishedAt": "2026-11-17T08:24:12.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CICC warns public against online posts inciting violence amid ASEAN Summit - DZRH",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZG5lQWNwdmpISXFTT3o1RTM0QkNLc1VsREppYzVma1hFNVB5RkVjS1NsbmlsT0owYkpoUG1vUG1Hc0ZfTWJyNGRhY2IwRGlSY2hXV2w2YlNyYkY3QUFVNW9PVC05bFExc3g3a21YcFh3MXdoNEl1MUVSS1dxazBudU5IeXMtdE56Q0NJclBIWmRfRi1iNTVlR1A4LXhNc3RtWXpnRWJn?oc=5",
+      "snippet": "CICC warns public against online posts inciting violence amid ASEAN Summit DZRH",
+      "publishedAt": "2026-11-16T22:23:26.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:14:34.216Z",
+  "generatedAt": "2026-11-17T21:10:01.200Z",
   "snapshot": true,
   "date": "2026-11-17",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,28 +16,28 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 27
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 49
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,56 +51,56 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 34
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -141,15 +141,15 @@
       "label": "Google News • Malware and Abuseware Campaigns",
       "theme": "malware",
       "type": "News",
-      "status": "offline",
+      "status": "online",
       "itemCount": 0
     },
     {
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -208,6 +208,36 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact-Check: Are MPs Exempt From Paying GST on Cars, ACs? No, Claim Is Misleading - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHVwUnJPVDZWNVc0YkhtZkhQRkMza0JucjJEUFBuNHRTa1lNOEJ0ZmJhakQzRzluN0pxX29UdDFneFNOUzl3djRSSzdKNm9ScmRyZ05BZ004M3pRTnZaTGxsSFZsSkZRZ0p6RUtNM01uRENMVXczU3otcjUwYV85TUNGNVpHSUNvcnBCT044ZlJ6OU9KZ2ZjVklMYkhBZzhHdEI00gGwAUFVX3lxTE9JWDMzVGtHOWlIdHR3cmVXTE1GUkNHSlVLbC1Rc29rMzJ5S1VkNGhraGtLQ1p6SlpRd2Y1SVhOMFh2elNZc0M0TlNPVG41WU1RdmlldkhYT1JpQzBQN21wMlRHSnhieDlWazlvZm1IZlJnNTR4dDFsRWE1cGNlUDB2RGJqZlNmZzNWTlJuZUJlbHhyUWluZzBtX2JfNWN5YmUxdHJ1YVNRWU93TS1MQjdU?oc=5",
+      "snippet": "Fact-Check: Are MPs Exempt From Paying GST on Cars, ACs? No, Claim Is Misleading The Quint",
+      "publishedAt": "2026-11-17T09:18:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bulldozer Action in Tripura? No, the viral video is from Bangladesh. | - FactCrescendo",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVhNaUFHR0RPbmFjVmlncU1BcHd6YjJmRl9KSEs3VlpkNk5WcmNqM3lxc0Z4X2VBOFF3OGdNd2xzWUh3N2RUak0tNGYwcDJqZExyMEhxNWNTdVdoeDVPejdLQ2lCVGNlWG9EOE16bF90Mk1GMnE3UHZROXlDblltcHVablAyMmE0ak54eWRYVkJBUDZjd2hDYjFFSl9jRklhWlNIWWVTU0Y?oc=5",
+      "snippet": "Bulldozer Action in Tripura? No, the viral video is from Bangladesh. | FactCrescendo",
+      "publishedAt": "2026-11-17T08:38:10.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
