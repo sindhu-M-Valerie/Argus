@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T21:10:01.200Z",
+  "generatedAt": "2026-11-18T07:47:40.065Z",
   "snapshot": true,
   "date": "2026-11-18",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 23
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 25
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 20
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 43
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,96 @@
   ],
   "data": [
     {
+      "title": "Norway warns of rising extremist threats despite moderate terrorism risk - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHV1bWd0cDJab3FscnY3cUE3S1A3S1JKQWhPMFBJQjhBV3Y1QUFlSEJxSUQ2VTZVMkFQMWRIb3NQb2s4dnVJMVBaLVVTdm9oT1J5VzJtSFBaMFJQT1ZQaklJSk1kZnU2REtZU19PX2NTYTdfSlBUTVozeDVpcHgtMEIzbU1KbVRITDNsR3JNMUVXek9tdXQ3Yw?oc=5",
+      "snippet": "Norway warns of rising extremist threats despite moderate terrorism risk Latest news from Azerbaijan",
+      "publishedAt": "2026-11-18T06:33:45.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Junior journalists: How young reporters can learn fact-checking, interviewing and storytelling in the age of fake news and deepfakes - Education Times",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbnNjemNwVDFCOWloU053SHlGM1VObHAyRUFPOXc2dDZfSTBXc3hPWVNPOFpwRmFacDUxOFpzenVtQmxEeW5FODdSNko5UGdLUDIyV1RLNVljOW1XNmZfUm1LVVdPRWNGUXpUUVpHd2lLazhSa0IydTJEa3prTkVZNDBJc3doNlVuMG02bkhBM0d2YjFEQnhreElxbVpSMnY0aGVjQXE0aUxRa0VLdmJsNmhVWmhuVFhoalIxSjBsbjdBMkNwWENCXzNJTmV6MTFPRW11UmNjdm9DaWpkTVpnM09kbktSSkp4WUM1bS1wd1UzT3ZKOGFsTVNzUXNoY0p1WGZTZW9aRWozc3R5VERHUGZ4aUQ3b2lyZTZBQmJzcWJwUQ?oc=5",
+      "snippet": "Junior journalists: How young reporters can learn fact-checking, interviewing and storytelling in the age of fake news and deepfakes Education Times",
+      "publishedAt": "2026-11-18T02:00:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Sonia Gandhi’s book ‘Belonging’ sold as scrap at roadside stall? No, video is AI-generated - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQazhYXzFaX3Rtb09MaXhDUzBONmpIbDR3SXNIQUUzRE15b0dQbmNqYTFabUpuX1hDQVVaallDQWlZN3QyNnpINWNVa0JDcEp0cmdmWUJ3eUdmbWhaakVNXzV6U3hxd1doRzdfM1pKUm15QzR1a0prYnNUMDhJWkljODBTUGNDbFY2RVNnWXpDMTU0SFJCc3NReXQ2MEliMHZJbHBDbUFxVUg5TmV0VE83QmZQcmJmbGNsZE10WDlpbkR1QldJSm0xdUVmc0tSVHBT?oc=5",
+      "snippet": "Fact Check: Sonia Gandhi’s book ‘Belonging’ sold as scrap at roadside stall? No, video is AI-generated NewsMeter",
+      "publishedAt": "2026-11-18T06:45:43.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PROJECT: HOLIDAY SCAMS - BANKING FRAUD, IDENTITY THEFT AND HOW TO PROTECT YOURSELF - Mike Bolhuis Specialised Security Services",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTRsSUIxdDJ1N3BkWnRHekZPcVgyQ1E1MUttdDRqZm9KaExRT29pTmlLSEtjWm5Hai1nNGdKci1uaV90anZTYXpiSnJTV3BJS0xyRUJFd18zdzRVN0cxYVIxUTVmOEd5bG5aaVpHdlBpRGMwMDVPNkVvNnhsNjEtV081dGFkUGZ1RlBiSXVHREp4eGJFaTEzamRGcDJXNS04NVhGYUs4QWJ2QWdvaXp3RHFhVQ?oc=5",
+      "snippet": "PROJECT: HOLIDAY SCAMS - BANKING FRAUD, IDENTITY THEFT AND HOW TO PROTECT YOURSELF Mike Bolhuis Specialised Security Services",
+      "publishedAt": "2026-11-18T06:09:58.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "11 trafficking victims rescued, 3 Malaysians arrested in alleged Ilocoste Norte scam hub - ABS-CBN",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUEhwTE0zR1Zpd1RoRl9vZ1REX3UxSHBpeC0wSE1aVE9EVzlDZmxlZVZPMGcyR1lnYWxSVENZbDgyR0ticFJwMXBiVDBhN3ZSNWVjQ251MnZOYWdxSzhRdGFOdVR3VXgyZW44MVZHQmc0Ri1VS3dpWWZkZnlSbVpSTWNjanVvQUhQRXZoU3VHVExGWE13aVhXSWJ5RGZmZ1VUR20xWi0wMHpnRnczQ2w1Zmt2bk1kS2F3X0l4TTUzeVRiOVpSS0J0MUhRM0s?oc=5",
+      "snippet": "11 trafficking victims rescued, 3 Malaysians arrested in alleged Ilocoste Norte scam hub ABS-CBN",
+      "publishedAt": "2026-11-18T05:40:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming - WGME",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOU5nand3QUdXVlZlZElBTkxsYlFReHY5TnhNM0RTaElheEVrMTN4UW4wMnFFaFZSWUJiRXlaMHJsMTRsYWVNOGZZTGlvbmNGOUVqcGhyRU1KZFRiTTdhVVRfc2VORzlmSTBDcVppSVNaUE13LUtJajhLS1BaTFlOa3pYOXRuY2hnUVdKS0NxRzhtNi1jLXFRRXdoRVd4d3VQd3VfVl8tTjlSc3dOU0xsaWNnWjZfcGxURnZLUnlfWUt4NGljdEJuclM0VWxNOHk0MHBpUTdnRFF1aVdsN20weklwSHJfZ0xKa19NRWJB?oc=5",
+      "snippet": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming WGME",
+      "publishedAt": "2026-11-17T19:43:32.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming - National News Desk",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEE2S0N2VnloTDRVRG1vdzZydFRqYU55Vy1wWDFxRmRQdTNhd1hydVl5R0tSejltNmo4eWs5cmVoTjVOUmZWSDVOLTFVZ0tnS0NCczN5dDk1Wk5hM3ZuZXdzRXV1RHJuVlYybnVjOVZ4LUhPZ1Bnd1hvQlMtVHRzbExzbnJDS2lEQ01NeHNHYmI1a09rS2cwaFVkQXZXWDktdkVvSHVadUdaaHFNVHVObXNlanZWNkJhZkF2bk4xLWV1bVRMV1RaakhNV3hJX3lzcy1XQkIweno4cTVfSG5KcHhRRkNMb0tXTXRKeHlsd084RE1kWUVWc05OelNzWWVVRXI0?oc=5",
       "snippet": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming National News Desk",
@@ -197,6 +287,51 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Hidden in Plain Sight: Human Trafficking of Women and Girls in Sonoma County - County Of Sonoma (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUNHS0pjM24wY0MwUkNmVnlYV3VYRkM3SWszR29JQXFwQVFZX3VRMzVDelRnS0RZd2hlNUxBb1BFQnp5Y1pBdHk2VVBVSllCQlVLZXVYemJBSE5WX3ZwaERBUkNjYjFnSVMzMGR5SkRtcVVwaUs2ZWJlbjNhZ2VZX0NPcGR3c1FBVno0b1M0Q0NjMkkyaUtHVGI3anJ0SExMVXc?oc=5",
+      "snippet": "Hidden in Plain Sight: Human Trafficking of Women and Girls in Sonoma County County Of Sonoma (.gov)",
+      "publishedAt": "2026-11-17T19:23:05.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Congress leader arrested for extorting ₹10 lakh to withdraw fake news against hospital - Onmanorama",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejhGRWhXcmd6SUc0TGppLUVHM3RSb2YyenhSSDhHX096NExScnUxZXFIQXJaaF9ldTh4dlhlakJSSEJnSHQ3WU1Scm12Q3k4OTRtcXBacE1rUXJsOXRWVkZxVU5zVFRNcXk0M3ZMZ2hpSWlfS29QUHBZazd1RHRBYnZZNFZhakNHUkZwelEyczNPR1lyajkwWFFkckZjTVlaOEVFM0JtUW5DRjlXaGpNOFRUd0E1U0tVdUxZZWNOX0N0alU?oc=5",
+      "snippet": "Congress leader arrested for extorting ₹10 lakh to withdraw fake news against hospital Onmanorama",
+      "publishedAt": "2026-11-18T02:12:16.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pakistan vs India: Fake news battleground? - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFpBczRKTjk5WW9CdXA1TW8zLUxweWtTZzJjM1R3bFBDalp1eERTOUloc2N1cl9ZMmw1aVk5REJSajRnTFNBdlhYemllam1mbG5jWm9ILUswU2hyTEpRczRQYk9fMm1KQmRzYndiN0ZZUmd6WFFGcTNVeFRmd3dDQ3A0Zw?oc=5",
+      "snippet": "Pakistan vs India: Fake news battleground? DW.com",
+      "publishedAt": "2026-11-17T23:16:10.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "All-Woman Fake News Extortion Call Centres Busted In Bhopal By Nagpur Police On Fadnavis’ Prod - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcFZsMVFRbFNVWldMTjRVR0FiRFY4d2NlQm5oLVh4U0QxQjdJdVpTY2ZKTUxpcFRzbDRIbVBVMXhHc1d5MUNxY0s1a0YxbnJTMWJ5M096b3J5MElQNVFPUjZDQUFEd0gtLXN2bHRvOEZ3eTB3cU5YajRMWEVWVGhBOHlxaThvRnMwdVNWVVRtVWxpRV84MlpjMzQzY1FtZXhlOEhTbHM5N25UV1Z1MWVJOVdiTFBtMHF2eW5KdFRldXBIV1VmU3hac3NfVGN2azZWM2JzQVZQcmVDV1JhcjIxWWtiMGVaVU9hWFdWYTJLNVBrSmpPNVQ1NHBKUdIBgAJBVV95cUxNbnU4ZW1CYTh2ZElMUlV0a0xkLTlybzJCODhDQ09hbXo1RjdseFlfRkpTWDRGYzRsbGxZWTN1YWpreFdTTTBHem1JMDdPUUdpZjJuMmJlRkpRX2gwUjhfbkhLU2hsVEIzVGFwZGd4Wk5DTmlfcnZkNzJ6bVJOWEIzcFktZFJrcERKN0otbDRMN3V5QjFqSENNNURldW1udlVHeF8wVkYyRExDLVREa3ppVDhERGVBRzNPX2Zyb3B2T19QWjkzZmN3UTk0cWZpbDZ3cjE5cm1pNFhERUtidEQxV21VQ0pNSGFZZUtiVmtXQnJJOUFWT3ZoMkFBUHVsclBw?oc=5",
       "snippet": "All-Woman Fake News Extortion Call Centres Busted In Bhopal By Nagpur Police On Fadnavis’ Prod The Times of India",
@@ -207,6 +342,81 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Adoption of anti-scam principles key outcome of ASEAN-US Summit – Marcos - VERA Files",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTVSNmRtbkJfMzRDbzZScmdxdFZRT1ZCQ3N5WWlzRU9QYU96VVR1WHJ1aENLUEY0QTNFSkJmYzBScFpsSUJlUUYtM2tsS2VIaC1fNEVIb0FSMnZOTDdMTjN2RlJ2Qmd5RDRqUl9Fb0VJWmtyYjFKTHVxdmZzd0FEaXFsc1diajEzTm5zckNJaDFVT2NtY1dsX1ZsamUyaXVERmRv?oc=5",
+      "snippet": "Adoption of anti-scam principles key outcome of ASEAN-US Summit – Marcos VERA Files",
+      "publishedAt": "2026-11-18T06:53:21.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Visa Launches Threat Intelligence Platform to Strengthen Cyber and Fraud Defense - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2UxUDV5Q29VWXJhWG4xOThrbFlwYllUTWpCaS1DODVIajctVXZBS1R1ZU5SRmpZVnJRSEt2dXktZkttb0FEbU5KWlN1TEpkdldhcEVhOGRkU2VCbklFeWhhcXNFUlQwRl9Jd3RlcmZ0V3BqeVRvaldESUFVbVFpaHdYT3pBXy1nZllCWm8zSlNoR1RKSC1veEoxamp0RDVnUjhHbTUtMXRvNzctVXh1WmxKNjZKdjhFTzI2Sk4zZUpOWUFvblp0YzZIT1NWZHEtNUhDdk1KVDI?oc=5",
+      "snippet": "Visa Launches Threat Intelligence Platform to Strengthen Cyber and Fraud Defense TradingView",
+      "publishedAt": "2026-11-18T04:30:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "South African jobseekers targeted by local recruiters in Southeast Asian trafficking scams - IOL",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWE5ja1J1LUR6VXo4MFlkVWhieEFjNUpvclpLbG9RazBfOEdNRWg2Wlo4MXhKWGc3Slh6NE13ZzZzM0pwcm02QkhEVDlTbDNmWmUtMGtoY2N1V2N4TWFHWEoxUEI1eVNpamJ1NnJ3OVJvUm5BaXRrOW9Zbl9pUmVVOVhtZ2Z0WjFDcUtWanlLRk8wS1lKZW0xMVg1LWlycExDS1djSXVWS2xja011ZFVFcHk0NlJFbW5rQlhkcHUyX1ZNb2s3bXRGWk9ubW9DZUV3?oc=5",
+      "snippet": "South African jobseekers targeted by local recruiters in Southeast Asian trafficking scams IOL",
+      "publishedAt": "2026-11-18T03:41:44.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Connecting data prevents digital financial fraud. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52MEtGcHJqcG9TNThRbm0xejY1bEZ4eEprQmVjRVNXcGZtMG1HUHN2dnRmOU90LTNLa3BwWUNoTGVGM01qMHZJSzBUdUFtVm1CYjdJZ1hSbmhxbG9HSlFXejlwbW5SZlJxRk5vNzYyZUhZR2RVTjd3?oc=5",
+      "snippet": "Connecting data prevents digital financial fraud. Vietnam.vn",
+      "publishedAt": "2026-11-18T02:43:28.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ACFE Ghana Chapter Joins Global Efforts To Combat Fraud During Fraud Awareness Week 2026 - Peacefmonline.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3lQSHZXUnA3Y2VKclFMVFRLZnh4ZExzQTdiM3lKOElQUWxQZjZpZDh3NlQ0WnkzeHJFRm9lTnE1b1c2SWt0LUlPQ2JrdXJtOWFjYzB6bkZnNEJXWHBvOW1rcl9pOXBFdm4tSkJmMXFXQzUwaldJMUF3N0VXZjVIMFpOb3VmM3lvOXpjZzgxNFhvY0NOUFpGc3JpVF9hN3JSNk1IZzNoaFAyekdvdXpVTGh2ZHQzcjVmeWZ5My1vQjBlaXhta2VCUi1pbmFhUQ?oc=5",
+      "snippet": "ACFE Ghana Chapter Joins Global Efforts To Combat Fraud During Fraud Awareness Week 2026 Peacefmonline.com",
+      "publishedAt": "2026-11-18T02:26:15.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -237,6 +447,66 @@
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBabFRsVDdEUko3MlNxbm5TVFNmbVFWRzZKX25EckNDakc0aDVrNjhKcW9KS2E2WDVTM09NcE1XMEttWGRhYi1xNjNua3NuOVRlVVZHdUZpdmlhcklFZ013Y0FGNloxMkhXb3dlUGlHUFXSAXZBVV95cUxQeGhDQjI0d3Y5anpmRE14NlpKclVfRGFab2tDQ3V1UzZITnY5SmdLNTQ3WUFUWWtDMlZJN0lzOUc4UkowSFp5VWNJUXJHZU96UWVVU0RzekRzdXdMdXNhdmRqVFVoU1czcGg5bjdGVmV0UFNPV3B3?oc=5",
+      "snippet": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide CyberSecurityNews",
+      "publishedAt": "2026-11-18T06:43:21.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Dulquer Salmaan opens up about online trolling, says negative comments push him to take risks - India.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQXlmZ3MxbU53MHFtTFl2QlZEanpzTTJEajk4ZkpsMzZROERrNHVhaTFyY0VGM1djZ3B2LW5IZTN4NEw1LS1wOFBqb1hydVRaa1Ayb0FGQ1AtZ1dCZkdXaXdtZ0VGZUdfeV9TUlk5RjhsakpDbW9pcGVMb0VTZFI5ZDNXQXBRNFlqUUNSeFR1YldVb09ZUGJDRmFRUl80MTFEc1FHbkJaeks5UFhYUHJYdVBENWdiSy12QWxJdjhjMUZIZHpoMG9BSzM0cnJEQ1cxT1NHS0Fac1bSAdgBQVVfeXFMT0F5ZmdzMW1OdzBxbUxZdkJWRGp6c00yRGo5OGZKbDM2UThEazR1YWkxcmNFRjNXY2dwdi1uSGUzeDRMNS0tcDhQam9YcnVUWmtQMm9BRkNQLWdXQmZHV2l3bWdFRmVHX3lfU1JZOUY4bGpKQ21vaXBlTG9FU2RSOWQzV0FwUTRZalFDUnhUdWJXVW9PWVBiQ0ZhUVJfNDExRHNRR25CWnpLOVBYWFByWHVQRDVnYkstdkFsSXY4YzFGSGR6aDBvQUszNHJyRENXMU9TR0tBWnNW?oc=5",
+      "snippet": "Dulquer Salmaan opens up about online trolling, says negative comments push him to take risks India.com",
+      "publishedAt": "2026-11-18T04:02:49.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ikea and Zoom among websites hit by major security incident at third-party provider - SmartCompany",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2gzNzBlUHRzamlJRWZnWVVFMGNkYlRabWZjbl9CSnBvbmNLREdONHZSRWhuUHc5eE5DQTJXRmFtY3h1YXVXbUJoVDBaVUhKVEVrRUZ4NExQQXc5UkVhLXdibXZ3TmJ5Y1R0LVBsRllhSTN3LXNVY1NSbVlHSWhyXzRsa0tNYVc0UWQ0eG93TDJaSWJfMXRMT1ViUXI1d1pIZ2lRdXFUbUQ0Z3JVdWtZb05pTUViUHJCRHc?oc=5",
+      "snippet": "Ikea and Zoom among websites hit by major security incident at third-party provider SmartCompany",
+      "publishedAt": "2026-11-17T22:47:21.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites - The Record from Recorded Future News",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRWk8xMGlLdW1oSk41SlI5dHZqc2cwRXZzYzRaOWo0NlNOUzJ3aXpFbmNlZ3JkOTRvSVMyQ3d0M0h0amNsLVdRZ0gtd2g4VmNhSldibkJSc1o1azd2UEFHV2lRRldobTlNdmxfQmlXdjByQQ?oc=5",
+      "snippet": "Website management platform Optimizely confirms hackers put malicious code into customer sites The Record from Recorded Future News",
+      "publishedAt": "2026-11-17T21:36:20.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

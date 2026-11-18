@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T21:10:01.200Z",
+  "generatedAt": "2026-11-18T07:47:40.065Z",
   "snapshot": true,
   "date": "2026-11-18",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-18 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 25
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 20
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 43
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Dulquer Salmaan opens up about online trolling, says negative comments push him to take risks - India.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQXlmZ3MxbU53MHFtTFl2QlZEanpzTTJEajk4ZkpsMzZROERrNHVhaTFyY0VGM1djZ3B2LW5IZTN4NEw1LS1wOFBqb1hydVRaa1Ayb0FGQ1AtZ1dCZkdXaXdtZ0VGZUdfeV9TUlk5RjhsakpDbW9pcGVMb0VTZFI5ZDNXQXBRNFlqUUNSeFR1YldVb09ZUGJDRmFRUl80MTFEc1FHbkJaeks5UFhYUHJYdVBENWdiSy12QWxJdjhjMUZIZHpoMG9BSzM0cnJEQ1cxT1NHS0Fac1bSAdgBQVVfeXFMT0F5ZmdzMW1OdzBxbUxZdkJWRGp6c00yRGo5OGZKbDM2UThEazR1YWkxcmNFRjNXY2dwdi1uSGUzeDRMNS0tcDhQam9YcnVUWmtQMm9BRkNQLWdXQmZHV2l3bWdFRmVHX3lfU1JZOUY4bGpKQ21vaXBlTG9FU2RSOWQzV0FwUTRZalFDUnhUdWJXVW9PWVBiQ0ZhUVJfNDExRHNRR25CWnpLOVBYWFByWHVQRDVnYkstdkFsSXY4YzFGSGR6aDBvQUszNHJyRENXMU9TR0tBWnNW?oc=5",
+      "snippet": "Dulquer Salmaan opens up about online trolling, says negative comments push him to take risks India.com",
+      "publishedAt": "2026-11-18T04:02:49.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
