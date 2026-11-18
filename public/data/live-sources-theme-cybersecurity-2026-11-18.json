@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:47:40.065Z",
+  "generatedAt": "2026-11-18T20:46:20.458Z",
   "snapshot": true,
   "date": "2026-11-18",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 14
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,63 +30,63 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 45
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 30
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 83
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "online",
-      "itemCount": 24
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,141 @@
   ],
   "data": [
     {
+      "title": "iPhone Users face potential Cybersecurity Risks as Hackers target more than 178 Major Websites in Global Cyberattack - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUm54Ti1jb2hnaGlIalZza3BNa1lMb0pjekNJT01HeER2X21YcVUyTkVtQzhWSHBCSWozenVWUjVlTkNyWmdSNllha3ktVFd6aGVfRGxpVzlqWmRvT01QbG80SGRaZk1Qcmhpc01OMXNoaHh6N2Z2NFQ3bnpqRERxRDV6bW1USy1wRXlSZlpOY3ZkSm1CQ0JveGkwRmxGcnBZSUdpZW1lYTZvOThjNUdKNEZQV0ROSThqNGwtY3JkOTJWSDBmVFg1dmw4NGg2alFQSm0yeTJYMGxwZnZrc1RDR2xsNER5ZjdVbnUxWA?oc=5",
+      "snippet": "iPhone Users face potential Cybersecurity Risks as Hackers target more than 178 Major Websites in Global Cyberattack Cybersecurity Insiders",
+      "publishedAt": "2026-11-18T06:30:49.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Impersonate Microsoft Exchange Online Alerts to Trick Users During Microsoft 365 Outage - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sd0trNFZoblNYT1hiblgwR2FNM2NOa05PSDc2MFJBUWxYbHJVU0g2T01OczRDdVctTzFVc3c2cVdydlhyZFY2enQydDM4Q0htMkhoQjBfdEpTTmpmc3lhQm9ZNmlMd18tQ2UxOEE0RmxDYVgtTURsM9IBfkFVX3lxTFBxMHJqX1R2b0JhUDdhcGMwTTFCa3RsR05fczZkWVhlNzBsR1Y5MnNZdGhhZXk5NHdrRzRzcGl4cVAyM2dJNGxNOXdTTUtjTFJPZkFlLW41NmY3QWl0Zkk3Z1V2VTlCdG1pQWRUYXdFV0ZkSWl4LUIwM3pHc3lQZw?oc=5",
+      "snippet": "Hackers Impersonate Microsoft Exchange Online Alerts to Trick Users During Microsoft 365 Outage CyberSecurityNews",
+      "publishedAt": "2026-11-18T13:07:57.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Russian-Speaking Hackers Use AI-Assisted Malware and ClickFix Attacks to Target Windows Users - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UcXZVbTNaUk5kbUtabTNSODlkYlJpVHdBeExiVzE5T1RxNDFvRl9taGFKRVcwS3dXenRqdTNrY2JMamEyM2RiakkzSDg3VTNXY0luYURiZjNsQXJIRG80YzQyTlFLMDJGY1lTNkFYZ9IBdEFVX3lxTE11Vy1uYWdfQ3dMT1dwMTRWU1FmTEhwUkJFVHBCa3ptLW1QQWNadm9vT0NabldiTlNfR0taT0k0V3NZSTM4WnlVMkNhUkNnRDl0cmhsUXhBNEpjeHBUWm5KcEtlcXkxWk90VzNiMUwtZVNHdnZS?oc=5",
+      "snippet": "Russian-Speaking Hackers Use AI-Assisted Malware and ClickFix Attacks to Target Windows Users CyberSecurityNews",
+      "publishedAt": "2026-11-18T08:06:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "What if Google Gemini, Anthropic Claude and ChatGPT face Major Data Breaches N Millions of Users could fall to Risks - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQlNSMkhiRXB2aWRiV3pmZDMyOEpSLW1QcGdGOXhjUVpLdGhtMGhZSVlwR3cya01EUW9uV3d1R205T25KeTE4dlNyMWhkdEFLU2JBSGZwRmlTdmJyZWhFa2ZQZkhYVGJEYWRDWGZXQlNGbmpUcWczV3h1bFN6bWVCX1B2Umw4Y1drbHdTemtsTlZlVkhGb081WG4tMHJ6SS1KcnMtNjJZY2lNYjZET1B4NDVQZ3VNcWlxbVZsLUVxNWZrd01QM0VPaFZXbnJKUUhYVGZxclloSzlVbk1UeS1kSU5nUVpTaUFM?oc=5",
+      "snippet": "What if Google Gemini, Anthropic Claude and ChatGPT face Major Data Breaches N Millions of Users could fall to Risks Cybersecurity Insiders",
+      "publishedAt": "2026-11-18T06:35:16.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Abuse Microsoft 365 Outage Confusion to Launch Fake Email Restoration Scams - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42cFlXb1pqTmlyMnpwYjQtYkt0VjNtVkp4M1FvTjlQVUJFZVVPWE80UGtGNW5fU2dHNnFaTFZwVlpiejhRYkJvaGVLWXlLcG9yS2ppOXd30gFbQVVfeXFMTk5NcmdrRnlqMEhxMlJXbEw5TkxFRnh1cFBBamFLWGlsbGFnY1dfdTdRQ0NjZG9HMUZzRlQxNWw3ek1PdDNIWjNYRGJ4c25JbTJFME9NQWIybWw1NA?oc=5",
+      "snippet": "Hackers Abuse Microsoft 365 Outage Confusion to Launch Fake Email Restoration Scams GBHackers News",
+      "publishedAt": "2026-11-18T11:48:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Galway Credit Union confirms payment details potentially exposed after major cyberattack - Ireland Live News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQXFTTXRMSGRBb1FhZHhHVHFhYmxHS1RoblhKcUZ0UTQ2U2RmME5SYWxCQ3ZKTHhLcHV3OWdCTXg0Sm1HRkNDU09ORE5zTWk2OENKMDRjZlFnSDZ1QzR0YUctNmtZN1NRbnVfQk5IZjZOUHRvblJISGJvMHhvTnFpSmlLUTBzbVc0aGRrTg?oc=5",
+      "snippet": "Galway Credit Union confirms payment details potentially exposed after major cyberattack Ireland Live News",
+      "publishedAt": "2026-11-18T11:35:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Series of Cybersecurity Incidents Affecting Hong Kong Organisations - Hong Kong Computer Emergency Response Team Coordination Centre",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPblFlOHhwS1BtQWdsTVlhRWFWV0dpdlNRb2lDYWx5b2xlYTU2YTRwMy1GQUVQRHF2elNMaXBNeFoxTWJ4QUVQUXVqeC0yTHlQek1IcGhwOXlZdjJpX0NGS3FIcXpma2pxZnNSM0ZlVTZ2aEVQaUc3Q2NudG15VEF6NVpCZ0gxQnBEOWNBTE53bjY4YmMtbHV6aGlYeXBGdFBxX21CT19QT29QQ24xdzFRQnJHUXRHbDZtQnl6ak83bVdFRkl3QlAzOVFXMjVIWlQ0YTh1QzZtQUN3ZjVmdGU1OFNHOUxjSzRkMGRxaGpn?oc=5",
+      "snippet": "Series of Cybersecurity Incidents Affecting Hong Kong Organisations Hong Kong Computer Emergency Response Team Coordination Centre",
+      "publishedAt": "2026-11-18T09:52:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CyberSec Connect India to Bring Global Cybersecurity Ecosystem to Bengaluru in April 2027 - Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZHZFaHc2bjBLXzhpRUZXTm9XZFlndlozVEFfNTl4bWRleE5EdV9ZZVZmd0FaQXZDZkRISllwQk9xODBTZlQxTmdlMmFCZFZ2a1BnMjhaWEVFcEJpcnRjdml3MmlBNUpfUUpVOFNmaGlJY050cFB1bHllQ2o5Ui1Fc2RpUzhyU1ZhN1RFamhyUk9BR3pLamdhQlp5ckNCOFpxYW55WWU0N2FPWXVoQ0FjSzRReTRCVlBxQU1nNUp2NXgtQ1RSVDc3cC1CWk9jM3lV?oc=5",
+      "snippet": "CyberSec Connect India to Bring Global Cybersecurity Ecosystem to Bengaluru in April 2027 Big News Network.com",
+      "publishedAt": "2026-11-18T09:36:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cyberattack Hits 178 Major Websites, Exposes Growing Risks Of Third Party Software - BusinessToday Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd1pHMTB2dXdfY0FMcFFvcVVRcVd6YkY0V1dZQ2xVY2tLVEw3RjlnSlQ1MmowZUZMZW0zanRGZFpVMGlEcW1xNVBHbmRqdVhoUjlqZWc3dnkxLWgxanotM1daYUxsbC1zeWRZMnVGOHlVU1QzVGk5bGhwR3gySWJ6bkZfbUZUejd1S1ZJZFJzWU1Xc3M2UkowRjRyNXZ0RzNDb3NzbFdGekFVVVlvMHFReEdKMmFuWFRjNVpqeDZNV0V6OGEw?oc=5",
+      "snippet": "Cyberattack Hits 178 Major Websites, Exposes Growing Risks Of Third Party Software BusinessToday Malaysia",
+      "publishedAt": "2026-11-18T08:01:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBabFRsVDdEUko3MlNxbm5TVFNmbVFWRzZKX25EckNDakc0aDVrNjhKcW9KS2E2WDVTM09NcE1XMEttWGRhYi1xNjNua3NuOVRlVVZHdUZpdmlhcklFZ013Y0FGNloxMkhXb3dlUGlHUFXSAXZBVV95cUxQeGhDQjI0d3Y5anpmRE14NlpKclVfRGFab2tDQ3V1UzZITnY5SmdLNTQ3WUFUWWtDMlZJN0lzOUc4UkowSFp5VWNJUXJHZU96UWVVU0RzekRzdXdMdXNhdmRqVFVoU1czcGg5bjdGVmV0UFNPV3B3?oc=5",
       "snippet": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide CyberSecurityNews",
@@ -201,6 +336,21 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2gzNzBlUHRzamlJRWZnWVVFMGNkYlRabWZjbl9CSnBvbmNLREdONHZSRWhuUHc5eE5DQTJXRmFtY3h1YXVXbUJoVDBaVUhKVEVrRUZ4NExQQXc5UkVhLXdibXZ3TmJ5Y1R0LVBsRllhSTN3LXNVY1NSbVlHSWhyXzRsa0tNYVc0UWQ0eG93TDJaSWJfMXRMT1ViUXI1d1pIZ2lRdXFUbUQ0Z3JVdWtZb05pTUViUHJCRHc?oc=5",
       "snippet": "Ikea and Zoom among websites hit by major security incident at third-party provider SmartCompany",
       "publishedAt": "2026-11-17T22:47:21.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Poland Issues Cybersecurity Guidance for Banks, Targeting IT Suppliers and Account Fraud - CEO Magazyn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSXFoQ2QwR2pPLVdoMmc4Z3hxMTE2TDRQZUlVbXJjaHhrNFczaXVWQWxaYVFKZ0plTVRjX0pGNEg1WFBCMGhUd2ZfS2NyWURtT0hWN2g1c2hJMTFJbjdBZERNc1dKTE9oYjRNT05ZMm1wVEk0Z08zbm42SWVFakw2UTNB?oc=5",
+      "snippet": "Poland Issues Cybersecurity Guidance for Banks, Targeting IT Suppliers and Account Fraud CEO Magazyn",
+      "publishedAt": "2026-11-17T22:20:56.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

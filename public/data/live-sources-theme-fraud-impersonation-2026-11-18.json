@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:47:40.065Z",
+  "generatedAt": "2026-11-18T20:46:20.458Z",
   "snapshot": true,
   "date": "2026-11-18",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 8
+    "total": 17
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 33
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,63 +30,63 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 45
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 43
+      "itemCount": 46
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 30
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 35
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 83
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "online",
-      "itemCount": 24
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -185,7 +185,7 @@
       "title": "PROJECT: HOLIDAY SCAMS - BANKING FRAUD, IDENTITY THEFT AND HOW TO PROTECT YOURSELF - Mike Bolhuis Specialised Security Services",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTRsSUIxdDJ1N3BkWnRHekZPcVgyQ1E1MUttdDRqZm9KaExRT29pTmlLSEtjWm5Hai1nNGdKci1uaV90anZTYXpiSnJTV3BJS0xyRUJFd18zdzRVN0cxYVIxUTVmOEd5bG5aaVpHdlBpRGMwMDVPNkVvNnhsNjEtV081dGFkUGZ1RlBiSXVHREp4eGJFaTEzamRGcDJXNS04NVhGYUs4QWJ2QWdvaXp3RHFhVQ?oc=5",
       "snippet": "PROJECT: HOLIDAY SCAMS - BANKING FRAUD, IDENTITY THEFT AND HOW TO PROTECT YOURSELF Mike Bolhuis Specialised Security Services",
-      "publishedAt": "2026-11-18T06:09:58.000Z",
+      "publishedAt": "2026-11-18T14:07:53.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -193,6 +193,96 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "From fraudulent messages to investigation: How do the Police investigate online scams? - Gazeta Express",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2pRRmoyXzd4empCdUlxR2l0Wm1XdV9WNjQ0RTZ4ck9raEFhSHVRdzVKYXc4eS1ZUHdKUlREd0pyQk1McFBWODViQ2dtR3lYTmE3UkdhcUxwTEtqZElxcXgzODlSWXlKVmtuWThfNXE4dTRabTNKX01OTlRGRW12b1kzSU11MDVkT3JabGJJWEdjdHJpRXNQQ21ka1VObHlFSkpuVWsyODdJYVBNWEY2TG9TeV9Ndw?oc=5",
+      "snippet": "From fraudulent messages to investigation: How do the Police investigate online scams? Gazeta Express",
+      "publishedAt": "2026-11-18T13:46:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Private investigator warns of rising festive season scams - The Citizen",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb01wTWFzV285blZZYXFGb21vUWhfVnR3UFdmTmxoSGdRUGhnS3lFYjN2TmN4bEtRdl9IczFYUkJrX2lRTU8wcGNsVUluZWd4ejNyQXJUWXJ3TkRneWxGVzBIWGZQQkp4czdHWW9EVlpSZnVJMHJYS05yMzBLY3JBOHVDNmo1MFduTDh0eHdZemhkV0pmWWRnRmNjVUFmeXZ1N1hOTF95YWZIYzRLakU4SmY5SjVRV3psMlZEWFl3Vzk?oc=5",
+      "snippet": "Private investigator warns of rising festive season scams The Citizen",
+      "publishedAt": "2026-11-18T14:09:09.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Best AI phishing detection tools in 2026 - Surfshark",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83d2V5b0h3SXpNWlBuSHBZWTRoMC1rX0Qtd1o2eURsajdxTXRzeTJ4aG8tSnZ2RHQ2bURQQXg2SFktOFRoRTFOcGw2dU95YVRHaVRBU1hGbndmTTNTN1E5dGR4T2Zkcml0c2VV?oc=5",
+      "snippet": "Best AI phishing detection tools in 2026 Surfshark",
+      "publishedAt": "2026-11-18T13:32:37.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The overseas job trap luring South Africans into scam centres - IOL",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1pBMWhwQjAyMTF6WFUyMHZqT3RhYnhhRm5DZG5RbTFYM2V1bTVDWmZWLTJfMzQ4dkowLUw3ZHFVeVRIUlJKR2RjNFpWdC1MNDVzMTNxcTJycjhsNFlXczZyMTdCamtuRF81YkVKQWRuSXh0c0RVbTgxd2ZuVURxTGJOdWJMTUdUWV84VXBrN05ZLUNWV1Z0dmRhWm9oYVgyTW5zcGhNMHdvUQ?oc=5",
+      "snippet": "The overseas job trap luring South Africans into scam centres IOL",
+      "publishedAt": "2026-11-18T09:47:50.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meta joins forces with SA watchdogs to combat scams - ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd1JURVFZX2pvdExmdXdTX2VMSjI5R1E5Y01yYzN6S1h6d2ZydzlWdTVDbmhIOEktcnhuR3NSN2tPUlZwMmZWZFA3TzRLbjgwNzE2dS1hNF9SZlVaUFhGWXRpS1JiWTJPV1lWZjRsT2xmZ1Zlam9EcS1xV0FqWWVVc2VhUEM5QW02VGFCN1EyYUh3YWZHbnRETVhpZkZvZ1hLaVE?oc=5",
+      "snippet": "Meta joins forces with SA watchdogs to combat scams ITWeb",
+      "publishedAt": "2026-11-18T09:13:49.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "​Visa Launches Threat Intelligence Platform in Asia-Pacific to Curb Cyber Fraud - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHBTa0ZJck9ZN0hKc2p1VlJYZTVkNDBfS1hOQzlGRGNoa0FtTkJsS3NXZEtsU3AydDVOMzMzS05yZmIzcUluQUlFTmFqakZOMTVLOGY4NmIxaDlNT191eW52aUZwQ0dvTWJEdXBCRmpqN3NHY0JIcW05TTROSjJzWTZtNVNPeTBQX2NFTHBHSkc5YnBlOGpXbVJiNzh2Zw?oc=5",
+      "snippet": "​Visa Launches Threat Intelligence Platform in Asia-Pacific to Curb Cyber Fraud The 420.in",
+      "publishedAt": "2026-11-18T07:51:47.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -206,6 +296,36 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India joins US, China, Russia, ASEAN in pledging coordinated global crackdown on online scams - Mangalore Today",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2Z6d3dvbzV3NWtKMDQzUHFCX0tfakJmMlgtX2ZuY285VVJENnJZcU5qRVNBWE9tUEJZamVvTndyc0VjQjYyc2Nob1ExTk9XQzhIMkduNzMzbmk3SHZ1dU9YNWlwMXJtRG1KaTl1d1Y5RGJNT19ENFlqZlZsSUczem9jRG5kdUlPcVl3Zm5uZ1ByQWJ4RTVKWldUeWRxYjZyS0JFSk01WklvRFVWTXBkWlBkZ0xsWFNnUURRX05YYjlfUEFBT1dIMUlfa21hSDIzSlE?oc=5",
+      "snippet": "India joins US, China, Russia, ASEAN in pledging coordinated global crackdown on online scams Mangalore Today",
+      "publishedAt": "2026-11-18T05:42:43.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Digital Fraud: Banks Cannot Win the Fight Alone - International Banker",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzJaUVkxLTJCU1l6VS00ZG5jLWdBcUoyV05qWldIdWRqdHRlTllDUERkek43eGN3cGNqYk5KbzJqOUFRU190ZmFBc3hza3Jrb2NNSkFTTFlaWjVhUTVxa2Z6d1BEaWFJOFZEZEgyQ29QdFVHbkdZVGI5Vy1MYjhlX1hNRF85anNrdERYMTR6bWc?oc=5",
+      "snippet": "Digital Fraud: Banks Cannot Win the Fight Alone International Banker",
+      "publishedAt": "2026-11-18T04:45:10.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -260,11 +380,26 @@
       "title": "ACFE Ghana Chapter Joins Global Efforts To Combat Fraud During Fraud Awareness Week 2026 - Peacefmonline.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3lQSHZXUnA3Y2VKclFMVFRLZnh4ZExzQTdiM3lKOElQUWxQZjZpZDh3NlQ0WnkzeHJFRm9lTnE1b1c2SWt0LUlPQ2JrdXJtOWFjYzB6bkZnNEJXWHBvOW1rcl9pOXBFdm4tSkJmMXFXQzUwaldJMUF3N0VXZjVIMFpOb3VmM3lvOXpjZzgxNFhvY0NOUFpGc3JpVF9hN3JSNk1IZzNoaFAyekdvdXpVTGh2ZHQzcjVmeWZ5My1vQjBlaXhta2VCUi1pbmFhUQ?oc=5",
       "snippet": "ACFE Ghana Chapter Joins Global Efforts To Combat Fraud During Fraud Awareness Week 2026 Peacefmonline.com",
-      "publishedAt": "2026-11-18T02:26:15.000Z",
+      "publishedAt": "2026-11-18T02:27:15.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Australian intelligence-sharing network analyzes $600 million in fraudulent attempts - BioCatch",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnlBS1NLUWhleGpCc3hSN2ZxS25qOERDNXVrZWpqNmdfSkxXX2dMQ0dtN3E5aUdwdDh6di03YkhpV0ZsR1EzYkhyMGc5d0c2YnJaTk5COEpKZ2xDekJCMDNqRHlVcWZZelVZNDVIMS0xT3lLR0VuU3lQc0NGX25UaG41WGhLdkNNVXF1Qm1JM0Z5WXV1djAwMGcwTWRDVUJYVHNtNm5oQVhqS0dGRlB4el9uZXVsLXJ2aXdiMS05cmxjd0daT19nSmNnamRFOFXSAc8BQVVfeXFMTVp5QUtTS1FoZXhqQnN4UjdmcUtuajhEQzV1a2VqajZnX0pMV19nTENHbTdxOWlHcHQ4enYtN2JIaVdGbEdRM2JIcjBnOXdHNmJyWk5OQjhKSmdsQ3pCQjAzakR5VXFmWXpVWTQ1SDEtMU95S0dFblN5UHNDRl9uVGhuNVhoS3ZDTVVxdUJtSTNGeVl1dXYwMDBnME1kQ1VCWFRzbTZuaEFYaktHRkZQeHpfbmV1bC1ydml3YjEtOXJsY3dHWk9fZ0pjZ2pkRThV?oc=5",
+      "snippet": "Australian intelligence-sharing network analyzes $600 million in fraudulent attempts BioCatch",
+      "publishedAt": "2026-11-17T23:39:04.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
