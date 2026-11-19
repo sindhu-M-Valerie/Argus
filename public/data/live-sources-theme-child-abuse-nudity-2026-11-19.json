@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:46:20.458Z",
+  "generatedAt": "2026-11-19T07:42:43.133Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-19 on child-abuse-nudity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 83
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 37
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Child sexual abuse: Philippine children need more than promises of protection - NewsLine Philippines",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONW9EWlkxYVhlN1djdUM3XzhMbWctNk84T3drYmZjcDVqU3hxVFZTdXh1OXlZUjRkMkQ0YUVRRUNmS3BuWDBZeTI0T2Z6bThZSnprZFprYkhLMzNjMzRXZkY2RVNLbzh6azhUTzdOc0Zud2JxOThtbmhDaWF0VXpRX1NNSnVtSlV4amlpbzZQY1dsMWpxM0xtcTBkZ2VGZw?oc=5",
+      "snippet": "Child sexual abuse: Philippine children need more than promises of protection NewsLine Philippines",
+      "publishedAt": "2026-11-19T07:22:58.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The National Bureau of Investigation (NBI) on Wednesday said the government’s efforts to combat child sexual abuse and exploitation received a boost following the turnover of donated digital forensic software. In a statement, NBI Director Melvin Matibag said - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWTJmSjRXQVNFWUw4VE1zcTh5QWRsNVVielBURUVYOG5tUWZzVnEwWVRsRHFGRkFXdU5LVlYxaW9tNFBvcW9JcE9GQ2tPVkwxUDByX1k3MEMxUEl3Nnd0QVhLenZDd2tLUTNYb2N1YjM5UzZWUFdCZDBYbjlpeG5Cck03VzRhN1owd1k0d0JrTUdIbjJ3MDdqZ2RINmR5R1IyMElKR0xoVFlnY3BocVdkVVRMWFdCRWtNQ1c4QXNBQ1d1UnpfeVY5WUZLMlB0WlVOOGw1Mw?oc=5",
+      "snippet": "The National Bureau of Investigation (NBI) on Wednesday said the government’s efforts to combat child sexual abuse and exploitation received a boost following the turnover of donated digital forensic software. In a statement, NBI Director Melvin Matibag said Facebook",
+      "publishedAt": "2026-11-19T00:30:22.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

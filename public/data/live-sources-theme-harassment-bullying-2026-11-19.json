@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:46:20.458Z",
+  "generatedAt": "2026-11-19T07:42:43.133Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-19 on harassment-bullying.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 83
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 37
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Experts Warn Online Trolling Can Harm Mental Health; Doctors Advise Blocking, Reporting and Seeking Help - Mumbai Mirror",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XdzlJSUt3LV9CYlZTOTgwbWk2bTYtTUtYangySTBaLVkxSU9wbTRidFdtdkJxWEV2LTRlRi1WZjFoTFdGTmt5Z2YtOTV1ZmFucmM2ampqYVdzaXJaTFBoTHZ5SXB6dUdIZkVoT1dnRVFPamZZR1E?oc=5",
+      "snippet": "Experts Warn Online Trolling Can Harm Mental Health; Doctors Advise Blocking, Reporting and Seeking Help Mumbai Mirror",
+      "publishedAt": "2026-11-18T22:30:00.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

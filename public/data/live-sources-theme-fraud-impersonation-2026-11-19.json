@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:46:20.458Z",
+  "generatedAt": "2026-11-19T07:42:43.133Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 6
   },
-  "message": "No verified news was found for 2026-11-19 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 83
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 37
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,96 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Crackdowns failed to stop Asia’s scam centres. Here’s what advocates want next - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdW82SUhiLU92VWsyN0UyRXBvdTZaUEYyUW5lajZCSkJpbUppZTljNDFrTVAwU2JIZnZUamVHZDJ4c1g5eFFsenZQZjhaSlRXekY0TkVyYTd5ZWxqd1Q4TlliVlpMV2oyekRKTFhtRmg3NlRJVzM3VDBVNnZtUlpfV1ltdG5WMXhfRm5ZOEJVbnVSSHp0a1hKNXRUbndPM1BZTTFmcnV2c3c4UFdGQW4xTFJJTGc5MU1idHFURXRMcnNFekdlOHBNRnNCMWY0ZEZSN19ZTHgySHp6b1E2ZUpNd0Nn0gHiAUFVX3lxTE9uSGltYUxmM0xyX29VU29jeXU0SVZVLTF1WG1yZ2RFYlZRS0FUS3EtbldwQmNQNUFrQmZQVFg3RkRwLWNCbG5abkhZUWR6VUdxcGNma2dVSjF5bHlFdm0yOHV4YkZfdTRuTHdQMEJqdDJlQ0pHOElsWFA0TzYxdkQxUTNYMWVkcEU3OHJMWF9Dc0U5YzBEOWV4U3RLczctX2U3bnFXTXEwTzJIcUw4SFU3TUpmNGNPN1J3Wm1uMGlGNXlfM3NBdFZyaXU2akdXVEs3ZkJRM19TWm9MSUZGY2tHa0E?oc=5",
+      "snippet": "Crackdowns failed to stop Asia’s scam centres. Here’s what advocates want next South China Morning Post",
+      "publishedAt": "2026-11-19T05:44:19.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Axis Bank Sounds Alarm Over 8 Digital Fraud Threats, Launches Nationwide Drive To Protect Customers - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdDUyempPMU9pc3hvZm03X0FIU1Q0WTFZSWJTTGJFZVFtT2NVVmJGeklqbUNDSXMwWDhWS1lLTmRyTWsxamdtQUwwSXVORjBzZnMteXRPU1dlakJ2NW43UWk5MTFaWFZxSGRUM0k4Rkh0S0ViLU9IZVJreGZYeWltLWZxLWpMemlvaFlYaDFyWXA1SENidkdsTXEwZExZcGp2amJFOW5PeEVYSk1GeE9NckVQYlhkLTRpSUVSV3hoa0l5cWhmazdZR0wtUlpqU2loV0ZsUzF30gHbAUFVX3lxTFA5eTdISnlRazJuOFg4aHRkdkhPbTJFX2ROWjYtWGJKckhIU3hlLUhkSmJ0blZrS3FWVDI3OWhDRzlVdFVwZTRmLWNWNkt5cDVJd1JXaW1Uc2FIalNlYWxPcnpJbUtHTG15aGM5UlJ4WlNyazdCOXBfRGpmUU9Nd0p4aElVaEVqNDRZS0JUcG1YcVZOOEpkaGVDN245MW9udnBjV1cweXdmNWZHOG53VFFBRGVPanpQNFBJUVJYZjFvVHhKX3luWFp1WElqNkx5bk5oTnpoODkwSjFFWQ?oc=5",
+      "snippet": "Axis Bank Sounds Alarm Over 8 Digital Fraud Threats, Launches Nationwide Drive To Protect Customers Free Press Journal",
+      "publishedAt": "2026-11-19T03:56:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Govt mulling mandatory WhatsApp account verification to curb online scams — Fahmi - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxVTNnOE5wTTNaR2pDR2dDUk5CQUtETzNfdk9HSGRBYURybkFZNldJM2FWcFhIMklFY0g4aF9Tc1VINkVBU0NETGphTEJVWjNL?oc=5",
+      "snippet": "Govt mulling mandatory WhatsApp account verification to curb online scams — Fahmi The Edge Malaysia",
+      "publishedAt": "2026-11-19T03:37:53.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PalmPay intensifies fraud awareness campaign in Nigeria - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlRlRGNjeUthU1oyc1RNZXh6dl9kZkNLcFJrRGRnWmE0S0dJV2xmZ0VDeG9SZXV2WmdtREp1TXM3VFZjaG9aRlF4dnQ5YURHM280d3YwTnNDNGRSdWJBNHhNMTFvc29VamV4bTJEbUY3WHZIV3V6YWRKajVKeXJGbTdGWXpSbzRSb3c1eUlJUmdaeldJMjlGMjgybw?oc=5",
+      "snippet": "PalmPay intensifies fraud awareness campaign in Nigeria Head Topics",
+      "publishedAt": "2026-11-19T02:24:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Black Friday warning: AI shopping agents and a new wave of cyber scams - Australian Cyber Security Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMG5OU2IxNDV6TGU2T194TElKUW9KOF9faHo0alRUbTRzMjd2aS1qVWlOWTZPQWY3YUNnRFNlamV0Mi16X1RVNjhsTUQ2cUl5d1hkajlIX3VXdV9qdVpaLUZmSEpQbHNJRVZlcTlieFFKSXlOeEd5Um9ySVROQXBXMU03N3kyWGVHVXlTeVZBbGxSSXU1YkhGMWN3M0JDTC04RjlNVzVybFYwdnJHM0JtYmtSZlFFamZU?oc=5",
+      "snippet": "Black Friday warning: AI shopping agents and a new wave of cyber scams Australian Cyber Security Magazine",
+      "publishedAt": "2026-11-19T00:27:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Arctic Wolf warns Australian retailers of Black Friday scams - SecurityBrief Australia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFOWl9uVEJGc041WU9OYzlhN0RGbHZrUmRFZzZueUxNOGxaMmItaE5FLU90TXBGcERfRm5lQkFBWmFIbGIwZFpuSDRaclROWDNqbnVxWTBYZk5UNEM1aFE4Qm9MWGNHeGRhTy1UNWJqZnlWT1NsdHY1eXFkbXRhZUs2YjNUMmVtdkNLeG9xdHZXeDBaZ1ZIcmdjYw?oc=5",
+      "snippet": "Arctic Wolf warns Australian retailers of Black Friday scams SecurityBrief Australia",
+      "publishedAt": "2026-11-18T22:46:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

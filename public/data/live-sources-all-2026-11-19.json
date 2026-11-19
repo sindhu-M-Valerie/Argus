@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:46:20.458Z",
+  "generatedAt": "2026-11-19T07:42:43.133Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 18
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 83
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 37
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,171 @@
   ],
   "data": [
     {
+      "title": "Child sexual abuse: Philippine children need more than promises of protection - NewsLine Philippines",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONW9EWlkxYVhlN1djdUM3XzhMbWctNk84T3drYmZjcDVqU3hxVFZTdXh1OXlZUjRkMkQ0YUVRRUNmS3BuWDBZeTI0T2Z6bThZSnprZFprYkhLMzNjMzRXZkY2RVNLbzh6azhUTzdOc0Zud2JxOThtbmhDaWF0VXpRX1NNSnVtSlV4amlpbzZQY1dsMWpxM0xtcTBkZ2VGZw?oc=5",
+      "snippet": "Child sexual abuse: Philippine children need more than promises of protection NewsLine Philippines",
+      "publishedAt": "2026-11-19T07:22:58.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The National Bureau of Investigation (NBI) on Wednesday said the government’s efforts to combat child sexual abuse and exploitation received a boost following the turnover of donated digital forensic software. In a statement, NBI Director Melvin Matibag said - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWTJmSjRXQVNFWUw4VE1zcTh5QWRsNVVielBURUVYOG5tUWZzVnEwWVRsRHFGRkFXdU5LVlYxaW9tNFBvcW9JcE9GQ2tPVkwxUDByX1k3MEMxUEl3Nnd0QVhLenZDd2tLUTNYb2N1YjM5UzZWUFdCZDBYbjlpeG5Cck03VzRhN1owd1k0d0JrTUdIbjJ3MDdqZ2RINmR5R1IyMElKR0xoVFlnY3BocVdkVVRMWFdCRWtNQ1c4QXNBQ1d1UnpfeVY5WUZLMlB0WlVOOGw1Mw?oc=5",
+      "snippet": "The National Bureau of Investigation (NBI) on Wednesday said the government’s efforts to combat child sexual abuse and exploitation received a boost following the turnover of donated digital forensic software. In a statement, NBI Director Melvin Matibag said Facebook",
+      "publishedAt": "2026-11-19T00:30:22.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "World Day for the Prevention of Child Exploitation - تيار المستقبل السوري",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDI5dzROSTBFU2NiMTlLLU9wX29VVVV3MjRWN1ZkTk5QcEY3SVR2Yk03ZFNPRU1PUVlTdkZPZEYteWFsME01S2ZNcVhpU3RnWEl4LWNabHVsN1ItSGsxWUFUQUkwRWsyOFEyd2FLSll6T0NXRDBzSEV2WW9ESWI0SVhTeUxzalhvSE9n?oc=5",
+      "snippet": "World Day for the Prevention of Child Exploitation تيار المستقبل السوري",
+      "publishedAt": "2026-11-18T23:20:03.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rayong launches fishing boat inspections to prevent forced labor and human trafficking - Pattaya Mail",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWo0ZVBsOVZNOGR1SDZfQVlKUVBaY3U4M1lhS0RMNFNuOElhQ0JDVHozRHpBbHlreFdYZ25xZDI3ODNveEdpSkhZZVM0T1V4Z3dyZzcxWlpHTFZkMWtlYldkekFGOFoxVEczRlRRWXlkNmV5c2JObWRnYVpMQ0V1TkxOU3RySHJtWklsbTBpeWx2ZWx0U05sS0oxZFdVQk5xUmRCbmt1Vmoyb0VPQ1hmX2NvLUNaQ2hmQW5EOElZSW1JekhC?oc=5",
+      "snippet": "Rayong launches fishing boat inspections to prevent forced labor and human trafficking Pattaya Mail",
+      "publishedAt": "2026-11-18T20:40:03.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "human-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "JOYRIDE INVESTIGATES POSSIBLE DATA BREACH Ride-hailing platform JoyRide Philippines is investigating a reported cybersecurity incident that may have compromised some of its data, the company said in a statement. JoyRide said it is coordinating wit - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbVlRMWlHSTZiYjZ2UlBZZjhIdGFHY1FVMmdUV3NoSHZ3SHlqYlRsUWNraUp4dUxlUUJidmIxRWlnWm8tTzIwNGE3RHdhNTNmREdyeU4wSkQ2U2hVSGVJbWhLZVczOFZsTFBtQVBocXNUTFdUWnF2WTluTnVKNEVEZTI4NHBsTFUyYUFkVi1FRm9hamVSVUZ5Ukl0LU54eGIxbzBJdEhaTnJ3eXk5U1dvMUVTcGZiRktmNGhwckl3QmxPSDhYRTJPYW05M3l3M1NjeGpPeGg4YjdEY0YtQ2c?oc=5",
+      "snippet": "JOYRIDE INVESTIGATES POSSIBLE DATA BREACH Ride-hailing platform JoyRide Philippines is investigating a reported cybersecurity incident that may have compromised some of its data, the company said in a statement. JoyRide said it is coordinating wit Facebook",
+      "publishedAt": "2026-11-19T05:54:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Crackdowns failed to stop Asia’s scam centres. Here’s what advocates want next - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdW82SUhiLU92VWsyN0UyRXBvdTZaUEYyUW5lajZCSkJpbUppZTljNDFrTVAwU2JIZnZUamVHZDJ4c1g5eFFsenZQZjhaSlRXekY0TkVyYTd5ZWxqd1Q4TlliVlpMV2oyekRKTFhtRmg3NlRJVzM3VDBVNnZtUlpfV1ltdG5WMXhfRm5ZOEJVbnVSSHp0a1hKNXRUbndPM1BZTTFmcnV2c3c4UFdGQW4xTFJJTGc5MU1idHFURXRMcnNFekdlOHBNRnNCMWY0ZEZSN19ZTHgySHp6b1E2ZUpNd0Nn0gHiAUFVX3lxTE9uSGltYUxmM0xyX29VU29jeXU0SVZVLTF1WG1yZ2RFYlZRS0FUS3EtbldwQmNQNUFrQmZQVFg3RkRwLWNCbG5abkhZUWR6VUdxcGNma2dVSjF5bHlFdm0yOHV4YkZfdTRuTHdQMEJqdDJlQ0pHOElsWFA0TzYxdkQxUTNYMWVkcEU3OHJMWF9Dc0U5YzBEOWV4U3RLczctX2U3bnFXTXEwTzJIcUw4SFU3TUpmNGNPN1J3Wm1uMGlGNXlfM3NBdFZyaXU2akdXVEs3ZkJRM19TWm9MSUZGY2tHa0E?oc=5",
+      "snippet": "Crackdowns failed to stop Asia’s scam centres. Here’s what advocates want next South China Morning Post",
+      "publishedAt": "2026-11-19T05:44:19.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Axis Bank Sounds Alarm Over 8 Digital Fraud Threats, Launches Nationwide Drive To Protect Customers - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdDUyempPMU9pc3hvZm03X0FIU1Q0WTFZSWJTTGJFZVFtT2NVVmJGeklqbUNDSXMwWDhWS1lLTmRyTWsxamdtQUwwSXVORjBzZnMteXRPU1dlakJ2NW43UWk5MTFaWFZxSGRUM0k4Rkh0S0ViLU9IZVJreGZYeWltLWZxLWpMemlvaFlYaDFyWXA1SENidkdsTXEwZExZcGp2amJFOW5PeEVYSk1GeE9NckVQYlhkLTRpSUVSV3hoa0l5cWhmazdZR0wtUlpqU2loV0ZsUzF30gHbAUFVX3lxTFA5eTdISnlRazJuOFg4aHRkdkhPbTJFX2ROWjYtWGJKckhIU3hlLUhkSmJ0blZrS3FWVDI3OWhDRzlVdFVwZTRmLWNWNkt5cDVJd1JXaW1Uc2FIalNlYWxPcnpJbUtHTG15aGM5UlJ4WlNyazdCOXBfRGpmUU9Nd0p4aElVaEVqNDRZS0JUcG1YcVZOOEpkaGVDN245MW9udnBjV1cweXdmNWZHOG53VFFBRGVPanpQNFBJUVJYZjFvVHhKX3luWFp1WElqNkx5bk5oTnpoODkwSjFFWQ?oc=5",
+      "snippet": "Axis Bank Sounds Alarm Over 8 Digital Fraud Threats, Launches Nationwide Drive To Protect Customers Free Press Journal",
+      "publishedAt": "2026-11-19T03:56:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Govt mulling mandatory WhatsApp account verification to curb online scams — Fahmi - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxVTNnOE5wTTNaR2pDR2dDUk5CQUtETzNfdk9HSGRBYURybkFZNldJM2FWcFhIMklFY0g4aF9Tc1VINkVBU0NETGphTEJVWjNL?oc=5",
+      "snippet": "Govt mulling mandatory WhatsApp account verification to curb online scams — Fahmi The Edge Malaysia",
+      "publishedAt": "2026-11-19T03:37:53.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PalmPay intensifies fraud awareness campaign in Nigeria - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlRlRGNjeUthU1oyc1RNZXh6dl9kZkNLcFJrRGRnWmE0S0dJV2xmZ0VDeG9SZXV2WmdtREp1TXM3VFZjaG9aRlF4dnQ5YURHM280d3YwTnNDNGRSdWJBNHhNMTFvc29VamV4bTJEbUY3WHZIV3V6YWRKajVKeXJGbTdGWXpSbzRSb3c1eUlJUmdaeldJMjlGMjgybw?oc=5",
+      "snippet": "PalmPay intensifies fraud awareness campaign in Nigeria Head Topics",
+      "publishedAt": "2026-11-19T02:24:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Black Friday warning: AI shopping agents and a new wave of cyber scams - Australian Cyber Security Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMG5OU2IxNDV6TGU2T194TElKUW9KOF9faHo0alRUbTRzMjd2aS1qVWlOWTZPQWY3YUNnRFNlamV0Mi16X1RVNjhsTUQ2cUl5d1hkajlIX3VXdV9qdVpaLUZmSEpQbHNJRVZlcTlieFFKSXlOeEd5Um9ySVROQXBXMU03N3kyWGVHVXlTeVZBbGxSSXU1YkhGMWN3M0JDTC04RjlNVzVybFYwdnJHM0JtYmtSZlFFamZU?oc=5",
+      "snippet": "Black Friday warning: AI shopping agents and a new wave of cyber scams Australian Cyber Security Magazine",
+      "publishedAt": "2026-11-19T00:27:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Arctic Wolf warns Australian retailers of Black Friday scams - SecurityBrief Australia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFOWl9uVEJGc041WU9OYzlhN0RGbHZrUmRFZzZueUxNOGxaMmItaE5FLU90TXBGcERfRm5lQkFBWmFIbGIwZFpuSDRaclROWDNqbnVxWTBYZk5UNEM1aFE4Qm9MWGNHeGRhTy1UNWJqZnlWT1NsdHY1eXFkbXRhZUs2YjNUMmVtdkNLeG9xdHZXeDBaZ1ZIcmdjYw?oc=5",
+      "snippet": "Arctic Wolf warns Australian retailers of Black Friday scams SecurityBrief Australia",
+      "publishedAt": "2026-11-18T22:46:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "DW News. . Sexualized violence on the internet affects a growing number of children and teenagers in Germany. Yet experts say many parents still underestimate the risks children face on their smartphones. What can families, platforms and politicians do to be - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXBnT2tJQlhCVE9WVW9FQXRfQTdObDZjMnVYNGlHV2NralJ1VHJoeGRoeHZmTVZnRDctSmJRLTBpYUxhX3pTUnhiRzdiNkQ5eEQzeG5QSi0wN0RXSjBsem5EdVdsLVhWNFRBczdxM3pFT1Q2ak1fc3lYY2VxSUpiTk5vaFBfYkVXaDFRQ1htTHlQMmtmc3lJeXlDdlI3Tmw5ZDJQMUlTb2pMV0EzbVNSOHVIQUhPaGs4R09uYzVmYlNacTdOVGk1TXgzZUFsTGo1ZlcyYzRWMGx0VXRpUTlzMjJ3?oc=5",
       "snippet": "DW News. . Sexualized violence on the internet affects a growing number of children and teenagers in Germany. Yet experts say many parents still underestimate the risks children face on their smartphones. What can families, platforms and politicians do to be Facebook",
@@ -192,6 +357,81 @@
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Poste Italiane confirms data breach, over 1,500 customers exposed - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVE8ya0phcktGX1FsaUJsNEtKYVhQZUtqb3FZR2ZKQWJZR2ltQ3JGM3RiX05LQTE3ZnZpTkFxS0d2TGhnYkp5ZWtEa2k5dmRnb0FhT0JYWFBfUjFiTnpmMkwtRHg5bnpHRmtKVndTM3ZKcHBZcm5DSmxJSjhQZ0hMbzJhYm52X0tHWTh0cndLQzMwU2lTTGFabmNR?oc=5",
+      "snippet": "Poste Italiane confirms data breach, over 1,500 customers exposed Pasquale Pillitteri",
+      "publishedAt": "2026-11-19T07:39:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-driven cyberattacks test Nigeria’s fintechs, election security - The Guardian Nigeria News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2FYNGFkNVhxeElBRnlmVndNNk1XdTFISmtiOHNUS2xVc1hfcTlRdTZMRjd0SWdxdVlvVXhTVDM0Y0U5YjZ1OWJTMDY2X29ZVzVQbDlNS2Z4N09zS1NOZHBabl9ITHIwOGFzeGNGMG9TNjhfQm95eWxxNGtCYkJDMjB0d2hsd1o5Tkd0MXlLYnV2MGRfMkdSMg?oc=5",
+      "snippet": "AI-driven cyberattacks test Nigeria’s fintechs, election security The Guardian Nigeria News",
+      "publishedAt": "2026-11-19T04:05:17.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vermont police departments report online service outages amid cybersecurity incident - WPTZ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd082TTJkZkVGTVk3TGhhOW9wZ3FjLTd2SjZQZ3VHTDhUb0hEa0NVYThQd2U1LWNtRTZxOGxIYVFJZmd3WlVwODctZGIxZ1JJQ3hRek5odUdRZmV3ZGlzM2xKcDJrUDhOMVlidHBJR0wzdm5uZElHZ0d3ZGNJZzNNV21PNDY4Yi1kUzZjRjBlemtoLURZVXVKRHY5ZXFaQXhnQklEdzRJZ3Yya0llSFBfTHlfTzR4b3AtR3hMbjRn?oc=5",
+      "snippet": "Vermont police departments report online service outages amid cybersecurity incident WPTZ",
+      "publishedAt": "2026-11-18T22:45:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Experts Warn Online Trolling Can Harm Mental Health; Doctors Advise Blocking, Reporting and Seeking Help - Mumbai Mirror",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XdzlJSUt3LV9CYlZTOTgwbWk2bTYtTUtYangySTBaLVkxSU9wbTRidFdtdkJxWEV2LTRlRi1WZjFoTFdGTmt5Z2YtOTV1ZmFucmM2ampqYVdzaXJaTFBoTHZ5SXB6dUdIZkVoT1dnRVFPamZZR1E?oc=5",
+      "snippet": "Experts Warn Online Trolling Can Harm Mental Health; Doctors Advise Blocking, Reporting and Seeking Help Mumbai Mirror",
+      "publishedAt": "2026-11-18T22:30:00.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "KPMG Canada client files compromised in data breach, accounting giant confirms - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnFLZGJaSnhIR25fUExJMDI4R216TFFkNjRidEhYOE1nV1R4a3lzZ2VtZ1RIS21Ga2xxQ2R3dVRsSjNOaGhDMTVIR1FENmtJUFlCNHhTZXhMT1Fza1BncHdaLUtwWWlmNVFrMkp0WmF2TVRka0NEcl95YkJQUlI0S2wwMTZwOE9TUlBjNGYyc1QyeWhuWW9KVFZXdTJGczZMaE52MW0xX09WUHIxT0RxYlVqRzlfdkh3ZU5SSXU0VQ?oc=5",
+      "snippet": "KPMG Canada client files compromised in data breach, accounting giant confirms The Globe and Mail",
+      "publishedAt": "2026-11-18T21:24:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:46:20.458Z",
+  "generatedAt": "2026-11-19T07:42:43.133Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 83
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 37
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,81 @@
     }
   ],
   "data": [
+    {
+      "title": "JOYRIDE INVESTIGATES POSSIBLE DATA BREACH Ride-hailing platform JoyRide Philippines is investigating a reported cybersecurity incident that may have compromised some of its data, the company said in a statement. JoyRide said it is coordinating wit - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbVlRMWlHSTZiYjZ2UlBZZjhIdGFHY1FVMmdUV3NoSHZ3SHlqYlRsUWNraUp4dUxlUUJidmIxRWlnWm8tTzIwNGE3RHdhNTNmREdyeU4wSkQ2U2hVSGVJbWhLZVczOFZsTFBtQVBocXNUTFdUWnF2WTluTnVKNEVEZTI4NHBsTFUyYUFkVi1FRm9hamVSVUZ5Ukl0LU54eGIxbzBJdEhaTnJ3eXk5U1dvMUVTcGZiRktmNGhwckl3QmxPSDhYRTJPYW05M3l3M1NjeGpPeGg4YjdEY0YtQ2c?oc=5",
+      "snippet": "JOYRIDE INVESTIGATES POSSIBLE DATA BREACH Ride-hailing platform JoyRide Philippines is investigating a reported cybersecurity incident that may have compromised some of its data, the company said in a statement. JoyRide said it is coordinating wit Facebook",
+      "publishedAt": "2026-11-19T05:54:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Poste Italiane confirms data breach, over 1,500 customers exposed - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVE8ya0phcktGX1FsaUJsNEtKYVhQZUtqb3FZR2ZKQWJZR2ltQ3JGM3RiX05LQTE3ZnZpTkFxS0d2TGhnYkp5ZWtEa2k5dmRnb0FhT0JYWFBfUjFiTnpmMkwtRHg5bnpHRmtKVndTM3ZKcHBZcm5DSmxJSjhQZ0hMbzJhYm52X0tHWTh0cndLQzMwU2lTTGFabmNR?oc=5",
+      "snippet": "Poste Italiane confirms data breach, over 1,500 customers exposed Pasquale Pillitteri",
+      "publishedAt": "2026-11-19T07:39:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-driven cyberattacks test Nigeria’s fintechs, election security - The Guardian Nigeria News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2FYNGFkNVhxeElBRnlmVndNNk1XdTFISmtiOHNUS2xVc1hfcTlRdTZMRjd0SWdxdVlvVXhTVDM0Y0U5YjZ1OWJTMDY2X29ZVzVQbDlNS2Z4N09zS1NOZHBabl9ITHIwOGFzeGNGMG9TNjhfQm95eWxxNGtCYkJDMjB0d2hsd1o5Tkd0MXlLYnV2MGRfMkdSMg?oc=5",
+      "snippet": "AI-driven cyberattacks test Nigeria’s fintechs, election security The Guardian Nigeria News",
+      "publishedAt": "2026-11-19T04:05:17.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Vermont police departments report online service outages amid cybersecurity incident - WPTZ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd082TTJkZkVGTVk3TGhhOW9wZ3FjLTd2SjZQZ3VHTDhUb0hEa0NVYThQd2U1LWNtRTZxOGxIYVFJZmd3WlVwODctZGIxZ1JJQ3hRek5odUdRZmV3ZGlzM2xKcDJrUDhOMVlidHBJR0wzdm5uZElHZ0d3ZGNJZzNNV21PNDY4Yi1kUzZjRjBlemtoLURZVXVKRHY5ZXFaQXhnQklEdzRJZ3Yya0llSFBfTHlfTzR4b3AtR3hMbjRn?oc=5",
+      "snippet": "Vermont police departments report online service outages amid cybersecurity incident WPTZ",
+      "publishedAt": "2026-11-18T22:45:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "KPMG Canada client files compromised in data breach, accounting giant confirms - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnFLZGJaSnhIR25fUExJMDI4R216TFFkNjRidEhYOE1nV1R4a3lzZ2VtZ1RIS21Ga2xxQ2R3dVRsSjNOaGhDMTVIR1FENmtJUFlCNHhTZXhMT1Fza1BncHdaLUtwWWlmNVFrMkp0WmF2TVRka0NEcl95YkJQUlI0S2wwMTZwOE9TUlBjNGYyc1QyeWhuWW9KVFZXdTJGczZMaE52MW0xX09WUHIxT0RxYlVqRzlfdkh3ZU5SSXU0VQ?oc=5",
+      "snippet": "KPMG Canada client files compromised in data breach, accounting giant confirms The Globe and Mail",
+      "publishedAt": "2026-11-18T21:24:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack - BleepingComputer",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFdFaDlfcDZNaWtVV3kyUW1RSGFaRVNfbGt4czBGbXk5Y2I0WGFqQ2cydmhVZ1lhRGRlUDIwbnVBUEhUUnNhcGc0TFFXalhkMWJsSE5VR3FlTHpOZVk0aV83bUxCYlFiMFZNdHdmWFVqSGxPcFhyQ1BtTUh1V09GQ0lnVTBCVUpqcUhoWG9QOWZweGFobWlNMHZvZ2RFNVZJc3RyQ2U3d0FnTTFNVVRDbEtwY3JnbktFd3Jn?oc=5",

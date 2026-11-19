@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:46:20.458Z",
+  "generatedAt": "2026-11-19T07:42:43.133Z",
   "snapshot": true,
   "date": "2026-11-18",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 57
+    "total": 61
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 44
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 83
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 26
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 37
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "online",
-      "itemCount": 32
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -220,6 +220,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Op Sindoor, Balakot Airstrike & Surgical Strike reflect India’s shift from diplomatic condemnation to proactive action to eliminate terrorism at its source: Raksha Mantri - www.pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hQ0w3T25keE1UMDlwVm82SWZEM1JPQ1ViZmdWVDh3eVBlYlR5dUxyTlUxeENwYm5DR3lUVEJMV0lDYk5Gc0traU9BekxZWlpOQV85RDZfbE9pV0Z2d1hqd3otUDBZckxFNkNOa0NQUHM5dU82RWp0RUx4cm0?oc=5",
+      "snippet": "Op Sindoor, Balakot Airstrike & Surgical Strike reflect India’s shift from diplomatic condemnation to proactive action to eliminate terrorism at its source: Raksha Mantri www.pib.gov.in",
+      "publishedAt": "2026-11-18T11:59:00.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 60,
       "confidence": "Medium",
@@ -452,6 +467,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming - KOKI FOX 23",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUkpRWlNVbTltd1RXUVJLOUtSbE96NE5EQ19qYmx1NnVhVGhFbmJnNVpoSHM3cktxMFBLY0tUS29ELWZWZUthNW5hb0FzbFo5STZhNFBnc2E3NjJHTnVQY21fZGlYMXNKVTRia3hibksxcjZQM1pNNkhTbkFlTDNQVWpEaDNtS2llTmZDUDNIT2Y1ZmNPQW05di1pQThsM2JYeTlrUExhNWdaS0ZiVk44VnlzVG91NWJMWU1ET1FqUzdHMVBtNzdyLXpiZkQweTNRMkxNaEExWlRpX2dEMGJsdWtwSjBydFE0dU5qNkpHcw?oc=5",
+      "snippet": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming KOKI FOX 23",
+      "publishedAt": "2026-11-17T19:40:18.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming - National News Desk",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEE2S0N2VnloTDRVRG1vdzZydFRqYU55Vy1wWDFxRmRQdTNhd1hydVl5R0tSejltNmo4eWs5cmVoTjVOUmZWSDVOLTFVZ0tnS0NCczN5dDk1Wk5hM3ZuZXdzRXV1RHJuVlYybnVjOVZ4LUhPZ1Bnd1hvQlMtVHRzbExzbnJDS2lEQ01NeHNHYmI1a09rS2cwaFVkQXZXWDktdkVvSHVadUdaaHFNVHVObXNlanZWNkJhZkF2bk4xLWV1bVRMV1RaakhNV3hJX3lzcy1XQkIweno4cTVfSG5KcHhRRkNMb0tXTXRKeHlsd084RE1kWUVWc05OelNzWWVVRXI0?oc=5",
       "snippet": "Hawley, Durbin introduce legislation targeting child sexual abuse on Roblox, online gaming National News Desk",
@@ -632,10 +662,25 @@
       "corroboratedBy": 1
     },
     {
+      "title": "How to Tell a Real Binance Message from a Scam: Verifying Official Channels - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fY256R3JSU05iUWNtcFllNjliZGpPZ1BqSmd1NmhUSWRTZktYaE9zX3E2T0lQRjhKZHJzeVVNSkxpX2tEeExuVWx4OW01dkVFX1dmdFpGRm9hdXlaMXdMTGhsdG0?oc=5",
+      "snippet": "How to Tell a Real Binance Message from a Scam: Verifying Official Channels Binance",
+      "publishedAt": "2026-11-18T16:35:54.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Private investigator warns of rising festive season scams - The Citizen",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb01wTWFzV285blZZYXFGb21vUWhfVnR3UFdmTmxoSGdRUGhnS3lFYjN2TmN4bEtRdl9IczFYUkJrX2lRTU8wcGNsVUluZWd4ejNyQXJUWXJ3TkRneWxGVzBIWGZQQkp4czdHWW9EVlpSZnVJMHJYS05yMzBLY3JBOHVDNmo1MFduTDh0eHdZemhkV0pmWWRnRmNjVUFmeXZ1N1hOTF95YWZIYzRLakU4SmY5SjVRV3psMlZEWFl3Vzk?oc=5",
       "snippet": "Private investigator warns of rising festive season scams The Citizen",
-      "publishedAt": "2026-11-18T14:09:09.000Z",
+      "publishedAt": "2026-11-18T14:56:13.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -771,6 +816,21 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWE5ja1J1LUR6VXo4MFlkVWhieEFjNUpvclpLbG9RazBfOEdNRWg2Wlo4MXhKWGc3Slh6NE13ZzZzM0pwcm02QkhEVDlTbDNmWmUtMGtoY2N1V2N4TWFHWEoxUEI1eVNpamJ1NnJ3OVJvUm5BaXRrOW9Zbl9pUmVVOVhtZ2Z0WjFDcUtWanlLRk8wS1lKZW0xMVg1LWlycExDS1djSXVWS2xja011ZFVFcHk0NlJFbW5rQlhkcHUyX1ZNb2s3bXRGWk9ubW9DZUV3?oc=5",
       "snippet": "South African jobseekers targeted by local recruiters in Southeast Asian trafficking scams IOL",
       "publishedAt": "2026-11-18T03:41:44.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "East Asia Summit leaders back joint action on scams at ASEAN - Back End News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdElCU1hWSFoxXzYwTjRlYWlzTWVhZDZYYTlCQ2tuWDFhZElKMW50RjU2SHpzazdkMmQ4QVRWX2ZaZ00xLVFkbkZ3cUFnQWxzQ1dJZlpvT0NaelJIaUxCVGV4UTRkb3NmUzJiYk5XR2Zxc05TbVQzSnNqMnNHWW1PcmJFRnlaS29RQ1RfdUJB0gGTAUFVX3lxTE5zM3BwWjNNZkZZb0VGRjJWM2xDOGh4dlNFaWk0eklNSHROMVJ1OFRHbER1dnJKdmczSWx6UUhwb2MzdzRMWHNQOWN1Q29fV2ZiWVBOUXdiYXRlbW1BT3VOYURGXzhvaWE4YjVLWGVpNWl3QkJrWXRMczMtNEZsb2trbVVaUTJhT01tMDJQeDVtOExDRQ?oc=5",
+      "snippet": "East Asia Summit leaders back joint action on scams at ASEAN Back End News",
+      "publishedAt": "2026-11-18T03:03:05.000Z",
       "source": "Google News • Human Trafficking (South Asia)",
       "theme": "fraud-impersonation",
       "type": "News",
