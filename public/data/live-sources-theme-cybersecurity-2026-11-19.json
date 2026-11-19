@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:42:43.133Z",
+  "generatedAt": "2026-11-19T20:52:04.085Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 15
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 44
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,28 +44,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 50
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,28 +79,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 36
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Hackers Target European Commission with ARTEX AI Tool in Major Cyberattack - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZSWh1YkhBMUtmWEFfVmZucjRtV0ltR18wY2l3SlVQN0FXR3NQWjZLWmFRNDYzOEwtZUFrVC0zaUFPeDFFaDBRSkdjM0ozU1ZyUUg2ckhVaFZOZktQdW9PNWJDT3FuMS1QajZ6VWNVc9IBdEFVX3lxTE90a21fcW5HREZPVXE5TWptbF91SWg5eTVZSkpSLUZCQjlCUVctZ2kwOWpsWHFJOG9WTFFiRFZjWThQRElaVkl4NElyaXBiWjE2bHpmUGJNYS04VEFJbDc4bVVFRlhNOVJKeVg5ZTdHU2Vkcmpn?oc=5",
+      "snippet": "Hackers Target European Commission with ARTEX AI Tool in Major Cyberattack CyberSecurityNews",
+      "publishedAt": "2026-11-19T09:53:35.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "JOYRIDE INVESTIGATES POSSIBLE DATA BREACH Ride-hailing platform JoyRide Philippines is investigating a reported cybersecurity incident that may have compromised some of its data, the company said in a statement. JoyRide said it is coordinating wit - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbVlRMWlHSTZiYjZ2UlBZZjhIdGFHY1FVMmdUV3NoSHZ3SHlqYlRsUWNraUp4dUxlUUJidmIxRWlnWm8tTzIwNGE3RHdhNTNmREdyeU4wSkQ2U2hVSGVJbWhLZVczOFZsTFBtQVBocXNUTFdUWnF2WTluTnVKNEVEZTI4NHBsTFUyYUFkVi1FRm9hamVSVUZ5Ukl0LU54eGIxbzBJdEhaTnJ3eXk5U1dvMUVTcGZiRktmNGhwckl3QmxPSDhYRTJPYW05M3l3M1NjeGpPeGg4YjdEY0YtQ2c?oc=5",
       "snippet": "JOYRIDE INVESTIGATES POSSIBLE DATA BREACH Ride-hailing platform JoyRide Philippines is investigating a reported cybersecurity incident that may have compromised some of its data, the company said in a statement. JoyRide said it is coordinating wit Facebook",
@@ -193,6 +208,111 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "JoyRide confirms app data breach - Philstar.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemhmN0RzODZVSl8ySmxWbnJKT2h5UlhQNTMwWEw2emt4SDFRd2ZzZnBkcTJUTnhyd1JMb1AzUGZwS0RqeVhCbGdXMzNIWWdLc3NyLThNWjdSSXBBZEdCQUxTNzBsR3lIMEkzT0NISWhNRmRYZUs4c09zbS1mbGo3TF9YX195VnVoQlNHN3RR0gGUAUFVX3lxTE5DcmJkQUVBckVHSTV5RDRCeDgyVHNmSjFiN1RNSUpabzFKcGRCQ2FVYWJYQ0JMbk9zWjJlQnNKYnBCLWNXb0dKR3JaMjNfRUt3S1ZsRHpwTDV0cXVKdE1FZEVNQjVqRkhJN0poXzdEMjZmeVRSTXVMcHNvZ05CNnlqcnpQX21lTU9lYWFtMkJiM0x6aHI?oc=5",
+      "snippet": "JoyRide confirms app data breach Philstar.com",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 47,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "JoyRide confirms app data breach - Philstar.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ3JiZEFFQXJFR0k1eUQ0Qng4MlRzZkoxYjdUTUlKWm8xSnBkQkNhVWFiWENCTG5Pc1oyZUJzSmJwQi1jV29HSkdyWjIzX0VLd0tWbER6cEw1dHF1SnRNRWRFTUI1akZISTdKaF83RDI2ZnlUUk11THBzb2dOQjZ5anJ6UF9tZU1PZWFhbTJCYjNMemhy0gGUAUFVX3lxTE5DcmJkQUVBckVHSTV5RDRCeDgyVHNmSjFiN1RNSUpabzFKcGRCQ2FVYWJYQ0JMbk9zWjJlQnNKYnBCLWNXb0dKR3JaMjNfRUt3S1ZsRHpwTDV0cXVKdE1FZEVNQjVqRkhJN0poXzdEMjZmeVRSTXVMcHNvZ05CNnlqcnpQX21lTU9lYWFtMkJiM0x6aHI?oc=5",
+      "snippet": "JoyRide confirms app data breach Philstar.com",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 47,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Visa data breach exposes premium cardholders’ personal and dining details - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80QVJMcjliMkJaX0J6cEVuSEhHSUlEcHUxLVVHUmRJUUdwWWd6dmhvX2VfN08wV3ZoRVV2aE96ZmpjZVpxaVNOR1VyLXV0V0pEY3JxTHhpa2ZhZWdSaHh5dXBxVmRJQXBmNDg0Sm5QamQzU1Q2OHI1Y29WVQ?oc=5",
+      "snippet": "Visa data breach exposes premium cardholders’ personal and dining details Beinsure",
+      "publishedAt": "2026-11-19T16:07:55.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Data breach at IT provider Wellington IT hits 43 Irish credit unions - The Paypers",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlQwcWRSUlR0TzJlUXpaNVoxZ3RxLW9sVjY5VGJxNWkxYXh3UlhxdW95M0t1WFZ5djctUlh2bTNwM2lIekxWekxKZk9GMDFTb21HTjh4WjU0LTlXYkNjMDlIeEZZVTZHSDlET0xrVHYwR053cXg1NndpR1UtLWVEbWRrVHBKY25LMmU3dEpxUTZubkZGVVQ4OWp5NnUwU2hzNl8zNTcyWGI5c1pJdEM5Tlc2RzZKZw?oc=5",
+      "snippet": "Data breach at IT provider Wellington IT hits 43 Irish credit unions The Paypers",
+      "publishedAt": "2026-11-19T16:07:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "TfL Oyster Photocard customer data compromised in Cybersecurity Incident affecting nearly 250,000 People - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUnpDMVJYUUVHMVZubVVPR0dyYmkzTzd6YlRCVzFyN2RGNU4xNVljVmM0blBPSC02c01XXzhLWFpuZE1uaGoyVEZEbGtaNERUODJqSlNCLThqWnljZ3NLWUMyZG5yMWJaNW9DbzhxTlFicEVDcDBoX1FmTmtMWnBQazZ3MEdpYV9JZXdlbjVXc2FjckpOdnV5eFB6OTJZSkx0QXFTTUJ0bEs2ZFlCdkFDNldfdWUwaGFTVjZCWkpXWXcydFBKRlZZRi1DTGxHbGRpSWlxZGVVZ184V1E?oc=5",
+      "snippet": "TfL Oyster Photocard customer data compromised in Cybersecurity Incident affecting nearly 250,000 People Cybersecurity Insiders",
+      "publishedAt": "2026-11-19T15:47:47.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity in Healthcare: Protecting Patient Data in Ghana’s Digital Health Era - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWoxTHlvWXdlUTJuZERPTjdTb21sM2xVOXlRYlpLeWlCdGRlU2ZZY3pBc0lCNGo2M3NZWnJVV2hRTmV6VHBRV2VKdk1EUjFIaUgwRGtxaHZsbUlKOTFxWGVNZzh5c2lZenRuSGN5M2ZyWWtMQWp5UnF3X0FLc19uYXZTVTZIaV9zclZ6LW5zTE1MVjRnQ1ZF0gGWAUFVX3lxTE1wejVKMk1ZckF1c0ZUSUUzRVp6YTNKbkc3MnBYUlJZUWR4WkN2Rm4tU2FRX1RDQU5mdGQyTW8xMHk5LUdSU2lVczBFbzEzLUMyTFJpSVYxNW0zdEhUNTAtejlaeUVqMEpJRm5UdVFZbVQ0eFFtUUtQQVl0QzA5WXdrazNWZXZ0X0dhOVZzek8wY1A4WWZ1dw?oc=5",
+      "snippet": "Cybersecurity in Healthcare: Protecting Patient Data in Ghana’s Digital Health Era Modern Ghana",
+      "publishedAt": "2026-11-19T13:44:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Visa data breach exposes premium cardholder data - Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfUUl2N3lyTjdmWEJDdUcyRlFBcnV4aWpJREZpa0tYN1l0aEI3MVFjN050SjhwcnRZa050MnZocHJIemVxb2prM21mQzFIU1cxcG9nZ2ItSTlSZHgxUjQtRkxqdw?oc=5",
+      "snippet": "Visa data breach exposes premium cardholder data Cybernews",
+      "publishedAt": "2026-11-19T12:49:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -216,6 +336,21 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2FYNGFkNVhxeElBRnlmVndNNk1XdTFISmtiOHNUS2xVc1hfcTlRdTZMRjd0SWdxdVlvVXhTVDM0Y0U5YjZ1OWJTMDY2X29ZVzVQbDlNS2Z4N09zS1NOZHBabl9ITHIwOGFzeGNGMG9TNjhfQm95eWxxNGtCYkJDMjB0d2hsd1o5Tkd0MXlLYnV2MGRfMkdSMg?oc=5",
       "snippet": "AI-driven cyberattacks test Nigeria’s fintechs, election security The Guardian Nigeria News",
       "publishedAt": "2026-11-19T04:05:17.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "N-able Confirms Server Breach, Disables Mail Assure and SpamExperts Management Access - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0SF9XVmgxNFBLTnFlNHZSLWFtNGxkQ0dVMVFoUVdmQ1Y0WE5qQ0xqWmJlR1QzUmExeUtIdkkwdEhOemZRdklaeU02X3hlVFBFWDVaVHhjMlkteU41YUkxeFBmTlJyclBYdHl3MdIBckFVX3lxTFBldGN1RXFEYVE0bndKbklqMU9xLTdQLUtuNFE4Y1hzRUdibThTYWpuTGRKYW44ekloV3B6YkdYc3IwYVlkMFo3TU1DQWt1MV9oa0VISmVseTNISHZ0VTlxa1dkT0RqTUlVcC1PdEVTaFg1QQ?oc=5",
+      "snippet": "N-able Confirms Server Breach, Disables Mail Assure and SpamExperts Management Access CyberSecurityNews",
+      "publishedAt": "2026-11-19T00:01:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

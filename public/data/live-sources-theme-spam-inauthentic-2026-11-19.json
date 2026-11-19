@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:42:43.133Z",
+  "generatedAt": "2026-11-19T20:52:04.085Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-19 on spam-inauthentic.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 44
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,28 +44,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 50
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,28 +79,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 36
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "N-able Confirms Security Breach in Mail Assure and SpamExperts Hosted Cloud, Credentials Potentially Exposed - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5seE5RcXhpSThXMHo3R0VTWWJRWldfUF9MbnM4LTRqZGRRVVpyelNkQVpWQm9sVjVSYS1saHhfREZ1Z3lEQktUdjNqRlota0dZNk9DTm9KcGdxQVFrRjhFb3JGSE42NkU4ZTBNOGhOdng1N0Z1aXJxbFVsbVJEQdIBfkFVX3lxTE5seE5RcXhpSThXMHo3R0VTWWJRWldfUF9MbnM4LTRqZGRRVVpyelNkQVpWQm9sVjVSYS1saHhfREZ1Z3lEQktUdjNqRlota0dZNk9DTm9KcGdxQVFrRjhFb3JGSE42NkU4ZTBNOGhOdng1N0Z1aXJxbFVsbVJEQQ?oc=5",
+      "snippet": "N-able Confirms Security Breach in Mail Assure and SpamExperts Hosted Cloud, Credentials Potentially Exposed GBHackers News",
+      "publishedAt": "2026-11-19T12:28:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "spam-inauthentic",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 36,
+      "confidence": "Low",
+      "severity": "Low",
+      "corroboratedBy": 1
+    }
+  ]
 }

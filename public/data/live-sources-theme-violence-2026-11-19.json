@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:42:43.133Z",
+  "generatedAt": "2026-11-19T20:52:04.085Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 49
+      "itemCount": 44
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,28 +44,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 50
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,28 +79,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 36
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 28
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -148,15 +148,15 @@
       "label": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "10 Lessons from the 2nd Global Ministerial Conference on Ending Violence Against Children in Manila - World Vision International (WVI)",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUZheFdWUlljYzBkbWI2cnVxVXRaY3p3a1BWTDBNUE5NaDlJcHctNU5BTlNhY1VTelFIMnZidksyaEtBRERseEhmaXNva01mOVRDSzJBMHFVX3FvaDh3Z3RjTFdLLUpQNUg4NWtoWnN2UnM5bm9pVGJxWTdqUXRRbTlZQzlXVnFUbnFHM2pCQjhhY1dod3E0a25Wb2ZQSHNELXFrYlVwd1ZhT1V2TVNxU0V6SDgxbFZNa29J?oc=5",
+      "snippet": "10 Lessons from the 2nd Global Ministerial Conference on Ending Violence Against Children in Manila World Vision International (WVI)",
+      "publishedAt": "2026-11-19T11:21:16.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Tech platforms’ business models amplify misogyny and gender-based violence, finds Equality Now report - Equality Now",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMmkzaHp2VDI2Mi1OV2NlTHdYa2RsM2FSRVE5WGpHY1M2ZE5BRXQtR0Y5SF80SnZQNmYzb19WMXA3aExLU1JqVFN0aFVXRWxHOHhCQ2ZBbEoxcFdxbEd4cEhrYW91Tjl5VVc1UXF2ZVFGbHFPZUpENWRqMzF1M3lDeW14bE5VUnpLNUJxMkw3cnV0eXBzajdEMncyRTVMRmdkOWt2TmY0Q1ZRb1pMNk9oTENuT1VyV1lEUEttRlBUZGRzTTd2WDZaOThqRFlyUkdpVW16UzRULTdZZ2lT?oc=5",
+      "snippet": "Tech platforms’ business models amplify misogyny and gender-based violence, finds Equality Now report Equality Now",
+      "publishedAt": "2026-11-19T10:33:20.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "DW News. . Sexualized violence on the internet affects a growing number of children and teenagers in Germany. Yet experts say many parents still underestimate the risks children face on their smartphones. What can families, platforms and politicians do to be - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdXBnT2tJQlhCVE9WVW9FQXRfQTdObDZjMnVYNGlHV2NralJ1VHJoeGRoeHZmTVZnRDctSmJRLTBpYUxhX3pTUnhiRzdiNkQ5eEQzeG5QSi0wN0RXSjBsem5EdVdsLVhWNFRBczdxM3pFT1Q2ak1fc3lYY2VxSUpiTk5vaFBfYkVXaDFRQ1htTHlQMmtmc3lJeXlDdlI3Tmw5ZDJQMUlTb2pMV0EzbVNSOHVIQUhPaGs4R09uYzVmYlNacTdOVGk1TXgzZUFsTGo1ZlcyYzRWMGx0VXRpUTlzMjJ3?oc=5",
