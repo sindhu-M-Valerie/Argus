@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:52:04.085Z",
+  "generatedAt": "2026-11-20T07:34:50.620Z",
   "snapshot": true,
   "date": "2026-11-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -23,49 +23,49 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Old protest footage falsely linked to fresh unrest in Bangladesh - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kaThlclBESUtCVlpRS2J0ejVsY0o3aWtFTXN0WEo4SVFNVWlJUFYxcTJjSFpFSDlGdkJ2Q3ZHSHRKa0JQOVBkWUZJSl9vOW1GZVJfX0FGSmM?oc=5",
+      "snippet": "Old protest footage falsely linked to fresh unrest in Bangladesh AFP Fact Check",
+      "publishedAt": "2026-11-20T06:43:12.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Facebook expanding fact-checking in India before election - Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHlmQldfUW1nbldhUV9zX3FtU0hMTjgtcXctZ0cxeWdySDBpclBtQlR3V2JsbUVid3h0Y3FOTXJSZTVXYmdjQlI3eHB5dko3ZGpWWlNzdnpob056d2ZnOERfQlNVT0NxNEl2eG1ua1otR21jTGtNc29vUWxSd1I2UVcwT3hVTGEtLUlEX1pLQ1RTVHI5UktCWWxNT2Q?oc=5",
+      "snippet": "Facebook expanding fact-checking in India before election Yeni Safak English",
+      "publishedAt": "2026-11-20T04:22:49.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "‘Putin & Xi Played You!’: Schumer's Scathing Fact-Check As Trump ‘Flatters’ Russia & China Leaders - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTlyaXVTRUhGcFNjSW82TXNZMTEwWTdHNlN1c2xpR1JBRzM0M25kZHJEdDlVdF9Fc1hWQzUzYkZsY29FSFluV1l1SW9ULWJOVnRkRFAyYVRWRnF0djlEMElxY0kwaWpiY3Y1R2tBbDdzbEREUVhYaU9qUFI1b0FCa3M5M0FqZm42WTNOMU1UZkVJYjFNZk1PcnNiVTRlU3ZqVks1bW54eU5haWFHMFJWZHItaERnakhRU2hXLWNkVWtiYXdMdmNRbmhBR2Fta01LWVQtTmpFb0VYb25BdG9UanV3WkFCLVY0cFlSRE92dkhZQmViU3M2ZTZvemjSAYICQVVfeXFMTUdfOXRZVU1FZ1pIX3RoN0xKc2t3Qi1BRmt5YllPZ05jSDRibDIxLVE2eFU0azRjVlBYN2s1ZVBHLVJuRllXUVF0LW55YWItZmg0OXoyblpYLUQyR3Z0V1ZNUFVuRVhvRm9aQm8zMUxLY2xhZVFBazN1bHZpMWRkbzNrYVVzVlZiRXFoS3EwWks2RERoQm14dVk5bm5BTmlyQ2U0VEtpajVTaTM1ckVMdExaS3NKa1l4VmxlUW5UbHktOTdiRHp0U3pfWlQxRU9STVlGMHFzd1lod0pldXlQaTA3cFZqQTczUUVDTDcxLU11c0M4V1JsTnRqZEh1djFReEln?oc=5",
       "snippet": "‘Putin & Xi Played You!’: Schumer's Scathing Fact-Check As Trump ‘Flatters’ Russia & China Leaders The Times of India",
@@ -192,6 +222,21 @@
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WebQoof Recap: From AI Videos, False Claims About Indian Military Ops, And More - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2U5ZUlod0NSVmpVX3RoLUZ4czNVb3JrV2ozZW8yQnBxb1M5SHo4MEhQc2w5OXNyeUs2WGFpUkpsRXdkWFo0bHkzSVRtWnBjLXBJcW43c3FYbXZ4RHN5T2xrZXExS0ROMU1Gc1RCalhLQUctZEpPeFJmd3l1Q2F6S2hVdC1VVnFlbGJPM3ljNEFXYUZp0gGiAUFVX3lxTE15YXBTTDZ1V3k4WmJYMmw4NHhONldmMjAwLUhPc2M3aXl2dVJDYW5rS2RScngyVmpWOU9faVNXTVBERjN4OXgtQU0zUG9JOVU5eHY0WDRkYnhWU2dNM2JHSkx3aF9sRVZ1NUpJcUcxV2VYX1UyTGwzZ005UW5KMjcyM2tpYk1BT1F1MkVqdkxKVkZWOVJCTUNDVjYzV3ZxMGFLQQ?oc=5",
+      "snippet": "WebQoof Recap: From AI Videos, False Claims About Indian Military Ops, And More The Quint",
+      "publishedAt": "2026-11-20T07:11:45.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

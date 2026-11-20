@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:52:04.085Z",
+  "generatedAt": "2026-11-20T07:34:50.620Z",
   "snapshot": true,
   "date": "2026-11-20",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-20 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,49 +23,49 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "IMCTC Launches Second Year of Sahel Counter-Terrorism Training Programme in Chad - INDiplomacy",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeE1zUmNiWi1MV1dtZU9ncjh1QW50QTlUNXpGdFNnSVBDSE5LY2l5Sk96RnkwVVR0VkVmU0tiUEM4T0ZEcUl2YmRheDNJLWZta3NtQ0RibldCSDJkRWNCeVlkNFVvQzZCR0QzZk9nRWw3SlVIUGtKN2pLOU9rM1p6cDJIV19oMTZ0eGJNc0wwa0IyLU9HUmFJU0w3Tjd4NElBVG1PazlxWGhKNVppMUxkRDhhNEVRcEU?oc=5",
+      "snippet": "IMCTC Launches Second Year of Sahel Counter-Terrorism Training Programme in Chad INDiplomacy",
+      "publishedAt": "2026-11-20T02:03:45.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "GTA 6 delayed for gaming addict caught with extremist videos - The West Australian",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS1lJYW9zeVVPTDdxR2xqbzVpc2ViSWY1bVpvSW5PNWk0Z1F3elpYNkhmTUY1eTJLcjJnRHhiV3dlbnB1aXlwX3NQYndrUHFEZDR5VjNEREVlUUZua3BTc1ZIamtQSkdXTWw3a29MYUhmcHozS1BTWnRCVkpSUUE5MWNHQnM3WmRCLUJCTXhHU2VUc0l0MVpaZFdXUzVydlBiYmY0WDdoaGt2S1d2OThhT2VqZndMZ1lEUWlPY3VMb1VsWl9vV21HQjRCNmJkUDAtenNTWmVxUG5aQmN0NE5wZE52QQ?oc=5",
+      "snippet": "GTA 6 delayed for gaming addict caught with extremist videos The West Australian",
+      "publishedAt": "2026-11-20T04:45:00.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

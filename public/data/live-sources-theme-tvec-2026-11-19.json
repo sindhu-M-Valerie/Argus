@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:52:04.085Z",
+  "generatedAt": "2026-11-20T07:34:50.620Z",
   "snapshot": true,
   "date": "2026-11-19",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -23,49 +23,49 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -185,7 +185,7 @@
       "title": "India and Japan condemn cross-border terrorism, call for action against LeT and JeM - Business Upturn",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWIzUUJaRHJVcFdQY2MwWnJpSkVpM01yYUVrRVRMbGJLenF5eEN4dnZFdm9lSDA1dU1ZTVY0cE5mX3JobmpWbjEwRm9pejlQTmY3V0I1WjNyM185Rno0VFUzS0VSWnRVT3lMaGZ1QUtYTVJHQVBzWmdzY0FPOTJBSVdPUlBPMlhqeS10SWt0bzkzUUlXZHBaU2xQNEJYS3RzQXc1OXlZazFwUTdKdENmY3duVUhJNU5k?oc=5",
       "snippet": "India and Japan condemn cross-border terrorism, call for action against LeT and JeM Business Upturn",
-      "publishedAt": "2026-11-19T15:17:54.000Z",
+      "publishedAt": "2026-11-19T15:38:16.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "tvec",
       "type": "News",
@@ -193,6 +193,36 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Nihilistic violent extremism' investigations keep skyrocketing: FBI - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQllNb2RiWHNHU1J1OGFvR193NVpYYlJDa2pab2dkMDdyeHBvTmstbDRoNElrMURYSkxGcWtjTUdKdVRzc0tXNEdkSXAzYkVqbjFDZG5PS3cyM3VkOEYtZXliZEFVYVk3RXM0d2RQcVZNdWxrbldoYlc3VElld1pIb1c3TzZka1VCMWtYQ0lXdWpuS1VLaTh4a29TYi1RbFRrVVJtZm5pWkZ3c1M3a29Xcm1QbGl5VUZqSzg2UUFyQVhXbUI3RkRv?oc=5",
+      "snippet": "'Nihilistic violent extremism' investigations keep skyrocketing: FBI Washington Examiner",
+      "publishedAt": "2026-11-19T17:49:32.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "From Active Clubs to ‘Acceleration Clubs’: How Neo-Nazi Accelerationists Are Adapting the Active Club Model - Global Network on Extremism and Technology",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZWRIVERTNDB0Y2hwZmtQM3Q2WGU2S0NNQVBYWkVmTmRUV3VVdjFVa1NUZTc4Y0pYZmVFOTJiZzJCYU93c2xYa1RWSVVxRWZoMzFIQXhXRzJFUkpIc3R4N21vRWozN2hEQmg3bWJEY1NHX1p2U1lyRW9jQzE1V3QyUDl0V1hkOTFBVjNOTEFnRE5qRzlNN0N1VnN1SGRLem42M1B4TUlFLWNydTI4SXJiamp4UlZLd1V0dHRLYmNLU2kzQnBIR3M3YWNZc1ZUXzc1Rjc3cFc1TTFUZw?oc=5",
+      "snippet": "From Active Clubs to ‘Acceleration Clubs’: How Neo-Nazi Accelerationists Are Adapting the Active Club Model Global Network on Extremism and Technology",
+      "publishedAt": "2026-11-19T17:00:05.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

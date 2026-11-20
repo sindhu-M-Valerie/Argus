@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:52:04.085Z",
+  "generatedAt": "2026-11-20T07:34:50.620Z",
   "snapshot": true,
   "date": "2026-11-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -23,49 +23,49 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 44
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 58
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,7 +79,7 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 31
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Mainfreight warns public over AI deepfake scam videos impersonating founder - Stuff",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU9FLUh2bzBTUU5kYk9NM2hiTzQxZTJJN1V1VUxMUEVwVUc1WGhZQTR3TGFSaFZzLXh2T3JfdEFmWVZpVWpyNUxHX2FBQ3h6cEFHeTJGTEN1b25wOFRRN2dmNXoyNF8tN3VjbnJoNVVsZHBpVm1VUHhCSVA4Vm0yVWtNd1hVOUZjWkp4dUUwbWY0elBDZW9hT2tzWUhSdGR0NThLLUtpTjJtdDhmTDY5eDVRNUN6aWZH?oc=5",
+      "snippet": "Mainfreight warns public over AI deepfake scam videos impersonating founder Stuff",
+      "publishedAt": "2026-11-20T03:51:05.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Commentary: As Southeast Asia cracks down on scammers, a new base emerges - CNA",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2FnbHlNMTh4VVF4c3JrVGx5Uzc2ZHhEYkpsa1JrQTRhUXNmUWkybzhKbXYzYkh3azFKNmVCOUt0QmNiNk43N0NFUjZYWGR1c19mR2YzaXBSdzI4bjJHekhNS0k0Z3haQmVoX29TOE5SVFd2MllqS2RPdFROZk9pQUFYdWNxSlQ1cFFYeXZWVjRCTHVPUWc2N1BtMExqRmxmRnB0Zg?oc=5",
+      "snippet": "Commentary: As Southeast Asia cracks down on scammers, a new base emerges CNA",
+      "publishedAt": "2026-11-19T22:00:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "INTERPOL launches deepfake scam awareness campaign as AI impersonation risks grow - SC Media",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazYyV1FrZDY1bWJCN1UyeXpNWFpObGVWYTBNTEFKYlFFX1l0M1BDS2hvM2xNdmxxRnZqeUFjZV9JT0pWQ2ZzT1JQdk1wOVpES0xuQnZKc0NoMzhWRUptN3JvdDdnTUhuc085LTFEa1hLUVp0OURaVDgzajkxVl9VSldGM1FXMmFLZzF4RWNBdnFNc1hadmkyS0o4WkZpRm12ZEFiQlFqNEltNWtJX2xXd0pnOVFwR0pS?oc=5",
       "snippet": "INTERPOL launches deepfake scam awareness campaign as AI impersonation risks grow SC Media",
@@ -193,6 +223,51 @@
       "feedTheme": "fraud-impersonation",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Visa launches threat intelligence platform to strengthen cyber and fraud defense - CoinGeek",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkFGbEhzU0FyclEyTm9nbXRwMUZES2ZHMHBuSzBfWHNaU1ptQjhYSHByUUtrTWxyLWI5QVdaY3FGczB0bVdsWGpjLUtzSDVaNnFCNkdQRXNocXp0QkhHbnNCbVdWMGptdWF0dXpMOTV1bUxKTnlqa1BTRG1xclRFQTJXVGxPWHo3X0tMWnFPZDFMUHdkS1pTSldXd25OZ21mc2pIOA?oc=5",
+      "snippet": "Visa launches threat intelligence platform to strengthen cyber and fraud defense CoinGeek",
+      "publishedAt": "2026-11-20T04:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake maid ads, gaming scams: Sharjah Police’s ‘Be Aware’ campaign offers 24 cash prizes - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXdVdDgxOHBSWmRGQnFoSVdlbmRuNDNpSlFHUDNZd2d0YnJESXR2alhKNzhUbXJwcThmQ3pjYVlZeENlQ3lBUHF0X0ZqZUNST3A5MHVmWkdJcnJZQkJrRU1YaDNLNEZDU2t6Q1UwTEdkOWtyWTBtYk5EMXN3YWR3ekt0Uk9JOWdrNTlMaGhGR2V3SzFoWm9zNzdjVDZuazRWbEZJVlhPdUJIVThkSUZ5LUpoYndKQ0Y3WmJjSllSRFVJMUdPc3fSAdgBQVVfeXFMTXBwWG50ZFh3cmpsOEF5WmRwbHB5N0ZubHZUcW9uWmcxWTVIak92WTZRdFZzNFdBMndPMzVDNXVqYktyZGluakZFbWpCcTVxNk02OEVDUGhwb2dYaDIwQkJEb0RBSURDN0g0ajBDNlZ3SmV5X0J2aEItaXFWRS1HLWs3WjFyWDBkWHczMDYyTzA1RkFBeXljT0xLQXVXVFNZbDd1ZWtyQS14SWZIU24tckNDRkZTS1NRbmdzZXIwNTlKVlVPWURVYk5IdGo1cHpNeWpTM05RUjJs?oc=5",
+      "snippet": "Fake maid ads, gaming scams: Sharjah Police’s ‘Be Aware’ campaign offers 24 cash prizes Gulf News",
+      "publishedAt": "2026-11-20T03:43:37.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US crackdown on scam networks connected to Chinese-born tycoon Chen Zhi ramps up - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3VqNWFfUThRbERGWFJ1cGxKVk5KbXZIOXFkWXQ2X1RINGp4ZHdCVjZ3c2tHbHBfcThQalZMSW9DRGRRdlFHZmRqUThwQlFQZS03VFE1cWlndGRDMFppVTVYNm5ZdG1vdzYxZnBvMFBFUkw5ejdJSk12d3V1Nm1KY0U0R1p5ZEpZYUZKd21mWGhSdGR3YVhONzJCX0ZTUDN5TTB6NFNqMkZCeEdSUV9GTzcxOVJIV1hWVjBFYjJROUkxbl9lUC05WNIByAFBVV95cUxQQ2o1U091Wi1ZUFRYQ2tRVklYMHZ3eFFaRjYxZmZZUmppWUhlX293MnRrVzlhcVRtQXhIMVBsUUVTdkFjdU1qX3k5TlpUVTdHNTFINGNRbDRITDU2NW5BTVpobnNlckFZR054NVZQamVTZ1VzaEQtanp1NWZMNHZwc01fWTVSVkY3RlVNaXVCZHdQaXJkVDRIMF9VUnBWWFU4X1RLbUJGajJUUlpYdFBDV2tsTEdOd18zX01zVVRGal9aNERBVGxMUQ?oc=5",
+      "snippet": "US crackdown on scam networks connected to Chinese-born tycoon Chen Zhi ramps up South China Morning Post",
+      "publishedAt": "2026-11-19T22:07:55.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }
