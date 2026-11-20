@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:34:50.620Z",
+  "generatedAt": "2026-11-20T20:36:39.769Z",
   "snapshot": true,
   "date": "2026-11-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 22
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,14 +44,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 52
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 76
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -182,6 +182,81 @@
   ],
   "data": [
     {
+      "title": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike - DailyVoice.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUlqc1N5RjlHaFFCa19vTk9ZR19jNUs5TnlYSy02NmlROVByaXJGZ0k2S256cGlTYk14eU9COGUyeVJjMDZNaThldDdNTDQydmxVWUk0VWY2TUloS0R5LTd4NHNVMTZVel9OWUtXdHp1cXBsX09vM0ZZY3ZQTmxCSHNQdWYyV1dubmtxNndlekZaT1FmdkpCVUdsckxNWEpo?oc=5",
+      "snippet": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike DailyVoice.com",
+      "publishedAt": "2026-11-20T09:28:42.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams - Infosecurity Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0dYdGZQeWttSVlfOFJtX1ZUeEhVMHZsdVRRVjREMFVvLWNhdF91UldGdmJPOUtUUXd5LWFXc0FCdFFjdnpaQnZEQ0pZZ0FmVUszanRjVms1SXRyNWNjRjBLellVakdtajNKZUVMQmREUzc5aFJjQnNJa2FYSkZKYjln?oc=5",
+      "snippet": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams Infosecurity Magazine",
+      "publishedAt": "2026-11-20T11:55:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Banks, Airlines and Tech Giants Outages Expose Users to Phishing and Fake Customer Support Scams - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yUGNGZTZzbFhxX1BYQ09WT1U2TG1fS3VPNHNpNmVXRm1HdzBxNWkzR0hSNGhQTHV5YUNiT2JvZzBISVZPbFNlREJCbldtd1UxdnVmcktzeWowUE5OTjd5cE9Bd3VDMGxJT1NV?oc=5",
+      "snippet": "Banks, Airlines and Tech Giants Outages Expose Users to Phishing and Fake Customer Support Scams The 420.in",
+      "publishedAt": "2026-11-20T09:45:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "GTA 6 phishing emails surge 1,300% as scams spread - SecurityBrief UK",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTldsb09LQkNLQmUyOEhyVFNLVGRlUmgzNGlOTXRBVEdqcE9MT1dySjdsSE9MWVhWR1pHSkRxZWdrSGJJSEJBcmdSdDRKelNaWEMwc1BiZ1E3cHg2ZGFaWWxpNGZWRmhJQlpJVFpkcS1oajUzb1JhejlfWE9jelR5UHJKTlB6SmxRX0pz?oc=5",
+      "snippet": "GTA 6 phishing emails surge 1,300% as scams spread SecurityBrief UK",
+      "publishedAt": "2026-11-20T09:30:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fraud & Digital Identity News – KYC, Scams & Verification - FF News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSHZHdFRlTDRqTnJJU2VmdzB6ajAyWDRIWHJXcW1VSnNHZTV5ZkppOHEtQnpxMnNOdERlYl94cHdVM3FjT3J3b0U2UHMwTkotZHpj?oc=5",
+      "snippet": "Fraud & Digital Identity News – KYC, Scams & Verification FF News",
+      "publishedAt": "2026-11-20T09:26:34.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Mainfreight warns public over AI deepfake scam videos impersonating founder - Stuff",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU9FLUh2bzBTUU5kYk9NM2hiTzQxZTJJN1V1VUxMUEVwVUc1WGhZQTR3TGFSaFZzLXh2T3JfdEFmWVZpVWpyNUxHX2FBQ3h6cEFHeTJGTEN1b25wOFRRN2dmNXoyNF8tN3VjbnJoNVVsZHBpVm1VUHhCSVA4Vm0yVWtNd1hVOUZjWkp4dUUwbWY0elBDZW9hT2tzWUhSdGR0NThLLUtpTjJtdDhmTDY5eDVRNUN6aWZH?oc=5",
       "snippet": "Mainfreight warns public over AI deepfake scam videos impersonating founder Stuff",
@@ -227,6 +302,141 @@
       "corroboratedBy": 1
     },
     {
+      "title": "International Fraud Awareness Week: Visa launches Threat Intelligence Platform - Planet Biometrics",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVY0U1JSOHJqeEo5VGxQM2podklhcmNhcS01UXhjaF9fdkJlbF9YSThKM3JGdEMzWXotaEZfUVJrRFlDZy1DQWxZVVE3YXVNY09taVpOZUR2Yl9FVDExU2xQVHE0THA3a01qaWQ0cXoxYTBVSmszV0dCaTdSNjRjd2djTUJCOXR2bHQ5ckxOQ291M0VjTG54WEx5SDBKb3NsdHN3aXVn?oc=5",
+      "snippet": "International Fraud Awareness Week: Visa launches Threat Intelligence Platform Planet Biometrics",
+      "publishedAt": "2026-11-20T16:37:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PH, 12 allies launch anti-scam coalition - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQlU4aVRlVjk1QTJua3o5aHhuSUxFNEp3Y0Y0R3dHYjhZcWRDNTdGMFNjSk5nNkNXTllvalJZakg0ZlZ6YjQyWnJMYlJNeV81aGl2Xy1fOF9fZ3FmbTBMNkcyY1E2V0I4SkFfNE95VjVWY2hHcWdNT3hiUUduY0FRdmtIajlfdTFvVnY3T2hMUk1zeG90eGpRLWRKbXNzUHhldmfSAacBQVVfeXFMT0VfaVdXaFYySmtGdEg5elo5RWh0ancxYkhaSjcxeWktOUZ0Y1RvUFA5dmtTRGhCbVROakU4NVIzZHdBRmRGaU9kakdyTUNkRlpnMUU4YkU5S25EYTZ3Mk1BNjgzTzNtMkVHTFJmcnJBbkk3NTM5aW9zQjdBTDYtU3M2cTlRZXFUZnBnbzlpbE81R1lMT2hzNmE0MG5xTVlTR0ZsYURLcnc?oc=5",
+      "snippet": "PH, 12 allies launch anti-scam coalition The Manila Times",
+      "publishedAt": "2026-11-20T16:03:00.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "IRS Atlanta Field Office Warns of Holiday Fraud Schemes - Valdosta Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNanVISW5Zb1dUWVY2aXk5YTBZUENRNnBIQ0cycFNzQmVjZVk1VlhxX1pJLXNYMzZQbUNpZ1FHc2k3RlE3ZlQxbWlKdVpGbEdKWnY5Qm1mUGxqaUdqX1lRd2V0NHVfWVp0dlFBM19yMVdMbk9jQnUzUGwtdVdpc0RuRGVzTE9UY215OEtWSC14MlVmb3ZWeklibjlYTFY2cVQ4cFhWVDQ3Yw?oc=5",
+      "snippet": "IRS Atlanta Field Office Warns of Holiday Fraud Schemes Valdosta Today",
+      "publishedAt": "2026-11-20T12:27:45.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Nedbank warns leaked card details could fuel convincing scam calls - Briefly News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUp4YXVKWWotRWxKZkkwUTRtSU5fU3Z3VHVnMGJuRlRXYTRyQm1mdUpjQWU4WVUwY2syN0dzbVhBcHR5WHBnWElJb0ZnWU1OQWxwT20wTEE1ZUpkN3JuZldkMWtaWVJGamJHazVKcjBpREtFTXlRYmF4cEp4WlY4TXFYQ3hnVnhpc2FycjkxYWNRYmFJWlpUUklnamI?oc=5",
+      "snippet": "Nedbank warns leaked card details could fuel convincing scam calls Briefly News",
+      "publishedAt": "2026-11-20T11:35:20.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meta Launches India’s First Government-Led Microdrama Series on Online Scams - Dainik Jagran MP CG",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOXlCQk1lRXliTFkwbThHazNaN1UwYlRsVWtiNXA5MWdYNW00N296NWIwNUVKY2QwODJ2OGtkNi1oZnFOSEZjMGx3bjlWQllIbkgzSnhudmEzeVc3UVhiTTBleTJ2QjQ0WlVYLS16RGYwSWlxQTdYNWQ2bmlTdUNET0VEMzFRUjlnR0ZDSjlRWjBVNVdZTlR4dW56U21YcGtPTDN3cW44c1VtYkJyQVBBTlFRd3Z0X3RPZ24yVXFRcUJ3bXhHY2c1Sk9oZXBWUHJUb3FQRU4wVzBFcEVsOFVnLUthRQ?oc=5",
+      "snippet": "Meta Launches India’s First Government-Led Microdrama Series on Online Scams Dainik Jagran MP CG",
+      "publishedAt": "2026-11-20T10:42:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEC Charges 8 Firms In Fake Crypto Platform Case Tied To $37M Fraud - Menafn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXpkcXZZOGJRcjJWdmVkOEhsNU14dzNFbWdRX09lUGs4SWtkcjhaUXFpeExjV3JsMTFHVnBOa1V5QlZjZWY5NVE3OTIzcnpxMnRyV0tsa3dxS1hrVnp1QUtOdHMyYUFCMzdSbF92WU1CUlN4al85UVdDbHRsYUFNTE82ekM2cFhCUlNuellEbHpod0dIX0NEMmV6TFU?oc=5",
+      "snippet": "SEC Charges 8 Firms In Fake Crypto Platform Case Tied To $37M Fraud Menafn",
+      "publishedAt": "2026-11-20T10:30:16.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Malwarebytes Survey Finds AI Fuels Shopping Scams - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUlZQR0FTQ1hQZGgwUGJkWUJ6STBFeDgxNFYtSzU4RVp1Zml1Ym5KbmlRRWQ4Rk5zNXVuQnBrVVdyLXczMWRWZUw4VFVvR3BhMG5JdU9jQmRLVFQ0SDBDRVN0RWRTR0RET3AwbFc3NTE5UmxmRV9NY0RIMmhRUmpyRXhB?oc=5",
+      "snippet": "Malwarebytes Survey Finds AI Fuels Shopping Scams Wisevoter",
+      "publishedAt": "2026-11-20T10:23:04.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US SEC Charges Eight Firms in ₹343 Crore Fake Cryptocurrency Investment Scam - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2azJiLVpVZWhqakZuTll4YWJGZUowM24xczdWS2RVQ0d5OW1ScUc0VXM1bVpRc2VGbVB3elNsMVNSVVNrUDR0c2JrVUEtUVNiRzZ1SWZkUzVDal9zTk5fa3VJekNJa3QxcFE?oc=5",
+      "snippet": "US SEC Charges Eight Firms in ₹343 Crore Fake Cryptocurrency Investment Scam The 420.in",
+      "publishedAt": "2026-11-20T09:50:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUjh6c2lxbk0tRklpaVkyUnRTdnVnNnhOdk5Nc20xZllUeDlSTDdQanBBVzJxVGhEdUplZHBHZkFzY21vMVBheW5MbDhHMDU2Q0UwMWFRQnU0UENSWFVJMktYU1FtQjVucDJDbmxNMlJiU1ZPaktqd2NKdjVzT296MEJNS3lGelNpQkZPMHJaVHp3WUVMdUgtZEFYRC1KU2pFWk0wUEp3STJQUTBuRVZyMkk1enhESHVRZnUwb0hBd2k1anJERXhvc3ZSNXI?oc=5",
+      "snippet": "SEC charges eight firms over fake crypto platforms tied to $37M fraud TradingView",
+      "publishedAt": "2026-11-20T08:03:34.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Visa launches threat intelligence platform to strengthen cyber and fraud defense - CoinGeek",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkFGbEhzU0FyclEyTm9nbXRwMUZES2ZHMHBuSzBfWHNaU1ptQjhYSHByUUtrTWxyLWI5QVdaY3FGczB0bVdsWGpjLUtzSDVaNnFCNkdQRXNocXp0QkhHbnNCbVdWMGptdWF0dXpMOTV1bUxKTnlqa1BTRG1xclRFQTJXVGxPWHo3X0tMWnFPZDFMUHdkS1pTSldXd25OZ21mc2pIOA?oc=5",
       "snippet": "Visa launches threat intelligence platform to strengthen cyber and fraud defense CoinGeek",
@@ -236,6 +446,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Three scams to look out for during your property journey - Money magazine",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUVaQnpPcHl3UDJhaVBheG9Kamx6YW5GTWtjZUZIQ0dsX2RiTTdIc09FWTBmTGYtQk1TVFkxZ1JWMXJCUzdwX2JfanNEcmoySU5CN3U1OWZGQUNPQ2JvMmoxeGw4ZjA4WEtmbzA0TzViZ0xieWhuZXFDVzJlakxSSWpTdG1DYVpvR2ItMQ?oc=5",
+      "snippet": "Three scams to look out for during your property journey Money magazine",
+      "publishedAt": "2026-11-20T03:56:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -266,6 +491,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Is eBay Safe? Common eBay Scams to Look Out For - ESET",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG1aWlBmVW1jYmlRdnJld3o4ckRJU3dnRWt4Vjd4Qllocm1wc3dTenppb1pPNjg5WU9EVGtzXzNrYjdIRkdVNmpXQm1PUFFYTjR5SmZYVXZzQjVxVk1aZE1WN2JhVmNUTHI2UlpGNmY0QlkwbHFpTmpoUU9ES1VDb0d3VkhQWmI2UDJabFVWTQ?oc=5",
+      "snippet": "Is eBay Safe? Common eBay Scams to Look Out For ESET",
+      "publishedAt": "2026-11-19T20:40:11.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

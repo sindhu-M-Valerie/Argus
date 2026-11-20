@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:34:50.620Z",
+  "generatedAt": "2026-11-20T20:36:39.769Z",
   "snapshot": true,
   "date": "2026-11-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 2
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,14 +44,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 52
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 76
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Retail’s Role in Stopping Human Trafficking - Loss Prevention Magazine",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa21XSXc1eUhCemJXTFlsNGdhV3YyVjRjQzdjTmotbVNOZnlDbXZLWjZZSktVS2syWEVRYzA3TFZlOHl2aDM4NVVOdmNUQzZrVVVxMEdjbTMxYUd4bnFvNjc5UFBGYWtGY0RzV0Frc1ZDTmNicmtMY1U2VkZ0a0Znag?oc=5",
+      "snippet": "Retail’s Role in Stopping Human Trafficking Loss Prevention Magazine",
+      "publishedAt": "2026-11-20T07:00:31.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "KENTUCKY MAN PLEADS GUILTY IN SEX TRAFFICKING CASE INVOLVING 13-YEAR-OLD BUCKS COUNTY GIRL - Bucks County (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoQXh0anRVVnlMNFJMbXNFLTVvckxYUlhfWklmWERsQ0lNQUt0NzV0TG1lUHU0SDVXR25MaklUSVdrSDlLNTYtclZfMHRaYnZ2S0YxV2JZLXltVWt1UzhIYmJlMWdWY1k?oc=5",

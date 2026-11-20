@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:34:50.620Z",
+  "generatedAt": "2026-11-20T20:36:39.769Z",
   "snapshot": true,
   "date": "2026-11-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,14 +44,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 52
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 76
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Fact-Check: Did This Ex-Army Officer Say Lying Is a Part of Indian Culture? No! - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTW16cjBXWHJGdm56dnotQnBEMDY2RTQwWXZZYURibjJXMVJkWUhLbXpadmcwV1dVZlhpcWpVOFhJS1VjWVFUU1BtNVBwWHhwcEtBWDMyRGkwVElnNE5ieFNGMENMeDl4Zl9uaUlwdzRqOHZlRzByeUpfRDZMWDdPejZKOW9Dblh0Ym9YbE9OYnNJMGQ1RkM4TTR0cDh5c0V5SjFCWlZtRjdtVUU0QkNlSktHY1g4OTBzelhN0gHIAUFVX3lxTE1iN1FOU2NCZXlLZzlUeV9LdEFoZ01wMUs2M3JVVnZnUGxuUjFQQzFaVkFRZGZ2XzdUbFM2N0pGVDRYUl9PMGJRMTE1T2l6WXNiZHl4QmkzMm4yZXZldzQ2RXJQeFQ2NV9TeWV6SzNIdWVYeUFQZDI3dHA4aDlqNGc0ZjR0cnFNX1pVSzQ4b0gtOHRIenRXejR6YTdoSzZOZ19RZ3NVa2pvd2hrUjVjSUFQdUlGNUdMUDVEM0JZVWhrbGRQVHFoRjNs?oc=5",
+      "snippet": "Fact-Check: Did This Ex-Army Officer Say Lying Is a Part of Indian Culture? No! The Quint",
+      "publishedAt": "2026-11-20T11:11:48.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pakistan minister Musadik Malik received at Delhi airport under uniform SCO protocol, Pak analyst's claim fact-checked | India News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS1RrMlNFYzgxeV9YYUxka3h6Q2lBT1l1T3RXcTEwYWRnVWdKbnVjblhxaWlNR0VvZlpIeFJ5RXc4V0NYZ0FNWWNxV2RmbU9iV1RQX0xCeGEyQWVvd25TeXBLNUdTaVdfZGoyWjJfS2FaeGJPTWg4Ry03WkZ5YXRjeEx1U21xZ0g5RjVib1FELWpZYmRHeVVhR1dIZkRPdi1Uc1JhaE4xV2ZQdnAyMkYzN1pSektIajZtblBUNFNOdDlSOXBxcXVsWmtUN1lmOVdEcVJGNUJtWGtZenRHdG1BNm5VbHpyRnZpRkFMT2xncHVERnhGR0ZEV1FybnN5MlRUcUxqSkNOWVRFZ9IBjwJBVV95cUxPV3pjNWxoY2NCZlZsZmdWMk5zNEdwT1IzaDM4VWoyV1lWeVZZejhrTGl5QzRvUXhqeGZKS0hCZG5CaFJrNGZsOWd5RXh3dWpEOTJ2OVRSaGJvcW1Balo0ajF3RVRuMXpWRF9ZWVRMc1lVZ1dITElTbWlrNWdoUlVfTU8xSlJBQ3VXLUNIMVhwZ2lXNjNFVGpGQm1MN2Z2aGx1MkpybEQ3TXg3QlhrTHZVSmlESk5URDF6RlgtbHBZRkVGbjY5OHU2YUhaMDQyUjg4TEtHVmVIZ1hWWUZDbk02WFdXSzhCYUVnR2xwSHlha0YxeUNDYmZDdXhWeHlrRXhHZVJGZTY4cVZzZHZWelc0?oc=5",
+      "snippet": "Pakistan minister Musadik Malik received at Delhi airport under uniform SCO protocol, Pak analyst's claim fact-checked | India News Hindustan Times",
+      "publishedAt": "2026-11-20T10:45:28.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Old protest footage falsely linked to fresh unrest in Bangladesh - AFP Fact Check",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kaThlclBESUtCVlpRS2J0ejVsY0o3aWtFTXN0WEo4SVFNVWlJUFYxcTJjSFpFSDlGdkJ2Q3ZHSHRKa0JQOVBkWUZJSl9vOW1GZVJfX0FGSmM?oc=5",
       "snippet": "Old protest footage falsely linked to fresh unrest in Bangladesh AFP Fact Check",
@@ -222,6 +252,36 @@
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Rafale numbers 'patently false,' ex-IAF Vice Chief says, debunking report - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2NRZEp4eDB3TEJjMnVSRWY5Nm42V1RDbV9ERW5KM094cEJGNTdyVmNIQW5TN0p0cW5Lc1lUa3pYRENPV3Y1Wk9jRU5XV0Rac0lNZWgzUmpOYVQxZ094MzJDV2hTd3hSTkdpdmxBaEdKRTBNSFRzTktHeXVUaE9KeFlNZ3hZQzRyNlR3SDQxZGNHSU0?oc=5",
+      "snippet": "Rafale numbers 'patently false,' ex-IAF Vice Chief says, debunking report NewsBytes",
+      "publishedAt": "2026-11-20T11:55:32.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Polio is very nearly beaten, but misinformation is moving the finish line - The Observer",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGxBVzdmNEtNc21MRkhFdFdnWExUU0JrMU43LTBZa0RiNjlDWWNZaUk5S3VscnFRM25jckhZZWJjR2g5cTg4S0tNV2VDbmNweF9vT2pMVWNJY3E1WVZISlBVV1M3SmoyZW9qNGlPYjlJTWNKZmsxbkNLeHNxbDdmb1hfcVNXVkJMUTVlcHJDVGpNN01XTUZvUGxzWDk3aF9MaEZXQmdfejJTeXFxODM2ajBaak9Lb1pNNEMyVzk3U1pvZ19ON2c?oc=5",
+      "snippet": "Polio is very nearly beaten, but misinformation is moving the finish line The Observer",
+      "publishedAt": "2026-11-20T08:56:33.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

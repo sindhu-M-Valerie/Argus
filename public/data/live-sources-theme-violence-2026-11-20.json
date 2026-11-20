@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:34:50.620Z",
+  "generatedAt": "2026-11-20T20:36:39.769Z",
   "snapshot": true,
   "date": "2026-11-20",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-20 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,14 +44,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 52
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 58
+      "itemCount": 26
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 28
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 76
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "PNP intensifies cybercrime drive as PH targets end to violence against children by 2030 - Manila Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWRLdXFUZ2lfTDJSQlpwQW9XNHhDTVhNeEZMZ0JWQWMybWxyN0hDeGNYVWE0WWtpbGI1WDZ0YkJSeGRMLWhOUFQwU3V2Rm0tcmxKd0NJaUNJOGx3T3RJekh6VlI2M2NuU2VpQ29MS2ZfNjZaRzlEZEpSZFVjVldPalpnOHQxVldaQmlIZm11Wl9PM0hzTGVCX0R5WkZTZHA3SlhlOUJiMnpkV2RueVE2NUpnd1VqZk0?oc=5",
+      "snippet": "PNP intensifies cybercrime drive as PH targets end to violence against children by 2030 Manila Bulletin",
+      "publishedAt": "2026-11-20T09:16:43.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian campaign against online violence wins 3 Shorty Awards in Los Angeles - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFpLYnEyYlYtMWZFZ0NNbFBrekxleXQ1QU04SUZ4MlJmM3ZaLXFPRHRQUEFDVHVyWnZrOVBkWk9MY3c2eC1SQUtIYjlWZ296X1l3dVl5c1BhOWdHOTdBdVBJeHpOR2s2aXR5UUtBVGVWUjFjVXliSDJubnJqb1N3NVRDVWk1elpqWWlBTmMtR1lMd3B5UmpSU0hON2d2WWhmblREYUdR0gGrAUFVX3lxTE5XMkIwU2xqOGdHZkI3TWNEb1BDMWFYVE9ZSHRoZ2N2THFJckFrTGIzMWZwU3RPaUVWWll0bER3OHU0VERlMzY3dTAwbmhjVWFsOUxaRFpibzJVcUZ3WkZiNzhnR3NtZmRFT2FLTERVWU5aa2pwR19NOHdhTHhzY0lnSVp5Xy1jRWFSZzdyUDNzRXlGQ3hzQWwwSkV1TnA5YmZVa1VSN0tmNkJ1OA?oc=5",
+      "snippet": "Indian campaign against online violence wins 3 Shorty Awards in Los Angeles Firstpost",
+      "publishedAt": "2026-11-20T08:51:23.000Z",
+      "source": "Google News • Violent Speech (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Three Shorty Awards. One Big Fight. Girl Effect's India vs Tech Hinsa campaign brings Global Spotlight on online violence - Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbklxcTgzdVR5bTFLV0NZNWpMRkZrZ2cxOVdTcUJyT0RETE9QeFJSUnlSUWM1OERsQU5yTHZzemZLejdNblRmUkpyV1AzYXd0QzdzNVJrOVVRdnpSX041a0FTZUlaTTI1NV9VS0xIN1NDT0V6NnlkR3hOcThvMVpLcV8wSE1HT3lxTU81STFkUXRaY3VpZ0dfNXBhMFpNNDV1SG1mMFZkRzhBRk10VnpQWjgwMWtfd1gtQWsweXNNaVBsRk5lZm5VdXhVZFd0Q3QwQjF1NHFGal9xUTNvUGlyOUIwQ2lfeHFKS0ZYbjhiQWJFTFBoNnc?oc=5",
+      "snippet": "Three Shorty Awards. One Big Fight. Girl Effect's India vs Tech Hinsa campaign brings Global Spotlight on online violence Big News Network.com",
+      "publishedAt": "2026-11-20T08:15:00.000Z",
+      "source": "Google News • Violent Speech (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
