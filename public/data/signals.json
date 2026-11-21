@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:41:21.267Z",
+  "generatedAt": "2026-11-21T07:35:13.036Z",
   "windowDays": 7,
   "endDate": "2026-11-21",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 114,
+      "totalArticles": 120,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": -6,
-      "reason": "Last 3 days averaged 15.7/day vs 16.8/day before.",
+      "changePercent": 5,
+      "reason": "Last 3 days averaged 17.7/day vs 16.8/day before.",
       "daily": [
         {
           "date": "2026-11-15",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-11-20",
-          "count": 22
+          "count": 23
         },
         {
           "date": "2026-11-21",
-          "count": 1
+          "count": 6
         }
       ],
       "topArticles": [
@@ -113,12 +113,12 @@
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 73,
+      "totalArticles": 75,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -26,
-      "reason": "Last 3 days averaged 8.7/day vs 11.8/day before.",
+      "changePercent": -21,
+      "reason": "Last 3 days averaged 9.3/day vs 11.8/day before.",
       "daily": [
         {
           "date": "2026-11-15",
@@ -142,14 +142,22 @@
         },
         {
           "date": "2026-11-20",
-          "count": 12
+          "count": 13
         },
         {
           "date": "2026-11-21",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
+        {
+          "title": "Hackers Leak Customer Data Linked to Visa, Mastercard and JPMorgan After Third-Party Cyberattacks - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMDRhMTRXWGZxQ3V6M1QyV19jWmk1REJpM0w3dzNVMXdLSUZ4bzAwa2RKTHNQWTVsWjkyVFdmazdxUUU3RWswYi1jZ2E3bGx5NFV1NGdzWl80NkpmWkxlT1ZZcjJRUjNZOVZvTmhFNmlqc2tQTFHSAXtBVV95cUxQRjVhN0lSdEVBVUt3SmF6RUIwdU1uMzhGb3lNa1ZzT0N3SHhkUk0xVkRJT0xKd0t4ZGF2c1M2WjZUdlNzd0pBem91YkNsaGpYQjNxcVktOEt6cmpCbUtsY2tLOEJrQXc0dndjZ2FXRmtvYUIwMjYxT0gydWM?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-20T06:17:14.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
         {
           "title": "Hackers Target European Commission with ARTEX AI Tool in Major Cyberattack - CyberSecurityNews",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZSWh1YkhBMUtmWEFfVmZucjRtV0ltR18wY2l3SlVQN0FXR3NQWjZLWmFRNDYzOEwtZUFrVC0zaUFPeDFFaDBRSkdjM0ozU1ZyUUg2ckhVaFZOZktQdW9PNWJDT3FuMS1QajZ6VWNVc9IBdEFVX3lxTE90a21fcW5HREZPVXE5TWptbF91SWg5eTVZSkpSLUZCQjlCUVctZ2kwOWpsWHFJOG9WTFFiRFZjWThQRElaVkl4NElyaXBiWjE2bHpmUGJNYS04VEFJbDc4bVVFRlhNOVJKeVg5ZTdHU2Vkcmpn?oc=5",
@@ -205,26 +213,18 @@
           "publishedAt": "2026-11-20T12:10:00.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Hackers Breach TfL Oyster Photocard Accounts, Exposing Personal Data of 265,000 Customers - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkk3SDd6NUl5ZUJyMjNDVDVZZl8yQWo0bzFWVUZuaTItRDJ4d3dzeTFaY25ybS1xbTZKUndRYmdBSWZlWUV2ZEhxWDFhNlBiSjEtWkdhWXlEcS1Ja1lUSHpndEZwLWFENklOOHVJd0Y2RGQ5UnlvRGdmTy05dHJVV9IBhgFBVV95cUxOYUZROTUwQXk4WUVTWmh4RjBFUzVjTEdteXM3dkNqODc5dWJkaEMxR3dVck9NamlqSGw0dmozWDlST2YtS3lqdndvOXJlQXlLNFJrQnE5V29PNENqNEVhSFdBOXV5d3JxREtnRjFXNVdHb3hrdTdYVVdROU1qc1NBRC1NZ2Y5Zw?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-20T09:52:14.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 47,
+      "totalArticles": 50,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -49,
-      "reason": "Last 3 days averaged 4.3/day vs 8.5/day before.",
+      "changePercent": -37,
+      "reason": "Last 3 days averaged 5.3/day vs 8.5/day before.",
       "daily": [
         {
           "date": "2026-11-15",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-11-20",
-          "count": 8
+          "count": 9
         },
         {
           "date": "2026-11-21",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -297,6 +297,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Bust Fake News with Bangalore Mirror: Debunked: Viral claim about new cheque book rules from January 202 - Bangalore Mirror",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTC04bjBqdVVaS3BEcUJQb19KRHF6UlRNZ3RCTnJ4anFGU3Q3T0k5b1ZieEVhVVgxODE1bVR6R3ZFTjRDby1UMWc3cmtQdmV0TldoLWdzckZ1NjVxR0tQYUdmSnRsZnlFMEtQNHc1dV81emRMLUJIQlBTaF9mUEVVdjkzT3gzaU1keUdFQlhPRVdKWWxrdWNQZ3kxN0NCb19lVjVKYy1mcUM2RlVsRU9icUd6aFdzbU4xSnp0bHZycURKY2w5UjR0VHNFbG5tTTJkTWlqS1pJQmY5SUFHUnU1WXZkNk1Ec1dLUjZiYWdLMVpYLXlmTlBORU9UU1VQSmxjQ21mTWJGZTNYR2t0enVhQ0NLONIBmAJBVV95cUxOYkg1VV9NTnBHcnBQdFloYk44XzIxcUdTbFJRT2VmRk1na2paeWVfNzY2ZEZhOTJkcHVNT3hNV1pTdGZQT255X3NDYVpGNmtnNFRPeWg5c243MjZRXzg3TWFMYk95OVlRdUg4SXNQNzF3bUdUWXFRQUtCRmdNU0RMSG5KTEpsaDhPMHltVUNYRmZ6V0c0dm9yRzQ2LWxreVZjZUp4SjYzZnd1SWFUaWFlZjNCelRSbExBN2NrNmNnS3JncjZtbzRsZGIzZlhlM3hMczVkcEQ2RnFORGJocF82aDVxb3BDNE52UXp4cm1WOExjbUhxVm1DbTI4Um1XZFRndE5MWWE3YWJfRFJ5aW5IMkVSeHloZ01l?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-21T00:30:00.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
           "title": "National Press Day: Vaishnaw questions if digital platform rules can tackle deepfakes, misinformation - Mathrubhumi English",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG5aRmRxOTAwanExRFh2YlgtWEhFOXplTHozbm9pekh1V2NfZFR6b2JLdDJpZ19sYlVKTTAybS1yN2dIb0xpVzdLVDl3RFQzZC1SSVFPWDc3TjhwczdEX3VnYnNORVpKQXpWYW9JV2dING5qclp5SE9Ed09ReWlQSWw5MG43V3A0ejFSR1NQX0xzaEd0YUZGNGRESW1yeFR0R0x3a3VEaUZ2b3NvODNIemM3TV9hbEnSAbcBQVVfeXFMTUhuWkZkcTkwMGpxMURYdmJYLVhIRTl6ZUx6M25vaXpIdVdjX2RUem9iS3QyaWdfbGJVSk0wMm0tcjdnSG9MaVc3S1Q5d0RUM2QtUklRT1g3N044cHM3RF91Z2JzTkVaSkF6VmFvSVdnSDRuanJaeUhPRHdPUXlpUElsOTBuN1dwNHoxUkdTUF9Mc2hHdGFGRjRkREltcnhUdEdMd2t1RGlGdm9zbzgzSHpjN01fYWxJ?oc=5",
           "source": "Google News • Misinformation (India)",
@@ -311,12 +319,110 @@
           "publishedAt": "2026-11-16T14:44:21.000Z",
           "riskScore": 56,
           "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "sexual-exploitation",
+      "label": "Sexual Exploitation",
+      "totalArticles": 40,
+      "distinctSources": 5,
+      "highRiskArticles": 0,
+      "trend": "Stable",
+      "changePercent": -1,
+      "reason": "Last 3 days averaged 5.7/day vs 5.8/day before.",
+      "daily": [
+        {
+          "date": "2026-11-15",
+          "count": 9
         },
         {
-          "title": "Fact-Check: Did This Ex-Army Officer Say Lying Is a Part of Indian Culture? No! - The Quint",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTW16cjBXWHJGdm56dnotQnBEMDY2RTQwWXZZYURibjJXMVJkWUhLbXpadmcwV1dVZlhpcWpVOFhJS1VjWVFUU1BtNVBwWHhwcEtBWDMyRGkwVElnNE5ieFNGMENMeDl4Zl9uaUlwdzRqOHZlRzByeUpfRDZMWDdPejZKOW9Dblh0Ym9YbE9OYnNJMGQ1RkM4TTR0cDh5c0V5SjFCWlZtRjdtVUU0QkNlSktHY1g4OTBzelhN0gHIAUFVX3lxTE1iN1FOU2NCZXlLZzlUeV9LdEFoZ01wMUs2M3JVVnZnUGxuUjFQQzFaVkFRZGZ2XzdUbFM2N0pGVDRYUl9PMGJRMTE1T2l6WXNiZHl4QmkzMm4yZXZldzQ2RXJQeFQ2NV9TeWV6SzNIdWVYeUFQZDI3dHA4aDlqNGc0ZjR0cnFNX1pVSzQ4b0gtOHRIenRXejR6YTdoSzZOZ19RZ3NVa2pvd2hrUjVjSUFQdUlGNUdMUDVEM0JZVWhrbGRQVHFoRjNs?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-20T11:11:48.000Z",
+          "date": "2026-11-16",
+          "count": 4
+        },
+        {
+          "date": "2026-11-17",
+          "count": 5
+        },
+        {
+          "date": "2026-11-18",
+          "count": 5
+        },
+        {
+          "date": "2026-11-19",
+          "count": 4
+        },
+        {
+          "date": "2026-11-20",
+          "count": 10
+        },
+        {
+          "date": "2026-11-21",
+          "count": 3
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "School gadgets, online predators: Children left exposed to sexual grooming in UK | GRAVITAS - WION",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU0NxS3A3UTgyX1NoTmZzR054aDhqX0VtWmZlemRRZUx1YlNTNHlCb0tOcHcwNDJaYkktY1BUd2MwbG5EbVlkZjAtU1NHUHJtdTJ0VXJlODh2aGJKOUExMWNDNzcyUDFxOHpZNlVFamVTd21XdHg2RHZIdjdteXFZeWN4d2Q1M3hKd2NOS19RVWtGQzNMcE5iaEtXR2ROWXhZMEJzZUgwUV9ReGhPLUs0bjVqVG5UcUNjQTlIN3pYMVVTR0Fvc0phc2pFWWJoTU9TNTRNStIB1AFBVV95cUxNU0NxS3A3UTgyX1NoTmZzR054aDhqX0VtWmZlemRRZUx1YlNTNHlCb0tOcHcwNDJaYkktY1BUd2MwbG5EbVlkZjAtU1NHUHJtdTJ0VXJlODh2aGJKOUExMWNDNzcyUDFxOHpZNlVFamVTd21XdHg2RHZIdjdteXFZeWN4d2Q1M3hKd2NOS19RVWtGQzNMcE5iaEtXR2ROWXhZMEJzZUgwUV9ReGhPLUs0bjVqVG5UcUNjQTlIN3pYMVVTR0Fvc0phc2pFWWJoTU9TNTRNSg?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-17T17:04:00.000Z",
+          "riskScore": 67,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "School gadgets, online predators: Children left exposed to sexual grooming in UK | GRAVITAS - WION",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnJYRDFwVU9MMFFLX19pX3k1QXJvamtmSk13dU9FUmpyZUY5aEJpQUxPSXRVWWJLbXpRVzgxcU5pcGZrXzlpQ0FQU3JwSEZQcDhNSlRRY05vVi1KWjVVR2ZkMFA2NWxKUW5fLVNqVzdFbVpYbGxQb1ZJb2lVaEtPbFQyeWZuX0ZFRjM2UmxGUVk4TXRvSnZIRWE0ek9ROF9INlZqRDFEemItNEpzeER4dU9SdUFOUlN0LXVubkJfcVhCbl95Y0EyZG1CSnV5MEnSAdQBQVVfeXFMTVNDcUtwN1E4Ml9TaE5mc0dOeGg4al9FbVpmZXpkUWVMdWJTUzR5Qm9LTnB3MDQyWmJJLWNQVHdjMGxuRG1ZZGYwLVNTR1BybXUydFVyZTg4dmhiSjlBMTFjQzc3MlAxcTh6WTZVRWplU3dtV3R4NkR2SHY3bXlxWXljeHdkNTN4SndjTktfUVVrRkMzTHBOYmhLV0dkTll4WTBCc2VIMFFfUXhoTy1LNG41alRuVHFDY0E5SDd6WDFVU0dBb3NKYXNqRVliaE1PUzU0TUo?oc=5",
+          "source": "Google News • Suicide and Self-Harm (India)",
+          "publishedAt": "2026-11-17T17:04:00.000Z",
+          "riskScore": 67,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "From Online Grooming to Human Trafficking: How Child Sexual Exploitation Became a Global Tourism Crisis - eTurboNews",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1UxUUxXS0IwanFoeHpMajBQdmZKZkR6cGpORE5PWldQZ2wweGVySjIxS3FjRWctWGNNMFNobXBfeW5SejN5WlNKU01vWHlBc04tYWxVaTdmeTJBbVhGa09RN1BzOGlNMTJxczBnc1NBUFQya3F4anA0aXN0bU1UWExINXpjUmlCajdmQzZtRy1iNzA?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-19T22:45:10.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Twitch lawsuit investigation: Online grooming and child sexual abuse - Top Class Actions",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWW1BNDIxd29ONl9uWmZxbGR6TVFUak5PR1hNNFZrc2psdi1GNXZlWmJaREo4X1pya1VJOWRHZHdVNUM4OXdtTmZKMkt0TFFTLWRZX1J6Tm1GbHBfZzE4UW9fNzExZnFHc2JqcUdXVnRNZ3FnUzBuMERteFZ1MkJrNURwV2lSR0pBUjA2dmZxSHJTM0JkT3c?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-19T21:18:19.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "'Serial online groomer': Indian student jailed for 30 years over child sexual abuse offences in UK - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUw2Y0xtc0xqS2lmVXVlVkZxLVdsQ3d3eUdyQVhhMVBLendBSE85WVdVNzlSaFNUT3BicnVqeC1jdGZCXzlvcHNTOXp6Q1VNVlYzZTFudDhHaVJ6Sy1OV0tqQnBxRXNwOVBBbkNzaXpZbnNvdHBQc2ZPb0g1cGlSdzJPY2JaZU1VeGRrc0Y2MGlKZ1B2V0xOcWF1X19SVHE3cGhwcWh0ZVRGdHVmZjFIOEdSd3EzZWtIem94ZkFPanpHYkZRbENHYTRpOHdXQTQwUUZ0QjBVMm9WYUZuYlM5YVItdlYxMXd6RENRMdIB7AFBVV95cUxPQUw2Y0xtc0xqS2lmVXVlVkZxLVdsQ3d3eUdyQVhhMVBLendBSE85WVdVNzlSaFNUT3BicnVqeC1jdGZCXzlvcHNTOXp6Q1VNVlYzZTFudDhHaVJ6Sy1OV0tqQnBxRXNwOVBBbkNzaXpZbnNvdHBQc2ZPb0g1cGlSdzJPY2JaZU1VeGRrc0Y2MGlKZ1B2V0xOcWF1X19SVHE3cGhwcWh0ZVRGdHVmZjFIOEdSd3EzZWtIem94ZkFPanpHYkZRbENHYTRpOHdXQTQwUUZ0QjBVMm9WYUZuYlM5YVItdlYxMXd6RENRMQ?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-16T05:43:38.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTBzQjNoTS16RGFGUlFGMVhKQVRLYzlFbVdEaXh4ck5RdDAyU0JEN0E5bXhEQkowbm5Ka0hyVHdELWZGdHU4NkxyZXpFTllSeG1kTHZlaFQ5VWF5OEZKUWFtbjdDRW5QNE5KUlVodEtCRGI3bjhDZU1PRFdnUEIwVDQ2c2c1enBoQWlFTGtXTzhibnVma0ZNM1V5c0d4Y3gtOTdNaWdVSGg5VExaNkRYYXI1dWhUQWZQR2c00gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
+          "source": "Google News • Online Exploitation (India)",
+          "publishedAt": "2026-11-15T13:06:48.000Z",
+          "riskScore": 59,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3lyWGRKYUJvRURNUVhsZkJKd2VTS3J6QTFhOVFyanBNY25oa0VyeUFtWTE5MDhWZVB4ZWxmSm1mOFBNUGNiS1lnZnFITms5b2V0VWl0TXRtMlYtekRfT3laRnlOeDM3cTFCZ0cwcW9xVXhOYzZQbFFiNFIxdlhoT094ekRWeEgxTHhRUVRtVDVMem44dVhNMTRqRUgzOUZ0amxwdVJ4bG1aN2kyVUdnWWMzSmZEWG9KS2FvWVk0ak5qbEVoQVROREk5WHd4RWlq0gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-15T13:06:48.000Z",
+          "riskScore": 59,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Johnson City man charged with sexual exploitation of a minor - WCYB",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVI5U2hqc291Y1VqbEJBc3M5TWRDcWlpTTNfMDYtSWhfSEsyOWwtaHcxTVZURHRWeG0teVIwa3NEb1ltbVFxR3Y5ZXVlaXBZOTV6MTMzZ2JPMFF2cEwtVDdKdXN6UmlwODczV2s2ZnhQdXFRa2UtLWhvWFRXREpHb3NYQ0wzd3lBNWRPZ0JuWG1PRUljMnRMU3R4WXBmV3JD?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-21T01:00:08.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -429,120 +535,14 @@
       ]
     },
     {
-      "theme": "sexual-exploitation",
-      "label": "Sexual Exploitation",
-      "totalArticles": 36,
-      "distinctSources": 5,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -25,
-      "reason": "Last 3 days averaged 4.3/day vs 5.8/day before.",
-      "daily": [
-        {
-          "date": "2026-11-15",
-          "count": 9
-        },
-        {
-          "date": "2026-11-16",
-          "count": 4
-        },
-        {
-          "date": "2026-11-17",
-          "count": 5
-        },
-        {
-          "date": "2026-11-18",
-          "count": 5
-        },
-        {
-          "date": "2026-11-19",
-          "count": 4
-        },
-        {
-          "date": "2026-11-20",
-          "count": 9
-        },
-        {
-          "date": "2026-11-21",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "School gadgets, online predators: Children left exposed to sexual grooming in UK | GRAVITAS - WION",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU0NxS3A3UTgyX1NoTmZzR054aDhqX0VtWmZlemRRZUx1YlNTNHlCb0tOcHcwNDJaYkktY1BUd2MwbG5EbVlkZjAtU1NHUHJtdTJ0VXJlODh2aGJKOUExMWNDNzcyUDFxOHpZNlVFamVTd21XdHg2RHZIdjdteXFZeWN4d2Q1M3hKd2NOS19RVWtGQzNMcE5iaEtXR2ROWXhZMEJzZUgwUV9ReGhPLUs0bjVqVG5UcUNjQTlIN3pYMVVTR0Fvc0phc2pFWWJoTU9TNTRNStIB1AFBVV95cUxNU0NxS3A3UTgyX1NoTmZzR054aDhqX0VtWmZlemRRZUx1YlNTNHlCb0tOcHcwNDJaYkktY1BUd2MwbG5EbVlkZjAtU1NHUHJtdTJ0VXJlODh2aGJKOUExMWNDNzcyUDFxOHpZNlVFamVTd21XdHg2RHZIdjdteXFZeWN4d2Q1M3hKd2NOS19RVWtGQzNMcE5iaEtXR2ROWXhZMEJzZUgwUV9ReGhPLUs0bjVqVG5UcUNjQTlIN3pYMVVTR0Fvc0phc2pFWWJoTU9TNTRNSg?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-17T17:04:00.000Z",
-          "riskScore": 67,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "School gadgets, online predators: Children left exposed to sexual grooming in UK | GRAVITAS - WION",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnJYRDFwVU9MMFFLX19pX3k1QXJvamtmSk13dU9FUmpyZUY5aEJpQUxPSXRVWWJLbXpRVzgxcU5pcGZrXzlpQ0FQU3JwSEZQcDhNSlRRY05vVi1KWjVVR2ZkMFA2NWxKUW5fLVNqVzdFbVpYbGxQb1ZJb2lVaEtPbFQyeWZuX0ZFRjM2UmxGUVk4TXRvSnZIRWE0ek9ROF9INlZqRDFEemItNEpzeER4dU9SdUFOUlN0LXVubkJfcVhCbl95Y0EyZG1CSnV5MEnSAdQBQVVfeXFMTVNDcUtwN1E4Ml9TaE5mc0dOeGg4al9FbVpmZXpkUWVMdWJTUzR5Qm9LTnB3MDQyWmJJLWNQVHdjMGxuRG1ZZGYwLVNTR1BybXUydFVyZTg4dmhiSjlBMTFjQzc3MlAxcTh6WTZVRWplU3dtV3R4NkR2SHY3bXlxWXljeHdkNTN4SndjTktfUVVrRkMzTHBOYmhLV0dkTll4WTBCc2VIMFFfUXhoTy1LNG41alRuVHFDY0E5SDd6WDFVU0dBb3NKYXNqRVliaE1PUzU0TUo?oc=5",
-          "source": "Google News • Suicide and Self-Harm (India)",
-          "publishedAt": "2026-11-17T17:04:00.000Z",
-          "riskScore": 67,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "From Online Grooming to Human Trafficking: How Child Sexual Exploitation Became a Global Tourism Crisis - eTurboNews",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1UxUUxXS0IwanFoeHpMajBQdmZKZkR6cGpORE5PWldQZ2wweGVySjIxS3FjRWctWGNNMFNobXBfeW5SejN5WlNKU01vWHlBc04tYWxVaTdmeTJBbVhGa09RN1BzOGlNMTJxczBnc1NBUFQya3F4anA0aXN0bU1UWExINXpjUmlCajdmQzZtRy1iNzA?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-19T22:45:10.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Twitch lawsuit investigation: Online grooming and child sexual abuse - Top Class Actions",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWW1BNDIxd29ONl9uWmZxbGR6TVFUak5PR1hNNFZrc2psdi1GNXZlWmJaREo4X1pya1VJOWRHZHdVNUM4OXdtTmZKMkt0TFFTLWRZX1J6Tm1GbHBfZzE4UW9fNzExZnFHc2JqcUdXVnRNZ3FnUzBuMERteFZ1MkJrNURwV2lSR0pBUjA2dmZxSHJTM0JkT3c?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-19T21:18:19.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "'Serial online groomer': Indian student jailed for 30 years over child sexual abuse offences in UK - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUw2Y0xtc0xqS2lmVXVlVkZxLVdsQ3d3eUdyQVhhMVBLendBSE85WVdVNzlSaFNUT3BicnVqeC1jdGZCXzlvcHNTOXp6Q1VNVlYzZTFudDhHaVJ6Sy1OV0tqQnBxRXNwOVBBbkNzaXpZbnNvdHBQc2ZPb0g1cGlSdzJPY2JaZU1VeGRrc0Y2MGlKZ1B2V0xOcWF1X19SVHE3cGhwcWh0ZVRGdHVmZjFIOEdSd3EzZWtIem94ZkFPanpHYkZRbENHYTRpOHdXQTQwUUZ0QjBVMm9WYUZuYlM5YVItdlYxMXd6RENRMdIB7AFBVV95cUxPQUw2Y0xtc0xqS2lmVXVlVkZxLVdsQ3d3eUdyQVhhMVBLendBSE85WVdVNzlSaFNUT3BicnVqeC1jdGZCXzlvcHNTOXp6Q1VNVlYzZTFudDhHaVJ6Sy1OV0tqQnBxRXNwOVBBbkNzaXpZbnNvdHBQc2ZPb0g1cGlSdzJPY2JaZU1VeGRrc0Y2MGlKZ1B2V0xOcWF1X19SVHE3cGhwcWh0ZVRGdHVmZjFIOEdSd3EzZWtIem94ZkFPanpHYkZRbENHYTRpOHdXQTQwUUZ0QjBVMm9WYUZuYlM5YVItdlYxMXd6RENRMQ?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-16T05:43:38.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTBzQjNoTS16RGFGUlFGMVhKQVRLYzlFbVdEaXh4ck5RdDAyU0JEN0E5bXhEQkowbm5Ka0hyVHdELWZGdHU4NkxyZXpFTllSeG1kTHZlaFQ5VWF5OEZKUWFtbjdDRW5QNE5KUlVodEtCRGI3bjhDZU1PRFdnUEIwVDQ2c2c1enBoQWlFTGtXTzhibnVma0ZNM1V5c0d4Y3gtOTdNaWdVSGg5VExaNkRYYXI1dWhUQWZQR2c00gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-15T13:06:48.000Z",
-          "riskScore": 59,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Indian student jailed for 30 years in UK for grooming 70 girls online - Gulf News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3lyWGRKYUJvRURNUVhsZkJKd2VTS3J6QTFhOVFyanBNY25oa0VyeUFtWTE5MDhWZVB4ZWxmSm1mOFBNUGNiS1lnZnFITms5b2V0VWl0TXRtMlYtekRfT3laRnlOeDM3cTFCZ0cwcW9xVXhOYzZQbFFiNFIxdlhoT094ekRWeEgxTHhRUVRtVDVMem44dVhNMTRqRUgzOUZ0amxwdVJ4bG1aN2kyVUdnWWMzSmZEWG9KS2FvWVk0ak5qbEVoQVROREk5WHd4RWlq0gHQAUFVX3lxTFA3eXJYZEphQm9FRE1RWGxmQkp3ZVNLcnpBMWE5UXJqcE1jbmhrRXJ5QW1ZMTkwOFZlUHhlbGZKbWY4UE1QY2JLWWdmcUhOazlvZXRVaXRNdG0yVi16RF9PeVpGeU54MzdxMUJnRzBxb3FVeE5jNlBsUWI0UjF2WGhPT3h6RFZ4SDFMeFFRVG1UNUx6bjh1WE0xNGpFSDM5RnRqbHB1UnhsbVo3aTJVR2dZYzNKZkRYb0pLYW9ZWTRqTmpsRWhBVE5ESTlYd3hFaWo?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-15T13:06:48.000Z",
-          "riskScore": 59,
-          "corroboratedBy": 2
-        },
-        {
-          "title": "Warren County man sentenced to 30 years in federal prison for child sexual exploitation offenses - WRNJ Radio",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmc5eWxVSm5yOENHeU1VZ3JnTUZmckx6RkZHdTlrcmxTQmFOWmw1b21jWHdCVlNsQnB1ZnlNLV9fa1QyMVlKaWNnb05pMjhWa1ptaVFoLURvTmJhZGEycWhYWl9tUVlBUy13dDVOdHl2TGRva0N3TjBPOUJJYUhmeUFkZ2RKV2pKemFoTTYwLTlpWkIzOUVMd0tKUEFmOUhUZEVSOGtEazA5VVV4UFdEdUc1NzF2TUZTdFBJ?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-20T09:30:40.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 20,
+      "totalArticles": 25,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 63,
-      "reason": "Last 3 days averaged 3.7/day vs 2.3/day before.",
+      "changePercent": 137,
+      "reason": "Last 3 days averaged 5.3/day vs 2.3/day before.",
       "daily": [
         {
           "date": "2026-11-15",
@@ -566,14 +566,22 @@
         },
         {
           "date": "2026-11-20",
-          "count": 6
+          "count": 7
         },
         {
           "date": "2026-11-21",
-          "count": 1
+          "count": 5
         }
       ],
       "topArticles": [
+        {
+          "title": "India, France condemn Pahalgam and Red Fort terror attacks at counter-terrorism meeting in Delhi - ANI News",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbWw0cUFZaGo3TmtvUUc4cTJaSXpTQU0yMmlhaTdPVEtZeFlFdjRDRkhKdEtnSzhCUkJRSFB5djg2eW14c1ZRRll0ZDA1c3VQS3pWWmpzQUhWRVhqLVVZVjN2OW0ySjBxSFlPNlZLdE0yNUJoSFZjSzM4ZG9pb09NR0JoRVdSS0lVb0Vtem5CZTMwNEpZRVg0d1RaUldQb0c1STViLXBkTG9TblZKdEpHWUNQNnlDdW5Kbm82a2RTak45dGhqam5WclJpWl9UN1Iwd0ROaVFWYVljellkeW1lOW5B?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-11-21T01:37:00.000Z",
+          "riskScore": 64,
+          "corroboratedBy": 1
+        },
         {
           "title": "India and France discuss counter-terrorism cooperation at 18th Joint Working Group meeting in New Delhi - DD India",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRDZhZzVYZDZ5cEJfcDJYOVNJU1Z1MWtLUzEzaUZZRFRLbjlxZnpYTDZZcl9kS2ZDMmhZdDdweF83MllPa3gtWTBWNjZIRzVGZmFSN0dBRWtjdTltcF9BV3JMVzJZcVBlSmVrX1dfSThCNzZDaFM1eWEyODlxaFJZR0NHekhsanNQRUJqYjR0ZXVCOWp4a0Nhdnh4WjQwb3pQaXdvNGttZ29DS0NVY2pOdE9jNEJ3U1Zvc0NzMzFiU2pNSEN1bWwzSWEyQUItNFE?oc=5",
@@ -607,34 +615,26 @@
           "corroboratedBy": 1
         },
         {
+          "title": "India, France condemn Pahalgam, Red Fort terror attacks at counter-terror meet - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVRuVmc2RnpwLUNIaEQxZmVSSi13aUVxMEdhZ1pNOVVuYUs1TWRGUy0xQUgyNm9UdmxZTVliM1FkUjJVcndDbXFvYWlFMncxUnRXS0VfWkdheWJBak8td2ptX2pYVzZXMWNtS3QzODBYTndQalo3dFdRSEI1NEpUdHFtYlBxc3FmSkszd1o4dUZSYi15dW9KS19CWnBuZHp1clZJU2hGdW1MOEo1MjRoaTVPMVluSjVIWFA1MldRMTZLZ0MyNVRVeElnMDZzNy1Vd043SW0tMzczRksw0gHiAUFVX3lxTE0ybFpoX3FXeVhOdXFxRGRxTTR6MEQ4QWpoLTlycE9xMGNRSHZ2Tms3NW5kazVjZ3B3aW95MHFmczg5OElsYnVRSXY5bkU5d3lTbUFYNDNySUJDTjNyTVZ1Y1Nud1VOOWFyem9GSU04a045dmhYYmI2RDFFNmFkSl9XNnYtOHF3d0p5VnlzelhWS2R0bW5acG9BTDhTRktQT2t1cTFydDJFdzkxTTRkcHRQTlpuWTRQbHpPdWxjWFE4YW9MWWdtbEVVdTBVSUpBM2tPcFJTQ3VJeFpCczREY0RJcUE?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-11-21T01:55:00.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "India and France discuss ways to counter terror financing and online radicalisation - The Shillong Times",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObE1UX0FMRTlVRkoxUFNEeVdRNS16WXFxRy00NWhMbDdTRkhiUTBqbHZRSy1aYjZPY1ZldXBQUDJHc2ZjTUFaclFqZExJcThuQTZHRm9jNVZDVlJ2UG53N01LYXM4dkJnUmRKOUdpbkllZkV1Q2VfbTR5bFRtYVVmWlQycGdoVmNVMTQ3c19lNWQtLXNhSW5EamxhbGlnYWV3c3FINkNQZWxaMGVucE1sVl9tTFlaa1B6YkdyeXF6Ql8zZw?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-11-21T01:14:20.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Drones, cryptocurrencies, radicalisation, AI misuse dominate anti-terror conference discussions - Livemint",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYzRETHAxaHFMQ3RPUjh0WElfNE03M1d5RU5Bdm9HR2x4VFllOTNpMlFoSXllcmhTa0djQWQ3c1ZaR2VORDctNnhhekhDMk9Lc3U5Qzh2UnBWc2VUakRPY2hwRmxreGF0b3FVN3JTZlRYeG8wVzFtWURmcXdSbGVYZ0NwUHRPZ09yYmMyVXU1TE9zVG16TEVpODFDVEZMcl9yYWRIelpMZ0NoYV9IT2xpcTkxM2N6c1NocXRFSVBMUmY5OHN6YURiVTBwSXd3ZkpqS2F0R19Ib0R5b28?oc=5",
           "source": "Google News • TVEC Terrorism (India)",
           "publishedAt": "2026-11-20T19:20:59.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "'Dangerous': Democrat governor-elect in Texas vows to remove CAIR terrorist designation — and radicals are delighted - Blaze Media",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTThLYU0xMmE4T3V2ZVhiVlRHa3hVWUNGOE5GWURON1hPSVBabWZteWFIeDZmbTV3R3Y5anBfTE83WEh3b2NlUjI1WGdLVTVOTFpsMWhXY0ZETlI1bG1XNTFKa0huUWNsVnRnMVhDOFkzX01HbFpUNDF4NXBGdzVkSzIteVNVMWpwWERXcF9vRmRYNnJBODNnRGMxZFlSdWVDU1p5RnBpWUFCQk1qWDBuOEg4UnJ5dDJyTllfd1ZLdGlwOHlKbzNjSEJCYWN5QVpn?oc=5",
-          "source": "Google News • Dangerous Criminal Organizations",
-          "publishedAt": "2026-11-20T14:30:27.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "India and France discuss ways to counter terror financing and online radicalisation - The Hans India",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlJyb3lpTmZMTTdocWlxLWdCbTE5U0FYaFg2RXFkUGR2NDBGbHVXZ1ZhWGk1a0pZekhBUGwyMGh3QWp4UG1ZenVSQUEwY0h1ZldJbmZqSFdpVi1DbVNybXdOS0dlWjZ0dVVkVXc5ZlQ2c00yQTlNX2RNU0o5X210SkhuRmF6ZjhnSHZLazVncW9ZeFRSNlo1Q3dON2ZDS0NKQkJWU1dLdzdNMjhZSWdNUEpNckpiM1l6TjI4RXFNd0pwUlYyVGp6S2ZlMFhla254cEgwNXBxSl8zZ9IB3wFBVV95cUxOODBuZWlFRk84WjFfaTdRSjJnM3VqRndCdFlvbVVxZVZHaF82cEdDdVN4Y3ZwRE45SFZZbGNRcW01RDV2cUVOSDhzMFJYZHJ1MU1hbmVRMXRUUXFFb0cwd21BZzhtOVlTVl9VUWkydDJUaXdqaWZjVXR1aGZuVGhRYzZpMERfWE84dTdXLXZTVl9fVURoWmZxNFRHTGJ6QkJfS0d4RUdtSlJ4bmE1TmNQd1lQaXpFdjVabW1CX1pxclppWnNvSlQ3eTU5RHdWNnFqc2pLdWV1bnAzcklIcjZB?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-11-20T10:47:20.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "18th meeting of the India-France Joint Working Group on Counter Terrorism - Ministry of External Affairs",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2Zxa09LVHRUSXNKQWEtS2tMZ1hjTmY5dmVYdkJBaEtrWkJILU9mbjhhOGlxWFk4LUF5SjBnandURU9JWGNuWEwxbFYxeXBZeG1NUE5XbUVjdG54ZTd5dDFVZ203SmVjTUlLelBTLWpUUzVhaXhBdS0wb2txcm1vT2k4T3ZWSzhRblJkU2syWWdFVWdBRnNpWmNZMHowY0NhSTlDWnRsS0tzOS1OcWxLcEpOeEZ6c1pFb2pCUA?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-11-20T09:50:11.000Z",
           "riskScore": 56,
           "corroboratedBy": 1
         }
@@ -1027,12 +1027,12 @@
     {
       "theme": "violent-speech",
       "label": "Violent Speech",
-      "totalArticles": 3,
-      "distinctSources": 1,
+      "totalArticles": 5,
+      "distinctSources": 2,
       "highRiskArticles": 0,
-      "trend": "Low volume",
-      "changePercent": null,
-      "reason": "3 articles in 7 collected days.",
+      "trend": "Stable",
+      "changePercent": -11,
+      "reason": "Last 3 days averaged 0.7/day vs 0.8/day before.",
       "daily": [
         {
           "date": "2026-11-15",
@@ -1056,7 +1056,7 @@
         },
         {
           "date": "2026-11-20",
-          "count": 0
+          "count": 2
         },
         {
           "date": "2026-11-21",
@@ -1064,6 +1064,22 @@
         }
       ],
       "topArticles": [
+        {
+          "title": "Police Warn Against Social Media Misinformation, Incitement in Kogi - Kogi Reports",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUJQX2hVTVdPX0VlVHFCc3hQYkZhaW9odDl6bXhEUjVpSGUwT05CSDZrTGFnZ3hnY2haOGFBMGdlVEI5WGQxQUVaQ01DNExGOEJtWmJUZnVPSm1SSVF2eURMUUNoUl93TnJ0VXN5eDE0MmpWRDViem56bmw2THB5VWVaWU5xX0xJLUxSYk9sbW90a2hfdWc?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-20T17:20:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "CCF intervenes in Crown’s attempt to expand reach of hate speech laws - Canadian Constitution Foundation",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzdUY3FwT2s0V1VjM0NLNkR2aVNsVG5aWXhDcm9KNWdLOFM1STFNcmc1bzdySUVnUVRuejVuVVI2clB6WjZvX3VrWjVRcEx3Y3hSQnZLUmJkblBtbEpHdVlSRlNKdl9tZmJLUGY0eVB6R05SNGtvNkRPUTdUMWhXVnBHQWp3Rk9FSUFRSWhiYU0?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-20T14:36:28.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
         {
           "title": "Anti-Arab online hate speech surged around Israeli election, report says - Arab News",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnJXWGZMSkptOTEwUGZwdkxLN3o3TWRFTVRSTHBOeFMxM3RGalZmLUg4dWJfeWZyN0NJazNFeEVNeV9jX0J0UkhKOFBhNk1TUjZtTUlpdXJWbk9RM3FuOTc2bFhhT1RpVk00TWs0a0pWQnM2UVFVUGlsMnVsOGZPa2tPc1lfcHhtY3ZLR2VtdWN2Z1hLZ1phdC03TGx2ZUdweW5EdUstSWpLMmRjdUJv?oc=5",
@@ -1086,6 +1102,72 @@
           "source": "Google News • Online Hate (India)",
           "publishedAt": "2026-11-16T18:27:45.000Z",
           "riskScore": 44,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "dangerous-organizations",
+      "label": "Criminal & Dangerous Organizations",
+      "totalArticles": 3,
+      "distinctSources": 3,
+      "highRiskArticles": 0,
+      "trend": "Low volume",
+      "changePercent": null,
+      "reason": "3 articles in 7 collected days.",
+      "daily": [
+        {
+          "date": "2026-11-15",
+          "count": 0
+        },
+        {
+          "date": "2026-11-16",
+          "count": 0
+        },
+        {
+          "date": "2026-11-17",
+          "count": 0
+        },
+        {
+          "date": "2026-11-18",
+          "count": 0
+        },
+        {
+          "date": "2026-11-19",
+          "count": 0
+        },
+        {
+          "date": "2026-11-20",
+          "count": 1
+        },
+        {
+          "date": "2026-11-21",
+          "count": 2
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Canada lists gangster Goldy Brar as top fugitive with bounty offered - India Today - India Today",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOHVNYmxiQ280cUZxYklUTHdtWVgtekFGcXlxMHJLTzA1Tlk5NTFYOUdnNThvREJrcF9jWDJvenZqUmNKX2ZTdnJHeWdzZVJOWFU0cnJBT2xZU3B6LW1idkVWQkZwalFVU0Z0OEpPVFRabUhfb09pZWFuRGx1aExSTzBmZ1pPaURiX2JyWThxbHJLT3VtWFZXMllIOWl3TW9qREZWdTNUTG9LM3U1RXNDMFg2a2c2cF84dndDS2VpRDFqSlZ3NjdsOdIBzgFBVV95cUxQd3otM2dvUnppcFJrWEgzSTVONTFxUnpMa3dndDJ0c0pSRTZaN183eklyT3RLaUNWckl6VC1IblRlbm5EOHFxRXJQTTNScV9OTlNPLWhodmRYUVpDUkY3V0gyYmd1eHJwcThHRFlZU29nUG5ZbllHRkc2OFVKaXhaN08tNlBjcFlMWWJxM3JxZzhMOTBqRTZicmhpNFJQWG1JSWI2ZEtfNHg2R1FVWndEdmJqcUIxM0diMkNCcm16MkVvV0ZiaUk4bExGMVBUdw?oc=5",
+          "source": "Google News • Fact Check (India)",
+          "publishedAt": "2026-11-20T02:33:03.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Running out of luck - Global Initiative against Transnational Organized Crime (GI-TOC)",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYl9ZZXd3akI5RnRYb0VyMHV4TXk4U1FndWNBa0UzWktVbmRfVGZFWFdNY3RQdTZ5SDFhcVUxTTI1clU1WFBoNkxzd0Fzc3hIVWhHdnpVSWt0a2t3RWpjaHNzRjBqeHJkd2p5cG1yOTNyYkxGeHNNMUZMX2VvTGgtY1piZnRZUG8?oc=5",
+          "source": "Google News • Human Trafficking (South Asia)",
+          "publishedAt": "2026-11-21T01:13:33.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "FBI Warns Online Extremist Groups Are Targeting Children: What Parents Need to Know - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjJNUlNDOU9QTW5zLVEzNWtwaVl0Y0RrR0ZIR0k3ai1yMHRwcE96LUF1TUJVNzFmUU1hU1kzazlBSUZ6SFNHS09taExHQTR0ZXFqbG5PZkF4b245eVcyMzR1LTZiRGoxOF9kaWNTTDllYzliSUlIcjJOT2VkaW1kd3FQRXI0Q3hDVGtuT0xCNlI?oc=5",
+          "source": "Google News • Dangerous Criminal Organizations",
+          "publishedAt": "2026-11-20T21:25:00.000Z",
+          "riskScore": 48,
           "corroboratedBy": 1
         }
       ]
@@ -1144,56 +1226,6 @@
           "source": "Google News • Suicide and Self-Harm (India)",
           "publishedAt": "2026-11-19T09:52:59.000Z",
           "riskScore": 48,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "dangerous-organizations",
-      "label": "Criminal & Dangerous Organizations",
-      "totalArticles": 1,
-      "distinctSources": 1,
-      "highRiskArticles": 0,
-      "trend": "Low volume",
-      "changePercent": null,
-      "reason": "1 article in 7 collected days.",
-      "daily": [
-        {
-          "date": "2026-11-15",
-          "count": 0
-        },
-        {
-          "date": "2026-11-16",
-          "count": 0
-        },
-        {
-          "date": "2026-11-17",
-          "count": 0
-        },
-        {
-          "date": "2026-11-18",
-          "count": 0
-        },
-        {
-          "date": "2026-11-19",
-          "count": 0
-        },
-        {
-          "date": "2026-11-20",
-          "count": 1
-        },
-        {
-          "date": "2026-11-21",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Canada lists gangster Goldy Brar as top fugitive with bounty offered - India Today - India Today",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOHVNYmxiQ280cUZxYklUTHdtWVgtekFGcXlxMHJLTzA1Tlk5NTFYOUdnNThvREJrcF9jWDJvenZqUmNKX2ZTdnJHeWdzZVJOWFU0cnJBT2xZU3B6LW1idkVWQkZwalFVU0Z0OEpPVFRabUhfb09pZWFuRGx1aExSTzBmZ1pPaURiX2JyWThxbHJLT3VtWFZXMllIOWl3TW9qREZWdTNUTG9LM3U1RXNDMFg2a2c2cF84dndDS2VpRDFqSlZ3NjdsOdIBzgFBVV95cUxQd3otM2dvUnppcFJrWEgzSTVONTFxUnpMa3dndDJ0c0pSRTZaN183eklyT3RLaUNWckl6VC1IblRlbm5EOHFxRXJQTTNScV9OTlNPLWhodmRYUVpDUkY3V0gyYmd1eHJwcThHRFlZU29nUG5ZbllHRkc2OFVKaXhaN08tNlBjcFlMWWJxM3JxZzhMOTBqRTZicmhpNFJQWG1JSWI2ZEtfNHg2R1FVWndEdmJqcUIxM0diMkNCcm16MkVvV0ZiaUk4bExGMVBUdw?oc=5",
-          "source": "Google News • Fact Check (India)",
-          "publishedAt": "2026-11-20T02:33:03.000Z",
-          "riskScore": 52,
           "corroboratedBy": 1
         }
       ]

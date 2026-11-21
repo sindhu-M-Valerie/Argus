@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T20:36:39.769Z",
+  "generatedAt": "2026-11-21T07:30:27.005Z",
   "snapshot": true,
   "date": "2026-11-20",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 34
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 48
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 22
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 22
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 20
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 37
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -221,6 +221,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India & France Discuss Emerging Terror Threats, Financing & Online Radicalisation - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3dJOWVTZTBRTDAxVHhLcWNQSkJrMmtvWElvaGxSVnM1RVNwdzJhNWJ5WkFTOE10NFlaZDZyZVJscUVFNHlPWVlXdld4VG1TUjIxazF5NVk4Yzh4V2lDWWh3N3hrTEhLMVhBVzJ3a09tZGFGTHZFdUo2QkZtaXREd1lGLWR0aE9WRTREQ2tOZ1dySUItVmtDRDFISWoyYmVJa1RBaVpzTnZkeGl4RGR3ZzJiTmfSAboBQVVfeXFMUGszOTFaeGdGZEZrbV9GMUdERWhwTmcyN1pNZVR4Z2dmamFscThYb2RCdUNqbWl6QmpVai14XzJROGV4M25GXzlRSGJOdHc1eElSdVYxbThfMF9mdlJqNENveTVSd3d0enlpR3FiTTlkSGFMaWwtY1lRN1lBRmdfcUluTkQ2NmY2QzlpNjBNZFdJMFJVTUxVQXBsTUs0UWpqNkkxXzlSNm0zbG1CQnZBaE54aHJtRWlIZ1dR?oc=5",
+      "snippet": "India & France Discuss Emerging Terror Threats, Financing & Online Radicalisation Free Press Journal",
+      "publishedAt": "2026-11-20T11:09:43.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
       "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
