@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:30:27.005Z",
+  "generatedAt": "2026-11-21T19:35:55.753Z",
   "snapshot": true,
   "date": "2026-11-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 27
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 25
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike - DailyVoice.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUlqc1N5RjlHaFFCa19vTk9ZR19jNUs5TnlYSy02NmlROVByaXJGZ0k2S256cGlTYk14eU9COGUyeVJjMDZNaThldDdNTDQydmxVWUk0VWY2TUloS0R5LTd4NHNVMTZVel9OWUtXdHp1cXBsX09vM0ZZY3ZQTmxCSHNQdWYyV1dubmtxNndlekZaT1FmdkpCVUdsckxNWEpo?oc=5",
+      "snippet": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike DailyVoice.com",
+      "publishedAt": "2026-11-21T07:27:44.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi Police Arrest 24-Year-Old In Pan-India Cyber Fraud Network Supplying Mule Accounts - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnVZeFRUM2U1SkI1LXJUR0FWamVzUlVHZkJ3RjJoYlgzU0tRekFYN08wQWVZdjlwN2NTNGI0ZUU1Vy1mRnUxMkcxY1V3OXVSR2oxZVhqaGN3UF8yZlVhcVZiN243c0VYSjNTQVIwQm9lQlA5RGhTMlVHbnVSbTFVVVhzeW92ejhYNXJ0LWxKZUJqVUFJaUxZZlVmXzFseUp3U3NqLTAwRU1GSEk?oc=5",
+      "snippet": "Delhi Police Arrest 24-Year-Old In Pan-India Cyber Fraud Network Supplying Mule Accounts The 420.in",
+      "publishedAt": "2026-11-21T18:10:16.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Delhi Police Bust Pan-India Investment Fraud Network, Seven Arrested - The 420.in",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMndMMzNSVGxDNWtubE5sUEtzUlBxbTJ6RHh5TGFMVW5JVGRYRC04YWpaVXhQY1ZQdU5Jd0NlbjhWWjRUX2FnemRWWXd0UVByaUpDZW56bHAxRnBGclpuYk9aVHhpTnp6VWc?oc=5",
       "snippet": "Delhi Police Bust Pan-India Investment Fraud Network, Seven Arrested The 420.in",
@@ -192,6 +222,36 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Phishing tops reported cyber incidents among APAC businesses surveyed by Kaspersky - varindia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEhNVFVTS21ZV2U3RHljVnpTQUNiYkZJUDhTa09xY1ZmQTUydEhwSFBISW5qN2E0LU1WZ1pDNktYb0xMdkJQVVdzQTd1djg4TTBXYUdDRDhEMVZ5M0cycTZ0RktDUmc3cDdmWEVBdDdEQWtJcld1WHVGNVlsMksxVXdlSFdEWF8zTVg5ZWJkMDgzOWdUVk9RMEhMS3NPOFc5RzJxSFhnVHItN1M4UzNPamlR?oc=5",
+      "snippet": "Phishing tops reported cyber incidents among APAC businesses surveyed by Kaspersky varindia",
+      "publishedAt": "2026-11-21T11:07:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVi1jSm9zeFRKUWpEZmxSU2JBTVp6MkVxRDU3SzFVY1FKMG9WS18tbjUxX1pMNFVobmVIVENoTG5tNHExdnk1dGYxb1JZSnhhSFBvMXJJOWE4Ry0tYVM1SzlCUzlWMFdqQXV0TExBS3pkODEwaWtCU1pEemdtRFVSVW00bXNCZVdRN0lwTFk3SzhUTVJZb3k0UjFJc1ZFa3hMSDROUE9MSUY1VWlK0gGzAUFVX3lxTE1IcDN3UFk3ZTY1ZE0yWjBtM25hb0x2Sm9OU3hvN3dINlFaLVlPNHhoWVBCZ0cxSThuQko1aVpEaW85RGp5NEJ4VUpQU0pOdFJ3eGp2MmhDMXZvNHJwb0lXUHMwamZQcUtXYzhfbXY0UU9UQjlxTzZQbnludFhVS3RLcmxEN0VLalVrOFVPeVF0QzRTVXg2Q1F3c2x3c01NQzJPOFRXLWhUR0dZdEswazBvS0RB?oc=5",
+      "snippet": "Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams The Indian Express",
+      "publishedAt": "2026-11-21T09:18:21.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -227,6 +287,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fake Tahmeed Bus Booking Website Exposed as Christmas Travel Rush Fuels Online Fraud Fears - Livenow Africa",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbW9kbXlRUWN4QkI1QVJ6NjhxVWpmZWFTQS1YN3N0cldHQ2tkSEhNLUtEcGJWb2VIZDRXZWs0NE1aVlpxb2JUdWYwN3BXd1FWQWhIMERVUlVkV0lWQWxVLXhXOFJseWxZMEU3OEFHS1g5V3QxcUVDcnJ2RUE2d2RkQ2o2b3N2LUZ5U3o2dENITXBfUWpOVkxhZWpGbHVaUTlIZFJOZ0pTd0ZJcHlkekNTbzJoX1JNVHQzaEJ3Q1lEcVFDcDhrOGpEVG9heHVMVl9xQi04?oc=5",
+      "snippet": "Fake Tahmeed Bus Booking Website Exposed as Christmas Travel Rush Fuels Online Fraud Fears Livenow Africa",
+      "publishedAt": "2026-11-20T22:27:25.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Chinese recruiter for Pogo scam hub gets life sentence - Inquirer.net",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHBvX0c0bEZZVEIyX3VfQ3M5MUZSYWRKOXRYQUF5YVVGSmhYcW42RmJvWDEyOE90elZBVVJYRkx6TVM5V2o1cnRtQzBMZ2ZsZlRlbDZEbHZ3My1SUVNoekJzdklUUnVNMElxM1lDVmtDUG1vSnptbkxLdm5xdXM0THlscmNwckZQZkwxV1NqeDBZOGJjeFdOTDlNQdIBoAFBVV95cUxPQUpucHJRUEs3NzRQWTNHY2NNZ3RCbEstVEJUMlVLdW5hd2wyVmJ3eVk2V0dPV3hVcklwS0hqdnBYQXFLb3pBMFJGZmJPVll6NnJGM1pQUE1VMVhRa3dHOFRha081REN6UnI4bGZheDRjQVllelJ3bTRzdncyRjk5YzlFVkFNX09yOHRUdzlJenRoOUdQQ0NVS1ZNdTYyblph?oc=5",
       "snippet": "Chinese recruiter for Pogo scam hub gets life sentence Inquirer.net",
@@ -236,6 +311,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEC Charges Eight Firms in $37M Crypto Scam Using Fake Trading Platforms - Bitcoinist.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenpQdjVwSkFrM3U3UGMtQTZTckFUUEVHcURFSnhCSWtFMFVpTk1tdW5HcGhsYWlJTnNRek03ZlZHTG5pU05fQkpsdGVYbkpRcXpCcTFLTzlGVEpRd1hQX0l2SXJZM3Bkc1JjRTFjMUlaZ0xhSlFjYmJLOTZHUDdtUDdtUGhlTU16R1BEVG0zYjAwWVdtSl80S2xsZ9IBoAFBVV95cUxOQ01ZZmt2TDVSa2xIdzFNLVhYNG9JOHctU2RiSXlPWFZqRW5Fa3dJUVhTWWo0Z1Z3UWs4SDFQdVFhVHktTFd1MkJiRS1RYWhEMjhnS2JnbGFOeGRTTUgwbTM2Zzk1REx5MjVna3BLRjBNdy1ZWWk4bjNwbnBIOVE2ZjFZRGZfaElMNEZKTXRvdDJQaTgxS1lpek9nN25tUUEt?oc=5",
+      "snippet": "SEC Charges Eight Firms in $37M Crypto Scam Using Fake Trading Platforms Bitcoinist.com",
+      "publishedAt": "2026-11-20T20:28:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

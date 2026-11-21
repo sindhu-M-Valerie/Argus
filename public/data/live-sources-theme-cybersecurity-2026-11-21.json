@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:30:27.005Z",
+  "generatedAt": "2026-11-21T19:35:55.753Z",
   "snapshot": true,
   "date": "2026-11-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 27
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 25
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,96 @@
     }
   ],
   "data": [
+    {
+      "title": "Hackers Leak Customer Data Linked to Visa, Mastercard and JPMorgan After Third-Party Cyberattacks - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMDRhMTRXWGZxQ3V6M1QyV19jWmk1REJpM0w3dzNVMXdLSUZ4bzAwa2RKTHNQWTVsWjkyVFdmazdxUUU3RWswYi1jZ2E3bGx5NFV1NGdzWl80NkpmWkxlT1ZZcjJRUjNZOVZvTmhFNmlqc2tQTFHSAXtBVV95cUxQRjVhN0lSdEVBVUt3SmF6RUIwdU1uMzhGb3lNa1ZzT0N3SHhkUk0xVkRJT0xKd0t4ZGF2c1M2WjZUdlNzd0pBem91YkNsaGpYQjNxcVktOEt6cmpCbUtsY2tLOEJrQXc0dndjZ2FXRmtvYUIwMjYxT0gydWM?oc=5",
+      "snippet": "Hackers Leak Customer Data Linked to Visa, Mastercard and JPMorgan After Third-Party Cyberattacks CyberSecurityNews",
+      "publishedAt": "2026-11-21T08:27:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CERT-In Flags Cyberattacks on Payment Providers, Warns of AI-Driven Threats - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mNnZTRzFvd29vb0drZjFtWGZwOWZoWlVEOGp0TnJxMXVJaXplQV8wYlQtYnpldTJkUkl4RXFnblNxeVJnNmlNOXJxUUZnWnNDazUtRmpzWS1wSC1fQTVCbGlNdw?oc=5",
+      "snippet": "CERT-In Flags Cyberattacks on Payment Providers, Warns of AI-Driven Threats The 420.in",
+      "publishedAt": "2026-11-21T04:40:43.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "2027 Cybersecurity Outlook: AI Will Transform Security Operations, but Visibility and Control Remain Critical - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOEVlLWZYODcyVUprQzJWWEZDSnlQcUdFNDFuWFNhb3BUNGtPWWcyclpxYWtVZmx0V1o2UEdpSUp0amEyWkxleWR6M29YZW9uRGdQYVo1ZVI0cjl0aDJLQTFfQ0lzSTlUcl81ME9TNGJvbHE4NmtDQ1VwQ2FuS1hoMHZkWjliMGk4aDd3aGllc1dpS2VUYzJQUHI2alFaMU1DUkFLRXRhNXZ0RndRb2JqV2VhTy0xQ1hnTlA2RERkVlJYRHU2MFZJcXdDTEZuOGdnSmlvd1BjTmx6M3hNMlc0eA?oc=5",
+      "snippet": "2027 Cybersecurity Outlook: AI Will Transform Security Operations, but Visibility and Control Remain Critical Cybersecurity Insiders",
+      "publishedAt": "2026-11-21T15:02:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan customer data leaked - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hSFpOWEZFRVpoSzlKdVVTV0g0TDNoYk9HQmVBTmZpM2Nma0JWMGZaMF83QXI2Q1VSbzZxX3VzUDJPVXNSR0NhbjJSaV9jOU14emtZMFB0UGZfU2s1QzlfRTVoTGM4MUZfN2FpNjFpaUZkMzlzOVk2aHcyYk0tS0nSAYQBQVVfeXFMTk1MWG92YUZfazJEekRhU1lyTFNieVhJenNaSXZjTm5EVXpGWThvNWRqbnVyXzB6VUhSNG1zbFpfMlh2YVJCdldValJSNnRZNnFsdURpYUpTSno0eEY5ajJUWWxnUkhKaXUySDdzbXBBOTU3RU4wNWxka1F4aEw5bGZFcmJh?oc=5",
+      "snippet": "Visa, Mastercard and JPMorgan customer data leaked Fox News",
+      "publishedAt": "2026-11-21T11:30:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indonesia's Financial Sector Hit by 1.2 Million Cyberattack Attempts in 24 Hours - var india",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmpncGRoYWoxZHIzY0ZuZURHVW43Q3lyRm5oYlJGbHZWTVM3Mm80ZGlhOUhEbmM4QUg2cnFYS01hWm9lQm1WSXcwdk9sUTZoOWVpRkFxbFZDNjNpcVYxaDk0ejRQajlSWVdfREFrS2hBa3dtdDd4SmZQUEFXUEI2Yll6aEJOcFZlWWdzeXdzeWFfSEZUYXF4cWx4R3pjQmtjaXE0REV2Um80TWoza0Yw?oc=5",
+      "snippet": "Indonesia's Financial Sector Hit by 1.2 Million Cyberattack Attempts in 24 Hours var india",
+      "publishedAt": "2026-11-21T10:31:57.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Lighter and Aster API Key Leaks, Gemini 4 Argon Agents Target Epoch AI, and Other Cybersecurity News - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlNCZm00M1YydjBKWTJfV0N4LU5hVzZqdW5SMWFGdnRXVFY2SGJCMml5cDA0SHJKTFNmNzRMeDVEbVcxNW05aENIOFQxSzNnVlhnY05BbTRQdERRWG4xekhJTjNOalpqWEpZVXZhcnZDZVp0VUxyS2tjU3NfeUtxbWdOdGJRVmRYejhNWjYwS25zZXdBM1Fma05YZXp6akdETG4yOWItZUhGR2Zqb2xadFEtLVlWcDJaMUJHVnV6MA?oc=5",
+      "snippet": "Lighter and Aster API Key Leaks, Gemini 4 Argon Agents Target Epoch AI, and Other Cybersecurity News ForkLog",
+      "publishedAt": "2026-11-21T04:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Cybersecurity Drives Digital Innovation and Trust in 2026 - OneBullEx",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkpFMi1Cc3hMVU5JaUdMMnF5UE9FeXlsckoyQWJwbUhnY1BVc2lPdF9qUmVvQmh6d2lNM0Z6ZURfRURmRk5vZ3BkdUU2dEhYeTBWYmlrbElYUkt2TUJuaUt2QlhQMkJlcG13eF9RY21GNWlkMHphUVJPREdWaEFtbDFR?oc=5",

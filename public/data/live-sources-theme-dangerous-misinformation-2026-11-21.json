@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:30:27.005Z",
+  "generatedAt": "2026-11-21T19:35:55.753Z",
   "snapshot": true,
   "date": "2026-11-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 27
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 25
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "#FactCheck:False Claims of Israeli Attack on Indian Embassy Official and MEA Summoning Israeli Ambassador Circulate Alongside Misleading Video - Cyber Peace",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQzlnUzZidThVMUZVNUhIdlpiOHUyWmEzWEV1bWFuekJobTF2YVBIZlNNVEVIbU5VTWFURmRpOEpqcWw5R3VuSkVBNkduYVVnaXlGX0RFWW5iSTl0V2JkTVZQMmZPeVZVbTNhYTdIU1JPcll2X0JiWlRURC1aVUw5WGY0R1VqTUU2RDExR1NfYVdqMVJiU2t5bU5YWThGM3R1YnFWU2lIOWk3Tm1QTnhRZktYSGd4aUZScE5UZkNfWUM4MlhLX3pyQkcwLTF0Sl9hMVF6YUd2YWk4NXFVcGZwYWFja1JfaTNCa0NFZVNoaG1idExiX0pRbzFuWFY2OU8wOWtONnM1OHVfcWhU?oc=5",
+      "snippet": "#FactCheck:False Claims of Israeli Attack on Indian Embassy Official and MEA Summoning Israeli Ambassador Circulate Alongside Misleading Video Cyber Peace",
+      "publishedAt": "2026-11-21T10:16:43.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Bust Fake News with Bangalore Mirror: Debunked: Viral claim about new cheque book rules from January 202 - Bangalore Mirror",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTC04bjBqdVVaS3BEcUJQb19KRHF6UlRNZ3RCTnJ4anFGU3Q3T0k5b1ZieEVhVVgxODE1bVR6R3ZFTjRDby1UMWc3cmtQdmV0TldoLWdzckZ1NjVxR0tQYUdmSnRsZnlFMEtQNHc1dV81emRMLUJIQlBTaF9mUEVVdjkzT3gzaU1keUdFQlhPRVdKWWxrdWNQZ3kxN0NCb19lVjVKYy1mcUM2RlVsRU9icUd6aFdzbU4xSnp0bHZycURKY2w5UjR0VHNFbG5tTTJkTWlqS1pJQmY5SUFHUnU1WXZkNk1Ec1dLUjZiYWdLMVpYLXlmTlBORU9UU1VQSmxjQ21mTWJGZTNYR2t0enVhQ0NLONIBmAJBVV95cUxOYkg1VV9NTnBHcnBQdFloYk44XzIxcUdTbFJRT2VmRk1na2paeWVfNzY2ZEZhOTJkcHVNT3hNV1pTdGZQT255X3NDYVpGNmtnNFRPeWg5c243MjZRXzg3TWFMYk95OVlRdUg4SXNQNzF3bUdUWXFRQUtCRmdNU0RMSG5KTEpsaDhPMHltVUNYRmZ6V0c0dm9yRzQ2LWxreVZjZUp4SjYzZnd1SWFUaWFlZjNCelRSbExBN2NrNmNnS3JncjZtbzRsZGIzZlhlM3hMczVkcEQ2RnFORGJocF82aDVxb3BDNE52UXp4cm1WOExjbUhxVm1DbTI4Um1XZFRndE5MWWE3YWJfRFJ5aW5IMkVSeHloZ01l?oc=5",
       "snippet": "Bust Fake News with Bangalore Mirror: Debunked: Viral claim about new cheque book rules from January 202 Bangalore Mirror",
@@ -197,6 +212,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Iran claims it shot down American F-16 fighter jet, US brings out a fact-check - India TV News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUZqVWZlbFNLYm9iTk92NVFUaU5jdkU0bGNkNFZkMTR3aGNOLUc1eGxOVHpZZl9sOUV4X0RMX0JvNEU1YTk2RDNGbUVrN1ZaS1RyZXl5eXA5LUdBS19aQjk2VGdHLXk0alBZVUJDcTEybzVYYU5fa3Y5UTk2c3dxbjRvdG1oLUJOVjQzOFY0RmRrUnNTZG4zSmthbC1XSm1EV0c2Uy16aVNPV1VPcU5KS2ZUQkEzang0bGFFaG05QlVkYUJsRmdoZEU5YkdWWGQ20gHWAUFVX3lxTFA4bFMzaDdXT1EwZXlFZzRSRUJrU1VqalJxeWVoM1Q4TEVnbGZFdV9kSWZiVHNfYlhfVzV2ZG1UUjF6V3ZjSVNaWmVqZlppQWN6Z282Q2x4YkEyQmdma0VQdVJhSWlVd0hVWE0tV2Mzc1JLUHRkdTlkSkpXUFFkQ0U1bUh4YmRjVkZaYjl5eUJUVEJ1TzAwdWM4VGpWOXNMQTlmMjNwUGo3Nk02RmszcmtDbnRlbkxnZV9nVnhDdDVCS29kY0JiOVk2cXkxTjUyNHJDV2d6UVE?oc=5",
+      "snippet": "Iran claims it shot down American F-16 fighter jet, US brings out a fact-check India TV News",
+      "publishedAt": "2026-11-21T18:10:05.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Iran Claimed It Damaged US F-16 Fighter Jet, Then Came A Fact-Check - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnR1bmh3elBndnVYcGFqRmRFTkhLak8teDQzWWF4Zk5ycGNtQUFFSUVHR0ZyX3pCd1d6U2pxSWd4eldiVWo0N2NXQktIR0JvWWxkVVFxbWFRR28xNmp5blRWeXIxX0l6NWdEbHJWVUloMm5oVjhicm9oUWNhbGUzdlR6N3pBRUlJdERQdC1nWXVFRXBTbzRuMGdvTXY5VHlQbHhpLWtwUko2YUNkd21qZE80QXdwQXph0gHAAUFVX3lxTE5BWDhzZEJnVXNwM1hlTUpSd1BfM1I4YWpQWEgzS2Jhb0lsbmttZW1mTmR1QzBMNm9NcWRONzAtWmxUT0ZyY0NjRFM0UHlPY2tXT0hIRVl3RzlYSXE3dEwyREk5c0NYRDN6b2xTMlhYUzVDT3BfVmVSbk96aEozWkRXLWMxcVlySV8tUEQzVk1LSEtodHRJb0lUeFdUMF9xRDBiOEVZV2U2XzJmRVNLSUJFcmdOOFRfUEtHdkJTckx5bg?oc=5",
+      "snippet": "Iran Claimed It Damaged US F-16 Fighter Jet, Then Came A Fact-Check NDTV",
+      "publishedAt": "2026-11-21T15:03:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact check: Former Nvidia CEO Jensen Huang is not launching a new semiconductor startup | Hindustan Times - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWx2OXFNeEJKdGxMUWk1bzlXbXRTM2xxZmYwbi1CaXB6ZWRTU2lJTmtYVnVDMEwzc2RBTDVnT3B6UXFOU01IWUR2TjFvblBfODc3cllqR0ZkcG5SSExtQTIzUDhqZWRpdHI4ZVdkd0tqV3ozQnVjc01TQWlhTVZ4aG5ZVXAxQTBXZnBDQXl5cXZ1VUxNT01jZ3JhZm5Ib09rS0p3blpVZFNXX1A2aVQ3RUM4d1dHdTc3bHc1azgxV2xpX1VfMDg2Umk4a0E0djJvQVNueGhudzZKTDJuWVFMRk9TTzlXaHYzb1ZEVkV30gHzAUFVX3lxTE93X1BCODVvbF85bEhBYXEtdktKWDYzODZFcjN5Qjlic1RYbDNPTTJiZ2syME5NNDJhU01hWVBqSWhJbzBHOGFSM1Zya240bzIzQWtSWFQxdURmRFlpNlFHRUZrbGtCVDJZR3ZWRFdQb2tlYlE3MU1VcnNaRTBmMzgxT2FjRlBVRktnSmYwcXJqMENCdHlRYVZDZ193aW1RUUxKV2g2cjdTWkF0UEZQbW5tamx2REt4WW5LSVBzTzI5UVNGZE9PNm1WZUFhUTFnV0lXNVdFOWZSbXFDWVFCOHdsaUpWNFNFMXBDXzFmRkZmbTFVUQ?oc=5",
       "snippet": "Fact check: Former Nvidia CEO Jensen Huang is not launching a new semiconductor startup | Hindustan Times Hindustan Times",
@@ -207,6 +252,21 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU Turns to Don Jazzy, Yemi Alade, Others in Music Campaign to Combat Disinformation, Rebuild Trust in Nigeria - SundiataPost",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkJYcWRYLUgyN0RPWVpBYjFMSmxQX3FWZXZGcjhIOFotZzNKWTFDc2c2X2Nta1pkQkd4MHM4LXkyVThCLWZid0Y0SjBfRlh0LVYwR1ZWV3ZDNlBmdDhBSHBqQzB2Rm9PVHRxNlhLLVd0SkxpWEJZZGVkZ29XQmJyWkFfUmRZYTdsN0V5SDd4dFROVVVIaWdHbkk3bmZYeWRpX3Q1dWRoejRNMEtKdHNmRkVNNW4xMVd3YlA0YjZEZk4zanhKcldPbGRiQmlHZw?oc=5",
+      "snippet": "EU Turns to Don Jazzy, Yemi Alade, Others in Music Campaign to Combat Disinformation, Rebuild Trust in Nigeria SundiataPost",
+      "publishedAt": "2026-11-21T07:26:41.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

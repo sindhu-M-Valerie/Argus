@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:30:27.005Z",
+  "generatedAt": "2026-11-21T19:35:55.753Z",
   "snapshot": true,
   "date": "2026-11-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 19
+    "total": 39
   },
   "message": null,
   "sourceStatus": [
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 27
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 25
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "India, France Condemn Pahalgam and Red Fort Terror Attacks at Counter-Terrorism Meeting in Delhi - Republic World",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZk5XYWxDWmVqVzdoNGJPQXdEMy00ZUVzMDVwQmFkeFVOZlhqb1l5SnYyRGlGU3hrbzdwQy1la3NmZk9ONl9vVWljUHJ6dWRlQ0N2RDZuWDRweDJ1cmZIMGtFM2Z3YTI0ZVJxblFmd05FdlktOXVJZVZaWTdHUDRwbHo5dmlTeXhvalU1cC1EMGtIZkJ0T1lHajRxWUdDaWlDSTVNaGtxVzZ1aWxIQ2hOOVN1Wk5fR04zREZ3SFluNUV6ckIzdDRmVFhQUVFyUXdPQlJoR0ttcVBRLVRQY1hJalhaU2dHQU1aRFHSAe8BQVVfeXFMTnZ5YndVUW11d1RpX2Rtbjd5dExlT2tkR2Yyd21qcUZHVnNwYU52SWVyRjZQN3pMSHlFZDVOLUQ5UlpBNU1WcXJkYkpsM0MyczdrTkVHRXlFa043VmZDa2hOaTJiYnE3dzlLOFlYSm0zWkZVVG4tWlE2Y2Q0alFFUUpmcE1OamFCaHN3MmlkdUpRaXRNRm45R3M1RkdZOVFNQU5HX3FZWHhZZ0FZeVRkdWtUQldzcERIeVRXd1lpU1VZOVF0NE9wem5SVVoyYl84QnFXU1llbzVwazRVRWtGX1hKSTE4bG5RdXpnbDNITnM?oc=5",
+      "snippet": "India, France Condemn Pahalgam and Red Fort Terror Attacks at Counter-Terrorism Meeting in Delhi Republic World",
+      "publishedAt": "2026-11-21T02:18:25.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "India, France condemn Pahalgam and Red Fort terror attacks at counter-terrorism meeting in Delhi - ANI News",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbWw0cUFZaGo3TmtvUUc4cTJaSXpTQU0yMmlhaTdPVEtZeFlFdjRDRkhKdEtnSzhCUkJRSFB5djg2eW14c1ZRRll0ZDA1c3VQS3pWWmpzQUhWRVhqLVVZVjN2OW0ySjBxSFlPNlZLdE0yNUJoSFZjSzM4ZG9pb09NR0JoRVdSS0lVb0Vtem5CZTMwNEpZRVg0d1RaUldQb0c1STViLXBkTG9TblZKdEpHWUNQNnlDdW5Kbm82a2RTak45dGhqam5WclJpWl9UN1Iwd0ROaVFWYVljellkeW1lOW5B?oc=5",
       "snippet": "India, France condemn Pahalgam and Red Fort terror attacks at counter-terrorism meeting in Delhi ANI News",
@@ -192,6 +207,66 @@
       "provenance": "live-feed",
       "feedTheme": "tvec",
       "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Greenville Man Arrested on Child Sexual Abuse Material Charges - WIBC 93.1 FM",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNkFHZDNtak5OTldlUHBXd2ZYc29FdGpCaVVjdXYxUVFCVW9vdzhjWWtrd1FnbWhtTXVpTnRWendZMG1Td0lGTWc4NGo1amtLdHVnQmM1RmJPcWpTdVRkVi00WS1QbkhILTZlb0E0MXdnQ2xCMzd4MWUwWFRXTGw4eWw3RGxLa1l3WlgwVjM5dU8?oc=5",
+      "snippet": "Greenville Man Arrested on Child Sexual Abuse Material Charges WIBC 93.1 FM",
+      "publishedAt": "2026-11-21T15:32:50.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike - DailyVoice.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUlqc1N5RjlHaFFCa19vTk9ZR19jNUs5TnlYSy02NmlROVByaXJGZ0k2S256cGlTYk14eU9COGUyeVJjMDZNaThldDdNTDQydmxVWUk0VWY2TUloS0R5LTd4NHNVMTZVel9OWUtXdHp1cXBsX09vM0ZZY3ZQTmxCSHNQdWYyV1dubmtxNndlekZaT1FmdkpCVUdsckxNWEpo?oc=5",
+      "snippet": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike DailyVoice.com",
+      "publishedAt": "2026-11-21T07:27:44.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "#FactCheck:False Claims of Israeli Attack on Indian Embassy Official and MEA Summoning Israeli Ambassador Circulate Alongside Misleading Video - Cyber Peace",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQzlnUzZidThVMUZVNUhIdlpiOHUyWmEzWEV1bWFuekJobTF2YVBIZlNNVEVIbU5VTWFURmRpOEpqcWw5R3VuSkVBNkduYVVnaXlGX0RFWW5iSTl0V2JkTVZQMmZPeVZVbTNhYTdIU1JPcll2X0JiWlRURC1aVUw5WGY0R1VqTUU2RDExR1NfYVdqMVJiU2t5bU5YWThGM3R1YnFWU2lIOWk3Tm1QTnhRZktYSGd4aUZScE5UZkNfWUM4MlhLX3pyQkcwLTF0Sl9hMVF6YUd2YWk4NXFVcGZwYWFja1JfaTNCa0NFZVNoaG1idExiX0pRbzFuWFY2OU8wOWtONnM1OHVfcWhU?oc=5",
+      "snippet": "#FactCheck:False Claims of Israeli Attack on Indian Embassy Official and MEA Summoning Israeli Ambassador Circulate Alongside Misleading Video Cyber Peace",
+      "publishedAt": "2026-11-21T10:16:43.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Leak Customer Data Linked to Visa, Mastercard and JPMorgan After Third-Party Cyberattacks - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMDRhMTRXWGZxQ3V6M1QyV19jWmk1REJpM0w3dzNVMXdLSUZ4bzAwa2RKTHNQWTVsWjkyVFdmazdxUUU3RWswYi1jZ2E3bGx5NFV1NGdzWl80NkpmWkxlT1ZZcjJRUjNZOVZvTmhFNmlqc2tQTFHSAXtBVV95cUxQRjVhN0lSdEVBVUt3SmF6RUIwdU1uMzhGb3lNa1ZzT0N3SHhkUk0xVkRJT0xKd0t4ZGF2c1M2WjZUdlNzd0pBem91YkNsaGpYQjNxcVktOEt6cmpCbUtsY2tLOEJrQXc0dndjZ2FXRmtvYUIwMjYxT0gydWM?oc=5",
+      "snippet": "Hackers Leak Customer Data Linked to Visa, Mastercard and JPMorgan After Third-Party Cyberattacks CyberSecurityNews",
+      "publishedAt": "2026-11-21T08:27:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -257,6 +332,51 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Iran claims it shot down American F-16 fighter jet, US brings out a fact-check - India TV News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUZqVWZlbFNLYm9iTk92NVFUaU5jdkU0bGNkNFZkMTR3aGNOLUc1eGxOVHpZZl9sOUV4X0RMX0JvNEU1YTk2RDNGbUVrN1ZaS1RyZXl5eXA5LUdBS19aQjk2VGdHLXk0alBZVUJDcTEybzVYYU5fa3Y5UTk2c3dxbjRvdG1oLUJOVjQzOFY0RmRrUnNTZG4zSmthbC1XSm1EV0c2Uy16aVNPV1VPcU5KS2ZUQkEzang0bGFFaG05QlVkYUJsRmdoZEU5YkdWWGQ20gHWAUFVX3lxTFA4bFMzaDdXT1EwZXlFZzRSRUJrU1VqalJxeWVoM1Q4TEVnbGZFdV9kSWZiVHNfYlhfVzV2ZG1UUjF6V3ZjSVNaWmVqZlppQWN6Z282Q2x4YkEyQmdma0VQdVJhSWlVd0hVWE0tV2Mzc1JLUHRkdTlkSkpXUFFkQ0U1bUh4YmRjVkZaYjl5eUJUVEJ1TzAwdWM4VGpWOXNMQTlmMjNwUGo3Nk02RmszcmtDbnRlbkxnZV9nVnhDdDVCS29kY0JiOVk2cXkxTjUyNHJDV2d6UVE?oc=5",
+      "snippet": "Iran claims it shot down American F-16 fighter jet, US brings out a fact-check India TV News",
+      "publishedAt": "2026-11-21T18:10:05.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New laws to protect children from online sexual abuse - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamRiM0ROU1JlQjB3Mmt5NURJbmstR3QxUnZkRWdPTlZPckhfdFNqSFJub1d2YkNwWG1QdHJFZ2tQeE5mZ0ZrcG1JcUNWRExmNVZDX2E0WTFvR2VHODJ5Z3BSMEQ4bnVUelZJcGNpM2h5TUwwczI2UnJGUzEzWEJfLWVQanhOTXF3al9CUWVpdmJkc1NJNzFBUnFmYWkzajQ1cWk1Z09Qc3lYbUxTVnBBT1dNUk4zUlHSAbwBQVVfeXFMTVNEUEdqci0zTHZvaVFXWVJPTUFsaDNzZEI3OU9NV2w5R1V3cjhCQXhrcUZnTzJNZHgwams5M0ZmR3NFNjE3REhFSUowQll1azNkdER3Y0xweTRZdUVNdjViUmxZbnRyUVVjTmtLaVJpZGMxR3FaOWkwYmdQWFRrSGRuLXlKdUxzMnZSeWRWcEh5NkJJRVctdUhtNVktVWpjTFdubm5XVHFPeDFLdVI0b09VUjJ6cUdUdHp3S3c?oc=5",
+      "snippet": "New laws to protect children from online sexual abuse The Manila Times",
+      "publishedAt": "2026-11-21T16:05:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Iran Claimed It Damaged US F-16 Fighter Jet, Then Came A Fact-Check - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnR1bmh3elBndnVYcGFqRmRFTkhLak8teDQzWWF4Zk5ycGNtQUFFSUVHR0ZyX3pCd1d6U2pxSWd4eldiVWo0N2NXQktIR0JvWWxkVVFxbWFRR28xNmp5blRWeXIxX0l6NWdEbHJWVUloMm5oVjhicm9oUWNhbGUzdlR6N3pBRUlJdERQdC1nWXVFRXBTbzRuMGdvTXY5VHlQbHhpLWtwUko2YUNkd21qZE80QXdwQXph0gHAAUFVX3lxTE5BWDhzZEJnVXNwM1hlTUpSd1BfM1I4YWpQWEgzS2Jhb0lsbmttZW1mTmR1QzBMNm9NcWRONzAtWmxUT0ZyY0NjRFM0UHlPY2tXT0hIRVl3RzlYSXE3dEwyREk5c0NYRDN6b2xTMlhYUzVDT3BfVmVSbk96aEozWkRXLWMxcVlySV8tUEQzVk1LSEtodHRJb0lUeFdUMF9xRDBiOEVZV2U2XzJmRVNLSUJFcmdOOFRfUEtHdkJTckx5bg?oc=5",
+      "snippet": "Iran Claimed It Damaged US F-16 Fighter Jet, Then Came A Fact-Check NDTV",
+      "publishedAt": "2026-11-21T15:03:31.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Johnson City man charged with sexual exploitation of a minor - WCYB",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVI5U2hqc291Y1VqbEJBc3M5TWRDcWlpTTNfMDYtSWhfSEsyOWwtaHcxTVZURHRWeG0teVIwa3NEb1ltbVFxR3Y5ZXVlaXBZOTV6MTMzZ2JPMFF2cEwtVDdKdXN6UmlwODczV2s2ZnhQdXFRa2UtLWhvWFRXREpHb3NYQ0wzd3lBNWRPZ0JuWG1PRUljMnRMU3R4WXBmV3JD?oc=5",
       "snippet": "Johnson City man charged with sexual exploitation of a minor WCYB",
@@ -313,6 +433,51 @@
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi Police Arrest 24-Year-Old In Pan-India Cyber Fraud Network Supplying Mule Accounts - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnVZeFRUM2U1SkI1LXJUR0FWamVzUlVHZkJ3RjJoYlgzU0tRekFYN08wQWVZdjlwN2NTNGI0ZUU1Vy1mRnUxMkcxY1V3OXVSR2oxZVhqaGN3UF8yZlVhcVZiN243c0VYSjNTQVIwQm9lQlA5RGhTMlVHbnVSbTFVVVhzeW92ejhYNXJ0LWxKZUJqVUFJaUxZZlVmXzFseUp3U3NqLTAwRU1GSEk?oc=5",
+      "snippet": "Delhi Police Arrest 24-Year-Old In Pan-India Cyber Fraud Network Supplying Mule Accounts The 420.in",
+      "publishedAt": "2026-11-21T18:10:16.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU Turns to Don Jazzy, Yemi Alade, Others in Music Campaign to Combat Disinformation, Rebuild Trust in Nigeria - SundiataPost",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkJYcWRYLUgyN0RPWVpBYjFMSmxQX3FWZXZGcjhIOFotZzNKWTFDc2c2X2Nta1pkQkd4MHM4LXkyVThCLWZid0Y0SjBfRlh0LVYwR1ZWV3ZDNlBmdDhBSHBqQzB2Rm9PVHRxNlhLLVd0SkxpWEJZZGVkZ29XQmJyWkFfUmRZYTdsN0V5SDd4dFROVVVIaWdHbkk3bmZYeWRpX3Q1dWRoejRNMEtKdHNmRkVNNW4xMVd3YlA0YjZEZk4zanhKcldPbGRiQmlHZw?oc=5",
+      "snippet": "EU Turns to Don Jazzy, Yemi Alade, Others in Music Campaign to Combat Disinformation, Rebuild Trust in Nigeria SundiataPost",
+      "publishedAt": "2026-11-21T07:26:41.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CERT-In Flags Cyberattacks on Payment Providers, Warns of AI-Driven Threats - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mNnZTRzFvd29vb0drZjFtWGZwOWZoWlVEOGp0TnJxMXVJaXplQV8wYlQtYnpldTJkUkl4RXFnblNxeVJnNmlNOXJxUUZnWnNDazUtRmpzWS1wSC1fQTVCbGlNdw?oc=5",
+      "snippet": "CERT-In Flags Cyberattacks on Payment Providers, Warns of AI-Driven Threats The 420.in",
+      "publishedAt": "2026-11-21T04:40:43.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -377,6 +542,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Phishing tops reported cyber incidents among APAC businesses surveyed by Kaspersky - varindia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEhNVFVTS21ZV2U3RHljVnpTQUNiYkZJUDhTa09xY1ZmQTUydEhwSFBISW5qN2E0LU1WZ1pDNktYb0xMdkJQVVdzQTd1djg4TTBXYUdDRDhEMVZ5M0cycTZ0RktDUmc3cDdmWEVBdDdEQWtJcld1WHVGNVlsMksxVXdlSFdEWF8zTVg5ZWJkMDgzOWdUVk9RMEhMS3NPOFc5RzJxSFhnVHItN1M4UzNPamlR?oc=5",
+      "snippet": "Phishing tops reported cyber incidents among APAC businesses surveyed by Kaspersky varindia",
+      "publishedAt": "2026-11-21T11:07:03.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVi1jSm9zeFRKUWpEZmxSU2JBTVp6MkVxRDU3SzFVY1FKMG9WS18tbjUxX1pMNFVobmVIVENoTG5tNHExdnk1dGYxb1JZSnhhSFBvMXJJOWE4Ry0tYVM1SzlCUzlWMFdqQXV0TExBS3pkODEwaWtCU1pEemdtRFVSVW00bXNCZVdRN0lwTFk3SzhUTVJZb3k0UjFJc1ZFa3hMSDROUE9MSUY1VWlK0gGzAUFVX3lxTE1IcDN3UFk3ZTY1ZE0yWjBtM25hb0x2Sm9OU3hvN3dINlFaLVlPNHhoWVBCZ0cxSThuQko1aVpEaW85RGp5NEJ4VUpQU0pOdFJ3eGp2MmhDMXZvNHJwb0lXUHMwamZQcUtXYzhfbXY0UU9UQjlxTzZQbnludFhVS3RLcmxEN0VLalVrOFVPeVF0QzRTVXg2Q1F3c2x3c01NQzJPOFRXLWhUR0dZdEswazBvS0RB?oc=5",
+      "snippet": "Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams The Indian Express",
+      "publishedAt": "2026-11-21T09:18:21.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Jamtara Police Bust UPI Cashback Scam, Four Arrested - The 420.in",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqMW9PZENNRXp5cVVOYUJIcERDaDE5U3AzR2x1bG5MMlkwVEFDRWhEUnd0QjZmUVVWN2FQMHJBWFdCR1Z4dFhmNmxfTUxXR2hQUlVjWWpINkVucTZIOUhMV1d2QQ?oc=5",
       "snippet": "Jamtara Police Bust UPI Cashback Scam, Four Arrested The 420.in",
@@ -407,6 +602,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Fake Tahmeed Bus Booking Website Exposed as Christmas Travel Rush Fuels Online Fraud Fears - Livenow Africa",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbW9kbXlRUWN4QkI1QVJ6NjhxVWpmZWFTQS1YN3N0cldHQ2tkSEhNLUtEcGJWb2VIZDRXZWs0NE1aVlpxb2JUdWYwN3BXd1FWQWhIMERVUlVkV0lWQWxVLXhXOFJseWxZMEU3OEFHS1g5V3QxcUVDcnJ2RUE2d2RkQ2o2b3N2LUZ5U3o2dENITXBfUWpOVkxhZWpGbHVaUTlIZFJOZ0pTd0ZJcHlkekNTbzJoX1JNVHQzaEJ3Q1lEcVFDcDhrOGpEVG9heHVMVl9xQi04?oc=5",
+      "snippet": "Fake Tahmeed Bus Booking Website Exposed as Christmas Travel Rush Fuels Online Fraud Fears Livenow Africa",
+      "publishedAt": "2026-11-20T22:27:25.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Chinese recruiter for Pogo scam hub gets life sentence - Inquirer.net",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHBvX0c0bEZZVEIyX3VfQ3M5MUZSYWRKOXRYQUF5YVVGSmhYcW42RmJvWDEyOE90elZBVVJYRkx6TVM5V2o1cnRtQzBMZ2ZsZlRlbDZEbHZ3My1SUVNoekJzdklUUnVNMElxM1lDVmtDUG1vSnptbkxLdm5xdXM0THlscmNwckZQZkwxV1NqeDBZOGJjeFdOTDlNQdIBoAFBVV95cUxPQUpucHJRUEs3NzRQWTNHY2NNZ3RCbEstVEJUMlVLdW5hd2wyVmJ3eVk2V0dPV3hVcklwS0hqdnBYQXFLb3pBMFJGZmJPVll6NnJGM1pQUE1VMVhRa3dHOFRha081REN6UnI4bGZheDRjQVllelJ3bTRzdncyRjk5YzlFVkFNX09yOHRUdzlJenRoOUdQQ0NVS1ZNdTYyblph?oc=5",
       "snippet": "Chinese recruiter for Pogo scam hub gets life sentence Inquirer.net",
@@ -416,6 +626,36 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEC Charges Eight Firms in $37M Crypto Scam Using Fake Trading Platforms - Bitcoinist.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenpQdjVwSkFrM3U3UGMtQTZTckFUUEVHcURFSnhCSWtFMFVpTk1tdW5HcGhsYWlJTnNRek03ZlZHTG5pU05fQkpsdGVYbkpRcXpCcTFLTzlGVEpRd1hQX0l2SXJZM3Bkc1JjRTFjMUlaZ0xhSlFjYmJLOTZHUDdtUDdtUGhlTU16R1BEVG0zYjAwWVdtSl80S2xsZ9IBoAFBVV95cUxOQ01ZZmt2TDVSa2xIdzFNLVhYNG9JOHctU2RiSXlPWFZqRW5Fa3dJUVhTWWo0Z1Z3UWs4SDFQdVFhVHktTFd1MkJiRS1RYWhEMjhnS2JnbGFOeGRTTUgwbTM2Zzk1REx5MjVna3BLRjBNdy1ZWWk4bjNwbnBIOVE2ZjFZRGZfaElMNEZKTXRvdDJQaTgxS1lpek9nN25tUUEt?oc=5",
+      "snippet": "SEC Charges Eight Firms in $37M Crypto Scam Using Fake Trading Platforms Bitcoinist.com",
+      "publishedAt": "2026-11-20T20:28:35.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "105 members of US Congress urge FBI to investigate Illinois Hindu Temple shooting plot as potential hate crime - First India",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFdJczAwUXBHNV9RUVRMQ0FnUHJxVndBRkttUlNpNnFQTi1TZjdIbDZLVnpIV3J3RHY0RHo3MndDVzZzbXVJV3ZFN2JKay1NSnZBYTJ3TTJZbXdrVTg2cHRSUnNmSFB5ZWhBV3hjNm1sd05ydjM2M0dySG0xTmR2QTlDdTd6RFREMzY4b3l2dHRISHVXeVBVZjFUYzQ4SUcyVmJtT2NJR25zZ0RsaktGV283RlpjVVlqanRLUkFpbFpKYVdRYTVRd3JhN1lPTk9lMmNrZGVldFpjTTdPYmxHV2NhZUI1UTRudF93?oc=5",
+      "snippet": "105 members of US Congress urge FBI to investigate Illinois Hindu Temple shooting plot as potential hate crime First India",
+      "publishedAt": "2026-11-20T20:24:56.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -447,6 +687,66 @@
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "2027 Cybersecurity Outlook: AI Will Transform Security Operations, but Visibility and Control Remain Critical - Cybersecurity Insiders",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOEVlLWZYODcyVUprQzJWWEZDSnlQcUdFNDFuWFNhb3BUNGtPWWcyclpxYWtVZmx0V1o2UEdpSUp0amEyWkxleWR6M29YZW9uRGdQYVo1ZVI0cjl0aDJLQTFfQ0lzSTlUcl81ME9TNGJvbHE4NmtDQ1VwQ2FuS1hoMHZkWjliMGk4aDd3aGllc1dpS2VUYzJQUHI2alFaMU1DUkFLRXRhNXZ0RndRb2JqV2VhTy0xQ1hnTlA2RERkVlJYRHU2MFZJcXdDTEZuOGdnSmlvd1BjTmx6M3hNMlc0eA?oc=5",
+      "snippet": "2027 Cybersecurity Outlook: AI Will Transform Security Operations, but Visibility and Control Remain Critical Cybersecurity Insiders",
+      "publishedAt": "2026-11-21T15:02:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan customer data leaked - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hSFpOWEZFRVpoSzlKdVVTV0g0TDNoYk9HQmVBTmZpM2Nma0JWMGZaMF83QXI2Q1VSbzZxX3VzUDJPVXNSR0NhbjJSaV9jOU14emtZMFB0UGZfU2s1QzlfRTVoTGM4MUZfN2FpNjFpaUZkMzlzOVk2aHcyYk0tS0nSAYQBQVVfeXFMTk1MWG92YUZfazJEekRhU1lyTFNieVhJenNaSXZjTm5EVXpGWThvNWRqbnVyXzB6VUhSNG1zbFpfMlh2YVJCdldValJSNnRZNnFsdURpYUpTSno0eEY5ajJUWWxnUkhKaXUySDdzbXBBOTU3RU4wNWxka1F4aEw5bGZFcmJh?oc=5",
+      "snippet": "Visa, Mastercard and JPMorgan customer data leaked Fox News",
+      "publishedAt": "2026-11-21T11:30:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indonesia's Financial Sector Hit by 1.2 Million Cyberattack Attempts in 24 Hours - var india",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmpncGRoYWoxZHIzY0ZuZURHVW43Q3lyRm5oYlJGbHZWTVM3Mm80ZGlhOUhEbmM4QUg2cnFYS01hWm9lQm1WSXcwdk9sUTZoOWVpRkFxbFZDNjNpcVYxaDk0ejRQajlSWVdfREFrS2hBa3dtdDd4SmZQUEFXUEI2Yll6aEJOcFZlWWdzeXdzeWFfSEZUYXF4cWx4R3pjQmtjaXE0REV2Um80TWoza0Yw?oc=5",
+      "snippet": "Indonesia's Financial Sector Hit by 1.2 Million Cyberattack Attempts in 24 Hours var india",
+      "publishedAt": "2026-11-21T10:31:57.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Lighter and Aster API Key Leaks, Gemini 4 Argon Agents Target Epoch AI, and Other Cybersecurity News - ForkLog",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlNCZm00M1YydjBKWTJfV0N4LU5hVzZqdW5SMWFGdnRXVFY2SGJCMml5cDA0SHJKTFNmNzRMeDVEbVcxNW05aENIOFQxSzNnVlhnY05BbTRQdERRWG4xekhJTjNOalpqWEpZVXZhcnZDZVp0VUxyS2tjU3NfeUtxbWdOdGJRVmRYejhNWjYwS25zZXdBM1Fma05YZXp6akdETG4yOWItZUhGR2Zqb2xadFEtLVlWcDJaMUJHVnV6MA?oc=5",
+      "snippet": "Lighter and Aster API Key Leaks, Gemini 4 Argon Agents Target Epoch AI, and Other Cybersecurity News ForkLog",
+      "publishedAt": "2026-11-21T04:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

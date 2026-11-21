@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:30:27.005Z",
+  "generatedAt": "2026-11-21T19:35:55.753Z",
   "snapshot": true,
   "date": "2026-11-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 27
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 40
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 48
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 21
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 30
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 25
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "India, France Condemn Pahalgam and Red Fort Terror Attacks at Counter-Terrorism Meeting in Delhi - Republic World",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZk5XYWxDWmVqVzdoNGJPQXdEMy00ZUVzMDVwQmFkeFVOZlhqb1l5SnYyRGlGU3hrbzdwQy1la3NmZk9ONl9vVWljUHJ6dWRlQ0N2RDZuWDRweDJ1cmZIMGtFM2Z3YTI0ZVJxblFmd05FdlktOXVJZVZaWTdHUDRwbHo5dmlTeXhvalU1cC1EMGtIZkJ0T1lHajRxWUdDaWlDSTVNaGtxVzZ1aWxIQ2hOOVN1Wk5fR04zREZ3SFluNUV6ckIzdDRmVFhQUVFyUXdPQlJoR0ttcVBRLVRQY1hJalhaU2dHQU1aRFHSAe8BQVVfeXFMTnZ5YndVUW11d1RpX2Rtbjd5dExlT2tkR2Yyd21qcUZHVnNwYU52SWVyRjZQN3pMSHlFZDVOLUQ5UlpBNU1WcXJkYkpsM0MyczdrTkVHRXlFa043VmZDa2hOaTJiYnE3dzlLOFlYSm0zWkZVVG4tWlE2Y2Q0alFFUUpmcE1OamFCaHN3MmlkdUpRaXRNRm45R3M1RkdZOVFNQU5HX3FZWHhZZ0FZeVRkdWtUQldzcERIeVRXd1lpU1VZOVF0NE9wem5SVVoyYl84QnFXU1llbzVwazRVRWtGX1hKSTE4bG5RdXpnbDNITnM?oc=5",
+      "snippet": "India, France Condemn Pahalgam and Red Fort Terror Attacks at Counter-Terrorism Meeting in Delhi Republic World",
+      "publishedAt": "2026-11-21T02:18:25.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "India, France condemn Pahalgam and Red Fort terror attacks at counter-terrorism meeting in Delhi - ANI News",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbWw0cUFZaGo3TmtvUUc4cTJaSXpTQU0yMmlhaTdPVEtZeFlFdjRDRkhKdEtnSzhCUkJRSFB5djg2eW14c1ZRRll0ZDA1c3VQS3pWWmpzQUhWRVhqLVVZVjN2OW0ySjBxSFlPNlZLdE0yNUJoSFZjSzM4ZG9pb09NR0JoRVdSS0lVb0Vtem5CZTMwNEpZRVg0d1RaUldQb0c1STViLXBkTG9TblZKdEpHWUNQNnlDdW5Kbm82a2RTak45dGhqam5WclJpWl9UN1Iwd0ROaVFWYVljellkeW1lOW5B?oc=5",
