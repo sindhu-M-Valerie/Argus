@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T07:12:03.481Z",
+  "generatedAt": "2026-11-22T19:53:37.850Z",
   "snapshot": true,
   "date": "2026-11-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 7
+    "total": 15
   },
   "message": null,
   "sourceStatus": [
@@ -23,49 +23,49 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 65
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 39
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 18
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 18
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 21
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
+      "snippet": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-11-22T11:22:02.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRkFBeGNibWhuZHlBdkF2ek12cTU0ajlNSDA0R1EyaS1ZdDhmc3FabG9YWkZGZGQ0V3Q3TGdlS0dDVi15NTF2TTY5SHJWZXQ0M05NODJDR1hLSGRpbUJ2Y0I0c0Vja3FVUFVxeFRUUVZDRjZr0gF6QVVfeXFMT25SSjgzdGtWUzUyUjl1S3RzdW1tSUpRWC1jVUlLdF9Fem5kYWNrUy1LdVlYYUpyd1lOLWNjNGhzZWxxUjVocnlGbzNobTVPZUxIdmxmYTB3RlkxUUFnd1FBc0IyTlZmZTRrNTVJU0hEdnpCU0l6eEVVYXc?oc=5",
       "snippet": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data CyberSecurityNews",
@@ -212,10 +227,100 @@
       "corroboratedBy": 1
     },
     {
+      "title": "TEMA And CSAI Seek National Database Of Indian Cybersecurity Products Amid AI Risks - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm9LMGtmUlZrRGN3QTNHTGlhRXdOYXRPRGw1T3BlSl9pb0xRQWM4ZlJZaU1zN2xRSE5GTi1QenRaSGNMN3ZZVWhxYUNGU2psaFVlS1RFVGlvZjUyWWt4X1EyT1NPaU05NnZBdEptdWZMQ0NVc1FsQXdiU2lVVFFBT056RE1pZjFjQk4yOVVyN0h5WmRxU0dnR3VWSGwwVkthWHhCOA?oc=5",
+      "snippet": "TEMA And CSAI Seek National Database Of Indian Cybersecurity Products Amid AI Risks The 420.in",
+      "publishedAt": "2026-11-22T17:41:06.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "From cargo delays to energy disruption: cyberattacks expose a weak link in US port security - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0h3SlRxMjJmUC1XUDlhNktjTmhkaFhlU1g4aEJRaFpiUlFBWHVNcms1TFNTOFdjcGVMR0JqR2xtRzNkbGw3M1UtNXR5Q0NxUHVsdU1qN1oyWV80OWQwLS04SWJ4MnA0NTRLel9mOENkVXNNbGc2dmlaWmdBWUY1NXM1eFU5VmJULUZhdy1jclotTzRsd01rVXB0dmtLeUlFQU1xbTFIalVvWDhMWWtIVHA2aDJqTE5OWUlRSUpvTWkwSVIwLWJkMVZNYw?oc=5",
+      "snippet": "From cargo delays to energy disruption: cyberattacks expose a weak link in US port security Business Upturn",
+      "publishedAt": "2026-11-22T14:47:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Travel Agencies Face Growing Cybersecurity Risks - Kenya Association of Travel Agents",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MdjBnNG9DR1Vsc2xCLTgxRmxLSExHdkYxeDNkaFktT04wQVQ1Zlk3dmQ4bG5vRjJPUkJNVVNWbVVhY0FOVHR4a3ktX2ZSNHEwS08xYlhMRGF1ZTlkeVE0Y3A1dzFtMDJLdmRzeHRfYXNDMjBzSHFfSGNyZw?oc=5",
+      "snippet": "Travel Agencies Face Growing Cybersecurity Risks Kenya Association of Travel Agents",
+      "publishedAt": "2026-11-22T14:01:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Himachal Pradesh Police Urges Citizens to Strengthen Digital Safety; Highlights Government Cybersecurity Platforms - HimbuMail",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pUUh1RXVaQnNRamptWjJxWkZmaHJaRWYtZUtlLWJzMGZRUkJLYjhNRk03YU5rT1dlNmd3YkZfTmZmRnlUQ1dGSHJJTEZsZU1UR2lyNm5aT1I1S256TzJGalJyOVVLWGZaY0IzSVZUMkNwVDNRNUE?oc=5",
+      "snippet": "Himachal Pradesh Police Urges Citizens to Strengthen Digital Safety; Highlights Government Cybersecurity Platforms HimbuMail",
+      "publishedAt": "2026-11-22T11:27:16.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity Incident Reporting in Uganda: 2026 Guide for Telecoms, ISPs, Platforms - Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGxrQlA1MG52VU5odDZaYU9GSWs0d1lXWm84SmNRZEtrOFhLWXN1STIzMmxiQ2EzRjJwNHRHdDFDTnJvblN0ZVl4UHhqYjBabEFNZHBqLVRBUVdlNDZ4ZWlMaTNoM0R0Y0ZTYTJMcTU0WEpWRkxtSEpYRVNWME1CN2h2WEV4OWNoVEhMUg?oc=5",
+      "snippet": "Cybersecurity Incident Reporting in Uganda: 2026 Guide for Telecoms, ISPs, Platforms Global Advisory Experts",
+      "publishedAt": "2026-11-22T08:17:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Equipping officials and employees of the City People's Committee Office with skills in preventing and handling cybersecurity incidents. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLXNvSEVRQ2dSR1VMbDBIWFI1ODRaa251ZXAwb3BRYUh1djRlbWNwWDA1dFVPZkYxNU5pdzZSZEg5WW5wZDB6Z2RsZkljOEg3bVNmSzVtX1ctbFVsUWZyRERTR1NRREx5YThrdDRsS0JIUnpOZGdVQkhEUnlISmdxNkJuVWszODFfN1FKVVVYUXk1N2lkS0dkV3lOU0NPd2hGX2dGTFRDSDZtMW5tN3lRUG5UR0NNYzBDVm4tOHRGZXAyQQ?oc=5",
       "snippet": "Equipping officials and employees of the City People's Committee Office with skills in preventing and handling cybersecurity incidents. Vietnam.vn",
       "publishedAt": "2026-11-22T06:32:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "JoyRide reports possible data breach - YugaTech",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkZmlCZGhCaU9INC1kb0dWTi1qbjJvWk1fNUJzSHpsa0t6RlhKd2pXT042NzNURVZIM0Y3WS0zRE1RYkNSLUk0TWFTd0o5bnNBQS1zOU5mUDJmSDY1b09zNFA1RVZybmN4N09IUTN2MHd5V1Z2RFE?oc=5",
+      "snippet": "JoyRide reports possible data breach YugaTech",
+      "publishedAt": "2026-11-22T05:46:13.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -246,6 +351,21 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FSkZiY0U5X011X1dTTUVQbG9WaFp5ZnhhX2ljNjdad0Jvall4LUNEZEk5Vk85LXNPMVByV0RXV1MxLWRJbk10QWstN2gxaGtKOG5xelpZU0xYZkFYZjl5WWd6MHA3RFBKSkZ6T0tXNWNBTDky?oc=5",
       "snippet": "Indonesia’s Banking Sector Faces 1.2 Million Cyberattack Attempts in Just 24 Hours The 420.in",
       "publishedAt": "2026-11-22T03:34:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cyberattacks Threaten Corporate Profits and Reputation Across Latin America - The Costa Rica News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZUM0Z1VKV1BSYl9TaURZVDg4N1EzMEVacGY4aHo2Qi1qSUtzVUNrMXhWdGlkM2JlOHl4ZGZfXzVXeU5VbXlDbUxlUUQ5Z05CR0NGRlFoRi1venl0cndDTU5SdW1zaDJsdU1lOVhvNS1qWmp5aExrM2ZmU1VrSHlWdjQ3V3UtVTNTSHBYZjl5ZV82YWNuOUJDUGZDS3JtRkNsbXdXYk1Jc0U?oc=5",
+      "snippet": "Cyberattacks Threaten Corporate Profits and Reputation Across Latin America The Costa Rica News",
+      "publishedAt": "2026-11-22T01:51:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
