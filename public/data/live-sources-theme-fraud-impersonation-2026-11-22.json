@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:35:55.753Z",
+  "generatedAt": "2026-11-22T07:12:03.481Z",
   "snapshot": true,
   "date": "2026-11-22",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 6
   },
-  "message": "No verified news was found for 2026-11-22 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,49 +51,49 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 77
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 79
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,96 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Fraud & Digital Identity News – KYC, Scams & Verification - FF News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSHZHdFRlTDRqTnJJU2VmdzB6ajAyWDRIWHJXcW1VSnNHZTV5ZkppOHEtQnpxMnNOdERlYl94cHdVM3FjT3J3b0U2UHMwTkotZHpj?oc=5",
+      "snippet": "Fraud & Digital Identity News – KYC, Scams & Verification FF News",
+      "publishedAt": "2026-11-22T05:28:56.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Public Warned From Being Duped By Fake Social Media Platforms Using Finance Minister’s Profile - BusinessToday Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQkFaSl9feTItX013TzZ5S09TUXNXcTdhYTJrNWptamYxNDgtTW91bF8ySmg2czhsTjZYN1NKQkgwb3Z4MlIyQ1l3RmtFX1gtQUVmcGozWUx2TUY1bU56NTJ5eExpcHpfUlBENWNTM3JCeHJoVkVmY2FBWXN2VzY2eTZwQUx5NG9yeVNMY2lsSHhVV0hrcVoya19TRGhhN1czbjBOUEdHeGxSalhReTlGR2xJb1ZyU19tUjM1dXNDRGN4aWlzWE84Y3ZINmhXMS1kTC1yZA?oc=5",
+      "snippet": "Public Warned From Being Duped By Fake Social Media Platforms Using Finance Minister’s Profile BusinessToday Malaysia",
+      "publishedAt": "2026-11-22T04:58:52.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "GNR warning for FIFA World Cup online scams - The Portugal News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWG1kS1BTNllZVVlFQTRyWWJfanBfcFE4YkUtd0JlR1FwUjRvSkg3R1BKSTRHejFndHJad01YNFF3U1FLUzRmY2k4S0wyaTNDaVNHNnZsbmx3aENpTFYxdGNhU292RmZXX2RvTzljNkdOTHdaRWJ6Qm8wSHlNUXZxNWZlQjhLYXlkdUl2UGZiWWtQa0Zxb3JQVU1ZVE1hWTZk?oc=5",
+      "snippet": "GNR warning for FIFA World Cup online scams The Portugal News",
+      "publishedAt": "2026-11-22T02:59:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Missouri attorney general warns of holiday shopping scams - KTTN",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGxLb00xVTJiZmJnR3VlNjdqSXVvOWtlQUVtazZvVjA4U1dVa0VNMFVGeUYxRVdNWC1vQTdMZ1VWV1lpRGxudi0xbzhhZVZEeU4wVGh6Z2Y3WU9DYVZycjBYTHd5aFJhVTRJbXdlaVRFekhXRlNxdGV0Ym4td2xDUWVtZ1ZVQQ?oc=5",
+      "snippet": "Missouri attorney general warns of holiday shopping scams KTTN",
+      "publishedAt": "2026-11-22T02:10:10.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "A Stranger Sends You a Photo of Your House and Demands Money — The Scam Behind the Threat - Newswav",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTEzTE5HalpidXc3c3pac0xQUFlPSGpnd0xuUVRPSXB5aDA1N3BGSG04OFBkNEpXcW5ETVdMWWdqVVVXMlVDSF94ZHZaZmJVNTdlWVIzQzQtdy10Vk55WkRuZ2ktaW9iZmh0QjQwQ1psZEZETEZLREx5N2FvSHNQZlJ0b1JCRXlCRkRhZEprXzJkeTdIMGdkYlBrNW42anpFSDdISU05b25BMVNsdDQyTHVmbW8tQ2M?oc=5",
+      "snippet": "A Stranger Sends You a Photo of Your House and Demands Money — The Scam Behind the Threat Newswav",
+      "publishedAt": "2026-11-22T00:38:06.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Craigslist Founder Reveals How to Protect Yourself From Online Fraud - Tekedia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZV9IMmIzNkFxUXdQeldrYjFIeDJOVUhrM0ktOGxVLUc1WGlLa0JiRmw2djVsSTEwZ0dvSTNlN1VjWnh4RjFxeUhqektqRndCVW1VSWREdEdKbGRYLTNvZFJYN0hmR3dYUlJGemFxa3J1Q0RxNFZkdVRzVE1EalRkelVZMVdRQThSQW5lMFpZanVSYVhCQ0dWTw?oc=5",
+      "snippet": "Craigslist Founder Reveals How to Protect Yourself From Online Fraud Tekedia",
+      "publishedAt": "2026-11-21T18:48:09.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

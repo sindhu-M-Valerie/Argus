@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:35:55.753Z",
+  "generatedAt": "2026-11-22T07:12:03.481Z",
   "snapshot": true,
   "date": "2026-11-21",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 65
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,49 +51,49 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 40
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 77
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
@@ -121,21 +121,21 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 20
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 79
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,36 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "“Laws Are Not Enough”: Remi Tinubu, CJN Raise Alarm Over Child Abuse and Online Exploitation as AGF Fagbemi Calls for Coordinated Action on Child Protection - BarristerNG.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLUJNcVltMklyODVDTnhVWHR1NGxXdVdqaVNjZjQ0a0I1Q3dIX0drTmhhT250QmtPanZoN05sU05keVUyUGVsd1lhY0wyeGIzMzRlaExHSWg0b2VJdW1hYVYtNTJzNWhqcGlKZG10eFhDZFNJbW9DY1I1d2psbWtQZHVIY2lUTmZVUHJvN2l6ajcybWtUd3dIcVVKNGdvQVZudWdmZGtwWkNiZjdocTVCaC1YNlY3TjRtdm9JWXlSZEpkaElEangwUE8xT3BoeGdvZ3QwbkM2T2RKbld3WW9udkUtdkVVVXlsX2xNV19mU1FwUkRoQmlXY0hKVkFEaXlLZ1hDTnhvN3o?oc=5",
+      "snippet": "“Laws Are Not Enough”: Remi Tinubu, CJN Raise Alarm Over Child Abuse and Online Exploitation as AGF Fagbemi Calls for Coordinated Action on Child Protection BarristerNG.com",
+      "publishedAt": "2026-11-21T14:17:36.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "UPDATED Cybercrime Directorate Receives Some 1,500 Reports of Online Child Sexual Abuse Content Every Month, 2-5% Concern Actual Crimes - БТА",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc3VLd0Q1X0Vnc1BEZl9YaEY0ZGN1SV9RYzN1NzNkS1pLUlR4SzVvTmVHWl9FU0pGUEVNald2c3ZtMnd3bXg0MU5QcVVlaEtjWlhOS0ZydWtMaDYwR29DYUZiN01JNTlPcmpISUgwR1h6RE9FaF8yVHYwZ0YxVHB3bk15ZHF3MnFJc0RMd2NUejM3VU92QTZVTFZsemstRDRPZ1kwbDQ4UDZadWhjdWtOQ0llazdmb25pNko2VFU3N2lzdw?oc=5",
+      "snippet": "UPDATED Cybercrime Directorate Receives Some 1,500 Reports of Online Child Sexual Abuse Content Every Month, 2-5% Concern Actual Crimes БТА",
+      "publishedAt": "2026-11-21T14:16:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }
