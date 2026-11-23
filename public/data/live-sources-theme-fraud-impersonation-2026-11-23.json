@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:53:37.850Z",
+  "generatedAt": "2026-11-23T07:57:19.633Z",
   "snapshot": true,
   "date": "2026-11-23",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 6
   },
-  "message": "No verified news was found for 2026-11-23 on fraud-impersonation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 91
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,96 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "ScamWeb: A Multimodal Benchmark for Grounded Understanding of Cyber-Enabled Fraud Webpages - alphaXiv",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvMFZmb0p6dUxKbFJnNEYtbXhMOWtvdXNWaWFZWklNaE9OcUNiWWZndXI4NGx2S2ZsbFZjbjNvUHl0Q2llOFNyblphd3k0TEg3SHBza1hnYkdReWRlUTItTlRQQmg4M3JGOXpLM2JpZVBUTWc?oc=5",
+      "snippet": "ScamWeb: A Multimodal Benchmark for Grounded Understanding of Cyber-Enabled Fraud Webpages alphaXiv",
+      "publishedAt": "2026-11-23T02:18:43.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Binance Warns Users Against Crypto Scams, Highlights Key Red Flags - News Mobile",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhaaVU4cmFwOWxyTUhJcEdUMnlrVXVSRkQzUnZHUnVzWUJPTFk3Mmt2eUJjaTd5cHRReDI5MmI5cWNNQXRsWHhaNFc0ZnZDODM5dGZqdTdySF8yTTRKOHFCR2M2Y250WThqRkFqdWI3OTdfeWlCWFprdEtmWFozRjdTeW5nRzQwVnhuU0JCc2F1SHlKT0llalpudWNFXzdMS3I0T2FHcmRkWjg?oc=5",
+      "snippet": "Binance Warns Users Against Crypto Scams, Highlights Key Red Flags News Mobile",
+      "publishedAt": "2026-11-23T07:30:58.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Black Friday Deal Scams Start in September - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmJUTGJoVnMzaERBUGZEeExrS0VhNkxHYk1MazR5NFhTeWFnQk1IakZxZ3N5U2hHRkdmMkVUTklTb3hweEtmMWJmXzc1a3RGbXk3VE9vdzVIMU8tNVc3TC1SaldKa09WY0lWSzVScWJsek9JTjhKakZaUE1iNmpuc0Ricm9xbTRWaTRHS1RhMldwZw?oc=5",
+      "snippet": "Fake Black Friday Deal Scams Start in September Wisevoter",
+      "publishedAt": "2026-11-23T06:54:26.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVi1jSm9zeFRKUWpEZmxSU2JBTVp6MkVxRDU3SzFVY1FKMG9WS18tbjUxX1pMNFVobmVIVENoTG5tNHExdnk1dGYxb1JZSnhhSFBvMXJJOWE4Ry0tYVM1SzlCUzlWMFdqQXV0TExBS3pkODEwaWtCU1pEemdtRFVSVW00bXNCZVdRN0lwTFk3SzhUTVJZb3k0UjFJc1ZFa3hMSDROUE9MSUY1VWlK0gGzAUFVX3lxTE1IcDN3UFk3ZTY1ZE0yWjBtM25hb0x2Sm9OU3hvN3dINlFaLVlPNHhoWVBCZ0cxSThuQko1aVpEaW85RGp5NEJ4VUpQU0pOdFJ3eGp2MmhDMXZvNHJwb0lXUHMwamZQcUtXYzhfbXY0UU9UQjlxTzZQbnludFhVS3RLcmxEN0VLalVrOFVPeVF0QzRTVXg2Q1F3c2x3c01NQzJPOFRXLWhUR0dZdEswazBvS0RB?oc=5",
+      "snippet": "Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams The Indian Express",
+      "publishedAt": "2026-11-23T03:42:42.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "What Nikkei Asia missed about Cambodia’s scam crackdown - Khmer Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWNaa05VUm1nTmw0dkxHangzMV85OU01aXpqODVSa0J4dDh5b2o2MmxfRGV1d2h5a2JfSF83NjFKOU94anpPTjB1N0JfQWhqZWh4M1NZYkdMR0I0aUN0OWtKSWs2MGVGOF96MlpaN1dPQjFoSGw2Q1B4S2V6OENlbUlEdXlDcnNPY3ZXWElEdmQ4TG9EV2RCeUpn?oc=5",
+      "snippet": "What Nikkei Asia missed about Cambodia’s scam crackdown Khmer Times",
+      "publishedAt": "2026-11-23T00:37:57.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-driven scams, cyber threats take centre stage at NEXSEC2026 - scoop.my",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1NVVmluTVA2dEVmU3lsTzZ0emQ4YlAwMkhXdE45S3hUQVA3SmV6UHN3bmd4OTJqS1ZHc2V2N3VJdG8tN3FXTUpKRUd2dkxidzJ0Vno0S0E3LTdvUTJnWTh2S1hucEc3eFJiTXJLM1VxbkV6REJSdlZFQkNBdjA2RVJDNmNqSnJRX3QxUnRLWHNIM3JWelAxdVZjbw?oc=5",
+      "snippet": "AI-driven scams, cyber threats take centre stage at NEXSEC2026 scoop.my",
+      "publishedAt": "2026-11-23T00:16:28.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:53:37.850Z",
+  "generatedAt": "2026-11-23T07:57:19.633Z",
   "snapshot": true,
   "date": "2026-11-23",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-23 on violent-speech.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 91
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Anti-Hindu Hate Register flags 1,556 hateful comments, refers threats to Victoria Police - The Indian Sun",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFqajNPNG5JT1lyeDBhbGtSdEY0WEJoekVTeGJDZWZEVjF6MlJwTVJ4UkYxWmpQWHIzTnplMUlVSXFtc2xuWHVWNDFHQzFNcDZmYzZ6dXZ0bWplY2xfMUZrUnlpcWRtUmtDMjVILWZhdVd2NkY0SFUwbGNmX2hUbTFsS3pLdjBqaFp3Ym9Sa19YQjB5Yi03WU5Fc3U4WWF0am1zcDhIbjk0M1ZVUUQ1V1hmbG5BN1k2aTMwd2lfQURTV1d5QTlXWkl3?oc=5",
+      "snippet": "Anti-Hindu Hate Register flags 1,556 hateful comments, refers threats to Victoria Police The Indian Sun",
+      "publishedAt": "2026-11-23T04:18:52.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

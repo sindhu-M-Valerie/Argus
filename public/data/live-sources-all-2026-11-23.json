@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:53:37.850Z",
+  "generatedAt": "2026-11-23T07:57:19.633Z",
   "snapshot": true,
   "date": "2026-11-23",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 22
   },
-  "message": "No verified news was found for 2026-11-23 on the selected topic.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 91
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,336 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Cleverbridge Confirms Hackers Stole Customer Card Numbers and CVV Codes in a Major Data Breach - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbnd2bGVvTUJweHpiVURfRG16VEphdW5sOGpPbURZUVRzSDNweDNiWGNMUVRIVDJja2RrVktadFp4bHdSS3RFMU1JN0NwZVNBV191dEZEemJpWDRvSk1MYk1IZ0FTZ9IBa0FVX3lxTE8yQVRhOHVaQmxYRzVCOURMM1lCbHRtcG54V2hhVmpRTFlWdWlYUUNTSEdIRC0zalpsQ2YwZDhrUlU3aXg2VVFsWV9yaC03YzZhLTA4VXZPSkdqal82T3UxZ0RGRURGUkhJU2NZ?oc=5",
+      "snippet": "Cleverbridge Confirms Hackers Stole Customer Card Numbers and CVV Codes in a Major Data Breach CyberSecurityNews",
+      "publishedAt": "2026-11-23T03:08:32.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Seven charged over online child sexual exploitation in police crackdown across Glasgow and the west - STV News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdzNHeG50cEN5Q2lHZE05Mmx2aXB2dk9HNUF4WkhlUm9LaWdKOG5IV2JDREg2NTBlRXFJbUNYTlFpbWMweG9tQ1hhUXhUbVNkUjdHTXYwZGV3N0J5SlUwTk5mMVRNMmtkcFNrNFpKMEhOWV9kVy1uaW5kdHFpS3dHdThGVDVsRVZnajJ3SUwzUFhfQTFneTk2YTF5NnhscHR2Q0lFQXdWNGtqdGRSaXl6THlfb01jdnJiWkhRczduSkRJSGRTU0xNUnBCTmM?oc=5",
+      "snippet": "Seven charged over online child sexual exploitation in police crackdown across Glasgow and the west STV News",
+      "publishedAt": "2026-11-23T07:16:49.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Eight arrested as police launch crackdown on online child sexual exploitation - Glasgow Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUZuMDktM2ZXUHlHQkUzZDhQeXlQSHJOMTA2NzVkY2ROY2xZYlctSExVWF9LRVhkMVZhVEo5ZFI3MTdKQUN1a0xkNHZRMk0wcGI4U0dEVTFISzNZMW9qWnRPeDU4YXRrMjFFamxKb3U3dENJeGdHQ2VFR2ZCWnlWRWtKS2puSE1kdmVyOVZfaldxZFByZERacnNtREg?oc=5",
+      "snippet": "Eight arrested as police launch crackdown on online child sexual exploitation Glasgow Times",
+      "publishedAt": "2026-11-23T06:00:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "U.S. Senate Just Took a Big Step to End Online Child Exploitation - Clarksville Online",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpxQlN0ejRLcXhvTWJiclJDMWVDOGllVjJ1U1NKSGQ0b0loTVVUbHBfU2VIZkp2S0tEb0F4dVRDZ1ptOU4xcXVOZFRVWDZLajlGS2UwbHVack13MFREaEdmTUVJbXUwVFczeHZNTExQY3RfT0dKdElPOXQ3T21GSUpFTUlfQ2UxVWRvdWZyaVU4d25SVDlkLUVFbmxOVjAwSE8xaWJJeEFfU2Q5VndB?oc=5",
+      "snippet": "U.S. Senate Just Took a Big Step to End Online Child Exploitation Clarksville Online",
+      "publishedAt": "2026-11-23T04:00:02.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "ScamWeb: A Multimodal Benchmark for Grounded Understanding of Cyber-Enabled Fraud Webpages - alphaXiv",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvMFZmb0p6dUxKbFJnNEYtbXhMOWtvdXNWaWFZWklNaE9OcUNiWWZndXI4NGx2S2ZsbFZjbjNvUHl0Q2llOFNyblphd3k0TEg3SHBza1hnYkdReWRlUTItTlRQQmg4M3JGOXpLM2JpZVBUTWc?oc=5",
+      "snippet": "ScamWeb: A Multimodal Benchmark for Grounded Understanding of Cyber-Enabled Fraud Webpages alphaXiv",
+      "publishedAt": "2026-11-23T02:18:43.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Johnson City man charged with sexual exploitation of a minor - Elizabethton Star",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeVFrcWY1Nnd1NWNsSTZwRFBrM244eFY5dWl6VGlpeDd5dDVjakdiUjh5Y3ZNcUVnd2Z4NlU3Rnp0dGNMb3RkTnhlbkpJeE1nOXVhZUc1RVoxSTBMT1V6bnAwYUZKYl9Ha0lSelRGd08wN0U4RldNOUszZWJrT0ZsRXVTWTlqUXM0VU9ZWWdmZzBuN1RhUFM2RXo3NWJJcDhSbnJsdTlJXzRwdHpNQWlYSWhxSm9TNWJRY1VldmlZdkZ1VG5ISmdaMXd5QVF3bUVnUnV5RnN4UTVIQ21ndHJPNU1sX3ZTM0dEcThhTGJkSUo5VFE?oc=5",
+      "snippet": "Johnson City man charged with sexual exploitation of a minor Elizabethton Star",
+      "publishedAt": "2026-11-23T00:40:17.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRkFBeGNibWhuZHlBdkF2ek12cTU0ajlNSDA0R1EyaS1ZdDhmc3FabG9YWkZGZGQ0V3Q3TGdlS0dDVi15NTF2TTY5SHJWZXQ0M05NODJDR1hLSGRpbUJ2Y0I0c0Vja3FVUFVxeFRUUVZDRjZr0gF6QVVfeXFMT25SSjgzdGtWUzUyUjl1S3RzdW1tSUpRWC1jVUlLdF9Fem5kYWNrUy1LdVlYYUpyd1lOLWNjNGhzZWxxUjVocnlGbzNobTVPZUxIdmxmYTB3RlkxUUFnd1FBc0IyTlZmZTRrNTVJU0hEdnpCU0l6eEVVYXc?oc=5",
+      "snippet": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data CyberSecurityNews",
+      "publishedAt": "2026-11-23T07:40:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Binance Warns Users Against Crypto Scams, Highlights Key Red Flags - News Mobile",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMzhaaVU4cmFwOWxyTUhJcEdUMnlrVXVSRkQzUnZHUnVzWUJPTFk3Mmt2eUJjaTd5cHRReDI5MmI5cWNNQXRsWHhaNFc0ZnZDODM5dGZqdTdySF8yTTRKOHFCR2M2Y250WThqRkFqdWI3OTdfeWlCWFprdEtmWFozRjdTeW5nRzQwVnhuU0JCc2F1SHlKT0llalpudWNFXzdMS3I0T2FHcmRkWjg?oc=5",
+      "snippet": "Binance Warns Users Against Crypto Scams, Highlights Key Red Flags News Mobile",
+      "publishedAt": "2026-11-23T07:30:58.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Black Friday Deal Scams Start in September - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmJUTGJoVnMzaERBUGZEeExrS0VhNkxHYk1MazR5NFhTeWFnQk1IakZxZ3N5U2hHRkdmMkVUTklTb3hweEtmMWJmXzc1a3RGbXk3VE9vdzVIMU8tNVc3TC1SaldKa09WY0lWSzVScWJsek9JTjhKakZaUE1iNmpuc0Ricm9xbTRWaTRHS1RhMldwZw?oc=5",
+      "snippet": "Fake Black Friday Deal Scams Start in September Wisevoter",
+      "publishedAt": "2026-11-23T06:54:26.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Anti-Hindu Hate Register flags 1,556 hateful comments, refers threats to Victoria Police - The Indian Sun",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFqajNPNG5JT1lyeDBhbGtSdEY0WEJoekVTeGJDZWZEVjF6MlJwTVJ4UkYxWmpQWHIzTnplMUlVSXFtc2xuWHVWNDFHQzFNcDZmYzZ6dXZ0bWplY2xfMUZrUnlpcWRtUmtDMjVILWZhdVd2NkY0SFUwbGNmX2hUbTFsS3pLdjBqaFp3Ym9Sa19YQjB5Yi03WU5Fc3U4WWF0am1zcDhIbjk0M1ZVUUQ1V1hmbG5BN1k2aTMwd2lfQURTV1d5QTlXWkl3?oc=5",
+      "snippet": "Anti-Hindu Hate Register flags 1,556 hateful comments, refers threats to Victoria Police The Indian Sun",
+      "publishedAt": "2026-11-23T04:18:52.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "violent-speech",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVi1jSm9zeFRKUWpEZmxSU2JBTVp6MkVxRDU3SzFVY1FKMG9WS18tbjUxX1pMNFVobmVIVENoTG5tNHExdnk1dGYxb1JZSnhhSFBvMXJJOWE4Ry0tYVM1SzlCUzlWMFdqQXV0TExBS3pkODEwaWtCU1pEemdtRFVSVW00bXNCZVdRN0lwTFk3SzhUTVJZb3k0UjFJc1ZFa3hMSDROUE9MSUY1VWlK0gGzAUFVX3lxTE1IcDN3UFk3ZTY1ZE0yWjBtM25hb0x2Sm9OU3hvN3dINlFaLVlPNHhoWVBCZ0cxSThuQko1aVpEaW85RGp5NEJ4VUpQU0pOdFJ3eGp2MmhDMXZvNHJwb0lXUHMwamZQcUtXYzhfbXY0UU9UQjlxTzZQbnludFhVS3RLcmxEN0VLalVrOFVPeVF0QzRTVXg2Q1F3c2x3c01NQzJPOFRXLWhUR0dZdEswazBvS0RB?oc=5",
+      "snippet": "Fooled by AI: How cybercriminals use deepfakes to lure people into investment scams The Indian Express",
+      "publishedAt": "2026-11-23T03:42:42.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "What Nikkei Asia missed about Cambodia’s scam crackdown - Khmer Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWNaa05VUm1nTmw0dkxHangzMV85OU01aXpqODVSa0J4dDh5b2o2MmxfRGV1d2h5a2JfSF83NjFKOU94anpPTjB1N0JfQWhqZWh4M1NZYkdMR0I0aUN0OWtKSWs2MGVGOF96MlpaN1dPQjFoSGw2Q1B4S2V6OENlbUlEdXlDcnNPY3ZXWElEdmQ4TG9EV2RCeUpn?oc=5",
+      "snippet": "What Nikkei Asia missed about Cambodia’s scam crackdown Khmer Times",
+      "publishedAt": "2026-11-23T00:37:57.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-driven scams, cyber threats take centre stage at NEXSEC2026 - scoop.my",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1NVVmluTVA2dEVmU3lsTzZ0emQ4YlAwMkhXdE45S3hUQVA3SmV6UHN3bmd4OTJqS1ZHc2V2N3VJdG8tN3FXTUpKRUd2dkxidzJ0Vno0S0E3LTdvUTJnWTh2S1hucEc3eFJiTXJLM1VxbkV6REJSdlZFQkNBdjA2RVJDNmNqSnJRX3QxUnRLWHNIM3JWelAxdVZjbw?oc=5",
+      "snippet": "AI-driven scams, cyber threats take centre stage at NEXSEC2026 scoop.my",
+      "publishedAt": "2026-11-23T00:16:28.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Big Tech: The industry that profits on rage, hate and violence - https://thepoint.com.au/",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN18tTDlaMHpPdmtZZktsT0psYTdjQkJOOHlkemgtV1IyeWlodmp6eHVKem9TS3JZeXBORFRWblEtOVRxd2tKNm82Ul9tN0J2MWp0YkRZMDFCMHJGX2REVVA2bUt2LUM2QUJkVzJGMDB4QXdDRHNtM19sU0gtY1ZkV2l0dkhqMm1abVY3R0xzSHNBb2hQNXpLOUEtTkdaa25ESVE?oc=5",
+      "snippet": "Big Tech: The industry that profits on rage, hate and violence https://thepoint.com.au/",
+      "publishedAt": "2026-11-22T23:30:46.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cleverbridge confirms hackers stole card numbers and CVV codes - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0VBUGdFM25VbUo4VUF5STU0RE9uYUcwWTJnVWZUUG03RW1Kck9MNTMzbFBGMGxHX2hFcUFEZlNHd0RUR0lkOGkyRWFaelpkd2RFdmdRanktdXMzakZrOUtlSHB3YTlOYmxIa0E3dC1JMUNEVEhtUV9uaHRsQjhOOWRDRUhvTnZkTUM3Xzc3aVBNSGZTRl93a1NqOGFqTFVwdVl0dWE5OWVJdw?oc=5",
+      "snippet": "Cleverbridge confirms hackers stole card numbers and CVV codes Pasquale Pillitteri",
+      "publishedAt": "2026-11-23T07:46:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Samsung Securities Data Breach Exposes Personal Information of 8,241 Clients - Hokanews",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUIybWxCU2VsWTJZVjJrQ1hYeUk1UzJYam1IVzV1U3pxdmFyV2phOFRBOXV1d3JUUFptcDNicXlmYlI4Rk5OcTVybHVDZkN2YzJVV0tyakdOUjFia0hyX1Nsb05teWVpeVEyUzl0ZHp0bVBWdUV3eVpRVEduN0w0QTJn?oc=5",
+      "snippet": "Samsung Securities Data Breach Exposes Personal Information of 8,241 Clients Hokanews",
+      "publishedAt": "2026-11-23T07:22:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "With the increase in cyberattacks, Vietnamese businesses need to enhance their 24/7 monitoring capabilities. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWhrVWxqMk90Si1XR3dXOTBWM0dsX1c3ejJwUWhZVFhQN2dhQ3JZUTAydW9ZT0hhSVJNU0FReFN3cWFzNFZ4XzAzSHZ6ekZqb3pXVHdJdVhIZDgyWVNVbDl4Wi1ERGZKZlViS1UzUHd2X3hCQU9GQk1Wb3pYZUhNSzhjTUdYSk02RmcyeFJ6MVBGNkVBM290RV83T0thUGxDTFMxOA?oc=5",
+      "snippet": "With the increase in cyberattacks, Vietnamese businesses need to enhance their 24/7 monitoring capabilities. Vietnam.vn",
+      "publishedAt": "2026-11-23T06:29:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Alarms raised over cybersecurity incident involving accommodation booking system - Stuff",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0pETVRhbEFYdnRicVlrTElmQ2pTLXpmWUZiaVYtYmZKR2tDNjVCcWFjUU90S1FmQThZV2hxYVRKci1YckpXVjJaaDZYTUtQYTVrYjlmQjlKZzlZcFY1VkVBZ1ZiUm5nVXFkQVFxSldFdTVRNk1ZR3JnVks3c0NRVWdkLWItQ2lBdUpxV24zMU5UenJrS19xRllkOTdKYlphbzVwZlJSOEY4cWI3NXE1NFIyNEFYZU1JbmxSX3Z6bw?oc=5",
+      "snippet": "Alarms raised over cybersecurity incident involving accommodation booking system Stuff",
+      "publishedAt": "2026-11-23T05:23:51.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bell MTS Email Outage: Cyberattack Confirmed, 3 Key Facts - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVBudG5DMGdIVXZxbnlSYmhPMWZLNVVlR2J4ZzJhcUR6SEp4RHg4WnU3TEdpV3plakxGOVBnd3J4N2I1ME1idGtVUURhd1Zvbk9SOFhUTXFfaENSODlCYUwyM2ZfRzRqV1BmYTFZYXVwZjRjVWVCZWc1c2tUbDE1YWpB?oc=5",
+      "snippet": "Bell MTS Email Outage: Cyberattack Confirmed, 3 Key Facts shattered.io",
+      "publishedAt": "2026-11-23T03:59:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How to prevent cyberattacks and protect your business - Kingy AI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDLTMzS21YeDV4RXVmbmZTRk1KRHl0WWZDSjdPX190NUlJX0NPLWRjdDVWdTV0eUFyc0pBelhrR01ETy0xbFAwMmMzaFVPejR6QlVOLWF6WTlZZEFWN1JvXw?oc=5",
+      "snippet": "How to prevent cyberattacks and protect your business Kingy AI",
+      "publishedAt": "2026-11-23T01:59:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Orchestra platforms return after travel industry cyberattack - KarloBag.eu",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlZmeVR4VmRvNFAyWXFVMWo0dHNoVlF0ZHh5OEt2RDFTZ0ZTZFA1QURBaDFzSWV6VUE5RERrRlBzMDJybFUzbjNsSWxEX01mWERyUlNCVHNqQ2hheFJkVHlQanVNUjdIdWcyM2Z0UktKNkVmcndtRXBCYnhZamNhM21BNGV1ZlJUQ0V1WFRGcjlncjFEanMxU2tLWjFCWUJNWEgzV1Q4WVN0Zk5OY3ZRQWNkZE5IQ1NN?oc=5",
+      "snippet": "Orchestra platforms return after travel industry cyberattack KarloBag.eu",
+      "publishedAt": "2026-11-22T21:37:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Digital Convenience, Institutional Vulnerability - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZHFhOEp3cFR6ZFBORVY5OXJkM1dLRVhQTVVPR3pRLURSU01PMmk2T29zWHZhWGtySzlydXRTVnNlY2pGckRzWm9USHJ0SWg1MkJSb2ZzMnZtaVRlZ0huR1ltVUtISi1UNmg2LWxjSzdETm96cTE5bW5LZWVlNFhhdW82aTdOMXF3blA00gGQAUFVX3lxTE1HUk84dm9OTEdDRTN4eEFDV2ZwV3E1MHVmV2JDZmhCSy0wZXVHbUs1eHlCM3NnclZxWkd4SFBqX0NJUHQyamZEeGxXOVVaVVhaVEJHOVpCZGRSLWhEZm9TdkwyNVFqQk9QQnlLc3FuRzNJQW5md0xmLXZxY2gzUm41blA0SkxDazBJcW41TkJTQQ?oc=5",
+      "snippet": "Digital Convenience, Institutional Vulnerability Inquirer.net",
+      "publishedAt": "2026-11-22T21:30:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

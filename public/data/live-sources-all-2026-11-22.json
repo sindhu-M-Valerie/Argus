@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:53:37.850Z",
+  "generatedAt": "2026-11-23T07:57:19.633Z",
   "snapshot": true,
   "date": "2026-11-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 48
+    "total": 51
   },
   "message": null,
   "sourceStatus": [
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 91
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -212,6 +212,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Seven charged after police execute 18 warrants in online child exploitation probe - The Herald",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYk84VmZDbXU5bnVWSVhoWksxeFlkTXp6T1lzYUV5bElHRFNfbHRDNkJQVXdJSjd0c0p2b2JhVDNhM2ZQMXcyaUc0UUdoZ1NaWEMydmxQRkRqYzl1aHV6MXJuMUJFMFVlUm1GTENwc1NiTUV5RXozZHRXQnY4N0tWcDVVZHRpdFo3ODNDdUNSbVZlVTBLWFd0WjI1dkF0ZWVM?oc=5",
+      "snippet": "Seven charged after police execute 18 warrants in online child exploitation probe The Herald",
+      "publishedAt": "2026-11-22T16:09:39.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Two boys made deepfake porn of 60 girls. It left a school, small town reeling - Tri-City Herald",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaHpPaUZPYUlFN0tMYTQ3aXZJTmNaRUNoWE5SS0JlR2hQTEpNY0xtV0tSQTdHQmtEUlpabWR0bWwzWktmV0pGWGJPVnI2UTNLOXM4V0FjNFF4ZkY5LXYxNTZjTU1nMHVhZEVDc2wySEFwWUg5RXZJV0Q4VUt5ZVlndHNORkFlQQ?oc=5",
       "snippet": "Two boys made deepfake porn of 60 girls. It left a school, small town reeling Tri-City Herald",
@@ -281,6 +296,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU extends temporary rules allowing detection of online child abuse - The Portugal News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWFsTVcwMFY4emtsVjdjNXNQakpZV2dKMWVDVGJSMUg1V1htbVRlMzFnM3k0T0VDYzhETUt1ZlhtUnd6M0ZZb3E3U0FoUkhhXzlPeGtxblg3RmlqMXk1X01memg4OGtvcmlMYUVKYTA2U1k3ZERndWdsTEg3ekN1M0F5ZWdzVjNzODFTc09ZTF9UbUthZmtkTGFLNHZMdVc4ZjZOckVyT3hub2dNcVRmSXl1Qy1EWGdNbzc3WktPYUE?oc=5",
+      "snippet": "EU extends temporary rules allowing detection of online child abuse The Portugal News",
+      "publishedAt": "2026-11-22T04:18:29.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
@@ -377,6 +407,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1BUbmluVWh6NXpVUkFQbTRGUG5EUWhTY0xybGdRV0c5TnpDRnU2b29hblE5UHE3V3JjdTRBMHlVQ3QxalNzMXNPU2JHVi1NZVZiMVBlM0w5LUFpR0FxTmxLVzdkbzRURHBnaXhFeG1ZZDNrbVdoY1U2TEphYUVjeWwzRFZGejJjZVk5dGRBbVNUclVfMXpTdXN2Y3Y3VDE5MnIzdi0wMEFKelVpUE1Jdkw0MVlOMHZIQmc5TjVDZFJRaXZpMkdra0M1cVZqdnPSAeMBQVVfeXFMUGVVR3A2UG9rZ2g0dXo2azVQdzhEV0RrX2w0QjR4cHF2cUc0cUNOT28wc285ckhrQkltcWRZcXI2ajhHdXc3VHJEUWw3Nk1aLUUxZ0VVeEc5WS1pNHFPOHRJR0VzeVZ1ZkJQakRFd1FscFJPLVBrbS1JeGtleFlRd2ttanZGaEFpdTNTcDluQjNyN20wM1ZiQUlJdmhZdGE4akJ0NkJPc3pYUHcxTS1ydUhiTldMTy1MNTl1UGdwaWI2T0ltbkNVS04wdkRZYTBLN3lobEpYMEd0aFpkVzQySUZibW8?oc=5",
+      "snippet": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ OregonLive.com",
+      "publishedAt": "2026-11-22T16:23:00.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 51,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVVHcDZQb2tnaDR1ejZrNVB3OERXRGtfbDRCNHhwcXZxRzRxQ05PbzBzbzlySGtCSW1xZFlxcjZqOEd1dzdUckRRbDc2TVotRTFnRVV4RzlZLWk0cU84dElHRXN5VnVmQlBqREV3UWxwUk8tUGttLUl4a2V4WVF3a21qdkZoQWl1M1NwOW5CM3I3bTAzVmJBSUl2aFl0YThqQnQ2Qk9zelhQdzFNLXJ1SGJOV0xPLUw1OXVQZ3BpYjZPSW1uQ1VLTjB2RFlhMEs3eWhsSlgwR3RoWmRXNDJJRmJtb9IB4wFBVV95cUxQZVVHcDZQb2tnaDR1ejZrNVB3OERXRGtfbDRCNHhwcXZxRzRxQ05PbzBzbzlySGtCSW1xZFlxcjZqOEd1dzdUckRRbDc2TVotRTFnRVV4RzlZLWk0cU84dElHRXN5VnVmQlBqREV3UWxwUk8tUGttLUl4a2V4WVF3a21qdkZoQWl1M1NwOW5CM3I3bTAzVmJBSUl2aFl0YThqQnQ2Qk9zelhQdzFNLXJ1SGJOV0xPLUw1OXVQZ3BpYjZPSW1uQ1VLTjB2RFlhMEs3eWhsSlgwR3RoWmRXNDJJRmJtbw?oc=5",
+      "snippet": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ OregonLive.com",
+      "publishedAt": "2026-11-22T13:00:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 51,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
       "title": "Congress spreading misinformation, Rahul Gandhi aligned with forces against India: Sarbananda Sonowal - India Today NE",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQWJSekFyRERyVmZJOENINkRnOC1MVFBwN3ZyQ1ZCQ0tkNWFxVU1WZHJOZWpWVXpJSWF0S2xDd2c5SDlrc3p6MUlPdXZnVV93T2V5cHNxU0R1Uk9ITjFjXy1ydDNYMm5BS25ZOWFabm1XRU9reEJsT09rcFlTY1RQNkhOWmlBemx4Z0FIazlCalpHV1N2b3FEbFBMVTFCM0dkbWRRN2FLb0RySU5oY3UwUkxFMklrS0RCUURWbG55SG5Cd2dEaWxqb051UEFnYW9qbW9rWldnbm5EMlk3dEZyMzRTZkh4RmQwSklwQkNtb9IB9AFBVV95cUxOenBmemVBMFRTZDIwSlRxRmVpeGdSYk9hZW8yVVYtMkFNVVpaODZOWDZUWWkxcVpmYjlvX3J4TllrTjl0QXpfLWdQenJSUXV3TFhfUVBqSXh3YVViOFYzYUdVSHd6dFJzUi1DRGxwdDF3NXdoeDRBYmdPU2tDZzJMQWtWVS1pVEtxTGJSTlNjRTZKcVBSNzlJSThOQS1jZXBJem5YdHhESEFkU2FFRVNTNkJHYkdoVDJFZVY0NU1mT25nVUpJMVYxeGJsQmtvSndNcTF5bmZTOUQzMDBmWWFHc1RfZnhWRHpkNnFZdHlDWUZVWHZB?oc=5",
       "snippet": "Congress spreading misinformation, Rahul Gandhi aligned with forces against India: Sarbananda Sonowal India Today NE",
@@ -431,21 +491,6 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "harassment-bullying",
-      "riskScore": 48,
-      "confidence": "Medium",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data - CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRkFBeGNibWhuZHlBdkF2ek12cTU0ajlNSDA0R1EyaS1ZdDhmc3FabG9YWkZGZGQ0V3Q3TGdlS0dDVi15NTF2TTY5SHJWZXQ0M05NODJDR1hLSGRpbUJ2Y0I0c0Vja3FVUFVxeFRUUVZDRjZr0gF6QVVfeXFMT25SSjgzdGtWUzUyUjl1S3RzdW1tSUpRWC1jVUlLdF9Fem5kYWNrUy1LdVlYYUpyd1lOLWNjNGhzZWxxUjVocnlGbzNobTVPZUxIdmxmYTB3RlkxUUFnd1FBc0IyTlZmZTRrNTVJU0hEdnpCU0l6eEVVYXc?oc=5",
-      "snippet": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data CyberSecurityNews",
-      "publishedAt": "2026-11-22T02:18:32.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
       "severity": "Medium",
@@ -527,21 +572,6 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1BUbmluVWh6NXpVUkFQbTRGUG5EUWhTY0xybGdRV0c5TnpDRnU2b29hblE5UHE3V3JjdTRBMHlVQ3QxalNzMXNPU2JHVi1NZVZiMVBlM0w5LUFpR0FxTmxLVzdkbzRURHBnaXhFeG1ZZDNrbVdoY1U2TEphYUVjeWwzRFZGejJjZVk5dGRBbVNUclVfMXpTdXN2Y3Y3VDE5MnIzdi0wMEFKelVpUE1Jdkw0MVlOMHZIQmc5TjVDZFJRaXZpMkdra0M1cVZqdnPSAeMBQVVfeXFMUGVVR3A2UG9rZ2g0dXo2azVQdzhEV0RrX2w0QjR4cHF2cUc0cUNOT28wc285ckhrQkltcWRZcXI2ajhHdXc3VHJEUWw3Nk1aLUUxZ0VVeEc5WS1pNHFPOHRJR0VzeVZ1ZkJQakRFd1FscFJPLVBrbS1JeGtleFlRd2ttanZGaEFpdTNTcDluQjNyN20wM1ZiQUlJdmhZdGE4akJ0NkJPc3pYUHcxTS1ydUhiTldMTy1MNTl1UGdwaWI2T0ltbkNVS04wdkRZYTBLN3lobEpYMEd0aFpkVzQySUZibW8?oc=5",
-      "snippet": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ OregonLive.com",
-      "publishedAt": "2026-11-22T16:23:00.000Z",
-      "source": "Google News • Dangerous Criminal Organizations",
-      "theme": "violence",
-      "type": "News",
-      "provenance": "live-feed",
-      "feedTheme": "dangerous-organizations",
-      "riskScore": 44,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "Gujarat Cyber Police Bust ₹8.46 Crore Interstate Cyber Fraud Syndicate, Arrest 13. India's Growing Cyber Fraud Crisis - Inventiva",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObFJOQmpTM1JDdV9waHhWT2pZNHUxT2tWTmVTLTJ1cWMzX0lER0RKbzBLejdJM0ViMFVnVGp3NjFZRExkTXZJSHl3azR1cTA1VUJteTl1Y21aVEEyUW96Y2dvZ2VoR3ZLaUtlXy1OSmdPNzZaakdvalMzcTc2dmtuRi1JWmFNeHk5R2E5MWtmdy1mcmhFOWZWS1g1d2Q2WE5Tbnd6bDl5WGRBeUx3UGdhVWVfal9fZXp2b2tWS0VVUWM1X1lrc01DcXI2Yl9aYmFCcDZhWkM2TG53SW53S3ozTVY1cEFvdVhZSTl2bDkxZw?oc=5",
       "snippet": "Gujarat Cyber Police Bust ₹8.46 Crore Interstate Cyber Fraud Syndicate, Arrest 13. India's Growing Cyber Fraud Crisis Inventiva",
@@ -551,21 +581,6 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
-      "riskScore": 44,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "What Nikkei Asia missed about Cambodia’s scam crackdown - Khmer Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWNaa05VUm1nTmw0dkxHangzMV85OU01aXpqODVSa0J4dDh5b2o2MmxfRGV1d2h5a2JfSF83NjFKOU94anpPTjB1N0JfQWhqZWh4M1NZYkdMR0I0aUN0OWtKSWs2MGVGOF96MlpaN1dPQjFoSGw2Q1B4S2V6OENlbUlEdXlDcnNPY3ZXWElEdmQ4TG9EV2RCeUpn?oc=5",
-      "snippet": "What Nikkei Asia missed about Cambodia’s scam crackdown Khmer Times",
-      "publishedAt": "2026-11-22T11:37:57.000Z",
-      "source": "Google News • Human Trafficking (South Asia)",
-      "theme": "fraud-impersonation",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "human-trafficking",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -722,8 +737,38 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Cleverbridge Data Breach: Why You Got a Card Breach Letter - openclassactions.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTR2Yks4QWxkZXp3Ui1ONzAxUWhxbFBEWkhWTlE3X2hfWmF3ZjEtZWJ1ZGxFUWJ3ZW5tcXlIM3RDV3MxZ0lKQTFra2kxUlFudVpOWlAwN0ptX3BKLU1FLXktNFUxb1lvblRyTlBOTTdUdWpZb0dSem9JZnlvWkhyU2NIbjJ0YkJGdWdWM0FDUFg0T28?oc=5",
+      "snippet": "Cleverbridge Data Breach: Why You Got a Card Breach Letter openclassactions.com",
+      "publishedAt": "2026-11-22T18:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "From cargo delays to energy disruption: cyberattacks expose a weak link in US port security - Business Upturn",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0h3SlRxMjJmUC1XUDlhNktjTmhkaFhlU1g4aEJRaFpiUlFBWHVNcms1TFNTOFdjcGVMR0JqR2xtRzNkbGw3M1UtNXR5Q0NxUHVsdU1qN1oyWV80OWQwLS04SWJ4MnA0NTRLel9mOENkVXNNbGc2dmlaWmdBWUY1NXM1eFU5VmJULUZhdy1jclotTzRsd01rVXB0dmtLeUlFQU1xbTFIalVvWDhMWWtIVHA2aDJqTE5OWUlRSUpvTWkwSVIwLWJkMVZNYw?oc=5",
+      "snippet": "From cargo delays to energy disruption: cyberattacks expose a weak link in US port security Business Upturn",
+      "publishedAt": "2026-11-22T14:47:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "From cargo delays to energy disruption: cyberattacks expose a weak link in US port security - Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWdkWTJ4blo4bk0wTHJCNjdJUjVRalVKOVdET3UyejQ0T3lkTzJOUENNTVlRZUliQjdqb2x5cUJhOW1nS05DRTZJeGQ5YmZwSjRyZnNBNEFKbFBiT0RnMDdxSWluYjBLZ0ZIRDQ1MGM4NUlyNUFoN3lxbnoyM2JuT0RLVkxNdV9JNUlUcGFqNXduWFdWUWQzNHdkRlo0ZFRLQVQ0REx3NXZSWVBSNFBlbEhqQlg4LWFSek1rVHFUdUMxeWNjQWc?oc=5",
       "snippet": "From cargo delays to energy disruption: cyberattacks expose a weak link in US port security Business Upturn",
       "publishedAt": "2026-11-22T14:47:00.000Z",
       "source": "Google News • Cybersecurity Incidents",

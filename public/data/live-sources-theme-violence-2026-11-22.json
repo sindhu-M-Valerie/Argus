@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:53:37.850Z",
+  "generatedAt": "2026-11-23T07:57:19.633Z",
   "snapshot": true,
   "date": "2026-11-22",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 91
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -182,21 +182,6 @@
   ],
   "data": [
     {
-      "title": "How a section of Indian media falsely portraying Narail violence as communal attacks on Hindus - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVFdElka1hUTDJ3RnNUcXNpVWFHZHU2WW94NVhfeUdCcWJCcENDM1FkLXYycUQxUV9OQlM0TE5Bc1JCaXNtN0dCbWMyZ2FYaEpxUGNTNWdDZlIyY2tyLVFMcEs4NmFIZldTbVFGczl6LXcwOVdWcnluQnZ4SG5qWUZJaGI3VHR2NG5VeUVfQ0ZqSXB3TTNZN1NGRjBjbklmc3RiX0trQWFhYnpJRzZTa2YyTG81V0w4RDJFOXB4NTdLdFJrM0NoM3NB?oc=5",
-      "snippet": "How a section of Indian media falsely portraying Narail violence as communal attacks on Hindus The Daily Star",
-      "publishedAt": "2026-11-22T17:25:46.000Z",
-      "source": "Google News • Misinformation (India)",
-      "theme": "violence",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "dangerous-misinformation",
-      "riskScore": 44,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
       "title": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ - OregonLive.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1BUbmluVWh6NXpVUkFQbTRGUG5EUWhTY0xybGdRV0c5TnpDRnU2b29hblE5UHE3V3JjdTRBMHlVQ3QxalNzMXNPU2JHVi1NZVZiMVBlM0w5LUFpR0FxTmxLVzdkbzRURHBnaXhFeG1ZZDNrbVdoY1U2TEphYUVjeWwzRFZGejJjZVk5dGRBbVNUclVfMXpTdXN2Y3Y3VDE5MnIzdi0wMEFKelVpUE1Jdkw0MVlOMHZIQmc5TjVDZFJRaXZpMkdra0M1cVZqdnPSAeMBQVVfeXFMUGVVR3A2UG9rZ2g0dXo2azVQdzhEV0RrX2w0QjR4cHF2cUc0cUNOT28wc285ckhrQkltcWRZcXI2ajhHdXc3VHJEUWw3Nk1aLUUxZ0VVeEc5WS1pNHFPOHRJR0VzeVZ1ZkJQakRFd1FscFJPLVBrbS1JeGtleFlRd2ttanZGaEFpdTNTcDluQjNyN20wM1ZiQUlJdmhZdGE4akJ0NkJPc3pYUHcxTS1ydUhiTldMTy1MNTl1UGdwaWI2T0ltbkNVS04wdkRZYTBLN3lobEpYMEd0aFpkVzQySUZibW8?oc=5",
       "snippet": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ OregonLive.com",
@@ -206,6 +191,36 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "dangerous-organizations",
+      "riskScore": 51,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVVHcDZQb2tnaDR1ejZrNVB3OERXRGtfbDRCNHhwcXZxRzRxQ05PbzBzbzlySGtCSW1xZFlxcjZqOEd1dzdUckRRbDc2TVotRTFnRVV4RzlZLWk0cU84dElHRXN5VnVmQlBqREV3UWxwUk8tUGttLUl4a2V4WVF3a21qdkZoQWl1M1NwOW5CM3I3bTAzVmJBSUl2aFl0YThqQnQ2Qk9zelhQdzFNLXJ1SGJOV0xPLUw1OXVQZ3BpYjZPSW1uQ1VLTjB2RFlhMEs3eWhsSlgwR3RoWmRXNDJJRmJtb9IB4wFBVV95cUxQZVVHcDZQb2tnaDR1ejZrNVB3OERXRGtfbDRCNHhwcXZxRzRxQ05PbzBzbzlySGtCSW1xZFlxcjZqOEd1dzdUckRRbDc2TVotRTFnRVV4RzlZLWk0cU84dElHRXN5VnVmQlBqREV3UWxwUk8tUGttLUl4a2V4WVF3a21qdkZoQWl1M1NwOW5CM3I3bTAzVmJBSUl2aFl0YThqQnQ2Qk9zelhQdzFNLXJ1SGJOV0xPLUw1OXVQZ3BpYjZPSW1uQ1VLTjB2RFlhMEs3eWhsSlgwR3RoWmRXNDJJRmJtbw?oc=5",
+      "snippet": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ OregonLive.com",
+      "publishedAt": "2026-11-22T13:00:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 51,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "How a section of Indian media falsely portraying Narail violence as communal attacks on Hindus - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVFdElka1hUTDJ3RnNUcXNpVWFHZHU2WW94NVhfeUdCcWJCcENDM1FkLXYycUQxUV9OQlM0TE5Bc1JCaXNtN0dCbWMyZ2FYaEpxUGNTNWdDZlIyY2tyLVFMcEs4NmFIZldTbVFGczl6LXcwOVdWcnluQnZ4SG5qWUZJaGI3VHR2NG5VeUVfQ0ZqSXB3TTNZN1NGRjBjbklmc3RiX0trQWFhYnpJRzZTa2YyTG81V0w4RDJFOXB4NTdLdFJrM0NoM3NB?oc=5",
+      "snippet": "How a section of Indian media falsely portraying Narail violence as communal attacks on Hindus The Daily Star",
+      "publishedAt": "2026-11-22T17:25:46.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

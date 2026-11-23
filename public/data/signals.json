@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:58:17.329Z",
+  "generatedAt": "2026-11-23T08:01:47.106Z",
   "windowDays": 7,
   "endDate": "2026-11-23",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 109,
+      "totalArticles": 114,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -62,
-      "reason": "Last 3 days averaged 8.0/day vs 21.3/day before.",
+      "changePercent": -55,
+      "reason": "Last 3 days averaged 9.7/day vs 21.3/day before.",
       "daily": [
         {
           "date": "2026-11-17",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-11-22",
-          "count": 11
+          "count": 10
         },
         {
           "date": "2026-11-23",
-          "count": 0
+          "count": 6
         }
       ],
       "topArticles": [
@@ -77,6 +77,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "ScamWeb: A Multimodal Benchmark for Grounded Understanding of Cyber-Enabled Fraud Webpages - alphaXiv",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvMFZmb0p6dUxKbFJnNEYtbXhMOWtvdXNWaWFZWklNaE9OcUNiWWZndXI4NGx2S2ZsbFZjbjNvUHl0Q2llOFNyblphd3k0TEg3SHBza1hnYkdReWRlUTItTlRQQmg4M3JGOXpLM2JpZVBUTWc?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-23T02:18:43.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Fraud & Digital Identity News – KYC, Scams & Verification - FF News",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSHZHdFRlTDRqTnJJU2VmdzB6ajAyWDRIWHJXcW1VSnNHZTV5ZkppOHEtQnpxMnNOdERlYl94cHdVM3FjT3J3b0U2UHMwTkotZHpj?oc=5",
           "source": "Google News • Fraud and Impersonation",
@@ -99,26 +107,18 @@
           "publishedAt": "2026-11-20T09:45:24.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "GTA 6 phishing emails surge 1,300% as scams spread - SecurityBrief UK",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTldsb09LQkNLQmUyOEhyVFNLVGRlUmgzNGlOTXRBVEdqcE9MT1dySjdsSE9MWVhWR1pHSkRxZWdrSGJJSEJBcmdSdDRKelNaWEMwc1BiZ1E3cHg2ZGFaWWxpNGZWRmhJQlpJVFpkcS1oajUzb1JhejlfWE9jelR5UHJKTlB6SmxRX0pz?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-20T09:30:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 73,
+      "totalArticles": 84,
       "distinctSources": 3,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -35,
-      "reason": "Last 3 days averaged 8.0/day vs 12.3/day before.",
+      "trend": "Stable",
+      "changePercent": -5,
+      "reason": "Last 3 days averaged 11.7/day vs 12.3/day before.",
       "daily": [
         {
           "date": "2026-11-17",
@@ -142,14 +142,22 @@
         },
         {
           "date": "2026-11-22",
-          "count": 15
+          "count": 16
         },
         {
           "date": "2026-11-23",
-          "count": 0
+          "count": 10
         }
       ],
       "topArticles": [
+        {
+          "title": "Cleverbridge Confirms Hackers Stole Customer Card Numbers and CVV Codes in a Major Data Breach - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbnd2bGVvTUJweHpiVURfRG16VEphdW5sOGpPbURZUVRzSDNweDNiWGNMUVRIVDJja2RrVktadFp4bHdSS3RFMU1JN0NwZVNBV191dEZEemJpWDRvSk1MYk1IZ0FTZ9IBa0FVX3lxTE8yQVRhOHVaQmxYRzVCOURMM1lCbHRtcG54V2hhVmpRTFlWdWlYUUNTSEdIRC0zalpsQ2YwZDhrUlU3aXg2VVFsWV9yaC03YzZhLTA4VXZPSkdqal82T3UxZ0RGRURGUkhJU2NZ?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-23T03:08:32.000Z",
+          "riskScore": 56,
+          "corroboratedBy": 1
+        },
         {
           "title": "Hackers Leak Customer Data Linked to Visa, Mastercard and JPMorgan After Third-Party Cyberattacks - CyberSecurityNews",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMDRhMTRXWGZxQ3V6M1QyV19jWmk1REJpM0w3dzNVMXdLSUZ4bzAwa2RKTHNQWTVsWjkyVFdmazdxUUU3RWswYi1jZ2E3bGx5NFV1NGdzWl80NkpmWkxlT1ZZcjJRUjNZOVZvTmhFNmlqc2tQTFHSAXtBVV95cUxQRjVhN0lSdEVBVUt3SmF6RUIwdU1uMzhGb3lNa1ZzT0N3SHhkUk0xVkRJT0xKd0t4ZGF2c1M2WjZUdlNzd0pBem91YkNsaGpYQjNxcVktOEt6cmpCbUtsY2tLOEJrQXc0dndjZ2FXRmtvYUIwMjYxT0gydWM?oc=5",
@@ -183,6 +191,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data - CyberSecurityNews",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRkFBeGNibWhuZHlBdkF2ek12cTU0ajlNSDA0R1EyaS1ZdDhmc3FabG9YWkZGZGQ0V3Q3TGdlS0dDVi15NTF2TTY5SHJWZXQ0M05NODJDR1hLSGRpbUJ2Y0I0c0Vja3FVUFVxeFRUUVZDRjZr0gF6QVVfeXFMT25SSjgzdGtWUzUyUjl1S3RzdW1tSUpRWC1jVUlLdF9Fem5kYWNrUy1LdVlYYUpyd1lOLWNjNGhzZWxxUjVocnlGbzNobTVPZUxIdmxmYTB3RlkxUUFnd1FBc0IyTlZmZTRrNTVJU0hEdnpCU0l6eEVVYXc?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-23T07:40:09.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
           "title": "'Addicted to hacking': Young hacker behind historic breach speaks out for 1st time, before reporting to prison - ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHotRTVhbWRuZE1vbkNkRlV5cjUtODlSV0NJYkMyR00tVzJFUjUxNjVHc0x1ZHRiMDg5dnBvczVuQVFocHNocU8yWF85RmRpLXFaQkx1RWdZeHlscmE5UU5aR1haUmgwbEh0TWtYTEVIUEV0YmZXM0U0Unk3SXdCQm50OXg3Wkp0N3Q3eC04OHo3Y0paREU4b3gzem9ubWPSAaQBQVVfeXFMTTFaMzJodU9aZWlRMU1zandRMHc3SmJpckwzQmNHQWdDVHJ5eVNvNWtzSmowd2lyTUptdTJCUTJWZVVzX0E5RFZNT1J2YW1JcHctcUNOa3pnbW84cXE5eEthYTNqa3VPUDI3MEh0VzlfUTRVQ0VrODA0RlBGaVJuUjhlTndwc2JPM2ttVDlwQmxyREpBZXhmUjh0SXNJSGxyMGdfUzQ?oc=5",
           "source": "Google News • Cybersecurity Incidents",
@@ -191,26 +207,10 @@
           "corroboratedBy": 1
         },
         {
-          "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRkFBeGNibWhuZHlBdkF2ek12cTU0ajlNSDA0R1EyaS1ZdDhmc3FabG9YWkZGZGQ0V3Q3TGdlS0dDVi15NTF2TTY5SHJWZXQ0M05NODJDR1hLSGRpbUJ2Y0I0c0Vja3FVUFVxeFRUUVZDRjZr0gF6QVVfeXFMT25SSjgzdGtWUzUyUjl1S3RzdW1tSUpRWC1jVUlLdF9Fem5kYWNrUy1LdVlYYUpyd1lOLWNjNGhzZWxxUjVocnlGbzNobTVPZUxIdmxmYTB3RlkxUUFnd1FBc0IyTlZmZTRrNTVJU0hEdnpCU0l6eEVVYXc?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-22T02:18:32.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
           "title": "India's cyber security agency Cert-IN flags payment fraud in govt-linked platforms - The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQclhhdTJDWlhfb1k4OHJvaC02WW5TanNFYW9pN1hhRFVrNm9LekZWM0xzRFctWTdaRFpGeU9uTGh0YWVjaHVPc0VidGNEaDBKNi1ENGNaTVhnM0xrQThEODZGY3BiZTN2aUQtUFVhSDNXRFIya1pmX0JxUkdxZ3pxdDRlTGQ0Q1pBaW5YRWRYVWFXUnJVZGpYMVluYUhwZl9pNWhwUDN3b0ZwY3ZHRU9HaXRaalYydjM0aVRScFNtVENlVTFtOWVSOGVsUnJuS3g3MmdfOG1RUGl5cFlrUzVPQUVsTdIB6AFBVV95cUxNR2h2ZTFiRjQ3MF9neFJLZW5fSjBOWmxRajNTM2M1NE9pMHplRi00X0lvME8wX21CVFBUS3liTTdFZm9YZ1RTVWJET2E2M0V4Q2FLWFRQYXdoXzlIQXVCM1hVanh1ZlFRTmdOZ1lVYV9HdWxMVDBNVWZaWml6VE0zd0ppSkJLM2ZpZDlTalIyV1NMdkw1allCelZqMnFHeTdycnd5RzFmd2RXWkFVeFh2cjFCQkdzNW5LSThCWV9kaFlKZDFrX0d4MG93QWNQaEVZdEFfMjFubWsyNWlwZFUtdEs1WjM2ekdW?oc=5",
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-11-21T23:08:00.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "CERT-In Flags Cyberattacks on Payment Providers, Warns of AI-Driven Threats - The 420.in",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mNnZTRzFvd29vb0drZjFtWGZwOWZoWlVEOGp0TnJxMXVJaXplQV8wYlQtYnpldTJkUkl4RXFnblNxeVJnNmlNOXJxUUZnWnNDazUtRmpzWS1wSC1fQTVCbGlNdw?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-21T04:40:43.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }
@@ -325,12 +325,12 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 31,
+      "totalArticles": 36,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -61,
-      "reason": "Last 3 days averaged 2.3/day vs 6.0/day before.",
+      "changePercent": -33,
+      "reason": "Last 3 days averaged 4.0/day vs 6.0/day before.",
       "daily": [
         {
           "date": "2026-11-17",
@@ -354,11 +354,11 @@
         },
         {
           "date": "2026-11-22",
-          "count": 3
+          "count": 4
         },
         {
           "date": "2026-11-23",
-          "count": 0
+          "count": 4
         }
       ],
       "topArticles": [
@@ -395,34 +395,140 @@
           "corroboratedBy": 1
         },
         {
-          "title": "United States: ICE HSI, Nebraska State Patrol Secure 50-Year Sentence For Child Exploitation Offender - The St Kitts Nevis Observer",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFhVTjhHTHJkdFhnMUk4R2ZGODEzeFZNZWhvRVFKTW8wRzhpdlp6aWtEVktocml0ejJUcU5DTWdob3JqQ1FydnI0OGdpMEJaWGZJa3NLOVJwa29kNU1ZQnp2Mmt5UUlMYmt3UW9ibDd1MTRBTVVJV3VQT1o5UUJjTmNXai1YdExaYi1OQ2xBM0pDU1I0NDRlM0dtSW1uSEVXOVl2cGQ1TjBPZTV2SVFzTi1iMEpUY0FxaEdrU0dvYU5BLVlxdWhJcTVxc2k4R05acTE5eGNSNA?oc=5",
+          "title": "Seven charged over online child sexual exploitation in police crackdown across Glasgow and the west - STV News",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdzNHeG50cEN5Q2lHZE05Mmx2aXB2dk9HNUF4WkhlUm9LaWdKOG5IV2JDREg2NTBlRXFJbUNYTlFpbWMweG9tQ1hhUXhUbVNkUjdHTXYwZGV3N0J5SlUwTk5mMVRNMmtkcFNrNFpKMEhOWV9kVy1uaW5kdHFpS3dHdThGVDVsRVZnajJ3SUwzUFhfQTFneTk2YTF5NnhscHR2Q0lFQXdWNGtqdGRSaXl6THlfb01jdnJiWkhRczduSkRJSGRTU0xNUnBCTmM?oc=5",
           "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-22T14:35:16.000Z",
+          "publishedAt": "2026-11-23T07:16:49.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         },
         {
-          "title": "British woman speaks out after husband arranged 13 years of drug-facilitated sexual abuse - SSBCrack",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzVzMGxqWVpUVFZFNGE4c1VReEw0YktGdjZSaGJLTXROX2otNTVXdFdzSHgyUmU4WEIwRGllaGFXWDFJUXJvTnV2dTAzMXoxTWJLV2RrWkZlVnkwREhIWWxEc2h2WWRyX1p5QjIwMmJhR2dSVDdTWXd2c0xuUnR3enBnNGVOeWcxcDZEbHAxTENqY0RlcEFuLXNEUVZ0V0JoS0hjLXZLUzhZM0tCS1hxVWlRUU9kV1E?oc=5",
+          "title": "Eight arrested as police launch crackdown on online child sexual exploitation - Glasgow Times",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUZuMDktM2ZXUHlHQkUzZDhQeXlQSHJOMTA2NzVkY2ROY2xZYlctSExVWF9LRVhkMVZhVEo5ZFI3MTdKQUN1a0xkNHZRMk0wcGI4U0dEVTFISzNZMW9qWnRPeDU4YXRrMjFFamxKb3U3dENJeGdHQ2VFR2ZCWnlWRWtKS2puSE1kdmVyOVZfaldxZFByZERacnNtREg?oc=5",
           "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-22T03:10:22.000Z",
+          "publishedAt": "2026-11-23T06:00:00.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         },
         {
-          "title": "As teen sextortion surges, U.S. tech companies’ choices make abuse harder to stop - Japan Today",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTRJWl9ROFNZMTg5TXBkV3lHT204cmJ5S3FlZzdWYkpZYlI0TzlxdU9LeFJzTEQ1eUp1RmVjT0dYVjRiLV94VmFPc0s4dDVYVmdZak1nSFhIdF95STFvZHdDZUJQN2dSY0o0aXBNdDVnVlBvemZRVFFrRlU3QjFzY3d6THp4Nk9xeU1ZUVdKcFROVGc3N0JUUEpIN1hfdk9xTkJGcmx1WkozZDBseTl4SzQxU0VjX3JLZFgySWN5b18?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-21T20:51:00.000Z",
+          "title": "U.S. Senate Just Took a Big Step to End Online Child Exploitation - Clarksville Online",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpxQlN0ejRLcXhvTWJiclJDMWVDOGllVjJ1U1NKSGQ0b0loTVVUbHBfU2VIZkp2S0tEb0F4dVRDZ1ptOU4xcXVOZFRVWDZLajlGS2UwbHVack13MFREaEdmTUVJbXUwVFczeHZNTExQY3RfT0dKdElPOXQ3T21GSUpFTUlfQ2UxVWRvdWZyaVU4d25SVDlkLUVFbmxOVjAwSE8xaWJJeEFfU2Q5VndB?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-23T04:00:02.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         },
         {
-          "title": "New laws to protect children from online sexual abuse - The Manila Times",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamRiM0ROU1JlQjB3Mmt5NURJbmstR3QxUnZkRWdPTlZPckhfdFNqSFJub1d2YkNwWG1QdHJFZ2tQeE5mZ0ZrcG1JcUNWRExmNVZDX2E0WTFvR2VHODJ5Z3BSMEQ4bnVUelZJcGNpM2h5TUwwczI2UnJGUzEzWEJfLWVQanhOTXF3al9CUWVpdmJkc1NJNzFBUnFmYWkzajQ1cWk1Z09Qc3lYbUxTVnBBT1dNUk4zUlHSAbwBQVVfeXFMTVNEUEdqci0zTHZvaVFXWVJPTUFsaDNzZEI3OU9NV2w5R1V3cjhCQXhrcUZnTzJNZHgwams5M0ZmR3NFNjE3REhFSUowQll1azNkdER3Y0xweTRZdUVNdjViUmxZbnRyUVVjTmtLaVJpZGMxR3FaOWkwYmdQWFRrSGRuLXlKdUxzMnZSeWRWcEh5NkJJRVctdUhtNVktVWpjTFdubm5XVHFPeDFLdVI0b09VUjJ6cUdUdHp3S3c?oc=5",
+          "title": "Johnson City man charged with sexual exploitation of a minor - Elizabethton Star",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeVFrcWY1Nnd1NWNsSTZwRFBrM244eFY5dWl6VGlpeDd5dDVjakdiUjh5Y3ZNcUVnd2Z4NlU3Rnp0dGNMb3RkTnhlbkpJeE1nOXVhZUc1RVoxSTBMT1V6bnAwYUZKYl9Ha0lSelRGd08wN0U4RldNOUszZWJrT0ZsRXVTWTlqUXM0VU9ZWWdmZzBuN1RhUFM2RXo3NWJJcDhSbnJsdTlJXzRwdHpNQWlYSWhxSm9TNWJRY1VldmlZdkZ1VG5ISmdaMXd5QVF3bUVnUnV5RnN4UTVIQ21ndHJPNU1sX3ZTM0dEcThhTGJkSUo5VFE?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-23T00:40:17.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "child-abuse-nudity",
+      "label": "Child Abuse / Nudity",
+      "totalArticles": 25,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Falling",
+      "changePercent": -58,
+      "reason": "Last 3 days averaged 2.0/day vs 4.8/day before.",
+      "daily": [
+        {
+          "date": "2026-11-17",
+          "count": 7
+        },
+        {
+          "date": "2026-11-18",
+          "count": 2
+        },
+        {
+          "date": "2026-11-19",
+          "count": 6
+        },
+        {
+          "date": "2026-11-20",
+          "count": 4
+        },
+        {
+          "date": "2026-11-21",
+          "count": 3
+        },
+        {
+          "date": "2026-11-22",
+          "count": 3
+        },
+        {
+          "date": "2026-11-23",
+          "count": 0
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Greenville Man Arrested on Child Sexual Abuse Material Charges - WIBC 93.1 FM",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNkFHZDNtak5OTldlUHBXd2ZYc29FdGpCaVVjdXYxUVFCVW9vdzhjWWtrd1FnbWhtTXVpTnRWendZMG1Td0lGTWc4NGo1amtLdHVnQmM1RmJPcWpTdVRkVi00WS1QbkhILTZlb0E0MXdnQ2xCMzd4MWUwWFRXTGw4eWw3RGxLa1l3WlgwVjM5dU8?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-21T16:05:00.000Z",
+          "publishedAt": "2026-11-21T15:32:50.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Warren County Man Sentenced to 110 Years in Child Sexual Abuse Material Case - Royal Examiner",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTNlcTJPak1NcmZTT1U5dkQ5MlFBamNXOUdSd1VrdjBRSVB1bDFDUV9iYzlOSk9kVFB0V0NRbUJlbHVQUFZ5UTlPdUNfUl9lb1hrdUxxNW9DcmZVaXZZd1JvcUp0UWhxTEowREN0ampvLVRLU213MGFGZ2E1WnU5d0tIcG9iNFZTanEtblBhWjNLcWJVZkVELS1MaW5Pd28yenp2aHZR?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-20T03:40:53.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Over 100 child sexual abuse materials found on Antioch man’s phone after he confesses, affidavit says - WSMV",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVlGSEFtUEY4TWZEbXhFaTFkNWdlaVl5WnB5dkdpUkUyZEFxdUY3NWRudjV5U0x1YVJrU20xR3BpdzhBS0J5d1plVUxTTkx1ZlRFLWY4XzhoSkJqTjdZQk80WHpKakVmUkJpVVgwS0x3akhkTldLN09JMndzWWxJaG1sZndSbEE1dEZxOUU4X1BXYmd4UEg1UlNsQjluRmZucEt3NVBvWXVHVEdsbDJLV1hPamhicElKNU9vcE5vdk11SnE5TTJUVQ?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-19T19:08:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Ofcom tightens child abuse material rules as AI fuels rise - Resultsense",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGNXNlBJdnM2cE11NGkycEhWVk43NWgzcl9CajhiWm53V0xKRmR0bEJGY2RLUWlGTnV3N2V1Mm5odTE5OFlNMnlSajJTcjFnX1RNcHF4bFJ5bm92YmtqdU1ZQlhfeWdBWTRyNW1raC1UVUVta1pXYzAyTXQ1dEhmMlFKQ1o?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-17T10:54:06.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Madison Man Arrested for Possession of Child Sexual Abuse Material - Eagle Country 99.3",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0g5TlJyWVE4ejJwa0lDMDNxR2Q5b0UyZHlDZWZjVUVWX1U2N2EtOTdoTTlKS2ZHTERTWVJ3SHJwQk1ic0pLUVJpVTZyZGs1QXZOYTQ3Nk5DLVJlbjB5emx2YzA4NXV5VlBWaC1YckpkdWZNT0YxSFkybU1BeGRDNHBqakM4R1ZDZXFUNHJxa0NFNzdHT184MkkzSGRNbmFXYjU2SW5QZmJUMHMxV25rN1NDSDJCT0o5TUE?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-16T21:19:24.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "ChatGPT users who seek child abuse material face 24-hour suspensions - PPC Land",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnY1THFCWGhRVnVNVl9PUUJuVnhEcGZ1LVpnSG1HZTUxTEZPaVVFWFFxYXl5VEFzSTQ2d0IxbzZaU053Q2FUUV9EWDNOTERpVE5TSmtHdkZEbTNmNTl1TmoyT1Vjc1ppSGN0S2N2c2s2ZE9tQ2hTeWV5dFFsNjJFZVRSZ0dzaldtOHNEZGhPaw?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-16T21:09:56.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "EU extends temporary rules allowing detection of online child abuse - The Portugal News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWFsTVcwMFY4emtsVjdjNXNQakpZV2dKMWVDVGJSMUg1V1htbVRlMzFnM3k0T0VDYzhETUt1ZlhtUnd6M0ZZb3E3U0FoUkhhXzlPeGtxblg3RmlqMXk1X01memg4OGtvcmlMYUVKYTA2U1k3ZERndWdsTEg3ekN1M0F5ZWdzVjNzODFTc09ZTF9UbUthZmtkTGFLNHZMdVc4ZjZOckVyT3hub2dNcVRmSXl1Qy1EWGdNbzc3WktPYUE?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-22T04:18:29.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "AI is worsening online child sexual abuse. Are we prepared to respond? - The Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0xGeWtBLUp2UnpGSzRuV0l5TWRHN2g4NXlpTHlXOEJzUzgxNnpFVlFHcGFIRlVKWGZWdHFydzRSVFplMVkxeUdVVTlSWjFBRWJVb2tfUDBJZjdnOC00UmtaT2V5NXpYVkJDeXYyQTAzTWtEQ3dMcDRqaE1JeHNKTzZRRi1DR0lrTW9ZNFZWeURpM1locFBSVjI1YU5RdmZyLTF6NjJOR0pkdFJjWkdlME9xbi1fV283T0E?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-22T03:01:05.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
         }
@@ -535,148 +641,42 @@
       ]
     },
     {
-      "theme": "child-abuse-nudity",
-      "label": "Child Abuse / Nudity",
-      "totalArticles": 24,
-      "distinctSources": 4,
+      "theme": "violence",
+      "label": "Violence",
+      "totalArticles": 13,
+      "distinctSources": 7,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -65,
-      "reason": "Last 3 days averaged 1.7/day vs 4.8/day before.",
+      "trend": "Stable",
+      "changePercent": -17,
+      "reason": "Last 3 days averaged 1.7/day vs 2.0/day before.",
       "daily": [
         {
           "date": "2026-11-17",
-          "count": 7
-        },
-        {
-          "date": "2026-11-18",
           "count": 2
         },
         {
+          "date": "2026-11-18",
+          "count": 0
+        },
+        {
           "date": "2026-11-19",
-          "count": 6
+          "count": 3
         },
         {
           "date": "2026-11-20",
+          "count": 3
+        },
+        {
+          "date": "2026-11-21",
+          "count": 0
+        },
+        {
+          "date": "2026-11-22",
           "count": 4
         },
         {
-          "date": "2026-11-21",
-          "count": 3
-        },
-        {
-          "date": "2026-11-22",
-          "count": 2
-        },
-        {
           "date": "2026-11-23",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Greenville Man Arrested on Child Sexual Abuse Material Charges - WIBC 93.1 FM",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNkFHZDNtak5OTldlUHBXd2ZYc29FdGpCaVVjdXYxUVFCVW9vdzhjWWtrd1FnbWhtTXVpTnRWendZMG1Td0lGTWc4NGo1amtLdHVnQmM1RmJPcWpTdVRkVi00WS1QbkhILTZlb0E0MXdnQ2xCMzd4MWUwWFRXTGw4eWw3RGxLa1l3WlgwVjM5dU8?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-21T15:32:50.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Warren County Man Sentenced to 110 Years in Child Sexual Abuse Material Case - Royal Examiner",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTNlcTJPak1NcmZTT1U5dkQ5MlFBamNXOUdSd1VrdjBRSVB1bDFDUV9iYzlOSk9kVFB0V0NRbUJlbHVQUFZ5UTlPdUNfUl9lb1hrdUxxNW9DcmZVaXZZd1JvcUp0UWhxTEowREN0ampvLVRLU213MGFGZ2E1WnU5d0tIcG9iNFZTanEtblBhWjNLcWJVZkVELS1MaW5Pd28yenp2aHZR?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-20T03:40:53.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Over 100 child sexual abuse materials found on Antioch man’s phone after he confesses, affidavit says - WSMV",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVlGSEFtUEY4TWZEbXhFaTFkNWdlaVl5WnB5dkdpUkUyZEFxdUY3NWRudjV5U0x1YVJrU20xR3BpdzhBS0J5d1plVUxTTkx1ZlRFLWY4XzhoSkJqTjdZQk80WHpKakVmUkJpVVgwS0x3akhkTldLN09JMndzWWxJaG1sZndSbEE1dEZxOUU4X1BXYmd4UEg1UlNsQjluRmZucEt3NVBvWXVHVEdsbDJLV1hPamhicElKNU9vcE5vdk11SnE5TTJUVQ?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-19T19:08:00.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Ofcom tightens child abuse material rules as AI fuels rise - Resultsense",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGNXNlBJdnM2cE11NGkycEhWVk43NWgzcl9CajhiWm53V0xKRmR0bEJGY2RLUWlGTnV3N2V1Mm5odTE5OFlNMnlSajJTcjFnX1RNcHF4bFJ5bm92YmtqdU1ZQlhfeWdBWTRyNW1raC1UVUVta1pXYzAyTXQ1dEhmMlFKQ1o?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-17T10:54:06.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Madison Man Arrested for Possession of Child Sexual Abuse Material - Eagle Country 99.3",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0g5TlJyWVE4ejJwa0lDMDNxR2Q5b0UyZHlDZWZjVUVWX1U2N2EtOTdoTTlKS2ZHTERTWVJ3SHJwQk1ic0pLUVJpVTZyZGs1QXZOYTQ3Nk5DLVJlbjB5emx2YzA4NXV5VlBWaC1YckpkdWZNT0YxSFkybU1BeGRDNHBqakM4R1ZDZXFUNHJxa0NFNzdHT184MkkzSGRNbmFXYjU2SW5QZmJUMHMxV25rN1NDSDJCT0o5TUE?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-16T21:19:24.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "ChatGPT users who seek child abuse material face 24-hour suspensions - PPC Land",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnY1THFCWGhRVnVNVl9PUUJuVnhEcGZ1LVpnSG1HZTUxTEZPaVVFWFFxYXl5VEFzSTQ2d0IxbzZaU053Q2FUUV9EWDNOTERpVE5TSmtHdkZEbTNmNTl1TmoyT1Vjc1ppSGN0S2N2c2s2ZE9tQ2hTeWV5dFFsNjJFZVRSZ0dzaldtOHNEZGhPaw?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-16T21:09:56.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "AI is worsening online child sexual abuse. Are we prepared to respond? - The Daily Star",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0xGeWtBLUp2UnpGSzRuV0l5TWRHN2g4NXlpTHlXOEJzUzgxNnpFVlFHcGFIRlVKWGZWdHFydzRSVFplMVkxeUdVVTlSWjFBRWJVb2tfUDBJZjdnOC00UmtaT2V5NXpYVkJDeXYyQTAzTWtEQ3dMcDRqaE1JeHNKTzZRRi1DR0lrTW9ZNFZWeURpM1locFBSVjI1YU5RdmZyLTF6NjJOR0pkdFJjWkdlME9xbi1fV283T0E?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-22T03:01:05.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "23-year-old southern Indiana man arrested for allegedly sharing child sex abuse material - WTHR",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPTTB2TzdwSFN6VjgybXBzTVNaQUpYZEpZVGU5Q1gtYUNaUkZPRnZIaE15dDZaMnk5b0JSc0l0ODZ2SjVNYUsyN3VPVG9ieVpyZWRYSm40dlhCSlJINlNESWV1WUprWXNmc3dpVUFDUjlIMkE0am5aMHlQWHpwS3FHeFJIMFlqTGdOendXZ2cwRHhQYjBpZjdTYUlVZkhHLWhITGpxeGk3aDVKYUZWN3FNVE1IRFN1WHRxZmk1Y0JiVGlmVGtEZ3ZVeHZQdzAwOW9NMlFKSF9xcnNlaUlXcTlKMEdxbG4xZ3RtVll5dHVWWmFtT1Z0MUw2V245LVUzQjNvVGJ0V1QzaTdUWFh0Y3R2aTdnTWF0VnQyYWhHOFUycnNISWdOSVhCenNoSzJWWG50SU5JbWNrUGc4NTFfU1BFT01VanYzQlNWR1AyOQ?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-21T19:03:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "violence",
-      "label": "Violence",
-      "totalArticles": 11,
-      "distinctSources": 7,
-      "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -50,
-      "reason": "Last 3 days averaged 1.0/day vs 2.0/day before.",
-      "daily": [
-        {
-          "date": "2026-11-17",
-          "count": 2
-        },
-        {
-          "date": "2026-11-18",
-          "count": 0
-        },
-        {
-          "date": "2026-11-19",
-          "count": 3
-        },
-        {
-          "date": "2026-11-20",
-          "count": 3
-        },
-        {
-          "date": "2026-11-21",
-          "count": 0
-        },
-        {
-          "date": "2026-11-22",
-          "count": 3
-        },
-        {
-          "date": "2026-11-23",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -697,18 +697,34 @@
           "corroboratedBy": 1
         },
         {
-          "title": "How a section of Indian media falsely portraying Narail violence as communal attacks on Hindus - The Daily Star",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVFdElka1hUTDJ3RnNUcXNpVWFHZHU2WW94NVhfeUdCcWJCcENDM1FkLXYycUQxUV9OQlM0TE5Bc1JCaXNtN0dCbWMyZ2FYaEpxUGNTNWdDZlIyY2tyLVFMcEs4NmFIZldTbVFGczl6LXcwOVdWcnluQnZ4SG5qWUZJaGI3VHR2NG5VeUVfQ0ZqSXB3TTNZN1NGRjBjbklmc3RiX0trQWFhYnpJRzZTa2YyTG81V0w4RDJFOXB4NTdLdFJrM0NoM3NB?oc=5",
-          "source": "Google News • Misinformation (India)",
-          "publishedAt": "2026-11-22T17:25:46.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
           "title": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ - OregonLive.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1BUbmluVWh6NXpVUkFQbTRGUG5EUWhTY0xybGdRV0c5TnpDRnU2b29hblE5UHE3V3JjdTRBMHlVQ3QxalNzMXNPU2JHVi1NZVZiMVBlM0w5LUFpR0FxTmxLVzdkbzRURHBnaXhFeG1ZZDNrbVdoY1U2TEphYUVjeWwzRFZGejJjZVk5dGRBbVNUclVfMXpTdXN2Y3Y3VDE5MnIzdi0wMEFKelVpUE1Jdkw0MVlOMHZIQmc5TjVDZFJRaXZpMkdra0M1cVZqdnPSAeMBQVVfeXFMUGVVR3A2UG9rZ2g0dXo2azVQdzhEV0RrX2w0QjR4cHF2cUc0cUNOT28wc285ckhrQkltcWRZcXI2ajhHdXc3VHJEUWw3Nk1aLUUxZ0VVeEc5WS1pNHFPOHRJR0VzeVZ1ZkJQakRFd1FscFJPLVBrbS1JeGtleFlRd2ttanZGaEFpdTNTcDluQjNyN20wM1ZiQUlJdmhZdGE4akJ0NkJPc3pYUHcxTS1ydUhiTldMTy1MNTl1UGdwaWI2T0ltbkNVS04wdkRZYTBLN3lobEpYMEd0aFpkVzQySUZibW8?oc=5",
           "source": "Google News • Dangerous Criminal Organizations",
           "publishedAt": "2026-11-22T16:23:00.000Z",
+          "riskScore": 51,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ - OregonLive.com",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVVHcDZQb2tnaDR1ejZrNVB3OERXRGtfbDRCNHhwcXZxRzRxQ05PbzBzbzlySGtCSW1xZFlxcjZqOEd1dzdUckRRbDc2TVotRTFnRVV4RzlZLWk0cU84dElHRXN5VnVmQlBqREV3UWxwUk8tUGttLUl4a2V4WVF3a21qdkZoQWl1M1NwOW5CM3I3bTAzVmJBSUl2aFl0YThqQnQ2Qk9zelhQdzFNLXJ1SGJOV0xPLUw1OXVQZ3BpYjZPSW1uQ1VLTjB2RFlhMEs3eWhsSlgwR3RoWmRXNDJJRmJtb9IB4wFBVV95cUxQZVVHcDZQb2tnaDR1ejZrNVB3OERXRGtfbDRCNHhwcXZxRzRxQ05PbzBzbzlySGtCSW1xZFlxcjZqOEd1dzdUckRRbDc2TVotRTFnRVV4RzlZLWk0cU84dElHRXN5VnVmQlBqREV3UWxwUk8tUGttLUl4a2V4WVF3a21qdkZoQWl1M1NwOW5CM3I3bTAzVmJBSUl2aFl0YThqQnQ2Qk9zelhQdzFNLXJ1SGJOV0xPLUw1OXVQZ3BpYjZPSW1uQ1VLTjB2RFlhMEs3eWhsSlgwR3RoWmRXNDJJRmJtbw?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-22T13:00:00.000Z",
+          "riskScore": 51,
+          "corroboratedBy": 2
+        },
+        {
+          "title": "Big Tech: The industry that profits on rage, hate and violence - https://thepoint.com.au/",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN18tTDlaMHpPdmtZZktsT0psYTdjQkJOOHlkemgtV1IyeWlodmp6eHVKem9TS3JZeXBORFRWblEtOVRxd2tKNm82Ul9tN0J2MWp0YkRZMDFCMHJGX2REVVA2bUt2LUM2QUJkVzJGMDB4QXdDRHNtM19sU0gtY1ZkV2l0dkhqMm1abVY3R0xzSHNBb2hQNXpLOUEtTkdaa25ESVE?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-22T23:30:46.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "How a section of Indian media falsely portraying Narail violence as communal attacks on Hindus - The Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVFdElka1hUTDJ3RnNUcXNpVWFHZHU2WW94NVhfeUdCcWJCcENDM1FkLXYycUQxUV9OQlM0TE5Bc1JCaXNtN0dCbWMyZ2FYaEpxUGNTNWdDZlIyY2tyLVFMcEs4NmFIZldTbVFGczl6LXcwOVdWcnluQnZ4SG5qWUZJaGI3VHR2NG5VeUVfQ0ZqSXB3TTNZN1NGRjBjbklmc3RiX0trQWFhYnpJRzZTa2YyTG81V0w4RDJFOXB4NTdLdFJrM0NoM3NB?oc=5",
+          "source": "Google News • Misinformation (India)",
+          "publishedAt": "2026-11-22T17:25:46.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         },
@@ -727,20 +743,110 @@
           "publishedAt": "2026-11-20T09:16:43.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
+        }
+      ]
+    },
+    {
+      "theme": "violent-speech",
+      "label": "Violent Speech",
+      "totalArticles": 8,
+      "distinctSources": 2,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 33,
+      "reason": "Last 3 days averaged 1.3/day vs 1.0/day before.",
+      "daily": [
+        {
+          "date": "2026-11-17",
+          "count": 1
         },
         {
-          "title": "Indian campaign against online violence wins 3 Shorty Awards in Los Angeles - Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFpLYnEyYlYtMWZFZ0NNbFBrekxleXQ1QU04SUZ4MlJmM3ZaLXFPRHRQUEFDVHVyWnZrOVBkWk9MY3c2eC1SQUtIYjlWZ296X1l3dVl5c1BhOWdHOTdBdVBJeHpOR2s2aXR5UUtBVGVWUjFjVXliSDJubnJqb1N3NVRDVWk1elpqWWlBTmMtR1lMd3B5UmpSU0hON2d2WWhmblREYUdR0gGrAUFVX3lxTE5XMkIwU2xqOGdHZkI3TWNEb1BDMWFYVE9ZSHRoZ2N2THFJckFrTGIzMWZwU3RPaUVWWll0bER3OHU0VERlMzY3dTAwbmhjVWFsOUxaRFpibzJVcUZ3WkZiNzhnR3NtZmRFT2FLTERVWU5aa2pwR19NOHdhTHhzY0lnSVp5Xy1jRWFSZzdyUDNzRXlGQ3hzQWwwSkV1TnA5YmZVa1VSN0tmNkJ1OA?oc=5",
-          "source": "Google News • Violent Speech (India)",
-          "publishedAt": "2026-11-20T08:51:23.000Z",
+          "date": "2026-11-18",
+          "count": 1
+        },
+        {
+          "date": "2026-11-19",
+          "count": 0
+        },
+        {
+          "date": "2026-11-20",
+          "count": 2
+        },
+        {
+          "date": "2026-11-21",
+          "count": 2
+        },
+        {
+          "date": "2026-11-22",
+          "count": 1
+        },
+        {
+          "date": "2026-11-23",
+          "count": 1
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "Anti-Hindu Hate Register flags 1,556 hateful comments, refers threats to Victoria Police - The Indian Sun",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFqajNPNG5JT1lyeDBhbGtSdEY0WEJoekVTeGJDZWZEVjF6MlJwTVJ4UkYxWmpQWHIzTnplMUlVSXFtc2xuWHVWNDFHQzFNcDZmYzZ6dXZ0bWplY2xfMUZrUnlpcWRtUmtDMjVILWZhdVd2NkY0SFUwbGNmX2hUbTFsS3pLdjBqaFp3Ym9Sa19YQjB5Yi03WU5Fc3U4WWF0am1zcDhIbjk0M1ZVUUQ1V1hmbG5BN1k2aTMwd2lfQURTV1d5QTlXWkl3?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-23T04:18:52.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         },
         {
-          "title": "Three Shorty Awards. One Big Fight. Girl Effect's India vs Tech Hinsa campaign brings Global Spotlight on online violence - Big News Network.com",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbklxcTgzdVR5bTFLV0NZNWpMRkZrZ2cxOVdTcUJyT0RETE9QeFJSUnlSUWM1OERsQU5yTHZzemZLejdNblRmUkpyV1AzYXd0QzdzNVJrOVVRdnpSX041a0FTZUlaTTI1NV9VS0xIN1NDT0V6NnlkR3hOcThvMVpLcV8wSE1HT3lxTU81STFkUXRaY3VpZ0dfNXBhMFpNNDV1SG1mMFZkRzhBRk10VnpQWjgwMWtfd1gtQWsweXNNaVBsRk5lZm5VdXhVZFd0Q3QwQjF1NHFGal9xUTNvUGlyOUIwQ2lfeHFKS0ZYbjhiQWJFTFBoNnc?oc=5",
-          "source": "Google News • Violent Speech (India)",
-          "publishedAt": "2026-11-20T08:15:00.000Z",
+          "title": "105 members of US Congress urge FBI to investigate Illinois Hindu Temple shooting plot as potential hate crime - First India",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFdJczAwUXBHNV9RUVRMQ0FnUHJxVndBRkttUlNpNnFQTi1TZjdIbDZLVnpIV3J3RHY0RHo3MndDVzZzbXVJV3ZFN2JKay1NSnZBYTJ3TTJZbXdrVTg2cHRSUnNmSFB5ZWhBV3hjNm1sd05ydjM2M0dySG0xTmR2QTlDdTd6RFREMzY4b3l2dHRISHVXeVBVZjFUYzQ4SUcyVmJtT2NJR25zZ0RsaktGV283RlpjVVlqanRLUkFpbFpKYVdRYTVRd3JhN1lPTk9lMmNrZGVldFpjTTdPYmxHV2NhZUI1UTRudF93?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-21T22:16:21.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Canada: Indian-origin couple killed near Walmart store; Dramatic targeted shooting alarms rising anti-India hate crimes - Organiser",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSHBTRXU4M05wQkVLR29RQnp0Vm9KaEZETWJNcEVUVFdvUWZiYUxfclN4Tmk3Y20xZU95cDJaeXN4LVp0Z3ozNldaU04tZE9FalB2LS16X3ZYelB3bFNzb0UwOURkVGJYVXN5T2tJV3YxOGh5QndZeFBUcTJ5QkdlOEdvTGZqWFNFalV0NWtlVXZieEFtTlNVQ0lIN0RjUktpVkNIajZZdG10N3Y3RVU5dXltTUJydTNjSlVLSlZCOF8wU1UyNDlQUzRGWGNNdkdocUd0bUpNNHlEY2cwd05oVjNONzFKOC14NFhGczExekV6cjdfb19HamZvMFp6TDNlQ3fSAYcCQVVfeXFMUEkzN1pVQ0lnUy1POTRwVWxvY2o3T2xvY0FyNC1rU1hDemREcnBucnJNVVctR0E3Rk1pOVYyRjd6aWhrNmM0ZkNyT003RmY2M2VCNXNtVkNuRklHQzExSElDdkUxbkZTQXBQVW5tOF9yd1JSVThCYTlGck5HbXNTbTZ1SF82Sy1zTUJ4UHlDSTdyalZ4Q3JfUGtieUptQnV2a0NITGk5WHItZEZyR2FyaWFhZGJkbVFLY3VTMUZVQTdtV3pqVjFvVTMzQlRGMUxZN0U3TC1PQkpoQUhQOXY4LU5iM1ZRZngtNXFOLURTdXN5bTZBWDBDcm8wa0xER0Y0cjZKZmpGS0E?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-21T14:14:45.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "105 members of US Congress urge FBI to investigate Illinois Hindu Temple shooting plot as potential hate crime - First India",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFdJczAwUXBHNV9RUVRMQ0FnUHJxVndBRkttUlNpNnFQTi1TZjdIbDZLVnpIV3J3RHY0RHo3MndDVzZzbXVJV3ZFN2JKay1NSnZBYTJ3TTJZbXdrVTg2cHRSUnNmSFB5ZWhBV3hjNm1sd05ydjM2M0dySG0xTmR2QTlDdTd6RFREMzY4b3l2dHRISHVXeVBVZjFUYzQ4SUcyVmJtT2NJR25zZ0RsaktGV283RlpjVVlqanRLUkFpbFpKYVdRYTVRd3JhN1lPTk9lMmNrZGVldFpjTTdPYmxHV2NhZUI1UTRudF93?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-20T20:24:56.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Police Warn Against Social Media Misinformation, Incitement in Kogi - Kogi Reports",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUJQX2hVTVdPX0VlVHFCc3hQYkZhaW9odDl6bXhEUjVpSGUwT05CSDZrTGFnZ3hnY2haOGFBMGdlVEI5WGQxQUVaQ01DNExGOEJtWmJUZnVPSm1SSVF2eURMUUNoUl93TnJ0VXN5eDE0MmpWRDViem56bmw2THB5VWVaWU5xX0xJLUxSYk9sbW90a2hfdWc?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-20T17:20:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "CCF intervenes in Crown’s attempt to expand reach of hate speech laws - Canadian Constitution Foundation",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzdUY3FwT2s0V1VjM0NLNkR2aVNsVG5aWXhDcm9KNWdLOFM1STFNcmc1bzdySUVnUVRuejVuVVI2clB6WjZvX3VrWjVRcEx3Y3hSQnZLUmJkblBtbEpHdVlSRlNKdl9tZmJLUGY0eVB6R05SNGtvNkRPUTdUMWhXVnBHQWp3Rk9FSUFRSWhiYU0?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-20T14:36:28.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Anti-Arab online hate speech surged around Israeli election, report says - Arab News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnJXWGZMSkptOTEwUGZwdkxLN3o3TWRFTVRSTHBOeFMxM3RGalZmLUg4dWJfeWZyN0NJazNFeEVNeV9jX0J0UkhKOFBhNk1TUjZtTUlpdXJWbk9RM3FuOTc2bFhhT1RpVk00TWs0a0pWQnM2UVFVUGlsMnVsOGZPa2tPc1lfcHhtY3ZLR2VtdWN2Z1hLZ1phdC03TGx2ZUdweW5EdUstSWpLMmRjdUJv?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-17T20:45:01.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Somali-American Uber driver left in coma after alleged hate crime in Minnesota - Middle East Eye",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWW9USndpU3d5SEkyMWo2aGlSaXpRekZrMFpmVjdrYkFtbzVDdElrU1dCRVRMeGZ3N2QwLS1LSDNuLXlCMllybDNkczNtZDZJZmFyOG9GazRydHU4djhHR3BRQjRHODJJbEhQTjEybnFyTEZfWlVySHFSN2F2X2ZfWENIc0FzSUhhQ043U1loX1lEc3RiN0NwU1JNQ0I1RWc2V3I0Wmt6YU52NXFMbFFrTg?oc=5",
+          "source": "Google News • Online Hate (India)",
+          "publishedAt": "2026-11-16T20:05:00.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }
@@ -840,104 +946,6 @@
           "source": "Google News • Human Exploitation Abuse",
           "publishedAt": "2026-11-17T08:36:46.000Z",
           "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
-      "theme": "violent-speech",
-      "label": "Violent Speech",
-      "totalArticles": 7,
-      "distinctSources": 2,
-      "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 0,
-      "reason": "Last 3 days averaged 1.0/day vs 1.0/day before.",
-      "daily": [
-        {
-          "date": "2026-11-17",
-          "count": 1
-        },
-        {
-          "date": "2026-11-18",
-          "count": 1
-        },
-        {
-          "date": "2026-11-19",
-          "count": 0
-        },
-        {
-          "date": "2026-11-20",
-          "count": 2
-        },
-        {
-          "date": "2026-11-21",
-          "count": 2
-        },
-        {
-          "date": "2026-11-22",
-          "count": 1
-        },
-        {
-          "date": "2026-11-23",
-          "count": 0
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "105 members of US Congress urge FBI to investigate Illinois Hindu Temple shooting plot as potential hate crime - First India",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFdJczAwUXBHNV9RUVRMQ0FnUHJxVndBRkttUlNpNnFQTi1TZjdIbDZLVnpIV3J3RHY0RHo3MndDVzZzbXVJV3ZFN2JKay1NSnZBYTJ3TTJZbXdrVTg2cHRSUnNmSFB5ZWhBV3hjNm1sd05ydjM2M0dySG0xTmR2QTlDdTd6RFREMzY4b3l2dHRISHVXeVBVZjFUYzQ4SUcyVmJtT2NJR25zZ0RsaktGV283RlpjVVlqanRLUkFpbFpKYVdRYTVRd3JhN1lPTk9lMmNrZGVldFpjTTdPYmxHV2NhZUI1UTRudF93?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-11-21T22:16:21.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Canada: Indian-origin couple killed near Walmart store; Dramatic targeted shooting alarms rising anti-India hate crimes - Organiser",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSHBTRXU4M05wQkVLR29RQnp0Vm9KaEZETWJNcEVUVFdvUWZiYUxfclN4Tmk3Y20xZU95cDJaeXN4LVp0Z3ozNldaU04tZE9FalB2LS16X3ZYelB3bFNzb0UwOURkVGJYVXN5T2tJV3YxOGh5QndZeFBUcTJ5QkdlOEdvTGZqWFNFalV0NWtlVXZieEFtTlNVQ0lIN0RjUktpVkNIajZZdG10N3Y3RVU5dXltTUJydTNjSlVLSlZCOF8wU1UyNDlQUzRGWGNNdkdocUd0bUpNNHlEY2cwd05oVjNONzFKOC14NFhGczExekV6cjdfb19HamZvMFp6TDNlQ3fSAYcCQVVfeXFMUEkzN1pVQ0lnUy1POTRwVWxvY2o3T2xvY0FyNC1rU1hDemREcnBucnJNVVctR0E3Rk1pOVYyRjd6aWhrNmM0ZkNyT003RmY2M2VCNXNtVkNuRklHQzExSElDdkUxbkZTQXBQVW5tOF9yd1JSVThCYTlGck5HbXNTbTZ1SF82Sy1zTUJ4UHlDSTdyalZ4Q3JfUGtieUptQnV2a0NITGk5WHItZEZyR2FyaWFhZGJkbVFLY3VTMUZVQTdtV3pqVjFvVTMzQlRGMUxZN0U3TC1PQkpoQUhQOXY4LU5iM1ZRZngtNXFOLURTdXN5bTZBWDBDcm8wa0xER0Y0cjZKZmpGS0E?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-11-21T14:14:45.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "105 members of US Congress urge FBI to investigate Illinois Hindu Temple shooting plot as potential hate crime - First India",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFdJczAwUXBHNV9RUVRMQ0FnUHJxVndBRkttUlNpNnFQTi1TZjdIbDZLVnpIV3J3RHY0RHo3MndDVzZzbXVJV3ZFN2JKay1NSnZBYTJ3TTJZbXdrVTg2cHRSUnNmSFB5ZWhBV3hjNm1sd05ydjM2M0dySG0xTmR2QTlDdTd6RFREMzY4b3l2dHRISHVXeVBVZjFUYzQ4SUcyVmJtT2NJR25zZ0RsaktGV283RlpjVVlqanRLUkFpbFpKYVdRYTVRd3JhN1lPTk9lMmNrZGVldFpjTTdPYmxHV2NhZUI1UTRudF93?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-11-20T20:24:56.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Police Warn Against Social Media Misinformation, Incitement in Kogi - Kogi Reports",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUJQX2hVTVdPX0VlVHFCc3hQYkZhaW9odDl6bXhEUjVpSGUwT05CSDZrTGFnZ3hnY2haOGFBMGdlVEI5WGQxQUVaQ01DNExGOEJtWmJUZnVPSm1SSVF2eURMUUNoUl93TnJ0VXN5eDE0MmpWRDViem56bmw2THB5VWVaWU5xX0xJLUxSYk9sbW90a2hfdWc?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-20T17:20:00.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "CCF intervenes in Crown’s attempt to expand reach of hate speech laws - Canadian Constitution Foundation",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzdUY3FwT2s0V1VjM0NLNkR2aVNsVG5aWXhDcm9KNWdLOFM1STFNcmc1bzdySUVnUVRuejVuVVI2clB6WjZvX3VrWjVRcEx3Y3hSQnZLUmJkblBtbEpHdVlSRlNKdl9tZmJLUGY0eVB6R05SNGtvNkRPUTdUMWhXVnBHQWp3Rk9FSUFRSWhiYU0?oc=5",
-          "source": "Google News • Violence and Violent Crime",
-          "publishedAt": "2026-11-20T14:36:28.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Anti-Arab online hate speech surged around Israeli election, report says - Arab News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnJXWGZMSkptOTEwUGZwdkxLN3o3TWRFTVRSTHBOeFMxM3RGalZmLUg4dWJfeWZyN0NJazNFeEVNeV9jX0J0UkhKOFBhNk1TUjZtTUlpdXJWbk9RM3FuOTc2bFhhT1RpVk00TWs0a0pWQnM2UVFVUGlsMnVsOGZPa2tPc1lfcHhtY3ZLR2VtdWN2Z1hLZ1phdC03TGx2ZUdweW5EdUstSWpLMmRjdUJv?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-11-17T20:45:01.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Somali-American Uber driver left in coma after alleged hate crime in Minnesota - Middle East Eye",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWW9USndpU3d5SEkyMWo2aGlSaXpRekZrMFpmVjdrYkFtbzVDdElrU1dCRVRMeGZ3N2QwLS1LSDNuLXlCMllybDNkczNtZDZJZmFyOG9GazRydHU4djhHR3BRQjRHODJJbEhQTjEybnFyTEZfWlVySHFSN2F2X2ZfWENIc0FzSUhhQ043U1loX1lEc3RiN0NwU1JNQ0I1RWc2V3I0Wmt6YU52NXFMbFFrTg?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-11-16T20:05:00.000Z",
-          "riskScore": 44,
           "corroboratedBy": 1
         }
       ]

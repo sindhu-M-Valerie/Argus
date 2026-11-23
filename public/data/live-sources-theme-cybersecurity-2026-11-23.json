@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T19:53:37.850Z",
+  "generatedAt": "2026-11-23T07:57:19.633Z",
   "snapshot": true,
   "date": "2026-11-23",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 10
   },
-  "message": "No verified news was found for 2026-11-23 on cybersecurity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -37,7 +37,7 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 34
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,28 +51,28 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 39
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 22
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 30
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 91
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 22
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -180,5 +180,156 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Cleverbridge Confirms Hackers Stole Customer Card Numbers and CVV Codes in a Major Data Breach - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbnd2bGVvTUJweHpiVURfRG16VEphdW5sOGpPbURZUVRzSDNweDNiWGNMUVRIVDJja2RrVktadFp4bHdSS3RFMU1JN0NwZVNBV191dEZEemJpWDRvSk1MYk1IZ0FTZ9IBa0FVX3lxTE8yQVRhOHVaQmxYRzVCOURMM1lCbHRtcG54V2hhVmpRTFlWdWlYUUNTSEdIRC0zalpsQ2YwZDhrUlU3aXg2VVFsWV9yaC03YzZhLTA4VXZPSkdqal82T3UxZ0RGRURGUkhJU2NZ?oc=5",
+      "snippet": "Cleverbridge Confirms Hackers Stole Customer Card Numbers and CVV Codes in a Major Data Breach CyberSecurityNews",
+      "publishedAt": "2026-11-23T03:08:32.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRkFBeGNibWhuZHlBdkF2ek12cTU0ajlNSDA0R1EyaS1ZdDhmc3FabG9YWkZGZGQ0V3Q3TGdlS0dDVi15NTF2TTY5SHJWZXQ0M05NODJDR1hLSGRpbUJ2Y0I0c0Vja3FVUFVxeFRUUVZDRjZr0gF6QVVfeXFMT25SSjgzdGtWUzUyUjl1S3RzdW1tSUpRWC1jVUlLdF9Fem5kYWNrUy1LdVlYYUpyd1lOLWNjNGhzZWxxUjVocnlGbzNobTVPZUxIdmxmYTB3RlkxUUFnd1FBc0IyTlZmZTRrNTVJU0hEdnpCU0l6eEVVYXc?oc=5",
+      "snippet": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data CyberSecurityNews",
+      "publishedAt": "2026-11-23T07:40:09.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cleverbridge confirms hackers stole card numbers and CVV codes - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0VBUGdFM25VbUo4VUF5STU0RE9uYUcwWTJnVWZUUG03RW1Kck9MNTMzbFBGMGxHX2hFcUFEZlNHd0RUR0lkOGkyRWFaelpkd2RFdmdRanktdXMzakZrOUtlSHB3YTlOYmxIa0E3dC1JMUNEVEhtUV9uaHRsQjhOOWRDRUhvTnZkTUM3Xzc3aVBNSGZTRl93a1NqOGFqTFVwdVl0dWE5OWVJdw?oc=5",
+      "snippet": "Cleverbridge confirms hackers stole card numbers and CVV codes Pasquale Pillitteri",
+      "publishedAt": "2026-11-23T07:46:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Samsung Securities Data Breach Exposes Personal Information of 8,241 Clients - Hokanews",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUIybWxCU2VsWTJZVjJrQ1hYeUk1UzJYam1IVzV1U3pxdmFyV2phOFRBOXV1d3JUUFptcDNicXlmYlI4Rk5OcTVybHVDZkN2YzJVV0tyakdOUjFia0hyX1Nsb05teWVpeVEyUzl0ZHp0bVBWdUV3eVpRVEduN0w0QTJn?oc=5",
+      "snippet": "Samsung Securities Data Breach Exposes Personal Information of 8,241 Clients Hokanews",
+      "publishedAt": "2026-11-23T07:22:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "With the increase in cyberattacks, Vietnamese businesses need to enhance their 24/7 monitoring capabilities. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWhrVWxqMk90Si1XR3dXOTBWM0dsX1c3ejJwUWhZVFhQN2dhQ3JZUTAydW9ZT0hhSVJNU0FReFN3cWFzNFZ4XzAzSHZ6ekZqb3pXVHdJdVhIZDgyWVNVbDl4Wi1ERGZKZlViS1UzUHd2X3hCQU9GQk1Wb3pYZUhNSzhjTUdYSk02RmcyeFJ6MVBGNkVBM290RV83T0thUGxDTFMxOA?oc=5",
+      "snippet": "With the increase in cyberattacks, Vietnamese businesses need to enhance their 24/7 monitoring capabilities. Vietnam.vn",
+      "publishedAt": "2026-11-23T06:29:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Alarms raised over cybersecurity incident involving accommodation booking system - Stuff",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0pETVRhbEFYdnRicVlrTElmQ2pTLXpmWUZiaVYtYmZKR2tDNjVCcWFjUU90S1FmQThZV2hxYVRKci1YckpXVjJaaDZYTUtQYTVrYjlmQjlKZzlZcFY1VkVBZ1ZiUm5nVXFkQVFxSldFdTVRNk1ZR3JnVks3c0NRVWdkLWItQ2lBdUpxV24zMU5UenJrS19xRllkOTdKYlphbzVwZlJSOEY4cWI3NXE1NFIyNEFYZU1JbmxSX3Z6bw?oc=5",
+      "snippet": "Alarms raised over cybersecurity incident involving accommodation booking system Stuff",
+      "publishedAt": "2026-11-23T05:23:51.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bell MTS Email Outage: Cyberattack Confirmed, 3 Key Facts - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVBudG5DMGdIVXZxbnlSYmhPMWZLNVVlR2J4ZzJhcUR6SEp4RHg4WnU3TEdpV3plakxGOVBnd3J4N2I1ME1idGtVUURhd1Zvbk9SOFhUTXFfaENSODlCYUwyM2ZfRzRqV1BmYTFZYXVwZjRjVWVCZWc1c2tUbDE1YWpB?oc=5",
+      "snippet": "Bell MTS Email Outage: Cyberattack Confirmed, 3 Key Facts shattered.io",
+      "publishedAt": "2026-11-23T03:59:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How to prevent cyberattacks and protect your business - Kingy AI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDLTMzS21YeDV4RXVmbmZTRk1KRHl0WWZDSjdPX190NUlJX0NPLWRjdDVWdTV0eUFyc0pBelhrR01ETy0xbFAwMmMzaFVPejR6QlVOLWF6WTlZZEFWN1JvXw?oc=5",
+      "snippet": "How to prevent cyberattacks and protect your business Kingy AI",
+      "publishedAt": "2026-11-23T01:59:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Orchestra platforms return after travel industry cyberattack - KarloBag.eu",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlZmeVR4VmRvNFAyWXFVMWo0dHNoVlF0ZHh5OEt2RDFTZ0ZTZFA1QURBaDFzSWV6VUE5RERrRlBzMDJybFUzbjNsSWxEX01mWERyUlNCVHNqQ2hheFJkVHlQanVNUjdIdWcyM2Z0UktKNkVmcndtRXBCYnhZamNhM21BNGV1ZlJUQ0V1WFRGcjlncjFEanMxU2tLWjFCWUJNWEgzV1Q4WVN0Zk5OY3ZRQWNkZE5IQ1NN?oc=5",
+      "snippet": "Orchestra platforms return after travel industry cyberattack KarloBag.eu",
+      "publishedAt": "2026-11-22T21:37:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Digital Convenience, Institutional Vulnerability - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZHFhOEp3cFR6ZFBORVY5OXJkM1dLRVhQTVVPR3pRLURSU01PMmk2T29zWHZhWGtySzlydXRTVnNlY2pGckRzWm9USHJ0SWg1MkJSb2ZzMnZtaVRlZ0huR1ltVUtISi1UNmg2LWxjSzdETm96cTE5bW5LZWVlNFhhdW82aTdOMXF3blA00gGQAUFVX3lxTE1HUk84dm9OTEdDRTN4eEFDV2ZwV3E1MHVmV2JDZmhCSy0wZXVHbUs1eHlCM3NnclZxWkd4SFBqX0NJUHQyamZEeGxXOVVaVVhaVEJHOVpCZGRSLWhEZm9TdkwyNVFqQk9QQnlLc3FuRzNJQW5md0xmLXZxY2gzUm41blA0SkxDazBJcW41TkJTQQ?oc=5",
+      "snippet": "Digital Convenience, Institutional Vulnerability Inquirer.net",
+      "publishedAt": "2026-11-22T21:30:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
