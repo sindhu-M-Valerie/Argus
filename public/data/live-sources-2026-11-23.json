@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:09:11.901Z",
+  "generatedAt": "2026-11-24T10:11:34.271Z",
   "snapshot": true,
   "date": "2026-11-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 75
+    "total": 79
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 31
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 67
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -206,21 +206,6 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
-      "riskScore": 60,
-      "confidence": "Medium",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk51bzlYR3FyQ1dtbXpmUi1CUG1tdEtrcTZneHdNQ2xnZWtrMEtDSm1SRU1zY0w3Y3NVWWNPd1V6enlZeWg1b0hQYUl5M1B0eE9HVkRPdjdxN0swZWxqT1p6Q0dOY0k3X2s1RHRQVzlBOV93Q2pJMjhZY3lIWmFLWDB5elBMdWpieU9FZmpGYTViWVpELUYtOU40WTRQRmV3Z0YzUmp4d29PM2lzZFFvOVUtdUY4UXJNNXVyWWhDRzdaLVRDcl9Wc0g4bmlOTWM?oc=5",
-      "snippet": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material Arab News PK",
-      "publishedAt": "2026-11-23T13:57:24.000Z",
-      "source": "Google News • Sexual Exploitation Online",
-      "theme": "child-abuse-nudity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "sexual-exploitation",
       "riskScore": 60,
       "confidence": "Medium",
       "severity": "Medium",
@@ -617,6 +602,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "The three most common holiday scams — and how to avoid them - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0E5c2hxdHdhWEhuMi1IcmVLY0UzdG41RG9FdnU0dDZ3cEE1Z3BraEZIdEJqMWM2bXRnMjNEcktDelVEejYyTWRtU2Q3eXlNSWxDRkluMUdYcFVUemlEcGROTnRaa2RfZkoxQUJrcTV0cTUyVXFBQTQzdlFzbXlQeVZKNHhuQS0zdUViVVg4cXB6YjVHZTdiRUc4bWh0bnV1RmtVR1lIOFJYR1B2T1pwMHMxY0ZhQQ?oc=5",
+      "snippet": "The three most common holiday scams — and how to avoid them The Washington Post",
+      "publishedAt": "2026-11-23T18:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "New Consumer Safety Advisory Highlights Rising Phishing Threats and Essential Account Security Practices for Online Betting Users - StreetInsider",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVVh3T1Z4SUVDLThVelhLTmszbXpPZEpMb2RIYjhGU191ZnFOb0htRFVWOFBacVRjWE1mZ0VWM3dMamNIc3pGMlA2cFI1N2lSalcyeFRtTEo3NTdhZVlvTHRTZV85V3RKR1BicTZ4Y2haYmNidEhlNnZqMWNTZlFkbmRvSE1RT2hNakdxamRYcWFzNnZTYllYSmQ4Qml6bnZWaDNLVGF5dmwtZFhudGlyMnlEeVhHb2Q4NDJybUFMLTV4ZzZ1akxKaVk1MHJXZEtROUNyM3BydWdVWV9tdU1ZLTJXdmFVajk5QkF4amxlRTZqb0pfTl9jRndMVWVOcEZ4ZnlRYUNiTnRsd1JmVUdrb3pRMTh3cVV1?oc=5",
       "snippet": "New Consumer Safety Advisory Highlights Rising Phishing Threats and Essential Account Security Practices for Online Betting Users StreetInsider",
@@ -677,10 +677,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "The scams that spike every year around Black Friday and Cyber Monday - 95.5 WSB",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenZvbkRrZjRvZ1VtYU5kbzd1SFhlQTY1YURuY3hYXzFOWlVwUFQzU1hiUW9NRkFvMFloYmdGaV9ndXNuQmJCc3JyNFRxQVhWSmdrT0lXUGVVVDlQRmFmdHkzOFY4RDl5UzF0TmpmTFJrRkdqeFlpNEVXM3RhS3l1U1NHdjRnMmZ0YXd6TDY0dE5ILUnSAZMBQVVfeXFMT3p2b25Ea2Y0b2dVbWFOZG83dUhYZUE2NWFEbmN4WF8xTlpVcFBUM1NYYlFvTUZBbzBZaGJnRmlfZ3VzbkJiQnNycjRUcUFYVkpna09JV1BlVVQ5UEZhZnR5MzhWOEQ5eVMxdE5qZkxSa0ZHanhZaTRFVzN0YUt5dVNTR3Y0ZzJmdGF3ekw2NHROSC1J?oc=5",
+      "snippet": "The scams that spike every year around Black Friday and Cyber Monday 95.5 WSB",
+      "publishedAt": "2026-11-23T15:30:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "TikTok scams are getting harder to spot. Here's how to protect yourself - ConsumerAffairs",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmZZRG51b2lwcW43QmlfdGdPeU14TzFDNWhFemxpbEhyVWFCRXB6TVlxclhWZV91WVJzTjhnQXhreHRtMmo4akN1X0gySDlyVFZPR1IxWHFkdl9VU1FfNDJ6ZXB6aVpLYV9tVl9KM2xGMUdENmcyOVgzYlhITE42dkoteW1zTTJXRUhiY0dvWUVLRS1UTU85NmJmeFVRemVCd3BaSXI2Z3hhNEt6RTN3WWp2WG94SVFBSmc?oc=5",
       "snippet": "TikTok scams are getting harder to spot. Here's how to protect yourself ConsumerAffairs",
       "publishedAt": "2026-11-23T15:05:41.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "OPay Turn to Payment Safeguards as Online Shopping Scams Rise - LEADERSHIP Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPODNfWWszeGRrT0dLVXlzeW9DeE1EQ2JBLWVoNk9fc1RPYzVmb21Oc1VRMWRaanhrQlNiNlFUajhyX1NLSlg3UWNEb0hzS3p5aUNKT29TelVpRTBoczhOdzdGMjR5ZFY4NTJZSzRZLVFET2dURDUxN1VFSmRBc3hET1FHOU5VRVBQX1puVQ?oc=5",
+      "snippet": "OPay Turn to Payment Safeguards as Online Shopping Scams Rise LEADERSHIP Newspapers",
+      "publishedAt": "2026-11-23T13:36:16.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -887,6 +917,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Bitdefender Strengthens Cybersecurity for the AI Era with Advanced Protection for Small Businesses - FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1djVlRmcENscU4xZDcwMDNrUUNmaE94bmdtbFVmdUpNbmRpUk5iTmRFUGc3UnZiRkFvNXpkSm9GMWtGT3JRV1UyWm5rd2V6dlpTYV9fT1NkNzI3enpVWV8tcVVqSkVZdHJ4VnVoTDBzTDN0VVNrd2pSYmN1N2p2OHY3cjAwVnJhVGNjaUVweFlFSGZhd1Nqak9lMGotdk40U1BQNGhoX0prNFZRSWJ5WHA3dHhGNnczcUdTR2xZcUNtTldQRkpJdnlYODUyU1RTU1JPTGhKU1lyX09PdU9yV1lfdml4SmQ5QU0xMzVQT1hjSERaR0stVVdn?oc=5",
+      "snippet": "Bitdefender Strengthens Cybersecurity for the AI Era with Advanced Protection for Small Businesses FinancialContent",
+      "publishedAt": "2026-11-23T18:25:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "EU Academy Shut Down After AI-Assisted Cyberattack Exposes Users’ Personal Data - The 420.in",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDQwVU9lR3VIOVZuS2czS1piQ1pzeDFBN1ZFb0RFbHlqQjFSSlA4ZDdMU2cwZm8tSm51OGhxSDU4aVhVTVFKWHVkY25ST3ptY2plekQ2emdiUnJqYjhmOEF1dll3dlNtY29rRjhGZnU2MEo4R2IyUUU2VW1aYndRYTRYQUFLdW9RQ1k5cVpKTHgxd193eks4SlowcTd1Zw?oc=5",
       "snippet": "EU Academy Shut Down After AI-Assisted Cyberattack Exposes Users’ Personal Data The 420.in",
@@ -1067,6 +1112,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform | GBhackers Offering Exclusive Cyber Security News Coverage, New Research papers & Technology Updates. - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yZ1hNcElueGxpcDhnZWU2VVBWN1RRNGhWTVpyNV9qSTRXUHBVT3RKd0Q5LVpkQ21rcnJFM251a2dJREdRV1dN0gE_QVVfeXFMUG14dWpicmJ0bk4zQ05Tb2VhRnZLMURhNHdUWkl6cVFTY3ZSMjlsTHdmSm5aaTVwc2tQblF0bnow?oc=5",
+      "snippet": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform | GBhackers Offering Exclusive Cyber Security News Coverage, New Research papers & Technology Updates. GBHackers News",
+      "publishedAt": "2026-11-23T13:29:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Ransomware attacks surge 38% in Q3 2026 as vulnerability exploitation doubles to 28% - Beinsure",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVZKUzFiSm1pVnRWUC1nQzVHX2xFSEwzTjlvNkR4enRwSVdNeDh0WVdZY0hLRm94TnBJLWhQQUNzdFoxbC1VNGlndFFPN2E2eU96T1lUb0V6eGttTlR1NUJ5SmZKdXJtTUlNbHFOR2JqWjUwbDhtTTVIeldOY0tBbmRfUE1lLXYybFp1ZFJCQ09jYWc?oc=5",
       "snippet": "Ransomware attacks surge 38% in Q3 2026 as vulnerability exploitation doubles to 28% Beinsure",
@@ -1217,6 +1277,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "How to prevent cyberattacks and protect your business - Kingy AI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDLTMzS21YeDV4RXVmbmZTRk1KRHl0WWZDSjdPX190NUlJX0NPLWRjdDVWdTV0eUFyc0pBelhrR01ETy0xbFAwMmMzaFVPejR6QlVOLWF6WTlZZEFWN1JvXw?oc=5",
+      "snippet": "How to prevent cyberattacks and protect your business Kingy AI",
+      "publishedAt": "2026-11-23T06:24:01.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Alarms raised over cybersecurity incident involving accommodation booking system - Stuff",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0pETVRhbEFYdnRicVlrTElmQ2pTLXpmWUZiaVYtYmZKR2tDNjVCcWFjUU90S1FmQThZV2hxYVRKci1YckpXVjJaaDZYTUtQYTVrYjlmQjlKZzlZcFY1VkVBZ1ZiUm5nVXFkQVFxSldFdTVRNk1ZR3JnVks3c0NRVWdkLWItQ2lBdUpxV24zMU5UenJrS19xRllkOTdKYlphbzVwZlJSOEY4cWI3NXE1NFIyNEFYZU1JbmxSX3Z6bw?oc=5",
       "snippet": "Alarms raised over cybersecurity incident involving accommodation booking system Stuff",
@@ -1236,21 +1311,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVBudG5DMGdIVXZxbnlSYmhPMWZLNVVlR2J4ZzJhcUR6SEp4RHg4WnU3TEdpV3plakxGOVBnd3J4N2I1ME1idGtVUURhd1Zvbk9SOFhUTXFfaENSODlCYUwyM2ZfRzRqV1BmYTFZYXVwZjRjVWVCZWc1c2tUbDE1YWpB?oc=5",
       "snippet": "Bell MTS Email Outage: Cyberattack Confirmed, 3 Key Facts shattered.io",
       "publishedAt": "2026-11-23T03:59:26.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "How to prevent cyberattacks and protect your business - Kingy AI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDLTMzS21YeDV4RXVmbmZTRk1KRHl0WWZDSjdPX190NUlJX0NPLWRjdDVWdTV0eUFyc0pBelhrR01ETy0xbFAwMmMzaFVPejR6QlVOLWF6WTlZZEFWN1JvXw?oc=5",
-      "snippet": "How to prevent cyberattacks and protect your business Kingy AI",
-      "publishedAt": "2026-11-23T01:59:34.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

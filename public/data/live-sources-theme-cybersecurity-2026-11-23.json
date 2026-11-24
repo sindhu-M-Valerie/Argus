@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:09:11.901Z",
+  "generatedAt": "2026-11-24T10:11:34.271Z",
   "snapshot": true,
   "date": "2026-11-23",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 33
+    "total": 35
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 31
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 67
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -268,6 +268,21 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bitdefender Strengthens Cybersecurity for the AI Era with Advanced Protection for Small Businesses - FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR1djVlRmcENscU4xZDcwMDNrUUNmaE94bmdtbFVmdUpNbmRpUk5iTmRFUGc3UnZiRkFvNXpkSm9GMWtGT3JRV1UyWm5rd2V6dlpTYV9fT1NkNzI3enpVWV8tcVVqSkVZdHJ4VnVoTDBzTDN0VVNrd2pSYmN1N2p2OHY3cjAwVnJhVGNjaUVweFlFSGZhd1Nqak9lMGotdk40U1BQNGhoX0prNFZRSWJ5WHA3dHhGNnczcUdTR2xZcUNtTldQRkpJdnlYODUyU1RTU1JPTGhKU1lyX09PdU9yV1lfdml4SmQ5QU0xMzVQT1hjSERaR0stVVdn?oc=5",
+      "snippet": "Bitdefender Strengthens Cybersecurity for the AI Era with Advanced Protection for Small Businesses FinancialContent",
+      "publishedAt": "2026-11-23T18:25:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -437,6 +452,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform | GBhackers Offering Exclusive Cyber Security News Coverage, New Research papers & Technology Updates. - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yZ1hNcElueGxpcDhnZWU2VVBWN1RRNGhWTVpyNV9qSTRXUHBVT3RKd0Q5LVpkQ21rcnJFM251a2dJREdRV1dN0gE_QVVfeXFMUG14dWpicmJ0bk4zQ05Tb2VhRnZLMURhNHdUWkl6cVFTY3ZSMjlsTHdmSm5aaTVwc2tQblF0bnow?oc=5",
+      "snippet": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform | GBhackers Offering Exclusive Cyber Security News Coverage, New Research papers & Technology Updates. GBHackers News",
+      "publishedAt": "2026-11-23T13:29:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Ransomware attacks surge 38% in Q3 2026 as vulnerability exploitation doubles to 28% - Beinsure",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVZKUzFiSm1pVnRWUC1nQzVHX2xFSEwzTjlvNkR4enRwSVdNeDh0WVdZY0hLRm94TnBJLWhQQUNzdFoxbC1VNGlndFFPN2E2eU96T1lUb0V6eGttTlR1NUJ5SmZKdXJtTUlNbHFOR2JqWjUwbDhtTTVIeldOY0tBbmRfUE1lLXYybFp1ZFJCQ09jYWc?oc=5",
       "snippet": "Ransomware attacks surge 38% in Q3 2026 as vulnerability exploitation doubles to 28% Beinsure",
@@ -587,6 +617,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "How to prevent cyberattacks and protect your business - Kingy AI",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDLTMzS21YeDV4RXVmbmZTRk1KRHl0WWZDSjdPX190NUlJX0NPLWRjdDVWdTV0eUFyc0pBelhrR01ETy0xbFAwMmMzaFVPejR6QlVOLWF6WTlZZEFWN1JvXw?oc=5",
+      "snippet": "How to prevent cyberattacks and protect your business Kingy AI",
+      "publishedAt": "2026-11-23T06:24:01.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Alarms raised over cybersecurity incident involving accommodation booking system - Stuff",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0pETVRhbEFYdnRicVlrTElmQ2pTLXpmWUZiaVYtYmZKR2tDNjVCcWFjUU90S1FmQThZV2hxYVRKci1YckpXVjJaaDZYTUtQYTVrYjlmQjlKZzlZcFY1VkVBZ1ZiUm5nVXFkQVFxSldFdTVRNk1ZR3JnVks3c0NRVWdkLWItQ2lBdUpxV24zMU5UenJrS19xRllkOTdKYlphbzVwZlJSOEY4cWI3NXE1NFIyNEFYZU1JbmxSX3Z6bw?oc=5",
       "snippet": "Alarms raised over cybersecurity incident involving accommodation booking system Stuff",
@@ -606,21 +651,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVBudG5DMGdIVXZxbnlSYmhPMWZLNVVlR2J4ZzJhcUR6SEp4RHg4WnU3TEdpV3plakxGOVBnd3J4N2I1ME1idGtVUURhd1Zvbk9SOFhUTXFfaENSODlCYUwyM2ZfRzRqV1BmYTFZYXVwZjRjVWVCZWc1c2tUbDE1YWpB?oc=5",
       "snippet": "Bell MTS Email Outage: Cyberattack Confirmed, 3 Key Facts shattered.io",
       "publishedAt": "2026-11-23T03:59:26.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "How to prevent cyberattacks and protect your business - Kingy AI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDLTMzS21YeDV4RXVmbmZTRk1KRHl0WWZDSjdPX190NUlJX0NPLWRjdDVWdTV0eUFyc0pBelhrR01ETy0xbFAwMmMzaFVPejR6QlVOLWF6WTlZZEFWN1JvXw?oc=5",
-      "snippet": "How to prevent cyberattacks and protect your business Kingy AI",
-      "publishedAt": "2026-11-23T01:59:34.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:09:11.901Z",
+  "generatedAt": "2026-11-24T10:11:34.271Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 8
+    "total": 28
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 31
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 67
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,51 @@
   ],
   "data": [
     {
+      "title": "India and France discuss counter-terrorism cooperation at 18th Joint Working Group meeting in New Delhi - DD India",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRDZhZzVYZDZ5cEJfcDJYOVNJU1Z1MWtLUzEzaUZZRFRLbjlxZnpYTDZZcl9kS2ZDMmhZdDdweF83MllPa3gtWTBWNjZIRzVGZmFSN0dBRWtjdTltcF9BV3JMVzJZcVBlSmVrX1dfSThCNzZDaFM1eWEyODlxaFJZR0NHekhsanNQRUJqYjR0ZXVCOWp4a0Nhdnh4WjQwb3pQaXdvNGttZ29DS0NVY2pOdE9jNEJ3U1Zvc0NzMzFiU2pNSEN1bWwzSWEyQUItNFE?oc=5",
+      "snippet": "India and France discuss counter-terrorism cooperation at 18th Joint Working Group meeting in New Delhi DD India",
+      "publishedAt": "2026-11-24T09:18:17.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk51bzlYR3FyQ1dtbXpmUi1CUG1tdEtrcTZneHdNQ2xnZWtrMEtDSm1SRU1zY0w3Y3NVWWNPd1V6enlZeWg1b0hQYUl5M1B0eE9HVkRPdjdxN0swZWxqT1p6Q0dOY0k3X2s1RHRQVzlBOV93Q2pJMjhZY3lIWmFLWDB5elBMdWpieU9FZmpGYTViWVpELUYtOU40WTRQRmV3Z0YzUmp4d29PM2lzZFFvOVUtdUY4UXJNNXVyWWhDRzdaLVRDcl9Wc0g4bmlOTWM?oc=5",
+      "snippet": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material Arab News PK",
+      "publishedAt": "2026-11-24T01:08:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meerut man held for alleged terror plot, online radicalisation - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRklFODhDUWF6cE80eVFSUlFLamlaem5SYlNVQllnb1QxdlFlUFZaRmxZQXdzcXozVFcySGRtN3hCeElQRTBrb0tqVzRPV0N4TGpZQ0VmMnNHZlpMREpQdC1VZ0xhRTI1Tlc4TGJMcjRGMkRCd0MyMnpHUUVnbGZCRExwNkpYQ1RGMWlnQV95d3lYVnZKcEs5Ymc2SmNJUzJCeHNOdTJYT1I5b0R6SmpiWW9sazVWa1NtRG9WZEE0YWNnUWM2ZW9XS2pxUDc0S3dxNUHSAdcBQVVfeXFMTm5oLXNLTjRKeDdOQ2k2MGtmSWZUWnBHNXhncWNocWtOXy1na1lRSGJhWjZzYS1aV1dMNnd1Z0lGTTl0dDNxVEd5NHRreFNjTmVvMWZxeGEwMkRSc3RWaHhuRlNKZ3BoNUJRMnh0X251U2VXaTl3Rm9NMEoweTlobmhwT1Z3OWFFVUNuS1NqT25xaWoycTdNdlNmSGVFOHhURjM5eXl6SnpCZ25yTkpJVzFkUjJpTFc3Rk1BbDJDbFctWEEzeUE0QkRJamY1VUFGUjZtcDE5cDA?oc=5",
+      "snippet": "Meerut man held for alleged terror plot, online radicalisation The Times of India",
+      "publishedAt": "2026-11-24T04:27:00.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "India & France unequivocally condemn terrorism in all forms - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXVFakwxUnpqaWR1QkRVdDdlVzU5aFBFMG1aSzRDai1pczVNdF8wWlRoVkF6LXJSNlRZbzVLbV9yVWh5RHVzZzBwS2NpVXhDbUJfb3JxR1JRMW5wNVk5cm9HZHhqaXVwaVNEZW9nd2owa2twbFZYSzJGb2pxV0lINnJEclR5Vms2NmIw?oc=5",
       "snippet": "India & France unequivocally condemn terrorism in all forms News On AIR",
@@ -193,6 +238,36 @@
       "feedTheme": "tvec",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Shoppers on Alert as Phishing Scams Triple Ahead of Black Friday, Kaspersky Warns - Brand Icon Image",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZkVtXzU4RWVuYm1BSDJLWlJram5DOFp5RTJxV3hPWi14TW1CM0drQzlwNlUwcmZ2Z2w1c0M0TjlIUW5Jdl9ybmpUZk1XOUxKQzFtRnBpcXFTSl9aZUdQRDE5dTRibjE0a1JKekpLR0hRMjhYUWN0UTRGNTZXeFNsWkFnaTFUdw?oc=5",
+      "snippet": "Shoppers on Alert as Phishing Scams Triple Ahead of Black Friday, Kaspersky Warns Brand Icon Image",
+      "publishedAt": "2026-11-24T07:42:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "As teen sextortion surges, US tech companies' choices make abuse harder to stop - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEZ0UlVvNks4MWJFYkVPcDM1N19Wd3RXSlB6X1dVei1wRU92d3pMelB4SmpqWDY0aGJrMHVKcHRxUUpXcm93OWZLRlJScTJnZVZWZnp1RWtWZmhaeTU5SEVHZzVEODlNNUgxZFRUbnE5OE5xTDlEV3J5OGRuYmNXSEJBOTZtWkRSWUlxVmsxM0czcDRPZUJVTm5yUklSdFRicWowZEtwWWtaczl0cmtkNkc4SzhTdV82eFllTmlpQ0FZVmxrUVVNTEc2eUg1OFhU?oc=5",
+      "snippet": "As teen sextortion surges, US tech companies' choices make abuse harder to stop Scripps News",
+      "publishedAt": "2026-11-24T05:12:20.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -227,6 +302,66 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Misinformation being spread in India over Narail incident, says Information Advisor Zahed - bdnews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoWDlrcm1fSTdRVmhJdl9WTlR3RHJBRVNRNzZ6RTlZMng1dVdIN3BGZ3lWbGRKb1Y5N0tHX2ZZb0xVVTlkOUktSkNOemRaVTNOZHpFMg?oc=5",
+      "snippet": "Misinformation being spread in India over Narail incident, says Information Advisor Zahed bdnews24.com",
+      "publishedAt": "2026-11-24T09:05:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Zahed urges Indian regulators to address misinformation about Bangladesh - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkNScGdYUE1wWVY1b1EtYTRtVVZ5NTFOUXdPMVhfc3ZSR0dzZWZhdVdoUS1qalJ5dDJmeWVNYVRtbEFYNnY1MG9JeEVneUVsV0tveDE0VnBlOEpicWJXZXlUY0haeDdSd01MYmpTZkRKaURneFE3Wmx5X215RGNtXzBYSG5FVGRaWk9RclNQT01vVmVMbEhKZWhVOW1NQVBVamRqT2xpd1JodkhEcjY3c3g0QzZJbDNq?oc=5",
+      "snippet": "Zahed urges Indian regulators to address misinformation about Bangladesh New Age BD",
+      "publishedAt": "2026-11-24T07:13:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission Confirms EU Academy Data Leak After Cyberattack - EU Today",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ReTJpMUlta3hIRFFKQmhvejFUX3daRTFqWTNxd2FuNHFLTm9zS1dQN3NZREcwMEk5dVFRRDRDY3hEeE1mTmRjNkkwdjJEd1NheWs5THNPajFwenBHOURJQnBjc0ZhaVJDanBKRkpoYS1ZUzBjYmNoQ2JjaXRmdw?oc=5",
+      "snippet": "European Commission Confirms EU Academy Data Leak After Cyberattack EU Today",
+      "publishedAt": "2026-11-24T07:00:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kenya’s eCitizen Hit by Reported 740GB Data Breach as Hackers Claim Major Theft - K47 Digital News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalpDb205ejhmSjZvcnJlYXVvU0tVYXB6UW9LNTBPeWFEYUExYnZ6cU9JM3NvYXNpSC11Y2dVV1JFNjExTWp1cHEzMHN6ZVpoc05Ga0FPV0gwbVMwNjNsSmRWVXVYYjBLa1pVZFkyaDFLZlZFakp0cmxtdXdqT0tadXZ3dlFXOXBoLXVYaElzV3hhRi1GbzRiYUp3OFlxTlJ0M3Y4?oc=5",
+      "snippet": "Kenya’s eCitizen Hit by Reported 740GB Data Breach as Hackers Claim Major Theft K47 Digital News",
+      "publishedAt": "2026-11-24T05:36:31.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Law Enforcement and Civic Leaders are Studying How Domestic Extremism Evolves Online - Eye On Annapolis",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUF3Z3QySmZWbkRUNEQtZldlbkthTVNFeDBkRW5HNlk2OU45bV9rOUdJWkZPZTlxZTVhTmY2a0xxMTZ4VS1kUmg2S0lrUU9OUWZySUxIUC1jSWY2QnZMU1I2YUdLNDMxczd2NGs5VVFGLVc4ZW5sYWNCMThjRlo5VUdXX1M4QmpiVHYxN2lmaHpMaHdlLU5sRHlmeHZqUUVDYlgxUlZPU1RNdEpQOUlnaDhRQ3pWUzF4VFRLbkxJQ3p2Zw?oc=5",
       "snippet": "Law Enforcement and Civic Leaders are Studying How Domestic Extremism Evolves Online Eye On Annapolis",
@@ -237,6 +372,81 @@
       "provenance": "live-feed",
       "feedTheme": "dangerous-organizations",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Connected infrastructure, rogue insiders expose Nigerian banks to fraud risks - Techpoint Africa",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9keWFvOUl5Y0h0Y1NqYk94YVB3T3I4WnBNMjY0WTREMERyMm45Y2RHRXNoZjdFQ3Q2MGN2cVpjRUlfTHZsSmVBTVdOeDl3TDNoaHo1emI0NGt4bUl3U1hoMEVLZUJta3hhdkVPSzhoUQ?oc=5",
+      "snippet": "Connected infrastructure, rogue insiders expose Nigerian banks to fraud risks Techpoint Africa",
+      "publishedAt": "2026-11-24T07:49:15.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEBI Cracks Down On IPO GMP Figures; Warns Investors Against Social Media Scams - ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSk53bzIzU3lTcGZVQ0hMNG5ReFFaMGZCNlpvNURWQ1RKQXljb0RqYmZrVGF0c2otLXdtZXNKRXp2SFVuS2tzb3p2N2RmQ3FlVjlNNzBySm8zcnJHY2lnd0JKc3lKVUNnSmxmSlpwbmhUb0V6eWZUN1NGd00zRUxWa1ZleFkyV1NzeGNDVVl3VXZOZUlDNXdDempFcWRmd0JwZG1qbmlIWXltV2c1dTc4TGtqX1hwdlRQT1hCMTlxRy1ueVpYT0o0TVJlY9IB0AFBVV95cUxQRldyVVRMWDRzdHVTdGFVM1hweHVFNTcybmM4d3o0cFBUZG1kV2xGd005Z29jLTlFZWlHdjgyNEJiWmpvTkFPOVVsbVpvVmt1NVU2V0tHU0hjUHZZdms5MmhyUXZGeFQ4OGNoV3paV0R0eUxyZUUtSWtpUU92MkdrcGhPd0JPUXZDMmRIQWcxdzBIZ3lLU3hJVXRZdkFJQWpvbjJNV3JkekRxQzZROVBLUFFidkJSYjhoWnBRM2w0NHpWZjFmUTZYdWR2WWVDNUdl?oc=5",
+      "snippet": "SEBI Cracks Down On IPO GMP Figures; Warns Investors Against Social Media Scams ETV Bharat",
+      "publishedAt": "2026-11-24T04:55:13.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Telegram Profits Trap 11 Investors in ₹50 Lakh Cyber Fraud - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94Q25BY3hqOF9qYnV6QXN4eGlhd1Z3X1Z5RUxkb0J6NHNlOVpKX0VLalJLazBXcWU0MWtjY0o2T3FQT1UwUWVGNEdiaTduUXZidmxUbm1rVTd6RWJzbDJ2cHVnQUlWNnhSX201T0FWRUM?oc=5",
+      "snippet": "Fake Telegram Profits Trap 11 Investors in ₹50 Lakh Cyber Fraud The 420.in",
+      "publishedAt": "2026-11-24T04:18:23.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US, Thailand and 11 other countries join forces against online scam networks - Khaosod English",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnRsV21PdXhyZFdNLXMwNVdKM01ZUnpFelhuUmFkYnlXUnBaVUNUQkFGUDNQOWNfRjRMWG5ZaXpfZ3I3aGVFaUdxTjZjQ2FDaHU3Y2ZfZlYwa1kwUDBoWUE4cE1TTWNLR0Q0OVhUdEFpSFlsM1BINWRjN3QxcDVEc091eERqVkpaeVA0OGZ4X1dPdGY0R2xYOTNvaFdONFE1MjQ2cmZWQTREeXBsTVRlTi1MRG5FZkRiaURmWXpmd2PSAcYBQVVfeXFMTnF1Sl82bE1HQXBUbjhTOTl6YW9qb1JzWHZ6Y2tyaFprUGtWQ1UwcXZCM3ItWEJ6RzdZZjZWWnk2czZaWldhOVduXzdxM2lzX01Qa240NGNnY3lhSkhuMHhfbkZZbzNDVTVVeDNoc0J0N1pGVEc2NDhIbldGeEZhemE3dkw3cWlGUU94MUh0ZnJ4bjlkSTB5OV9iczdFeS13UTZmZ05sMXNtSWJEUjNmNkxsenRxOVllUWtEdlN1elduV2RDY1hR?oc=5",
+      "snippet": "US, Thailand and 11 other countries join forces against online scam networks Khaosod English",
+      "publishedAt": "2026-11-24T02:35:08.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CSOs urge security agencies to act against political threats, election violence - Tribune Online",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0hZaGJ2bHh1YlA3MXdld04yOUlrTTZ5anQ3ZnFFYVUxZmtzWTRpR2dRbXgzcTJ2YnRPRERiOTdzakpaVUZ1a2ltQkRfRktVc1E0WTk5bVdzcmUzOGpmWWsySlY0VXNFaUZoZktUM2JMbENsZG44ZG1EeW43WUVST3lfTDRtdjAydDE2SFFmZHBXZTh5TTlaQzN2eGc5WWc3U2c3bWpPRkdyb3c?oc=5",
+      "snippet": "CSOs urge security agencies to act against political threats, election violence Tribune Online",
+      "publishedAt": "2026-11-24T01:20:00.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -282,6 +492,96 @@
       "provenance": "live-feed",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bell Cybersecurity Incident: 5 Brands, Virgin Plus Hit - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDZ6eFkwZ1BJeWFKSVM1ZW9BbFlhRmZuYjB3VEE2cTNCX0duVzVDa2ZVcjFnWTFpLWdNNVNheWFOcUxHX2ZTRGRkd3dlclVDZllmdHJ3RTYwUHBSclRoTm5CakxTdkZmdkY3emR3eDZkcVdwNm85ZlFZOVVYblM3VU9UZHFPeTcyMVo3YkhzLTJUV3JxOXp3MmdLRUxfRVc3QXZMcW9n?oc=5",
+      "snippet": "Bell Cybersecurity Incident: 5 Brands, Virgin Plus Hit shattered.io",
+      "publishedAt": "2026-11-24T08:48:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Online travel agency Travelstart hacked - ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3V2TE5UTnZRWFJwcmJ3dVVJMlliTlZFV0ZJQ2dUbUxQX2pmekM5WENnTU9UdEVyU2VPSkVzcE15aE9vaVc0UlRmUmh2dHh1V1htY3FPdXZjbWl5eFRvNl9OdWFyOFoyNUtqZExDa1lhYlFPb190RlQzUzBmLV9mREVGWUdRUGZVdEM1cXZzRTRkZw?oc=5",
+      "snippet": "Online travel agency Travelstart hacked ITWeb",
+      "publishedAt": "2026-11-24T08:33:31.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Renfe Warns Customers of Data Exposure After September Cyberattack - cwibc.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03LUNjdG12LVdnalZFWFRTRVdqNnp3TnBmeU45ZWxGcmxNRzNIejdSRFZSUWxDSkZiSlBqTWdVeGNwakFTcVlyQ0NjalF1RkEteE5QdklDcEVKOElfdW40SGF0QjQ?oc=5",
+      "snippet": "Renfe Warns Customers of Data Exposure After September Cyberattack cwibc.co.id",
+      "publishedAt": "2026-11-24T07:55:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity Tools Optimization Matters - Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzdxRF9zS1drTm10bVYzbFVTTkZVVzQwM2RhVGV1NzY5MFl3a0p1R3JUVkFXYjliSjZLdlYzNnk0ODJtbkdlZjROOEVxU0F2NGhlSXg1Y01ZeWN0Rk5pc0R6a3dZTUtUSUtmbnNZWWdmLVhfdUdjeFIwQmhrcmktSm5yUk5aOS1wbmNmbGJIaXc?oc=5",
+      "snippet": "Cybersecurity Tools Optimization Matters Mexico Business News",
+      "publishedAt": "2026-11-24T07:08:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NEXT Data Breach: UK Retailer Says Customer Data Not Exposed - Dainik Jagran MP CG",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFdobEhNOGFEa0JudjZmQVRGUVBzaDItME8tY0dSN0Vnc193M1VKZ0ZhQTdZV19lWWt6dTRRc1JYUHdBbV9PREw3N1ZBcXNTTHBrc3VMRHE1OWlnZF9QUklmOEdnVEFKdXd3cU0yNno1bV91YW1RWWM5ZGxzVGZPR0dZVktzNjA5ZXA2NEhrTDA1cjhKdERxdjBaTG9SNnJvOUlUNnBpZFVfRENxamY2OXhVc2hrYUtlVEdjVWJpNktLY08ycDBOZUFlUUs?oc=5",
+      "snippet": "NEXT Data Breach: UK Retailer Says Customer Data Not Exposed Dainik Jagran MP CG",
+      "publishedAt": "2026-11-24T06:03:10.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission Confirms AI-Powered Cyberattack, Takes Multiple Applications Offline - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HMkdEZldlR1FCVHpURS14cmtxX25KTF92YjBNN1YyTVpTRnlUOExaMHpYRmczTmRnSGZ5RDYzZU9FY3Y4UThqV2lkd0VaVlhnLVdlUmlJUVFXcDh4NC10NjFySTBTeDh0UDdDR0U2SS05SVRyTXh5OGw1VmxSTlHSAYQBQVVfeXFMTmpoYWM0WFlTXzNzMVc1OXBJeGROcWJTaURKZWhMLWphc1FPVjNCaXZNcmQ0SEFVb3BYeTh6R2VZWEtEWjVxTVYzSjBTSnBDSExka3lGS3BlRWhPZWxxTmZlZUV1VHlJeE9CM0RVejdMT1ZGVkVCUW9kUkcxMThXWEV1aEhD?oc=5",
+      "snippet": "European Commission Confirms AI-Powered Cyberattack, Takes Multiple Applications Offline GBHackers News",
+      "publishedAt": "2026-11-24T05:56:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

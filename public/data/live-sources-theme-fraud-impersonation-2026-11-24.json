@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:09:11.901Z",
+  "generatedAt": "2026-11-24T10:11:34.271Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 31
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 67
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,81 @@
     }
   ],
   "data": [
+    {
+      "title": "Shoppers on Alert as Phishing Scams Triple Ahead of Black Friday, Kaspersky Warns - Brand Icon Image",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZkVtXzU4RWVuYm1BSDJLWlJram5DOFp5RTJxV3hPWi14TW1CM0drQzlwNlUwcmZ2Z2w1c0M0TjlIUW5Jdl9ybmpUZk1XOUxKQzFtRnBpcXFTSl9aZUdQRDE5dTRibjE0a1JKekpLR0hRMjhYUWN0UTRGNTZXeFNsWkFnaTFUdw?oc=5",
+      "snippet": "Shoppers on Alert as Phishing Scams Triple Ahead of Black Friday, Kaspersky Warns Brand Icon Image",
+      "publishedAt": "2026-11-24T07:42:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Connected infrastructure, rogue insiders expose Nigerian banks to fraud risks - Techpoint Africa",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9keWFvOUl5Y0h0Y1NqYk94YVB3T3I4WnBNMjY0WTREMERyMm45Y2RHRXNoZjdFQ3Q2MGN2cVpjRUlfTHZsSmVBTVdOeDl3TDNoaHo1emI0NGt4bUl3U1hoMEVLZUJta3hhdkVPSzhoUQ?oc=5",
+      "snippet": "Connected infrastructure, rogue insiders expose Nigerian banks to fraud risks Techpoint Africa",
+      "publishedAt": "2026-11-24T07:49:15.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SEBI Cracks Down On IPO GMP Figures; Warns Investors Against Social Media Scams - ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSk53bzIzU3lTcGZVQ0hMNG5ReFFaMGZCNlpvNURWQ1RKQXljb0RqYmZrVGF0c2otLXdtZXNKRXp2SFVuS2tzb3p2N2RmQ3FlVjlNNzBySm8zcnJHY2lnd0JKc3lKVUNnSmxmSlpwbmhUb0V6eWZUN1NGd00zRUxWa1ZleFkyV1NzeGNDVVl3VXZOZUlDNXdDempFcWRmd0JwZG1qbmlIWXltV2c1dTc4TGtqX1hwdlRQT1hCMTlxRy1ueVpYT0o0TVJlY9IB0AFBVV95cUxQRldyVVRMWDRzdHVTdGFVM1hweHVFNTcybmM4d3o0cFBUZG1kV2xGd005Z29jLTlFZWlHdjgyNEJiWmpvTkFPOVVsbVpvVmt1NVU2V0tHU0hjUHZZdms5MmhyUXZGeFQ4OGNoV3paV0R0eUxyZUUtSWtpUU92MkdrcGhPd0JPUXZDMmRIQWcxdzBIZ3lLU3hJVXRZdkFJQWpvbjJNV3JkekRxQzZROVBLUFFidkJSYjhoWnBRM2w0NHpWZjFmUTZYdWR2WWVDNUdl?oc=5",
+      "snippet": "SEBI Cracks Down On IPO GMP Figures; Warns Investors Against Social Media Scams ETV Bharat",
+      "publishedAt": "2026-11-24T04:55:13.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Telegram Profits Trap 11 Investors in ₹50 Lakh Cyber Fraud - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94Q25BY3hqOF9qYnV6QXN4eGlhd1Z3X1Z5RUxkb0J6NHNlOVpKX0VLalJLazBXcWU0MWtjY0o2T3FQT1UwUWVGNEdiaTduUXZidmxUbm1rVTd6RWJzbDJ2cHVnQUlWNnhSX201T0FWRUM?oc=5",
+      "snippet": "Fake Telegram Profits Trap 11 Investors in ₹50 Lakh Cyber Fraud The 420.in",
+      "publishedAt": "2026-11-24T04:18:23.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US, Thailand and 11 other countries join forces against online scam networks - Khaosod English",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnRsV21PdXhyZFdNLXMwNVdKM01ZUnpFelhuUmFkYnlXUnBaVUNUQkFGUDNQOWNfRjRMWG5ZaXpfZ3I3aGVFaUdxTjZjQ2FDaHU3Y2ZfZlYwa1kwUDBoWUE4cE1TTWNLR0Q0OVhUdEFpSFlsM1BINWRjN3QxcDVEc091eERqVkpaeVA0OGZ4X1dPdGY0R2xYOTNvaFdONFE1MjQ2cmZWQTREeXBsTVRlTi1MRG5FZkRiaURmWXpmd2PSAcYBQVVfeXFMTnF1Sl82bE1HQXBUbjhTOTl6YW9qb1JzWHZ6Y2tyaFprUGtWQ1UwcXZCM3ItWEJ6RzdZZjZWWnk2czZaWldhOVduXzdxM2lzX01Qa240NGNnY3lhSkhuMHhfbkZZbzNDVTVVeDNoc0J0N1pGVEc2NDhIbldGeEZhemE3dkw3cWlGUU94MUh0ZnJ4bjlkSTB5OV9iczdFeS13UTZmZ05sMXNtSWJEUjNmNkxsenRxOVllUWtEdlN1elduV2RDY1hR?oc=5",
+      "snippet": "US, Thailand and 11 other countries join forces against online scam networks Khaosod English",
+      "publishedAt": "2026-11-24T02:35:08.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Gujarat Cyber Police Bust ₹8.46 Crore Interstate Cyber Fraud Syndicate, Arrest 13. India's Growing Cyber Fraud Crisis - Inventiva",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObFJOQmpTM1JDdV9waHhWT2pZNHUxT2tWTmVTLTJ1cWMzX0lER0RKbzBLejdJM0ViMFVnVGp3NjFZRExkTXZJSHl3azR1cTA1VUJteTl1Y21aVEEyUW96Y2dvZ2VoR3ZLaUtlXy1OSmdPNzZaakdvalMzcTc2dmtuRi1JWmFNeHk5R2E5MWtmdy1mcmhFOWZWS1g1d2Q2WE5Tbnd6bDl5WGRBeUx3UGdhVWVfal9fZXp2b2tWS0VVUWM1X1lrc01DcXI2Yl9aYmFCcDZhWkM2TG53SW53S3ozTVY1cEFvdVhZSTl2bDkxZw?oc=5",

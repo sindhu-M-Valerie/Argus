@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:09:11.901Z",
+  "generatedAt": "2026-11-24T10:11:34.271Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 31
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 67
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "India and France discuss counter-terrorism cooperation at 18th Joint Working Group meeting in New Delhi - DD India",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRDZhZzVYZDZ5cEJfcDJYOVNJU1Z1MWtLUzEzaUZZRFRLbjlxZnpYTDZZcl9kS2ZDMmhZdDdweF83MllPa3gtWTBWNjZIRzVGZmFSN0dBRWtjdTltcF9BV3JMVzJZcVBlSmVrX1dfSThCNzZDaFM1eWEyODlxaFJZR0NHekhsanNQRUJqYjR0ZXVCOWp4a0Nhdnh4WjQwb3pQaXdvNGttZ29DS0NVY2pOdE9jNEJ3U1Zvc0NzMzFiU2pNSEN1bWwzSWEyQUItNFE?oc=5",
+      "snippet": "India and France discuss counter-terrorism cooperation at 18th Joint Working Group meeting in New Delhi DD India",
+      "publishedAt": "2026-11-24T09:18:17.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meerut man held for alleged terror plot, online radicalisation - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRklFODhDUWF6cE80eVFSUlFLamlaem5SYlNVQllnb1QxdlFlUFZaRmxZQXdzcXozVFcySGRtN3hCeElQRTBrb0tqVzRPV0N4TGpZQ0VmMnNHZlpMREpQdC1VZ0xhRTI1Tlc4TGJMcjRGMkRCd0MyMnpHUUVnbGZCRExwNkpYQ1RGMWlnQV95d3lYVnZKcEs5Ymc2SmNJUzJCeHNOdTJYT1I5b0R6SmpiWW9sazVWa1NtRG9WZEE0YWNnUWM2ZW9XS2pxUDc0S3dxNUHSAdcBQVVfeXFMTm5oLXNLTjRKeDdOQ2k2MGtmSWZUWnBHNXhncWNocWtOXy1na1lRSGJhWjZzYS1aV1dMNnd1Z0lGTTl0dDNxVEd5NHRreFNjTmVvMWZxeGEwMkRSc3RWaHhuRlNKZ3BoNUJRMnh0X251U2VXaTl3Rm9NMEoweTlobmhwT1Z3OWFFVUNuS1NqT25xaWoycTdNdlNmSGVFOHhURjM5eXl6SnpCZ25yTkpJVzFkUjJpTFc3Rk1BbDJDbFctWEEzeUE0QkRJamY1VUFGUjZtcDE5cDA?oc=5",
+      "snippet": "Meerut man held for alleged terror plot, online radicalisation The Times of India",
+      "publishedAt": "2026-11-24T04:27:00.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "India & France unequivocally condemn terrorism in all forms - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXVFakwxUnpqaWR1QkRVdDdlVzU5aFBFMG1aSzRDai1pczVNdF8wWlRoVkF6LXJSNlRZbzVLbV9yVWh5RHVzZzBwS2NpVXhDbUJfb3JxR1JRMW5wNVk5cm9HZHhqaXVwaVNEZW9nd2owa2twbFZYSzJGb2pxV0lINnJEclR5Vms2NmIw?oc=5",

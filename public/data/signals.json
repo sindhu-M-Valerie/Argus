@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:13:55.484Z",
+  "generatedAt": "2026-11-24T10:16:21.882Z",
   "windowDays": 7,
   "endDate": "2026-11-24",
   "collectedDays": 7,
@@ -7,12 +7,12 @@
     {
       "theme": "fraud-impersonation",
       "label": "Fraud & Impersonation",
-      "totalArticles": 110,
+      "totalArticles": 118,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -48,
-      "reason": "Last 3 days averaged 10.3/day vs 19.8/day before.",
+      "changePercent": -34,
+      "reason": "Last 3 days averaged 13.0/day vs 19.8/day before.",
       "daily": [
         {
           "date": "2026-11-18",
@@ -36,11 +36,11 @@
         },
         {
           "date": "2026-11-23",
-          "count": 18
+          "count": 21
         },
         {
           "date": "2026-11-24",
-          "count": 3
+          "count": 8
         }
       ],
       "topArticles": [
@@ -77,6 +77,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "Shoppers on Alert as Phishing Scams Triple Ahead of Black Friday, Kaspersky Warns - Brand Icon Image",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZkVtXzU4RWVuYm1BSDJLWlJram5DOFp5RTJxV3hPWi14TW1CM0drQzlwNlUwcmZ2Z2w1c0M0TjlIUW5Jdl9ybmpUZk1XOUxKQzFtRnBpcXFTSl9aZUdQRDE5dTRibjE0a1JKekpLR0hRMjhYUWN0UTRGNTZXeFNsWkFnaTFUdw?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-24T07:42:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Fraud & Digital Identity News – KYC, Scams & Verification - FF News",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSHZHdFRlTDRqTnJJU2VmdzB6ajAyWDRIWHJXcW1VSnNHZTV5ZkppOHEtQnpxMnNOdERlYl94cHdVM3FjT3J3b0U2UHMwTkotZHpj?oc=5",
           "source": "Google News • Fraud and Impersonation",
@@ -99,26 +107,18 @@
           "publishedAt": "2026-11-22T17:39:08.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams - Infosecurity Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0dYdGZQeWttSVlfOFJtX1ZUeEhVMHZsdVRRVjREMFVvLWNhdF91UldGdmJPOUtUUXd5LWFXc0FCdFFjdnpaQnZEQ0pZZ0FmVUszanRjVms1SXRyNWNjRjBLellVakdtajNKZUVMQmREUzc5aFJjQnNJa2FYSkZKYjln?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-20T11:55:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 100,
+      "totalArticles": 110,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 33,
-      "reason": "Last 3 days averaged 16.7/day vs 12.5/day before.",
+      "changePercent": 60,
+      "reason": "Last 3 days averaged 20.0/day vs 12.5/day before.",
       "daily": [
         {
           "date": "2026-11-18",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-11-23",
-          "count": 33
+          "count": 35
         },
         {
           "date": "2026-11-24",
-          "count": 1
+          "count": 9
         }
       ],
       "topArticles": [
@@ -191,26 +191,26 @@
           "corroboratedBy": 1
         },
         {
+          "title": "European Commission Confirms EU Academy Data Leak After Cyberattack - EU Today",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ReTJpMUlta3hIRFFKQmhvejFUX3daRTFqWTNxd2FuNHFLTm9zS1dQN3NZREcwMEk5dVFRRDRDY3hEeE1mTmRjNkkwdjJEd1NheWs5THNPajFwenBHOURJQnBjc0ZhaVJDanBKRkpoYS1ZUzBjYmNoQ2JjaXRmdw?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-24T07:00:34.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Kenya’s eCitizen Hit by Reported 740GB Data Breach as Hackers Claim Major Theft - K47 Digital News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalpDb205ejhmSjZvcnJlYXVvU0tVYXB6UW9LNTBPeWFEYUExYnZ6cU9JM3NvYXNpSC11Y2dVV1JFNjExTWp1cHEzMHN6ZVpoc05Ga0FPV0gwbVMwNjNsSmRWVXVYYjBLa1pVZFkyaDFLZlZFakp0cmxtdXdqT0tadXZ3dlFXOXBoLXVYaElzV3hhRi1GbzRiYUp3OFlxTlJ0M3Y4?oc=5",
+          "source": "Google News • Cybersecurity Incidents",
+          "publishedAt": "2026-11-24T05:36:31.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
           "title": "LaLiga Confirms Cyberattack As Hackers Steal Personal Data Of Football Fans - The 420.in",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWERFSmtDek0ycEhJTEhXaGpVdkJZNXV5aGdNb1h5Y0tSb2gxd0RPSUgwYnhkUl9hOHhEaGZsUWtGZmZaM1E3eXU3aEZsMHFwc19DVUwxYURSWmtvQTliOTlidlV3QVRReWFLQTNIRXpxWTFoSWxFTVpNX0JaM1dFNWEzVVZ5emEyeWFqUVljTVRNVVZRTk9xNlFn?oc=5",
           "source": "Google News • Cybersecurity Incidents",
           "publishedAt": "2026-11-23T17:20:22.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Hackers Exploit Microsoft Entra Connect Health Flaw to Access Admin Emails and Organization Data - CyberSecurityNews",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CRkFBeGNibWhuZHlBdkF2ek12cTU0ajlNSDA0R1EyaS1ZdDhmc3FabG9YWkZGZGQ0V3Q3TGdlS0dDVi15NTF2TTY5SHJWZXQ0M05NODJDR1hLSGRpbUJ2Y0I0c0Vja3FVUFVxeFRUUVZDRjZr0gF6QVVfeXFMT25SSjgzdGtWUzUyUjl1S3RzdW1tSUpRWC1jVUlLdF9Fem5kYWNrUy1LdVlYYUpyd1lOLWNjNGhzZWxxUjVocnlGbzNobTVPZUxIdmxmYTB3RlkxUUFnd1FBc0IyTlZmZTRrNTVJU0hEdnpCU0l6eEVVYXc?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-23T17:16:22.000Z",
-          "riskScore": 48,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "China-backed hackers suspected of carrying out massive cyberattack on European Commission - ProtoThema English",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFZqcXlyVWs3ZmFBOTR6X2hqVjFhQ1k4V2hZNFJsOWVmazFSOEpxclVBcGx6dVpIRGdzdHRWa3VPanFtRTRCTUFkZDBBUjd5dU12d01heDBvelpCUHViTlBIMUdaSkkzNWtPYmFnRHNfWEJzRFl0eUl0elRjZEZET3hld1BXUHFldFFrUS1hVElyY0FudG5LdHZzemdKZFdWNWxxMGpqak9CREpUV0Q1SHI1eVcyU3lWZEJVUUVkVG51RnJr?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-23T16:29:00.000Z",
           "riskScore": 48,
           "corroboratedBy": 1
         }
@@ -219,12 +219,12 @@
     {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 44,
+      "totalArticles": 46,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -44,
-      "reason": "Last 3 days averaged 4.3/day vs 7.8/day before.",
+      "changePercent": -35,
+      "reason": "Last 3 days averaged 5.0/day vs 7.8/day before.",
       "daily": [
         {
           "date": "2026-11-18",
@@ -252,7 +252,7 @@
         },
         {
           "date": "2026-11-24",
-          "count": 0
+          "count": 2
         }
       ],
       "topArticles": [
@@ -325,12 +325,12 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 35,
+      "totalArticles": 36,
       "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -30,
-      "reason": "Last 3 days averaged 4.0/day vs 5.8/day before.",
+      "changePercent": -25,
+      "reason": "Last 3 days averaged 4.3/day vs 5.8/day before.",
       "daily": [
         {
           "date": "2026-11-18",
@@ -358,7 +358,7 @@
         },
         {
           "date": "2026-11-24",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -403,6 +403,14 @@
           "corroboratedBy": 2
         },
         {
+          "title": "As teen sextortion surges, US tech companies' choices make abuse harder to stop - Scripps News",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEZ0UlVvNks4MWJFYkVPcDM1N19Wd3RXSlB6X1dVei1wRU92d3pMelB4SmpqWDY0aGJrMHVKcHRxUUpXcm93OWZLRlJScTJnZVZWZnp1RWtWZmhaeTU5SEVHZzVEODlNNUgxZFRUbnE5OE5xTDlEV3J5OGRuYmNXSEJBOTZtWkRSWUlxVmsxM0czcDRPZUJVTm5yUklSdFRicWowZEtwWWtaczl0cmtkNkc4SzhTdV82eFllTmlpQ0FZVmxrUVVNTEc2eUg1OFhU?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-24T05:12:20.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
           "title": "Rising Sextortion Cases Raise Concerns About Social Media Safety - The Legal Examiner",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNm5CSzNHVlFUSGFUN0hDd21ycmp3SDRqVlYxNGMzcDNzTEplZkpMb1l5NFVPWGtUcE9GS3ZMZERqM0cyUXktR0NNZWNEM3d0N05GbTc1WElmQXgxTUU1eVRSRC1FS1FIMUFJMmtacDJsNTV0VHRIOVdUUUx4SU5PdDZwSzhGREFpTGdQNGJvdEZQX3VYRkF5VTZNU3cxMWJ2Y1dtZkVoQ2FGSnNjYjB2SFJFX2U?oc=5",
           "source": "Google News • Sexual Exploitation Online",
@@ -417,26 +425,18 @@
           "publishedAt": "2026-11-23T07:16:49.000Z",
           "riskScore": 52,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Seven charged with online child sexual exploitation after police raids - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbG5jdXU1MXQwOGFwSHhsNWRETFphOS1ycVdFbWZ3NE9FUElrSHdkb1RvMHNRbE1VZHhkWF9XUE9ZS2x2Ri1SWEE5eGRpSEhfR2FXdjFSUnZVbWtSbGc?oc=5",
-          "source": "Google News • Online Exploitation (India)",
-          "publishedAt": "2026-11-23T06:07:43.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 27,
+      "totalArticles": 29,
       "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Falling",
-      "changePercent": -77,
-      "reason": "Last 3 days averaged 1.3/day vs 5.8/day before.",
+      "changePercent": -65,
+      "reason": "Last 3 days averaged 2.0/day vs 5.8/day before.",
       "daily": [
         {
           "date": "2026-11-18",
@@ -464,10 +464,18 @@
         },
         {
           "date": "2026-11-24",
-          "count": 2
+          "count": 4
         }
       ],
       "topArticles": [
+        {
+          "title": "India and France discuss counter-terrorism cooperation at 18th Joint Working Group meeting in New Delhi - DD India",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRDZhZzVYZDZ5cEJfcDJYOVNJU1Z1MWtLUzEzaUZZRFRLbjlxZnpYTDZZcl9kS2ZDMmhZdDdweF83MllPa3gtWTBWNjZIRzVGZmFSN0dBRWtjdTltcF9BV3JMVzJZcVBlSmVrX1dfSThCNzZDaFM1eWEyODlxaFJZR0NHekhsanNQRUJqYjR0ZXVCOWp4a0Nhdnh4WjQwb3pQaXdvNGttZ29DS0NVY2pOdE9jNEJ3U1Zvc0NzMzFiU2pNSEN1bWwzSWEyQUItNFE?oc=5",
+          "source": "Google News • TVEC Terrorism (India)",
+          "publishedAt": "2026-11-24T09:18:17.000Z",
+          "riskScore": 64,
+          "corroboratedBy": 1
+        },
         {
           "title": "India, France condemn Pahalgam and Red Fort terror attacks at counter-terrorism meeting in Delhi - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOXzk0d0syRFB1Z04wRGFqU2dnX3BKU0tUMUNZUHNRYjNyQ2VVbUJqZ01LWmhodzEtZUtrMVFjMnF1elZIWDV1ZVpLRzM0TWhoT1ZBTUNLZ2pMVEkwVlFNVW9weGJaQVRyRFM5RzJGMzJlOXdUODZwQ2Eya3FuS3VnSy1uam4waFVVaFhoR1FYZEU0MENzajlCVzFrSlc0ODAwUldLZF9Sc2htX0R5b2wzSjlnSnlDWmF0Uk1LbzYzdkNEX1lUTnM4d0toMFNacU9ubHR5eU9xRUtpNTVKUjVBU1g4ck80MllrSHBKWmFkLWRvcnM5azBVOGJB0gH6AUFVX3lxTE5fOTR3SzJEUHVnTjBEYWpTZ2dfcEpTS1QxQ1lQc1FiM3JDZVVtQmpnTUtaaGh3MS1lS2sxUWMycXV6VkhYNXVlWktHMzRNaGhPVkFNQ0tnakxUSTBWUU1Vb3B4YlpBVHJEUzlHMkYzMmU5d1Q4NnBDYTJrcW5LdWdLLW5qbjBoVVVoWGhHUVhkRTQwQ3NqOUJXMWtKVzQ4MDBSV0tkX1JzaG1fRHlvbDNKOWdKeUNaYXRSTUtvNjN2Q0RfWVROczh3S2gwU1pxT25sdHl5T3FFS2k1NUpSNUFTWDhyTzQyWWtIcEpaYWQtZG9yczlrMFU4YkE?oc=5",
@@ -523,14 +531,6 @@
           "publishedAt": "2026-11-18T11:59:00.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "India & France unequivocally condemn terrorism in all forms - News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXVFakwxUnpqaWR1QkRVdDdlVzU5aFBFMG1aSzRDai1pczVNdF8wWlRoVkF6LXJSNlRZbzVLbV9yVWh5RHVzZzBwS2NpVXhDbUJfb3JxR1JRMW5wNVk5cm9HZHhqaXVwaVNEZW9nd2owa2twbFZYSzJGb2pxV0lINnJEclR5Vms2NmIw?oc=5",
-          "source": "Google News • TVEC Terrorism (India)",
-          "publishedAt": "2026-11-23T19:37:12.000Z",
-          "riskScore": 56,
-          "corroboratedBy": 1
         }
       ]
     },
@@ -566,27 +566,27 @@
         },
         {
           "date": "2026-11-23",
-          "count": 2
+          "count": 1
         },
         {
           "date": "2026-11-24",
-          "count": 1
+          "count": 2
         }
       ],
       "topArticles": [
+        {
+          "title": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material - Arab News PK",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk51bzlYR3FyQ1dtbXpmUi1CUG1tdEtrcTZneHdNQ2xnZWtrMEtDSm1SRU1zY0w3Y3NVWWNPd1V6enlZeWg1b0hQYUl5M1B0eE9HVkRPdjdxN0swZWxqT1p6Q0dOY0k3X2s1RHRQVzlBOV93Q2pJMjhZY3lIWmFLWDB5elBMdWpieU9FZmpGYTViWVpELUYtOU40WTRQRmV3Z0YzUmp4d29PM2lzZFFvOVUtdUY4UXJNNXVyWWhDRzdaLVRDcl9Wc0g4bmlOTWM?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-24T01:08:00.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "Greenville man arrested on child sexual abuse material charges following cyber tip - WBIW",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXU4TE41WU40RHlqSFBSODllVEN5SU9jWjI0UXpKS3gtZlZCekZ1c1I0U0ZJU0otaTBrbS02aXJBSmdBT1JtS09TYml6blY3TFpiNi1HblptMkFuT0Y2YmJtT1ZxUEVFU1ZKRDdTQ09ld2JLMmZVNkoyX19iVm8zWUJmclE4NjBPM280bnBzeGp1MGp6a1VrMVRyalhVMW5SZ056X3pDNEVoQmxQZm40VGRrbnhTUQ?oc=5",
           "source": "Google News • Child Abuse and Nudity Safety",
           "publishedAt": "2026-11-23T15:09:19.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material - Arab News PK",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk51bzlYR3FyQ1dtbXpmUi1CUG1tdEtrcTZneHdNQ2xnZWtrMEtDSm1SRU1zY0w3Y3NVWWNPd1V6enlZeWg1b0hQYUl5M1B0eE9HVkRPdjdxN0swZWxqT1p6Q0dOY0k3X2s1RHRQVzlBOV93Q2pJMjhZY3lIWmFLWDB5elBMdWpieU9FZmpGYTViWVpELUYtOU40WTRQRmV3Z0YzUmp4d29PM2lzZFFvOVUtdUY4UXJNNXVyWWhDRzdaLVRDcl9Wc0g4bmlOTWM?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-23T13:57:24.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
         },
@@ -643,12 +643,12 @@
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 12,
+      "totalArticles": 13,
       "distinctSources": 7,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 33,
-      "reason": "Last 3 days averaged 2.0/day vs 1.5/day before.",
+      "changePercent": 56,
+      "reason": "Last 3 days averaged 2.3/day vs 1.5/day before.",
       "daily": [
         {
           "date": "2026-11-18",
@@ -676,7 +676,7 @@
         },
         {
           "date": "2026-11-24",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -695,6 +695,14 @@
           "publishedAt": "2026-11-22T13:00:00.000Z",
           "riskScore": 51,
           "corroboratedBy": 2
+        },
+        {
+          "title": "CSOs urge security agencies to act against political threats, election violence - Tribune Online",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0hZaGJ2bHh1YlA3MXdld04yOUlrTTZ5anQ3ZnFFYVUxZmtzWTRpR2dRbXgzcTJ2YnRPRERiOTdzakpaVUZ1a2ltQkRfRktVc1E0WTk5bVdzcmUzOGpmWWsySlY0VXNFaUZoZktUM2JMbENsZG44ZG1EeW43WUVST3lfTDRtdjAydDE2SFFmZHBXZTh5TTlaQzN2eGc5WWc3U2c3bWpPRkdyb3c?oc=5",
+          "source": "Google News • Violence and Violent Crime",
+          "publishedAt": "2026-11-24T01:20:00.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
         },
         {
           "title": "Inside the terrifying online networks pushing Oregon children to violence for ‘internet clout’ - OregonLive.com",
@@ -733,14 +741,6 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWRLdXFUZ2lfTDJSQlpwQW9XNHhDTVhNeEZMZ0JWQWMybWxyN0hDeGNYVWE0WWtpbGI1WDZ0YkJSeGRMLWhOUFQwU3V2Rm0tcmxKd0NJaUNJOGx3T3RJekh6VlI2M2NuU2VpQ29MS2ZfNjZaRzlEZEpSZFVjVldPalpnOHQxVldaQmlIZm11Wl9PM0hzTGVCX0R5WkZTZHA3SlhlOUJiMnpkV2RueVE2NUpnd1VqZk0?oc=5",
           "source": "Google News • Sexual Exploitation Online",
           "publishedAt": "2026-11-20T09:16:43.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Indian campaign against online violence wins 3 Shorty Awards in Los Angeles - Firstpost",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUFpLYnEyYlYtMWZFZ0NNbFBrekxleXQ1QU04SUZ4MlJmM3ZaLXFPRHRQUEFDVHVyWnZrOVBkWk9MY3c2eC1SQUtIYjlWZ296X1l3dVl5c1BhOWdHOTdBdVBJeHpOR2s2aXR5UUtBVGVWUjFjVXliSDJubnJqb1N3NVRDVWk1elpqWWlBTmMtR1lMd3B5UmpSU0hON2d2WWhmblREYUdR0gGrAUFVX3lxTE5XMkIwU2xqOGdHZkI3TWNEb1BDMWFYVE9ZSHRoZ2N2THFJckFrTGIzMWZwU3RPaUVWWll0bER3OHU0VERlMzY3dTAwbmhjVWFsOUxaRFpibzJVcUZ3WkZiNzhnR3NtZmRFT2FLTERVWU5aa2pwR19NOHdhTHhzY0lnSVp5Xy1jRWFSZzdyUDNzRXlGQ3hzQWwwSkV1TnA5YmZVa1VSN0tmNkJ1OA?oc=5",
-          "source": "Google News • Violent Speech (India)",
-          "publishedAt": "2026-11-20T08:51:23.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
         }

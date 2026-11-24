@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:09:11.901Z",
+  "generatedAt": "2026-11-24T10:11:34.271Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 31
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 67
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,126 @@
     }
   ],
   "data": [
+    {
+      "title": "European Commission Confirms EU Academy Data Leak After Cyberattack - EU Today",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ReTJpMUlta3hIRFFKQmhvejFUX3daRTFqWTNxd2FuNHFLTm9zS1dQN3NZREcwMEk5dVFRRDRDY3hEeE1mTmRjNkkwdjJEd1NheWs5THNPajFwenBHOURJQnBjc0ZhaVJDanBKRkpoYS1ZUzBjYmNoQ2JjaXRmdw?oc=5",
+      "snippet": "European Commission Confirms EU Academy Data Leak After Cyberattack EU Today",
+      "publishedAt": "2026-11-24T07:00:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kenya’s eCitizen Hit by Reported 740GB Data Breach as Hackers Claim Major Theft - K47 Digital News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalpDb205ejhmSjZvcnJlYXVvU0tVYXB6UW9LNTBPeWFEYUExYnZ6cU9JM3NvYXNpSC11Y2dVV1JFNjExTWp1cHEzMHN6ZVpoc05Ga0FPV0gwbVMwNjNsSmRWVXVYYjBLa1pVZFkyaDFLZlZFakp0cmxtdXdqT0tadXZ3dlFXOXBoLXVYaElzV3hhRi1GbzRiYUp3OFlxTlJ0M3Y4?oc=5",
+      "snippet": "Kenya’s eCitizen Hit by Reported 740GB Data Breach as Hackers Claim Major Theft K47 Digital News",
+      "publishedAt": "2026-11-24T05:36:31.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bell Cybersecurity Incident: 5 Brands, Virgin Plus Hit - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDZ6eFkwZ1BJeWFKSVM1ZW9BbFlhRmZuYjB3VEE2cTNCX0duVzVDa2ZVcjFnWTFpLWdNNVNheWFOcUxHX2ZTRGRkd3dlclVDZllmdHJ3RTYwUHBSclRoTm5CakxTdkZmdkY3emR3eDZkcVdwNm85ZlFZOVVYblM3VU9UZHFPeTcyMVo3YkhzLTJUV3JxOXp3MmdLRUxfRVc3QXZMcW9n?oc=5",
+      "snippet": "Bell Cybersecurity Incident: 5 Brands, Virgin Plus Hit shattered.io",
+      "publishedAt": "2026-11-24T08:48:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Online travel agency Travelstart hacked - ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3V2TE5UTnZRWFJwcmJ3dVVJMlliTlZFV0ZJQ2dUbUxQX2pmekM5WENnTU9UdEVyU2VPSkVzcE15aE9vaVc0UlRmUmh2dHh1V1htY3FPdXZjbWl5eFRvNl9OdWFyOFoyNUtqZExDa1lhYlFPb190RlQzUzBmLV9mREVGWUdRUGZVdEM1cXZzRTRkZw?oc=5",
+      "snippet": "Online travel agency Travelstart hacked ITWeb",
+      "publishedAt": "2026-11-24T08:33:31.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Renfe Warns Customers of Data Exposure After September Cyberattack - cwibc.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03LUNjdG12LVdnalZFWFRTRVdqNnp3TnBmeU45ZWxGcmxNRzNIejdSRFZSUWxDSkZiSlBqTWdVeGNwakFTcVlyQ0NjalF1RkEteE5QdklDcEVKOElfdW40SGF0QjQ?oc=5",
+      "snippet": "Renfe Warns Customers of Data Exposure After September Cyberattack cwibc.co.id",
+      "publishedAt": "2026-11-24T07:55:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity Tools Optimization Matters - Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzdxRF9zS1drTm10bVYzbFVTTkZVVzQwM2RhVGV1NzY5MFl3a0p1R3JUVkFXYjliSjZLdlYzNnk0ODJtbkdlZjROOEVxU0F2NGhlSXg1Y01ZeWN0Rk5pc0R6a3dZTUtUSUtmbnNZWWdmLVhfdUdjeFIwQmhrcmktSm5yUk5aOS1wbmNmbGJIaXc?oc=5",
+      "snippet": "Cybersecurity Tools Optimization Matters Mexico Business News",
+      "publishedAt": "2026-11-24T07:08:58.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "NEXT Data Breach: UK Retailer Says Customer Data Not Exposed - Dainik Jagran MP CG",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFdobEhNOGFEa0JudjZmQVRGUVBzaDItME8tY0dSN0Vnc193M1VKZ0ZhQTdZV19lWWt6dTRRc1JYUHdBbV9PREw3N1ZBcXNTTHBrc3VMRHE1OWlnZF9QUklmOEdnVEFKdXd3cU0yNno1bV91YW1RWWM5ZGxzVGZPR0dZVktzNjA5ZXA2NEhrTDA1cjhKdERxdjBaTG9SNnJvOUlUNnBpZFVfRENxamY2OXhVc2hrYUtlVEdjVWJpNktLY08ycDBOZUFlUUs?oc=5",
+      "snippet": "NEXT Data Breach: UK Retailer Says Customer Data Not Exposed Dainik Jagran MP CG",
+      "publishedAt": "2026-11-24T06:03:10.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "European Commission Confirms AI-Powered Cyberattack, Takes Multiple Applications Offline - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HMkdEZldlR1FCVHpURS14cmtxX25KTF92YjBNN1YyTVpTRnlUOExaMHpYRmczTmRnSGZ5RDYzZU9FY3Y4UThqV2lkd0VaVlhnLVdlUmlJUVFXcDh4NC10NjFySTBTeDh0UDdDR0U2SS05SVRyTXh5OGw1VmxSTlHSAYQBQVVfeXFMTmpoYWM0WFlTXzNzMVc1OXBJeGROcWJTaURKZWhMLWphc1FPVjNCaXZNcmQ0SEFVb3BYeTh6R2VZWEtEWjVxTVYzSjBTSnBDSExka3lGS3BlRWhPZWxxTmZlZUV1VHlJeE9CM0RVejdMT1ZGVkVCUW9kUkcxMThXWEV1aEhD?oc=5",
+      "snippet": "European Commission Confirms AI-Powered Cyberattack, Takes Multiple Applications Offline GBHackers News",
+      "publishedAt": "2026-11-24T05:56:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "EU Academy Platform Disabled After Commission Cyber Attack - Wisevoter",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVVU4MTYzcjI5QTZYRk1qTHVxeG9kVktORFNndDgxeDM4dER2Z08tRk1uOXhMY0dCTjR2dFU4OXJoWWxDN3FPa2h4Q19JT19GVnNkTEpKa0kwUzlOODVncURYWXUxRENnN0xSRHR6bWtzRGQtbFdXQzdic3ZBMUtRaTdSWUlsTWNGNUE?oc=5",

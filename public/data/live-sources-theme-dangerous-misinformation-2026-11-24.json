@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:09:11.901Z",
+  "generatedAt": "2026-11-24T10:11:34.271Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,23 +7,23 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-24 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 33
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -58,21 +58,21 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 20
+      "itemCount": 17
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -85,8 +85,8 @@
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "online",
-      "itemCount": 31
+      "status": "offline",
+      "itemCount": 0
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,7 +114,7 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 27
     },
     {
       "label": "Google News • Harassment and Bullying",
@@ -128,14 +128,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 28
+      "itemCount": 67
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Misinformation being spread in India over Narail incident, says Information Advisor Zahed - bdnews24.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoWDlrcm1fSTdRVmhJdl9WTlR3RHJBRVNRNzZ6RTlZMng1dVdIN3BGZ3lWbGRKb1Y5N0tHX2ZZb0xVVTlkOUktSkNOemRaVTNOZHpFMg?oc=5",
+      "snippet": "Misinformation being spread in India over Narail incident, says Information Advisor Zahed bdnews24.com",
+      "publishedAt": "2026-11-24T09:05:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Zahed urges Indian regulators to address misinformation about Bangladesh - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkNScGdYUE1wWVY1b1EtYTRtVVZ5NTFOUXdPMVhfc3ZSR0dzZWZhdVdoUS1qalJ5dDJmeWVNYVRtbEFYNnY1MG9JeEVneUVsV0tveDE0VnBlOEpicWJXZXlUY0haeDdSd01MYmpTZkRKaURneFE3Wmx5X215RGNtXzBYSG5FVGRaWk9RclNQT01vVmVMbEhKZWhVOW1NQVBVamRqT2xpd1JodkhEcjY3c3g0QzZJbDNq?oc=5",
+      "snippet": "Zahed urges Indian regulators to address misinformation about Bangladesh New Age BD",
+      "publishedAt": "2026-11-24T07:13:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
