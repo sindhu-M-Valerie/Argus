@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:57:19.633Z",
+  "generatedAt": "2026-11-24T00:09:11.901Z",
   "snapshot": true,
   "date": "2026-11-23",
   "filters": {
@@ -7,65 +7,65 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 9
   },
-  "message": "No verified news was found for 2026-11-23 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 38
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 91
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 68
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 28
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,141 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Fact Check: Viral video falsely claims former Indian Army officer said lying is part of Indian culture - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQmJLc3VpaXFMaVVvRkNXekF2MmpHLV8tTVRDMHV5cGMwckstZmxMMXhjLXJfVVY1VnhMYnFqeDZfOUJjQzUwc2ZHN0hBemhWSDBXMl9GXzNVOEhWWEdEdXc2T0hJd3lQejR6cnVGU2JvOWJ5OHBkam1vT281MHE0bjdmcTNwdzNXRzBWN3diaGpNRE9YYWowZ3c4Z0tBM0JZVmJjb0gwQllLUjZNcmRlTW1hb0s0aUVjUWxMb1pWamF2Vy1TZVJETF9jR2F4MFJoYXJ4NUpZMWNYOFVIX08zdHZfWdIB6AFBVV95cUxNdG9MSzlUSHZGeVJwMU1UenUtV0VDeHQxTjZGZS1HRFlTeExYaHdYMWlJekprWVg3V21EcVB3LVlhTjZIclVHWk1FRFZKV0VsdnJsUmlOZDd6OUZ3Y0R6TmQyMUMyVHdQWFJEV3B5Q25vVUJsTHNMUVlrN09ObWc3NEZWZ0ZkY0NNWmlVMXlIREFJenZib3VNUXhXbXVRMUcxYVQ0ZUFfeldlTkdWMVJfYml2TWVhNFZ5WmRydXVfb2dGNHdNQnNSRzlTQmRjeXJQbFZqMHprZmtYelpwOFd3d0pyM2I2NnlP?oc=5",
+      "snippet": "Fact Check: Viral video falsely claims former Indian Army officer said lying is part of Indian culture Organiser",
+      "publishedAt": "2026-11-23T11:35:09.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "#FactCheck:Digitally Altered Video Falsely Shows BJP Chief Nitin Nabin Claiming India Included Pakistan in Talks Under Chinese Pressure - Cyber Peace",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcWZISGY5Q0ZSaU5LN01QemJvaFVDTHFZZWJzMlk0VkZldmkteU1Ec0JidTFfVEZVS19XckowMzVVMUJGRVdwOUlEWjNzSGp1aktXQ010VmRwUVBTSXRRc2tNR0U1TnZkcnI3bGozcngwLVdzcDltdGhwNk5oVWNYcS1IMm9PRExXckpPTkxPNjlyRjRJd0NmRmQ0cS1WcTcwSHUwN3dLNy1oNkx3eW5ObUlxNXk5ME5OQTU4azI2ZkhXbGJsdG0yVG5DcU1rOW1ra1ZsaTNLMEl2VU9mcnJsWEJSSjNNWEpTOTJrZmJKSlJzQ1JUdVRwOUx6X0VqMXkyc0hN?oc=5",
+      "snippet": "#FactCheck:Digitally Altered Video Falsely Shows BJP Chief Nitin Nabin Claiming India Included Pakistan in Talks Under Chinese Pressure Cyber Peace",
+      "publishedAt": "2026-11-23T12:29:38.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Does The Video Show A BSF Jawan Being Captured By BGB In November 2026? Here’s The Fact Check. - FactCrescendo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanV1R2xtUUJDVTRDWk55Y1dQWi1IQmt2SFpSMmowTUI1Q0JYbm9GcjhkNXFDY0I0R2JFZG04cDAzdmlVWmpZeDRzWHNQSnRjdldoVk1faVJzUGw0YTh5R3FQYk4ybnFza1JsT1FNb2x2SGtlSnY3RUlfMUlIS01UQ21qdEdpUGwtZUFGbXVEUDRpYWt1V3ItNWU2VVlqSThDNUE2NUZocHNtRkpSVkQtTHBHR1NlVGM1YWotM3VrTVIxeWdZM3o0bW8tTDY?oc=5",
+      "snippet": "Does The Video Show A BSF Jawan Being Captured By BGB In November 2026? Here’s The Fact Check. FactCrescendo",
+      "publishedAt": "2026-11-23T10:43:34.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Sara Tendulkar To Marry Sunny Deol's Son Rajveer Deol? Here's The Truth - News18",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaFl4YlpxdFZIY0szNENZNnNPN1lqRzM0SWlja1hxR2RiamxCRVMtd3V2NV9rMVVlQjBlRzFkYkhaWTJ4YWJ3NG9HdXlXdFdWT3oyQVRzdWM5eV9DbmJ0azU1V0dKNmNvaVhpVWN5QnVaV2Y1dXNHQWRpZ2hfeTY3MVlybUZYOGk0UnF6OTc3dk9aa3dYWXNqZE14alZ4VzJFN3N3V2oxcTI1SlQzaE9TMk5rRlFra0ZjUkRlVjR4M2wzV25peUsyWGJNUkowSXpEaHpWeF9n0gHbAUFVX3lxTE1KZTdKdkhDN21UZ1h6bEFvcXk2aVY0U1lCRURFMGVMdXBIYkY4RS1nblBkYnVsTVk5RkdhYmZNb1hGRWVrRDlKeDJ5dFVPQ3BiUjFDSkF3a19Zc2xDX0hYSGpReGRhMjdnc2h0Y05USXU1NDMyY0JrbDJBdmRpc094RlhEcUdPdW1IcUlHd0VfVU40RjM3N1ZOWnpJM1VfYVFPdzBveDZrNUVCWUNBTW82Z09uMF9MbFI0V2xlYU8xSVJXLVdYam1FR2RlZlJYdEFhSFdrQ1FhUHBVZw?oc=5",
+      "snippet": "Fact Check: Sara Tendulkar To Marry Sunny Deol's Son Rajveer Deol? Here's The Truth News18",
+      "publishedAt": "2026-11-23T10:14:16.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Nitin Nabin says China pressured India to invite Pak to SCO? No, find the truth here - NewsMeter",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREZWV3gwNGxXbFlLOEExb0poUHBWQzVNR3RuZ2l3MjhUeVpRQVRTc1hyZXhYcFpicGVBdHNlbTNfNjNMM0dyZ25qQXgtS2owcm5HX3QyWXBOR0Fudkw1dERPUmxyaEswaFNwZDZJZFJtV25fdm1RWVJ6R1ppQmQ1c0hCXzVEZFlMRXdKdThIN1JNaUp5NWpXZXlQVXc4ek1NTmlwSEJKSC1pQ041bUI4cnNwa3h6Xy03VjhQMXRn?oc=5",
+      "snippet": "Fact Check: Nitin Nabin says China pressured India to invite Pak to SCO? No, find the truth here NewsMeter",
+      "publishedAt": "2026-11-23T10:07:41.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AI-altered video distorts Indian official's remarks about killed officers - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45UkYzTGZfeXBvMGNVcC1wbFdMdUlzTzZvSlRTSS04Q2dGNU9fM1pvbkVBSnpVVTVLX1VXVE5xY2ViRTQwRW1BUENmT19VUU1KQlNwOGhKVHE?oc=5",
+      "snippet": "AI-altered video distorts Indian official's remarks about killed officers AFP Fact Check",
+      "publishedAt": "2026-11-23T09:15:12.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Pakistani analyst claims that India snubbed Minister Musadik Malik in Delhi, no it is misleading - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUHBjcnF4S2twVVNqUVNsdWVQTkhoQUREMVVsQlFJUGF3aUFhNmgzVXBqclczZklHTERsd0tqZ2ZXZnIwZFhpZElwU1RQSGg1UkdUZ2xNdjcxRUhIblRpdTIxMnRvakVHRGYxRUNPVnRRM2JFeThJU1lpd1VRUWIyUTVHTHJudWdKcl85dUh3QnowUndJd2hRMDhhckpTMDJhbjE4X21KLTJZQTJKYzdBa3EtSW83WjlFY05JWkRpM0h5OUdtNzUzel9PNFlhZzJxNWZodGRKUGtxOTlXZ3JPb3JfcVBEcTlVZGd1OEIwVC16OG_SAfgBQVVfeXFMTm9SczZqLTRyNDVZS3piaTNFaXlNZ0dsSE1qdFZGTFRzTnRGeEhMMklLZUJfcWFFbXh3R3doTkVVdklPYjVoUW44STQ5OVhCS00zMk14WTNhS1k1Vm1qUXQ2ZzF4MDVxaEdMRUhHaEk3RGN4S2hCZ1ZtYWFlSndyb0QtOXlUYmEydXVseENwckpaS3VtOEQwd1N6SmJMaURzUWxBZExYeEppblAtS3pCSmhqTnVma1JWNkR6dzNLVXBrMDRWWVE5MVMxN3dfOVBVbEdTQ3RFckdXNkZ5QkNDVE1UTjRRbU1TNm9wb3VvMnJoSmYwMDZ0UEU?oc=5",
+      "snippet": "Fact Check: Pakistani analyst claims that India snubbed Minister Musadik Malik in Delhi, no it is misleading Organiser",
+      "publishedAt": "2026-11-23T12:20:36.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Iran Warns Of Enemy’s Cognitive Warfare, IRGC Calls For Vigilance Against Misinformation - Dynamite News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM2tqVkhUY2JXaDRvcFRlVUQyQlhGOXZNLUhtdXJTNU5vcXM2RGZTcktJdWppYm5QS3dZQnhmMER6cDJOU0dSNTRuQ0VySmp0emllOEhPZDRiMUNNTlp6R3FJOERoTFRvcFFRWnViRWFvUzFhejNhdHNjU3p1dTM1b0Q4Z1FEa1BuUmxHV05FOUw0c3JIUnoxcmRsa3JVTTFTcVdMaWtsRGdfdVNPbkhhUG4yVk5zX1JGQ0I2UkF3Z1BpdktiSS00ZzNvSGZHUdIBzgFBVV95cUxNM2tqVkhUY2JXaDRvcFRlVUQyQlhGOXZNLUhtdXJTNU5vcXM2RGZTcktJdWppYm5QS3dZQnhmMER6cDJOU0dSNTRuQ0VySmp0emllOEhPZDRiMUNNTlp6R3FJOERoTFRvcFFRWnViRWFvUzFhejNhdHNjU3p1dTM1b0Q4Z1FEa1BuUmxHV05FOUw0c3JIUnoxcmRsa3JVTTFTcVdMaWtsRGdfdVNPbkhhUG4yVk5zX1JGQ0I2UkF3Z1BpdktiSS00ZzNvSGZHUQ?oc=5",
+      "snippet": "Iran Warns Of Enemy’s Cognitive Warfare, IRGC Calls For Vigilance Against Misinformation Dynamite News",
+      "publishedAt": "2026-11-23T08:10:21.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indore IIM Researchers Develop AI Model To Detect Fake News With 79% Accuracy, Test It On Over 72,000 Articles - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDdyLXJFdjRmYlppR0JDbm5tbW1WQ2FJTDZUdjhTN3FjU1I1T3V6YWM3QlNMWmR0OTZKVmxHMVhwaW84dG9ISWN6RXluT2cyRnh3TkdDY2RVOHR2blV4M2pFZjgxTm1ERzdvSlJ6eWxfLW82TVZra0s1TEZHNnFqQ3drTXhTNmxjZDRGTVVRRnZlQWFJcDlORC1sUnRwdERNR0YwblF5NE5mTjliYzEwZ2VHbzRvQTgwdVpmUEdIeUhaNS1ZQWtSVTNpVXBOS2VCTWNyVlRNcERLX18tOUNJ0gHkAUFVX3lxTE1tQ2daSUx3aUV0R0dNU3JKcnlObTloalBpQ1pQd0c4bDhqQzhmR0x3OFJLZHMtT3BHakZTclR6N0phNmpsd3JFTWRsWXQwaDdGNURPVXNraTdUMVpfVW90cms4VlBCMXpVdm50dHl5NnBpZHpsS0JOOTFDU2ZZMm1xWUh3UDA0RE9zZGVsSmdsMEdDdUtIeFZ4SnNZM1ppcnJpdUw1ckdJeXhlRGpHX2luN3JBX1JhaHdwaUxST3hfem1mWHpLWlpvZmF3RHQ2NzE0UnhaVmdXRkIydWM2a2JXX0Vhaw?oc=5",
+      "snippet": "Indore IIM Researchers Develop AI Model To Detect Fake News With 79% Accuracy, Test It On Over 72,000 Articles Free Press Journal",
+      "publishedAt": "2026-11-23T03:30:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

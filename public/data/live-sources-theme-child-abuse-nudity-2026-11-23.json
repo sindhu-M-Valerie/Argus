@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:57:19.633Z",
+  "generatedAt": "2026-11-24T00:09:11.901Z",
   "snapshot": true,
   "date": "2026-11-23",
   "filters": {
@@ -7,65 +7,65 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-23 on child-abuse-nudity.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 39
+      "itemCount": 38
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 20
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -79,14 +79,14 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 31
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 91
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 68
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 28
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Greenville man arrested on child sexual abuse material charges following cyber tip - WBIW",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXU4TE41WU40RHlqSFBSODllVEN5SU9jWjI0UXpKS3gtZlZCekZ1c1I0U0ZJU0otaTBrbS02aXJBSmdBT1JtS09TYml6blY3TFpiNi1HblptMkFuT0Y2YmJtT1ZxUEVFU1ZKRDdTQ09ld2JLMmZVNkoyX19iVm8zWUJmclE4NjBPM280bnBzeGp1MGp6a1VrMVRyalhVMW5SZ056X3pDNEVoQmxQZm40VGRrbnhTUQ?oc=5",
+      "snippet": "Greenville man arrested on child sexual abuse material charges following cyber tip WBIW",
+      "publishedAt": "2026-11-23T15:09:19.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk51bzlYR3FyQ1dtbXpmUi1CUG1tdEtrcTZneHdNQ2xnZWtrMEtDSm1SRU1zY0w3Y3NVWWNPd1V6enlZeWg1b0hQYUl5M1B0eE9HVkRPdjdxN0swZWxqT1p6Q0dOY0k3X2s1RHRQVzlBOV93Q2pJMjhZY3lIWmFLWDB5elBMdWpieU9FZmpGYTViWVpELUYtOU40WTRQRmV3Z0YzUmp4d29PM2lzZFFvOVUtdUY4UXJNNXVyWWhDRzdaLVRDcl9Wc0g4bmlOTWM?oc=5",
+      "snippet": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material Arab News PK",
+      "publishedAt": "2026-11-23T13:57:24.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
