@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:11:34.271Z",
+  "generatedAt": "2026-11-24T22:39:12.847Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,42 +51,42 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 38
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 68
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 72
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,51 @@
     }
   ],
   "data": [
+    {
+      "title": "Naqvi says terrorism, hate speech, inciting violence are Pakistan’s red lines - 24 News HD",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY1Yydks2VTNobXJfLThneVRVdTQ3ckxQWW0xWk9RR0l3WWhDTEpESHFjUWg0NTc0cFk5YWRfYmZHNkQ2bVRnSlp2NHNYNmM1OW4yWlozMm8xSERObENISkZxV3ZiMWtkUHVqc29qTy1Nb0hoaXpVZjRQNlYyaGJRanpYZGVjdDIxRDNLQkRZTTdwa2ZVT20tWlBkSDVXTm9pblhWQzE1WEZzMG8?oc=5",
+      "snippet": "Naqvi says terrorism, hate speech, inciting violence are Pakistan’s red lines 24 News HD",
+      "publishedAt": "2026-11-24T11:34:00.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violence",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "‘Terrorism, hate speech, incitement to violence & child abuse’ red lines of govt: Mohsin Naqvi - | Associated Press Of Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTExUQ0t5YkdweHZtazB6bUNFV3lkRHJQaVlVQ09xcnJNeGNtV2Z4QWhVXzZRWjNVb25LeUQxYmpsUWFUMS1jVFRZSkt6d2E4SnBCNkxVanNscDdaQ3M3TWowVzByUFZ0cWppckt3NWNQRGhyTTlWSUFWN2xSc1d5dmd5WU5CaGNqMmJBZ01pelAzYXl5cmFTZVd1bF82WWs2eWhlSGVGTE4xZ0dWOTI0YUhudGVpcVVSeWdiVA?oc=5",
+      "snippet": "‘Terrorism, hate speech, incitement to violence & child abuse’ red lines of govt: Mohsin Naqvi | Associated Press Of Pakistan",
+      "publishedAt": "2026-11-24T14:18:29.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "violence",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Big Tech: The industry that profits on rage, hate and violence - The New Daily",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0NFMDNFcEppWWk4NS1XZzRRajhoYnVfQ2FHZlR1UTMzajE2cDZGVjJSM2hsWFdMTDdBNHdBalZDSkVQbzFMc0NLN1hMdS12SXBhZ0g5aDVtRS1aREZlSHVqMV8wXzVlUG1fbW1WOUdlM0RXNVctMFZvQnNhbVgzV192Vk8yQQ?oc=5",
+      "snippet": "Big Tech: The industry that profits on rage, hate and violence The New Daily",
+      "publishedAt": "2026-11-24T11:42:04.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "CSOs urge security agencies to act against political threats, election violence - Tribune Online",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0hZaGJ2bHh1YlA3MXdld04yOUlrTTZ5anQ3ZnFFYVUxZmtzWTRpR2dRbXgzcTJ2YnRPRERiOTdzakpaVUZ1a2ltQkRfRktVc1E0WTk5bVdzcmUzOGpmWWsySlY0VXNFaUZoZktUM2JMbENsZG44ZG1EeW43WUVST3lfTDRtdjAydDE2SFFmZHBXZTh5TTlaQzN2eGc5WWc3U2c3bWpPRkdyb3c?oc=5",

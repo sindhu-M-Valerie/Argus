@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:11:34.271Z",
+  "generatedAt": "2026-11-24T22:39:12.847Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,42 +51,42 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 38
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 68
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 72
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -185,13 +185,43 @@
       "title": "India and France discuss counter-terrorism cooperation at 18th Joint Working Group meeting in New Delhi - DD India",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRDZhZzVYZDZ5cEJfcDJYOVNJU1Z1MWtLUzEzaUZZRFRLbjlxZnpYTDZZcl9kS2ZDMmhZdDdweF83MllPa3gtWTBWNjZIRzVGZmFSN0dBRWtjdTltcF9BV3JMVzJZcVBlSmVrX1dfSThCNzZDaFM1eWEyODlxaFJZR0NHekhsanNQRUJqYjR0ZXVCOWp4a0Nhdnh4WjQwb3pQaXdvNGttZ29DS0NVY2pOdE9jNEJ3U1Zvc0NzMzFiU2pNSEN1bWwzSWEyQUItNFE?oc=5",
       "snippet": "India and France discuss counter-terrorism cooperation at 18th Joint Working Group meeting in New Delhi DD India",
-      "publishedAt": "2026-11-24T09:18:17.000Z",
+      "publishedAt": "2026-11-24T10:08:30.000Z",
       "source": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "tvec",
       "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mohsin Naqvi Urges Social Media Platforms to Act Against BLA Recruitment and Terrorist Propaganda - Balochistan Pulse",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1maEVJQ1FSekdvcVlBbjFzcERxZHFqMW9rN2NFOFFINE9UV1RwRVRHVlZWUFF3OHg0cV85WXZmNUl5bk5OODRfUkd4MERlNUZ2OGp6dXNXdUpvRFAxR2tWQjhQbkFQWGVUaDVVQXZPNG9YMGxZcXFJS2lxVdIBe0FVX3lxTE1maEVJQ1FSekdvcVlBbjFzcERxZHFqMW9rN2NFOFFINE9UV1RwRVRHVlZWUFF3OHg0cV85WXZmNUl5bk5OODRfUkd4MERlNUZ2OGp6dXNXdUpvRFAxR2tWQjhQbkFQWGVUaDVVQXZPNG9YMGxZcXFJS2lxVQ?oc=5",
+      "snippet": "Mohsin Naqvi Urges Social Media Platforms to Act Against BLA Recruitment and Terrorist Propaganda Balochistan Pulse",
+      "publishedAt": "2026-11-24T14:56:27.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India and France unequivocally condemned terrorism during Joint Working Group meeting - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVJKbEZQazJtVkdhVU5rSlUxTmFkMV9MR1AzWi12dmRCQkdJRVVzaU9OTW1MLWhRQkRzZlZpczNNU1RrQ2xZUXE4WXFjMG80NzhHR2pHRVI5UGZGVHNYZWpEMVgweVVDR0JQWlVPaFFBV0JoNDQ4LS1qeUxHcmdnNXRtRlozS0ZpZV9YVlE3a0MzUnV5NzRwMmdwbFVmR20tLVNzQWJXR25jY2lIZHJrLQ?oc=5",
+      "snippet": "India and France unequivocally condemned terrorism during Joint Working Group meeting News On AIR",
+      "publishedAt": "2026-11-24T14:34:31.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -212,17 +242,32 @@
       "corroboratedBy": 1
     },
     {
-      "title": "India & France unequivocally condemn terrorism in all forms - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXVFakwxUnpqaWR1QkRVdDdlVzU5aFBFMG1aSzRDai1pczVNdF8wWlRoVkF6LXJSNlRZbzVLbV9yVWh5RHVzZzBwS2NpVXhDbUJfb3JxR1JRMW5wNVk5cm9HZHhqaXVwaVNEZW9nd2owa2twbFZYSzJGb2pxV0lINnJEclR5Vms2NmIw?oc=5",
-      "snippet": "India & France unequivocally condemn terrorism in all forms News On AIR",
-      "publishedAt": "2026-11-23T19:37:12.000Z",
+      "title": "Capt Machchhar foiled terror plot that could have escalated West Asia tensions Speakers at Delhi conclave - The Week",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeGs0V0ZBS20yVVJiSmJwd0VQdTFZb3cyOElQWXMxcVhIZG9YcVFZbnl3NURlYUFRTDg0eERFNDVkSHVzWWRjVE1nTXZqMEppU1NfQllaWnZsVnpIRi00eEhRZW9WMjJOeEtVem55MThCY2Z3d2VGMWhudE93dFZqYk1KVTRTZjJFUmxjM0xCaHBCMmRPTS1GRm9tdUZlQ1ZNbl9vcTJsOHljWUhwekRzSkRlU1phQXdlM05kZGhBczdpX1lZRzYtejFjVXU4MG9WS3BVVmIwY0dLcmpjczc4RXNVczJ0aDdxLXozamphWDJfdEw1bnRhVWVtMlNkMHPSAf8BQVVfeXFMUHhrNFdGQUttMlVSYkpicHdFUHUxWW93MjhJUFlzMXFYSGRvWHFRWW55dzVEZWFBUUw4NHhERTQ1ZEh1c1lkY1RNZ012ajBKaVNTX0JZWlp2bFZ6SEYtNHhIUWVvVjIyTnhLVXpueTE4QmNmd3dlRjFobnRPd3RWamJNSlU0U2YyRVJsYzNMQmhwQjJkT00tRkZvbXVGZUNWTW5fb3EybDh5Y1lIcHpEc0pEZVNaYUF3ZTNOZGRoQXM3aV9ZWUc2LXoxY1V1ODBvVktwVVZiMGNHS3JqY3M3OEVzVXMydGg3cS16M2pqYVgyX3RMNW50YVVlbTJTZDBz?oc=5",
+      "snippet": "Capt Machchhar foiled terror plot that could have escalated West Asia tensions Speakers at Delhi conclave The Week",
+      "publishedAt": "2026-11-24T17:58:00.000Z",
       "source": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "tvec",
-      "riskScore": 56,
-      "confidence": "Medium",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "UP man arrested over Instagram terror network pushing anti-national activities - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTGUtYlZDUkQwWlBhem5VbEpWWVFuWnhMU3pJaUNMel9nbTZCcFI5a1BGdTRqem9fbERkQVJEVnZDMktRLXlSWlRnblFpUS14eVpVQTZ0UDI3S2lvelQ1aU1SaTJEVHNGeWROZFozTHp4Mk4wZGlfWFZkZTJDU0k0MEFMYkRPQlZpaDZaUVhDRHowbGJWTEpIRUdIN0NxOFRyakJBMFU2bzNJZ0lDSmFHWEVQdlFGRVY3ZVZZdmlod0k1Z1VPcEFkR3ZvX1AzN3otUl85UkgzUTJtTGd5MElkRG1MWENwVUQt0gHuAUFVX3lxTE9LdDlnRUhKa2R1ek1maEZIX0t0MW4zQnFwVDh1SzRBRVFjVHlzbVN2THE1WE5xRUl5aFgtRjVIOTN5SVBtMjZDMTY3Rk1Md2xEVzhRUVdteURYOTJrbjNoV3RueEJqYUdNYXVPTWZPNGRqd2JjN1N6TlpUdDJyc2Z1djdubFpUUVM3bzhsN0QwdGZaZG9Qa2J1MlBlUk5pYzFiR1JNMHpmZUlSQTVTa2J5YlRLR1huNVJNbWJFcUZOQnlocHdZaXZpeHhKd25tbVdyZmVmSjJ1eU94RUQ3UUpnWVhHS1phakJLelBoNGc?oc=5",
+      "snippet": "UP man arrested over Instagram terror network pushing anti-national activities India Today",
+      "publishedAt": "2026-11-24T12:02:43.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

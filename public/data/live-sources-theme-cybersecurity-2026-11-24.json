@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:11:34.271Z",
+  "generatedAt": "2026-11-24T22:39:12.847Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 9
+    "total": 16
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,42 +51,42 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 38
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 68
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 72
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "McDonald’s Japan Confirms Data Breach - Customer Information and Location Data Exposed - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kR3M0Q3ZQNjRrUTFFTXBQMmcwUUhocGxKZFU2TDFsb1VnV2xBSkw2cS1LUjU0eU1zTGRrWVRQbGRiRklMRWpONHdXQWJhWlpMN0pDTElHYXNHbEgwTUlBR2VGU1ZKTFU2NkE?oc=5",
+      "snippet": "McDonald’s Japan Confirms Data Breach - Customer Information and Location Data Exposed CyberSecurityNews",
+      "publishedAt": "2026-11-24T15:58:35.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "European Commission Confirms EU Academy Data Leak After Cyberattack - EU Today",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ReTJpMUlta3hIRFFKQmhvejFUX3daRTFqWTNxd2FuNHFLTm9zS1dQN3NZREcwMEk5dVFRRDRDY3hEeE1mTmRjNkkwdjJEd1NheWs5THNPajFwenBHOURJQnBjc0ZhaVJDanBKRkpoYS1ZUzBjYmNoQ2JjaXRmdw?oc=5",
@@ -208,6 +223,111 @@
       "feedTheme": "cybersecurity",
       "riskScore": 48,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Compromise Check Point Security Servers At 22 Organisations Across 17 Countries - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTJCcGdwLVMzU0s5azlpcmJYaW5oR0RCT0FzbFMzQ2FOR2l5OGlsRGsySmczT1V4bzRVdzNmeV9oN0RUSENNbFBZUWlsSFNGM3Y1MEdHWG5TcTJITHRORnJWcFhaaV9TbV9VaENSYWk4V3NCTllmTFZJcXJNZHQxekMxTEhybFNrLVlUTk1lQ1N4SC1jYi11VEo0X1dkZjJZUTVBQ2c3N21CUQ?oc=5",
+      "snippet": "Hackers Compromise Check Point Security Servers At 22 Organisations Across 17 Countries The 420.in",
+      "publishedAt": "2026-11-24T17:41:29.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Muskoka Authors Association Presents Cybersecurity for Writers: - South Muskoka Doppler",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVRRSU1EUjhqUVRGWF9nTHUxSVFSaHB0eEt2d1ZXSkRRX0otV2Z0cFIwOWFJWFJIM3UyNDhPZ0EzMkdkU0xEVnNqWXNIWE5kMjc2OGRZUF9EaWx4Q3R1ZE1UYnNBSG0yb3dDOFRwUVYtb0tGNDVoRDVSNFhkdXVaeUdnckZwUVFNYXRFRExKX2hXeDhLQ0h1MXl6VHlOMEd0YWpZ?oc=5",
+      "snippet": "Muskoka Authors Association Presents Cybersecurity for Writers: South Muskoka Doppler",
+      "publishedAt": "2026-11-24T17:35:34.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Autonomy and Accountability Drive Student Cybersecurity Behavior in Educational Metaverse Platforms - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZjJLNHA2WE5hRGtvdE5uTVlXbmhmNWUxNUI0YTJta2tMcE5kUlVaQURRX3hmTmQwZHNiWnNSQllzWHhKSURMc3djc1RhU2tQaGVJVjhqd090TWFISlBjNW5PTzZwaTVVTG9WOGV6QXEtOGIxaE85NDFqMmZDX25Ua1ZKNE1NOENBT0o0dVBvSjYtQkJoYm1iZngxSzlhV2pGZDNYSTExdmhaMFB0U3Y1eEctYWdiLU5nX25qTnF4YlJldw?oc=5",
+      "snippet": "Autonomy and Accountability Drive Student Cybersecurity Behavior in Educational Metaverse Platforms Bioengineer.org",
+      "publishedAt": "2026-11-24T15:37:56.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Next Cyber Attack: 1 Supplier Hit, Benign Data, 0 Names - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVjVmNU9hQmxOM0xfVktPNG9oNkhiOThBd3FVVW5XYjFESU5NVGZZRWdReFhCRmlnQ2xSS1pJS3B2dEFUYjFjdk4yZU1zaXZsSmhtdGpQV0FBZE5fZnFhaXhSd1NJRHc2b0hjUVMybDJOWE9LdUZZcmdJMnM0TGNhdGF3cC1lUzNRNHc?oc=5",
+      "snippet": "Next Cyber Attack: 1 Supplier Hit, Benign Data, 0 Names shattered.io",
+      "publishedAt": "2026-11-24T15:36:22.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "KEPCO Data Breach Exposes 1.52 Million People: What Was Stolen? - Techgenyz",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5eHBaZXl5dlhMZnJ5cmotSlp3NHY4RHZPRkFPUmlfVU9HUE5QNnNnai1JT2xWR1ZUT1o0U2VOZmltUjYyR0JLWVpiZUhYdWlXdi1paTF2Y2ZrSDNDUzE5d3RR?oc=5",
+      "snippet": "KEPCO Data Breach Exposes 1.52 Million People: What Was Stolen? Techgenyz",
+      "publishedAt": "2026-11-24T13:23:55.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers claim to have stolen 740GB of data from Kenya’s eCitizen platform - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjJ0em0tNUlSbklONzE1S1VncnU2c1haRk92ODI4b0tCQ0U1Vk1MNlNFdFhJUlNKcW5BYW5ncXJlZ3FIYndiQTk4d3RjVnk0YVhZa2pJUGdKVDMzWmxEMWxOQ05qMVg0NGFSUXYwU0s2TlItQV85Nm9KM2M0djg4c0Z2MU5JeHJINjhtVE9HR1VPRWRLUk16a2Uwb3FwbmlNY3liQmg5OGk?oc=5",
+      "snippet": "Hackers claim to have stolen 740GB of data from Kenya’s eCitizen platform People Daily",
+      "publishedAt": "2026-11-24T12:23:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "LaLiga confirms a hacker stole fans' personal data from one of its fan-services platforms - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjFQR0x0WEtjemhFZzdjOW5MTHNjZWFRQkd0NUlVZVA0a2FsWlA5TnVqQ3lUZjZPTkJBTUozekRwR0M5aUh2ODc5SGdTc1lhNWRiLUt6aktMQ2VoV1hPekFqN0pGcjV4cDhVQ3QwbVJqZTMzREVVMGVVamYwZHl0cjdPaFdHSk13U192OEpuOHYzZ0VBUDY1OTFLVjRNbm1uZjc2dGI2Y3J5eWNtSnc?oc=5",
+      "snippet": "LaLiga confirms a hacker stole fans' personal data from one of its fan-services platforms MLQ.ai",
+      "publishedAt": "2026-11-24T11:01:31.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -250,21 +370,6 @@
       "theme": "cybersecurity",
       "type": "News",
       "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Cybersecurity Tools Optimization Matters - Mexico Business News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzdxRF9zS1drTm10bVYzbFVTTkZVVzQwM2RhVGV1NzY5MFl3a0p1R3JUVkFXYjliSjZLdlYzNnk0ODJtbkdlZjROOEVxU0F2NGhlSXg1Y01ZeWN0Rk5pc0R6a3dZTUtUSUtmbnNZWWdmLVhfdUdjeFIwQmhrcmktSm5yUk5aOS1wbmNmbGJIaXc?oc=5",
-      "snippet": "Cybersecurity Tools Optimization Matters Mexico Business News",
-      "publishedAt": "2026-11-24T07:08:58.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "live-feed",
       "feedTheme": "cybersecurity",
       "riskScore": 40,
       "confidence": "Low",

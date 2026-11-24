@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:11:34.271Z",
+  "generatedAt": "2026-11-24T22:39:12.847Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 12
   },
   "message": null,
   "sourceStatus": [
@@ -30,7 +30,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,42 +51,42 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 45
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 38
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 17
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
-      "status": "offline",
-      "itemCount": 0
+      "status": "online",
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 68
+      "itemCount": 22
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 67
+      "itemCount": 72
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,156 @@
     }
   ],
   "data": [
+    {
+      "title": "Fact Check: Viral video of BJP Chief Nitin Nabin criticising Modi govt over China, Pakistan and Tejas is a deepfake - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPU1o3T1NMVE9ycmtUUWRPaVV2bU93NTBIQ2g5LTAtcUNKNDE1b1RhZ0t5NVl2ZnBqR2FyNG1XV1N5VzJXZzJicXUzek1SRTRoN29UdlN6VFF2OVdaNXFEQ2UtTDhnYXU0a3REY2hsTldZbVY2Z0JLYUNIT2hNaEpWbmlsTTlaanJSb0lCa1RVVGpZbzdqcENxdENsTUJvanZXMGFZYjVUQ3d6blRfYWdQYmw2ZU8yQ3JuSjZBcTFSSy1rNk5UbnEzeGt2M1N5TGk4bU4yREJremdfcktmXzhiTUtpdFMyU2ZQNVJoMTYwUF9TMVnSAfgBQVVfeXFMT2tjUXlTZzNGN054N0xXSVowc05HQ3JPVnVBWENrSDhMeXhNZVM0VHVDN1I2SjZ3VUIxeTNGd19PZkFGYWtUNzd1eUJnWUc3Y0xhNzZyRkJOS2t1WTJRa0FiQkt1dVIwZU5HUkNqU1c2bE1LeUVxODJZUENVNVcwY1BPOWlTODd2T2NlMlIwR2Z4NTMzWVBlbURfbU5BUXI4Q24wdXFYcDczMl9YbU1BZUZHNTVHWmNaN1ozTkNqTnp2ZTlZbVVUc1dyVmtjZVprTHlqNnMxTWRoUXBXZGxFOGFWSFlSQmJHa25ZTmFOamNBZUJKV3VhZkY?oc=5",
+      "snippet": "Fact Check: Viral video of BJP Chief Nitin Nabin criticising Modi govt over China, Pakistan and Tejas is a deepfake Organiser",
+      "publishedAt": "2026-11-24T04:51:10.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 68,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: This video DOES NOT show a gas pipeline explosion in China - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUngtQXhWdk9oWHQ1YlVsdHFXdFFScWhodloyb2NDb29uR3VEbGp2LU1adDZNU1lJMUdTSFo0aERuVEY2XzVyRGVaM2drZ2FtTGRJX1RFa0lodElIZDAwNFFYSk9kV3BPaDRnOWFvRWFja1V6b2JpMk0wZG1zSGdaa0Uxb05sU05KVjlISDQ4aTNtVGd3cy1CamI3N0JUTTNQQUlEUnc1YVQ2Z0NjSHA0RmlZZnpOZUk2RXhKbncyZjl1d1M5Znc2LXlZSWRIbUFi0gHQAUFVX3lxTFBSeC1BeFZ2T2hYdDViVWx0cVd0UVJxaGh2WjJvY0Nvb25HdURsanYtTVp0Nk1TWUkxR1NIWjRoRG5URjZfNXJEZVozZ2tnYW1MZElfVEVrSWh0SUhkMDA0UVhKT2RXcE9oNGc5YW9FYWNrVXpvYmkyTTBkbXNIZ1prRTFvTmxTTkpWOUhINDhpM21UZ3dzLUJqYjc3QlRNM1BBSURSdzVhVDZnQ2NIcDRGaVlmek5lSTZFeEpudzJmOXV3UzlmdzYteVlJZEhtQWI?oc=5",
+      "snippet": "Fact Check: This video DOES NOT show a gas pipeline explosion in China India Today",
+      "publishedAt": "2026-11-24T15:01:49.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Old video from Dhaka shared as recent as encroachment drive from Tripura - lighthousejournalism.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREZRYTNILXk0MHBsakVWWFZRYnVnR3ZlVmlYanMwZzVFbDFmN3pYWXk1WG4xdUxaVjZCS1ZZamU0enlmSkxTV2tmSE5GUnk5RDdnLTgtSURHNlBIZGMtNDY5REtGaGNjT1RQcWZuOTQyeXdTUURWR18xY1dIbE5IWVBFbDZ3OWFhcWxfTzR1SWQ4WHNqeGRnQmt6cEtKaWZrWlp1MXJvN1kxQzYwMlpIZ2R2WUgtZEhLRVdCeGkxTUxvb2hFRlBwTnZGZnM?oc=5",
+      "snippet": "Fact Check: Old video from Dhaka shared as recent as encroachment drive from Tripura lighthousejournalism.com",
+      "publishedAt": "2026-11-24T13:55:33.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Oxford University Or Oxford Union? UK Journalist Fact-Checks Saurav Das's London Claim - News18",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkpCU0hNV19FcXFQNHdKU250SFZLcTRnd1BPNGVkUVVVcm52RmR2MzFLdGs2SHRhX1lNQ2VsV3h3clZ2WUZrdl9XNkJDRjI0TTVBc01nMzR0TjZKWHZjVjhTNjlueGVyQTJ6Yy1DZTgzUDNFRWlNYXM0SThmdGYtbVN2S3VwUWVZeW9Ic2FWMUl1Y3BYal9kdDIxNTgxSmh1NFlPeXpCM3c3bkxCbU5LbEdmdW13LTFOeFM3MmNGV3ZLNEN3ZUhKSnpzZ9IBywFBVV95cUxQUkpCU0hNV19FcXFQNHdKU250SFZLcTRnd1BPNGVkUVVVcm52RmR2MzFLdGs2SHRhX1lNQ2VsV3h3clZ2WUZrdl9XNkJDRjI0TTVBc01nMzR0TjZKWHZjVjhTNjlueGVyQTJ6Yy1DZTgzUDNFRWlNYXM0SThmdGYtbVN2S3VwUWVZeW9Ic2FWMUl1Y3BYal9kdDIxNTgxSmh1NFlPeXpCM3c3bkxCbU5LbEdmdW13LTFOeFM3MmNGV3ZLNEN3ZUhKSnpzZw?oc=5",
+      "snippet": "Oxford University Or Oxford Union? UK Journalist Fact-Checks Saurav Das's London Claim News18",
+      "publishedAt": "2026-11-24T11:13:56.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "This video of BJP President Nitin Nabin allegedly saying that China pressured India to invite Pakistan to the SCO summit is a deepfake - FACTLY",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZFJ1aUR5elFjY2t0dGQtbUU5Ml9CazJPaUdNSEl2RmNKeG5wbkdKYzVjdkVmVUJJQng5SlVfY2tyRG1uekFxZFoyTGtlWDlPM3NoU1JwWG90SjVTcy1ObHZmdkxFdnBZekNTc1pKQ1drbWVpdXNuUEhrdzRxSUllY1J4UVFZWXR2VlFhVUQwcjFCcVpmU1dxeFVPVWFYV05ZMWxJeEZ0RnBtQTFDV2xVVUJ4c2JpN1lxZENYc0hpS1N3VDdjNzBMTDRCdHByTzU1VlljQW1JRFZtUFVfRFlaQ0dBRUtEcElW?oc=5",
+      "snippet": "This video of BJP President Nitin Nabin allegedly saying that China pressured India to invite Pakistan to the SCO summit is a deepfake FACTLY",
+      "publishedAt": "2026-11-24T08:10:29.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Old Video From Israel Falsely Shared As Yemen Attacking Saudi Arabia - Telugu Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGpVN0s5OEJ1SXpPZ2pqNUhOTGlwY3hxbU02eENmbmE3cExTY1dtNEE2M0JPakp0cF9SVkFZNFBCZVI4WVNsN1BiWXZFekZOcFBoRUYyYU9jRlR3OEtKbWtDa2VOa3dQS1dVajZyUUw1QXZzWEtjU3IxQzk5NDNCVDFZaGJjcUFPbzdJNGp2MkF5S2Q1U2RJWTZEYzBpcVphTWVqN0tEOFNMV2IwcHlKYnRmQ2RrMlVu0gG4AUFVX3lxTE5salU3Szk4QnVJek9namo1SE5MaXBjeHFtTTZ4Q2ZuYTdwTFNjV200QTYzQk9qSnRwX1JWQVk0UEJlUjhZU2w3UGJZdkV6Rk5wUGhFRjJhT2NGVHc4S0pta0NrZU5rd1BLV1VqNnJRTDVBdnNYS2NTcjFDOTk0M0JUMVloYmNxQU9vN0k0anYyQXlLZDVTZElZNkRjMGlxWmFNZWo3S0Q4U0xXYjBweUpidGZDZGsyVW4?oc=5",
+      "snippet": "Fact Check: Old Video From Israel Falsely Shared As Yemen Attacking Saudi Arabia Telugu Post",
+      "publishedAt": "2026-11-24T07:22:08.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Can a 175-year-old Ayurvedic supplement really reverse joint pain? - The Healthy Indian Project (THIP)",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUkwRWluc0xzZEVDSzkwdWZnRUduZWhzNEREY2dQMUlydEFsRlFlQkZseS1DaFlOcEJZbWN3ZHh1QnNwVFQ2V1MyNU5IV09TZ3dKTTN2NFRfS2t3bVpXeXBUZF9vMTJMbVh1UmthNkxZR1YwQThsZXZ0X3dkUHV0d1Y5SG5BZzF6TlFaTkxKcGxqSDNrVlFOUElmNzM3ZFhrTWZpWE1RcXlXRnhPbHFVQ2xMVmJMbU9TWkZmZlVHVG1OUS0yZjBDQXNR?oc=5",
+      "snippet": "Fact Check: Can a 175-year-old Ayurvedic supplement really reverse joint pain? The Healthy Indian Project (THIP)",
+      "publishedAt": "2026-11-24T05:58:26.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Viral video of Indian family allegedly targeted with eggs sparks racism debate - The American Bazaar",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQV9QQXkxbHRteGRUcTNYckhtTElSQWpUV0piWXJ1TzAtYW5fZ1MxYkNiRFAydmV5SjBjc2d0Q2hYZ1JKTjQ0UzE0UkhfMktoYmtFbWJNaC16SGJJU0w5YnhOY0Z6NjFmWUFYcEQ1XzVYVDl4Tnl6MW56SXpTd2xnUGgtVmVqN3FHb0tLbEktQ210eERQZExlVXpGZTk5UWFoM21WaFlUSnA1dTlma1V2RTNWeU9xMzlXY2t1Zg?oc=5",
+      "snippet": "Viral video of Indian family allegedly targeted with eggs sparks racism debate The American Bazaar",
+      "publishedAt": "2026-11-24T18:13:32.000Z",
+      "source": "Google News • Online Hate (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violent-speech",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Senegal hit back at 'fake news' corruption allegations as AFCON final legal battle intensifies - Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc19zWV9KVFg4VXZnSW5IenJoVE4xeU9TeGQ3cVFyd3RCdU9HRXRXRC1CdWFKSlZoYWduSlZwb3RIR1ZyVEg5VmExYmlQR1RJeGJSWVo0aVBFMkNrUGg1TWpKbUNETHo4bUVqX1o2MHN4VTZHOGQtamowSk1YaGVnYkpfYlYzcnN3V2xVaVBDZWI2bUdIcF9KeDBxUVBxR2ttUjJJQjBmdll2OVdya2duT1FJMVhDZlltRkE3OFBR?oc=5",
+      "snippet": "Senegal hit back at 'fake news' corruption allegations as AFCON final legal battle intensifies Goal.com",
+      "publishedAt": "2026-11-24T13:32:20.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Meta-BJP Ka Beta': Youth Congress launches campaign, says Meta allows BJP to spread fake news - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM1p4NjZRbTlHWkNaUDBKS1BsZjlaeElGdkwtYi01ajlvLVFyRVUxYXVSdkY1ZDdaQ0JMMTRvSHRXVWJNai15cDdXUW50VDVmRXQySlo2RmdsX1RoQ1VSeFpUTkIyR0NobE9kazR5cDh4NlJaRklEOV95aTRIQS1IeWZvUkpvS0s4bHVKb3ZjUW1QTUxwLXUzcm9tRWhvdFVobFlXRTc1SFhWRGlxT3h5RkY0MzNtZDhCdWJtcFdpbzdCTHlaQUltZGpTX2NQcld5MllOR2lXczjSAeYBQVVfeXFMTVVJWWhqN19lSWhSbHZlUlRYYTlKOVlta19waVByeUxielRuTHdfOUdhRE85bm1mM2s2SFZwTHU5UzBGRWV2Q3lmSG1kREd2c3g1Y3ZEaGFRSHl1VFd5eUtxYzRLQVFOWVVtRGIzQmJVX0FobnYydEZ3RDdNOVlEaVE5WEZ0RmExbmtNeW4zRGU0RUZLZjNmcTR1RlctMmNqUHpJZl9wNEFFWVpWQXZ6Y0tUQi1BMXhmVUoyckppbTdJZFBLYjNMY3NsTGlUVEZETF8tcW1GUE9qQjhfRUJ5XzVTa3ZEZFE?oc=5",
+      "snippet": "'Meta-BJP Ka Beta': Youth Congress launches campaign, says Meta allows BJP to spread fake news The New Indian Express",
+      "publishedAt": "2026-11-24T09:54:28.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Misinformation being spread in India over Narail incident, says Information Advisor Zahed - bdnews24.com",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoWDlrcm1fSTdRVmhJdl9WTlR3RHJBRVNRNzZ6RTlZMng1dVdIN3BGZ3lWbGRKb1Y5N0tHX2ZZb0xVVTlkOUktSkNOemRaVTNOZHpFMg?oc=5",
