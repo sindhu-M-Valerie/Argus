@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:39:12.847Z",
+  "generatedAt": "2026-11-25T08:56:10.587Z",
   "snapshot": true,
   "date": "2026-11-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 82
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,81 @@
     }
   ],
   "data": [
+    {
+      "title": "CIA and ODNI Reportedly Suffer Cyberattack Exposing Unclassified U.S. Intelligence Information - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uaUNMeEdSZWV0elFvc2NKSEhCckhGQUxDMXJKemJXQloxbHFjdF9kVmg2eXhzQzhSWUxCQ2M1QmFfRjd2VWV3UFhPeTNzZkp1Ukk2b2Z5bUJZYUt2TkdqdUVvWjNrMzFyemJwMWZ1TGlncG9E0gF0QVVfeXFMTW5pQ0x4R1JlZXR6UW9zY0pISEJySEZBTEMxckp6YldCWjFscWN0X2RWaDZ5eHNDOFJZTEJDYzVCYV9GN3ZVZXdQWE95M3NmSnVSSTZvZnltQllhS3ZOR2p1RW9aM2szMXJ6YnAxZnVMaWdwb0Q?oc=5",
+      "snippet": "CIA and ODNI Reportedly Suffer Cyberattack Exposing Unclassified U.S. Intelligence Information CyberSecurityNews",
+      "publishedAt": "2026-11-25T02:32:13.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Top 10 Best Cybersecurity Companies In India In 2027 - Inventiva",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmt4dlJWTkFWWklnZHRZU3ZZaF9pSEN6MmhnUXlmQ0VJQnFmSW1hNjdldVBYcUd1SGNRNkt5NE1OcmZOeUhCLXdyTzN4TXg0TmV0VnMyNVRINU44eFc0bG9xc2Q2blk3M2xFbFBnWFYzNy1jbUF5cjQtY1pvYVNUZy1lSUFHbWVJZUJfTUNiMzRrdw?oc=5",
+      "snippet": "Top 10 Best Cybersecurity Companies In India In 2027 Inventiva",
+      "publishedAt": "2026-11-25T08:14:27.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Top 10 Best Cloud Email Security Solutions (Microsoft 365 & Google) in 2026 [Ranked & Scored] - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zbzNZQXFqZEFaZzVkREFQS1QyRXNlQm80MGhoek0xUUNQWkVzLXVqN1dBN01fU2g5UmV6NHVNNnRQdjVaRmFfVUF0UDhkZFVhUU1DWXVtWWVZampMMVFwVHBJU2lGOW_SAWxBVV95cUxOMGpuZVZOcEpuWGs0TGlWZGRiZ2hlUFh1SlJqRWpsOTNZZVg3M1R5VEEtblJlUjdENEh3dE54NDJjQlFsZ1RuZzRNSkd6MTFtVFl6SEJOUkw3TEh3OHpKcVJwNFRwdk9PN1pQTE8?oc=5",
+      "snippet": "Top 10 Best Cloud Email Security Solutions (Microsoft 365 & Google) in 2026 [Ranked & Scored] CyberSecurityNews",
+      "publishedAt": "2026-11-25T07:37:48.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Top 10 Best Email Security Solutions in 2026 [Ranked & Scored] - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00LTN6QjB5UUhFRWxUblRGRkZ1UldHSnhYMF9RNmFVY2JfeEJRbTRYTjJ3WTJ0Vm85eG9EVndsTEdpYy1rbVUxMHc3YW1WZGhWa2xVelA0elNuZzZpM3NR0gFkQVVfeXFMUFp3WWp6RENWMXQ5cVd2SWRCOWpoQmdMVVZfbXFpaVlBdkNjWjRoRWo4anhQN05YcWpFOHRJQzF2ejUybkx4OWtKcjBlMVFqTldVWk5Xa0RjdWpFZnFvekRGNUVyeA?oc=5",
+      "snippet": "Top 10 Best Email Security Solutions in 2026 [Ranked & Scored] CyberSecurityNews",
+      "publishedAt": "2026-11-25T07:35:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CIA suffers cybersecurity breach, exposing unclassified information - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWi0xQ3JwLTVEZV9KYWRZWl9sTVVJSmtfQWlLdnN0c3FzRFRlalJTT2l0WldIMkpKdGdXSGZ3Nm1HaU1BRUpsVWlBY0x3QWRxRmJNQ0dCZjB1c3d6Sl9tcHJ0MmllR3dGNjRpam5CSVk3YUJzb1oxQ3h6X0FnaHo4aC15NWVGNTFOc2QwMTF4MmVjdWRXY1Z1QQ?oc=5",
+      "snippet": "CIA suffers cybersecurity breach, exposing unclassified information New York Post",
+      "publishedAt": "2026-11-24T23:03:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "KodeKloud confirms data breach, names and emails of some users exposed - Pasquale Pillitteri",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlV4RnoyN3BPWDZiWEVtQ3YyWDEtYVRFY2xzbV9jb2dkLXp2MjFSMWgyZlp0Qk5TREFCQ28wZnlWLVpTbDhvdVVtNmV4YWVBanZYTlg4NnBsemVhUzJTV1QyWkFmbVY3cHdjRWNxVklxVFlOX0N3U01mZ2N2TmZyUVBBalcxczZ5clN2U2MtdEVsZHBSU0RFaUNra2JMN0VR?oc=5",

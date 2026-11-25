@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:39:12.847Z",
+  "generatedAt": "2026-11-25T08:56:10.587Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 5
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 82
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -206,6 +206,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Brattleboro Resident Charged with Possession of Child Sexual Abuse Materials - Wansom AI",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYjlMMjE1MlRvTkRzeFhkVTd4WV80RncyZWpycDkwbE1ONVBuN21TTDN4bWFweEs1OVcxTWpJM2NnTzN0WVhFTVIwRDQ3ZXhqT2s2YjVSVmE3eDZHNDlYWjFmTENCWGhoRlJuSUh2RmZUTHNZMm91QW5RWENKcDJFY3pXYlg0QW1MUW5ROWxfeGtnNlFtc1lMSEk5bkY5UDRiZ0MyaUoxU1ZucE1rVWRMbUVuVFBwN1k0UmY2NlJZSXFFUkk4cDJZWGRZSnE?oc=5",
+      "snippet": "Brattleboro Resident Charged with Possession of Child Sexual Abuse Materials Wansom AI",
+      "publishedAt": "2026-11-23T19:56:58.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
       "severity": "Medium",

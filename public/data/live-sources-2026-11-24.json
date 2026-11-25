@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:39:12.847Z",
+  "generatedAt": "2026-11-25T08:56:10.587Z",
   "snapshot": true,
   "date": "2026-11-24",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 70
+    "total": 83
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 82
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -287,6 +287,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Brattleboro Resident Charged with Possession of Child Sexual Abuse Materials - Wansom AI",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYjlMMjE1MlRvTkRzeFhkVTd4WV80RncyZWpycDkwbE1ONVBuN21TTDN4bWFweEs1OVcxTWpJM2NnTzN0WVhFTVIwRDQ3ZXhqT2s2YjVSVmE3eDZHNDlYWjFmTENCWGhoRlJuSUh2RmZUTHNZMm91QW5RWENKcDJFY3pXYlg0QW1MUW5ROWxfeGtnNlFtc1lMSEk5bkY5UDRiZ0MyaUoxU1ZucE1rVWRMbUVuVFBwN1k0UmY2NlJZSXFFUkk4cDJZWGRZSnE?oc=5",
+      "snippet": "Brattleboro Resident Charged with Possession of Child Sexual Abuse Materials Wansom AI",
+      "publishedAt": "2026-11-23T19:56:58.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Mohsin Naqvi Urges Social Media Platforms to Act Against BLA Recruitment and Terrorist Propaganda - Balochistan Pulse",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1maEVJQ1FSekdvcVlBbjFzcERxZHFqMW9rN2NFOFFINE9UV1RwRVRHVlZWUFF3OHg0cV85WXZmNUl5bk5OODRfUkd4MERlNUZ2OGp6dXNXdUpvRFAxR2tWQjhQbkFQWGVUaDVVQXZPNG9YMGxZcXFJS2lxVdIBe0FVX3lxTE1maEVJQ1FSekdvcVlBbjFzcERxZHFqMW9rN2NFOFFINE9UV1RwRVRHVlZWUFF3OHg0cV85WXZmNUl5bk5OODRfUkd4MERlNUZ2OGp6dXNXdUpvRFAxR2tWQjhQbkFQWGVUaDVVQXZPNG9YMGxZcXFJS2lxVQ?oc=5",
       "snippet": "Mohsin Naqvi Urges Social Media Platforms to Act Against BLA Recruitment and Terrorist Propaganda Balochistan Pulse",
@@ -306,6 +321,21 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVJKbEZQazJtVkdhVU5rSlUxTmFkMV9MR1AzWi12dmRCQkdJRVVzaU9OTW1MLWhRQkRzZlZpczNNU1RrQ2xZUXE4WXFjMG80NzhHR2pHRVI5UGZGVHNYZWpEMVgweVVDR0JQWlVPaFFBV0JoNDQ4LS1qeUxHcmdnNXRtRlozS0ZpZV9YVlE3a0MzUnV5NzRwMmdwbFVmR20tLVNzQWJXR25jY2lIZHJrLQ?oc=5",
       "snippet": "India and France unequivocally condemned terrorism during Joint Working Group meeting News On AIR",
       "publishedAt": "2026-11-24T14:34:31.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meerut Terror Network: Man Arrested for Running Instagram Radicalisation Ring Linked to Jammu and Kashmir - theopenpress.in",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnNobTh6TS1RNHFFWHFhRXhXRmdxVlRjMTVQV0MyalAxU3V4X1BtU0RLT3VNRnN3TnF1SEJqRlJ5dHhKbEJNcWR1U2Zhd016YjRoaXNDNUhEQkstdzVqMlFXdktacEZXSkM4VXZDdHN5Uk15MDFzLTllLUJyaEpGbVppWTlFZllRdHc?oc=5",
+      "snippet": "Meerut Terror Network: Man Arrested for Running Instagram Radicalisation Ring Linked to Jammu and Kashmir theopenpress.in",
+      "publishedAt": "2026-11-24T13:58:00.000Z",
       "source": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
@@ -407,6 +437,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Police raid homes in three Ayrshire towns in online child exploitation crackdown - Ardrossan and Saltcoats Herald",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMU5HM0ZNNDQ2S2doR2xWaXNYV3RWbl9aem1NMVNycTFyc3NKZDhRa0U3UHZYclBTTmZhNFZJS05RdHN2bVJVZzdvdnN6VFQtOFNTRDdDNXQxNXlCN0RPZkZrZXhncDY1OTdNendFanhoQ0x6Vmpydy13cnpBTGJUSGJBWEhwZVhJdEdoaWhENUxKYU5PZEY1cnBta0R1bGJ2eTdDdA?oc=5",
+      "snippet": "Police raid homes in three Ayrshire towns in online child exploitation crackdown Ardrossan and Saltcoats Herald",
+      "publishedAt": "2026-11-24T15:03:51.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Fact Check: This video DOES NOT show a gas pipeline explosion in China - India Today",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUngtQXhWdk9oWHQ1YlVsdHFXdFFScWhodloyb2NDb29uR3VEbGp2LU1adDZNU1lJMUdTSFo0aERuVEY2XzVyRGVaM2drZ2FtTGRJX1RFa0lodElIZDAwNFFYSk9kV3BPaDRnOWFvRWFja1V6b2JpMk0wZG1zSGdaa0Uxb05sU05KVjlISDQ4aTNtVGd3cy1CamI3N0JUTTNQQUlEUnc1YVQ2Z0NjSHA0RmlZZnpOZUk2RXhKbncyZjl1d1M5Znc2LXlZSWRIbUFi0gHQAUFVX3lxTFBSeC1BeFZ2T2hYdDViVWx0cVd0UVJxaGh2WjJvY0Nvb25HdURsanYtTVp0Nk1TWUkxR1NIWjRoRG5URjZfNXJEZVozZ2tnYW1MZElfVEVrSWh0SUhkMDA0UVhKT2RXcE9oNGc5YW9FYWNrVXpvYmkyTTBkbXNIZ1prRTFvTmxTTkpWOUhINDhpM21UZ3dzLUJqYjc3QlRNM1BBSURSdzVhVDZnQ2NIcDRGaVlmek5lSTZFeEpudzJmOXV3UzlmdzYteVlJZEhtQWI?oc=5",
       "snippet": "Fact Check: This video DOES NOT show a gas pipeline explosion in China India Today",
@@ -415,6 +460,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: This video DOES NOT show a gas pipeline explosion in China - India Today",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEJ1ellEdm1iWFpyTTgxVW9qM2hQejdMVEhSa29BMUptTElGeWVLZDZqYUJkNXdJM1pOczd6VHBGU0JBZ2k1LWh2dDVhLTBJTDRkcEdEYlZSdVQxc0Z0SGdYMTdhSmlPMXlIWXMtTUJCbHR6Rm5yeXhTamo2WWhfdEN5cEswbDg3cENLUEdGSElQVjMwTDZfa0NXMkkxMTdNVGx6bktUNzlIMnVnUXZybW1XdEhleEZZY2RJOEJVNE40THljeFI2LWF1NNIB0AFBVV95cUxQUngtQXhWdk9oWHQ1YlVsdHFXdFFScWhodloyb2NDb29uR3VEbGp2LU1adDZNU1lJMUdTSFo0aERuVEY2XzVyRGVaM2drZ2FtTGRJX1RFa0lodElIZDAwNFFYSk9kV3BPaDRnOWFvRWFja1V6b2JpMk0wZG1zSGdaa0Uxb05sU05KVjlISDQ4aTNtVGd3cy1CamI3N0JUTTNQQUlEUnc1YVQ2Z0NjSHA0RmlZZnpOZUk2RXhKbncyZjl1d1M5Znc2LXlZSWRIbUFi?oc=5",
+      "snippet": "Fact Check: This video DOES NOT show a gas pipeline explosion in China India Today",
+      "publishedAt": "2026-11-24T15:01:49.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
@@ -467,6 +527,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "DICT, Meta partner to fight online scams, deepfakes and child exploitation - thechronicle.com.ph",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbDY2M1Q3MWVjRXBVNUVKd09UcDViODlmd0J5M1ZwWDdHbnc3VW5tQUwyM1RwTkhjY1RTTlhHUE5XMzZnZUREclpxODdJUlR6RlFVNEl2N2lKd2xpYk9kSktUa0tBNk90dDhMTkxlM1ByTUtTTmdYU3QyWUdsekxzNUVFT0lrRDE2eUMyUUt6c3lJUWdGZ1YtdXo2cEZhQWV3U0g0?oc=5",
+      "snippet": "DICT, Meta partner to fight online scams, deepfakes and child exploitation thechronicle.com.ph",
+      "publishedAt": "2026-11-24T12:29:52.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Ghanaians lose over GH¢1.7m to online shopping fraud in 2026 as CSA warns public of Black Friday scams - Pulse Ghana",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaE0wamgzcThUNDh4eUJtbUVtSXZMb2xZNkkxUmNubU9Cdi1udU1hZENYU3p3NWFwdkdNMGxZdWJBRXJUa0tIMHRJbnVXYTNWcVVJN3UtdVRtLUgwc0k5MzdQeGRhTmc1UXdpbVVvUm9FMk9Kbkl2QXRDc0VZRHk1UUtVX1BndUxEX09KUW9QUXB4cV9WWmpOb1llR2dpZGt6UVNsaWln?oc=5",
       "snippet": "Ghanaians lose over GH¢1.7m to online shopping fraud in 2026 as CSA warns public of Black Friday scams Pulse Ghana",
@@ -490,6 +565,21 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Oxford University Or Oxford Union? UK Journalist Fact-Checks Saurav Das's London Claim - News18",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORklYN0ZQWWJCaUpydFk5dTctbGhYZjNEaUtGZXpzYXQ1dThGWFoya3hZVVpfX1NPUmttS1JBUEpfS1RxQzZldnNPV2xkS0ZhZklxNW50SFZVcm94N1d2aV91V080Sk1NdGI0NEtnS0lQZDdra3V3RUpvYkV2a2tyS3lBZE5wdWRFUTVqYlVNODB0aXliSHJUS0J1THR6MlVxMHYxRlZOUFg0SFNJY1o2cnFZRFFRd2NveFU4R1NUc2lLV2NWYVHSAcsBQVVfeXFMUFJKQlNITVdfRXFxUDR3SlNudEhWS3E0Z3dQTzRlZFFVVXJudkZkdjMxS3RrNkh0YV9ZTUNlbFd4d3JWdllGa3ZfVzZCQ0YyNE01QXNNZzM0dE42Slh2Y1Y4UzY5bnhlckEyemMtQ2U4M1AzRUVpTWFzNEk4ZnRmLW1Tdkt1cFFlWXlvSHNhVjFJdWNwWGpfZHQyMTU4MUpodTRZT3l6QjN3N25MQm1OS2xHZnVtdy0xTnhTNzJjRld2SzRDd2VISkp6c2c?oc=5",
+      "snippet": "Oxford University Or Oxford Union? UK Journalist Fact-Checks Saurav Das's London Claim News18",
+      "publishedAt": "2026-11-24T11:13:56.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
       "confidence": "Low",
@@ -596,6 +686,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Two held over claims they recruited girls for sexual exploitation - BurgasMedia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNajMxaHJBckxaYmFON3BUVFdyRWZDOU4xcWdtZUMwZDNFYXZtaThQVkhDMnZBcV9mYm5xdDY3b1RCLVhjWVQxeHhYUUtibTdIYkZQdjJWREpmNGowaXZpaWVrOGp2RlBQMzFJM24yMTRqZzI0c1RhQThwTW9YRHdtQzJYNUlPUllMcm8zcEVaZnBKM25KeDJqTWFCTzBoMHFTZHZ4SlpYNDAxaWl1U010ODJiRnU2T1dMYk5mVdIBwgFBVV95cUxPMEdjdWZVakRQZkUxRHZXZkl0Sm04YUpTLTRKa2R1N2hWcllvc2FyakZpQkJqTUlLblYwaEpsRjJXMWhMQkl2dk5oUmx1QWdiazAza0pUcm1qdVY0V3FxZTMxNDZBaUpxTGVxeHdGMlMxRjNwcU5kU2E4bTR2alZFRWg4WjEzS0pjem9uOW40NV9kdmVNMEVYNmhla3poYlJxbUVKZkNPWTI0dTBxckIwd2J2b21pUDBLNGg2Q3V3bFp2QQ?oc=5",
+      "snippet": "Two held over claims they recruited girls for sexual exploitation BurgasMedia",
+      "publishedAt": "2026-11-23T18:40:52.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
       "riskScore": 52,
       "confidence": "Low",
       "severity": "Medium",
@@ -857,6 +962,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Over 15,000 Indonesians entangled in online scams in 2026: FM - ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWE3T0MycXFpc3dtcmJLak9mOVh5bHpxNkM3b09VQUk1LXcxU3JUUFNMNnlQTlF6RFMxTzlhRUdhX19RX0hoaEtuM3UzUjJsaTZpaFVTU2xPcFNNeW5YVjBmOHBqa0R0cFF6U2xVOTR0Rm1JZHpFVDR3V3RDVHNqb2ZDeVpwZGV4WUZTcUZoVDhwLVpNZl9XRmgzeDBLd9IBowFBVV95cUxPVFVCTTN4cldnTXdncUduTWIybVVXcmJKUmJzbHVNZzZPcnBwd2RnWTY2aHJpT2pXSWZUdGVObWtfYnlMaU4yOHJpNlNrbHg0RW9pWkhIZWw4enNRTmRPRVJ5bEtld3h5VDl2U1dLTm8tdjJPZEtMQXJlWWVjQTRKU0JzWEoyanJXVjZrSWtVRWtERjNBbHlsaEtLMnByUEltNUhR?oc=5",
+      "snippet": "Over 15,000 Indonesians entangled in online scams in 2026: FM ANTARA News",
+      "publishedAt": "2026-11-24T16:06:58.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Indonesia Logs Nearly 200,000 Online Scam Complaints - Tempo.co English",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOVJyMUxSeFh5Y2VTWGEzeXhBQkdFbV83ZmNNZ2Y0OV9lZnpnUnNQNnVxSkliLVktdTN4S2VNbjg5T2Z5NnlLdmFVX2FrQ3ZwakVhTEdmR25VS1Y5eWk0Um9LT0xvcEl6Y09OTHdBZ2JSSERBa3pjSXNZaDVRWkRjRnkwUU41clZib1dZcQ?oc=5",
       "snippet": "Indonesia Logs Nearly 200,000 Online Scam Complaints Tempo.co English",
@@ -1022,6 +1142,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Don’t let fraud spoil the festive season: A guide to shopping safely - Rising Sun Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHdpV1QtTnF3MzFyYTZfMmhXZVVvUl94RXFJSk5fYXRPWlVfNGg2OXF3VTFTVEpFTTJ5UWhKeWNWU0hhaDI4bFVKT2xoaVFSUVU0SXhUa0I2X0l5VS1rcGFNRlJaaGNFZlpzWjFZRmM3aGJQaXM3TkxWQ1ZuYXZ5LURhU3lNQ0M3VlVwNkN2UTEza0dJYmljcm9uUDFfb01YQVlkTlFWOUJ0OE1o?oc=5",
+      "snippet": "Don’t let fraud spoil the festive season: A guide to shopping safely Rising Sun Newspapers",
+      "publishedAt": "2026-11-23T20:15:13.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Beware! An open WhatsApp Web session invites cyber fraud - The Pioneer",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWTdVZ0hrMHpaak5pMEhTY19SLXo0VjJHRnZRUDNCejRoV2RLcjF4QjhrX2kyRk1zRkctSTlOem1wV2d6c0dkZVB1ZW9rYUotZXJmMWFoZzBoc2d2X09DejZldjRkbnhEeHo5MXVVN0MyeVNpTDVIZnNXd1RhMW00SEpiU1JfZG5RRjJpTnh5WdIBnAFBVV95cUxPUmhqMk4teWJMQ1pIZWlqMjdtdG4wa2sweEd0YmxISjREV1VxNzJrbTJKMWxuSFlmbkdESjBNS3V1VTlMcW00ek5TR2pBVW96UjRvYzJoYnVFZ2FEQXRfOUJydGRPeEQwRHdYU200MWlTUW5kTC1XYWNyYkJieVBtQnBVTXZ0Q1NrOUFRb3BfQXNWdDI5WFh6SkJPRzE?oc=5",
       "snippet": "Beware! An open WhatsApp Web session invites cyber fraud The Pioneer",
@@ -1047,6 +1182,21 @@
       "provenance": "live-feed",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "UCHealth Notifies Individuals of Data Security Incident - UCHealth",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFExclJ4cFJoemRHd092dkFtamVaZjhUb3phcF9jcmtPZC02WW5jUGtnYnBHQmlac1NpSEIzdXJENHdBMGpXRUUteTVrOFJBcFRKZUlfMTFGTDV5ek1pUm93U2hvckRYOXBkRzkwUFlVR2JndmxJSG5QYlRHemwwTVRMSHU2NFgycXRaR0NNS2d2OXM4M05ZdTJCSQ?oc=5",
+      "snippet": "UCHealth Notifies Individuals of Data Security Incident UCHealth",
+      "publishedAt": "2026-11-24T17:57:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -1097,10 +1247,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Cybersecurity Tool Optimization Matters - Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDRTNURmUEhaUVlueEo3aXpfcFhVeVZZZzRpcGUxZkQ2SFo3WjZKR3RMc0hKYllNT1FtRlNMbXZEaXpkSFkxbVRFeS1nZlJmNmZ4Wnp1ejNFRWtyZDYtYmlWMkgxU1ZCeHVmdi1WMTdYcXlJVlZEenhYQkxQMXNLWC1sNS0xSzVQVjh4Zkk1aw?oc=5",
+      "snippet": "Cybersecurity Tool Optimization Matters Mexico Business News",
+      "publishedAt": "2026-11-24T15:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "KEPCO Data Breach Exposes 1.52 Million People: What Was Stolen? - Techgenyz",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5eHBaZXl5dlhMZnJ5cmotSlp3NHY4RHZPRkFPUmlfVU9HUE5QNnNnai1JT2xWR1ZUT1o0U2VOZmltUjYyR0JLWVpiZUhYdWlXdi1paTF2Y2ZrSDNDUzE5d3RR?oc=5",
       "snippet": "KEPCO Data Breach Exposes 1.52 Million People: What Was Stolen? Techgenyz",
       "publishedAt": "2026-11-24T13:23:55.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hong Kong Health Department Investigates Hospital App Data Breach - OpenGov Asia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUNXVFJfY0RZMk1QU0RYR09RZGl5dzM5cnEwTzdaRTlmWS1qVnNzSnlFR0dhdlFpRTRncU1iXzhSNGhfcVFYQUFBYWFaTlRTT2JPSUFMVjJyelk3ZHdsVzJlazZCSVdzbFBIa1FrQXpQb19yajd4U1l6LUI3enJpRDlkSnpmTkpFaWJKczBFUFhQWWZk?oc=5",
+      "snippet": "Hong Kong Health Department Investigates Hospital App Data Breach OpenGov Asia",
+      "publishedAt": "2026-11-24T13:18:38.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -1176,6 +1356,21 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03LUNjdG12LVdnalZFWFRTRVdqNnp3TnBmeU45ZWxGcmxNRzNIejdSRFZSUWxDSkZiSlBqTWdVeGNwakFTcVlyQ0NjalF1RkEteE5QdklDcEVKOElfdW40SGF0QjQ?oc=5",
       "snippet": "Renfe Warns Customers of Data Exposure After September Cyberattack cwibc.co.id",
       "publishedAt": "2026-11-24T07:55:45.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform | GBhackers Offering Exclusive Cyber Security News Coverage, New Research papers & Technology Updates. - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hN1V6WDdhajZOanBaWmo2dU1GWW9NRzRmY1U1eDBvT1lHWml1WXpidHpuOUt0Q1U3LVhaN2VpNHRyWlJzWWptOU1iYjV0VW9tWDJF0gFIQVVfeXFMTWQtWVVaOUQ0OGJ6QlNLUmR4MFVnN08xaS11eENLR2x2NnpvZUZ1X2owTFlRNW1DbVdtcHo2VFRKQW5LWGlXMTFz?oc=5",
+      "snippet": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform | GBhackers Offering Exclusive Cyber Security News Coverage, New Research papers & Technology Updates. GBHackers News",
+      "publishedAt": "2026-11-24T07:09:20.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

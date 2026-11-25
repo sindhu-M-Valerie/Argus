@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:39:12.847Z",
+  "generatedAt": "2026-11-25T08:56:10.587Z",
   "snapshot": true,
   "date": "2026-11-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -23,14 +23,14 @@
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -51,7 +51,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 45
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,7 +65,7 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 82
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 74
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 31
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "Analysis of Far-Right Violence Extremism – October 2026 - Observatorio Terrorismo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUQycFZTUnBOTGMwTUV3bnUtLUNPY1gxRzctOTEtWlZPS25MV1BXSTdlQklyQW5ldXdrdEUtSzdmVjFiZEdlSm1ZeGdNVVBJQXRZRUNJSGRWTE95WDJpRUJFTk1RMEhnV3ExVC1WSDF1MGJuX1liLXV5VWtZUGc2QzNTdFdLdGRCVEZMSHhQOEJYbF9MMDZpejF2NWNVXzg?oc=5",
+      "snippet": "Analysis of Far-Right Violence Extremism – October 2026 Observatorio Terrorismo",
+      "publishedAt": "2026-11-25T07:19:38.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Meerut Man Arrested in Jammu Terror Case Over Alleged Online Radicalisation Network - Kashmir Life",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1BMSjJKYlNBUTRKeER1SDdxMWpQb2ZuRFhhQzFtZnpteXlMeFJidVpEV0VBX2tDY2h5bGwtSHFiMWw2Q3gwTW8xNWxHdmRZTUNHTjQzZDk1TjFnYTJaWHVLUU9RVEh6NjZyUktLdVVKakczV0dGNUphMUxhSF9DOXJVOE5lTm9jSXZtR0thZkU4eGVYRjk3MU9sM3ZKZ1VjMjd0TzU2R3dJSjVsSEtHejdYSTAyQQ?oc=5",
+      "snippet": "Meerut Man Arrested in Jammu Terror Case Over Alleged Online Radicalisation Network Kashmir Life",
+      "publishedAt": "2026-11-25T04:57:10.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Meerut Terror Network: Man Arrested for Running Instagram Radicalisation Ring Linked to Jammu and Kashmir - theopenpress.in",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnNobTh6TS1RNHFFWHFhRXhXRmdxVlRjMTVQV0MyalAxU3V4X1BtU0RLT3VNRnN3TnF1SEJqRlJ5dHhKbEJNcWR1U2Zhd016YjRoaXNDNUhEQkstdzVqMlFXdktacEZXSkM4VXZDdHN5Uk15MDFzLTllLUJyaEpGbVppWTlFZllRdHc?oc=5",
@@ -208,6 +238,36 @@
       "feedTheme": "tvec",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Inshaallah pura checkpost udha dunga': Meerut man arrested for terror plot, chats reveal suicide attack on I - India.com",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOVkNHMEMxc2tvRV84Y3dDX2swblUtaC0zNGl0bkdrcWo0RkRNTHBhWFZ2RU5XbWktM0hvaEVySzVDakNTbnNtTG1hSGl1Mk5yYXgycEhxcDNtQ2ZPdUdEQS1aVDNsdzlDU3dkMHlXZFFZVEI0RVBreUhqRkdEWkNsX0Nod3BvOFAwYkRJbW54S01ScV8zSjczOXRVQ2pXZm9GUjF5cU9jSnB6d05tbXNBRVB4VDYxeGhKWjJKd2hNMWEtM04tenBDMWZsTmYtNkJyYlh4UlBDQmpXd0xxOE5yVW1LaFpIVl9kU25ockU5NEFELTY2QWhzLXRVSkpJRnR5RGxDcU9YdC1JakMzU0xTVjA5UEphbFNybGcwQ2FQOGFsaE9wdzZUckctQXBvZGxa0gG2AkFVX3lxTE5ZVF9wRnpHN1JRTDlfZUdSZlU1R3Z5b2xBbC12NGkxeVJxUjNxTXJINHhNTnpvU3RBNXdDSHBWc2hodzVLazZLNUtHUVoxSmNyS0NZa09xVmIwSDgtNmNfamlMY0ZrQ3U1dVpGOXl6ZDRJcnIzQmZCR1lGRFRMVm9rV1hlNVZJS0tuYjNpQnc5NzVadmszRVdFSWR5ekUzUVNXRDd3cFljOWdIZDFlZm9XZU5OWFdwbnNDb2dfck9oa2pZcUFRREJpNkhFd2k0WXlGTFNkVkJLSXlGZEJKZlVRVG56bXFELXhxaHpxU0U2UzJaLWRpR0lIeHpIRzhmM3FJMGpDZWk1MmU0UW5McUxQV3hGZldING9BSENLNGoyVUNxQ1d4ZnRNSjBQTG1mRUZDbktSbnc?oc=5",
+      "snippet": "'Inshaallah pura checkpost udha dunga': Meerut man arrested for terror plot, chats reveal suicide attack on I India.com",
+      "publishedAt": "2026-11-25T07:57:16.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Who Is Uzaid Qureshi? Meerut Man Arrested Over Pakistan-Linked Instagram Terror Network, WhatsApp Chats - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFRjX1BkSDdTUm5zUUtscFE2RXZodnZoLUVMTTNRaFFmYkh1OTVxUE04TV9xMDhUQTZSQ3pjdDFEblFVVHIteTZXRkNZRmZlWDFRbDI3eVdNcU83N3d4b2FnSExnV1JVOVNsOUdsbXpNUW9HVDRDWnNLS3pkUURwVEpJdEFheXRudnpFa2k2MXBqeDdQZWxGZnRMYnRhM1hEeWRVeE5XN1U4NTVaVWg1ZFRBMHhhekdGOW9XaDA4TDJQV3ZYRkhieWtSQlXSAdoBQVVfeXFMTXFmS0otUDY1cmpLZWZVS05DcGVIcEpVaUhrTl9SSklBM3NJd2NxUzU2bjVNZkZKakE4b3N0TFNidGtrZC1heFJld3ZvZGgzN2pxWWZIZkpXTHBLZjVCbkxnMTdTdGFFeDllNDNYNUQ1djdLRm03TVNHdUxyQ2hoMnBUOXJ0blZhRjZ2VEphZGJENllFX3pwQVMwU2tSdTNaZ1ZyS21ZWnIwV0dmeC15dEdpQUtxVm11T2pmdUc3Vl9mREZWNGhSellLZnRtMjZpb1VWcFBTSjNHT2c?oc=5",
+      "snippet": "Who Is Uzaid Qureshi? Meerut Man Arrested Over Pakistan-Linked Instagram Terror Network, WhatsApp Chats Outlook India",
+      "publishedAt": "2026-11-25T05:53:21.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }
