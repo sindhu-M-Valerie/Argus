@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:56:10.587Z",
+  "generatedAt": "2026-11-25T21:52:48.994Z",
   "snapshot": true,
   "date": "2026-11-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 15
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,14 +51,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 82
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -182,10 +182,160 @@
   ],
   "data": [
     {
+      "title": "Read Kya US Mein Muslim Ne Burqa Na Pehnne Par Hamla Kiya? | Viral Video Fact Check | Propaganda Exposed - Gallinews",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjJQQ19PcXExUG5MRUxRN0hrdERhUmVJQjNEWlV4MUViZndRZ2ZmbE5xaC10dkRacUlKbVBYRlFfRklISzFKY0VXMy1UTXR3b1pBOVQ3YUdZUlJPVWJPOTNnaG1Jd3pEVzhuMDJ4dnBodGI4X2VJLVh3RmRnaVlQZ1BvZnBzSTJhUk9fNFlYVFVUMjdpLXRqeWE5SGd6Y0VuQTNzZWFrWi0ybGdXVEp1d3kxRDZVa1B5?oc=5",
+      "snippet": "Read Kya US Mein Muslim Ne Burqa Na Pehnne Par Hamla Kiya? | Viral Video Fact Check | Propaganda Exposed Gallinews",
+      "publishedAt": "2026-11-25T16:18:22.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact check: Viral video of petals being showered on Sikh pilgrims is not from Guru Nanak’s 557th birth anniversary celebrations in Nankana Sahib - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeFNQU1B3X3R5QjZXUEplTDRmak1UNlhtYkRneG12Sy0tN2QtZDB2MUducFBKV0h0RmZEOHBOZ1FpcHJ4dG1EX18wRnJTUmRBS3lOYmNaZ2VyenhSVW14dG05cUd1czVkSXNHSjZ4Y1E4MjFKLWxPUnMzWDFOR21KeTFoNTVoN1FSWGJqY1V6d0xVSEVwcVhUM3JWS3lWY2s4V0ZQNzZNb09iU3NnYVFWclFfb3Y2S192VW5NaU9idFhCa0xKcy0wcFdoNU5qZnBB0gHYAUFVX3lxTFB1dDVCclhwRnpVMmVsME0yUG1vREdfVzR6SG1oM2V6RUd4ckpzNmNBUGtsR3otV09Ra245SjIyM01QV1RBY1BxQXEtQVZtbnBqT1hlcENyZVl3S0kwSXNwQmtDMXhzSDJyazc1ZjQ0TG96dEFMRXNuV2l5ZW5Mcnh0T2VjeTJwU3FLWkhpa05kQ05oWThYZW96ZFlraG41OHd0MWdLdHE3a1ZVY3BpQUNOemI4NlJST0RUYm9qd0N1dXZ0OXMyZ3Q0R2pydGRBMThkMkxXSUlGQg?oc=5",
+      "snippet": "Fact check: Viral video of petals being showered on Sikh pilgrims is not from Guru Nanak’s 557th birth anniversary celebrations in Nankana Sahib The Express Tribune",
+      "publishedAt": "2026-11-25T14:31:37.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fact Check: Viral video falsely claims Nitin Nabin said India invited Pakistan to SCO under Chinese pressure - Organiser",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZ1pZTC1zbk9QQ292WUMxWUFkQnNRbGExazVzYmg5bEkzSTF0QU9HQml3aDRWTU5SOEZ1YnoxdDBkWGU5UHZwbmFBOVB1U2ItMGhFazh1Zy0tczhHWmFEdGVXSXVzNy0zbzNOVFNUeGo3djNzWlhhMjNCVXJxYnVhWno3aGFQNmY0Ykx3ZTVLNE1ycXdoNy1pNVl0Uzlqc1p4N0QwQnN5YzFTRDBvbEI2V3psc1pVRkFBbkx0UXpnc2xaNzVvSXE1TkI2RWp1MlE3SDgycjE3aWhwWDBUX0JDSXRmTUNBOHo2Q0hJUlF4ZFhhUlRad3FQS01Zc0djZXVKYVVndXpMc0tFQdIBjwJBVV95cUxNclBMZXVPQ3ZCZTRtQjl3cFM5ZXhJRkJnaFZxVmtDUHEzc0tidkg3OGpVVUc1UXVaWC1FQXJXT092cVpWRkVldWNWSVZKUGhYRWFHWmlvei1PcEsxVUdJenlrS0N3OVp4WkIwMk9ZcDBkVFZ3ZFpiQlJuMlRaSllBb0RNeTAtUzlnR0ttZFdVNnVGaGxrNW56THJmMGEtYnY0blNHN3lod2JldVA1SkxEaU1iZjExb0djRVJoaVlpdl9sS3pQaWlxTUNDOFU3T2hlWG5XdXU0Y05uQzBhT2ZxZ3BnMUdmeUxCbEZWQ1RmMkJHYkVzMnc0WlNqZlhEYmJlWFc4VWRXSTBPNS1xTUM4?oc=5",
+      "snippet": "Fact Check: Viral video falsely claims Nitin Nabin said India invited Pakistan to SCO under Chinese pressure Organiser",
+      "publishedAt": "2026-11-25T10:05:42.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Clip of US Senator Richard Blumenthal calling India ‘a failed state’ is AI-manipulated - Soch Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGtJNHhQZ3BOclZRZU9Wck1hYVdOMHR6VG9wWHFJUC1kQU1BRml4OVM4NVFMa01vMjlKMjE1V2haQkJXWVU5REVJeXJoQTFlZlN1ZVZHQnh4WV8wZklqb0dUeGVFNGF3d2N0djFsMktNSWRrNlJVbzh4SWd6TzNpLTdRa0VJR1FmQ2k5ekZCaDY1ZTJtTTMwcDk2S0VTcTYtcktRdkYzeW5uRGg5VWhlbkk4NTEwdw?oc=5",
+      "snippet": "Clip of US Senator Richard Blumenthal calling India ‘a failed state’ is AI-manipulated Soch Fact Check",
+      "publishedAt": "2026-11-25T14:53:58.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Did BJP Chief Nitin Nabin Say That China Forced India To Invite Pakistan To The SCO Summit? Here’s The Fact Check. - FactCrescendo",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjFSZXhDY1YxTDFMd2FuZWcwSmh5VkUzSVNISENMcXlnWi1WLXNKWGJXUWtBTzdRcTUtaHh0a19tVHNvV0xiR2ZqdjRhQU1oLWJUeWwxcWNkeWZMeDN2ODhTWUpuQXZjTVFqTkNHbktRa2lSalFxdXBpME1qZTRuSHpmX1FobEkwdV9GWjRNNmotbXZjWjNVX05BZGxTU2ZxT1JIa256WWd6cllIb0hBcHZsYw?oc=5",
+      "snippet": "Did BJP Chief Nitin Nabin Say That China Forced India To Invite Pakistan To The SCO Summit? Here’s The Fact Check. FactCrescendo",
+      "publishedAt": "2026-11-25T13:04:44.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian posts misrepresent old Madhya Pradesh video as attack on Uttar Pradesh mosque - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EMWxSTldCSGxtV2hWd3dSVmpnd1RaS2wyOVB2TG00SFJfTTJwTjk2TjhLZ0FLYThndVlEM0lLdHA3LXY2U2JiM3FvMXptbC1jRDhWU0E0V3I?oc=5",
+      "snippet": "Indian posts misrepresent old Madhya Pradesh video as attack on Uttar Pradesh mosque AFP Fact Check",
+      "publishedAt": "2026-11-25T11:30:26.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Viral Video Purporting To Show Bhagwant Mann Stumbling While Boarding Plane Is Not Real - Newschecker",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcm9oaWw2ZTdWVzRob2x2cDE0NTBBYi0temNFS2UtN3hmZ0FNNXU4dVA4aEF2RFVxT1hhSS16NFotYTVCVUJOX1BxS3U0SVl3UXJXcXNLSTRkSGRrdV9YcUFOZlBIMHZWTWp6ZDljRzhCRG9vclI1aFJiYjhJdXk4ME5QdWRMdmRCRnZxS2dUN0ttb1NXTDBwZy13TC1JYXlscWdkcGtLSVpkVk5lSVZISGVoUm4yMzFpTFl5ZFFB?oc=5",
+      "snippet": "Viral Video Purporting To Show Bhagwant Mann Stumbling While Boarding Plane Is Not Real Newschecker",
+      "publishedAt": "2026-11-25T11:04:32.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Posts misrepresent cropped footage as Czech PM snubbing Netanyahu's handshake - AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zMWFIME1ka1FYbi1jZVA4emgyZFRoVWFxX1d3c2pQQjNmSXZvX0YxQ1FlY0JXeUZvSTVIVHhFb1NIc2J1NTl1RG04U2lXWWFYd283d3M3R0E?oc=5",
+      "snippet": "Posts misrepresent cropped footage as Czech PM snubbing Netanyahu's handshake AFP Fact Check",
+      "publishedAt": "2026-11-25T09:40:11.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian Army Debunks Manipulated Video Falsely Claiming Chinese Control Over Arunachal Border Areas - DD News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVNfUnZPeXB0MUJJUjN5Y1hvVURVbjBQSWZ4ZEwwNHFsZWNlUEk0TFBLYjZzV2NhM29SRHh2OFRnMkFTcEJWQlQtTS1pVWY0ZVJITTdIaGRudkRtLUpwRUlZRnVHQzFkWmJfNmgwQTA1VFd1R2p1R2FtTTZITEp2SVk2TUE4S1RLa3FPMklBTGc4QWVuX0tSeFl0d2tZN1A4a2h6NFdsbWZJZWlON2lhR2lUeUhvNG0zVG1ueURwVU13Zw?oc=5",
+      "snippet": "Indian Army Debunks Manipulated Video Falsely Claiming Chinese Control Over Arunachal Border Areas DD News",
+      "publishedAt": "2026-11-25T06:02:05.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PIB Fact Check Unit Busts Fake ‘Youth Khelo India Federation’ Claiming Govt Affiliation - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlIwQ3ozU1dGWTgxZ0dzZkpaSVhZdExRQ2VObkptOU9jOHJGVW5aMGVVc1U3M0kyOXUyM192S2x3MFNKY3ZFLXJTM0ZSZHNndFZvZndjOXpXdnNIcWFzb21rUXZpRV82eXBJUTJFWl85Ni12WW9VcV9DYmxkWXhNVXdNVFp1cUZ6RUllRWhEQUxTZnJ4aXBJaUJuM1V1Q0U0S0VrMjlQeHZxNGR1UWp4Qg?oc=5",
+      "snippet": "PIB Fact Check Unit Busts Fake ‘Youth Khelo India Federation’ Claiming Govt Affiliation News On AIR",
+      "publishedAt": "2026-11-25T01:02:37.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "BJP Accuses TVK and Congress of ‘Biggest Constitutional Affront’ Over Thiruparankundram Deepam Row; Congress Hits Back Over ‘Fake News’ - Pragativadi",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT1NfXzB6WlU2blY0SExiVTF2ZldXX3MzR3BXRGFTMFVvU0tsOHRGMUp6WEdlaVpQYVEwWDBzMmEwdDNLbHJuTDVaS0JLamNuNWVPLVJ5VW9jZlFRQkstVnA3dWhVUkx6aDlZNDdrY2tUeTJHckt4WVB0V3EtTUIyYk41ZTAtWGs5dXA5Tk5HMlZzWUFvMDI2QXI0WURkbFpTVjZ0cExBTkhBQ0F2bkpHaWtSeUdaOFJKcy1HQ1dIR2ZDZnVFWkNEemVISjRueWZHWEVZR08tbHVkSTVScUc1LWJnX0M0M1lwNGtF?oc=5",
       "snippet": "BJP Accuses TVK and Congress of ‘Biggest Constitutional Affront’ Over Thiruparankundram Deepam Row; Congress Hits Back Over ‘Fake News’ Pragativadi",
-      "publishedAt": "2026-11-25T08:08:57.000Z",
+      "publishedAt": "2026-11-25T08:10:32.000Z",
       "source": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
@@ -214,6 +364,21 @@
     {
       "title": "Congress MP Accuses BRS Leaders of Misinformation on Telangana Irrigation - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOelRnVjNwekh5YnJ1enl2TDFXb1dFcEhCSkxPMldrRUg1OUJFZDZzdkk2azJZdVg3UHZhWEFyOFFqajFocGR2bWJaM05wUUpKUFplZGhoeGp2c1BIUXhIWEgyWGI0N2hMaDBXM0RBZ1dNWjRoblBxT0R3Z0JQQ3pxX2RPekFySm9FOVFIdnVtYktlbzN2ZkR3LWcyM3dyYW9RV2MyOTVBRnBkaWY3bi1pUUtrS3Z6Vmo4X3lDaFh1blFLUFlFUEVTb3h1ZDVCMWJDZU8wbm0zeDRoNmJrVnpRSDlDS1A5ZTlOb0HSAeoBQVVfeXFMTnpUZ1YzcHpIeWJydXp5dkwxV29XRXBIQkpMTzJXa0VINTlCRWQ2c3ZJNmsyWXVYN1B2YVhBcjhRamoxaHBkdm1iWjNOcFFKSlBaZWRoaHhqdnNQSFF4SFhIMlhiNDdoTGgwVzNEQWdXTVo0aG5QcU9Ed2dCUEN6cV9kT3pBckpvRTlRSHZ1bWJLZW8zdmZEdy1nMjN3cmFvUVdjMjk1QUZwZGlmN24taVFLa0t2elZqOF95Q2hYdW5RS1BZRVBFU294dWQ1QjFiQ2VPMG5tM3g0aDZia1Z6UUg5Q0tQOWU5Tm9B?oc=5",
+      "snippet": "Congress MP Accuses BRS Leaders of Misinformation on Telangana Irrigation The Times of India",
+      "publishedAt": "2026-11-24T23:18:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Congress MP Accuses BRS Leaders of Misinformation on Telangana Irrigation - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnlheGpBTVJyZzdYLWRwMXktalE0WFBRRHUxXzB1NDB4Um9aVnNyZUVCZUJkLXVCczlFeXRYYWVPMDVkOS12ZUpFYXgxTmxwWWJXQXFRU3NOT1M5TmZDN2ZSVnMxSHpEWnVtWXhVdk40MmhBTEd4VjRPR2VZUnJjbXVJSC1vdFFBZmhOdlp5M0M2QVNoY1ZKUjlWNzZfVlRTQWU4OGZvSTdVY21LMzdlZ1pRNElQM016YjNtRlE3QlhzTVVNbUxPZ0FPVjJuMkNmLUo5T3RYTng4eUZuY3ZTSDhPOFU?oc=5",
       "snippet": "Congress MP Accuses BRS Leaders of Misinformation on Telangana Irrigation The Times of India",
       "publishedAt": "2026-11-24T23:18:00.000Z",
       "source": "Google News • Misinformation (India)",

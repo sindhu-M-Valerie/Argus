@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:56:10.587Z",
+  "generatedAt": "2026-11-25T21:52:48.994Z",
   "snapshot": true,
   "date": "2026-11-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,14 +51,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 82
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -192,6 +192,36 @@
       "provenance": "historical-archive",
       "feedTheme": "tvec",
       "riskScore": 64,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part I – The Research and Its Context - Global Network on Extremism and Technology",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWno5X0pNOTc0aVRqQTA5TEtlMXNRcFFMNkV4SHpHeUZkNmJWdmNKVGY3cEYwdlJONUd5WmNwcjhxTFREZWxVQi11VG4zNzJhMEVQbVEzU3RXU05aYV9IeVp5amtVbF9UdTVTNVU2OFBRclF0cDRCUHoyaHd3VEhKNW44T3lTYWo5QzVJVHMwU1lSb05ubVZLY3VhaTF1bWpPRWl0NTU4SEJ6NXZPd1VPU0dVeUlnNHFqV3pHZDNsQXktS1pwLUVadXdhZkxVN0EwX1B4NE1lSlFrZl9EUjdKMHZn?oc=5",
+      "snippet": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part I – The Research and Its Context Global Network on Extremism and Technology",
+      "publishedAt": "2026-11-25T14:46:10.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Uzaid Qureshi Arrest: What Is Session, The Encrypted App Linked To Terrorist Recruitment? - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQelVmcDhIOGhEMnVtZzRLWVdxdW50UDBiSF9RWDJmbGtMY0F6MWFQWXRqYnVORWhRZkV1aGZ5cUtpSFl1MnF3WWFYOUw5SEZtRVBaTFVrRzVSc3QxTTBxR1Z0VERhZFotbVlzTUJKbGdpU3FtT0lqck9vbndncW1DcGQzOF9qblRMd2VoVDhRR29hUnNwSkoxUVR1QVJodkY0WWpKa1JDV1h2NjlVUU43ZGxSd1FrY29GaGtrcEFlMmdmUzlrS2hKblpaU2zSAdoBQVVfeXFMTVdCRXgyUGF5Y25DbnBKMVRMMlJSTjNtMWxLaW5kdEpOZ3Z0OE1JYkdMcmIzVDlVWktIcXdUOVZqRWR1c2QyS214T2ZBeUVVdldhZkpxY0tCQjk2MnZxRG1GWnpuREgtN2VQYVJmclhVbTdZbE5vOUpSN2p4RWNqQ0c2bF9hRXJxWlBnRDZHOFJyazJfU0VTVG5BZmVRUVViYmRuWk9EZk9sOE03RTBORjdyV2xhMmlSeTdXZ1BXb1JFS3RGVUVPMXpmM0tNQ3Y3SDBGQXQ3eThwNVE?oc=5",
+      "snippet": "Uzaid Qureshi Arrest: What Is Session, The Encrypted App Linked To Terrorist Recruitment? Outlook India",
+      "publishedAt": "2026-11-25T10:11:23.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "tvec",
+      "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1

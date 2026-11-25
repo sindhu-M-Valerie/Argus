@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:56:10.587Z",
+  "generatedAt": "2026-11-25T21:52:48.994Z",
   "snapshot": true,
   "date": "2026-11-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 2
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 74
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,14 +30,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 33
     },
     {
       "label": "Google News • Misinformation (India)",
@@ -51,14 +51,14 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 38
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,7 +86,7 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 72
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 82
+      "itemCount": 26
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 25
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 31
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "Israeli women face economic abuse, online harassment, new data shows - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcXNqbVpiYzJGczNSSVI3VkMyYXV2dDFKR2RCSFYwY3hGUzYyN2FJbjNfSDJuQWdraWNyVGg2eG1YN05Hd2ZzQXRZZ1NkRWtGYnUzZ2FmeGlPM3NO?oc=5",
+      "snippet": "Israeli women face economic abuse, online harassment, new data shows The Jerusalem Post",
+      "publishedAt": "2026-11-25T14:25:53.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Online Abuse: Nigeria Accounts For 58% Of Africa’s Cases - New Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3J5WGtYWldPdHNWbHlMUHlMQWNDWmxtbktXZlFOM3BkSXBEeUp2MS1aR2JBVzBBWDhyNXBXaG9qWFNiRmxZM0UxeTkzV3BkWW5wdXhkQ24tZm5CZ3ZrYWFzbmF1RmVVcUNUSjJ3QXhma1cyYS1OdWtTTVlYLU9DWThqX1ViRkNx?oc=5",
+      "snippet": "Online Abuse: Nigeria Accounts For 58% Of Africa’s Cases New Telegraph",
+      "publishedAt": "2026-11-25T12:16:47.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "MTN Encourages Students to Become Upstanders Against Online Bullying - Nigeria Communications Week",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXdZSXZlY0NWc3BOcTlHXzE2em1MdzBvMHJUeV95UmVqRlRnTnpyYThzYmNfVWZYdHl5S3JkaUhYNF82SUQ0U3I3bXYyMzVzTXNhNkxaVFNramI1WDQ2RFpSY25sNjRHX28yVHhnZElJeFNOdFZDdG1pSzNwMmlleTBjaDNNanhjNVFfbFkxTVFwcGFpNWQwc2JKRUppU1NjZE5YVWFUX2lQXzRENU9ZS3BJTXFaQm94X0hsakJlQTJYdw?oc=5",
