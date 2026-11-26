@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:41:45.809Z",
+  "generatedAt": "2026-11-26T21:47:50.902Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 5
   },
   "message": null,
   "sourceStatus": [
@@ -30,77 +30,77 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 30
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 50
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 79
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 72
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 88
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,10 +182,70 @@
   ],
   "data": [
     {
+      "title": "12 terrorists killed by security forces in Pakistans Balochistan - Daily Excelsior",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHB2TkV5YnF1YTIydXp0WnFwM0VudzJ6VUptMk0zaS1qRGJMNDBVUDdCSXFWRDdJS01pdTZPUmI5NnhPc0FsX2pETl93OTd2ZGYtbGJ2U0t5QzM0Vnp5c2V2NVZLWG0ySGlWRGJLa0tCSnFMUDZuYVlFNlNGeVBEUzJlYnNnblBJMV80WjdUYVBqZTFWTXU1d0liODLSAaABQVVfeXFMTkRQUk1xN01Ob2FQYlJoT0VYc0VxZ3lraTFHY2JGUmRkVEpCUlVLRkxUOElkemM5QjRIelEtbVltYVRUd3MyT2ZHb3FFcTV0Y1VVX3d0bEtqOHp5cjVmRlJDSjhWT3AzSFlFeU9xMmNfRHlBa3Z6X3BEdFZKRzZYNkRQQ202eUtUcUVXVFR0eFM2dXBOZklIR3F3cHpPeHZ3Qg?oc=5",
+      "snippet": "12 terrorists killed by security forces in Pakistans Balochistan Daily Excelsior",
+      "publishedAt": "2026-11-26T07:36:21.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "12 terrorists killed in multiple operations in Pakistan's Balochistan - Daijiworld",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mdmNLVDZnN3QzbGVPZlJvTjFJalVIU0gxMHRNTURXaTd6eEJFMDhhUWlyZUhwcmIzVDR1ck5ySHZFMEtydERod3VrSjAzM2Q2ZnBMTkhIUjRDNDk1WkxLSFJNcWUzUUhjc1pVSmgxQ3EtemdPMXRZ?oc=5",
+      "snippet": "12 terrorists killed in multiple operations in Pakistan's Balochistan Daijiworld",
+      "publishedAt": "2026-11-26T07:30:07.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India has set a 'new normal' in fight against terror: Air Chief - Awaz The Voice",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnRBTVh5Z2JPbTl0SWt3VWktaFh2RFp1SmpZNXJWUmlHNlphd0tSTkdzem9sMFc1TUlwRWxHN1hiVm9HRHNnYi1faHlVZV9TZWpsYkFiOUd0LVFuVXRKX2Rud0JTbnhSRk1zWGt3bUFkeC1fOUp0YlFRY20wNEZiT1JCalNmSm9YdVlkb2p1cHRHOU9Uek1RWGdZcjlsQ01Wcnl5Mm9hd29DVXNNR1ZF?oc=5",
+      "snippet": "India has set a 'new normal' in fight against terror: Air Chief Awaz The Voice",
+      "publishedAt": "2026-11-26T07:48:16.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Argentine envoy Mariano Caucino expresses solidarity with India on 26/11 Mumbai terror attack anniversary; pays tribute to victims - https://www.indiagazette.com/",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRmdxSWp1NVZ3V0VEbUxYQW9wQzdJYlUtVGM0WVppWE8yRnFiOThLX0VnZl9uMUtlWjFub2t6b0Y2T1NxNDB2VkRHdnVwVnNuN3dMMmpjYkxHWURjcXU0cmdES2JlT0lOUFRlU0pNVTJ3RnBLMDkydElnWGdmY2dKV1gwZENmZS04UDVNOVNGZmVSLUFBcGZ0M3ZOSmJ6dU9fQ3YxbDFuNndDOWo0aDM5azNqNWRFaTFaaGJWenRZNUFkN2U5a0QtVkY2X3V5SjAtZXZUU01od0c4el9HRGdTR3ZxTVNUczZKUVVyTGNRdnVpYzM2cTBPc29mTmV3UnZId2c?oc=5",
       "snippet": "Argentine envoy Mariano Caucino expresses solidarity with India on 26/11 Mumbai terror attack anniversary; pays tribute to victims https://www.indiagazette.com/",
       "publishedAt": "2026-11-26T00:29:00.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India’s zero-tolerance doctrine: How 12 years of reforms reshaped the nation’s fight against terror - DD News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzJrbXdHYUdqQTdBNHRUMFhOM3V5NFVtQ21iZkRrN2FhbmdPLXlPYWZuREg0QUx0VWt5Wlkta0JHbTZ1VGRQZDRPWGxIWlF2WGxBbXpvSC1CSGozU3p1SzVtZkZfT2E0ajJoYkQxeGFGRmxVeG9NR3FlbmFBZklISkdMRU9OYkY0VEZUcWFsODhJbnlGR2VlSHBaOTNVcXpERHhqQlFLR1FUZ2poVmMxMXJEWl9ORzdIVDlqM2RNbw?oc=5",
+      "snippet": "India’s zero-tolerance doctrine: How 12 years of reforms reshaped the nation’s fight against terror DD News",
+      "publishedAt": "2026-11-25T18:49:20.000Z",
       "source": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",

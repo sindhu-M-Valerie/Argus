@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:41:45.809Z",
+  "generatedAt": "2026-11-26T21:47:50.902Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 15
   },
   "message": null,
   "sourceStatus": [
@@ -30,77 +30,77 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 30
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 50
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 79
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 72
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 88
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,141 @@
     }
   ],
   "data": [
+    {
+      "title": "Standard Chartered's Zodia Custody Hacked, Client and Employee Data Exposed - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EcTdmR1FiaXlVNHFBTWJCWDFKX2ZMbmFsSWlEaTJKaUNWWWxvOEljYkhsVUdSUlNCOTgxRzE0WE5vYkpSdTdESXJ1LUJrUVBsX2k4c3pTMkxRQ2M0QWtYdmttMlhFUzTSAWxBVV95cUxQX0J2X0dseURoNC1IUVVjRHJ0LWp5RHd0ckFURDNFdDFWc3V2Z1JnNERESlJ5RXM0MXp4Zk1ITm5NRnQ3R25YM1NDMm84QjFIUWxTcUV5ZjVoY2hzU1lrdWxpRFZmLVdyMzVFSDA?oc=5",
+      "snippet": "Standard Chartered's Zodia Custody Hacked, Client and Employee Data Exposed CyberSecurityNews",
+      "publishedAt": "2026-11-26T14:07:56.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bithumb Data Breach Exposes More Customers’ Personal Details - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVQ3blB6Y1V1TXBHb2psM2lEbXJnQkdoTG5TMHkwdFp2LVRwcXNhTXZ6TWJTZFNRSmNXYk5ldzlxdkF6N2d0SFhXVnpzYk9tRnh6d1JFc3h3dnJhLVFxdl9HUkpRdVBnXzY3d2JYUzRSazlXTC1HblAtZEJ2NTZKMUdFSDRnR2dQNmJ5VHdoZW4yU3prYU9mUF9zZ0FEUdIBqwFBVV95cUxQOVF0TDBSdEQtRGZidFltdHpRY3Mwb3BwTHdTZTh3SlBZS1FBNVV3ak0zSFZVSTF5c0VRVUZBcHBRZHFpWk9ac2FzYjJqSmF1VVhLZXpzQ2I0UHdFN1laT3hvLV9QNm1pWGhxbWN1RkY4ckU0OWRKclJlMDFSTnZQQkhHOGd5SnBIU05hVi1ndkdzbGdrUi1aX05vT0kzQlpoOUlEWm1CRFVFOEU?oc=5",
+      "snippet": "Bithumb Data Breach Exposes More Customers’ Personal Details Analytics Insight",
+      "publishedAt": "2026-11-26T15:45:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "1Password confirms customer data breach, says password vaults are safe - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nSHR6ZU0yYTcxWjI5NXZPRERyNkI5a1dqdDVtQk10YWh5YXhuWEhTRUVlRWRJNkFZNktSdERFN0FFSGhzb1VnRTlZZkF2TUFBSWpWa2VERXFGVzcyTnhBOUhYTmZ4dHFVT1h5dFFicVhwYWRM?oc=5",
+      "snippet": "1Password confirms customer data breach, says password vaults are safe Beinsure",
+      "publishedAt": "2026-11-26T13:39:05.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "1Password hacked, names and emails of some customers copied - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGwzejNUMk5MTFdRNk9HRXpPQWhrM0lsZklfLTdKbFVXSkFIckV3aTg3cDVuOWVST3RzbmE1cVlseEtDcU5TMlJkZmlpdllGVnE5aEQ3RFV2ZG1HdzRhUGlEYVJfbzNBSnZVWEowUkp5eXV1N2lENVJlQzRta1hLNzRBUnZXTHlxNmNGbFBQZVBwTEU?oc=5",
+      "snippet": "1Password hacked, names and emails of some customers copied Pasquale Pillitteri",
+      "publishedAt": "2026-11-26T09:08:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "myColorado Data Breach: App Offline, 150,000 at Risk - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2hxS0RrU3YwVEtuM3JDeUVYWlNpMkNUVlNHc2stcEZfUGpUUWNMMTR5ZUhwQmpFWkRqYkZRQmNzbExtVWdJX2RPU3hfZ2Uwd3R0NGNROExudTJkdVJNM2ZraFA5WTk2M1hha3ZLTjY3MVVqbnYzQkg4c2Fnd0FRTGlHaw?oc=5",
+      "snippet": "myColorado Data Breach: App Offline, 150,000 at Risk shattered.io",
+      "publishedAt": "2026-11-26T08:49:36.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EasyEquities suspends platform access following cybersecurity incident - Moneyweb",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFdER0lwdjV0eHpVSElyMThkYUhCOFJfOEcxWVViN3laVV9lUmt0M24tQ25peTZfa2NUa01xVnB5eHFjYWY0UGdUZ1UzVDFBak9OMFlWMDViZXM1ZnFWeUZvOGRsODdyR1JZTVZvTXY3T013eGlRUG9BLVJUYmlsWWVzZ3BrTGoxXzJoU1RtTjJaUi03UTVxanJQUER4XzN6YzRkVmxnSGlqZGVyQkkwWEhIb014Rjk3bVFQNWdGZHo?oc=5",
+      "snippet": "EasyEquities suspends platform access following cybersecurity incident Moneyweb",
+      "publishedAt": "2026-11-26T08:42:15.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EasyEquities suspends platform access after cybersecurity incident - Moneyweb",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWkVwTlA5RlhPZUlGLXM0Yy1LM28za3pMMTg5T2VkTkpFNmJtM1RfRFF6a3RjdjdZVWhuWjEzcTRJVGRMN1lxWVFRTWtUSTFBSFNDNzFDR0tPYURlaGMta2hDN0RZVGdpMlUxQk1BVUZ6Z1lsTzFqbC1LVWRuUUJhWGx4ajQydzd5NlhhalN3SzdEZHlLcFA3RXR3engyc2NoOGJiT1R4LUJKSlFLeTUxRDNCeThoN3RGUVFV?oc=5",
+      "snippet": "EasyEquities suspends platform access after cybersecurity incident Moneyweb",
+      "publishedAt": "2026-11-26T08:42:15.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Black Friday Cybercrime 2026: Retail Cyberattacks Surge 28% as Fake Amazon, Walmart and FedEx Websites Proliferate - InfotechLead",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWh5V2RnUElaZXhXdzFBZ2I0WVMtcFc5eDRjZnlkMi1TV0QyazJWcld3ZzdJaEhZMzJtUUY4blZ3OGR0bTJYaENoSGRGLVg1ck9WNkpmenhUMG1VRXk4UnhuYTIxVWVFbXk3anlGY1NETHBBRDNsc0tTcExmTTNoQjNnaTA5TW9FM0I2V1JFTG52M2hIZEdmbXJLOW5rSFN5R1dsNVRmb3hJQ19BczZ1djRrcThTVG9QUWRhT2paYkZnVVNxR1hzbWtrZnZ1eDhWbHRfaFdReVk2X0dBNDR4SkxWYzFUUElvZEtmaVFR0gHuAUFVX3lxTE9xaHlXZGdQSVpleFd3MUFnYjRZUy1wVzl4NGNmeWQyLVNXRDJrMlZyV3dnN0loSFkzMm1RRjhuVnc4ZHRtMlhoQ2hIZEYtWDVyT1Y2SmZ6eFQwbVVFeThSeG5hMjFVZUVteTdqeUZjU0RMcEFEM2xzS1NwTGZNM2hCM2dpMDlNb0UzQjZXUkVMbnYzaEhkR2Ztcks5bmtIU3lHV2w1VGZveElDX0FzNnV2NGtxOFNUb1BRZGFPalpiRmdVU3FHWHNta2tmdnV4OFZsdF9oV1F5WTZfR0E0NHhKTFZjMVRQSW9kS2ZpUVE?oc=5",
+      "snippet": "Black Friday Cybercrime 2026: Retail Cyberattacks Surge 28% as Fake Amazon, Walmart and FedEx Websites Proliferate InfotechLead",
+      "publishedAt": "2026-11-26T08:27:13.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EasyEquities offline after second cyberattack in 3 months - MyBroadband",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZGtsUlJuc05DT1ZtN29mWGRiZ2JwRFI2UTNTazNNMGZKM0xNSEJnUHYxSFEwYW96Y3pfbjBoeWdLSVQ1YW5fSnI4UnZ3ZHdjSGY1b3d6YkItMFpkS0FHeGxMSmpIYklJVUVPaTEtYUxWTXVwblJuTDU1LS02TWJLRFRjYU8wTHVTYmJXMFB4ckdoeHpFRVJPc2lnUllhWDVyR2Z3dC1udVhld2I3bWc?oc=5",
+      "snippet": "EasyEquities offline after second cyberattack in 3 months MyBroadband",
+      "publishedAt": "2026-11-26T08:19:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Top 10 Best Phishing Simulation Tools in 2026 [Ranked & Scored] - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GM202VDhiNUQydk5EX0Nhd3BvZXJPQzdLcE5XdG9DeTVQdGJhOVdSNm5RUndNa2wweS1wZ3BXd1Btdy1VUWIwX295MGpfWlUxYnFaS25MaWJLd3BMQ1lFblpEN2RfdmxST0dJbVl30gFzQVVfeXFMTVhhbTZWZVZFODZmYTV5Y3BIdDNDanRoeC10b0ZfN1BGWlQ5NHl5a0dNdE9QTTFHNmpIdHpHZEtfOEphaU1Uc3BndS1QWlNYaV9aZlZGaFV0SThXdjlNYVhqRnNHU2VfRFFKUFJ6MkxLQjd1RQ?oc=5",

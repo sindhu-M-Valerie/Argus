@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:41:45.809Z",
+  "generatedAt": "2026-11-26T21:47:50.902Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 10
+    "total": 24
   },
   "message": null,
   "sourceStatus": [
@@ -30,77 +30,77 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 30
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 50
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 79
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 72
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 88
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,10 +182,205 @@
   ],
   "data": [
     {
+      "title": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike - DailyVoice.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUlqc1N5RjlHaFFCa19vTk9ZR19jNUs5TnlYSy02NmlROVByaXJGZ0k2S256cGlTYk14eU9COGUyeVJjMDZNaThldDdNTDQydmxVWUk0VWY2TUloS0R5LTd4NHNVMTZVel9OWUtXdHp1cXBsX09vM0ZZY3ZQTmxCSHNQdWYyV1dubmtxNndlekZaT1FmdkpCVUdsckxNWEpo?oc=5",
+      "snippet": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike DailyVoice.com",
+      "publishedAt": "2026-11-26T09:06:54.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Banks lose Sh1.9bn to fraud as mobile money scams rise - www.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSHlCUzczS3doaDFhNHRCSXU5ZHhIT1FULTMxN0dUN1BXb2Y2MWFtTU9PNThuTm90ajhYNFNHTm11UzBXTk5SWFVsRkIwam1vaFFPdWdkLUktMEw0Q2RRdGFzMFh0eFJHeGlnbGtBcm1rajF4WWVINW1pZ1NjVzh0S25scEtYSFVBY2FVS3ctQ043NU95dXNZUWk0QXZCYU9kRU5WVnBjWWlXR1hzcEN5WDJrNTRxM05QdjNfcF9iaHYwMU5ndzJHaWMxTjlGNEtTRkNhdnBTYm9RRFpacmFaS2U1MkhlZw?oc=5",
+      "snippet": "Banks lose Sh1.9bn to fraud as mobile money scams rise www.standardmedia.co.ke",
+      "publishedAt": "2026-11-26T13:02:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Love Scam Aur Dhokha OTT Release: Inside Sukesh Chandrashekhar’s Shocking Fraud Story, Plot, Streaming Details And More - The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSVlYWVRQcUNBc29Mc3hWbkNXWGtSeldFc0h5aFZzX1YtY3B6QzlWcmpfZEJlenBGckFTOGFHc3dkVzIwSlk5dlV5eGxldzhqLVBoRU5KNldERkdLZDFnQnNQQnR2MEdTVTFFMDlrUG82ZU5HMWZBLUs1LVdPc1pwZl95bE1JMnNwblNrRHpiR3dHUTFIVHRnNi1WQkExRTlkZ1FqQ2ZoTWVGdzZIeDBkVGZnOEdxMG5JbjVKM091UGtxQXJHMGlENFdITHpKeWZFOTRGNlBYS2MyYXBMMUlhLWFjZFdEZjVtOGZXRTFLbVB3VzVzc2JCUnJqLTE1andxcFdvb3FiSVjSAYgCQVVfeXFMTklZWFlUUHFDQXNvTHN4Vm5DV1hrUnpXRXNIeWhWc19WLWNwekM5VnJqX2RCZXpwRnJBUzhhR3N3ZFcyMEpZOXZVeXhsZXc4ai1QaEVOSjZXREZHS2QxZ0JzUEJ0djBHU1UxRTA5a1BvNmVORzFmQS1LNS1XT3NacGZfeWxNSTJzcG5Ta0R6Ykd3R1ExSFR0ZzYtVkJBMUU5ZGdRakNmaE1lRnc2SHgwZFRmZzhHcTBuSW41SjNPdVBrcUFyRzBpRDRXSEx6SnlmRTk0RjZQWEtjMmFwTDFJYS1hY2RXRGY1bThmV0UxS21Qd1c1c3NiQlJyai0xNWp3cXBXb29xYklY?oc=5",
+      "snippet": "Love Scam Aur Dhokha OTT Release: Inside Sukesh Chandrashekhar’s Shocking Fraud Story, Plot, Streaming Details And More The Sunday Guardian",
+      "publishedAt": "2026-11-26T08:52:03.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Moniepoint Tackles Phishing Scams with Digital Safeguards - Blueprint Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOURLSGI5Q0x0WlVYX2QzdGM4dG5nQUhxbFJrRzRoR3o5LUpvaUxuN2NBRG41elFScVZzZ0dTRXlBVFZ4bEUtc2RaWmdwWDBrZWVhTDhNN2VvSjM1RHYyYWNoaFF3SDR5SXRrNWNVWGtCSVFQQ3BZbWhyX3VEOTliYV9YNm5CN1FrYmY5UXVHYnlDSjlSeS1vZkdaQTdNTG9CTHdJUU9SNA?oc=5",
+      "snippet": "Moniepoint Tackles Phishing Scams with Digital Safeguards Blueprint Newspapers",
+      "publishedAt": "2026-11-25T19:13:32.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Zodia Custody Breach Exposes Client Emails, Raising Phishing Concerns in Digital Asset Sector - The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdy1pVWQzR2Y4VVAwdHF1SDZsMW5pYVdiSFo4SE5pREwwNkJGV2hfa3VZbE9YODZ1bXBxUVUwVVhMYWVFblF1dEtyZGpIOW02Wk9jU0lsVzdFbEozVjNHMy1TeWdhcndIS0xHbzlvb0h5UXE5T05hSGlYaDR1S3YzeXhsQTBfTF9nYlI5OUswSGNmUU1SREctSnJpdmptcFN0RWxDZHJkY0wyZ1M3Y0ZrNA?oc=5",
+      "snippet": "Zodia Custody Breach Exposes Client Emails, Raising Phishing Concerns in Digital Asset Sector The 420.in",
+      "publishedAt": "2026-11-26T16:58:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "£22,400 in charity fraud losses reported to police across wales - Carmarthenshire News Online",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSGMwNnB3eG1TcnlIY0o5TWdEMzRHY3dLSm52MHJyMUQ3Mmt3T2xmVDFQdE15WnQ0azRMcVFkWEVCRmlIR2kxeERTOE0ydXlTREJLNW4wLU5qbjRxc19HRkRDRjg2dUdCLVFoWndnQms3ZU05eEN3RWlDY0NvZWlOT2FLZGJDb2h4TDR5QmNTTlRBcmNQZlNsdDJ4ZWFGaFA4cU1PbGFfbFRLal95Tm02QVpfaHV4cXl0?oc=5",
+      "snippet": "£22,400 in charity fraud losses reported to police across wales Carmarthenshire News Online",
+      "publishedAt": "2026-11-26T16:36:30.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Bank scams across all platforms becoming more frequent - Cleveland Jewish News",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUWJkNm9hQzZwTVg5TC1Qb19tQzZaN2ZHMjhoZGZ3bHpOcENGRGp3WE95cFQwTVdmTkdxVk9GaU9YYlJueHVacHhIXzFlZTNMUGttYnhTUkJJb0pqSWhWQUZ5bXVId0p3dmJRY2o1SVRzdmFhdFRLRTBBNTBiWEtPdkstNXVmamlXOUItM0stMTkxX0lRckRsZlFycUlzdDY2QkRrMi1kUVJ2anJ6bUMyaGtrNkR3ZHdiZVlHVjRzMk1ZNUZMUmxwQ0Q4OE9waUJjMG5MZmc4Sk5LdEhLRDdkQnM3YTVDRHJoNG1PdzEwVmVtQktDcmMwOEIyUGN3YndCNlZNU9IBigJBVV95cUxOUG1KSGw5Y0dFZHFVV2ptOXZjRDRxVkxLV19ZQ2xhbTJlbDN0TVNHQk03OUNFbktQWDhrQ1B2dF85bk52R2xCNjVNYkNqRm42OXZ0Y2J3UmZjb2hGTVZZakdaSnpfYmxiRGFkQmJIUnBjXzA4VjhrY0xIZ0M4R2FRanJiSHJETm9JOFFFX1dTdkRFNXRNTWVPX3h2TjQ1MXdXamlxbExUS1RfZUpoNVVVMDF2T2dHa2pXbGg2RlUzVlp3a09DWXdqaVlqTEFqY2gza0RwYjFib0o2bXhmLWJnSm1hNHdCQjNSak9WenVNaDRsa2lrcTRXbVNzY0FsVmt0aTZwMk1OLWQ1QQ?oc=5",
+      "snippet": "Bank scams across all platforms becoming more frequent Cleveland Jewish News",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Florida Man Gets 47 Months for Using AI to Clone Streamer's Voice in $260,000 Crypto Scam - www.techtimes.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmc4VHZ5TjF0WGt1WDZ5dDZRTXVlQlFuUXJXQjQtRW1oZTVWcmNzcFJma0hLXy00ZnI3V1NfNHF3V3hfaEZWRk5EenU1YU1FNnJSaWE5dmVtSmRPRk1PLWRBcEdUMHVPUGVRMUl0d3c2cW9FUjMzbXNKN3JoQU9jRmhER2JwTENVa2c?oc=5",
+      "snippet": "Florida Man Gets 47 Months for Using AI to Clone Streamer's Voice in $260,000 Crypto Scam www.techtimes.co.uk",
+      "publishedAt": "2026-11-26T13:16:54.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Penang police bust 14 online scam call centres, 141 arrested - The Sun Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt5NVJualFUaDZTS050WlBDeDJXbEpzRVFnQkJIQ2l2a2NuWXdWaUQ3cTJYNkZCMm4tMlFEbWdFOFlGRWdkb1g4V1A0eEN2WlhfV1lGbmRPdFQxQVhxaEx1blhONTREYXNBVjVobjJ6eXNnbmI2V05teV9EX2xVckpSMk8xekRocGpHUXk5eEpVbU5nM1d0YTZhTkFYZw?oc=5",
+      "snippet": "Penang police bust 14 online scam call centres, 141 arrested The Sun Malaysia",
+      "publishedAt": "2026-11-26T12:00:11.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mangopay warns of surge in online marketplace fraud - SecurityBrief UK",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3JTTEsxQnhqNVZMUmd3X3NxNjdNU2ZsVnJVUmttZnBPUXdHRXNWWExLRVNwMURpVnlVZTVQWk5yOWpjcmp4Nk1qLUxZWW5hVmtacTRNc0lsVzZOZVlSTzFiMTFWZWdCWUlUM3NzUmRjc2t1NW9fU0lRVlByN0FtZVBCNHVBR0hfdlVySmRR?oc=5",
+      "snippet": "Mangopay warns of surge in online marketplace fraud SecurityBrief UK",
+      "publishedAt": "2026-11-26T09:30:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "DICT, Meta ink pact vs online scams, child exploitation - Philippine News Agency",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGd6dTM3R1ktMnQ5RllieDVLeTV0SGdYWFZXY1MzaVdrbWlCdjlrZXRlQTh0VHNjeUMxUGNsYy0tWjFuMFFRTXJtdFBGZHFBemdSem9uN1RpU2d6WnBNc3hEMVZicXBfRzZ6WHpyNkw1YldjT1J3Y1p5c1FqMEVtdWJFMXlZNXZsQk5aUw?oc=5",
+      "snippet": "DICT, Meta ink pact vs online scams, child exploitation Philippine News Agency",
+      "publishedAt": "2026-11-26T09:26:58.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Mangopay warns of surge in industrialised online fraud - SecurityBrief UK",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFM1WE54ODNRYVhWUUVEbDBsSWJ1WHNBMTNsb1E2Sy12ZEZpS1JMOTlzZFVkMkpfTXAtdk5OeGtJTUZxcGdfZTJkRnRWQUJoeUtyMU1pSGk0VWROaEhuLURRNkJDNmFkNU9fSUtoZFZORGFmbW16SndHbHZtQUV3LXlJUk9DaEJuQjVER0RsVkM2dw?oc=5",
+      "snippet": "Mangopay warns of surge in industrialised online fraud SecurityBrief UK",
+      "publishedAt": "2026-11-26T09:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Digital marketplaces face growing fraud threat from AI and automated attacks - IBS Intelligence",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRG9WbkxNWS1ScndfWWpkNVFQdmJYRW9lYkJwUVEyS21yLVliamRrMWtoTFlGOXF5eVJfQ1prblAxUDlkUzhzVGF6UjBCcVlFZjVjTE9zMi1scHRVSVhrMDZBLVFUNHg3NDFKcG13dmdGc3JUdlhjNTRhRGUzZ1FBcnEwclJfTzRreFZzdUxlTkwzajhCal9LYW9MRFROUFhwaXpURkVWbjVVYU9jQkFqNmkycnUtdw?oc=5",
       "snippet": "Digital marketplaces face growing fraud threat from AI and automated attacks IBS Intelligence",
-      "publishedAt": "2026-11-26T08:01:07.000Z",
+      "publishedAt": "2026-11-26T08:23:32.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Labor and the Greens betray victims of online financial scams - Senator the Hon Sarah Henderson",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzg0VnlBcGRkdWRvZ1lseTdLZ1oxUzVLUW9hQXd6SVVhUlFMMGpfQ2cyck5lMExNQ3NQdU5RRDVmTWx2NnlIRzBVTEVmQkJUVm9Eb3dUOV9RTkVBNzFVTXpDVjVyTVM5UzNFWEN4NVByMXBCSHkxWVhlN2dDRkxZM1JUNjZJU3F3TzZkSE0xdjByMEotYUdz?oc=5",
+      "snippet": "Labor and the Greens betray victims of online financial scams Senator the Hon Sarah Henderson",
+      "publishedAt": "2026-11-26T06:50:43.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -212,14 +407,14 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Labor and the Greens betray victims of online financial scams - Senator the Hon Sarah Henderson",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzg0VnlBcGRkdWRvZ1lseTdLZ1oxUzVLUW9hQXd6SVVhUlFMMGpfQ2cyck5lMExNQ3NQdU5RRDVmTWx2NnlIRzBVTEVmQkJUVm9Eb3dUOV9RTkVBNzFVTXpDVjVyTVM5UzNFWEN4NVByMXBCSHkxWVhlN2dDRkxZM1JUNjZJU3F3TzZkSE0xdjByMEotYUdz?oc=5",
-      "snippet": "Labor and the Greens betray victims of online financial scams Senator the Hon Sarah Henderson",
-      "publishedAt": "2026-11-26T06:45:00.000Z",
+      "title": "Phishing attacks nearly triple in 2026, reaching 19 million, Kaspersky reports - IOL",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUlEWG42YnI2bE8yTlV3TGdHV3BNOE5pTlZ4TDhTeDB4aVFMZVk1c0s1Ql8tbWNTZTl0RWgxSEhmQmdhazRfd0dNTjYtcVRrSjdFckxJa0E2eHVVZTkzeWtMRGtheDdET2k0bXVNTjBzQnhBa0Z5SDh3Y0pxWlExU3VyNG5KNUdFVzF5MVlqUDlXVXF6NE9CX1p3TFBGRExfNEFWTUEwREtTOEJJc0VWUFZacjJDWFFhdmNVbmc0Y3ZKSTZiZi1feVF0S1hTd1JPTmtybVNBNTVqQQ?oc=5",
+      "snippet": "Phishing attacks nearly triple in 2026, reaching 19 million, Kaspersky reports IOL",
+      "publishedAt": "2026-11-26T06:25:54.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
-      "provenance": "live-feed",
+      "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
@@ -227,15 +422,15 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Black Friday phishing attacks nearly triple in 2026, reaching 19 million, Kaspersky reports - IOL",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUlEWG42YnI2bE8yTlV3TGdHV3BNOE5pTlZ4TDhTeDB4aVFMZVk1c0s1Ql8tbWNTZTl0RWgxSEhmQmdhazRfd0dNTjYtcVRrSjdFckxJa0E2eHVVZTkzeWtMRGtheDdET2k0bXVNTjBzQnhBa0Z5SDh3Y0pxWlExU3VyNG5KNUdFVzF5MVlqUDlXVXF6NE9CX1p3TFBGRExfNEFWTUEwREtTOEJJc0VWUFZacjJDWFFhdmNVbmc0Y3ZKSTZiZi1feVF0S1hTd1JPTmtybVNBNTVqQQ?oc=5",
-      "snippet": "Black Friday phishing attacks nearly triple in 2026, reaching 19 million, Kaspersky reports IOL",
-      "publishedAt": "2026-11-26T05:30:00.000Z",
-      "source": "Google News • Fraud and Impersonation",
+      "title": "France, Myanmar, Thailand Five French nationals rescued from cyber scam centres in Myanmar since 2023 - Intelligence Online",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSWp2dDRWQUMxcHhjNlBOTmw0X0tESVRTRWljS0ZIR2ZEWUR2Vjk5RFUxbkYwYURMWm1uSDItdDFpS3VHUGFSR0ZUd2lqYVBSOVBuU3dmdTQ3SGxVWjZTS0cxRm5QOUt1bUZTMk9ReEV6M2d5eXRvNnRwX19kZktBd1hYNDFlSGYzMVJob2w5WHVNUXpBdm0wcnVFQWs5T3RyVHJtRGpqMDVRaXJGaW4ydjZieVotbGhQS09oMEhCRk5waFN0djhGWW9GamtMUTY2RVdiT1BfUDMtVXNqRGdzS3Zn?oc=5",
+      "snippet": "France, Myanmar, Thailand Five French nationals rescued from cyber scam centres in Myanmar since 2023 Intelligence Online",
+      "publishedAt": "2026-11-26T05:02:59.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
-      "feedTheme": "fraud-impersonation",
+      "feedTheme": "human-trafficking",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -251,6 +446,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "N$50.3 Million Worth of Fraud Reported in the Financial System - The Villager Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcDVYUmlwRUdBVTFkVmY2RHJhVXhZbVctY1MzYVBtTWNZaFNsUDFReDRqN0ZxRjdkaUp2cXJYVnd2SzFqaHVJMG9hdjIxaGhQWDIyMkNxbjBSLXQ0djJZYWdTQk5WOWEyU05ZRm9fZmJ4OFVZNXFFRVdFMUxNNEVQc0Z2emtpWlAxSjQzYVZ5WkIwMUZDcXRudElLQXN2TXdQYlQ3NUE5MUFVUHc?oc=5",
+      "snippet": "N$50.3 Million Worth of Fraud Reported in the Financial System The Villager Newspaper",
+      "publishedAt": "2026-11-26T04:38:32.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

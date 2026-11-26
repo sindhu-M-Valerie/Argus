@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:41:45.809Z",
+  "generatedAt": "2026-11-26T21:47:50.902Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -30,77 +30,77 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 30
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 50
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 79
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 72
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 88
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -197,6 +197,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "40,214 cyberbullying-related posts removed as MCMC steps up child safety enforcement - The Vibes",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTdPUzJySFYxeXM1SmZqeEtBME0yYzRWdUktNHhEclpVdFl0ZjA2RzA0MHAxSWhzZ1BoanFzSTZob2xXWk53MnQtR21uYS1xcXpBVFNIQlp2WTJId0dxQmZvX2RxaHJGU0ZrWjgwUndrUENodEhyOG9PbjB3d2ZkMHpNMnBzclBISXZOZDRTNHVrQmNoUzE1NzIzczFsZkhWeXhrNUUwRW9JZXZsWllFdVRiLWZLdTBxTkZ3SEdYUmxYRHpBcjVjTQ?oc=5",
+      "snippet": "40,214 cyberbullying-related posts removed as MCMC steps up child safety enforcement The Vibes",
+      "publishedAt": "2026-11-26T04:44:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fahmi: Over 40,000 Bullying Content Removed by MCMC as of Mid-November - 联合日报",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPWEpHekVTR2pTMC03UVpxQUhkcldZaXd2eExXbUFPLVNGT2JHZm5LdW40WjhKNlRuSUVXQnp4RFNYNDNsUWl6NXNnOWxoTThHSS13ZDJuSlBNLWRFUVJMMGU4b0wxM2Jaa3JLVjdKaTlObWdsdWVOdnUzVDdUbEo3N09qUXFTRjkyV09hdEZEd3phYkNvbFVnNE9hZXVlVG5taGtNTDZPa1dVUko5XzZzdWo4SUlPMDRBZFN4aXl3TVFJazlsRS1RTUlYMnZyVWxVUTl0SG83Mm1FZkJnWkFYcnozUlJGNmtVRFZWTlNvN25MS2pVT3RTOTAwalh6Yzc2N3NKc185eG9TSEplS1FpcDd2cGlRVDAwM1k0cEY0LTdnMFhfelpXZmYxbjN5QQ?oc=5",
+      "snippet": "Fahmi: Over 40,000 Bullying Content Removed by MCMC as of Mid-November 联合日报",
+      "publishedAt": "2026-11-26T08:21:08.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Editorial: Nigeria must act against the epidemic of online abuse of women and girls - PM News Nigeria",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnpoOVJ4bVp2V2xZYXpRTm1ETmFLX2dwLW5RcmY3Q01TNktlLUsybmdZdkZvaDY2VG1mOUtRcTY4QkFHUU5vcFpfbldVWkhiQmx4N0FPTW1QTm01LTB1M3ZRbXVLTnQ4RXhYNTFTaVM5MDVXbldsYjk1WkQ1aVJWRVYzSlkzeGFPMEhFMFJyLTV3anhxZUpWZ1JwaU5oU0poNHNEUlNubEZESXdpb19QQTBYa3paSXcxX08xaQ?oc=5",
       "snippet": "Editorial: Nigeria must act against the epidemic of online abuse of women and girls PM News Nigeria",
@@ -236,6 +266,21 @@
       "type": "News",
       "provenance": "live-feed",
       "feedTheme": "child-abuse-nudity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "16 days of activism: The women finding their voice after online abuse - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUMtRXJZdTRWQXNsWnVVUS1WRVF2WE1MT3VaOGh4Yk1ySHlmRHl2bnBnY2hkOTBaQmkwRmhVS21uYnJ2THhzME9EQWtBekdFLUlKSnkzeE1WOFp1RnA2elFHUl9kTXRKeDkxQnk4U1hiQThVa3N3Uy1TMGxFcEMzdEt1VTBtNm1RYjIyREVXY1QzZ2lqX3lkc0hCdmhBcmMtZk56VFAySjBCTzE0cjRQN2tfNE5XX28?oc=5",
+      "snippet": "16 days of activism: The women finding their voice after online abuse Daily Nation",
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",

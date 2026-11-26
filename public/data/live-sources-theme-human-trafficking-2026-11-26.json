@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:41:45.809Z",
+  "generatedAt": "2026-11-26T21:47:50.902Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,9 +7,9 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-26 on human-trafficking.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
@@ -30,77 +30,77 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 62
+      "itemCount": 30
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 41
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 50
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 21
+      "itemCount": 78
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 78
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 76
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 18
+      "itemCount": 79
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 72
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 88
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 36
+      "itemCount": 78
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 31
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 77
+      "itemCount": 76
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "1,500 Ugandans still trapped in Southeast Asia human trafficking networks - The Independent Uganda",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSFBzYkQ4SDhrSWZJTEM5YjVnNGxxOGxUREF6d1pNNkdIdHBJRnpUWFdfZDdnZGVibVFkMVZyMXdGS2JoSXB2Wi0zRnZGN3lVTnZOaXVNYkpFVVRxMVMyYTJ4eFlMUGZwX25UcEJ0T2pfUXMyQnRZZHRwcTVEbWFLZWJoSk9oY1Exb00tR1dKdTdNb1lBSmhQSkR4cjlyVlQ4eVlDektR?oc=5",
+      "snippet": "1,500 Ugandans still trapped in Southeast Asia human trafficking networks The Independent Uganda",
+      "publishedAt": "2026-11-26T11:00:52.000Z",
+      "source": "Google News • Human Exploitation Abuse",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Uganda: Myanmar Trafficking Victims Return Home After Diplomatic Intervention - ChimpReports",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0tHZE0tWGVGa1o5NVBUMHFGZkZGQXp2Wkl5azZPMzlQd0xKV3VfQTJHa0R6b3E4SEl0eTVaN0VWN2FkbEUzVmVDX3RiVVJoOTZCaVhmNlpDeDBEMEstbzFzeGo3OTBMX1I0bThfaS05NDlXZWRCMnNtQnRNeXpMT3JCa2daOHBOQkQzSjZ0a3pneHFqRW12d0ZGUzE3Y0xnd3NzMQ?oc=5",
+      "snippet": "Uganda: Myanmar Trafficking Victims Return Home After Diplomatic Intervention ChimpReports",
+      "publishedAt": "2026-11-26T09:55:17.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
