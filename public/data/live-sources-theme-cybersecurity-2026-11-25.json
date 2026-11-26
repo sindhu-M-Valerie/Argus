@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:52:48.994Z",
+  "generatedAt": "2026-11-26T08:41:45.809Z",
   "snapshot": true,
   "date": "2026-11-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 19
+    "total": 22
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,49 +30,49 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 34
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -257,10 +257,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "LaLiga Says Cyberattack Exposed Fans’ Personal Data - Bitdefender",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlJXdl9oN0NVclNnUWhjeGVfY3htWjNTcFNoMkpSTlJFb2NlUDV0TVVtS1FiZGZfWWN5bVRGaDM3aE1IMHRUTzd1cjlqVTBiTWRkNWh6UXhoUEJYMjRiZ1E3aGo0ZHlqVF9QRVJuMnlzWlJUNFV1eEdLbVAyY0JvWXFwSQ?oc=5",
+      "snippet": "LaLiga Says Cyberattack Exposed Fans’ Personal Data Bitdefender",
+      "publishedAt": "2026-11-25T11:12:47.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Irish cybersecurity, privacy and trust start-ups to watch in 2027 - Think Business",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzdKSTFXT1M5Unc2SHh1NDN2TWRwS1VHa09wUzVuczZqbjZaWkxORWZna0JBakJPX2RsU2Nudk9DWHpPMGFCc0czUU5vNjFMQzdLcFU2SlZEMVp4TVU3X0NORlE5dFNvNTY3Qm4xaF9vTHFFVjlWNWZKZFJuaEtjUGtkOXNTUWQ1NTNZZHZyRQ?oc=5",
       "snippet": "Irish cybersecurity, privacy and trust start-ups to watch in 2027 Think Business",
       "publishedAt": "2026-11-25T10:25:29.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "FinCEN: Cyberattack on the US Financial Crimes Enforcement Network - SecNews.gr",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYW5aa2ZjR2lJdjdWTzBDcjQ2VmN0dXNWenhRMEVoSUdqbnhrbm10U3phOExJbklsMGVqQkpXSG40VWJaNl85dy1rbW1iS0FXSjZmVXhROS1CUUVUUjdFeHItUDlWbVgyTFZySkc5UWlBT0JNMC1fSC1qWHJLZEZ6OExyeUJqVU1lQlpj?oc=5",
+      "snippet": "FinCEN: Cyberattack on the US Financial Crimes Enforcement Network SecNews.gr",
+      "publishedAt": "2026-11-25T08:43:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
@@ -347,6 +377,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "KEPCO offers up to $6,800 in fraud coverage after data breach - The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRndjUlE1RlluRlo3cVlvUFRTczR5UkUwOW5GOFlfVUJ4YUJvdENnbS1JQzNLN3ZJRmtRT2dRc2N0cFNZVHNkc1NOLXc3NElhWW9ZRV9WcTM4eFhIZ0RKaVhUUldBSERIeG5VTW5TU1djdUl6UmlPTDFnNzhsb1BkMDV1NUV5R04yQzF1ZnVKS043U1RWYXhaZmVidy0tRUR0Nmh5bEJLOGVUbVREWERaUk5qUFZJbERMazgtRNIBvAFBVV95cUxNRndjUlE1RlluRlo3cVlvUFRTczR5UkUwOW5GOFlfVUJ4YUJvdENnbS1JQzNLN3ZJRmtRT2dRc2N0cFNZVHNkc1NOLXc3NElhWW9ZRV9WcTM4eFhIZ0RKaVhUUldBSERIeG5VTW5TU1djdUl6UmlPTDFnNzhsb1BkMDV1NUV5R04yQzF1ZnVKS043U1RWYXhaZmVidy0tRUR0Nmh5bEJLOGVUbVREWERaUk5qUFZJbERMazgtRA?oc=5",
+      "snippet": "KEPCO offers up to $6,800 in fraud coverage after data breach The Korea Times",
+      "publishedAt": "2026-11-25T07:21:07.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Top 10 Best Cybersecurity Startups In India In 2027 - Inventiva",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHE5ZlNXVHFYdk9CZkdNUHhBMVdMYTd6VjNkYUpaSTlKQUExNlFOOU5iaVhJRjJoYVkxLTRuWl9BOEF5bUE4YmEtVmUwcVJiZWZ6blZOS0dTTGJQd1NTR3VPRWk5czZYaHBweEprVEFMR2E3R3VUWTlTQUlQM0ZKdGlyUERFcEZFSEZ6UGpPREs?oc=5",
       "snippet": "Top 10 Best Cybersecurity Startups In India In 2027 Inventiva",
@@ -392,6 +437,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "UCHealth Notifies Individuals of Data Security Incident - UCHealth",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFExclJ4cFJoemRHd092dkFtamVaZjhUb3phcF9jcmtPZC02WW5jUGtnYnBHQmlac1NpSEIzdXJENHdBMGpXRUUteTVrOFJBcFRKZUlfMTFGTDV5ek1pUm93U2hvckRYOXBkRzkwUFlVR2JndmxJSG5QYlRHemwwTVRMSHU2NFgycXRaR0NNS2d2OXM4M05ZdTJCSQ?oc=5",
+      "snippet": "UCHealth Notifies Individuals of Data Security Incident UCHealth",
+      "publishedAt": "2026-11-24T21:07:17.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "KodeKloud confirms data breach, names and emails of some users exposed - Pasquale Pillitteri",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlV4RnoyN3BPWDZiWEVtQ3YyWDEtYVRFY2xzbV9jb2dkLXp2MjFSMWgyZlp0Qk5TREFCQ28wZnlWLVpTbDhvdVVtNmV4YWVBanZYTlg4NnBsemVhUzJTV1QyWkFmbVY3cHdjRWNxVklxVFlOX0N3U01mZ2N2TmZyUVBBalcxczZ5clN2U2MtdEVsZHBSU0RFaUNra2JMN0VR?oc=5",
       "snippet": "KodeKloud confirms data breach, names and emails of some users exposed Pasquale Pillitteri",
@@ -426,21 +486,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzdxRF9zS1drTm10bVYzbFVTTkZVVzQwM2RhVGV1NzY5MFl3a0p1R3JUVkFXYjliSjZLdlYzNnk0ODJtbkdlZjROOEVxU0F2NGhlSXg1Y01ZeWN0Rk5pc0R6a3dZTUtUSUtmbnNZWWdmLVhfdUdjeFIwQmhrcmktSm5yUk5aOS1wbmNmbGJIaXc?oc=5",
       "snippet": "Cybersecurity Tools Optimization Matters Mexico Business News",
       "publishedAt": "2026-11-24T19:04:03.000Z",
-      "source": "Google News • Cybersecurity Incidents",
-      "theme": "cybersecurity",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
-      "riskScore": 40,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "UCHealth Notifies Individuals of Data Security Incident - UCHealth",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFExclJ4cFJoemRHd092dkFtamVaZjhUb3phcF9jcmtPZC02WW5jUGtnYnBHQmlac1NpSEIzdXJENHdBMGpXRUUteTVrOFJBcFRKZUlfMTFGTDV5ek1pUm93U2hvckRYOXBkRzkwUFlVR2JndmxJSG5QYlRHemwwTVRMSHU2NFgycXRaR0NNS2d2OXM4M05ZdTJCSQ?oc=5",
-      "snippet": "UCHealth Notifies Individuals of Data Security Incident UCHealth",
-      "publishedAt": "2026-11-24T18:44:54.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

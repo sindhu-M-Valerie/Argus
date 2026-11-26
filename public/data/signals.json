@@ -1,18 +1,124 @@
 {
-  "generatedAt": "2026-11-25T21:57:31.366Z",
+  "generatedAt": "2026-11-26T08:46:29.296Z",
   "windowDays": 7,
   "endDate": "2026-11-26",
   "collectedDays": 7,
   "data": [
     {
+      "theme": "fraud-impersonation",
+      "label": "Fraud & Impersonation",
+      "totalArticles": 139,
+      "distinctSources": 4,
+      "highRiskArticles": 0,
+      "trend": "Rising",
+      "changePercent": 43,
+      "reason": "Last 3 days averaged 24.0/day vs 16.8/day before.",
+      "daily": [
+        {
+          "date": "2026-11-20",
+          "count": 23
+        },
+        {
+          "date": "2026-11-21",
+          "count": 13
+        },
+        {
+          "date": "2026-11-22",
+          "count": 10
+        },
+        {
+          "date": "2026-11-23",
+          "count": 21
+        },
+        {
+          "date": "2026-11-24",
+          "count": 21
+        },
+        {
+          "date": "2026-11-25",
+          "count": 41
+        },
+        {
+          "date": "2026-11-26",
+          "count": 10
+        }
+      ],
+      "topArticles": [
+        {
+          "title": "APP fraud losses climb 22% to £316m as scammers swap hacking for persuasion - Insurance Business",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemNBMG5fRHVxZkgxXzVmYkl6TnMydFEwakVuSnRJY0dIYnY3Qll0OXpKS3dxSVNHS2poUmpCQko3VmFWUEduNkQteVFYZ250MXNnZDVtMkMyNTFMUmMyT2VNVFEtVmE5azV0N2RXSHlfZ3E5Y0txOTVlTEFGel9tN2RjRUxtdGNpODJmX05JdXQtNWN6OWVMN0w3SVBxNkE1V3FiWWpBRGFYcmZ5QVppQzVXZ0VWUXpWNDllWDRScWpfN2RCVE8xb19tWTZFdXNTYlE?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-25T12:24:49.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Justice Department Announces Largest-Ever Crackdown on Scammers, Targeting Over 800 Defendants to Protect Americans from Fraud - Department of Justice (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTTNuM29HVlV2RGJYaGFQRURIemtvQUpWZjZidGVVOEhVZHgwemY4VnNCUXFVdlphR2tINWx4YXZvSDJIc3k3THRWQ2toSFFJZnBJZUFMcDRhQVRvTGxpY19ZUlNvZ1o5ZzZnWnpEZ0ZYT2dCOC1JeFVSYmZJaDJKQzBpaC1lVVgwSmNXUmhHTl9LMnJYbVFrXzd3NmJGYm40LTQ1Q0dDRkJCdEUtbElBcThRSG1lWFJEVkVYV3Zn?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-24T14:48:34.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Sebi Warns Investors of WhatsApp Fraud, Impersonation Scams - Rediff MoneyWiz",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWhEcWU5NEkzeHJoWk9FQXJWd2pscl9wMUw0elc2bk45cldlNUpGS1RiUHpxdjNLQUZ3U1I5bTlmcWp0LW1HT1hPbzUwaFp6bDBuR1dqcVRtTThjcE1jeHBRWmlEQ3VfZUZWOEVsaWZzQjdsUnoyVWdZY2J0TmRXNzVVVjdlQm5GUWU3RHE3NlQ5UWE1N29VZFkxU1k5eHhwUDQtbVk1Q2dpYllINDQ40gG0AUFVX3lxTE16MzZNS0hCUDhPM2g3cFJBNl9OcEl1RFRFcDYzT00ySFJSdkdHRTdiSUROZ1o1VUc4MUtBRklmMTdtSlRuTlZnNEFCekFIcnN2dVNUVzZzekpRV1NmaXVaWkpuRnl2ZllfZEQ3NGkyeUpqaFFxSWZ1YTRjaS1TTzJ2RE5DclJKdkJzXzQzZTNjeFNkVUpWSUtXUWFMMFhIZG0wR1cxQXRELUpDcXRjXzRDX2VzWg?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-23T16:13:03.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike - DailyVoice.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUlqc1N5RjlHaFFCa19vTk9ZR19jNUs5TnlYSy02NmlROVByaXJGZ0k2S256cGlTYk14eU9COGUyeVJjMDZNaThldDdNTDQydmxVWUk0VWY2TUloS0R5LTd4NHNVMTZVel9OWUtXdHp1cXBsX09vM0ZZY3ZQTmxCSHNQdWYyV1dubmtxNndlekZaT1FmdkpCVUdsckxNWEpo?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-21T07:27:44.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike - DailyVoice.com",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUlqc1N5RjlHaFFCa19vTk9ZR19jNUs5TnlYSy02NmlROVByaXJGZ0k2S256cGlTYk14eU9COGUyeVJjMDZNaThldDdNTDQydmxVWUk0VWY2TUloS0R5LTd4NHNVMTZVel9OWUtXdHp1cXBsX09vM0ZZY3ZQTmxCSHNQdWYyV1dubmtxNndlekZaT1FmdkpCVUdsckxNWEpo?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-20T09:28:42.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "The retailer most impersonated in AI scams is… - Chain Store Age",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IRktXLWQ2WGRaSmV6RHQtVFdyaVJDc3BnUTlOa2MySjllX3VfZlZYU1d4aHJwYmZPbjdpTzVKY3h2Wm5rN0RZVUx5aXIxcElmeWFrbndoTEhwQVVQYnpidk9VU19saUxBdm5FVmdB?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-25T17:56:42.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Is That A Call From The Government—Or A Scammer? - mountainhomenews",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaU03NW9zeHRRd1NFdk9tWHNXVVBrU2NjQS1OTGpUT25JVzQ3YjAtRV8yTDk3MVo0NzJiMmdvOU9ZNWxobmFHaXBERUoySl9mOEpQMHJwcFBPZHdjQ3dFUkphQlR1MFJKOWVYWlFiMWR0LUJ6TUw3dzliWW9wc0N3bW5QdGJERFVPU2JnY0NDbUpfV05COGg1Yg?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-25T15:47:55.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Black Friday shoppers warned as fraudsters use AI to impersonate retailers - IOL",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEFDY2V4bzhPSWU5cDRvVUhZRDBMQUI2M1psVThOcTJUc3g1a0w3QTNweUtXSEFEQV9QOHVGc1dMM056d3hsUkNLOHZSdGF0ekxvNVJiZkpVY2N2eWJkVW00RWxnMTlrQjFfMWZfb2JCRm8wY2JMTXloZTdPSFZubmZpdzQ1REMxMjNJU1dxUEc4RER0bHJfeURMSVpsMFBMSGVyRUNaNUQtZTkzem1wNFBRc2FUaXJUODk4?oc=5",
+          "source": "Google News • Fraud and Impersonation",
+          "publishedAt": "2026-11-25T15:00:00.000Z",
+          "riskScore": 52,
+          "corroboratedBy": 1
+        }
+      ]
+    },
+    {
       "theme": "cybersecurity",
       "label": "Cybersecurity",
-      "totalArticles": 115,
+      "totalArticles": 121,
       "distinctSources": 3,
       "highRiskArticles": 0,
-      "trend": "Falling",
-      "changePercent": -23,
-      "reason": "Last 3 days averaged 14.0/day vs 18.3/day before.",
+      "trend": "Stable",
+      "changePercent": -12,
+      "reason": "Last 3 days averaged 16.0/day vs 18.3/day before.",
       "daily": [
         {
           "date": "2026-11-20",
@@ -36,11 +142,11 @@
         },
         {
           "date": "2026-11-25",
-          "count": 19
+          "count": 22
         },
         {
           "date": "2026-11-26",
-          "count": 3
+          "count": 6
         }
       ],
       "topArticles": [
@@ -111,120 +217,14 @@
       ]
     },
     {
-      "theme": "fraud-impersonation",
-      "label": "Fraud & Impersonation",
-      "totalArticles": 114,
-      "distinctSources": 4,
-      "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": -6,
-      "reason": "Last 3 days averaged 15.7/day vs 16.8/day before.",
-      "daily": [
-        {
-          "date": "2026-11-20",
-          "count": 23
-        },
-        {
-          "date": "2026-11-21",
-          "count": 13
-        },
-        {
-          "date": "2026-11-22",
-          "count": 10
-        },
-        {
-          "date": "2026-11-23",
-          "count": 21
-        },
-        {
-          "date": "2026-11-24",
-          "count": 21
-        },
-        {
-          "date": "2026-11-25",
-          "count": 25
-        },
-        {
-          "date": "2026-11-26",
-          "count": 1
-        }
-      ],
-      "topArticles": [
-        {
-          "title": "Justice Department Announces Largest-Ever Crackdown on Scammers, Targeting Over 800 Defendants to Protect Americans from Fraud - Department of Justice (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTTNuM29HVlV2RGJYaGFQRURIemtvQUpWZjZidGVVOEhVZHgwemY4VnNCUXFVdlphR2tINWx4YXZvSDJIc3k3THRWQ2toSFFJZnBJZUFMcDRhQVRvTGxpY19ZUlNvZ1o5ZzZnWnpEZ0ZYT2dCOC1JeFVSYmZJaDJKQzBpaC1lVVgwSmNXUmhHTl9LMnJYbVFrXzd3NmJGYm40LTQ1Q0dDRkJCdEUtbElBcThRSG1lWFJEVkVYV3Zn?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-24T14:48:34.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Sebi Warns Investors of WhatsApp Fraud, Impersonation Scams - Rediff MoneyWiz",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWhEcWU5NEkzeHJoWk9FQXJWd2pscl9wMUw0elc2bk45cldlNUpGS1RiUHpxdjNLQUZ3U1I5bTlmcWp0LW1HT1hPbzUwaFp6bDBuR1dqcVRtTThjcE1jeHBRWmlEQ3VfZUZWOEVsaWZzQjdsUnoyVWdZY2J0TmRXNzVVVjdlQm5GUWU3RHE3NlQ5UWE1N29VZFkxU1k5eHhwUDQtbVk1Q2dpYllINDQ40gG0AUFVX3lxTE16MzZNS0hCUDhPM2g3cFJBNl9OcEl1RFRFcDYzT00ySFJSdkdHRTdiSUROZ1o1VUc4MUtBRklmMTdtSlRuTlZnNEFCekFIcnN2dVNUVzZzekpRV1NmaXVaWkpuRnl2ZllfZEQ3NGkyeUpqaFFxSWZ1YTRjaS1TTzJ2RE5DclJKdkJzXzQzZTNjeFNkVUpWSUtXUWFMMFhIZG0wR1cxQXRELUpDcXRjXzRDX2VzWg?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-23T16:13:03.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike - DailyVoice.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUlqc1N5RjlHaFFCa19vTk9ZR19jNUs5TnlYSy02NmlROVByaXJGZ0k2S256cGlTYk14eU9COGUyeVJjMDZNaThldDdNTDQydmxVWUk0VWY2TUloS0R5LTd4NHNVMTZVel9OWUtXdHp1cXBsX09vM0ZZY3ZQTmxCSHNQdWYyV1dubmtxNndlekZaT1FmdkpCVUdsckxNWEpo?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-21T07:27:44.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Fraudsters Aim To Access Your Data As Google Impersonation Scams Spike - DailyVoice.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUlqc1N5RjlHaFFCa19vTk9ZR19jNUs5TnlYSy02NmlROVByaXJGZ0k2S256cGlTYk14eU9COGUyeVJjMDZNaThldDdNTDQydmxVWUk0VWY2TUloS0R5LTd4NHNVMTZVel9OWUtXdHp1cXBsX09vM0ZZY3ZQTmxCSHNQdWYyV1dubmtxNndlekZaT1FmdkpCVUdsckxNWEpo?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-20T09:28:42.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Is That A Call From The Government—Or A Scammer? - mountainhomenews",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaU03NW9zeHRRd1NFdk9tWHNXVVBrU2NjQS1OTGpUT25JVzQ3YjAtRV8yTDk3MVo0NzJiMmdvOU9ZNWxobmFHaXBERUoySl9mOEpQMHJwcFBPZHdjQ3dFUkphQlR1MFJKOWVYWlFiMWR0LUJ6TUw3dzliWW9wc0N3bW5QdGJERFVPU2JnY0NDbUpfV05COGg1Yg?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-25T15:47:55.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "UK fraud fosses Reach £659.5m as APP scams continue to rise, research reveals - IBS Intelligence",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3NuVUZFR2dCV2psUTMzRjBHTGNiamtIUUtDVnRzbVFadlZuaDZDemxVb2dVZ0pWTzlLeVJCemtkTEpJVE12WkJ6UXc2SUNSLU9USU1fYktWTmFBRDNiUmR2ckZJbFNveks4c1QtWHlOdHNQV1hIWGxDSEx2WklGUGp2dFdqaXRVRTRqTGcwVEEzX3BOQUNvS01iLVVrcjhlcWdwcVZabGFBZjc3TnBscFBEUF8?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-25T11:18:47.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Digital Fraud Targets 77% of Kenyans Amid AI Scams - streamlinefeed.co.ke",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlVoU0NsQ0ZNQm1XMFdLcUtHak5CMTRFcHlXM0p5Y2tYdVJqUUYxYmhvajd0dGt6bE9ET2gxekZCQ3ZVcHRnaDlrSGN6c1Z0REVUYkVGUmRNSVVzcXhEUHE0N01YNmQxVDFYcDhWOFE5MGlCYUVWN3Y3OUJVT0toQ3pKb0o4QTk0bHhn?oc=5",
-          "source": "Google News • Cybersecurity Incidents",
-          "publishedAt": "2026-11-25T07:02:00.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "AI-Powered Scams Raise Digital Fraud Risks as 77% of Kenyans Report Being Targeted - Soko Directory",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1pDTU5iUWFhcWFuLWxVUDI2Z0hVUWRRY1hYSjVvM2ZkZVBGdTliRzd0RktKeDBWWnNiTUNvTHptck9PM00tSmFTU0xyWXdFaEh2UWhIUnhQUnVNSWpTSTJkSXd1cVZJR0lGMlZOYjZiNVdobWJib2JKdm9rci1hZ21KaW02dHZVbnU3UjRlU1o4UVN1YWxjcUFNcHkyUGxjaW05VWdwNi1HbjEtV2RMX19RMkx0WnVFVDE4ZNIBvAFBVV95cUxOY1pDTU5iUWFhcWFuLWxVUDI2Z0hVUWRRY1hYSjVvM2ZkZVBGdTliRzd0RktKeDBWWnNiTUNvTHptck9PM00tSmFTU0xyWXdFaEh2UWhIUnhQUnVNSWpTSTJkSXd1cVZJR0lGMlZOYjZiNVdobWJib2JKdm9rci1hZ21KaW02dHZVbnU3UjRlU1o4UVN1YWxjcUFNcHkyUGxjaW05VWdwNi1HbjEtV2RMX19RMkx0WnVFVDE4ZA?oc=5",
-          "source": "Google News • Fraud and Impersonation",
-          "publishedAt": "2026-11-25T05:36:34.000Z",
-          "riskScore": 52,
-          "corroboratedBy": 1
-        }
-      ]
-    },
-    {
       "theme": "dangerous-misinformation",
       "label": "Dangerous Misinformation",
-      "totalArticles": 58,
+      "totalArticles": 60,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 43,
-      "reason": "Last 3 days averaged 10.0/day vs 7.0/day before.",
+      "changePercent": 52,
+      "reason": "Last 3 days averaged 10.7/day vs 7.0/day before.",
       "daily": [
         {
           "date": "2026-11-20",
@@ -248,11 +248,11 @@
         },
         {
           "date": "2026-11-25",
-          "count": 15
+          "count": 16
         },
         {
           "date": "2026-11-26",
-          "count": 1
+          "count": 2
         }
       ],
       "topArticles": [
@@ -325,12 +325,12 @@
     {
       "theme": "sexual-exploitation",
       "label": "Sexual Exploitation",
-      "totalArticles": 43,
-      "distinctSources": 4,
+      "totalArticles": 46,
+      "distinctSources": 5,
       "highRiskArticles": 0,
       "trend": "Stable",
-      "changePercent": -13,
-      "reason": "Last 3 days averaged 5.7/day vs 6.5/day before.",
+      "changePercent": 3,
+      "reason": "Last 3 days averaged 6.7/day vs 6.5/day before.",
       "daily": [
         {
           "date": "2026-11-20",
@@ -354,11 +354,11 @@
         },
         {
           "date": "2026-11-25",
-          "count": 7
+          "count": 6
         },
         {
           "date": "2026-11-26",
-          "count": 1
+          "count": 5
         }
       ],
       "topArticles": [
@@ -431,12 +431,12 @@
     {
       "theme": "tvec",
       "label": "Terrorist & Violent Extremist Content",
-      "totalArticles": 32,
+      "totalArticles": 34,
       "distinctSources": 3,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 33,
-      "reason": "Last 3 days averaged 5.3/day vs 4.0/day before.",
+      "changePercent": 50,
+      "reason": "Last 3 days averaged 6.0/day vs 4.0/day before.",
       "daily": [
         {
           "date": "2026-11-20",
@@ -460,11 +460,11 @@
         },
         {
           "date": "2026-11-25",
-          "count": 8
+          "count": 9
         },
         {
           "date": "2026-11-26",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -537,12 +537,12 @@
     {
       "theme": "child-abuse-nudity",
       "label": "Child Abuse / Nudity",
-      "totalArticles": 21,
+      "totalArticles": 22,
       "distinctSources": 3,
       "highRiskArticles": 0,
-      "trend": "Stable",
-      "changePercent": 21,
-      "reason": "Last 3 days averaged 3.3/day vs 2.8/day before.",
+      "trend": "Rising",
+      "changePercent": 33,
+      "reason": "Last 3 days averaged 3.7/day vs 2.8/day before.",
       "daily": [
         {
           "date": "2026-11-20",
@@ -570,10 +570,18 @@
         },
         {
           "date": "2026-11-26",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
+        {
+          "title": "Sheridan man sentenced to 78 months in prison for receiving child sexual abuse material - KATU",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb0lWZDlOMTRZdXpzelFaQWlaU3RBSU41QmRzd19sVzVJSVR6d1dLS21hQ0pvbDlpSndReFVFM1lBTzJhcGF3LU5EWWVSN2hDV3VuTERNWFoxc2VGcTNzVFFIOUJLUmhrblVrc3B5TC1ySTVVc0o1ZFJYcktDWUE0STM2Q1pvN2tlNXJjUm1JeDktd1YwNFVQWlJWTWtjRU1FZlc2VlhtaWtoMGY3a1dlOW1jc0Vmb0FrZ0J0QlZhYjNXWGxxMURlejRDTXZFSFZvY2sza0o5Y1NiNllaMVVLZzJrOUY?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-26T01:46:28.000Z",
+          "riskScore": 60,
+          "corroboratedBy": 1
+        },
         {
           "title": "Paterson man pleads guilty to possessing child sexual abuse material - njtoday.news",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3AzUmlrX29kQk5ZTXFfSnQ2cmxzTjRlSTBZRUR3ZU56VWJTc3B0V0hoNUNzd2JFZUlNTlFpSXFUSDdGX2dyU1BlTkFYYlQ1dVNZVXFONkxGb0pTT29zZmtqV3B4SGtWRHZRVTRTczY4ZGFLZjQyOGFtcVR5eGxwWXZfajZqR3ZhcmZfdlJYUzA2TXQ2NmtRWUZaczhNbm1iVEQ0?oc=5",
@@ -629,26 +637,18 @@
           "publishedAt": "2026-11-21T15:32:50.000Z",
           "riskScore": 60,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Warren County Man Sentenced to 110 Years in Child Sexual Abuse Material Case - Royal Examiner",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTNlcTJPak1NcmZTT1U5dkQ5MlFBamNXOUdSd1VrdjBRSVB1bDFDUV9iYzlOSk9kVFB0V0NRbUJlbHVQUFZ5UTlPdUNfUl9lb1hrdUxxNW9DcmZVaXZZd1JvcUp0UWhxTEowREN0ampvLVRLU213MGFGZ2E1WnU5d0tIcG9iNFZTanEtblBhWjNLcWJVZkVELS1MaW5Pd28yenp2aHZR?oc=5",
-          "source": "Google News • Child Abuse and Nudity Safety",
-          "publishedAt": "2026-11-20T03:40:53.000Z",
-          "riskScore": 60,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "violence",
       "label": "Violence",
-      "totalArticles": 18,
+      "totalArticles": 19,
       "distinctSources": 6,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 33,
-      "reason": "Last 3 days averaged 3.0/day vs 2.3/day before.",
+      "changePercent": 48,
+      "reason": "Last 3 days averaged 3.3/day vs 2.3/day before.",
       "daily": [
         {
           "date": "2026-11-20",
@@ -676,7 +676,7 @@
         },
         {
           "date": "2026-11-26",
-          "count": 0
+          "count": 1
         }
       ],
       "topArticles": [
@@ -721,6 +721,14 @@
           "corroboratedBy": 1
         },
         {
+          "title": "KAIPTC marks 2026 16 Days of Activism against gender-based violence - MyJoyOnline",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmlhU2ttRWNyejUyS3NDQlhCbmU0bm0zdW1BV2VxcnRDM0pPUFVGSk84b0RyRGNfUXZ2Z0xwQkpCaE42ZHhod3RHM1I5Umk3MjE4d3U4MllucGdfTjZUcmliQWVPdFZuWllxb2xkOUpWUXZOU2lTdkJsdS1Sc09Cc0RQUDFQOTJiZWh6M3NtV2JtNUxaV0xqQmFTcFg?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-26T06:04:25.000Z",
+          "riskScore": 44,
+          "corroboratedBy": 1
+        },
+        {
           "title": "KAIPTC calls for stronger action against digital gender-based violence - MyJoyOnline",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckxtejU5eEZNTGxFNnEyTlU2d0lsVFB4dF9YcWd0OTJ4S3ZQb0NRekRKVVY4ODloMWRsTE0yYkVRUk1ub1JJUHNJNE5Ia2MzaWxjVXhHTVJWc1JBek1sdFU3WlZzOUZOMEJrRG9PZE9OY0VBeHI1ZWVpRVBBRldsVllpbW5ZbnoyQl80YlVnUkxDWUR4c3lzX2VhaFQ1TGZx?oc=5",
           "source": "Google News • Sexual Exploitation Online",
@@ -735,26 +743,18 @@
           "publishedAt": "2026-11-25T08:06:39.000Z",
           "riskScore": 44,
           "corroboratedBy": 1
-        },
-        {
-          "title": "Why activism against gender-based violence needs to demand action against online perpetrators - The Federal",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQeFNEU3FSczQ2bG1yaHlobjZYMVU0TUEzR1gtQ0o0YkpMcEUxOTZuY2VaT3NmUGtqTGJkSkF5U1BvUWpWdVNLaWV3bHlhTUZ4TkpsR21oTFRlSjNFRms2anppb2pFekpqbzF4VVUyU09lN1dvbV83S0N2bDVvdlgxYjZRRTBvVWlBek5OdzZIb1Atal9LZ2xpZDZOMURiektSX0k5STF5cXVCUDJIQ3ZZd3JfUWVoc0ZhbnEtV3lOVjVqeVJYX3VqczFqekdtbU9DaUN0d3BQU0JmMjd4WTBUV0wwUjh6Ukd6RGw4NHptc1RXN0h4N3pMbGlOdmxaWlMySFBFMHFPeXVQMXR1U1ladGRDWXZWaEpTZEVCUEZ5a3JKOC01ZG5ZSmRIY01PcXNuYkZrWUtPM3FGVEU?oc=5",
-          "source": "Google News • Sexual Exploitation Online",
-          "publishedAt": "2026-11-25T04:08:10.000Z",
-          "riskScore": 44,
-          "corroboratedBy": 1
         }
       ]
     },
     {
       "theme": "harassment-bullying",
       "label": "Harassment & Bullying",
-      "totalArticles": 7,
-      "distinctSources": 2,
+      "totalArticles": 11,
+      "distinctSources": 4,
       "highRiskArticles": 0,
       "trend": "Rising",
-      "changePercent": 233,
-      "reason": "Last 3 days averaged 1.7/day vs 0.5/day before.",
+      "changePercent": 500,
+      "reason": "Last 3 days averaged 3.0/day vs 0.5/day before.",
       "daily": [
         {
           "date": "2026-11-20",
@@ -782,16 +782,48 @@
         },
         {
           "date": "2026-11-26",
-          "count": 1
+          "count": 5
         }
       ],
       "topArticles": [
+        {
+          "title": "40,214 cyberbullying-related posts removed as MCMC steps up child safety enforcement - The Vibes",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaTZDRTZuX2g3NF9Kb25NRGMwQjJkZ1ktclpYeGp2ekgzbk5yanJPMnFxU0lVN2U5Mi1meHBETUFhT094SDFyQXJsQ0lRSG9TTzl4eHZhRmN2Qk5oZnk3Z05yZnlFSjVEc0RqdnVXM3NjZG5YZXByb29FUlN5SDU4Ul8zVGVVaHVCdGFMVDQ5cXYtX3lOZU9GRHRtR044eWw2LVpRVTVHWHkzMWJkcV81RFd2QWV2dGRMUlhmcll5emhvZmhsZFF0bjQ4Zm5pR2x0ay1qaXN3?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-26T04:44:00.000Z",
+          "riskScore": 48,
+          "corroboratedBy": 1
+        },
         {
           "title": "⚠️ ONLINE ABUSE HAS NO PLACE IN PUBLIC LIFE Bonner MP Kara Cook MP says she received 17,000 abusive social media comments in just months — including racist attacks on her children. Bayside MPs have condemned online threats, harassment an - Facebook",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTmcxVXJqX1J6TDBsUTN6dnd5cmtxTUxMcTVPaGJXYVJKQUJOQXM2YUVxN0U4YXFJcjJkNDNDSWZSUzdvMTdjYVpDb20xVVlwM21CbkhqYVdfNEtfTy1RT3ItalF1MklFY01EZmtLZmJnUkR4UlcwalhESURpb0dKaXpMOGlDV0xNN3VnOFF0eXN4SHh2SlRwaGFJTXVsY05SR0VWZ05iVXJldmNNYjdLWVhZQlptZWVpMUN1Yi1ReFhGNGNNamhYVk53VkpWenVGX3gyZHl3UjctQ3J2dVV6dUpvemxvTUt5VVVocnVn?oc=5",
           "source": "Google News • Harassment and Bullying",
           "publishedAt": "2026-11-22T09:51:28.000Z",
           "riskScore": 48,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Editorial: Nigeria must act against the epidemic of online abuse of women and girls - PM News Nigeria",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnpoOVJ4bVp2V2xZYXpRTm1ETmFLX2dwLW5RcmY3Q01TNktlLUsybmdZdkZvaDY2VG1mOUtRcTY4QkFHUU5vcFpfbldVWkhiQmx4N0FPTW1QTm01LTB1M3ZRbXVLTnQ4RXhYNTFTaVM5MDVXbldsYjk1WkQ1aVJWRVYzSlkzeGFPMEhFMFJyLTV3anhxZUpWZ1JwaU5oU0poNHNEUlNubEZESXdpb19QQTBYa3paSXcxX08xaQ?oc=5",
+          "source": "Google News • Sexual Exploitation Online",
+          "publishedAt": "2026-11-26T07:56:11.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Over 40,000 pieces of bullying-related content removed from social media this year - Free Malaysia Today",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT3dCUDBfcXhhcHdVajFIN3AyTGhYV0JtTFpFR0QxNkZVSzNTbVNYZzV4RUhzU0stLU1NdmFWNVZBNnNhd25BRlktZFh2UmtTbk9oMzI0NW85UmlCTHY2Sm83VHFoa0JZWTA3N2VEQk1WWEh2RFMtYmJ5blp0UVB2RWFJTUJFWGJvdlhRMmRrX2V5R0c1NlJmVk1Ecng0dmwxXzlMekJ0NHQxQ2NSaFNUVXo0RERPRkhlSDVlQkpsV0RiYzQwb3A2LXZpZUlieGFONzI2UzJfNlk0Z28?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-26T06:05:43.000Z",
+          "riskScore": 40,
+          "corroboratedBy": 1
+        },
+        {
+          "title": "Over 40,000 bullying-related content items removed from online platforms this year – Fahmi - The Sun Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlM5YVhIeUJrQ1NRR1V6ZU9rbk1faFlGeGtIZXYta0lfd21jTzFpNjBvTm53S1pWZXEwOTB5QUY2MFg4QXhyTDViczNqTW1Zanp1WE5FXy1yTVBHeGJ4d091Wi14TE5lUXFqeWwyOVdTS2dMcTBVZFNRVUY1MmJ5ME05N1VmZkNVSVdDekJMbHlET21qLXNUVEVEcVBVVlhkdmJRSFNxQllnVlBfRklDcA?oc=5",
+          "source": "Google News • Child Abuse and Nudity Safety",
+          "publishedAt": "2026-11-26T05:50:37.000Z",
+          "riskScore": 40,
           "corroboratedBy": 1
         },
         {
@@ -815,30 +847,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3J5WGtYWldPdHNWbHlMUHlMQWNDWmxtbktXZlFOM3BkSXBEeUp2MS1aR2JBVzBBWDhyNXBXaG9qWFNiRmxZM0UxeTkzV3BkWW5wdXhkQ24tZm5CZ3ZrYWFzbmF1RmVVcUNUSjJ3QXhma1cyYS1OdWtTTVlYLU9DWThqX1ViRkNx?oc=5",
           "source": "Google News • Harassment and Bullying",
           "publishedAt": "2026-11-25T12:16:47.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "MTN Encourages Students to Become Upstanders Against Online Bullying - Nigeria Communications Week",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXdZSXZlY0NWc3BOcTlHXzE2em1MdzBvMHJUeV95UmVqRlRnTnpyYThzYmNfVWZYdHl5S3JkaUhYNF82SUQ0U3I3bXYyMzVzTXNhNkxaVFNramI1WDQ2RFpSY25sNjRHX28yVHhnZElJeFNOdFZDdG1pSzNwMmlleTBjaDNNanhjNVFfbFkxTVFwcGFpNWQwc2JKRUppU1NjZE5YVWFUX2lQXzRENU9ZS3BJTXFaQm94X0hsakJlQTJYdw?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-11-24T23:04:27.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Over 1,500 Israeli women reported online abuse in 2026, with TikTok topping list - The Jerusalem Post",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zUHF4VWRjSFhxZU5VOWdvZ25oU1ZtQmRGWnZ3N3lJdnlTMmVjV2ZpWjJNR3RGNExTXzRjY1Rxc1NDcWFBa19tMXM5eXdjSjRqOWRpYTFWNmpzcWNI?oc=5",
-          "source": "Google News • Harassment and Bullying",
-          "publishedAt": "2026-11-24T22:12:44.000Z",
-          "riskScore": 40,
-          "corroboratedBy": 1
-        },
-        {
-          "title": "Rashmika Mandanna explains why she and Vijay Deverakonda filed police complaint over trolling after 'KWK9 - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOLUFvdjJXTWltdlkyQy1UWV9UcENjMzR5QWpZaV9Sb1Q0VjRWZ1lZd1VVYWh5ajVRVXYzTmhpVXU2ZWxIa09pOExTeU8yWnZPX0g4WFh4WG14OVNZOWZZaE1qamtWXzdiTFNOTlU4b244cXBZSm1LSHZ3cGs0V1NMTEkyd3h5eHVRTm92MWcwb2t0SUtrMXAzU0RVQ0tRMzQ2REdndmY0NmRtMzdXM0FzU1EwaG5uODZDaURnR0tjWUV5c2RjcTRWQXphMi05RGdjNTc5LWhYT3hkQnE4dWg3UFlNcUFjc3pDS2FJTmRqeEJZVEx5S1pRVHMwVV9ONUFMOXVhMXAxMEVhS2xRdnBpSGg2bFZ5UTI3b1NHNnYtZTREUDB3bXY5aUtvOGd1OC1aYTlXVktBUVIyN2sxU0ZMMWN6RTNCZ2d6Rk9MazNIVjZpZGZiSzhYeTQzSHhyMUFIV2RVWEF6dEpkZ0FkSjRXRkVJWDhwS2hXZWY4UmZn0gGDA0FVX3lxTE84VzdrWmRyUkd5cEZUbmpIMjI2TVdQYXNNb3h1d3lJR2JFa2lsRjg0a0xfTmtwVVUwREV5b1EzeW5UT01tYUZyaENNZXJsZE55X0Mya28tVktMOWxVNXQtN1RIbkU0MjVsSWZoQWV0VFg5VjhRbnhscWc2V1hKZEFzMmJ0T09QVUlKTV9BZlR2U3J3V1QteDdjWVpIS0RWMzRhR0l6eXdHM1hmakozcWdoM05TT0lUQmJVcEVvdktvdDhpQWVxSGRnNUc5VkdnVjNaWjlyV1BMVG5ZVHU4ZGVDYk1RbW1odUtDMTBHNTIzbEN0MkV2Q2RiWHVKSXdVTDRlbUVJSENsRGtMeGFTWEZaOGlYbk5VUHVjVjBYR0lqWXBsLTlka3lxbmo2cmV1dmJLSGtEQWlYRE5tRE41ZVRDTDRDajlJRjdDZm5Pd1Eza1hqejlDQXZ3bkljN3pBOXJObWNqYVU3SGExWUR6VkpUaF9XWFZCZHVYc25mTURHelNtSQ?oc=5",
-          "source": "Google News • Online Hate (India)",
-          "publishedAt": "2026-11-22T14:29:00.000Z",
           "riskScore": 40,
           "corroboratedBy": 1
         }

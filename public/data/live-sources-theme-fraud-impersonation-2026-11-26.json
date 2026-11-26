@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:52:48.994Z",
+  "generatedAt": "2026-11-26T08:41:45.809Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 10
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,49 +30,49 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 34
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,10 +182,145 @@
   ],
   "data": [
     {
+      "title": "Digital marketplaces face growing fraud threat from AI and automated attacks - IBS Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRG9WbkxNWS1ScndfWWpkNVFQdmJYRW9lYkJwUVEyS21yLVliamRrMWtoTFlGOXF5eVJfQ1prblAxUDlkUzhzVGF6UjBCcVlFZjVjTE9zMi1scHRVSVhrMDZBLVFUNHg3NDFKcG13dmdGc3JUdlhjNTRhRGUzZ1FBcnEwclJfTzRreFZzdUxlTkwzajhCal9LYW9MRFROUFhwaXpURkVWbjVVYU9jQkFqNmkycnUtdw?oc=5",
+      "snippet": "Digital marketplaces face growing fraud threat from AI and automated attacks IBS Intelligence",
+      "publishedAt": "2026-11-26T08:01:07.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Quang Ninh Police: Proactively maintaining cybersecurity, reducing fraud cases by 56.7%. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGMydU14VENaSEpuTi0wNlhCSTVwVEFVdTN3cFRGM2ZsM19TOG5Sa0daSXgzbE1jYTVlOWVYRXBWZTBSc0xfbEtvY1FMX0dnS2RnSmNWRnlXME9wQW9PYlhNSFhpdThhZnppWmh3S0VZQ2R1Yjd2bkVvWW5qS01EYUI4ZU81SXV0aDJtaGZxa2FoUlpQSGktRXduMFZoeE5qa1E?oc=5",
+      "snippet": "Quang Ninh Police: Proactively maintaining cybersecurity, reducing fraud cases by 56.7%. Vietnam.vn",
+      "publishedAt": "2026-11-26T06:45:19.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Labor and the Greens betray victims of online financial scams - Senator the Hon Sarah Henderson",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzg0VnlBcGRkdWRvZ1lseTdLZ1oxUzVLUW9hQXd6SVVhUlFMMGpfQ2cyck5lMExNQ3NQdU5RRDVmTWx2NnlIRzBVTEVmQkJUVm9Eb3dUOV9RTkVBNzFVTXpDVjVyTVM5UzNFWEN4NVByMXBCSHkxWVhlN2dDRkxZM1JUNjZJU3F3TzZkSE0xdjByMEotYUdz?oc=5",
+      "snippet": "Labor and the Greens betray victims of online financial scams Senator the Hon Sarah Henderson",
+      "publishedAt": "2026-11-26T06:45:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Black Friday phishing attacks nearly triple in 2026, reaching 19 million, Kaspersky reports - IOL",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaUlEWG42YnI2bE8yTlV3TGdHV3BNOE5pTlZ4TDhTeDB4aVFMZVk1c0s1Ql8tbWNTZTl0RWgxSEhmQmdhazRfd0dNTjYtcVRrSjdFckxJa0E2eHVVZTkzeWtMRGtheDdET2k0bXVNTjBzQnhBa0Z5SDh3Y0pxWlExU3VyNG5KNUdFVzF5MVlqUDlXVXF6NE9CX1p3TFBGRExfNEFWTUEwREtTOEJJc0VWUFZacjJDWFFhdmNVbmc0Y3ZKSTZiZi1feVF0S1hTd1JPTmtybVNBNTVqQQ?oc=5",
+      "snippet": "Black Friday phishing attacks nearly triple in 2026, reaching 19 million, Kaspersky reports IOL",
+      "publishedAt": "2026-11-26T05:30:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Scam syndicates move inland as crackdowns intensify - Borneo Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFlMdGc5eTNkb1ltcVkzLUppRnl3X21fUnpTOFpOeTNEeG82Ylp4eVhrejZGR3Fpek8xX2syUTZMQ0FJQW5UVTRjeW03VFROOFJqTmNIQUpvWnltTFNKXzN5RUlocVlnUXNiQU5XUGZVOEZ5ZTF3d2FsY25jZ0Fsa2tBdDRIcEhnSVE?oc=5",
+      "snippet": "Scam syndicates move inland as crackdowns intensify Borneo Bulletin",
+      "publishedAt": "2026-11-26T05:00:27.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indonesia repatriates 139 nationals in Manila scam bust - Asia News Network",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHY4QzBocW11ai1QSFYyY0VOblFlN3Z6MHpMNlBaLWJvYkZnaVU1VlY0RlBrOW5ud1Y4a1dNM0FDcWNxb2xFY2ZBQ2RmSWdlZHBmczZIdjN2RVdhX09hY0p1NjlkMklfVGVkSGoyNm4wbDd1VVV1bEFoM0lrNWJzQXV3R2JadGJL?oc=5",
+      "snippet": "Indonesia repatriates 139 nationals in Manila scam bust Asia News Network",
+      "publishedAt": "2026-11-26T01:49:42.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "SAPS warns against investment, banking and online dating scams ahead of festive season - IOL",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzhDbzVIcHN4UVRFdjFqTmhTV3lBQzUtS01hME9oMUg2SGJJX1hSbjV0MnlLamRCVWcyek1uck0ydkR3RVd6TEdBOWM5TUkzXzI4NFF0NldfMGVJY0hLdUFpWkVtYW9OX25Tb2tDeHJoRTFqa1F6aWxwN01DZmVuVEVhY1BIMnppRU9qRm5WN3d4Z045bGxoZjdGQzJZYlRKR1c4cHUyVUxkam83MFExMi1RbEJ3Y2hzUEdHeWlhQ3Jad1VMQWhDalpkU2htUQ?oc=5",
+      "snippet": "SAPS warns against investment, banking and online dating scams ahead of festive season IOL",
+      "publishedAt": "2026-11-26T00:41:40.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Justice Department’s Anti-Scam Surge Follows Executive Order Directing Government-Wide Crackdown on Predatory Schemes - finchannel",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdDJDbUZ1eGVUaG1CMlk3RUdhWVhQV1lFVE5RTUtmdDdya3dRMFN5UDhBdThGZ1lEVUVJWnBCY2pTV2kydXRleDlJQ1hQZjJQRy1nZjhNR1pad1hKOFY2WVNtakVkSDJka3ZPb3lPZ0d4bk5qcmJrMlRnRXBFM2p6UzAyTXR5VzdUek9BUWE5TXRaVVdrS0xGUTNxdUdHS2dSQ2pPNm1reE1peG5MUS1RVUlfSFlvQkd4X2pyRnhXTXZzVEI3OUlaTW5iYkVMbW5KR3FMYk1uQWxOSGVLczE2SF83Q0w0UjJpdGJDY3diR0tZZFJiQlB1bGVsZzNqRHFCYlE?oc=5",
+      "snippet": "Justice Department’s Anti-Scam Surge Follows Executive Order Directing Government-Wide Crackdown on Predatory Schemes finchannel",
+      "publishedAt": "2026-11-25T23:06:10.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "DOJ Scam Sweep Reaches 800 Defendants as FBI Restrains Nearly $17 Billion - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzZmlMSTIwRFhHZFA5dFI2eC1EUGZfT0kxekN2YTE3VGFOY3lTSGdETGhtNkFkek44eHJXeWFmRjE4S2tmZUU1QXV2ZE9tM2l6cGZac25fMkdUbjJ3NmNjRkM5dFZFdzM2V1FheEVydkFWbnFOZ1E?oc=5",
       "snippet": "DOJ Scam Sweep Reaches 800 Defendants as FBI Restrains Nearly $17 Billion BigGo Finance",
       "publishedAt": "2026-11-25T19:35:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Ghanaians lose GH¢1.7m to online shopping scams in 10 months – CSA - Asaase Radio",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUwxd19sd1RKU2VnZ2JoWDNOSS1DajNqR3RfcFVTOVhVVjZvYXFNYjB3MDRrMW05ZUprYTFaNHRTTXlxd0J0UURORUY2dXNCaTEyajlMaFdJMmViaUpiaGMzTU0xMmppSUc4UTZQelk4UDR3WFdNSEpxSm5Qa1RQd2dRSF9uVlRjU1hGNExxTldacFBORHNJRVV3?oc=5",
+      "snippet": "Ghanaians lose GH¢1.7m to online shopping scams in 10 months – CSA Asaase Radio",
+      "publishedAt": "2026-11-25T19:05:16.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",

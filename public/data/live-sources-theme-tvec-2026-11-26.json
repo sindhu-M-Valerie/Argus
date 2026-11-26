@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:52:48.994Z",
+  "generatedAt": "2026-11-26T08:41:45.809Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 1
   },
-  "message": "No verified news was found for 2026-11-26 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,49 +30,49 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 34
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,21 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Argentine envoy Mariano Caucino expresses solidarity with India on 26/11 Mumbai terror attack anniversary; pays tribute to victims - https://www.indiagazette.com/",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRmdxSWp1NVZ3V0VEbUxYQW9wQzdJYlUtVGM0WVppWE8yRnFiOThLX0VnZl9uMUtlWjFub2t6b0Y2T1NxNDB2VkRHdnVwVnNuN3dMMmpjYkxHWURjcXU0cmdES2JlT0lOUFRlU0pNVTJ3RnBLMDkydElnWGdmY2dKV1gwZENmZS04UDVNOVNGZmVSLUFBcGZ0M3ZOSmJ6dU9fQ3YxbDFuNndDOWo0aDM5azNqNWRFaTFaaGJWenRZNUFkN2U5a0QtVkY2X3V5SjAtZXZUU01od0c4el9HRGdTR3ZxTVNUczZKUVVyTGNRdnVpYzM2cTBPc29mTmV3UnZId2c?oc=5",
+      "snippet": "Argentine envoy Mariano Caucino expresses solidarity with India on 26/11 Mumbai terror attack anniversary; pays tribute to victims https://www.indiagazette.com/",
+      "publishedAt": "2026-11-26T00:29:00.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

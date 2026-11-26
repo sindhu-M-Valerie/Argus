@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:52:48.994Z",
+  "generatedAt": "2026-11-26T08:41:45.809Z",
   "snapshot": true,
   "date": "2026-11-25",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 25
+    "total": 41
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,49 +30,49 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 80
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 41
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 41
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 34
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 16
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 21
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -100,7 +100,7 @@
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 33
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,21 +114,21 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 26
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 36
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 77
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 32
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "APP fraud losses climb 22% to £316m as scammers swap hacking for persuasion - Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemNBMG5fRHVxZkgxXzVmYkl6TnMydFEwakVuSnRJY0dIYnY3Qll0OXpKS3dxSVNHS2poUmpCQko3VmFWUEduNkQteVFYZ250MXNnZDVtMkMyNTFMUmMyT2VNVFEtVmE5azV0N2RXSHlfZ3E5Y0txOTVlTEFGel9tN2RjRUxtdGNpODJmX05JdXQtNWN6OWVMN0w3SVBxNkE1V3FiWWpBRGFYcmZ5QVppQzVXZ0VWUXpWNDllWDRScWpfN2RCVE8xb19tWTZFdXNTYlE?oc=5",
+      "snippet": "APP fraud losses climb 22% to £316m as scammers swap hacking for persuasion Insurance Business",
+      "publishedAt": "2026-11-25T12:24:49.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "The retailer most impersonated in AI scams is… - Chain Store Age",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IRktXLWQ2WGRaSmV6RHQtVFdyaVJDc3BnUTlOa2MySjllX3VfZlZYU1d4aHJwYmZPbjdpTzVKY3h2Wm5rN0RZVUx5aXIxcElmeWFrbndoTEhwQVVQYnpidk9VU19saUxBdm5FVmdB?oc=5",
+      "snippet": "The retailer most impersonated in AI scams is… Chain Store Age",
+      "publishedAt": "2026-11-25T17:56:42.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Is That A Call From The Government—Or A Scammer? - mountainhomenews",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaU03NW9zeHRRd1NFdk9tWHNXVVBrU2NjQS1OTGpUT25JVzQ3YjAtRV8yTDk3MVo0NzJiMmdvOU9ZNWxobmFHaXBERUoySl9mOEpQMHJwcFBPZHdjQ3dFUkphQlR1MFJKOWVYWlFiMWR0LUJ6TUw3dzliWW9wc0N3bW5QdGJERFVPU2JnY0NDbUpfV05COGg1Yg?oc=5",
       "snippet": "Is That A Call From The Government—Or A Scammer? mountainhomenews",
@@ -197,10 +227,40 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Black Friday shoppers warned as fraudsters use AI to impersonate retailers - IOL",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEFDY2V4bzhPSWU5cDRvVUhZRDBMQUI2M1psVThOcTJUc3g1a0w3QTNweUtXSEFEQV9QOHVGc1dMM056d3hsUkNLOHZSdGF0ekxvNVJiZkpVY2N2eWJkVW00RWxnMTlrQjFfMWZfb2JCRm8wY2JMTXloZTdPSFZubmZpdzQ1REMxMjNJU1dxUEc4RER0bHJfeURMSVpsMFBMSGVyRUNaNUQtZTkzem1wNFBRc2FUaXJUODk4?oc=5",
+      "snippet": "Black Friday shoppers warned as fraudsters use AI to impersonate retailers IOL",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "UK fraud fosses Reach £659.5m as APP scams continue to rise, research reveals - IBS Intelligence",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3NuVUZFR2dCV2psUTMzRjBHTGNiamtIUUtDVnRzbVFadlZuaDZDemxVb2dVZ0pWTzlLeVJCemtkTEpJVE12WkJ6UXc2SUNSLU9USU1fYktWTmFBRDNiUmR2ckZJbFNveks4c1QtWHlOdHNQV1hIWGxDSEx2WklGUGp2dFdqaXRVRTRqTGcwVEEzX3BOQUNvS01iLVVrcjhlcWdwcVZabGFBZjc3TnBscFBEUF8?oc=5",
       "snippet": "UK fraud fosses Reach £659.5m as APP scams continue to rise, research reveals IBS Intelligence",
       "publishedAt": "2026-11-25T11:18:47.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fraudsters steal £660m in six months as they make online scams 'more convincing than ever' - here are two ruses you must watch out for now - This is Money",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWUtUVV82OGV2LWtZTmNHVjRmSEtXc2d3Q0RjRkQ2d2xvUzRHQ1JTaXNnRlFXS1o5azlJQnU1b28xZ2JmeVkxdGFnMFA3c0RLQUt6dGZzN2NrVXVNbFZEWDJPWjBreGl0UlRiSEREUXhmUzZhVDBtTFRPTDlBOUUtNURjdDk1YjdoZlk2TzFMVXVIMTJlYl9ZQ3cxeC02NEIzVWk0d0R0NkVZY0hoNmI0bXpURFV0YkNubmNIMTc5Nmt5SVUxclozV0NPMTEyQlpacGdUSmxmb0FERVA5ek5ZcDV4UkxENDR2R3ItR0VieDltWXhfbk42b9IB_gFBVV95cUxPZFRhcU4wRmVsVzhoQVN0cEw0RFhCLV8yUlRiQ2xfM19vaS1WUUc1ZHZ3OFdZVkwxMG9telM2MmdWVFNIbW51QzlSRTZZTjNYQkNKU2Y0OE12NnZRUGlCeFRVdVhiSWJBd2t5OE4tRWlleUJkdFAzTGVLUk1ZMXFSZzdsQjZjS2RRQjFSTHB1YldsN2REUlUtb2VnZkFhYkpqaTQzQ2RTQTdRbFdZRWU0aFM3c0lCZmVBbGxGNlluU1lDdXBoQmluaDdCc1N3Q1Y0NzdVYklrX3MxTEp5b0ttZWRJUXFVZWhaRjNCbHI0ak9lTmpscTY1MjduU3N3QQ?oc=5",
+      "snippet": "Fraudsters steal £660m in six months as they make online scams 'more convincing than ever' - here are two ruses you must watch out for now This is Money",
+      "publishedAt": "2026-11-25T10:13:51.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -257,6 +317,36 @@
       "corroboratedBy": 1
     },
     {
+      "title": "CSA cautions online shoppers against fraud as Black Friday approaches - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEdULUE4RzB0NzRiaVRhVHIyc0ROeC1RU0h2LXBNdlN1aVd5cmZIYlctcmxxcTE0ZzZ5ZmszZE5PWURMQWQzdE84V2ZXbFNfMno1UEFBNTJEdlVheHRZOEdjTXppZ3JsSnY3SE5oQTFIcmtSV3dnTkJ3VEd6cFFOTmhWYUlkSnRxdjQ1alFyNHlUVGI2d1FXN0pSTdIBmwFBVV95cUxOWEdULUE4RzB0NzRiaVRhVHIyc0ROeC1RU0h2LXBNdlN1aVd5cmZIYlctcmxxcTE0ZzZ5ZmszZE5PWURMQWQzdE84V2ZXbFNfMno1UEFBNTJEdlVheHRZOEdjTXppZ3JsSnY3SE5oQTFIcmtSV3dnTkJ3VEd6cFFOTmhWYUlkSnRxdjQ1alFyNHlUVGI2d1FXN0pSTQ?oc=5",
+      "snippet": "CSA cautions online shoppers against fraud as Black Friday approaches Modern Ghana",
+      "publishedAt": "2026-11-25T14:44:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 51,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "CSA cautions online shoppers against fraud as Black Friday approaches - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXZfZXJXYnpVQnBXeklhM0ZacW1zY2t5bl9pNEVkZ3lmTlpjTmxtaGo0MzZpUkdKcjBwZmdncVZ1eENoUHlON25QMTRLQUw1QU1CRFVjUlRhSWs0Ri1Ma00zSFhQSmt1bmFMZG5rZ0loMngtMlVzc052MXhicHhLOXZSVFB4RDFoaWR1WWhMV0RUNTNsam00V0UwQzPSAZsBQVVfeXFMTlhHVC1BOEcwdDc0YmlUYVRyMnNETngtUVNIdi1wTXZTdWlXeXJmSGJXLXJscXExNGc2eWZrM2ROT1lETEFkM3RPOFdmV2xTXzJ6NVBBQTUyRHZVYXh0WThHY016aWdybEp2N0hOaEExSHJrUld3Z05Cd1RHenBRTk5oVmFJZEp0cXY0NWpRcjR5VFRiNndRVzdKUk0?oc=5",
+      "snippet": "CSA cautions online shoppers against fraud as Black Friday approaches Modern Ghana",
+      "publishedAt": "2026-11-25T14:44:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 51,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
       "title": "FBI Helps Free Over 2,200 Trafficking Victims in Global Scam Crackdown - Hackread",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEhDTm5ReXZKVldDX1g0MExMMUxGUTFlQmxfMjhVNTRodGdNcTBGRGhTWXlVZWhENTgwR2hLcnhkNUY5YjVYU2x6N3BIVkw5bmJPNFBaaHdTUXpsLVFaTmtjTXZwenNMOTdObm1Tb3YxT0ZvQW5yOEVLVnNKOElqZnhQQWc?oc=5",
       "snippet": "FBI Helps Free Over 2,200 Trafficking Victims in Global Scam Crackdown Hackread",
@@ -287,6 +377,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Holiday Shoppers Beware: AI and Spoofed Websites Are Making Online Scams Harder to Spot - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZlRnMG9NdTROR1VBY0VMMXN0MEJBMjFidDNpRFVjQ2tUdDk2U0k0bko1dTFDR0dYY09CdDl1TWdJTDV2c2ZGSW9GRDg3ZWh5c3FGM0xQQzEyV1J2d3FmM3RkUW5TVUZFMWRKdTNhdjhtdk9KN3JuYkpTSnd1RDltcWFjdjFIU2c3SWxyWGV5QnVBTTg5R1hhcEJqZjkyWEFQY1lnMXZSU3Qta0llaDIxQ2pKQkM0TTcxZFhTdkNCdFJELU5FQnpoX1BRN1h1UkxBc29KdG9BOUtSZw?oc=5",
+      "snippet": "Holiday Shoppers Beware: AI and Spoofed Websites Are Making Online Scams Harder to Spot PR Newswire",
+      "publishedAt": "2026-11-25T15:39:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Crypto Scams: Common Schemes and How to Protect Your Wallet - CyberGhost VPN",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xYTF5UVhBcGs3dXhDV0l5UHpmZFBhdzk3bUpIMi03cVZDYU1nd0d1M3FNQzRQNGlrTmN6ODc0S2N5Z0Y4aUI4aUJSMVZMaklDeUdrdEFOVkwzTkxoeWVVVU9nUmE?oc=5",
       "snippet": "Crypto Scams: Common Schemes and How to Protect Your Wallet CyberGhost VPN",
@@ -302,15 +407,15 @@
       "corroboratedBy": 1
     },
     {
-      "title": "CSA cautions online shoppers against fraud as Black Friday approaches - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEdULUE4RzB0NzRiaVRhVHIyc0ROeC1RU0h2LXBNdlN1aVd5cmZIYlctcmxxcTE0ZzZ5ZmszZE5PWURMQWQzdE84V2ZXbFNfMno1UEFBNTJEdlVheHRZOEdjTXppZ3JsSnY3SE5oQTFIcmtSV3dnTkJ3VEd6cFFOTmhWYUlkSnRxdjQ1alFyNHlUVGI2d1FXN0pSTdIBmwFBVV95cUxOWEdULUE4RzB0NzRiaVRhVHIyc0ROeC1RU0h2LXBNdlN1aVd5cmZIYlctcmxxcTE0ZzZ5ZmszZE5PWURMQWQzdE84V2ZXbFNfMno1UEFBNTJEdlVheHRZOEdjTXppZ3JsSnY3SE5oQTFIcmtSV3dnTkJ3VEd6cFFOTmhWYUlkSnRxdjQ1alFyNHlUVGI2d1FXN0pSTQ?oc=5",
-      "snippet": "CSA cautions online shoppers against fraud as Black Friday approaches Modern Ghana",
-      "publishedAt": "2026-11-25T14:44:00.000Z",
-      "source": "Google News • Cybersecurity Incidents",
+      "title": "Holiday shoppers urged to watch for scams as shopping season ramps up - Minden Press-Herald",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzdMQ0F4cV93Q0FvUFZRZW81cmZZWFFsQzF2T0xzZHV0cTdoUWJJMmEtUVNjVi1RVGtKWk8zb05jcmMxdG9IeE1NZ3BBMURfREpETFJDWjJtUG1vODBfT1l4SXpkSUNfLTZFMG5xeW4taS1nREI1RkZPWEJVUS1md3o3SXQ3UGJQbnJmdjZIaDIybE9Iakl3QXNYdw?oc=5",
+      "snippet": "Holiday shoppers urged to watch for scams as shopping season ramps up Minden Press-Herald",
+      "publishedAt": "2026-11-25T14:55:29.000Z",
+      "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "provenance": "historical-archive",
-      "feedTheme": "cybersecurity",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -347,10 +452,70 @@
       "corroboratedBy": 1
     },
     {
+      "title": "MTN Raises Awareness of Deepfakes and AI-Powered Scams among Students - Techeconomy",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXzNZcTlwU2hOZE4xVkZOZnpGd21kOGM4RzktUFZOYnNWVTBIUm9SUWtXN1cxbzlOXzRBcVZGaU55bkFlVUZPS2dTUUNsMjUxZ3UtRkVZOWtUbUtuaTN1Nk9YWWZoZ2EtYThIckV6NE5nNHZ6Z2lNY2dmYWRvM1JLdkpGYkhwbWM1TEFXTlg3T2pfUGtDY1dr?oc=5",
+      "snippet": "MTN Raises Awareness of Deepfakes and AI-Powered Scams among Students Techeconomy",
+      "publishedAt": "2026-11-25T12:48:18.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "STF Arrests Mastermind Of Russia Job Fraud - Rediff.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzQyT3NDTzZIUXVKOVlBTjVFZzNKaXhQU1VZcld1YWxBSEVoYjBoSjVPdzZybl9GVzV0Q29MT2paYkxsMVJzQkhBaV9JaGNPNXVlUlc4YmNRWVlJNXRPWGtiVTVudnNCZExiZXhWUkdCWjRLQTJvNEc0cmVqSWtrcUllNEZjNy1Ddm9LRG9xVXduUC1UWDkwaWVDS1pGQ1lTZmRWVjdDdk9MWTJO0gGvAUFVX3lxTE5jT0RMTEhxcFRwaUplcm5rWmtqTk52M3puMVctRlljZlN4VFduNzRzT25iZUxtSVhUOWtwcUZXRk8yUDNOazJXTHBaNmFCSFpvTzYyY3k5U05LLTZ3cmxpM2N5d3JzMlkyTVMyeko4T29xTmk2ZWhjQ2hoX0tvcHh5QVc3UXJFWW9EX1BzUWRGb2tuVW51U3ZOSUhtWGhDU2pBNUZ5TGlYcjNLWE90Zjg?oc=5",
+      "snippet": "STF Arrests Mastermind Of Russia Job Fraud Rediff.com",
+      "publishedAt": "2026-11-25T12:36:38.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Indonesia pushes ASEAN Protocol to combat cross-border online scams - Azərtac",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEs5MHdNejRrNl9FVDVkQmdaaUhoODBPb0VuelhoaEE1UTg2aVZaV1NVY2NnYkpmSHQ2el9lY0xVQlBOWTFDNVU1OUZKZmFYVW5uaVZLVldlcG9lY3hCZGdJakNPRHVyY2hRcDdSRW9yTW1rRTdOdEIydDY1ZnpZOXROQXVXZ2d4S3pNTUFoMzB2OHFwZlFudmY2VGFKb0FfczZwdHNn?oc=5",
       "snippet": "Indonesia pushes ASEAN Protocol to combat cross-border online scams Azərtac",
       "publishedAt": "2026-11-25T12:19:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "New Jersey federal prosecutors join nationwide crackdown on scams involving more than 800 defendants - WRNJ Radio",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDNZRjBDakFLdGJiSkszWGFKaUlMdzZlN2t3Q3JIWEhPQWdWQjgwbEw1akZ4VW9kWnhSRVBsRlVBb25tc0pQTVB6NXVZYUpxY0t0Z1hRNVZiZHlOSy1NYzZ6ZEpOSEF6YmVadGl1Q202YXNYVDhhRkZZVEQ4WW52eW9hMGhJX1llX3hxelVYSXYxeDNkSTBoUG1hYWg4UzJfRGV0RkNRRENqZFFDZUZ6TTYzektqQUQ3QzNQZk1hckI?oc=5",
+      "snippet": "New Jersey federal prosecutors join nationwide crackdown on scams involving more than 800 defendants WRNJ Radio",
+      "publishedAt": "2026-11-25T10:07:57.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Gujarat Cyber Police Bust ₹8.46 Crore Interstate Cyber Fraud Syndicate, Arrest 13. India's Growing Cyber Fraud Crisis - Inventiva",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObFJOQmpTM1JDdV9waHhWT2pZNHUxT2tWTmVTLTJ1cWMzX0lER0RKbzBLejdJM0ViMFVnVGp3NjFZRExkTXZJSHl3azR1cTA1VUJteTl1Y21aVEEyUW96Y2dvZ2VoR3ZLaUtlXy1OSmdPNzZaakdvalMzcTc2dmtuRi1JWmFNeHk5R2E5MWtmdy1mcmhFOWZWS1g1d2Q2WE5Tbnd6bDl5WGRBeUx3UGdhVWVfal9fZXp2b2tWS0VVUWM1X1lrc01DcXI2Yl9aYmFCcDZhWkM2TG53SW53S3ozTVY1cEFvdVhZSTl2bDkxZw?oc=5",
+      "snippet": "Gujarat Cyber Police Bust ₹8.46 Crore Interstate Cyber Fraud Syndicate, Arrest 13. India's Growing Cyber Fraud Crisis Inventiva",
+      "publishedAt": "2026-11-25T09:26:05.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -386,6 +551,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Penang police bust 14 online scam call centres, 141 arrested - The Sun Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt5NVJualFUaDZTS050WlBDeDJXbEpzRVFnQkJIQ2l2a2NuWXdWaUQ3cTJYNkZCMm4tMlFEbWdFOFlGRWdkb1g4V1A0eEN2WlhfV1lGbmRPdFQxQVhxaEx1blhONTREYXNBVjVobjJ6eXNnbmI2V05teV9EX2xVckpSMk8xekRocGpHUXk5eEpVbU5nM1d0YTZhTkFYZw?oc=5",
+      "snippet": "Penang police bust 14 online scam call centres, 141 arrested The Sun Malaysia",
+      "publishedAt": "2026-11-25T09:03:54.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -439,6 +619,21 @@
     {
       "title": "PNP warns public against online selling scams ahead of holidays - Inquirer.net",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWhJMUR1VHhLRnJMek80OGhrRldDUTV6YjRRZm1KYVk3aGR5eWp6d3ZBb2lsTHJ0eFRZVlpSeDlpVmlZa2lmcnNybmJGZ2pUMDhHc083M3NOMW9ORkxmWGViM3hERWVnR3hidFVsSHpiVW5IallCQ1dwS1gyaTk4QTRsTkcyckF2WFM0SzdrMWlsaURXS0NEUWZUTEpJTkRlU1RZ0gGoAUFVX3lxTE11M3JtZ2ZBNXFscUhvV3VVNUlTOGh5WFRINlFLV2JFM3ZBUndNYkMxS1FMWmxmMTZKOGhnTXEtRWxPQzdYbkEyTXZVcl9HM19aVkk4UTJTZFRGSmNld3lNSUVvU25ZZXpDODdPXzJhbUNVdWY0WmE0UjR6UGtSTmxCVE5aWXh1UVk0M2JhT1VhazhXaGZfVS1TdHBBS0NhcS0yLUdVY0hVdg?oc=5",
+      "snippet": "PNP warns public against online selling scams ahead of holidays Inquirer.net",
+      "publishedAt": "2026-11-25T05:45:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PNP warns public against online selling scams ahead of holidays - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWhJMUR1VHhLRnJMek80OGhrRldDUTV6YjRRZm1KYVk3aGR5eWp6d3ZBb2lsTHJ0eFRZVlpSeDlpVmlZa2lmcnNybmJGZ2pUMDhHc083M3NOMW9ORkxmWGViM3hERWVnR3hidFVsSHpiVW5IallCQ1dwS1gyaTk4QTRsTkcyckF2WFM0SzdrMWlsaURXS0NEUWZUTEpJTkRlU1RZ?oc=5",
       "snippet": "PNP warns public against online selling scams ahead of holidays Inquirer.net",
       "publishedAt": "2026-11-25T05:45:00.000Z",
       "source": "Google News • Fraud and Impersonation",
@@ -506,6 +701,51 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indonesia pushes ASEAN Protocol to combat cross-border online scams - ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmJrVjNRdlJzcnlLTXVxV2h0TGctOFZqd1ZBc0didTZsMi1pd3paVWpTSExPZVlUVFlVYklGeXZmTGpvOC1HQlRDZ0pFWVhxTHRFWXdaTXJFZ0VOODhVUEJTMmxQRmpPTzllVmV0QmlPX0pWU3NTMEMxMnU2QkNlS3dsUnJvR3dkWHRDeHl3R1h5RkIwWk5pMV96RkEtZkpDMkhtNHJLMEdOc0p5ZFHSAa4BQVVfeXFMTTJia1YzUXZSc3J5S011cVdodExnLThWandWQXNHYnU2bDItaXd6WlVqU0hMT2VZVFRZVWJJRnl2ZkxqbzgtR0JUQ2dKRVlYcUx0RVl3Wk1yRWdFTjg4VVBCUzJsUEZqT085ZVZldEJpT19KVlNzUzBDMTJ1NkJDZUt3bFJyb0d3ZFh0Q3h5d0dYeUZCMFpOaTFfekZBLWZKQzJIbTRySzBHTnNKeWRR?oc=5",
+      "snippet": "Indonesia pushes ASEAN Protocol to combat cross-border online scams ANTARA News",
+      "publishedAt": "2026-11-25T01:28:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Holiday shopping scams: How to spot the red flags before you click \"buy\" - WGRZ",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ2dlcVFjV3QzWE5nVXQ4YmN5aENxVDAteEN4YjhnMFlpeFpxS2x1ZEhhbHJJTUN5NjRHeXlyc2tWd2dNdVlWZTczbkRnRnVhejd0MW43QW5EQkNmMzF1VXEwOEVOUHh3QUg3THMzRWZDZnNiM1UxSjExSzltNmsyM1FndWpxM3NSaVc5bnM0al9QQmIzdmRfTFNPbVZLZEtUeVRGZkhfUjI2dDhOLWtzUEMxdmFqOGR6ZENiWlQ1aE56SGJwOFdSOUFBYmJYZ01jS0taUTdPZ1gyMFhrbnZOcnpuWmdWdw?oc=5",
+      "snippet": "Holiday shopping scams: How to spot the red flags before you click \"buy\" WGRZ",
+      "publishedAt": "2026-11-25T00:36:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Firm Detects Threefold Year-over-Year Rise in Phishing Targeting Online Shoppers - Nigeria Communications Week",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0dYQkFKamc1akRXVXk3ak1kei1KM0RVTlNjTWV4MFl4YUlyTFByeVRWT1hXdV9iSFplTnRUNXEtTWdHdG9rbTBWWXgwbmNsTFYydkFiYjBVbU1icXB0X0RlZnpQQld0dEtZVWhPQ1oxTWdFLXRsUlNfb1RKV0hCV0lDUER3TmVYSWVtWlRSVWtHSTZJSVZRcXc2LXNhemN2RDZxQ0V1M3gzTG0ySG9xZlBtM2FVQ0tkbFFrNHpQTHNJQXJXOHdLTmxLNlVtZnNhd3c?oc=5",
+      "snippet": "Firm Detects Threefold Year-over-Year Rise in Phishing Targeting Online Shoppers Nigeria Communications Week",
+      "publishedAt": "2026-11-24T23:03:08.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
