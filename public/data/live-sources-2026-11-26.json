@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:47:50.902Z",
+  "generatedAt": "2026-11-27T08:52:49.560Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 76
+    "total": 79
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 88
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 70
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -207,6 +207,21 @@
       "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
       "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part II – Key Findings and Insights - Global Network on Extremism and Technology",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSjFrOHpNZ0ZSOU1PYWJmUEhmMWVPM3c2TWRRd3dGVTlPbGtnUXI5cGVTOThnbTdhbUEtR1g5djhqWi1qTU1ZOVloVHB1N3ZmTDVzcXN6M0dmVE9XeVM4SU9HWEpvYVk4bm5QVVR5OFNiT1VMYXFyTWZaVF9nMnVIQ0h6NFFBTDZnMm1hdW1NQTdZaFZoa3pUbGlJMEktR2Q1ZkkwbGlYM0QxZzJud3Fmck41Tjk0eno5Ny0tQmhsd1dlV2tWemsycW5rUDB6bHdQdTRZTGdZSEFEWTNjOUFn?oc=5",
+      "snippet": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part II – Key Findings and Insights Global Network on Extremism and Technology",
+      "publishedAt": "2026-11-26T14:52:09.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -471,21 +486,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckZwVVpXTDhqLW1uOVFOMjZlN014cGl4TV9hbFd3aHNqTGpnOHhnNUV2c2xXYUZZLVZGbWhEb0NzaWNQX0JrWVZMc2xFUTVOaGo5d2tZWWZGeWhURlF1eTZzbTJGWWxvbldhbUZxY0JMUUhtdzhHQmRrcnBTZVFDLW11ZDVhQXF2cTE5eGswbzFiejZORjFRaVMxLTJkTXF5RkhZb19R?oc=5",
       "snippet": "Snap Faces Lawsuit Over Alleged Child Exploitation on App MyChesCo",
       "publishedAt": "2026-11-25T20:32:46.000Z",
-      "source": "Google News • Sexual Exploitation Online",
-      "theme": "sexual-exploitation",
-      "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "sexual-exploitation",
-      "riskScore": 52,
-      "confidence": "Low",
-      "severity": "Medium",
-      "corroboratedBy": 1
-    },
-    {
-      "title": "Education: Rising threat of online child exploitation worrie - NewVision.co.ug",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1Noc09uQXZVY0ZDUngtSkRJRklwM1I1VnFhWS01bW9GZmVnUGZHbXplOWZlVlc5b0FLUXJVcE1GNzRhRmpObi1VbjZCd3Fla1dBNmxIR2ZYdDI3QXVmWGVxbjlDR1dxbzd5S2YwR1Y4OVY0dUl4QTJWUWhHTTA2WHhOUms3SXNjRHFpRE9CV3c4ZnNxSmtVMDFqbmhuTE11a2JySVMwVVd6U3A3bmc?oc=5",
-      "snippet": "Education: Rising threat of online child exploitation worrie NewVision.co.ug",
-      "publishedAt": "2026-11-25T20:00:05.000Z",
       "source": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
@@ -767,6 +767,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Online shopping scams get faster and smarter this holiday season as AI helps build fake storefronts - News Channel 5 Nashville",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeEdERlNJZlRCekI5VUxWR19uV185Nkt4Nm9fY3o4NUJBVWZFYVg1a1JITmpPWUpZX3RTZE1MeFJhcXhWcTdKeExRTzdMMmxJd0ttemVDZXJXVFlRSnVoZmE2T0tVUjVsWE43eFJlWmFWcTdHSDB5M2xZUm9McHA2U2RBSlhpM05VY0NRMWs2WFNWTlRoVkZDSkpnbU1PMHFzZllRai1FWGlBVk9mTnJaNDJYdFdLNnNMRGJlbFNKQjFyNG95eUhnYjdJT1Q0U2R2RkFCYkxJVHpMRUU?oc=5",
+      "snippet": "Online shopping scams get faster and smarter this holiday season as AI helps build fake storefronts News Channel 5 Nashville",
+      "publishedAt": "2026-11-26T11:28:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Mangopay warns of surge in online marketplace fraud - SecurityBrief UK",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3JTTEsxQnhqNVZMUmd3X3NxNjdNU2ZsVnJVUmttZnBPUXdHRXNWWExLRVNwMURpVnlVZTVQWk5yOWpjcmp4Nk1qLUxZWW5hVmtacTRNc0lsVzZOZVlSTzFiMTFWZWdCWUlUM3NzUmRjc2t1NW9fU0lRVlByN0FtZVBCNHVBR0hfdlVySmRR?oc=5",
       "snippet": "Mangopay warns of surge in online marketplace fraud SecurityBrief UK",
@@ -956,6 +971,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kaduna Govt, CSOs Mobilise Against Violence As 16 Days Of Activism Begins - LEADERSHIP Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONnJ0OWtYNmVjRHl6eGo2QkdmNkZ0d29kd0ZZZnRLb05fRG5jTkpCekd0a1hMaWo4aUl2RTQzcVNySFhQaWdJd011MkR5eHlBVVRCZmhFMFJzUWNBZnVjUDY1c1pxX2tSUnh1SncxLUQ2eHBYNWU3N0MxSWRmNTYwdm44bXJJTm5IZk9kMTZTbWk2WjBsMnZWdWowUQ?oc=5",
+      "snippet": "Kaduna Govt, CSOs Mobilise Against Violence As 16 Days Of Activism Begins LEADERSHIP Newspapers",
+      "publishedAt": "2026-11-25T23:18:47.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
@@ -1176,6 +1206,21 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GM202VDhiNUQydk5EX0Nhd3BvZXJPQzdLcE5XdG9DeTVQdGJhOVdSNm5RUndNa2wweS1wZ3BXd1Btdy1VUWIwX295MGpfWlUxYnFaS25MaWJLd3BMQ1lFblpEN2RfdmxST0dJbVl30gFzQVVfeXFMTVhhbTZWZVZFODZmYTV5Y3BIdDNDanRoeC10b0ZfN1BGWlQ5NHl5a0dNdE9QTTFHNmpIdHpHZEtfOEphaU1Uc3BndS1QWlNYaV9aZlZGaFV0SThXdjlNYVhqRnNHU2VfRFFKUFJ6MkxLQjd1RQ?oc=5",
       "snippet": "Top 10 Best Phishing Simulation Tools in 2026 [Ranked & Scored] CyberSecurityNews",
       "publishedAt": "2026-11-26T07:40:21.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform | GBhackers Offering Exclusive Cyber Security News Coverage, New Research papers & Technology Updates. - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hN1V6WDdhajZOanBaWmo2dU1GWW9NRzRmY1U1eDBvT1lHWml1WXpidHpuOUt0Q1U3LVhaN2VpNHRyWlJzWWptOU1iYjV0VW9tWDJF0gFIQVVfeXFMTWQtWVVaOUQ0OGJ6QlNLUmR4MFVnN08xaS11eENLR2x2NnpvZUZ1X2owTFlRNW1DbVdtcHo2VFRKQW5LWGlXMTFz?oc=5",
+      "snippet": "GBHackers Security | #1 Globally Trusted Cyber Security News Platform | GBhackers Offering Exclusive Cyber Security News Coverage, New Research papers & Technology Updates. GBHackers News",
+      "publishedAt": "2026-11-26T07:17:29.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

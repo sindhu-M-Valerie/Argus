@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:47:50.902Z",
+  "generatedAt": "2026-11-27T08:52:49.560Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 88
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 70
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,111 @@
     }
   ],
   "data": [
+    {
+      "title": "1Password hacked: Customer names, email addresses exposed in data breach - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0FXUXNLZ0FyMldTODlHMWNPRHNmOTkwMFNCcmNmcGVNWjVkWDdnbjVLNUJSa0hHUHlsNmh5a1ZZa2pkS0JEZ2RBaHYtci1WcllJaUxYa1J4SjEtWTNXa2lqT1ZRQVJscG1Yal9FaXNUd1R4RG4wQndwWDBBdkJTbWlkMVdHWXZPcHUwMkZqekJIdlFsRWxLVm9tUGY4Z1hjSS1fell3TTEycjB5RU5JbHV3cHltaEFWdWJvTTI0NFZURnfSAcoBQVVfeXFMTW9RM0RMMHZUb3hRWGh4dXBQVF94ajhBWXdEQW9JbENqdlpZeVYyZjg1eUZlcml0dDhURDh4SGpuUHgwLVR5Z0xFUVJXeGFVclFwREhTUXkzTUJQYml0dUhPVWI1ZXh5X3A3T2pvRlNrcXRMODFCTUQ4Z3hWS0Vab0E5ekFxaENmSVU1WEpNWWl0bGpfWUsyR2E1eTlHZlVFZ255WndIVHk5aXpDUVdRZmh2UnJ1UEhyNVFEVldVcEhha2tOQmY1TzNmQQ?oc=5",
+      "snippet": "1Password hacked: Customer names, email addresses exposed in data breach The Indian Express",
+      "publishedAt": "2026-11-27T03:19:47.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Flight Centre investigates data breach linked to third-party booking system - Australian Cyber Security Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRktWOHgzY2Zrekk3MmFCTjViRThZblVmcXhJSGkyQlZLNzl4TXNPWFczeWJoemlhWExZRG95TkJlczhEMjFvRFZCZ0RVLWlFSV9HNFZrM2FvR2s4cHJwMUZ3NW94dzk5MWJick5NUURNWmxCcDFTeTJHZWpTQXdMMHZ6WUZBYlpLS3owTkpxZFZvWGlyWUZpVDV5QXRIcFRlNWh5WnV2Tk9OMzZaWE1lRUcwcXBZem9scUxXRTZOajY?oc=5",
+      "snippet": "Flight Centre investigates data breach linked to third-party booking system Australian Cyber Security Magazine",
+      "publishedAt": "2026-11-26T23:34:36.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Are India’s Banking Systems Prepared for Cyberattacks? - The420",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zOC05dE9EZk0tbmxjTGRHSE1GR3VMODlZbndOQWhGNHQ0UjFuQlBtRkN1TzZqclU4UHBCV1p4T0NhOTJBa2lOWlNDRUZIZXBXUnVRXzhwbjZpVC1sdzNz?oc=5",
+      "snippet": "Are India’s Banking Systems Prepared for Cyberattacks? The420",
+      "publishedAt": "2026-11-27T05:45:41.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Top 10 Best Human Risk Management Platforms in 2026 [Ranked & Scored] - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pNVZBemZWdVg1Q0pHdXgtU1BpS09lMUNOanRYX3lBamJ2MTItSm1YY2V3QkRSRVRYYTlaQU15c3l3S0o4ZE8zX0gwMDVyMGlZdE1taWJxWDlzSThkYzIwYU0zSTRFWER0TUx2TWl30gFuQVVfeXFMTmk1VkF6ZlZ1WDVDSkd1eC1TUGlLT2UxQ05qdFhfeUFqYnYxMi1KbVhjZXdCRFJFVFhhOVpBTXlzeXdLSjhkTzNfSDAwNXIwaVl0TW1pYnFYOXNJOGRjMjBhTTNJNEVYRHRNTHZNaXc?oc=5",
+      "snippet": "Top 10 Best Human Risk Management Platforms in 2026 [Ranked & Scored] CyberSecurityNews",
+      "publishedAt": "2026-11-27T07:20:34.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WATCH: DICT Sec. Robert Joseph De Claro said he has no information so far indicating monetary losses from data breaches at government agencies. The DICT is still investigating the incidents, including the reported breach at the BIR. | via JP Soriano/GMA News Visit www.gmanetwork.com/news for updates. - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU1RENFBKUWNnTVI2ckJLdWhqbWRhdExrNW13WXlHNXpFaFVQdXdtX28xY3F5UjExOFI2NW1YX0VoSG1yanlOWjJJN0U0Tk1KQTNCR1NyTjl0SWtRS0RLZWlGU2FSQWs0SzNRQnNGdk9Ya2VYQkJGQ0djakxyOWVNaVdtaDBGbUNZOEFjZ0htUnJfM1M0Z0FxRTB1NTV3WTNzblFfNHZPWkVSazBkcEZQeDZYdVJQc004TWt6UTlvZ3RUd0xxYlBaVGdKa3VuenJ6RkVZ?oc=5",
+      "snippet": "WATCH: DICT Sec. Robert Joseph De Claro said he has no information so far indicating monetary losses from data breaches at government agencies. The DICT is still investigating the incidents, including the reported breach at the BIR. | via JP Soriano/GMA News Visit www.gmanetwork.com/news for updates. Facebook",
+      "publishedAt": "2026-11-27T05:41:32.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers breach Erlang and Elixir package manager - Risky Business Newsletters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVhJUWo5TTlDZFpBM0NzTHNOdXY2dUFveS1pNG15UXhnaVZvVm1GWVNXWmJFa1cwLVRRdGt1dE81VHprM3hDWVZBejRrVHdTc2dDb2hyT2ExN3V1ckwydGdKel9IQWxsSDBKZzVzX2JHOUV5M2xZbkExVEswdU9tbmdZWmx2RkM0dFJWVlUtTW0?oc=5",
+      "snippet": "Hackers breach Erlang and Elixir package manager Risky Business Newsletters",
+      "publishedAt": "2026-11-27T00:18:23.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Zodia Custody Data Breach Exposes Client and Employee Details - The Coin Republic",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVENyZWlYZnRFckgxeUlzOUI1SXlLcG9xNm1qYmVsTVNpTUlUcG5jNjJ1QmNvR1YxRm9hYnZ1d3lxTTJYaHdkQ0FJOXNsZ24zSExEdDhFTC1QMC0zdDJJUWk1Sk1OekRsbjd2cmxUd3lIdWVWUDladW82akdhRmFnSGZ2TTk5cEVidm9GSU9fTUpGdWR2YUZ5dnREeUc1Ym5ZOXpyVXJCQlTSAa4BQVVfeXFMTWNIX2xhTWk5MjZKbmlwWHdRQjU5ckxIZXJ3blB5RnRtMHZFS1RheHdmUGRvM0xMT1ZnOThvRFdVZTJCWHVoazdPbnhkaXdyeGJpUVVISGtoTnl2Rnc1MFhNSGw0ck45OGY0djhDWFA0V045ZFNYdGVhU2p1WTQ4VnVqRkJhR2Q5bXI2MUpXbFV0N01qMkVrTEhsTGRHSExmcjZqYUtja2o2ZEVDQXlB?oc=5",
+      "snippet": "Zodia Custody Data Breach Exposes Client and Employee Details The Coin Republic",
+      "publishedAt": "2026-11-26T21:00:36.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Investment platform EasyEquities shuts down user access after another 'security incident' - EWN",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1pjZFVxWFd3RVd2NXZDSlc2WnFBSXdyOXdpSnZZb3laMUNKN29JU1NlczJ3eUpXenVvUkNzb193MXJsclNTVjJFUkttWmVLNHUtWlRoQTlUckZ6Vy1TTUl3TGJGSjk1NlU2ek4tS1hlQzRPQmlKdzBfRWpmMWMydS1MS2MtNm9DRHphSVpTeUtQRGtUdHJxZmF3RllfZm5SVUJ0eW5jb3V1QkcxUzI4dlZOSXhxcDNwbi1IRg?oc=5",

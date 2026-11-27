@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:47:50.902Z",
+  "generatedAt": "2026-11-27T08:52:49.560Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 3
   },
-  "message": "No verified news was found for 2026-11-27 on violence.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 88
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 70
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,51 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "PNP looks into network of ‘digital predators’ inciting school shootings, violence - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUEd5RUcwNVUzWVlHMXc2N1p2dVdNVUsxZ0VGd1dTNkRENGptdGozNkdEd1dGQUNpbU41ZW9zX3h1S0JyWnNHZkpBRjJwS21lSlJGMjljX0FJdTV3dTVaQ29sYXM2Rl96Wld0NElWTkFtaTRWQTRobGYzV2VsX2k4VmZKNXM3aDhYVXFsaEM0RlF6M0txSVUzbHJReE5xMFZQUGcw0gGoAUFVX3lxTE93MVZib0M0bC1JRzZIOEJJSmJWalMySFM3R0NjOGNuMkJqOG5yZ3J4QlJDU19sdWRPMWUzSTl6SU1UenppVE43UWlqWEZhS29sMlAxQjlDUTJVZDFYTG82MENVdENGZ3Y2VFFnZ2IyMHlYQmJIcnJtX19scEZvMDJ5aW1MVU5ETWNOazhfTEtOTExLdmp5TDl0cHBpb3ZLU0cycmM0a2JsSw?oc=5",
+      "snippet": "PNP looks into network of ‘digital predators’ inciting school shootings, violence Inquirer.net",
+      "publishedAt": "2026-11-27T06:06:00.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "16 Days of Activism against Gender‑Based Violence Analysis - Herald.co.zw",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUk1VR1VON3RWVlkzQV9vR2lMYUhSWURKZDVqVElVdFEtcUJjWWtadVVsbk96T1FaendlWWpmRmZBS1JsR2h1MDZtbnV3OWgyMUxKc0VPYlc3UUdJT195Ql9IVFpqU2k1SnFqLTlYMWd2cG4tNi1VOUZzVEI4QVRTckdBSnotMlpLUHAxVktwMENqcVQy?oc=5",
+      "snippet": "16 Days of Activism against Gender‑Based Violence Analysis Herald.co.zw",
+      "publishedAt": "2026-11-27T04:02:35.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Calls for regulation of tech-facilitated sexual violence - شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CYXJGSS10THVhS2M0ZjI2TGM1S0dhd1BHNEpQb2hTZ2tHRndJUHNtcXRWcGlhemh4TERCanZJNVkxQ1YyRkdwSEtOcE1TQnFZMDNv?oc=5",
+      "snippet": "Calls for regulation of tech-facilitated sexual violence شبكة تواصل الإخبارية",
+      "publishedAt": "2026-11-27T00:03:46.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

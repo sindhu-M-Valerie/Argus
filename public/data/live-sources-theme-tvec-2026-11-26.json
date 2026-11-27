@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:47:50.902Z",
+  "generatedAt": "2026-11-27T08:52:49.560Z",
   "snapshot": true,
   "date": "2026-11-26",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 6
   },
   "message": null,
   "sourceStatus": [
@@ -16,7 +16,7 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 88
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 70
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -181,6 +181,21 @@
     }
   ],
   "data": [
+    {
+      "title": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part II – Key Findings and Insights - Global Network on Extremism and Technology",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSjFrOHpNZ0ZSOU1PYWJmUEhmMWVPM3c2TWRRd3dGVTlPbGtnUXI5cGVTOThnbTdhbUEtR1g5djhqWi1qTU1ZOVloVHB1N3ZmTDVzcXN6M0dmVE9XeVM4SU9HWEpvYVk4bm5QVVR5OFNiT1VMYXFyTWZaVF9nMnVIQ0h6NFFBTDZnMm1hdW1NQTdZaFZoa3pUbGlJMEktR2Q1ZkkwbGlYM0QxZzJud3Fmck41Tjk0eno5Ny0tQmhsd1dlV2tWemsycW5rUDB6bHdQdTRZTGdZSEFEWTNjOUFn?oc=5",
+      "snippet": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part II – Key Findings and Insights Global Network on Extremism and Technology",
+      "publishedAt": "2026-11-26T14:52:09.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "12 terrorists killed by security forces in Pakistans Balochistan - Daily Excelsior",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHB2TkV5YnF1YTIydXp0WnFwM0VudzJ6VUptMk0zaS1qRGJMNDBVUDdCSXFWRDdJS01pdTZPUmI5NnhPc0FsX2pETl93OTd2ZGYtbGJ2U0t5QzM0Vnp5c2V2NVZLWG0ySGlWRGJLa0tCSnFMUDZuYVlFNlNGeVBEUzJlYnNnblBJMV80WjdUYVBqZTFWTXU1d0liODLSAaABQVVfeXFMTkRQUk1xN01Ob2FQYlJoT0VYc0VxZ3lraTFHY2JGUmRkVEpCUlVLRkxUOElkemM5QjRIelEtbVltYVRUd3MyT2ZHb3FFcTV0Y1VVX3d0bEtqOHp5cjVmRlJDSjhWT3AzSFlFeU9xMmNfRHlBa3Z6X3BEdFZKRzZYNkRQQ202eUtUcUVXVFR0eFM2dXBOZklIR3F3cHpPeHZ3Qg?oc=5",

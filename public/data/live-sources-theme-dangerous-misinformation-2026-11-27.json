@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:47:50.902Z",
+  "generatedAt": "2026-11-27T08:52:49.560Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,16 +7,16 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 7
   },
-  "message": "No verified news was found for 2026-11-27 on dangerous-misinformation.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
@@ -30,28 +30,28 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "label": "Google News • Human Exploitation Abuse",
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 78
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 46
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 42
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -72,7 +72,7 @@
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 24
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -86,21 +86,21 @@
       "theme": "tvec",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 33
     },
     {
       "label": "Google News • Illegal Goods (India)",
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 16
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 88
+      "itemCount": 25
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 70
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 35
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 31
+      "itemCount": 32
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 76
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,111 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "WebQoof Recap: Of Misinformation Around Bisleri, China, AI Videos & More - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcndCX0JzQ0RnOGpfZ25QWHhTT3k0OXdMU2hQWTRiNXNDWEtBbGRKS2p1X2JuZm1BNExXQTRERmVtWG85eFRlNE1CWm1ZOEpCaHgtY29yLXlvcGFCTHM2U2dEOGhiQjVfVVh5bC1GaXk3NTRFOFFFaFpQRy15VC1YeWxhY0FRWUVpOFNHdXFiNGliZkhVX2trVi1aRm44M2VQTEpxY9IBpAFBVV95cUxQcndCX0JzQ0RnOGpfZ25QWHhTT3k0OXdMU2hQWTRiNXNDWEtBbGRKS2p1X2JuZm1BNExXQTRERmVtWG85eFRlNE1CWm1ZOEpCaHgtY29yLXlvcGFCTHM2U2dEOGhiQjVfVVh5bC1GaXk3NTRFOFFFaFpQRy15VC1YeWxhY0FRWUVpOFNHdXFiNGliZkhVX2trVi1aRm44M2VQTEpxYw?oc=5",
+      "snippet": "WebQoof Recap: Of Misinformation Around Bisleri, China, AI Videos & More The Quint",
+      "publishedAt": "2026-11-27T06:30:44.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 59,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Pakistan's Online Disinformation Campaign Targets India With Deepfakes, Fake Identities - Dainik Jagran MP CG",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMUFkZlNJMjAwVWkwTkJUUVYtQUJvSDRSVWFoWGFxczdxc0oxb25FX2s4MzVTNk5FWkxKNmFMbDJyVlBRekdOemRybFV4TnJkSm9rYXpNbUNNYTNZT0xRczBIVXdqZURwVFRrV1M3OHRZd3hWQ3NYbFFUbFVBcVVmRERyakNsVzFoS0Y0SExXTHI2RE9VZGxTNm9XbF9tNTZtMXQ0X1gzU0tpdnprX1NzM1ZHeGQxM2I3S0JkNlVEUlFxWXcxSHFNS0Zqc1VuOExtZ2VBRmNza2VKMVNrS0E?oc=5",
+      "snippet": "Pakistan's Online Disinformation Campaign Targets India With Deepfakes, Fake Identities Dainik Jagran MP CG",
+      "publishedAt": "2026-11-27T04:23:07.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WebQoof Recap: Of Misinformation Around Bisleri, China, AI Videos & More - The Quint",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUllTV3Z2bHFJSDJzYjlERWZELWZHMHg2bDh5bWhOWlh6T1VLZnBxM2p5VlFiRXRxNm1VRVdWZWZRRS1lVzhEckZqLTN6YnhXcjhGZkpQTWNHdEN5ci1rUjk5THVuMUp4M0F4U2trdlRUd3V6Q3ExdTdLcExfSnNHakZnQ2VmMldsR0FXb2FRN0xDX1dFSnlv?oc=5",
+      "snippet": "WebQoof Recap: Of Misinformation Around Bisleri, China, AI Videos & More The Quint",
+      "publishedAt": "2026-11-27T06:30:44.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 55,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Fake AI Videos, Deepfakes: How Pakistan-Linked Accounts Are Targeting Indias Security Establishment - ABP Live English",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnYxZkVaYmxaTkh2OTFpVy1QdkpTd2RzOGlTa3J6bTdsN3A1ZFZaVnZ2ZVVuOEV5b2loOGJKUGZOT2FSSUoycGVwVjhaanJGcjZpLU9zcUE4cm9hQk5uTy1vaE1RM2l3cTZVOVZCNmZZY3pIUzFUNkRVeTcwLUV5RTMxelV5bmFfakI1QURTVlNsUUVpd1Q0Sm9KeUhNVExLNXFnVk5YdEpjbU1RLVg5QnM3bzc1MHpURXZCVjVDcDFLa19LcGUzOUsyakYyZTdDNEswVzd1Uk1sZ9IB3wFBVV95cUxNNlRTd3Z6WUlxaVZHdjhRbmctc0tYeEVwakw5OXVqX3d6RVdKV2VTcTJlMkVvdVVISWNUTmQtXzIybURGaUdkNzFrd2xYSjdxY0tIdTZXdTFsOFNTWDg0dVJBM1kwdnNjMEt3LXZfbXZjbUw1d1BKYWotaWNIYldpdWU4cUF0YXkyb3J6aVRUak9qTU12X2JNd21DX19LZGRxQ2FnY2lZY0xqaC1vYUpVX0pQZHl4WHJmX3BLQkdPcHNJSWtJa04weDZ4OWdnWGxxLXAtZE90NDhEYmxFQkdN?oc=5",
+      "snippet": "Fake AI Videos, Deepfakes: How Pakistan-Linked Accounts Are Targeting Indias Security Establishment ABP Live English",
+      "publishedAt": "2026-11-27T08:05:44.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Indian Identities, Deepfakes and Communal Tensions: Pa… - theopenpress.in",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMnhDSVZsWGRqdndNazEtU04zVGV0RXdxWmYyT0Q0TzQzNzBnVlZJcWFqbThVNDh3MVdKcEI4V3A5QmdodlIxVlY0djU0blpHaklvMHJ4aUNjc1loT2Rmc2o4VXB3WERPTk15QmNndEh6eFR0Ymd1dGFZVXF3aVRmcVdBaDZYbHQ1MEI5a3k4R2pzNXg2Uk1hNkJjMEdLUQ?oc=5",
+      "snippet": "Fake Indian Identities, Deepfakes and Communal Tensions: Pa… theopenpress.in",
+      "publishedAt": "2026-11-27T07:52:07.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "'Fake news': CJP's Ranka threatens legal action over claim leaders fled Nagpur rally venue after Look Out - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY192dmI4Z1NsS1JBekt6NWpSaFoxdVZYbG9CQU9DSWpfZVdjZWROOWNPNEZOOEV5SjFEZUctLTc2MVZWbHJXWjYyOFRPTEYyLUZTMzdKRU5wcjIzNDRuSjlTVGFSYThVMkZkLVJOczZTbF9Tb3hTOUNZUVgtWEE5b20yazJzamtiZkM1QTJTOUZfLW1raVA4dHJPcUJnRzJQWG4wTlhIWXYtQW91UEZxRnp2aFZYSVR4LTlVM09OU005UEJiWDU4aGdQZVpENVl5WHlFdlBjdDY3YXFTb2MyNmh3VF82cGRnNWR4TG5GbXBpUGpza2lxWXBDYmZ0enpJTFhGeXNHY2ozVDhtajhtV2Rscm_SAZoCQVVfeXFMTTRQVFR1LUFpb2UzdHk5S2FpSG1zMk9tYl9yUTM3eUNxamtUMk9ka1Y2OW5MZUZTeDJLNkZpVUgyazVha1JwVW5xQjV3b3JBdThsSzcwbENVZWRoVWpydmg2Wldpc3NBcVNMOGZITkdwNkY5cUw0NmRhOS0xTHBUTldTcDlaT3pJbUJieEZOQl9jeFI5MzlsOEh1TmFTek9FZkxfWXQ1N1d4Vks5M211dTJtLUpuNVNvWlZVV0xmWVh0TV81VWRvX1U2alRlN2FtM3d2VFE4R0dCcTl3c3pydjd3cU9QSmJSMWV4NnpoZlNWaFFBbC1pZU1IN2ZFRUFxaXBMX2ZwMWZpQ3FIN1B0RzZyN1FONHRxX2Fn?oc=5",
+      "snippet": "'Fake news': CJP's Ranka threatens legal action over claim leaders fled Nagpur rally venue after Look Out The Times of India",
+      "publishedAt": "2026-11-27T04:48:00.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Fake Indian identities, deepfakes and communal fault lines: Pakistan ups targeting India online - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNjRvLW1KdWNkdU1LVlVvTmJuT0d3bTlnenJRdU5NelVWT2JCVXZiQXMtOThIWXFFRzBTamZmOW01Qk0wQXhTSVpSMnpjYzc3V0lnVUQxTnQ4QVhEeUg1RktFMk80WXdlby1nemlBNnBfREh0VnBxSmxxeUFmVzh3VTdNRk9LbDVrSVFNOWgyMjQ3aGdZQnBBQ0xHZFlBX1RmYmdDVGMwdlRrd0ViTkdZV2IxUTVQTGU5UWc4OU0zQlhvMlhLZFRNNXJHbEJ1Q1NOeU00akZB0gHbAUFVX3lxTE9tU2pMbThKaHBhWUotMjRZajV6WlJrU29RVXVvTVNOZGR4OG1Jc3hFcnJCSkdoVDRsVjFKMVBMa2VDSkpUSkFWc3EzTmpsYXZLR1FlZ252bmZteEREeUMyMGhfSExfM3JNVExwMERHa21Gcll4WXNKMDUzZFlJSzFJZ19WWlMycVhtRnlCdmN1UGhDU3JUeXE3MDM2bjVaQXZrbGV1N2ZqUWUxV096QU5ENThORWtRMk9WTGtKbW85V0Rock5FWXh1a1dJMkxURGg0QU1jNE9YLTJVSQ?oc=5",
+      "snippet": "Fake Indian identities, deepfakes and communal fault lines: Pakistan ups targeting India online Firstpost",
+      "publishedAt": "2026-11-27T01:25:08.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
