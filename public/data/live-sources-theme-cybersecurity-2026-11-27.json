@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:52:49.560Z",
+  "generatedAt": "2026-11-27T21:30:14.032Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 8
+    "total": 31
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,36 @@
     }
   ],
   "data": [
+    {
+      "title": "Global Cyberattacks and Data Breaches: Inside the Late-2026 Breach Surge - Techweez",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqZ09nRjFvbDZtblI4X2IxR0pGWkRPTWJYS2FQRi1MMWlCMkMwSk15LUJfeEE0QmQ2M2RpYTZxR2NET1psakRZUE1TN2UzX2VDcTRVSmFPWWJ2b29PUUtXMFBqcV96R2tjbmkyX2h4bm9LRV84MDdjbTV3?oc=5",
+      "snippet": "Global Cyberattacks and Data Breaches: Inside the Late-2026 Breach Surge Techweez",
+      "publishedAt": "2026-11-27T15:16:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers Break Into U.S. Air Force Cloud Platform Used to Manage Military Operations and Data - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55ZWJVbVBLdHE1SjI4LVNjVk95cmV0X0o0VTk2ckZSdFFHTnpTTDFBY2xrdjYtUDNjUDlBTmpnc2pSODlhcmtaOU5jczV1UlVfWDc5b3Jpd2ZJd3BWXzRsQ2taLWVrbzJtaDRSNXJRYmF1Z9IBd0FVX3lxTE5rWmhDOG01TG5XX1Y3dzlJV29JNENJZXY0TVlXOXpNcUxGT3V5RWVzTXFlN1hDT3FDZFZqVjlRQUtxelA5YVlKQ2dnMnkyLXM1ekdWd0JkbS1HaFVldlU3N3gtS203X1NDd0FjeWpOWEVfd3doZ004?oc=5",
+      "snippet": "Hackers Break Into U.S. Air Force Cloud Platform Used to Manage Military Operations and Data CyberSecurityNews",
+      "publishedAt": "2026-11-27T14:06:46.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 48,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "1Password hacked: Customer names, email addresses exposed in data breach - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0FXUXNLZ0FyMldTODlHMWNPRHNmOTkwMFNCcmNmcGVNWjVkWDdnbjVLNUJSa0hHUHlsNmh5a1ZZa2pkS0JEZ2RBaHYtci1WcllJaUxYa1J4SjEtWTNXa2lqT1ZRQVJscG1Yal9FaXNUd1R4RG4wQndwWDBBdkJTbWlkMVdHWXZPcHUwMkZqekJIdlFsRWxLVm9tUGY4Z1hjSS1fell3TTEycjB5RU5JbHV3cHltaEFWdWJvTTI0NFZURnfSAcoBQVVfeXFMTW9RM0RMMHZUb3hRWGh4dXBQVF94ajhBWXdEQW9JbENqdlpZeVYyZjg1eUZlcml0dDhURDh4SGpuUHgwLVR5Z0xFUVJXeGFVclFwREhTUXkzTUJQYml0dUhPVWI1ZXh5X3A3T2pvRlNrcXRMODFCTUQ4Z3hWS0Vab0E5ekFxaENmSVU1WEpNWWl0bGpfWUsyR2E1eTlHZlVFZ255WndIVHk5aXpDUVdRZmh2UnJ1UEhyNVFEVldVcEhha2tOQmY1TzNmQQ?oc=5",
@@ -227,6 +257,276 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Hackers breach US Air Force’s flagship Cloud One platform, raising security concerns - The American Bazaar",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEZzeUxrRmZ4am1UQzBPUC1TdzkwRHhqLU9mOVkwQ0Z5TDNhel9xdVp6SjFsNXBTNWx5RkRrNWxUV2lBLUZ6cnlUcWVQRmo1WUU3a0JjYzdGRUlad3lJUFJUNWplUlJGTUQwN0NORW5RRWV5V0IwWXFfc3lwWW5pblNDeDVRVFowcEROajllWWJiaElxeThjbGREVTl0di1qbl9iVG5VNmpVck9D?oc=5",
+      "snippet": "Hackers breach US Air Force’s flagship Cloud One platform, raising security concerns The American Bazaar",
+      "publishedAt": "2026-11-27T18:14:20.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Taiwan's Wan Jia Fu online shopping system hacked; website taken offline for emergency repairs as member data may have leaked - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KalBuRWJvamI4YVhJRmVRQ2t1TVM5YllhaV9xS29OYl9wbG0tYlRhZjlYUmlsOFVhTHN3OGtReE8wMzJKeWJIRzh0dWNSdXpiRGRtVGJaSDFRWnAyVFNfbFJnbEdTYjgyY2hJTmhWU0F0NjdvZkE?oc=5",
+      "snippet": "Taiwan's Wan Jia Fu online shopping system hacked; website taken offline for emergency repairs as member data may have leaked BigGo Finance",
+      "publishedAt": "2026-11-27T16:55:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US Air Force Cyberattack Raises Questions Over AI’s Role in Growing Wave of Security Breaches - Vision Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHVmN3BUS3RLTm1SX1NSTXQySjJGdVNkN3JsTVllU1dtbGotRnRpM25PSFhkTTU3clh0LTNrcENKTUVmMzhYM0pUUzhveFVYLUZOYWR0XzRRRkoyZ0h3Ql9VM3JuYlFhRGJmY2lXaUpQUV91dEJOajBnQTNjSGtGR2FTTjFZSVRmVGZtRUpoYkdPLVNNc2xyOWdMM2N1Rm0wbnlHNjNKUXFOTm1va2dpSU9ueEVPWk5CUXBBbTQ4Q1Z0cXJtQ19xeE1ENWQyR0JIb3c?oc=5",
+      "snippet": "US Air Force Cyberattack Raises Questions Over AI’s Role in Growing Wave of Security Breaches Vision Times",
+      "publishedAt": "2026-11-27T16:23:22.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Best Egg data breach exposes 792K customers as Barclays reports separate cyber incident - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tclBmZDJNLUh3SDJNZzFDRXlUaW9JaXRHemdaQzhTRnBrUHBZd1VXS2NoUy1zVW43R0pFdE15R09zemNkLWhzNnFrUDA4eWJFMHdzVEZWaHllc1V2anlkbDdPVEJDcm85SGc5Qm5KaTFMU3BkR1FGVFRR?oc=5",
+      "snippet": "Best Egg data breach exposes 792K customers as Barclays reports separate cyber incident Beinsure",
+      "publishedAt": "2026-11-27T15:49:19.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Best Egg, Barclays Report Data Breaches Affecting 819,000 - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzI5Ui1pRjZOeWlLbjZ0MzBxMFdpb0dVSkVzcHBBRFFmTWI2bVV5WlZpZkh0RU5xbTdacWtBYjQtRnhtZGdGSVM5MDBnVTVMNG8wWFNtYWY1VmNqZFpUTDZFcTVJNmhVaWpNWnBxN2ttNWg2cFhfZEpWR2pMNDJHazA5eFplZDA?oc=5",
+      "snippet": "Best Egg, Barclays Report Data Breaches Affecting 819,000 Wisevoter",
+      "publishedAt": "2026-11-27T15:36:26.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "AFP cyberattack forces news distribution platform offline after security breach - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa09kYzB1RVRpdEc0SjNwRUdPNmJiNlFMVHBvaEZOTGdKUHVhTlJ2bmg4dkVibERSVVZ4Ul9DU1lEMlduSzVpc1BZUkVDbGhBMWR4dGVfZjBFLU5HOW1TWDNLXzdhT3FhazZyWmJLSVdaMnFsZWdNdmNORWM0OGZtWVZrcw?oc=5",
+      "snippet": "AFP cyberattack forces news distribution platform offline after security breach Beinsure",
+      "publishedAt": "2026-11-27T15:29:19.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Handsome Boy Hacking Club Hits on FIFA Security Database - Sports Talk Florida",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMDdsb3paelpDa3ZjeWF5OVBQOE4tWXUtRWFDQ0xIblJkelUwVm92N3l3OFlNcV9QNGhvYzBrWk9yWmM5OHFOUVI1bEJDLUVVcm5pRjloRTZya3dXazZBSDFiZnZDWlFFY3cySVAtV3JxSXhhaWxNeUIyWmVRVVgwSXNR?oc=5",
+      "snippet": "Handsome Boy Hacking Club Hits on FIFA Security Database Sports Talk Florida",
+      "publishedAt": "2026-11-27T15:27:28.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUTh4ejNOVG9leWRObWRaZzJpRnhfRy1HZ2dVQ2huZm8tRFZqd25VcHU2Y2o4eFNaVXRvQVlOSzJ2Nk1wQmhiSG1pWjk5Z0YwTXN6Q1MtTUF5LUVzV2dTSHZaS1piUnNSVG1uM2xwdkNtZktwS1FKTG9kWHZjS1F1LUoxRUpzQ1FzTGtmWTk1R2c5R3FOc09HbmNZcTRtMFVVVTU4SVI1dGhIMDlwTkllLWFFaGtxVHF6RVE?oc=5",
+      "snippet": "US Air Force cloud platform reportedly hacked in latest federal breach BleepingComputer",
+      "publishedAt": "2026-11-27T15:09:40.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EasyEquities suspends platform access after cybersecurity incident - Moneyweb",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWkVwTlA5RlhPZUlGLXM0Yy1LM28za3pMMTg5T2VkTkpFNmJtM1RfRFF6a3RjdjdZVWhuWjEzcTRJVGRMN1lxWVFRTWtUSTFBSFNDNzFDR0tPYURlaGMta2hDN0RZVGdpMlUxQk1BVUZ6Z1lsTzFqbC1LVWRuUUJhWGx4ajQydzd5NlhhalN3SzdEZHlLcFA3RXR3engyc2NoOGJiT1R4LUJKSlFLeTUxRDNCeThoN3RGUVFV?oc=5",
+      "snippet": "EasyEquities suspends platform access after cybersecurity incident Moneyweb",
+      "publishedAt": "2026-11-27T15:00:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "US Air Force Cloud One cyberattack disrupts military cloud operations - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWhidkNBX3U4QmVMbW93VWtTOXBhdEpoSkd0Q2lXbFVmRHFubzdrNkg4bXhJUlFDUWt3SS1rd0FSR2xJZ0NjTjU2WTZmNTR5WUExN0FRUnJmb0F3NWhpQkxyaVZwSGIwUUl2RXlCOGdsUmRDNXc2ajVmM2Z5cmtkUmJpS0JiZGs?oc=5",
+      "snippet": "US Air Force Cloud One cyberattack disrupts military cloud operations Beinsure",
+      "publishedAt": "2026-11-27T14:49:17.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Did the FBI get hacked? What is confirmed in 2026 and what to do on iPhone and Android - 2-Spyware",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UQ3h1dW9QRVFZaEIteGFPMmk0TERTbVRLTkkzbGYxdk9jWEVjZWJIVkJlMFpNbWJhbW5jU1J4LVhnT0pSY19rNFowVVFqQlYzSUN0S1V5NkJPWUpaYjZ4bVE2WTJEYS0wMkxteQ?oc=5",
+      "snippet": "Did the FBI get hacked? What is confirmed in 2026 and what to do on iPhone and Android 2-Spyware",
+      "publishedAt": "2026-11-27T12:13:28.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Flight Centre Data Breach: 500K Names Exposed, Passport Details at Risk - eSecurity Planet",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVENXTUdvQjg3NGZjdThNZHFIaG9fRXlueTFUckQxX3BhV0gyU2Vlb3dLX2tPMXFfSEJZUEJITzRkdmR3YnRnX29XNTZNRTNQQ09sM25yUjVBcFNsQUJlaXJ2NllUdFpjZl9HRDAzVDdfQUlIdXRnT1cwUy0wUmF1Mw?oc=5",
+      "snippet": "Flight Centre Data Breach: 500K Names Exposed, Passport Details at Risk eSecurity Planet",
+      "publishedAt": "2026-11-27T11:48:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Quest Diagnostics hacked: what happened, is your data exposed and what to do - 2-Spyware",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80MDBucktPZENnQlNKdGFJRnc5YmxGMU8tUjcxYzBQUXBuM3ZaYm5XUTJEV3pfMHk5Z0lyMTRvZzdhLWs1SkVobjdFNWFGRUZVbVpqblFqZUpGWFZFb1pWNll3RTQ0S2I3NkptbF93?oc=5",
+      "snippet": "Quest Diagnostics hacked: what happened, is your data exposed and what to do 2-Spyware",
+      "publishedAt": "2026-11-27T11:43:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EasyEquities shuts down platform access after cybersecurity incident - IOL",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb3dfdDh6ZmFDb3ZOS0FycVFtQVNQdXFXdG9WcHFnZDZfWmV5WXFhYno0NGRha250WkNKVFBnUHpUeGNYWi0yQlZ1R1dpdnJHYzhzbFVsX3ozanFjb0VSX1REbVFFU0EyYnZVME1qRXlPU2FVbEJkS0R4S2VWcWdmSjFCQkl1Q1NjeF9qY2Vvd2NkeGs0UlMycVJNeVowRTdHRzJ1TDJBb0lWZGc?oc=5",
+      "snippet": "EasyEquities shuts down platform access after cybersecurity incident IOL",
+      "publishedAt": "2026-11-27T10:39:28.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "From Bengaluru to the Global Cybersecurity Map: Five Indian Companies Redefining Digital Security - IT Voice Media",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVZPNFhUamRVVm9iVUdVeXJpbkZmRk9QdkctdEc4N0oyeW5yT3YxXzljaDF4cFFpRFZiblV0dVVVa2FLaGk1Zjk2X3duOUFxTElRYU1QeG9CS3ljRVFGcnBPRUtOeENTWVk3WUkyemltUXc4ZjkyamdKTWFvb0NvMzlvR2pFY1JJcldESTNVNHJoYjY4MkRJYTJnNUhMLXZET0hOa2RFOURFS2pGYUNqMUhFeFJCUTQtOEpn?oc=5",
+      "snippet": "From Bengaluru to the Global Cybersecurity Map: Five Indian Companies Redefining Digital Security IT Voice Media",
+      "publishedAt": "2026-11-27T10:29:14.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Flight Centre Travel Group warns of customer data breach involving some passport details - Help Net Security",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzd1bHlXNlZVNWJuTGVhVDFEcWFwTzFub3MtYkFJOF9YWG5NZ3dpb0xIb0tZX2hHYm5qNlZMT2d0V2JUYldsRzh4c0FlbGVWbDVvTmRYZ3k5VFZkTFFRbTktdThoWGktM3FqX20zNHk2Vmh6Wjd4YjJiN0hZYk1XOFdjdlpReU1kaXBTNER2NHNzWFBabzRFWE9qcUVCdw?oc=5",
+      "snippet": "Flight Centre Travel Group warns of customer data breach involving some passport details Help Net Security",
+      "publishedAt": "2026-11-27T09:31:44.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Black Friday or Black Fraud Day? 7 Cyber Traps to Watch Out for Before You Click ‘Buy’ - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51SGtJTG84TllDSUVaR2loN2xaYXdmME1ZRUsxN0kxMWRIQ0FIT0dkQVptaWNQYU5pLVdEdWR1OEZzUVdLMjNSRUhkaElZOWFTcVdlTWRLT04yS3hmOTJOVnNfWk1VRXJiRDd1VHM3UdIBdEFVX3lxTE5aYzhRVXhEd3lST2JKRnlFeExtaENnQXdIN1g4alZNeDU4NXd1aVlHd0swLTA4anUtV09WeDhvdGpZVFRIU3MwT1dMcGxDQlF4Z2hNN0c1VlpzV2RNQ3J5NV9LSkt4SUFKbTRsTFJFdWk4dVlS?oc=5",
+      "snippet": "Black Friday or Black Fraud Day? 7 Cyber Traps to Watch Out for Before You Click ‘Buy’ CyberSecurityNews",
+      "publishedAt": "2026-11-27T09:28:51.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "KOFST Data Breach: 210,000 Records, 16 Data Types - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWThrV19JcDY1anRzR0pBbDc5OUlweWo4d0V1a1ViQlpCVF9tVkRYTzd6dXlRdFRMMVZpbGRvdVlORGRmaU41UXl2NHJaMHVGemsxblZ6N01tYktjV09sbDJ4S1FVb1QtY1JlLVdYTXJTTENEY0JJbmQ4N1IxdDFTNk1GVnFZR3QzakFVa0k5RDYyWWRMbFp4cw?oc=5",
+      "snippet": "KOFST Data Breach: 210,000 Records, 16 Data Types shattered.io",
+      "publishedAt": "2026-11-27T07:48:57.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Top 10 Best Human Risk Management Platforms in 2026 [Ranked & Scored] - CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pNVZBemZWdVg1Q0pHdXgtU1BpS09lMUNOanRYX3lBamJ2MTItSm1YY2V3QkRSRVRYYTlaQU15c3l3S0o4ZE8zX0gwMDVyMGlZdE1taWJxWDlzSThkYzIwYU0zSTRFWER0TUx2TWl30gFuQVVfeXFMTmk1VkF6ZlZ1WDVDSkd1eC1TUGlLT2UxQ05qdFhfeUFqYnYxMi1KbVhjZXdCRFJFVFhhOVpBTXlzeXdLSjhkTzNfSDAwNXIwaVl0TW1pYnFYOXNJOGRjMjBhTTNJNEVYRHRNTHZNaXc?oc=5",
       "snippet": "Top 10 Best Human Risk Management Platforms in 2026 [Ranked & Scored] CyberSecurityNews",
@@ -242,10 +542,55 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Common cyber security mistakes and the habits that can prevent them - ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRW1pdUdwa05tYmNYYzJnNDJ2NVlTZVpEbElWbWlvX0I4Y1VnV1U2cmlvS0J2VFBrR1BkelVGNlJHUmpKdHprZF9NQ0Z5QjIzUDJJdENuN3JadGQ2Rm5zbVhnT1BxSk92WWNhZm4yeDEtbjRTdUJ4QjNBdDFXejNhUmdtQzJuQTgxMUNCcU9iQk5iSDQweExVS2g3ZUJpWmNINlRJVHBvUlNsN1FscHBoT2ZJUnlKWHc?oc=5",
+      "snippet": "Common cyber security mistakes and the habits that can prevent them ITWeb",
+      "publishedAt": "2026-11-27T06:32:00.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "WATCH: DICT Sec. Robert Joseph De Claro said he has no information so far indicating monetary losses from data breaches at government agencies. The DICT is still investigating the incidents, including the reported breach at the BIR. | via JP Soriano/GMA News Visit www.gmanetwork.com/news for updates. - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU1RENFBKUWNnTVI2ckJLdWhqbWRhdExrNW13WXlHNXpFaFVQdXdtX28xY3F5UjExOFI2NW1YX0VoSG1yanlOWjJJN0U0Tk1KQTNCR1NyTjl0SWtRS0RLZWlGU2FSQWs0SzNRQnNGdk9Ya2VYQkJGQ0djakxyOWVNaVdtaDBGbUNZOEFjZ0htUnJfM1M0Z0FxRTB1NTV3WTNzblFfNHZPWkVSazBkcEZQeDZYdVJQc004TWt6UTlvZ3RUd0xxYlBaVGdKa3VuenJ6RkVZ?oc=5",
       "snippet": "WATCH: DICT Sec. Robert Joseph De Claro said he has no information so far indicating monetary losses from data breaches at government agencies. The DICT is still investigating the incidents, including the reported breach at the BIR. | via JP Soriano/GMA News Visit www.gmanetwork.com/news for updates. Facebook",
       "publishedAt": "2026-11-27T05:41:32.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybersecurity First: Why Digital Signage Must Put Security Ahead of New Features - Sixteen:Nine",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVk4cEgzTXgwRWJ4ZUlncUFHRDY2b3JBVmZJbmUxYjA5ejBzVmRMMHB6MDRWaEVpc3JoQUJtMXBXenpPN096Mnk1aDlrZENQVTRzWHZaZkQyZmtWcFVheTVnOTJwYkYxOVljX05WbFRtaFVtTXN6SU84WVB2b3ZpT3VabzlXVUdveEQxcG1kZ2xtUHZRX0RiVlE3QzZhbG9XN0pxakJ4Q0QyNzdSWGpXUXFHVQ?oc=5",
+      "snippet": "Cybersecurity First: Why Digital Signage Must Put Security Ahead of New Features Sixteen:Nine",
+      "publishedAt": "2026-11-27T05:06:57.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hackers using AI to find loopholes: HKCERT - 香港電台新聞網",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTZuZlFWd3BxR0UyQ0s4MEhDbzJjeHJMM2ZBSTV1Y21QQ2JDNnphaWRfalBpRHRQUFB6U3lzUHNYXzBmU01saFJFNnVqamw1MURVcVZtbXh6VloxWWtQV1JnRThhWnQwaDVlcjBnOEJWRWdsajBVcVNYdF9pcEp2NXBBRFNGOGM?oc=5",
+      "snippet": "Hackers using AI to find loopholes: HKCERT 香港電台新聞網",
+      "publishedAt": "2026-11-27T04:29:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

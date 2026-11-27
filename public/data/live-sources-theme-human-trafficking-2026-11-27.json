@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:52:49.560Z",
+  "generatedAt": "2026-11-27T21:30:14.032Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 1
+    "total": 3
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,36 @@
       "feedTheme": "human-trafficking",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian police in rare rescue of foreigners trafficked for cyber fraud - Business Recorder",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3MHliV3o5ZmVlUGhrVEU0UHZ6MnhSNTItOFNCSUo2dmo5QnY4V3FteFRpYXR1dlpFQXBLancxT0FGZHNHVUFXRnFLTk03THdKbDctcmxn0gFWQVVfeXFMUDcweWJXejlmZWVQaGtURTRQdnoyeFI1Mi04U0JJSjZ2ajlCdjhXcW14VGlhdHV2WkVBcEtqdzFPQUZkc0dVQVdGcUtOTTdMd0psNy1ybGc?oc=5",
+      "snippet": "Indian police in rare rescue of foreigners trafficked for cyber fraud Business Recorder",
+      "publishedAt": "2026-11-27T13:42:21.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian police rescue 164 foreign nationals from alleged cybercrime, human trafficking network - شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MMFZJWnVTWThLbTlMVFpoOHI1T0xlUlp5cHZtZGY1OTM1YW9wUFhST3NPaHBSNm1hTTloYjdDN2VWU0hjSVF0YVp5Mmp6OGw0YUx3?oc=5",
+      "snippet": "Indian police rescue 164 foreign nationals from alleged cybercrime, human trafficking network شبكة تواصل الإخبارية",
+      "publishedAt": "2026-11-27T13:12:54.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:52:49.560Z",
+  "generatedAt": "2026-11-27T21:30:14.032Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Columbia man arrested with child sexual abuse material indicted on federal charges - KJLU 88.9 FM",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVHM0UV9WUzdxcmFPejZKS2cwLVlUSTljcjJ5Q0tJal9WZElUdHFncVQ4Z2w2T01vZ0RldjRjOHdZZU1xYmZNX3hKRU9qdW9oaEgtMWFOYkZGbzNNU3lQTl91Yk8zdzhRaHMwTGhlcVBJS3Bpekt6ckl0bDBfNURXQ0lpOXJMcG5DYXFoUnRfYnBqS0V6UW4td3pKd01FSFVsYUtiSjdKS3J1dnlyTjlrTlFQVUJCY18zTVhpNGJKNUxqVlFGazNYWXdkSHFaRkdySW5Lak1Qb0ZfU2NWNkJEUEU5bnc2TVc1Q1dfS3NWMDllY29mMFBHc0duUQ?oc=5",
+      "snippet": "Columbia man arrested with child sexual abuse material indicted on federal charges KJLU 88.9 FM",
+      "publishedAt": "2026-11-27T12:30:00.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Online safety regulators unite against AI-generated child abuse material - Digital Watch Observatory",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oN2Rad1FDZG1POGhXZzFKemFzLTJoQjFISkdfOE9TQndvdGFBRHNHeXFFQVZ1aFV6eG9rSUxSZ0I0T2xYOVJFNmpqejFseHJOTnZWNk04TWhIM2dwZW1sV3BzZmZtd2FKampzSlkyX2lyZ0FjelhIbg?oc=5",
       "snippet": "Online safety regulators unite against AI-generated child abuse material Digital Watch Observatory",
@@ -193,6 +208,51 @@
       "feedTheme": "child-abuse-nudity",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Carlow man given suspended sentence for distributing child sexual abuse images - - Courts News Ireland",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmwtNXl0QjNQN3cyaUs1QVRMYVhNSldBaldSM0dmcDZxbjI0QkZRLVNwYzhrUGlIa1dybGtrUXh0YUFOc29PMW5hV29vdHRpbDdJc2NTUlI5UmNyalkzN293dnBVT3kyX1JQME0yYTNSYm9vczRBNUk2MERQXzc3TF9XdTc3TVV4U0VpTlRGdVRkeTl3dzVfRnpJdnlXRVAyNDZwaHIxMkU3OTYyR0VYd3ZkWldhdVJNSVNr?oc=5",
+      "snippet": "Carlow man given suspended sentence for distributing child sexual abuse images - Courts News Ireland",
+      "publishedAt": "2026-11-27T18:28:03.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Binance Steps Up Hunt for Child Abuse Payments With UK Watchdog - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGxNMmN2X2xzX1p0MlEwTURyMUI1ZmdiaTZPcFppUkpTUDltVjdPUW1Rcm1iVThBNE9DcTNKS0ltYldDY3dCbUZPVER3TGVlVEJ6R3J5YUlkMlFuX2ZaakxmOHBZaUUyZTV6UW96aGprMDdIRk82eVRsVGlHNDM3RjVUbG00Q0RTWU01MlE3QWdpS3NKc3gwdzJGZlJYQWZqSEMxM2VnMnJZRWREbW4yS09ES2Y?oc=5",
+      "snippet": "Binance Steps Up Hunt for Child Abuse Payments With UK Watchdog Bloomberg",
+      "publishedAt": "2026-11-27T13:42:16.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cross-Border Child Abuse Inquiries Prompt Charges in Far North Queensland - https://streamlinefeed.co.ke/",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTmxMRW9ZQXZEX05mb3NyVHpJMmV1ODhWYVBha01VQlcxNkdFTnNiVDFzeEpUcXp1eGlFQk9yanh4bUVtZzlmaDBZR0pUaFZ2ZWJWOFcwOU1Nb2JIVkhtM0FYd2FDcm1nUUg1Rm9SRk9zRGwxUUI0NExsYmdScmlFTWdmaG9EdllzVXl1QVBfUTlXa3dvS1FlbUJvY2U2eUVaVHJNcUtzMGxxSEE?oc=5",
+      "snippet": "Cross-Border Child Abuse Inquiries Prompt Charges in Far North Queensland https://streamlinefeed.co.ke/",
+      "publishedAt": "2026-11-27T10:41:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

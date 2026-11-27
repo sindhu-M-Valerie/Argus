@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:52:49.560Z",
+  "generatedAt": "2026-11-27T21:30:14.032Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 4
+    "total": 18
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Amazon Launches Tool to Flag Impersonation Scams - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVFzN3FQZHdxaHJUWUlmQ2pmTVU1M3pidlJVNEFidk00ZGdmcTZBTl9MTDVlWmgwZTFVYnRlUkFDMmw2cHZMRWtMME40UkRaWHptQ3NZUkJPcTJwbDQ0VUJUVUNyRUdnY0hXN25kQnl6RTRVRm5uaHNtMjN0TWxIbXpDdk9kanhsNlZiYVJha1lxejlVWGc?oc=5",
+      "snippet": "Amazon Launches Tool to Flag Impersonation Scams Wisevoter",
+      "publishedAt": "2026-11-27T18:23:27.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Kingkay recovery reviews: How to recover money stolen by online scammers - Cyprus Mail",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1ZmZEVtRDBYeHEyTWpWRF9CaXJnN0IxWEtPbFZyQk1WMnNBQmQxcVhkX3dScFRXbEZJV2RGN21IbXMyb1RJMV95RGc4Z1VhcWZUU201UjMtcEQ2Vm9RVGdVbFZubnBvcHBfYnk0WHB1bFRRaVN2R25tdi1MYTZWeVZuWDNEZ2xrZE5HSHlvUjM4MW8tWHNZTmdBaW9qUW5mMTd5dXlhZllWdw?oc=5",
+      "snippet": "Kingkay recovery reviews: How to recover money stolen by online scammers Cyprus Mail",
+      "publishedAt": "2026-11-27T12:25:13.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 52,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Delhi Police Busts Interstate Cyber Fraud Gang In Instagram Scam - Asianet Newsable",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWJlazV2anp5b0tQa2RUVnVXTlZGcExYNEEtV3JPX0xadndOQWxON0FnRmRfeXJVSEFGaERkNGpXdmIwdXR2TE9wUHMzd3lLanJOMVMydC1CZmZxeGQwMWRzNnFFMWMta0ltVVpPbkowVFlWT3JxNGpwcjJsVkxMX1dWalRaNFBOLWJxLVBmeTYyS0ppRUhRNGx1THdYZFB0ZUJ6dGMycnJGVk5aU2N4Vy10SktWV0tmdDhQZWZCaTdNS3NDNlHSAcYBQVVfeXFMTTViZWs1dmp6eW9LUGtkVFZ1V05WRnBMWDRBLVdyT19MWnZ3TkFsTjdBZ0ZkX3lyVUhBRmhEZDRqV3ZiMHV0dkxPcFBzM3d5S2pyTjFTMnQtQmZmcXhkMDFkczZxRTFjLWtJbVVaT25KMFRZVk9ycTRqcHIybFZMTF9XVmpUWjRQTi1icS1QZnk2MktKaUVIUTRsdUx3WGRQdGVCenRjMnJyRlZOWlNjeFctdEpLVldLZnQ4UGVmQmk3TUtzQzZR?oc=5",
       "snippet": "Delhi Police Busts Interstate Cyber Fraud Gang In Instagram Scam Asianet Newsable",
@@ -197,6 +227,171 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Holiday Cyber Risks: Protecting Identities From AI Attacks And Fraud - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0dBZ3k5amE0QmRkVWhmUmNadTMxS3RhRlo4RDVEX3hSMU0zc3lLTFZpcTJxZVZKOVN3V096bkZKVjRJTWZlNmlGdTlIUEc5c1gzTE5SZzZGWE9QRE9LWGUybXZpRHlpbEhOQmRKc1dWUUc3QURFeHJhY1M3aEtWLTVjMW5vbzgxQXc?oc=5",
+      "snippet": "Holiday Cyber Risks: Protecting Identities From AI Attacks And Fraud Yahoo News Canada",
+      "publishedAt": "2026-11-27T17:56:41.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian police rescue 164 Malaysians and Indonesians from Delhi scam ring - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHkzZHlzWV94WWtvc3FyekpEOE8zY001UmtLLUtsM3VqZ0tjeVJZckhjZUc5bTN2ZlJJdmszWW0wYzY2MXNmUlAtR3ZtU2doTEV0RXBsVDhkNkxaM2NsR0d3bmVjREQzNE51bTN2VV9SdmNqOS12ZmJOVEFyU25YTFdYNVU2N2JVS09ibkRKUExHVEVBeUNYZ28tRlp1eldQZXN2V2Q3V0xBeWJEQi1NZ1EyU2t3MXNPeklYVkJfRVQ1Sm_SAcMBQVVfeXFMTVR5M2R5c1lfeFlrb3NxcnpKRDhPM2NNNVJrSy1LbDN1amdLY3lSWXJIY2VHOW0zdmZSSXZrM1ltMGM2NjFzZlJQLUd2bVNnaExFdEVwbFQ4ZDZMWjNjbEdHd25lY0REMzROdW0zdlVfUnZjajktdmZiTlRBclNuWExXWDVVNjdiVUtPYm5ESlBMR1RFQXlDWGdvLUZadXpXUGVzdldkN1dMQXliREItTWdRMlNrdzFzT3pJWFZCX0VUNUpv?oc=5",
+      "snippet": "Indian police rescue 164 Malaysians and Indonesians from Delhi scam ring South China Morning Post",
+      "publishedAt": "2026-11-27T14:19:36.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Duke Energy removes hundreds of fake websites and social media accounts using AI-supported tool to combat utility scams - Energies Media",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qNjZNUmFOLU0yMzNfaGlaeVE0eFZxUzFGdXNLYW1Gcl9paFN2NXVFdzh6SVZOWU9iN1hoY3EzTGtpdWNDQnUtY0lOcTY3cC1ObzFRWWc1WGJwc1BMMWV3RXcweG1Pd3dGWUNOZw?oc=5",
+      "snippet": "Duke Energy removes hundreds of fake websites and social media accounts using AI-supported tool to combat utility scams Energies Media",
+      "publishedAt": "2026-11-27T14:09:32.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Regulators Weigh Platform Duties on Impersonation Ads - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaGcwcXV1WnlNc1BLSXhsSWxuZS1CRlkxTlFZSllNWHBfNVJrdzRWbGtVRjJEckV4NTlHVUMxblJjYmlVWW5xakhndHE5NDZ2VTRLQzB2WW5hMkdfRkZRSUs5SjVnQ2hHeDA5dW05d2doWU1RemdhSXBTZnhxazF3TVJVeHBvdw?oc=5",
+      "snippet": "Regulators Weigh Platform Duties on Impersonation Ads Wisevoter",
+      "publishedAt": "2026-11-27T14:03:24.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Warning about AI-powered scams: Online shoppers need to be aware. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOemJydEVuMW4yZVRhQ0d3dUNoTkdHdkN4czZRNG9KOGFJN0pKTmZpNERuZ2VDU2V6bWZnRE1uM1ZZcFRuZ29TdlJKZ08zbDlhSURueURCeG1MOTN5MXNBWDVnS25UcG91TG5vMWlKQnhoMVJ2VXFVSDE3eXJNbHhmbE1GdEZOZExJT3hLLUNQZURTQQ?oc=5",
+      "snippet": "Warning about AI-powered scams: Online shoppers need to be aware. Vietnam.vn",
+      "publishedAt": "2026-11-27T13:24:56.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Scam Ads, Fake Bills, And Robocalls: Who Is Accountable? - Dallas Express",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjdVNk9LaHVJSnk3Tkw5VFZBQTdZb0hSSTJCLVE2bkNRQXQ5bFJVVWJGdEtMdndjZHZRVDdkemNMT2JQM196bGpwa3NkdHZBMUVOWjczTVR5cDBFN0RTWEk0eExRazROanVGRWdKc3c1QUJVZGY4OEt6NmZ6LUpKeEd0SU9OMzdqNVBBdl9HamJLNXg1cFNaYVB6X3E?oc=5",
+      "snippet": "Scam Ads, Fake Bills, And Robocalls: Who Is Accountable? Dallas Express",
+      "publishedAt": "2026-11-27T13:04:55.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Shufti launches Fraud Hub to detect coordinated identity fraud - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84TXNZZlp1YldNQzZuUEdvVDR6UGJvODB3Tkp5ck5aVzBjY1AySWZLQWg2dklxN2dRUDBxUnpaT1ZLNEJoZWJkTEQ2ZFZhUUdza1I3aDhSRVg5S2pfTmV1MU9n?oc=5",
+      "snippet": "Shufti launches Fraud Hub to detect coordinated identity fraud Beinsure",
+      "publishedAt": "2026-11-27T11:54:11.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Beware of scams exploiting the trend of \"online temple visits.\" - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2ZEcjVISHd6cS04dnpOTC1NSWhMSEtwemFzSktaQ0p0TlJTVHQ3Vzd2MFdfU1ZpT3NGWTFJSWNZZXYyR3FuLXNiVFRzckozbzFnbVlFaVdKeTZtZEs4Yk56ektVRGJ2bzMyVlljVVVCTnM3amVMOGtFbE1kRXBOY3M5bzM1b1JLYUdZMDRZRmg?oc=5",
+      "snippet": "Beware of scams exploiting the trend of \"online temple visits.\" Vietnam.vn",
+      "publishedAt": "2026-11-27T09:18:28.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "MCMC takes down over 367,000 scam, fake and deepfake posts since 2024 - Newswav",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeDRFdlNtek9Valh6NXc5RXcyOVp4UTJpOUpSa3FXTVllUXlRRE8wSHBLYUJrVjN1VmpWWEVCUDl0NklKTXZNR3JETzFXbVduUXpsSW5pVV80cHBzRUZwV3BseEtVSHRUQVExaXNFV3M2LW91QXR1V0hUdUR5bXNCbnN4engyZTgtajE5Um8xZHRwZElDSzJMN3NLNDdqTmxpVzVXTE9FbjlsM2ZfZ2c?oc=5",
+      "snippet": "MCMC takes down over 367,000 scam, fake and deepfake posts since 2024 Newswav",
+      "publishedAt": "2026-11-27T08:36:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Black friday and Christmas shopping in Kenya: five ways to avoid online scams as festive spending rises - Africa Sustainability Matters",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnIxOGZ4UlJvNkc4Y2l2UFIxWXlfcFozeWdsbXgydk52OGd0ZHpKaWZWVU9JbVNNbEJyS3JHd180azBIcmNaVFZoSUlTam5hMGZkTjZ0YTFJejZSd1JQbGEwc25TOFo0V0FLTGZqUlZyYmFPUkptTVBLQUJzTFU2S1hsRzJOMjRrS3IwYWU5LTRaVTI5TGNMak1xcDRnTUdPMXJzOFBmLW1MRXd6bE5zdk56ZDJUeG9RMWdpRlNmYUlQczhzbE5SQmFkWVN2T1lHWm16eTRVcmQ3dkk?oc=5",
+      "snippet": "Black friday and Christmas shopping in Kenya: five ways to avoid online scams as festive spending rises Africa Sustainability Matters",
+      "publishedAt": "2026-11-27T07:15:22.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "QUICK TAKE | Delhi Police Bust Fake Instagram Shopping and Amazon Delivery Fraud: Seven Things to Know - Open Magazine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc3p0ak5KRkl2NjFEcnpPbzZadUNQZmlybG8tdlc5dndTSHc1eWJHYXRNRTc4bHRXNllDUDR4RmxZWHJfSFM0TTFSbEd3RTVaVmJEbXQ1U2NpZlI1MnctUWVJY1lsUEhFZmcwb2JoUWVvcmZyeWg3TExWV1ZvN25xRHN1ZjRXeDJEbGY5LW5JZkZIN0VQR1FzdFNiOGNHMlN5WXJrbHpkTUYtVWZlTHhtN0s5eFEtYmU2dkRqcEtIQW44T0tOekh2am45QXVOZw?oc=5",
+      "snippet": "QUICK TAKE | Delhi Police Bust Fake Instagram Shopping and Amazon Delivery Fraud: Seven Things to Know Open Magazine",
+      "publishedAt": "2026-11-27T07:10:39.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "141 Indonesians arrested in the Philippines over alleged online scam operations - The Straits Times",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0dPcXp6Yy1RR3JfN1dCLVVFQzA3LWluTXJaSGc0RGc0MC1RVkJnd0ZVVERiTW53WTAwRExKa0xJbHhNb0tqdGo2TlBOb1cxMEtsRlAyUnJtU0lFeVdfOHFnVHphcjF3aXJzenB0UHFJSDZxR1cxaENQNWVPZl9MYXE3T1JTVnIxQWYzLXJCQi1kS2NYLVZqQVRIYUhjXzllVjlQSEJUcGphOUI1ckNYTGI3eU5pVE01eEtEWUFuQzhnMVY5SkhpNVlpSWlIbUxKYnZNa2c1NVV6dw?oc=5",
       "snippet": "141 Indonesians arrested in the Philippines over alleged online scam operations The Straits Times",
@@ -206,6 +401,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "human-trafficking",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "WATCH: A new agreement between the Department of Information and Communications Technology (DICT) and Meta aims to speed up the reporting and removal of content that violates Meta’s policies and strengthen efforts to combat online scams, privacy vi - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1ZaVzJKQm5zbVdBcnhXSGFmRHFsRGdlQTE5R2tBRUFEcVlyeWNaMm0wd1J2Q0hOeEdNRFhudGFJMHJOLVNhYVFJR3E5MmVrZkhBdE0ybEY5SGlYc0JhVzZyS082d19KdFZfS2M4eUlkMDAwa0d1WjF1V1BBZFVRLTZXdTlqRjNrVTdUT1pKMERaQUJOZ0l5SGp3blhQdkpSQmpzU0NyRW5VYnFfVXVuWmU5U1U5RnU0Qjhfd0VmZ012RUNaWW50dlh1NE1Ja3VUWkpz?oc=5",
+      "snippet": "WATCH: A new agreement between the Department of Information and Communications Technology (DICT) and Meta aims to speed up the reporting and removal of content that violates Meta’s policies and strengthen efforts to combat online scams, privacy vi Facebook",
+      "publishedAt": "2026-11-27T05:21:11.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
       "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",

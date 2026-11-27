@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:52:49.560Z",
+  "generatedAt": "2026-11-27T21:30:14.032Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,23 +7,23 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-27 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part III – Implications and Future Directions - Global Network on Extremism and Technology",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMnF2LVJoeHdnLUVTQTVFMkZodVg5M1lWQWxSTHFaU2ZZcTFDMTBXdDk3aWNXT2QtOE5Ra3p3ZzJ3YWhDSVQxR0RmcllhWjFCbTEtWVEzQkxZSzZhQVNLdVM4bXE3YzZlNnlsaGp6aTRsdHBaWjBDZUgwdzNyOFNOTFJ2TUo3LXhGTWtQd3R1UG5qdU9pVmdZQTM1bEMxSk1oQ3B3dW54QkQ3bUk0S0Q1WUpaYUgyb0syYjduZmdHY29pM2cxODFUNUtaS2NsVHdncENaQUxKaEhBTVdqcTVCLUNUSGJWUWtBYXpLaQ?oc=5",
+      "snippet": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part III – Implications and Future Directions Global Network on Extremism and Technology",
+      "publishedAt": "2026-11-27T16:38:54.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India, EU push for Ukraine peace; condemn cross-border terrorism, stress free Indo-Pacific during 12th FPSC - https://www.indiagazette.com/",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQkxmd0hZdC1MYWkxcDBXakdOcjREamcwMDZyT1RaLU93VjZqZFFsS3lNT2JmcjZhRks1NDVkTmh2aVV1M3FVOEE0WV9jT2lIcjlPWnpfMEFTUkZwdnFZaGpLeTFkakNSZGU1OW5PTEs1MTcyU29NaFI3Vi1jenc2Qzh6bllxUGdXSENGUEZiSnhfUVpxVXdCYkl4b3p4LW5Dd0RZRDluaUdzcnc0TGpLLU5FaVpOUU51MEVCVHJuNklrc0ZFbGItSWNRcEtTU3ZMblU3bEcxd2FhYXEwYWxSTGxn?oc=5",
+      "snippet": "India, EU push for Ukraine peace; condemn cross-border terrorism, stress free Indo-Pacific during 12th FPSC https://www.indiagazette.com/",
+      "publishedAt": "2026-11-27T13:05:00.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

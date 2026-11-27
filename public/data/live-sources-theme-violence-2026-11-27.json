@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:52:49.560Z",
+  "generatedAt": "2026-11-27T21:30:14.032Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 7
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 73
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 32
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -37,21 +37,21 @@
       "theme": "human-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 79
     },
     {
       "label": "Google News • Misinformation (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 46
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 42
+      "itemCount": 100
     },
     {
       "label": "Google News • Online Hate (India)",
@@ -65,14 +65,14 @@
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 50
+      "itemCount": 52
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 16
+      "itemCount": 15
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,14 +114,14 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 25
+      "itemCount": 75
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 24
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
@@ -135,7 +135,7 @@
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -149,14 +149,14 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 33
     },
     {
       "label": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 80
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,66 @@
       "feedTheme": "violence",
       "riskScore": 52,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "PNP logs over 100 youth violence cases - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3c3NVVHV3FJREdOb3FhWVU1SG5IOU1rMHQzc0VSbVdrVmRfWlhVQmlVZU1JOWpWRnJ4SDVSVGQ3blhSM2ZsM1lBRnhKLTRFVDVEa1pDY0VhLTR4OXFUazRPLV9Tc3VHd0tlY0t5TWxibmdhZjRuMXdtdmozUDYwUXVkc291ZzAtVHJVU2JpM0c0LWVmSWd5Q3hQdWx1ZGJi0gGmAUFVX3lxTE5mQWJYUDBtQXI5LTdLNHNoZnRKVDVIY0FpZ25IcUxUMTVXaFhrdkEzcXQtVEFnZHZkR3V5eXZwSUx0QjVOTHBFakM4REhvam03cWdHbi1lVF9TMVYtdDcyLVBfX1RYMDFnUWpHNVdnWlUzS2d1Rl9BVi1GbGZac0ZfLU1obERIVlAxNDRkZDMwN0JxVE1yVDQ5S2xjaFZaMnd0azcyWXc?oc=5",
+      "snippet": "PNP logs over 100 youth violence cases The Manila Times",
+      "publishedAt": "2026-11-27T16:05:00.000Z",
+      "source": "Google News • Violence and Violent Crime",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "violence",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "EU takes action to combat gender-based violence and abuse in digital spaces - Tech Review Africa",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1dBTlBoSlRZNUJ0c0FwMnVmTWZnMW15TklxWk1qWmVpRERBNnlVWGRFRFBna3F4YkgzN2pIQjlERkVVUG1jSjVNVmUwenRiMmRLNTR2UXVjRXBlLUpjeWRTVlpmRXRFZkkxRTNxdm9mZDdRaERtUUotd05EcHNFbWcwU0JEZlNpbGQ4Nlg2Rm9KWXU1a3hUalNHNGNXN2RUYUJ3ZG1VZmNEZWVlZGNWX25kbHI?oc=5",
+      "snippet": "EU takes action to combat gender-based violence and abuse in digital spaces Tech Review Africa",
+      "publishedAt": "2026-11-27T15:36:54.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Calls for regulation of tech-facilitated sexual violence - RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVdVQzhrS2xTWVloLVNkZnkyZlMzU1IwX1pnRERNcWtWOHRvUmhGNmt6TFhXcUh3WkJHV25xRHR5ZWlMYzFXRC1UVTZmcnRjNXJQRmVMQzMxeFpoQlNVZDJadE5Ga2RoS0JWblJWRERISVR3RlFEUXBtSGZjdnBXOTBGTWtSR2NTZlF4a1pRTXA3MzlJanlSaVdMX0E3NTRTbHI3ZG1YcXZqYTg?oc=5",
+      "snippet": "Calls for regulation of tech-facilitated sexual violence RTE.ie",
+      "publishedAt": "2026-11-27T13:44:17.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Calls for regulation of tech-facilitated sexual violence - شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LVHJNUE1EcDVSRnRORFdVZk1YeHJlNlNnTHJFc2dEYm00SG1tdFBHdXR5Qzl4ZVJMNkV2c0NueGszd0taYUZRV0Zac1FIaDN0MU1j?oc=5",
+      "snippet": "Calls for regulation of tech-facilitated sexual violence شبكة تواصل الإخبارية",
+      "publishedAt": "2026-11-27T11:35:42.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
