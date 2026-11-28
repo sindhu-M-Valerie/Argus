@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:12:53.985Z",
+  "generatedAt": "2026-11-28T20:25:42.693Z",
   "snapshot": true,
   "date": "2026-11-28",
   "filters": {
@@ -7,30 +7,30 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-28 on suicide-self-harm.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,42 +44,42 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 51
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "NIMHANS to host first international conference on suicide prevention - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV3RtQTMxUzN0LXNhM19FWjhweVMwTncycUJtXzBIajZHVWxnYW03M21IUHVuSlZSVEluWVMya3BOcGN0ckExdzhwQkZUX01XUFVvRHlsalN0X2hZN09qQzZvSTktOUUwbXRqU0ViNXUzQV95VEsyZjFhSkxXTEhJaVB1cjJIc3NmdE16eW9aMmhsMjJVRjJDYmduSnF3ZF92Y19VUFQ5STNhZDZYTTFMZkViRldwbFp3enJrZWNlYlk3eUdoSm5YWjk1SHV3TUIzYnJv0gHaAUFVX3lxTE5QNEpJWjVOeVZuUDFhZzJkanV6SWZldExiNXZqV2pGem95TGZfZ05PbzVFanh2SmpvalhNV0NEREtfVUU0SzRiX1BLY0V1bnpCWHpyREpZemlHOTBKcFpWdUdrakxqclNGSTF2Y0NUYTlIc3F5LWwzLXdncnl4Q25NRWlMejdPTGltcW5WSVF3XzJ3NTE4cUo2VG0tRE4yUFN6RU9hY1g0ZUZINGpXWW1MeTVmX0JFMEdXZDZxaDRZTVRLVXF0bWNXakd6eTI5Y0hnSHQtQjU4THpB?oc=5",
+      "snippet": "NIMHANS to host first international conference on suicide prevention The Hindu",
+      "publishedAt": "2026-11-28T14:03:54.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "suicide-self-harm",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Canada prosecutors seek 25-year jail term for suicide poison seller - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1BlYnQ1SkZMZWU5WXlGSnpjX0ZsbG1BZjRaYXFYZzdWNElCMnlOcUk4S1RCMlhyQnJQVkFoblRsSW80akRMRmJpS2ZfbmxRVGhTdmJhN2VFY1dDWTNtdEhqWTVDVjBzZW1mMXBMa2tDeWVkRUthX0FaWXp1ajA4cDR4UFhRQXNyQTgtQ2FyLTZOXzM0UENhWjZ3eUtVWHFOU2twcHlONnd3bDN0RmtCWDA5akhwSEtWd2FpaGctV25HSi1QZlpWQtIByAFBVV95cUxOc1BlYnQ1SkZMZWU5WXlGSnpjX0ZsbG1BZjRaYXFYZzdWNElCMnlOcUk4S1RCMlhyQnJQVkFoblRsSW80akRMRmJpS2ZfbmxRVGhTdmJhN2VFY1dDWTNtdEhqWTVDVjBzZW1mMXBMa2tDeWVkRUthX0FaWXp1ajA4cDR4UFhRQXNyQTgtQ2FyLTZOXzM0UENhWjZ3eUtVWHFOU2twcHlONnd3bDN0RmtCWDA5akhwSEtWd2FpaGctV25HSi1QZlpWQg?oc=5",
+      "snippet": "Canada prosecutors seek 25-year jail term for suicide poison seller Gulf News",
+      "publishedAt": "2026-11-28T08:30:32.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "suicide-self-harm",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }

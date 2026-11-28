@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:12:53.985Z",
+  "generatedAt": "2026-11-28T20:25:42.693Z",
   "snapshot": true,
   "date": "2026-11-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 9
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,42 +44,42 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 51
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,21 @@
   ],
   "data": [
     {
+      "title": "Fact-check: Did Prince Harry shove Meghan Markle in viral videos? - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3FJSzF0aXdlOGg3VmczR2ZLeExHYzREcHBPQ0ptRXJqbUZaVllIN3FWcVh2TVdFc1VmMlItaGZ6NTI1elZEWjJEZ0l6QTRHUkV2eTNiWUlpNU5heDAwcmF6aTR3SXNlci02R29NV2RLU3EyRjN6em9EX2dQd0Y0ZmM2Z2FJZFZ5MmQzWHpBYWFRM3ZsclN2N29abGg0a1RPczhYSk1oWlozbDVk?oc=5",
+      "snippet": "Fact-check: Did Prince Harry shove Meghan Markle in viral videos? Inshorts",
+      "publishedAt": "2026-11-28T13:42:10.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Did Burj Khalifa Collapse After Dubai Earthquake? Fact Check - Times Now",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlpaMjFDRHFuZUhmQS1Rb2NHNmhSTmxteVFhQldMVEtZdmdsSTdqWTB1NmZLbEtHZGFKWk05aFVEZGhSZ18tR2trSG9zVmdJQXAxbnZXdXlENnYweTBqTndrS1pFaUJFTEt1clVDNWliUmVRSDRFTzRkZGxaMV9feXBYSXR6cncwM2pDQTQyNzZoQU9qcUg2c1ZtUUJKZU9uOUpRbTc3SVh1b0FoTUx2NHk4ZlZMaTVzWWNvMGJyLWhMd9IBxwFBVV95cUxNV0dKM2VsMTFfWEJzRGsxY0poNDVaQzdmZ01lOXhHelJ0VXJSalJuUFNpSXJuWXY1UDFiaXhER1FSYkMzWkVMYjVXSlZmdXk0ZU1PVTFmajNJTkVmakVGM1l2eUdOOTA1d0VkcGVuRXo0SWM0YjVDdDJxMHBOWDc2djZZWTlCN0l5WktMX2tJcDVrUWZvWGNDNzA1bjR3NzJFM05uRTJ1NkNjeV9DeW1JWGI3NjRVaGIySFVnNmhQN0taOGZ1bHY0?oc=5",
       "snippet": "Did Burj Khalifa Collapse After Dubai Earthquake? Fact Check Times Now",
@@ -192,6 +207,21 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Why is the Cockroach Janata Party so afraid of Delimitation? From fighting for education to feeding disinformation to the youth - The Pamphlet",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMkItQ2dLZURTNk5DemlrdllURDdUYm5lWk1lOW9XWXRCTHJNT2dYLVRQTVNZWjBIczAzZ0lVSjk5TFBlUWdGTURNV0dybGo0bldfeDJNVG1udU9VTmNrVkVqMUFfTXlUdjhWZnYxV3YwcVhMamdISWE1SWhWYUZYWm4yNEt2N3NSWTcyWmVJTmZYM21xeHZ3WXFrMWdtc2syZGVRMWt3NC03R0cyNEZiY1JGUjFwZ21fZjFMQnJjcFpIdEZCZ0J1dG1XbzVzUXl5cEJkNnNlVThtREZfYnRhRERyaUY?oc=5",
+      "snippet": "Why is the Cockroach Janata Party so afraid of Delimitation? From fighting for education to feeding disinformation to the youth The Pamphlet",
+      "publishedAt": "2026-11-28T10:24:16.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -229,6 +259,21 @@
     {
       "title": "Trump administration relaunches USAID website with internal emails, disinformation records | Hindustan Times - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0ZRV1JHeWZmaGhQMGxpbzJBT2puVTRScUcyYWpHNXhqS0pKa3VWMTVyQkZ1by13VkNVbENCMzBVWk9yOWhlZGt1MnZIdGk5VDNiOTJWVmhORGZGMXdnUmdJREpIUHJ6VHA3YzlyMGJWenJzb3dSVS1CdEZ1djBfc2lrX011UHJzTlZVMk05Rk1UTFBSX29ISzBfMl9MNFFqTmZ1LUhGMExmUXVxekVYTXNxT0ZSTThGMFJkM0VFeU9peExoZWxjQjBTUnpHLUZILTN0NDE5NHNfc01kRm9LUkJzdFdhR01HRkJ5NDFpcS0xVVdCOWVmcU5rU2dfc0Mw0gGAAkFVX3lxTE9nRlFXUkd5ZmZoaFAwbGlvMkFPam5VNFJxRzJhakc1eGpLSkprdVYxNXJCRnVvLXdWQ1VsQ0IzMFVaT3I5aGVka3Uydkh0aTlUM2I5MlZWaE5EZkYxd2dSZ0lESkhQcnpUcDdjOXIwYlZ6cnNvd1JVLUJ0RnV2MF9zaWtfTXVQcnNOVlUyTTlGTVRMUFJfb0hLMF8yX0w0UWpOZnUtSEYwTGZRdXF6RVhNc3FPRlJNOEYwUmQzRUV5T2l4TGhlbGNCMFNSekctRkgtM3Q0MTk0c19zTWRGb0tSQnN0V2FHTUdGQnk0MWlxLTFVV0I5ZWZxTmtTZ19zQzA?oc=5",
+      "snippet": "Trump administration relaunches USAID website with internal emails, disinformation records | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-11-28T03:13:23.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Trump administration relaunches USAID website with internal emails, disinformation records | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM3VsU1BHd3hNT0V3RnV5a0t2UkFWWG9waXpTVEY1NnZKdXZFSmhnRjNVczFyYTd3OGw0TnByeU1jVmw4S0M3c2RlWm9tNUhvQlVidHhURkJyN3ZXdnFRdzQxQVJjSXNDTWdmNlVzWV94Rm1UajVsbUJab25xeHpSWUlOSjlzeG1GWC1QWDBNNUFfV0NlX2NKZkZnX1JDa0pwanhJeXhhWDE1OFNlazJ4QmlkRDJOYnNqd1BkMUJ0N2lzQlg1R2dFNkhyNmpWeWMxbVpGaUdKbVZzT05BZXhjVmhYYVQyY1VjZHktODRKQWJuYmxuV2I0TTgxNNIBgAJBVV95cUxPZ0ZRV1JHeWZmaGhQMGxpbzJBT2puVTRScUcyYWpHNXhqS0pKa3VWMTVyQkZ1by13VkNVbENCMzBVWk9yOWhlZGt1MnZIdGk5VDNiOTJWVmhORGZGMXdnUmdJREpIUHJ6VHA3YzlyMGJWenJzb3dSVS1CdEZ1djBfc2lrX011UHJzTlZVMk05Rk1UTFBSX29ISzBfMl9MNFFqTmZ1LUhGMExmUXVxekVYTXNxT0ZSTThGMFJkM0VFeU9peExoZWxjQjBTUnpHLUZILTN0NDE5NHNfc01kRm9LUkJzdFdhR01HRkJ5NDFpcS0xVVdCOWVmcU5rU2dfc0Mw?oc=5",
       "snippet": "Trump administration relaunches USAID website with internal emails, disinformation records | Hindustan Times Hindustan Times",
       "publishedAt": "2026-11-28T03:13:23.000Z",
       "source": "Google News • Misinformation (India)",

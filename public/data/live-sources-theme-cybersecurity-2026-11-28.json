@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:12:53.985Z",
+  "generatedAt": "2026-11-28T20:25:42.693Z",
   "snapshot": true,
   "date": "2026-11-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 5
+    "total": 8
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,42 +44,42 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 51
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,10 +182,55 @@
   ],
   "data": [
     {
+      "title": "Standard Chartered’s Crypto Unit Zodia Custody Hit by Data Breach, Exposing Client and Employee Information - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXlqalFYRm15RnRzOUdXU3Zaa21PWTR1MzRod0drejB3aVh3ZmhuRk9Zb3RxbUNPM1NNVHAyNmozZVlJR1RZQkYzaEVwMGlzU1hMZmhkQUt4LTl5eEwySTNMcmgta0FQdnpUNmtnMUVuUXZoVWQyeWhDQ2JRejROLVA2cWFrMUpHd0N4VzNkeVTSAZYBQVVfeXFMTXlta0lHcUp0R1VMdEkzWUdvNURiYWVJRU4yaVduQkkyTkRFdEJJSDNsRnB5Z0dlVTYxYTVSMVBpTGVwNVQxTzU0eUFjWkJ5NEkxTjJ1Q3lweElFMDRENWctelNReklTeTRBWWtNN0hEZlZRODFiRkdBNVlvRmcxYWJGZWZuTGtHb3ZFN3Z5YVBQRjNmcEln?oc=5",
+      "snippet": "Standard Chartered’s Crypto Unit Zodia Custody Hit by Data Breach, Exposing Client and Employee Information GBHackers News",
+      "publishedAt": "2026-11-28T15:05:48.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cyberattack on telecom provider OnlineCity.io exposes SMS data across Denmark - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWRFQ3Qtd1pERndxTW5PS2RoeE91bkxJVUNQQmpLZlZ6NjVlN0tITUluSGgxTlpUYzIyVDI3UUdPN08ybDFZNm9JNDdVQk0zSUhtNi05bGFSMDM3UFExNlRKN19HOHZ2WDZDTGdyUl93RDdzRXU5dXUwV01sQ3NWOVdSNEZVTE04Mk80NUtWeTFUaVE2aXhLcDhNLTk1TDZDSnVHTEQ4MA?oc=5",
+      "snippet": "Cyberattack on telecom provider OnlineCity.io exposes SMS data across Denmark Beinsure",
+      "publishedAt": "2026-11-28T12:19:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hong Kong’s Octopus Payment System Hit by Cyberattack, Exposing Data of Nearly 30,000 Customers and Merch... - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvZUJsLWU3NHBYS2dEWlJ3WGpYaXlKcTlWOVZ1WDlnSm5weUJRTTE3c2M2VmlWQlZLZDVZT0JUX0Jxb1lteklXLWlZNjF1ZkhJbDVYY3ZDb29hZDJ1Z1pXelNPeW1RbHlfY0xZTTNXT3h6eEVoWDJJN0tlQ1XSAXxBVV95cUxQb2VCbC1lNzRwWEtnRFpSd1hqWGl5SnE5VjlWdVg5Z0pucHlCUU0xN3NjNlZpVkJWS2Q1WU9CVF9CcW9ZbXpJVy1pWTYxdWZISWw1WGN2Q29vYWQydWdaV3pTT3ltUWx5X2NMWU0zV094enhFaFgySTdLZUNV?oc=5",
+      "snippet": "Hong Kong’s Octopus Payment System Hit by Cyberattack, Exposing Data of Nearly 30,000 Customers and Merch... GBHackers News",
+      "publishedAt": "2026-11-28T08:50:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Top Cybersecurity Companies in India 2026: Leaders & Startups - Business Outreach Magazine",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hTGIyOHBYWGFtaTJvZ2FMMUZZQlZEV2U0T0pxeUE5dEQ5Tm8xZWpsb3piYmtzZXEydXNZRlE1Szc0RFE5a2F4N3Y2cmZkVkVuS2NrQ3NIQm1EaGdyY3ltVjZWb0VTMjJtNWVKX0dOemZSQjUxOENjUw?oc=5",
       "snippet": "Top Cybersecurity Companies in India 2026: Leaders & Startups Business Outreach Magazine",
-      "publishedAt": "2026-11-28T04:14:05.000Z",
+      "publishedAt": "2026-11-28T05:58:57.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

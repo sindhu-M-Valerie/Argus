@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:12:53.985Z",
+  "generatedAt": "2026-11-28T20:25:42.693Z",
   "snapshot": true,
   "date": "2026-11-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 22
+    "total": 42
   },
   "message": null,
   "sourceStatus": [
@@ -16,21 +16,21 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 72
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 27
+      "itemCount": 100
     },
     {
       "label": "Google News • Sexual Exploitation Online",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 29
+      "itemCount": 62
     },
     {
       "label": "Google News • Human Exploitation Abuse",
@@ -44,42 +44,42 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 47
+      "itemCount": 100
     },
     {
       "label": "Google News • Fact Check (India)",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Hate (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 37
+      "itemCount": 36
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 53
+      "itemCount": 51
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 79
+      "itemCount": 23
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 79
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 17
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 74
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -121,14 +121,14 @@
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 72
+      "itemCount": 70
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 34
+      "itemCount": 77
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
@@ -149,7 +149,7 @@
       "theme": "cybersecurity",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 32
     },
     {
       "label": "Google News • Fraud and Impersonation",
@@ -182,6 +182,36 @@
   ],
   "data": [
     {
+      "title": "Fact-check: Did Prince Harry shove Meghan Markle in viral videos? - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3FJSzF0aXdlOGg3VmczR2ZLeExHYzREcHBPQ0ptRXJqbUZaVllIN3FWcVh2TVdFc1VmMlItaGZ6NTI1elZEWjJEZ0l6QTRHUkV2eTNiWUlpNU5heDAwcmF6aTR3SXNlci02R29NV2RLU3EyRjN6em9EX2dQd0Y0ZmM2Z2FJZFZ5MmQzWHpBYWFRM3ZsclN2N29abGg0a1RPczhYSk1oWlozbDVk?oc=5",
+      "snippet": "Fact-check: Did Prince Harry shove Meghan Markle in viral videos? Inshorts",
+      "publishedAt": "2026-11-28T13:42:10.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 60,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Helal demands Hasina's extradition, urges unity against terrorism - Bangladesh Sangbad Sangstha (BSS)",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROFJ5Y1dtZ0I3eDhCcTNrSm42VEt2TTlOdS1LRHdaTWFQSlJidFJtRi11T2lVZC1nVGNUWU5pZ0ZNUFMzb25nNGxDRkdSaFhu?oc=5",
+      "snippet": "Helal demands Hasina's extradition, urges unity against terrorism Bangladesh Sangbad Sangstha (BSS)",
+      "publishedAt": "2026-11-28T11:49:19.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "PM Modi's Canada agenda packs nuclear push, counter-terror drive - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGxGWFQ3ajctcFF4QlM5MjNxQ0pqUC15b3ZxNGJLMjI3bWNCSlpjaDRwaUNySkJxbmVvVS0ycDVTN1hYVzNjLXh5ZW00UndYTTBXcDZvWjBxak53QnlfVEhHdWhMdFl6Z3YwT1NFeEx2cFc0SG9PLWx4MW9OT0h1V04wTE5aMFZRYUFFaHAwdEppZUkxWVdYbU9RcHJJWUxHa0EzZmlMRzhYUFExLUpyNWMyWWNBQ1p5NGttX3B3ODd2YW81YmfSAcsBQVVfeXFMTnlWMTJ0cENZcUZMa3I1S2lBd1J3cnl3aEZtdkNQbjRwVXRpZkdNaUtLRm1fMW9uQ1hHZ19GQzNKLUpzd3FJbmNLR3h5MExzOFJGcWhiUVNQLV9SeWowMlo0QW03VVY2WTlLeVg1czhjZE9HOEZINEtvYzRoUDZGTVo3M09MTG5OVUhfa1drS19jYWw4LVJSOE9PNlkwRU9GVG1MQmVXZmlrekFFUzNjNUk1OFVXUXlYTERSV0N5enhlLXg3cmtpa3ItWm8?oc=5",
       "snippet": "PM Modi's Canada agenda packs nuclear push, counter-terror drive The Economic Times",
@@ -193,6 +223,81 @@
       "feedTheme": "tvec",
       "riskScore": 56,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cybercrime takes a darker turn: Deepfakes, revenge and stalking fuel surge in online abuse - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVU9oQzRfN1JWYjI5YV9WUEtFX0RoNVB5enVHOW1KQVJRR0RNMzQ4ZENVZlY1SzAzdlRIb1VQVWp5bzdMMk12aXhKQnk1UTJxeW1nY3JSUWx3czRLdHRfMGE0UjNzTW5XSklSajNkSk1GVXRWOG90LTVxOGc1MmZMMm5ZRkZJX0R3X20zSVZvVjdnQ2taX2c2LVpCN3hJclRQa0pON3VfaVpSM2RraDlDZWZuTi1oc21GR0ZZRFh0dEhlRGlhZTJ5T0hQazZrSk0zRlNEQl91NlBzMFFLX1Z0eTVLWGNXWm9Z0gHvAUFVX3lxTE1RUVdENWpmMXpxZVRFMHAzUzNRcDQ4Y0hDbXBXWEpLVlBVSi1qMDI5ZzBSYk5xUExpRXBmZGgwVi1WbVJYR1Zpc1UtZi1hbFVGYldoVjRyd0NIU1ltdWNZQjMwa2JiT2taNmwzdjg5c1IyYWloRlpYbzBib0lmblZsWHZGSk9PSXJ6enMyVlRxczVZNW1aQzVuVmNLZllHSFVmYkQ4RlZxTGJfU3ZHSzlweHFWVFR6MHZ5MGlmWFpmSGZLTElzYmJueE9tU1h1a3pmaEtlTy13U0dWRTJaeHNnV29Ka3RaUExyNVQzTjZV?oc=5",
+      "snippet": "Cybercrime takes a darker turn: Deepfakes, revenge and stalking fuel surge in online abuse The Hindu",
+      "publishedAt": "2026-11-28T16:23:08.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 55,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "Cybercrime takes a darker turn: Deepfakes, revenge and stalking fuel surge in online abuse - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUVFXRDVqZjF6cWVURTBwM1MzUXA0OGNIQ21wV1hKS1ZQVUotajAyOWcwUmJOcVBMaUVwZmRoMFYtVm1SWEdWaXNVLWYtYWxVRmJXaFY0cndDSFNZbXVjWUIzMGtiYk9rWjZsM3Y4OXNSMmFpaEZaWG8wYm9JZm5WbFh2RkpPT0lyenpzMlZUcXM1WTVtWkM1blZjS2ZZR0hVZmJEOEZWcUxiX1N2R0s5cHhxVlRUejB2eTBpZlhaZkhmS0xJc2JibnhPbVNYdWt6ZmhLZU8td1NHVkUyWnhzZ1dvSmt0WlBMcjVUM042VdIB7wFBVV95cUxNUVFXRDVqZjF6cWVURTBwM1MzUXA0OGNIQ21wV1hKS1ZQVUotajAyOWcwUmJOcVBMaUVwZmRoMFYtVm1SWEdWaXNVLWYtYWxVRmJXaFY0cndDSFNZbXVjWUIzMGtiYk9rWjZsM3Y4OXNSMmFpaEZaWG8wYm9JZm5WbFh2RkpPT0lyenpzMlZUcXM1WTVtWkM1blZjS2ZZR0hVZmJEOEZWcUxiX1N2R0s5cHhxVlRUejB2eTBpZlhaZkhmS0xJc2JibnhPbVNYdWt6ZmhLZU8td1NHVkUyWnhzZ1dvSmt0WlBMcjVUM042VQ?oc=5",
+      "snippet": "Cybercrime takes a darker turn: Deepfakes, revenge and stalking fuel surge in online abuse The Hindu",
+      "publishedAt": "2026-11-28T16:23:08.000Z",
+      "source": "Google News • Harassment and Bullying",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "harassment-bullying",
+      "riskScore": 55,
+      "confidence": "High",
+      "severity": "Medium",
+      "corroboratedBy": 2
+    },
+    {
+      "title": "UN Special Rapporteur to visit Botswana over child trafficking, sexual abuse concerns - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWlFnNlF0WjdLZFVkSUhpVHFBTUkteU41UG9rYS1wZDFfejNfaHd2M245VTBpMkNmTHFlMUx1V193UmZMVnpicTJZRnhNblpBRFZQWXo1NGd0WHZGeEdSR3JUZWxSWkd6YUdyY2xWMVljNDRXX2ZQMzdlc2RZRzYtU1FXRlNxYXh6a3VtYjJVOHM2T2ZiMFFGZndPVTV1cTUyZmtkUFBFdEVnTjZ6QUlOWG1ibW1wTnFZSXJqYm1mMnpvYm90dkZRUDVYaw?oc=5",
+      "snippet": "UN Special Rapporteur to visit Botswana over child trafficking, sexual abuse concerns The Eastleigh Voice",
+      "publishedAt": "2026-11-28T11:26:32.000Z",
+      "source": "Google News • Child Abuse and Nudity Safety",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "child-abuse-nudity",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Predator jailed for 14 years after grooming and sexually abusing girls online | ITV News - ITVX",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2F3SnBJV1BJcHZkdjNQYXBZaWtUdTBJV1RvdEJNVUtNcllfQnVIcTFMZ1J4Q05EQWNZd3dVMGM4UFpPV3JpUEJwdzNFRUphQmJNRENTTEpHTkdXRldmVkZPMTdjSTY0ZWNWOUtDejA4bmExU0pmcEM4Y05Gc2k0enc0MHJ0VFdvLVlHemN3YzhjdFJtUzY0QUhJOTV0M3VWbnlRc0RqcWl6OFdfaE5FZW9XdlZlelNGbUo4WFY3ank?oc=5",
+      "snippet": "Predator jailed for 14 years after grooming and sexually abusing girls online | ITV News ITVX",
+      "publishedAt": "2026-11-28T10:52:02.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "South-east Asia’s scam compounds are a security crisis, not just a crime wave in Asean — Phar Kim Beng - Malay Mail",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbHc0TWF2R05FT1BZZW9OQktaaFk1NjlBZGJkdzlVWnhab1Vuc3dYb0ZDX3RiRVlrbHlWenAwSVNaY29MWmVtZkI1NVFXNWN0RWNwQWp3OTRXemJZWm9lZmE0TDdOOFE3RWpmR0RCMTJwc1RzaGJ1eVVxWW1PamdPZFRUYWRmZFFHRXd3QTlJT3JqR2JKNWdOMlppR3V0RmpqR0NaUVM1a2VRVWh5MTEyTks4WlNETFhPMllfMFRQNWV2SnNMZ3VtYi1NQTNKb182Qk9lSUx6NXgtdWNITVhFUzlhNUhuNUEwSHdQZndQYzkxNDJS0gH6AUFVX3lxTE0xZ3BQRGJ6VnAxZHNZRTFYU25zYzdmU3hHbkx2dFpoLXBZZWFvaW5fbWZ5M1Z0OFFJZDdIWWdHSzVYQy03dk5pWkMtNmM2SGFkSXZOWElRbkpXODFzNTh2RzdTZTAzVmczbmFCZm5zMUNHS194UkF0b0RvemtwMWxOYWFReWpqSkJnUWFxeFY1dUVtNENSUnpneWkzVUtJWTc5RWxyN2FZTGtwd2otUF80MkFBcTFrZlVYOGlGUGRGNE1kSUZZdVQ0dE9SNkJtal9kbFV1VGl4b0ZkZlFuSFhndmdrSHMzU2NLVnJhcnQ1SzZWdG52MnlYTlE?oc=5",
+      "snippet": "South-east Asia’s scam compounds are a security crisis, not just a crime wave in Asean — Phar Kim Beng Malay Mail",
+      "publishedAt": "2026-11-28T10:01:38.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },
@@ -216,6 +321,21 @@
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObmE1R3AwWE0xbUYyNDJlTkF5VU9ORjZNRFJnWXZJY3ZoZThram5tV0JVVTBKSzkyQXM2VE9BVUd6dGx6UGFRcGVwZUQ4NHFZZDY0YzlGV0drTjE2Z21ncHdmYlA1T3p2Q1BPU2stVFJKdkx2MUxqVWpYWTZJM1NrcW5pbG9DLXpRejdpNW02UUYxdld0UGNWS2RIY1dWTUpuUjVNY0NMQ01EM3dSMVljMFJiWG93eUs1RkRibnVkSFp0RUhvUUFsZ3JCUGplZ0huNEpPOG5VbkpFbktGRVJmbktSMnBIRUxNb0JzMlJjV0dBLXdWZDk3cFVDR1NEbFhvQmhtV3ZacTV0TmI3X2dfMnZrdWEtTWVs0gGeAkFVX3lxTE4wNzhDZnU3VWlEb09aYVNURnowcG5nb1ZBZDl4cjRoeWh5X1RSUlZoUGlDYlV4ckpOR0c5ekxLWWVobmFfN2IyUnVLak82OUlSaHJmZF9LSkJJQlhLLUtEUEtyZmpsVnJUU1JQbW96MkdITWx5dVhCdmVVRV9Hc2NkX3RQTy1CcXJyS3c1Vlh2ZHp2LV9rdmIwMnNDWV9GSllVQ1d0ZGQ4UGpoYURlcXhicUJlT0dnOHVIVmFFUE9DYlVXSUlUVWpNSGU5ZElPR3BHLTBpQlhaWl91eFllME5hYTQ2eGtGTXJQNFhQMGtUZVBVWk1kYjNFNE9GcWhZY0FySlVOSVYyWHJrb21kZkt4NmItYXdkQkVuM2ctdEE?oc=5",
       "snippet": "Three-day AFP blitz nails alleged child abuser News24",
       "publishedAt": "2026-11-28T01:37:59.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Three-day AFP blitz nails alleged child abuser - News24",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMDc4Q2Z1N1VpRG9PWmFTVEZ6MHBuZ29WQWQ5eHI0aHloeV9UUlJWaFBpQ2JVeHJKTkdHOXpMS1llaG5hXzdiMlJ1S2pPNjlJUmhyZmRfS0pCSUJYSy1LRFBLcmZqbFZyVFNSUG1vejJHSE1seXVYQnZlVUVfR3NjZF90UE8tQnFyckt3NVZYdmR6di1fa3ZiMDJzQ1lfRkpZVUNXdGRkOFBqaGFEZXF4YnFCZU9HZzh1SFZhRVBPQ2JVV0lJVFVqTUhlOWRJT0dwRy0waUJYWlpfdXhZZTBOYWE0NnhrRk1yUDRYUDBrVGVQVVpNZGIzRTRPRnFoWWNBckpVTklWMlhya29tZGZLeDZiLWF3ZEJFbjNnLXRB0gGeAkFVX3lxTE4wNzhDZnU3VWlEb09aYVNURnowcG5nb1ZBZDl4cjRoeWh5X1RSUlZoUGlDYlV4ckpOR0c5ekxLWWVobmFfN2IyUnVLak82OUlSaHJmZF9LSkJJQlhLLUtEUEtyZmpsVnJUU1JQbW96MkdITWx5dVhCdmVVRV9Hc2NkX3RQTy1CcXJyS3c1Vlh2ZHp2LV9rdmIwMnNDWV9GSllVQ1d0ZGQ4UGpoYURlcXhicUJlT0dnOHVIVmFFUE9DYlVXSUlUVWpNSGU5ZElPR3BHLTBpQlhaWl91eFllME5hYTQ2eGtGTXJQNFhQMGtUZVBVWk1kYjNFNE9GcWhZY0FySlVOSVYyWHJrb21kZkt4NmItYXdkQkVuM2ctdEE?oc=5",
+      "snippet": "Three-day AFP blitz nails alleged child abuser News24",
+      "publishedAt": "2026-11-28T01:11:53.000Z",
       "source": "Google News • Sexual Exploitation Online",
       "theme": "child-abuse-nudity",
       "type": "News",
@@ -302,6 +422,51 @@
       "corroboratedBy": 1
     },
     {
+      "title": "NIMHANS to host first international conference on suicide prevention - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV3RtQTMxUzN0LXNhM19FWjhweVMwTncycUJtXzBIajZHVWxnYW03M21IUHVuSlZSVEluWVMya3BOcGN0ckExdzhwQkZUX01XUFVvRHlsalN0X2hZN09qQzZvSTktOUUwbXRqU0ViNXUzQV95VEsyZjFhSkxXTEhJaVB1cjJIc3NmdE16eW9aMmhsMjJVRjJDYmduSnF3ZF92Y19VUFQ5STNhZDZYTTFMZkViRldwbFp3enJrZWNlYlk3eUdoSm5YWjk1SHV3TUIzYnJv0gHaAUFVX3lxTE5QNEpJWjVOeVZuUDFhZzJkanV6SWZldExiNXZqV2pGem95TGZfZ05PbzVFanh2SmpvalhNV0NEREtfVUU0SzRiX1BLY0V1bnpCWHpyREpZemlHOTBKcFpWdUdrakxqclNGSTF2Y0NUYTlIc3F5LWwzLXdncnl4Q25NRWlMejdPTGltcW5WSVF3XzJ3NTE4cUo2VG0tRE4yUFN6RU9hY1g0ZUZINGpXWW1MeTVmX0JFMEdXZDZxaDRZTVRLVXF0bWNXakd6eTI5Y0hnSHQtQjU4THpB?oc=5",
+      "snippet": "NIMHANS to host first international conference on suicide prevention The Hindu",
+      "publishedAt": "2026-11-28T14:03:54.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "suicide-self-harm",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Why is the Cockroach Janata Party so afraid of Delimitation? From fighting for education to feeding disinformation to the youth - The Pamphlet",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMkItQ2dLZURTNk5DemlrdllURDdUYm5lWk1lOW9XWXRCTHJNT2dYLVRQTVNZWjBIczAzZ0lVSjk5TFBlUWdGTURNV0dybGo0bldfeDJNVG1udU9VTmNrVkVqMUFfTXlUdjhWZnYxV3YwcVhMamdISWE1SWhWYUZYWm4yNEt2N3NSWTcyWmVJTmZYM21xeHZ3WXFrMWdtc2syZGVRMWt3NC03R0cyNEZiY1JGUjFwZ21fZjFMQnJjcFpIdEZCZ0J1dG1XbzVzUXl5cEJkNnNlVThtREZfYnRhRERyaUY?oc=5",
+      "snippet": "Why is the Cockroach Janata Party so afraid of Delimitation? From fighting for education to feeding disinformation to the youth The Pamphlet",
+      "publishedAt": "2026-11-28T10:24:16.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Canada prosecutors seek 25-year jail term for suicide poison seller - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1BlYnQ1SkZMZWU5WXlGSnpjX0ZsbG1BZjRaYXFYZzdWNElCMnlOcUk4S1RCMlhyQnJQVkFoblRsSW80akRMRmJpS2ZfbmxRVGhTdmJhN2VFY1dDWTNtdEhqWTVDVjBzZW1mMXBMa2tDeWVkRUthX0FaWXp1ajA4cDR4UFhRQXNyQTgtQ2FyLTZOXzM0UENhWjZ3eUtVWHFOU2twcHlONnd3bDN0RmtCWDA5akhwSEtWd2FpaGctV25HSi1QZlpWQtIByAFBVV95cUxOc1BlYnQ1SkZMZWU5WXlGSnpjX0ZsbG1BZjRaYXFYZzdWNElCMnlOcUk4S1RCMlhyQnJQVkFoblRsSW80akRMRmJpS2ZfbmxRVGhTdmJhN2VFY1dDWTNtdEhqWTVDVjBzZW1mMXBMa2tDeWVkRUthX0FaWXp1ajA4cDR4UFhRQXNyQTgtQ2FyLTZOXzM0UENhWjZ3eUtVWHFOU2twcHlONnd3bDN0RmtCWDA5akhwSEtWd2FpaGctV25HSi1QZlpWQg?oc=5",
+      "snippet": "Canada prosecutors seek 25-year jail term for suicide poison seller Gulf News",
+      "publishedAt": "2026-11-28T08:30:32.000Z",
+      "source": "Google News • Suicide and Self-Harm (India)",
+      "theme": "suicide-self-harm",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "suicide-self-harm",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Mohammed Zubair once again under fire for spreading fake news - OpIndia",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0xESEwycFZhLWFUOFdWa09JXzA2SVY1Z1gzcVlZUE9EelIwQU5WRW9sMFh2VUMzX1h4ekRvMTZzNUF0UHdkSGE1NWFmb3gtNnBhQ2F6SGJFaEM3MG1WdlhTc1g2bG80R29rSTRQcVBoYmhFQmpzd1lkbDgyWDNaMk11RmpoOXM?oc=5",
       "snippet": "Mohammed Zubair once again under fire for spreading fake news OpIndia",
@@ -362,6 +527,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Trump administration relaunches USAID website with internal emails, disinformation records | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM3VsU1BHd3hNT0V3RnV5a0t2UkFWWG9waXpTVEY1NnZKdXZFSmhnRjNVczFyYTd3OGw0TnByeU1jVmw4S0M3c2RlWm9tNUhvQlVidHhURkJyN3ZXdnFRdzQxQVJjSXNDTWdmNlVzWV94Rm1UajVsbUJab25xeHpSWUlOSjlzeG1GWC1QWDBNNUFfV0NlX2NKZkZnX1JDa0pwanhJeXhhWDE1OFNlazJ4QmlkRDJOYnNqd1BkMUJ0N2lzQlg1R2dFNkhyNmpWeWMxbVpGaUdKbVZzT05BZXhjVmhYYVQyY1VjZHktODRKQWJuYmxuV2I0TTgxNNIBgAJBVV95cUxPZ0ZRV1JHeWZmaGhQMGxpbzJBT2puVTRScUcyYWpHNXhqS0pKa3VWMTVyQkZ1by13VkNVbENCMzBVWk9yOWhlZGt1MnZIdGk5VDNiOTJWVmhORGZGMXdnUmdJREpIUHJ6VHA3YzlyMGJWenJzb3dSVS1CdEZ1djBfc2lrX011UHJzTlZVMk05Rk1UTFBSX29ISzBfMl9MNFFqTmZ1LUhGMExmUXVxekVYTXNxT0ZSTThGMFJkM0VFeU9peExoZWxjQjBTUnpHLUZILTN0NDE5NHNfc01kRm9LUkJzdFdhR01HRkJ5NDFpcS0xVVdCOWVmcU5rU2dfc0Mw?oc=5",
+      "snippet": "Trump administration relaunches USAID website with internal emails, disinformation records | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-11-28T03:13:23.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "BJP spreading misinformation over my Rafale remarks: Negi | Hindustan Times - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcTBQN2RhbEkxRmtVZUZNYTFxaUw4ZEVtTmNVdk95QlVFVzU3NmlKVlpYVmlTX250OVdEREV3S3d0MkJHYmxtQTNoOE5rRWRiM1JoSWRrRVJlZXdodFV1aGNHZVQwV3BsUHJaNHJoY29NTzhpOHpqMlhvdkMtN0RPV0pBX29MWFFXanFmUjhzQmM4RmpzNlQ2MEZRNDZSa21TdnVzWHlINWYyajNkNWkxZUM4S0hqMkJxYWZhVGZXZEtsNzdzUjc0M19pTXdXWU5L0gHQAUFVX3lxTE9xMFA3ZGFsSTFGa1VlRk1hMXFpTDhkRW1OY1V2T3lCVUVXNTc2aUpWWlhWaVNfbnQ5V0RERXdLd3QyQkdibG1BM2g4TmtFZGIzUmhJZGtFUmVld2h0VXVoY0dlVDBXcGxQclo0cmhjb01POGk4emoyWG92Qy03RE9XSkFfb0xYUVdqcWZSOHNCYzhGanM2VDYwRlE0NlJrbVN2dXNYeUg1ZjJqM2Q1aTFlQzhLSGoyQnFhZmFUZldkS2w3N3NSNzQzX2lNd1dZTks?oc=5",
       "snippet": "BJP spreading misinformation over my Rafale remarks: Negi | Hindustan Times Hindustan Times",
@@ -387,6 +567,81 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "16 Days of Activism: How campaign evolved to confront femicide and digital violence - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc2E1VjY3Vzg5cW5aMm93blhCX3pkVnh5dmsybkJsMVlUVG9wSDhyWUNId2JjYTdjTHQ2TnVfVWhaVW82TGEyb3VpUk5Oa25MZGN5TzRDTXJwQ1pWQU50aHdGZXFBWGJYeHdVT2FBb3B0aTF3N1JwWGV2TmZLcnBOdVdfWUEtVkdyNDBIWFdrY1VoamNiQUlVYlhEM3l5aXZEakZmSlJ0Z252am1qVWlKWWVqWHlVMkRsZlFsd2lVY0hVdTR1eXpNYXVR?oc=5",
+      "snippet": "16 Days of Activism: How campaign evolved to confront femicide and digital violence Daily Nation",
+      "publishedAt": "2026-11-28T10:00:00.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "violence",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Wakad Logistics Firm Loses Rs 30 Lakh in Boss Scam - Pune Mirror",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXRYX1hSZmhwdGxvVGdYbTZmYkxadjlISU1HUGwxNUFWMTRKU0VGeGhXYWQ1UGpqQXhSU08xMlBWT3hSbEhWV3hBYnlqcXE4NnJOSTVnbC1XM3JqTjN0WTdLd2Fla251WDJuRzZVQjRueEp3aU44S1lGdGZGTjNnZmZncEZXV3BpdTVicmJwVzk0aDNVbS1ZUmlnZDlBZWw2?oc=5",
+      "snippet": "Wakad Logistics Firm Loses Rs 30 Lakh in Boss Scam Pune Mirror",
+      "publishedAt": "2026-11-28T09:09:11.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "How the eCitizen breach could become a national fraud crisis - Sacco Review",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2pkODFZNnV4SHJVeG1HLVZEd2ExU2dPaS1UU2daTVJzRGk0SHA1ZHNwcEVlWXN4WU1vMHplTUFfQS1rTHhwcko1b3RJcmJLZmlQb1YzTGdaOXlidWVFX0RxSFF0eW9fNG5UQTc1TXozcTdkbEpDczdoa2g3ak9xdHQ5TGI5UEJIRG5ZMnRFdTE?oc=5",
+      "snippet": "How the eCitizen breach could become a national fraud crisis Sacco Review",
+      "publishedAt": "2026-11-28T08:13:21.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Indian police free over 160 foreigners after busting cyber fraud and trafficking network - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmZHcWlmVUx6a2NJRE9XeFBBNWRkN3FBa0JtTlpaQ2ptcFFPeE9WOVdKcjZqOVR0V3NFNGxTVjFDOUNVYzZONGt4a3Z6ZDJ4UzhRNWlleDV0aEtwUTVCNDJoalJ3Q3FCanNNUGtPX1Q2T09ESExTZV9LT0ZNNDBjVVZucFB1NV81S1JSVloyd3ZNWHA0N3kwZzFPdDBHbm5NTE1lUA?oc=5",
+      "snippet": "Indian police free over 160 foreigners after busting cyber fraud and trafficking network The Independent",
+      "publishedAt": "2026-11-28T06:47:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India busts international cyber scam centre, rescues 164 foreigners - Newswire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVFlaUZBT1FGTXB6LV9vS2cwM1Q2TTB4UUQzSE9RcUdjRnpPUFNKY1JTS1NfWFd0dUwxN0JNZmJDSHZzaEh2YXliUDF0V21xVDFuODcxcE5TNzNfVjktZFJDMlJQZW5hOEJmV2ZITDdVR2J1YUV6TlZDLXFHRFk0bnVObExUQVR2OXlERXNQalBtdUh2emJUQ2tCSk1MM3BCOW5peQ?oc=5",
+      "snippet": "India busts international cyber scam centre, rescues 164 foreigners Newswire",
+      "publishedAt": "2026-11-28T04:35:49.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
@@ -437,10 +692,55 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Standard Chartered’s Crypto Unit Zodia Custody Hit by Data Breach, Exposing Client and Employee Information - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXlqalFYRm15RnRzOUdXU3Zaa21PWTR1MzRod0drejB3aVh3ZmhuRk9Zb3RxbUNPM1NNVHAyNmozZVlJR1RZQkYzaEVwMGlzU1hMZmhkQUt4LTl5eEwySTNMcmgta0FQdnpUNmtnMUVuUXZoVWQyeWhDQ2JRejROLVA2cWFrMUpHd0N4VzNkeVTSAZYBQVVfeXFMTXlta0lHcUp0R1VMdEkzWUdvNURiYWVJRU4yaVduQkkyTkRFdEJJSDNsRnB5Z0dlVTYxYTVSMVBpTGVwNVQxTzU0eUFjWkJ5NEkxTjJ1Q3lweElFMDRENWctelNReklTeTRBWWtNN0hEZlZRODFiRkdBNVlvRmcxYWJGZWZuTGtHb3ZFN3Z5YVBQRjNmcEln?oc=5",
+      "snippet": "Standard Chartered’s Crypto Unit Zodia Custody Hit by Data Breach, Exposing Client and Employee Information GBHackers News",
+      "publishedAt": "2026-11-28T15:05:48.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cyberattack on telecom provider OnlineCity.io exposes SMS data across Denmark - Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWRFQ3Qtd1pERndxTW5PS2RoeE91bkxJVUNQQmpLZlZ6NjVlN0tITUluSGgxTlpUYzIyVDI3UUdPN08ybDFZNm9JNDdVQk0zSUhtNi05bGFSMDM3UFExNlRKN19HOHZ2WDZDTGdyUl93RDdzRXU5dXUwV01sQ3NWOVdSNEZVTE04Mk80NUtWeTFUaVE2aXhLcDhNLTk1TDZDSnVHTEQ4MA?oc=5",
+      "snippet": "Cyberattack on telecom provider OnlineCity.io exposes SMS data across Denmark Beinsure",
+      "publishedAt": "2026-11-28T12:19:50.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Hong Kong’s Octopus Payment System Hit by Cyberattack, Exposing Data of Nearly 30,000 Customers and Merch... - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvZUJsLWU3NHBYS2dEWlJ3WGpYaXlKcTlWOVZ1WDlnSm5weUJRTTE3c2M2VmlWQlZLZDVZT0JUX0Jxb1lteklXLWlZNjF1ZkhJbDVYY3ZDb29hZDJ1Z1pXelNPeW1RbHlfY0xZTTNXT3h6eEVoWDJJN0tlQ1XSAXxBVV95cUxQb2VCbC1lNzRwWEtnRFpSd1hqWGl5SnE5VjlWdVg5Z0pucHlCUU0xN3NjNlZpVkJWS2Q1WU9CVF9CcW9ZbXpJVy1pWTYxdWZISWw1WGN2Q29vYWQydWdaV3pTT3ltUWx5X2NMWU0zV094enhFaFgySTdLZUNV?oc=5",
+      "snippet": "Hong Kong’s Octopus Payment System Hit by Cyberattack, Exposing Data of Nearly 30,000 Customers and Merch... GBHackers News",
+      "publishedAt": "2026-11-28T08:50:12.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Top Cybersecurity Companies in India 2026: Leaders & Startups - Business Outreach Magazine",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hTGIyOHBYWGFtaTJvZ2FMMUZZQlZEV2U0T0pxeUE5dEQ5Tm8xZWpsb3piYmtzZXEydXNZRlE1Szc0RFE5a2F4N3Y2cmZkVkVuS2NrQ3NIQm1EaGdyY3ltVjZWb0VTMjJtNWVKX0dOemZSQjUxOENjUw?oc=5",
       "snippet": "Top Cybersecurity Companies in India 2026: Leaders & Startups Business Outreach Magazine",
-      "publishedAt": "2026-11-28T04:14:05.000Z",
+      "publishedAt": "2026-11-28T05:58:57.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",
