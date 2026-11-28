@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:30:14.032Z",
+  "generatedAt": "2026-11-28T08:12:53.985Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 3
+    "total": 4
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,28 +58,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 78
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 65
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -193,6 +193,21 @@
       "feedTheme": "human-trafficking",
       "riskScore": 60,
       "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "India busts scam network, rescues 164 trafficked foreigners - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkhIdHAwZy0tSjJINmI3VjdjWExlVWdBU19Db1diYjE2R0hITWNBM2tkN2t4NzBTYkt5UUJsbnl0blB6ZVhsT01QNnQxeEJWVnhsR0VNbkttdmhGdi1iX1QtRE9wckRJeGUwYlFJYjR3TjFjNlRzdkUzemRpZ1JDZThleGFtZVA0Y1M5QUQyUHlOeDZTeDdBbTFYWXlRSnMySFNXcUhoMUdRSnZSTWQzbnFPUmxjR1NSMlNDVTRNMTE5Z9IBwgFBVV95cUxNVkhIdHAwZy0tSjJINmI3VjdjWExlVWdBU19Db1diYjE2R0hITWNBM2tkN2t4NzBTYkt5UUJsbnl0blB6ZVhsT01QNnQxeEJWVnhsR0VNbkttdmhGdi1iX1QtRE9wckRJeGUwYlFJYjR3TjFjNlRzdkUzemRpZ1JDZThleGFtZVA0Y1M5QUQyUHlOeDZTeDdBbTFYWXlRSnMySFNXcUhoMUdRSnZSTWQzbnFPUmxjR1NSMlNDVTRNMTE5Zw?oc=5",
+      "snippet": "India busts scam network, rescues 164 trafficked foreigners Gulf News",
+      "publishedAt": "2026-11-27T15:01:27.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1
     },

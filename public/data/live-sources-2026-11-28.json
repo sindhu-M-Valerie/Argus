@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:30:14.032Z",
+  "generatedAt": "2026-11-28T08:12:53.985Z",
   "snapshot": true,
   "date": "2026-11-28",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 6
+    "total": 22
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,28 +58,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 78
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 65
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -181,6 +181,96 @@
     }
   ],
   "data": [
+    {
+      "title": "PM Modi's Canada agenda packs nuclear push, counter-terror drive - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGxGWFQ3ajctcFF4QlM5MjNxQ0pqUC15b3ZxNGJLMjI3bWNCSlpjaDRwaUNySkJxbmVvVS0ycDVTN1hYVzNjLXh5ZW00UndYTTBXcDZvWjBxak53QnlfVEhHdWhMdFl6Z3YwT1NFeEx2cFc0SG9PLWx4MW9OT0h1V04wTE5aMFZRYUFFaHAwdEppZUkxWVdYbU9RcHJJWUxHa0EzZmlMRzhYUFExLUpyNWMyWWNBQ1p5NGttX3B3ODd2YW81YmfSAcsBQVVfeXFMTnlWMTJ0cENZcUZMa3I1S2lBd1J3cnl3aEZtdkNQbjRwVXRpZkdNaUtLRm1fMW9uQ1hHZ19GQzNKLUpzd3FJbmNLR3h5MExzOFJGcWhiUVNQLV9SeWowMlo0QW03VVY2WTlLeVg1czhjZE9HOEZINEtvYzRoUDZGTVo3M09MTG5OVUhfa1drS19jYWw4LVJSOE9PNlkwRU9GVG1MQmVXZmlrekFFUzNjNUk1OFVXUXlYTERSV0N5enhlLXg3cmtpa3ItWm8?oc=5",
+      "snippet": "PM Modi's Canada agenda packs nuclear push, counter-terror drive The Economic Times",
+      "publishedAt": "2026-11-27T18:50:39.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Binance, IWF Team to Flag Crypto Child Abuse Payments - Briefs Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUU5OSGVxRk9oQmZLa0tucUhCa2dLQnJWWW1XcllVVE02YjVQT0N1elZfal93M2pFRkt2V3VDWkh3cHNCZEc4YU1ORFQ4ZDZjM2VfaFhDWGtvSTBtb0pnWEl5RC1KeV95OG96SGd1WFdheDRJdkZ5WU5OTTVoVUc0eW1aeHdCbFMzTlh4MHBQRmhKZw?oc=5",
+      "snippet": "Binance, IWF Team to Flag Crypto Child Abuse Payments Briefs Finance",
+      "publishedAt": "2026-11-28T02:29:11.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Three-day AFP blitz nails alleged child abuser - News24",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObmE1R3AwWE0xbUYyNDJlTkF5VU9ORjZNRFJnWXZJY3ZoZThram5tV0JVVTBKSzkyQXM2VE9BVUd6dGx6UGFRcGVwZUQ4NHFZZDY0YzlGV0drTjE2Z21ncHdmYlA1T3p2Q1BPU2stVFJKdkx2MUxqVWpYWTZJM1NrcW5pbG9DLXpRejdpNW02UUYxdld0UGNWS2RIY1dWTUpuUjVNY0NMQ01EM3dSMVljMFJiWG93eUs1RkRibnVkSFp0RUhvUUFsZ3JCUGplZ0huNEpPOG5VbkpFbktGRVJmbktSMnBIRUxNb0JzMlJjV0dBLXdWZDk3cFVDR1NEbFhvQmhtV3ZacTV0TmI3X2dfMnZrdWEtTWVs0gGeAkFVX3lxTE4wNzhDZnU3VWlEb09aYVNURnowcG5nb1ZBZDl4cjRoeWh5X1RSUlZoUGlDYlV4ckpOR0c5ekxLWWVobmFfN2IyUnVLak82OUlSaHJmZF9LSkJJQlhLLUtEUEtyZmpsVnJUU1JQbW96MkdITWx5dVhCdmVVRV9Hc2NkX3RQTy1CcXJyS3c1Vlh2ZHp2LV9rdmIwMnNDWV9GSllVQ1d0ZGQ4UGpoYURlcXhicUJlT0dnOHVIVmFFUE9DYlVXSUlUVWpNSGU5ZElPR3BHLTBpQlhaWl91eFllME5hYTQ2eGtGTXJQNFhQMGtUZVBVWk1kYjNFNE9GcWhZY0FySlVOSVYyWHJrb21kZkt4NmItYXdkQkVuM2ctdEE?oc=5",
+      "snippet": "Three-day AFP blitz nails alleged child abuser News24",
+      "publishedAt": "2026-11-28T01:37:59.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi teachers to be trained to identify child abuse, tackle online exploitation - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMmpKM3A0WEJxSjl3T0l6a2F3d1dEQzRjaVoyNVl1QjNVZXgzWTdSd1dlLTFFQVRpMWg2akJHTFNZVkk0XzJhaW1CTDdtZ3ZTMmVndmFTUTFhT19Oay1qUXdsNml4X2ZtUWlPTWFTNWRua3NOa19WYVBPVzhOMTlhNjh0MV9wZ1BFM2hNdDhVcmNxSGk0SzNIMUJtVzF2djFpemZ2WWR6bzlyOVlzZTc1Ui1PRVNjSk5BbEpYMEVhUk3SAcABQVVfeXFMTTJqSjNwNFhCcUo5d09Jemthd3dXREM0Y2laMjVZdUIzVWV4M1k3UndXZS0xRUFUaTFoNmpCR0xTWVZJNF8yYWltQkw3bWd2UzJlZ3ZhU1ExYU9fTmstalF3bDZpeF9mbVFpT01hUzVkbmtzTmtfVmFQT1c4TjE5YTY4dDFfcGdQRTNoTXQ4VXJjcUhpNEszSDFCbVcxdnYxaXpmdllkem85cjlZc2U3NVItT0VTY0pOQWxKWDBFYVJN?oc=5",
+      "snippet": "Delhi teachers to be trained to identify child abuse, tackle online exploitation The Tribune",
+      "publishedAt": "2026-11-28T00:29:14.000Z",
+      "source": "Google News • Online Exploitation (India)",
+      "theme": "child-abuse-nudity",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Did Burj Khalifa Collapse After Dubai Earthquake? Fact Check - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlpaMjFDRHFuZUhmQS1Rb2NHNmhSTmxteVFhQldMVEtZdmdsSTdqWTB1NmZLbEtHZGFKWk05aFVEZGhSZ18tR2trSG9zVmdJQXAxbnZXdXlENnYweTBqTndrS1pFaUJFTEt1clVDNWliUmVRSDRFTzRkZGxaMV9feXBYSXR6cncwM2pDQTQyNzZoQU9qcUg2c1ZtUUJKZU9uOUpRbTc3SVh1b0FoTUx2NHk4ZlZMaTVzWWNvMGJyLWhMd9IBxwFBVV95cUxNV0dKM2VsMTFfWEJzRGsxY0poNDVaQzdmZ01lOXhHelJ0VXJSalJuUFNpSXJuWXY1UDFiaXhER1FSYkMzWkVMYjVXSlZmdXk0ZU1PVTFmajNJTkVmakVGM1l2eUdOOTA1d0VkcGVuRXo0SWM0YjVDdDJxMHBOWDc2djZZWTlCN0l5WktMX2tJcDVrUWZvWGNDNzA1bjR3NzJFM05uRTJ1NkNjeV9DeW1JWGI3NjRVaGIySFVnNmhQN0taOGZ1bHY0?oc=5",
+      "snippet": "Did Burj Khalifa Collapse After Dubai Earthquake? Fact Check Times Now",
+      "publishedAt": "2026-11-27T22:38:01.000Z",
+      "source": "Google News • Fact Check (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Survivors of sexual abuse told lawmakers about their experiences on Roblox - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORjMyVm5DV29udDBqNUlqemxHRml3YUFZaGFrV29nMFdZbEx1UlVpY3U1Nm4wUXQyRF9YN2w1QjlOWDBSQmVjQldYVm5FVElCc3A0a21FNUsyQnVucy1EZmpUTDFCYVVfbW5lYkFIMFpZSkFuMDlmM3dtMGp1Z2ZFZUZxM0l3LTFfZ251cExrZ295YTJFZG1lR0M3ZmdFRFpqTDBGUF84NlJqRXcyVHIwUEI2eEw3SlIyYS1R?oc=5",
+      "snippet": "Survivors of sexual abuse told lawmakers about their experiences on Roblox NPR",
+      "publishedAt": "2026-11-27T21:47:52.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
     {
       "title": "Paedophile who gave himself vile nickname jailed for child abuse - Yorkshire Live",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTm93clZNYjdqMEM3LTJvell3dnZ3cFUwNHg1MzVYcXZKME9IU1Vlb0pJTk4tYlIzY1lyd3plZzlxVE53UC0tdk1XOVJCZnZvcmZ3U29PVTBQdE5xVkE4RUJBY1M2UTlhczZQcHlsczVSZEVJdmZtNldUbU92cGNPOUdmZEhrU0VxOF9PbVNkWWt5elE?oc=5",
@@ -212,6 +302,66 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Mohammed Zubair once again under fire for spreading fake news - OpIndia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0xESEwycFZhLWFUOFdWa09JXzA2SVY1Z1gzcVlZUE9EelIwQU5WRW9sMFh2VUMzX1h4ekRvMTZzNUF0UHdkSGE1NWFmb3gtNnBhQ2F6SGJFaEM3MG1WdlhTc1g2bG80R29rSTRQcVBoYmhFQmpzd1lkbDgyWDNaMk11RmpoOXM?oc=5",
+      "snippet": "Mohammed Zubair once again under fire for spreading fake news OpIndia",
+      "publishedAt": "2026-11-28T07:16:21.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Trump Administration Relaunches USAID Website With Internal Emails On Disinformation, Social Media - Outlook India",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTFE5aXZ6VjM0NkVETU9NeFBXdXhoUXQyRFdmcVZaVzVmWk5HaUVNVHNoaE5BZm1QRTMzUXhNS0xhYjZ3TGdrR3dncVJwLXNwMXY4bHN3V0VUQ2xaNjh3VHBCNUJwUkNVRGFqdXFKdmMzT29mbDVxejlKeHA2QTB1OUpMaWd1a2VSRDdicTA3WmpzdEJZTllTd1ZoVkIweHMzNTFqQV92OVc1LTFlYWhpWHpMbE1vVUF3NEpMamh0bVo3YmNwWExMUEx2QUhYZ0lwZW9j0gHgAUFVX3lxTE1zNXVFSjB0V0VwMXlMLVBfaGN1ZFF6Nlh3Q2J5VmNZWGtDWk5QdWtmVXplcU1RaGQ4a3dWN0dQNGVuUEFLQlpxSmdhSWZ2YjgxVUNrU2psczdnY0hSa3N4VGlubHBoMnZ6V2ZadVl3NTI2YWxoU1NobDBKQkFWdHZKaWdvdldQRGdzWl9OQS1QSm5zV2lEX0ZLbmhaOXFIR3MwNURHWFR2WDNfc3YwN2tZY2JPenBaNmVOalNKN2RTam01Y2VvcFl4SHA4OFdGWFNyV21IcldrUkViYjU3VFlx?oc=5",
+      "snippet": "Trump Administration Relaunches USAID Website With Internal Emails On Disinformation, Social Media Outlook India",
+      "publishedAt": "2026-11-28T06:07:42.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi terror plot: Suspected JeM operative arrested - News Karnataka",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjR3SWVhMlBVbzd0blE0dTd4ejhhbzJQaUdvSzJnd2RXaDI3UnFIZzN2ZkdJeXl4ajBuclRscVlUZHVfbGVZUVlfSkxWVTRYeldmZXBGTGxCazdCNGFHX1hEWjFsSC1Bb2lSOVd4YmFZVzYyLVR2cnc5aVRMbUdJT3pTNzk2cWk1WWQ4RlhZcWtPU21OZ0t3?oc=5",
+      "snippet": "Delhi terror plot: Suspected JeM operative arrested News Karnataka",
+      "publishedAt": "2026-11-28T04:09:17.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Trump administration relaunches USAID website with internal emails, disinformation records | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0ZRV1JHeWZmaGhQMGxpbzJBT2puVTRScUcyYWpHNXhqS0pKa3VWMTVyQkZ1by13VkNVbENCMzBVWk9yOWhlZGt1MnZIdGk5VDNiOTJWVmhORGZGMXdnUmdJREpIUHJ6VHA3YzlyMGJWenJzb3dSVS1CdEZ1djBfc2lrX011UHJzTlZVMk05Rk1UTFBSX29ISzBfMl9MNFFqTmZ1LUhGMExmUXVxekVYTXNxT0ZSTThGMFJkM0VFeU9peExoZWxjQjBTUnpHLUZILTN0NDE5NHNfc01kRm9LUkJzdFdhR01HRkJ5NDFpcS0xVVdCOWVmcU5rU2dfc0Mw0gGAAkFVX3lxTE9nRlFXUkd5ZmZoaFAwbGlvMkFPam5VNFJxRzJhakc1eGpLSkprdVYxNXJCRnVvLXdWQ1VsQ0IzMFVaT3I5aGVka3Uydkh0aTlUM2I5MlZWaE5EZkYxd2dSZ0lESkhQcnpUcDdjOXIwYlZ6cnNvd1JVLUJ0RnV2MF9zaWtfTXVQcnNOVlUyTTlGTVRMUFJfb0hLMF8yX0w0UWpOZnUtSEYwTGZRdXF6RVhNc3FPRlJNOEYwUmQzRUV5T2l4TGhlbGNCMFNSekctRkgtM3Q0MTk0c19zTWRGb0tSQnN0V2FHTUdGQnk0MWlxLTFVV0I5ZWZxTmtTZ19zQzA?oc=5",
+      "snippet": "Trump administration relaunches USAID website with internal emails, disinformation records | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-11-28T03:13:23.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "BJP spreading misinformation over my Rafale remarks: Negi | Hindustan Times - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcTBQN2RhbEkxRmtVZUZNYTFxaUw4ZEVtTmNVdk95QlVFVzU3NmlKVlpYVmlTX250OVdEREV3S3d0MkJHYmxtQTNoOE5rRWRiM1JoSWRrRVJlZXdodFV1aGNHZVQwV3BsUHJaNHJoY29NTzhpOHpqMlhvdkMtN0RPV0pBX29MWFFXanFmUjhzQmM4RmpzNlQ2MEZRNDZSa21TdnVzWHlINWYyajNkNWkxZUM4S0hqMkJxYWZhVGZXZEtsNzdzUjc0M19pTXdXWU5L0gHQAUFVX3lxTE9xMFA3ZGFsSTFGa1VlRk1hMXFpTDhkRW1OY1V2T3lCVUVXNTc2aUpWWlhWaVNfbnQ5V0RERXdLd3QyQkdibG1BM2g4TmtFZGIzUmhJZGtFUmVld2h0VXVoY0dlVDBXcGxQclo0cmhjb01POGk4emoyWG92Qy03RE9XSkFfb0xYUVdqcWZSOHNCYzhGanM2VDYwRlE0NlJrbVN2dXNYeUg1ZjJqM2Q1aTFlQzhLSGoyQnFhZmFUZldkS2w3N3NSNzQzX2lNd1dZTks?oc=5",
       "snippet": "BJP spreading misinformation over my Rafale remarks: Negi | Hindustan Times Hindustan Times",
@@ -222,6 +372,96 @@
       "provenance": "historical-archive",
       "feedTheme": "dangerous-misinformation",
       "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "BJP spreading misinformation over my Rafale remarks: Negi | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGRhYkdKMHpabDJSQTZMZWM4ZG1tYnJzaDNWSGJrR2JpRzBJMFpqMlNGVUJDZDE0SFNVanJPWG4tdzVJeWtJYXFmUmpqdG1HYlFlc29sMzVZM3Rwb3NTTl8yaDlPWWNlcGhVc3VjdXVFbVY0LUFCWi1GSW9YVVFhUWt0TS12eG1pRkJEWUUycEloczRQakh3bWVMR2llb05SbVExOE9NTUh3UHdkSjBwUVF3S3J5cFhMZktMeTVCQ1U4SGZ5bWxrOWo2Z9IB0AFBVV95cUxPcTBQN2RhbEkxRmtVZUZNYTFxaUw4ZEVtTmNVdk95QlVFVzU3NmlKVlpYVmlTX250OVdEREV3S3d0MkJHYmxtQTNoOE5rRWRiM1JoSWRrRVJlZXdodFV1aGNHZVQwV3BsUHJaNHJoY29NTzhpOHpqMlhvdkMtN0RPV0pBX29MWFFXanFmUjhzQmM4RmpzNlQ2MEZRNDZSa21TdnVzWHlINWYyajNkNWkxZUM4S0hqMkJxYWZhVGZXZEtsNzdzUjc0M19pTXdXWU5L?oc=5",
+      "snippet": "BJP spreading misinformation over my Rafale remarks: Negi | Hindustan Times Hindustan Times",
+      "publishedAt": "2026-11-27T18:48:54.000Z",
+      "source": "Google News • Misinformation (India)",
+      "theme": "dangerous-misinformation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "dangerous-misinformation",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Confident but still caught: 70% of Malaysians who encounter a scam attempt still interact with it, says report - AsiaOne.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjVXM0M4UWFtR2ZMb2k5d2d6am5jS1RzU215SHZ1THdYRG5IOXZreEV5c1RpUmlSNEh5cnZOdlJyU2lUSTgxU0xFV2daTlQ0Tm9COGt5T2lEcmdMd3dReVpsa0pvcnQ4SHA1Rzd6VUtrVE5NV1dLWEhERGRZZWtXLTB3ZWdlcG1SMnU3ajVMU3hNQQ?oc=5",
+      "snippet": "Confident but still caught: 70% of Malaysians who encounter a scam attempt still interact with it, says report AsiaOne.com",
+      "publishedAt": "2026-11-28T01:40:00.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Gujarat Cyber Police Bust ₹8.46 Crore Interstate Cyber Fraud Syndicate, Arrest 13. India's Growing Cyber Fraud Crisis - Inventiva",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObFJOQmpTM1JDdV9waHhWT2pZNHUxT2tWTmVTLTJ1cWMzX0lER0RKbzBLejdJM0ViMFVnVGp3NjFZRExkTXZJSHl3azR1cTA1VUJteTl1Y21aVEEyUW96Y2dvZ2VoR3ZLaUtlXy1OSmdPNzZaakdvalMzcTc2dmtuRi1JWmFNeHk5R2E5MWtmdy1mcmhFOWZWS1g1d2Q2WE5Tbnd6bDl5WGRBeUx3UGdhVWVfal9fZXp2b2tWS0VVUWM1X1lrc01DcXI2Yl9aYmFCcDZhWkM2TG53SW53S3ozTVY1cEFvdVhZSTl2bDkxZw?oc=5",
+      "snippet": "Gujarat Cyber Police Bust ₹8.46 Crore Interstate Cyber Fraud Syndicate, Arrest 13. India's Growing Cyber Fraud Crisis Inventiva",
+      "publishedAt": "2026-11-28T00:39:27.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Phishing Pages Built With Hugging Face AI Tool - Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3R4RnRuU2hkSHlUMktoc0NoY2FsZ0RfdDFWS25vSGQ4cmQyNHFDT0hRZEk4V3JyMEh6VWI4ejNXakMzT05wZjdkS2dyZDlVQThjclJCV1U5OU9xdGRaZHlNODU2aUMyd1FGNzBZdmtFaHZtdVVWaGRkQzl0RnZmeTQ1cw?oc=5",
+      "snippet": "Phishing Pages Built With Hugging Face AI Tool Wisevoter",
+      "publishedAt": "2026-11-27T21:38:09.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Top Cybersecurity Companies in India 2026: Leaders & Startups - Business Outreach Magazine",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hTGIyOHBYWGFtaTJvZ2FMMUZZQlZEV2U0T0pxeUE5dEQ5Tm8xZWpsb3piYmtzZXEydXNZRlE1Szc0RFE5a2F4N3Y2cmZkVkVuS2NrQ3NIQm1EaGdyY3ltVjZWb0VTMjJtNWVKX0dOemZSQjUxOENjUw?oc=5",
+      "snippet": "Top Cybersecurity Companies in India 2026: Leaders & Startups Business Outreach Magazine",
+      "publishedAt": "2026-11-28T04:14:05.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Editorial | Hong Kong must work harder to lock out cyberattackers - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3RoTVhhclZPdHhtYkp2ZVdUTUhFcGNxQ09VMGtDQ3Q0WDV6TW9FS2lxWFFidk5UZy1lcG9idHdudXBjMF9VQkdZZHVwTlhoSnZGOHZyR2ZYaXJWQ25qZlpQMExjckNDOXJfTjFZRVNhYlZmN2NxaE5OWjE0XzZralozMmNRaTJlanJ2bXNtN3U3ZkpKTFFKZDlTX3lfTS1XM2x5M2JB0gGmAUFVX3lxTE1LdGhNWGFyVk90eG1iSnZlV1RNSEVwY3FDT1Uwa0NDdDRYNXpNb0VLaXFYUWJ2TlRnLWVwb2J0d251cGMwX1VCR1lkdXBOWGhKdkY4dnJHZlhpclZDbmpmWlAwTGNyQ0M5cl9OMVlFU2FiVmY3Y3FoTk5aMTRfNmtqWjMyY1FpMmVqcnZtc203dTdmSkpMUUpkOVNfeV9NLVczbHkzYkE?oc=5",
+      "snippet": "Editorial | Hong Kong must work harder to lock out cyberattackers South China Morning Post",
+      "publishedAt": "2026-11-27T23:15:08.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
       "corroboratedBy": 1

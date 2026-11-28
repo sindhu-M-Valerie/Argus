@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:30:14.032Z",
+  "generatedAt": "2026-11-28T08:12:53.985Z",
   "snapshot": true,
   "date": "2026-11-27",
   "filters": {
@@ -7,7 +7,7 @@
     "type": "news"
   },
   "stats": {
-    "total": 98
+    "total": 103
   },
   "message": null,
   "sourceStatus": [
@@ -16,14 +16,14 @@
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,28 +58,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 78
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 65
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -275,12 +275,12 @@
       "title": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part III – Implications and Future Directions - Global Network on Extremism and Technology",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMnF2LVJoeHdnLUVTQTVFMkZodVg5M1lWQWxSTHFaU2ZZcTFDMTBXdDk3aWNXT2QtOE5Ra3p3ZzJ3YWhDSVQxR0RmcllhWjFCbTEtWVEzQkxZSzZhQVNLdVM4bXE3YzZlNnlsaGp6aTRsdHBaWjBDZUgwdzNyOFNOTFJ2TUo3LXhGTWtQd3R1UG5qdU9pVmdZQTM1bEMxSk1oQ3B3dW54QkQ3bUk0S0Q1WUpaYUgyb0syYjduZmdHY29pM2cxODFUNUtaS2NsVHdncENaQUxKaEhBTVdqcTVCLUNUSGJWUWtBYXpLaQ?oc=5",
       "snippet": "Understanding Violent and Non-Violent Right-Wing Extremist Activity Online: Part III – Implications and Future Directions Global Network on Extremism and Technology",
-      "publishedAt": "2026-11-27T16:38:54.000Z",
-      "source": "Google News • Child Abuse and Nudity Safety",
+      "publishedAt": "2026-11-27T16:42:17.000Z",
+      "source": "Google News • Dangerous Criminal Organizations",
       "theme": "tvec",
       "type": "News",
-      "provenance": "historical-archive",
-      "feedTheme": "child-abuse-nudity",
+      "provenance": "live-feed",
+      "feedTheme": "dangerous-organizations",
       "riskScore": 56,
       "confidence": "Medium",
       "severity": "Medium",
@@ -452,6 +452,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "India busts scam network, rescues 164 trafficked foreigners - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkhIdHAwZy0tSjJINmI3VjdjWExlVWdBU19Db1diYjE2R0hITWNBM2tkN2t4NzBTYkt5UUJsbnl0blB6ZVhsT01QNnQxeEJWVnhsR0VNbkttdmhGdi1iX1QtRE9wckRJeGUwYlFJYjR3TjFjNlRzdkUzemRpZ1JDZThleGFtZVA0Y1M5QUQyUHlOeDZTeDdBbTFYWXlRSnMySFNXcUhoMUdRSnZSTWQzbnFPUmxjR1NSMlNDVTRNMTE5Z9IBwgFBVV95cUxNVkhIdHAwZy0tSjJINmI3VjdjWExlVWdBU19Db1diYjE2R0hITWNBM2tkN2t4NzBTYkt5UUJsbnl0blB6ZVhsT01QNnQxeEJWVnhsR0VNbkttdmhGdi1iX1QtRE9wckRJeGUwYlFJYjR3TjFjNlRzdkUzemRpZ1JDZThleGFtZVA0Y1M5QUQyUHlOeDZTeDdBbTFYWXlRSnMySFNXcUhoMUdRSnZSTWQzbnFPUmxjR1NSMlNDVTRNMTE5Zw?oc=5",
+      "snippet": "India busts scam network, rescues 164 trafficked foreigners Gulf News",
+      "publishedAt": "2026-11-27T15:01:27.000Z",
+      "source": "Google News • Human Trafficking (South Asia)",
+      "theme": "human-trafficking",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "human-trafficking",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Old video of Yogi Adityanath attending BJP leader's daughter's wedding resurfaced with false claim - Press Trust of India",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSU1TZXpkUUx1eUd4MlplTzdpaS1RLWNFbW9zaUw4VXlWZS0ybTNMWVN0djI5TnNNTmwxVXdIdVZVVmZoY2Y0a0FCUXFpT3Z5d05ZR0pERWlfRXd4SjB5YVJGWHBoSXYzTWlidXhRclIzRnhKeGh5S0FPX28tSFRCdG43VExCWmpYbEtLc21iM0k5ZmNJWG9VQm1pNEZBdGVBZ1JDaExJREx6eHYwS3dhUFpJaU4tQzUwWHFVMFpFdmNMbW5KUTVqZnBKaWZxYzVBcmd1QWJFOA?oc=5",
       "snippet": "Old video of Yogi Adityanath attending BJP leader's daughter's wedding resurfaced with false claim Press Trust of India",
@@ -512,6 +527,21 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Education: Rising threat of online child exploitation worrie - NewVision.co.ug",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1Noc09uQXZVY0ZDUngtSkRJRklwM1I1VnFhWS01bW9GZmVnUGZHbXplOWZlVlc5b0FLUXJVcE1GNzRhRmpObi1VbjZCd3Fla1dBNmxIR2ZYdDI3QXVmWGVxbjlDR1dxbzd5S2YwR1Y4OVY0dUl4QTJWUWhHTTA2WHhOUms3SXNjRHFpRE9CV3c4ZnNxSmtVMDFqbmhuTE11a2JySVMwVVd6U3A3bmc?oc=5",
+      "snippet": "Education: Rising threat of online child exploitation worrie NewVision.co.ug",
+      "publishedAt": "2026-11-27T13:00:05.000Z",
+      "source": "Google News • Sexual Exploitation Online",
+      "theme": "sexual-exploitation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "sexual-exploitation",
+      "riskScore": 52,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Kingkay recovery reviews: How to recover money stolen by online scammers - Cyprus Mail",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1ZmZEVtRDBYeHEyTWpWRF9CaXJnN0IxWEtPbFZyQk1WMnNBQmQxcVhkX3dScFRXbEZJV2RGN21IbXMyb1RJMV95RGc4Z1VhcWZUU201UjMtcEQ2Vm9RVGdVbFZubnBvcHBfYnk0WHB1bFRRaVN2R25tdi1MYTZWeVZuWDNEZ2xrZE5HSHlvUjM4MW8tWHNZTmdBaW9qUW5mMTd5dXlhZllWdw?oc=5",
       "snippet": "Kingkay recovery reviews: How to recover money stolen by online scammers Cyprus Mail",
@@ -557,12 +587,12 @@
       "corroboratedBy": 1
     },
     {
-      "title": "Education: Rising threat of online child exploitation worrie - NewVision.co.ug",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1Noc09uQXZVY0ZDUngtSkRJRklwM1I1VnFhWS01bW9GZmVnUGZHbXplOWZlVlc5b0FLUXJVcE1GNzRhRmpObi1VbjZCd3Fla1dBNmxIR2ZYdDI3QXVmWGVxbjlDR1dxbzd5S2YwR1Y4OVY0dUl4QTJWUWhHTTA2WHhOUms3SXNjRHFpRE9CV3c4ZnNxSmtVMDFqbmhuTE11a2JySVMwVVd6U3A3bmc?oc=5",
-      "snippet": "Education: Rising threat of online child exploitation worrie NewVision.co.ug",
-      "publishedAt": "2026-11-27T09:00:05.000Z",
+      "title": "International child abuse investigations lead to Far North Queensland arrests - ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUFJMTI3QmkyZzdyMDdpVFRWeW5EWjU4VzRiR21kNGE1T2VaYzZGbUVsbWhiZk5BRzVRMExoM0U0d01lWkxPd2xDcEE3dUlzZWNYc2d3WGw4Q2pFQmpuWjI2Y1FCNVBRRm9XSlBDeE5RSzQ1UW9CVTRuaG42SE5ycWZ2VWR4Z0FldjhRd2R5Yk91UkNwME5PSW5oMkttSGFDR1VQUnJKNTUtVUlHMkNF?oc=5",
+      "snippet": "International child abuse investigations lead to Far North Queensland arrests ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-11-27T08:07:22.000Z",
       "source": "Google News • Sexual Exploitation Online",
-      "theme": "sexual-exploitation",
+      "theme": "child-abuse-nudity",
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "sexual-exploitation",
@@ -1217,10 +1247,25 @@
       "corroboratedBy": 1
     },
     {
+      "title": "Black Friday phishing attacks nearly triple in 2026, reaching 19 million, Kaspersky reports - dailynews.co.za",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWC1RWHJwQTd5QU9UOW9rX0FteEJLbHkyOEtOdlBkZjVlWHRPS3VWYTVlS0hJMmhRMS1qY2JROWtGU29iQVJaSGk3bkRGTDRWR3NlWkplNi1sT1R4UE9VU2hPeXpmRFY2YWJtanJYdkloTmZDeUtBNnJuMUpRQUxYNXU3NjljZkl4dEludmJITXZoUUxwMXhPQ1A5Rlo0QTZTWl9pYlpNZmpVN1l0c0Qwdk9HRjdOazNPRUJnTnhUeUNyZlgxUGNaWmo1bUdLcUtNcWFuNDM3VjNxdy1VS29TZXpn?oc=5",
+      "snippet": "Black Friday phishing attacks nearly triple in 2026, reaching 19 million, Kaspersky reports dailynews.co.za",
+      "publishedAt": "2026-11-26T22:39:08.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "fraud-impersonation",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
+      "riskScore": 44,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
       "title": "Online shopping scams get faster and smarter this holiday season as AI helps build fake storefronts - News Channel 5 Nashville",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeEdERlNJZlRCekI5VUxWR19uV185Nkt4Nm9fY3o4NUJBVWZFYVg1a1JITmpPWUpZX3RTZE1MeFJhcXhWcTdKeExRTzdMMmxJd0ttemVDZXJXVFlRSnVoZmE2T0tVUjVsWE43eFJlWmFWcTdHSDB5M2xZUm9McHA2U2RBSlhpM05VY0NRMWs2WFNWTlRoVkZDSkpnbU1PMHFzZllRai1FWGlBVk9mTnJaNDJYdFdLNnNMRGJlbFNKQjFyNG95eUhnYjdJT1Q0U2R2RkFCYkxJVHpMRUU?oc=5",
       "snippet": "Online shopping scams get faster and smarter this holiday season as AI helps build fake storefronts News Channel 5 Nashville",
-      "publishedAt": "2026-11-26T19:30:00.000Z",
+      "publishedAt": "2026-11-26T19:53:20.000Z",
       "source": "Google News • Fraud and Impersonation",
       "theme": "fraud-impersonation",
       "type": "News",
@@ -1271,6 +1316,21 @@
       "type": "News",
       "provenance": "historical-archive",
       "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "CITAD unveils toolkit to tackle online abuse against women - SolaceBase",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWdEb3prZGtSTUQxNnJINExEbkp4Mmg4OE9WamR3Wm9KbEVJTjNkX1hSMWlkbmdNUnFmTE5XdEZjbEs2TFQ4NUVvU1NZeUxWOW5PcEQ1dXBaYjNpdy13R2FHMm1XNUdUUkxleDB4N1FVeEtYY3JZWnlpd0RfNk03VTRKUndNcDlHRGc?oc=5",
+      "snippet": "CITAD unveils toolkit to tackle online abuse against women SolaceBase",
+      "publishedAt": "2026-11-27T16:33:09.000Z",
+      "source": "Google News • Fraud and Impersonation",
+      "theme": "harassment-bullying",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "fraud-impersonation",
       "riskScore": 40,
       "confidence": "Low",
       "severity": "Medium",
@@ -1431,6 +1491,21 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80MDBucktPZENnQlNKdGFJRnc5YmxGMU8tUjcxYzBQUXBuM3ZaYm5XUTJEV3pfMHk5Z0lyMTRvZzdhLWs1SkVobjdFNWFGRUZVbVpqblFqZUpGWFZFb1pWNll3RTQ0S2I3NkptbF93?oc=5",
       "snippet": "Quest Diagnostics hacked: what happened, is your data exposed and what to do 2-Spyware",
       "publishedAt": "2026-11-27T11:43:30.000Z",
+      "source": "Google News • Cybersecurity Incidents",
+      "theme": "cybersecurity",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "cybersecurity",
+      "riskScore": 40,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Cyberattack on AFP: AFP Forum platform out of service - SecNews.gr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OZkdzZ2F4Vnd3c2xFbFpqMjBrc21ZUURTWi1OWDR4TEY5RHBENkNrX2hxMENOeHVUdjJSQURSMUtjS1J5eXQtS0ZibnllUERDc3p0em9xaDFxU2hsWTF4Rk5ZMU5HalpkbmJFUU1seWEyUFVSZHc?oc=5",
+      "snippet": "Cyberattack on AFP: AFP Forum platform out of service SecNews.gr",
+      "publishedAt": "2026-11-27T11:13:00.000Z",
       "source": "Google News • Cybersecurity Incidents",
       "theme": "cybersecurity",
       "type": "News",

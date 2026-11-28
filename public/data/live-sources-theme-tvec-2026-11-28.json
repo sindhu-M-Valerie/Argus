@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:30:14.032Z",
+  "generatedAt": "2026-11-28T08:12:53.985Z",
   "snapshot": true,
   "date": "2026-11-28",
   "filters": {
@@ -7,23 +7,23 @@
     "type": "news"
   },
   "stats": {
-    "total": 0
+    "total": 2
   },
-  "message": "No verified news was found for 2026-11-28 on tvec.",
+  "message": null,
   "sourceStatus": [
     {
       "label": "Google News • Violence and Violent Crime",
       "theme": "violence",
       "type": "News",
       "status": "online",
-      "itemCount": 73
+      "itemCount": 34
     },
     {
       "label": "Google News • Child Abuse and Nudity Safety",
       "theme": "child-abuse-nudity",
       "type": "News",
       "status": "online",
-      "itemCount": 32
+      "itemCount": 27
     },
     {
       "label": "Google News • Sexual Exploitation Online",
@@ -44,7 +44,7 @@
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 47
     },
     {
       "label": "Google News • Fact Check (India)",
@@ -58,28 +58,28 @@
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 100
+      "itemCount": 37
     },
     {
       "label": "Google News • Online Exploitation (India)",
       "theme": "sexual-exploitation",
       "type": "News",
       "status": "online",
-      "itemCount": 52
+      "itemCount": 53
     },
     {
       "label": "Google News • Suicide and Self-Harm (India)",
       "theme": "suicide-self-harm",
       "type": "News",
       "status": "online",
-      "itemCount": 23
+      "itemCount": 79
     },
     {
       "label": "Google News • Violent Speech (India)",
       "theme": "violent-speech",
       "type": "News",
       "status": "online",
-      "itemCount": 78
+      "itemCount": 33
     },
     {
       "label": "Google News • TVEC Terrorism (India)",
@@ -93,14 +93,14 @@
       "theme": "illegal-goods",
       "type": "News",
       "status": "online",
-      "itemCount": 15
+      "itemCount": 78
     },
     {
       "label": "Google News • Human Trafficking (South Asia)",
       "theme": "human-trafficking",
       "type": "News",
       "status": "online",
-      "itemCount": 74
+      "itemCount": 34
     },
     {
       "label": "Google News • NCII / Revenge Porn (APAC)",
@@ -114,28 +114,28 @@
       "theme": "dangerous-organizations",
       "type": "News",
       "status": "online",
-      "itemCount": 75
+      "itemCount": 24
     },
     {
       "label": "Google News • Harassment and Bullying",
       "theme": "harassment-bullying",
       "type": "News",
       "status": "online",
-      "itemCount": 24
+      "itemCount": 72
     },
     {
       "label": "Google News • Dangerous Misinformation Endangerment",
       "theme": "dangerous-misinformation",
       "type": "News",
       "status": "online",
-      "itemCount": 35
+      "itemCount": 34
     },
     {
       "label": "Google News • Spam and Inauthentic Behavior",
       "theme": "spam-inauthentic",
       "type": "News",
       "status": "online",
-      "itemCount": 33
+      "itemCount": 65
     },
     {
       "label": "Google News • Malware and Abuseware Campaigns",
@@ -156,7 +156,7 @@
       "theme": "fraud-impersonation",
       "type": "News",
       "status": "online",
-      "itemCount": 80
+      "itemCount": 33
     },
     {
       "label": "PIB Fact Check",
@@ -180,5 +180,36 @@
       "itemCount": 0
     }
   ],
-  "data": []
+  "data": [
+    {
+      "title": "PM Modi's Canada agenda packs nuclear push, counter-terror drive - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGxGWFQ3ajctcFF4QlM5MjNxQ0pqUC15b3ZxNGJLMjI3bWNCSlpjaDRwaUNySkJxbmVvVS0ycDVTN1hYVzNjLXh5ZW00UndYTTBXcDZvWjBxak53QnlfVEhHdWhMdFl6Z3YwT1NFeEx2cFc0SG9PLWx4MW9OT0h1V04wTE5aMFZRYUFFaHAwdEppZUkxWVdYbU9RcHJJWUxHa0EzZmlMRzhYUFExLUpyNWMyWWNBQ1p5NGttX3B3ODd2YW81YmfSAcsBQVVfeXFMTnlWMTJ0cENZcUZMa3I1S2lBd1J3cnl3aEZtdkNQbjRwVXRpZkdNaUtLRm1fMW9uQ1hHZ19GQzNKLUpzd3FJbmNLR3h5MExzOFJGcWhiUVNQLV9SeWowMlo0QW03VVY2WTlLeVg1czhjZE9HOEZINEtvYzRoUDZGTVo3M09MTG5OVUhfa1drS19jYWw4LVJSOE9PNlkwRU9GVG1MQmVXZmlrekFFUzNjNUk1OFVXUXlYTERSV0N5enhlLXg3cmtpa3ItWm8?oc=5",
+      "snippet": "PM Modi's Canada agenda packs nuclear push, counter-terror drive The Economic Times",
+      "publishedAt": "2026-11-27T18:50:39.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 56,
+      "confidence": "Medium",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    },
+    {
+      "title": "Delhi terror plot: Suspected JeM operative arrested - News Karnataka",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjR3SWVhMlBVbzd0blE0dTd4ejhhbzJQaUdvSzJnd2RXaDI3UnFIZzN2ZkdJeXl4ajBuclRscVlUZHVfbGVZUVlfSkxWVTRYeldmZXBGTGxCazdCNGFHX1hEWjFsSC1Bb2lSOVd4YmFZVzYyLVR2cnc5aVRMbUdJT3pTNzk2cWk1WWQ4RlhZcWtPU21OZ0t3?oc=5",
+      "snippet": "Delhi terror plot: Suspected JeM operative arrested News Karnataka",
+      "publishedAt": "2026-11-28T04:09:17.000Z",
+      "source": "Google News • TVEC Terrorism (India)",
+      "theme": "tvec",
+      "type": "News",
+      "provenance": "historical-archive",
+      "feedTheme": "tvec",
+      "riskScore": 48,
+      "confidence": "Low",
+      "severity": "Medium",
+      "corroboratedBy": 1
+    }
+  ]
 }
